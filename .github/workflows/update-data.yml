@@ -43,7 +43,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add halal_establishments.csv halal_establishments.json metadata.json
+        git add halal_establishments.csv halal_establishments.json metadata.json changelog.json
         git commit -m "Update halal establishments data - $(date '+%Y-%m-%d %H:%M:%S SGT')"
         git push
 
