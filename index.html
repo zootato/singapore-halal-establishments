@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Singapore Halal Establishments</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f5f5f5;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        h1 {
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            color: #7f8c8d;
+            font-size: 1.1em;
+        }
+
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .stat-card {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        .stat-number {
+            font-size: 2em;
+            font-weight: bold;
+            color: #27ae60;
+        }
+
+        .stat-label {
+            color: #7f8c8d;
+            margin-top: 5px;
+        }
+
+        .controls {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        .search-filters {
+            display: grid;
+            grid-template-columns: 2fr 1fr 1fr;
+            gap: 15px;
+            align-items: end;
+        }
+
+        input, select {
+            padding: 10px;
+            border: 2px solid #ddd;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+        input:focus, select:focus {
+            outline: none;
+            border-color: #3498db;
+        }
+
+        .download-buttons {
+            display: flex;
+            gap: 10px;
+            margin-top: 15px;
+        }
+
+        .btn {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 14px;
+            transition: background-color 0.3s;
+        }
+
+        .btn-primary {
+            background-color: #3498db;
+            color: white;
+        }
+
+        .btn-success {
+            background-color: #27ae60;
+            color: white;
+        }
+
+        .btn:hover {
+            opacity: 0.9;
+        }
+
+        .table-container {
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #eee;
+        }
+
+        th {
+            background-color: #f8f9fa;
+            font-weight: 600;
+            color: #2c3e50;
+            position: sticky;
+            top: 0;
+        }
+
+        tr:hover {
+            background-color: #f8f9fa;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #7f8c8d;
+        }
+
+        .type-badge {
+            background-color: #e9ecef;
+            color: #495057;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 0.8em;
+        }
+
+        .pagination {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+            margin-top: 20px;
+        }
+
+        .pagination button {
+            padding: 8px 12px;
+            border: 1px solid #ddd;
+            background: white;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        .pagination button:hover:not(:disabled) {
+            background-color: #f8f9fa;
+        }
+
+        .pagination button:disabled {
+            opacity: 0.5;
+            cursor: not-allowed;
+        }
+
+        .pagination .active {
+            background-color: #3498db;
+            color: white;
+            border-color: #3498db;
+        }
+
+        @media (max-width: 768px) {
+            .search-filters {
+                grid-template-columns: 1fr;
+            }
+
+            .download-buttons {
+                flex-direction: column;
+            }
+
+            table {
+                font-size: 14px;
+            }
+
+            th, td {
+                padding: 8px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🥘 Singapore Halal Establishments</h1>
+            <p class="subtitle">Complete directory of MUIS-certified halal establishments • Updated daily</p>
+        </header>
+
+        <div class="stats">
+            <div class="stat-card">
+                <div class="stat-number" id="totalCount">Loading...</div>
+                <div class="stat-label">Total Establishments</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="typeCount">-</div>
+                <div class="stat-label">Categories</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="lastUpdated">-</div>
+                <div class="stat-label">Last Updated</div>
+            </div>
+        </div>
+
+        <div class="controls">
+            <div class="search-filters">
+                <input type="text" id="searchInput" placeholder="Search by name or address...">
+                <select id="typeFilter">
+                    <option value="">All Types</option>
+                </select>
+                <select id="schemeFilter">
+                    <option value="">All Schemes</option>
+                </select>
+            </div>
+
+            <div class="download-buttons">
+                <a href="halal_establishments.csv" class="btn btn-success" download>📊 Download CSV</a>
+                <a href="halal_establishments.json" class="btn btn-primary" download>📋 Download JSON</a>
+                <a href="https://github.com/zootato/singapore-halal-establishments" class="btn btn-primary" target="_blank">⭐ GitHub</a>
+            </div>
+        </div>
+
+        <div class="table-container">
+            <div class="loading" id="loadingMessage">Loading establishments...</div>
+            <table id="establishmentTable" style="display: none;">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Address</th>
+                        <th>Type</th>
+                        <th>Certification #</th>
+                        <th>Scheme</th>
+                    </tr>
+                </thead>
+                <tbody id="tableBody">
+                </tbody>
+            </table>
+        </div>
+
+        <div class="pagination" id="pagination" style="display: none;"></div>
+    </div>
+
+    <script>
+        let allEstablishments = [];
+        let filteredEstablishments = [];
+        let currentPage = 1;
+        const itemsPerPage = 50;
+
+        // Load data
+        async function loadData() {
+            try {
+                const response = await fetch('halal_establishments.json');
+                allEstablishments = await response.json();
+                filteredEstablishments = [...allEstablishments];
+
+                populateFilters();
+                updateStats();
+                displayTable();
+
+                document.getElementById('loadingMessage').style.display = 'none';
+                document.getElementById('establishmentTable').style.display = 'table';
+                document.getElementById('pagination').style.display = 'flex';
+
+            } catch (error) {
+                document.getElementById('loadingMessage').innerHTML = 'Error loading data. Please try again later.';
+                console.error('Error loading data:', error);
+            }
+        }
+
+        // Populate filter dropdowns
+        function populateFilters() {
+            const types = [...new Set(allEstablishments.map(e => e.type))].sort();
+            const schemes = [...new Set(allEstablishments.map(e => e.scheme))].sort();
+
+            const typeFilter = document.getElementById('typeFilter');
+            const schemeFilter = document.getElementById('schemeFilter');
+
+            types.forEach(type => {
+                const option = document.createElement('option');
+                option.value = type;
+                option.textContent = type;
+                typeFilter.appendChild(option);
+            });
+
+            schemes.forEach(scheme => {
+                const option = document.createElement('option');
+                option.value = scheme;
+                option.textContent = scheme;
+                schemeFilter.appendChild(option);
+            });
+        }
+
+        // Update statistics
+        function updateStats() {
+            document.getElementById('totalCount').textContent = allEstablishments.length.toLocaleString();
+            document.getElementById('typeCount').textContent = new Set(allEstablishments.map(e => e.type)).size;
+
+            // Try to load metadata for last updated date
+            fetch('metadata.json')
+                .then(response => response.json())
+                .then(metadata => {
+                    const date = new Date(metadata.last_updated).toLocaleDateString();
+                    document.getElementById('lastUpdated').textContent = date;
+                })
+                .catch(() => {
+                    document.getElementById('lastUpdated').textContent = 'Today';
+                });
+        }
+
+        // Filter data
+        function filterData() {
+            const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+            const typeFilter = document.getElementById('typeFilter').value;
+            const schemeFilter = document.getElementById('schemeFilter').value;
+
+            filteredEstablishments = allEstablishments.filter(est => {
+                const matchesSearch = est.name.toLowerCase().includes(searchTerm) ||
+                                    est.address.toLowerCase().includes(searchTerm);
+                const matchesType = !typeFilter || est.type === typeFilter;
+                const matchesScheme = !schemeFilter || est.scheme === schemeFilter;
+
+                return matchesSearch && matchesType && matchesScheme;
+            });
+
+            currentPage = 1;
+            displayTable();
+        }
+
+        // Display table with pagination
+        function displayTable() {
+            const startIndex = (currentPage - 1) * itemsPerPage;
+            const endIndex = startIndex + itemsPerPage;
+            const pageData = filteredEstablishments.slice(startIndex, endIndex);
+
+            const tbody = document.getElementById('tableBody');
+            tbody.innerHTML = '';
+
+            pageData.forEach(establishment => {
+                const row = document.createElement('tr');
+                row.innerHTML = `
+                    <td><strong>${establishment.name}</strong></td>
+                    <td>${establishment.address}</td>
+                    <td><span class="type-badge">${establishment.type}</span></td>
+                    <td>${establishment.number}</td>
+                    <td>${establishment.scheme}</td>
+                `;
+                tbody.appendChild(row);
+            });
+
+            updatePagination();
+        }
+
+        // Update pagination
+        function updatePagination() {
+            const totalPages = Math.ceil(filteredEstablishments.length / itemsPerPage);
+            const pagination = document.getElementById('pagination');
+            pagination.innerHTML = '';
+
+            // Previous button
+            const prevBtn = document.createElement('button');
+            prevBtn.textContent = '‹ Previous';
+            prevBtn.disabled = currentPage === 1;
+            prevBtn.onclick = () => {
+                if (currentPage > 1) {
+                    currentPage--;
+                    displayTable();
+                }
+            };
+            pagination.appendChild(prevBtn);
+
+            // Page info
+            const pageInfo = document.createElement('span');
+            pageInfo.textContent = `Page ${currentPage} of ${totalPages} (${filteredEstablishments.length.toLocaleString()} results)`;
+            pagination.appendChild(pageInfo);
+
+            // Next button
+            const nextBtn = document.createElement('button');
+            nextBtn.textContent = 'Next ›';
+            nextBtn.disabled = currentPage === totalPages;
+            nextBtn.onclick = () => {
+                if (currentPage < totalPages) {
+                    currentPage++;
+                    displayTable();
+                }
+            };
+            pagination.appendChild(nextBtn);
+        }
+
+        // Event listeners
+        document.getElementById('searchInput').addEventListener('input', filterData);
+        document.getElementById('typeFilter').addEventListener('change', filterData);
+        document.getElementById('schemeFilter').addEventListener('change', filterData);
+
+        // Load data on page load
+        loadData();
+    </script>
+</body>
+</html>
