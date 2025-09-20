@@ -209,6 +209,47 @@
             border-color: #3498db;
         }
 
+        /* Mobile card layout */
+        .mobile-card {
+            display: none;
+            background: white;
+            border: 1px solid #eee;
+            border-radius: 8px;
+            padding: 15px;
+            margin-bottom: 10px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+
+        .mobile-card-header {
+            font-weight: bold;
+            color: #2c3e50;
+            margin-bottom: 10px;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 8px;
+        }
+
+        .mobile-card-row {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 8px;
+            align-items: center;
+        }
+
+        .mobile-card-row:last-child {
+            margin-bottom: 0;
+        }
+
+        .mobile-card-label {
+            color: #7f8c8d;
+            font-size: 0.9em;
+            min-width: 80px;
+        }
+
+        .mobile-card-value {
+            flex: 1;
+            text-align: right;
+        }
+
         @media (max-width: 768px) {
             .search-filters {
                 grid-template-columns: 1fr;
@@ -218,12 +259,30 @@
                 flex-direction: column;
             }
 
-            table {
-                font-size: 14px;
+            /* Hide table on mobile */
+            .table-container table {
+                display: none;
             }
 
-            th, td {
-                padding: 8px;
+            /* Show mobile cards */
+            .mobile-card {
+                display: block;
+            }
+
+            .container {
+                padding: 10px;
+            }
+
+            header {
+                padding: 20px 15px;
+            }
+
+            .stat-card {
+                padding: 15px;
+            }
+
+            .controls {
+                padding: 15px;
             }
         }
     </style>
@@ -285,6 +344,7 @@
                 <tbody id="tableBody">
                 </tbody>
             </table>
+            <div id="mobileCards" style="display: none;"></div>
         </div>
 
         <div class="pagination" id="pagination" style="display: none;"></div>
@@ -309,6 +369,7 @@
 
                 document.getElementById('loadingMessage').style.display = 'none';
                 document.getElementById('establishmentTable').style.display = 'table';
+                document.getElementById('mobileCards').style.display = 'block';
                 document.getElementById('pagination').style.display = 'flex';
 
             } catch (error) {
@@ -382,6 +443,7 @@
             const endIndex = startIndex + itemsPerPage;
             const pageData = filteredEstablishments.slice(startIndex, endIndex);
 
+            // Render table rows
             const tbody = document.getElementById('tableBody');
             tbody.innerHTML = '';
 
@@ -395,6 +457,35 @@
                     <td>${establishment.scheme}</td>
                 `;
                 tbody.appendChild(row);
+            });
+
+            // Render mobile cards
+            const mobileCards = document.getElementById('mobileCards');
+            mobileCards.innerHTML = '';
+
+            pageData.forEach(establishment => {
+                const card = document.createElement('div');
+                card.className = 'mobile-card';
+                card.innerHTML = `
+                    <div class="mobile-card-header">${establishment.name}</div>
+                    <div class="mobile-card-row">
+                        <span class="mobile-card-label">Address:</span>
+                        <span class="mobile-card-value">${establishment.address}</span>
+                    </div>
+                    <div class="mobile-card-row">
+                        <span class="mobile-card-label">Type:</span>
+                        <span class="mobile-card-value"><span class="type-badge">${establishment.type}</span></span>
+                    </div>
+                    <div class="mobile-card-row">
+                        <span class="mobile-card-label">Cert #:</span>
+                        <span class="mobile-card-value">${establishment.number}</span>
+                    </div>
+                    <div class="mobile-card-row">
+                        <span class="mobile-card-label">Scheme:</span>
+                        <span class="mobile-card-value">${establishment.scheme}</span>
+                    </div>
+                `;
+                mobileCards.appendChild(card);
             });
 
             updatePagination();
