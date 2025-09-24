@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2025-09-24T22:15:02.106656",
+    "date": "2025-09-24",
+    "summary": {
+      "new": 2,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "SUPER SUSHI",
+          "address": "2 ORCHARD TURN #B4-51 ION ORCHARD 238801",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000857",
+          "scheme": "Eating Establishment",
+          "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
+          "postal": "238801"
+        },
+        {
+          "name": "SUPER SUSHI",
+          "address": "930 YISHUN AVENUE 2 #B1-39 NORTHPOINT CITY 769098",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000856",
+          "scheme": "Eating Establishment",
+          "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
+          "postal": "769098"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2025-09-23T22:14:53.394482",
     "date": "2025-09-23",
     "summary": {

@@ -29610,6 +29610,24 @@
     "postal": "529510"
   },
   {
+    "name": "SUPER SUSHI",
+    "address": "2 ORCHARD TURN #B4-51 ION ORCHARD 238801",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000857",
+    "scheme": "Eating Establishment",
+    "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
+    "postal": "238801"
+  },
+  {
+    "name": "SUPER SUSHI",
+    "address": "930 YISHUN AVENUE 2 #B1-39 NORTHPOINT CITY 769098",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000856",
+    "scheme": "Eating Establishment",
+    "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
+    "postal": "769098"
+  },
+  {
     "name": "Sushi Seafood Section @ Chara Brasserie",
     "address": "8 CLUB STREET #02-01,Sushi Seafood Section 069472",
     "type": "Food Station",
