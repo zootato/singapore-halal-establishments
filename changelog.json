@@ -1,5 +1,29 @@
 [
   {
+    "timestamp": "2025-09-25T22:14:41.664429",
+    "date": "2025-09-25",
+    "summary": {
+      "new": 1,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Yaya Bakery",
+          "address": "741 BEDOK RESERVOIR ROAD #01-3067 RESERVOIR VILLAGE 470741",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000860",
+          "scheme": "Eating Establishment",
+          "id": "afdf3d47-0667-4719-b5d3-4398c4ee4a02",
+          "postal": "470741"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2025-09-24T22:15:02.106656",
     "date": "2025-09-24",
     "summary": {
