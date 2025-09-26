@@ -1,5 +1,476 @@
 [
   {
+    "timestamp": "2025-09-26T22:14:58.833408",
+    "date": "2025-09-26",
+    "summary": {
+      "new": 33,
+      "removed": 13,
+      "updated": 2
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "ABANG GEMUK (S2) @ COFFEESHOP 506 BUKIT BATOK",
+          "address": "506 BUKIT BATOK STREET 52 #01-91 HILLGROVE GARDENS, STALL 2 650506",
+          "type": "Hawker",
+          "number": "EEHK20230000705",
+          "scheme": "Eating Establishment",
+          "id": "14ff1802-3045-46fe-979f-68ea7662099e",
+          "postal": "650506"
+        },
+        {
+          "name": "ANDES",
+          "address": "1 Pasir Ris Close #02-325 E!Hub @ Downtown East 519599",
+          "type": "Restaurant",
+          "number": "EERN21070012650",
+          "scheme": "Eating Establishment",
+          "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
+          "postal": "519599"
+        },
+        {
+          "name": "ANDES",
+          "address": "10 AIRPORT BOULEVARD #02-202 CHANGI AIRPORT TERMINAL 4 819665",
+          "type": "Restaurant",
+          "number": "EERT20220000657",
+          "scheme": "Eating Establishment",
+          "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
+          "postal": "819665"
+        },
+        {
+          "name": "ABANG GEMUK (S12) @ FoodHub 48 Toh Guan",
+          "address": "48 TOH GUAN ROAD EAST #01-124/125/126/127/128/129 ENTERPRISE HUB, Stall 12 608586",
+          "type": "Hawker",
+          "number": "EEHK20230000708",
+          "scheme": "Eating Establishment",
+          "id": "a192a194-31eb-4fbf-b678-0926bb5d7d24",
+          "postal": "608586"
+        },
+        {
+          "name": "ABANG GEMUK (S9) @ O2 CAFE 134 BUKIT BATOK",
+          "address": "134 BUKIT BATOK WEST AVENUE 6 #01-463, STALL 9 650134",
+          "type": "Hawker",
+          "number": "EEHK20230000711",
+          "scheme": "Eating Establishment",
+          "id": "d534c8ac-9b62-4d1f-b702-033e4348868b",
+          "postal": "650134"
+        },
+        {
+          "name": "Singapore Food & Beverage Pte Ltd",
+          "address": "1 LARKHILL ROAD #01-06 AMARA SANCTUARY RESORT SENTOSA 099394",
+          "type": "Catering Company",
+          "number": "FPCA20240000858",
+          "scheme": "Food Preparation Area",
+          "id": "d9ee08fb-d73f-4153-af91-4cbdc03e74f7",
+          "postal": "099394"
+        },
+        {
+          "name": "Abang Gemuk (S4) @ Soon Huat FoodCenter 233 Toa Payoh",
+          "address": "233 LORONG 8 TOA PAYOH #01-268 TOA PAYOH EIGHT, Stall 4 310233",
+          "type": "Hawker",
+          "number": "EEHK20230000712",
+          "scheme": "Eating Establishment",
+          "id": "95bac22d-15d3-43c6-a2ff-2ace635fc4b5",
+          "postal": "310233"
+        },
+        {
+          "name": "FATTY BOM BOM X NASI KARI (S5) @ O2 Café 413 BB",
+          "address": "413 BUKIT BATOK WEST AVENUE 4 #01-220, STALL 5 650413",
+          "type": "Hawker",
+          "number": "EEHK20230000717",
+          "scheme": "Eating Establishment",
+          "id": "fa49e8f4-ae44-4420-b9cf-eab44bc006b4",
+          "postal": "650413"
+        },
+        {
+          "name": "Fatty Bom Bom Sizzle ( S2 ) @ Kopitiam Corner 273 Punggol Place",
+          "address": "273C PUNGGOL PLACE #01-882 PUNGGOL REGALIA, (Stall 2) 823273",
+          "type": "Hawker",
+          "number": "EEHK20230000719",
+          "scheme": "Eating Establishment",
+          "id": "73b53094-060f-4fe4-9c44-aaf11b52a78a",
+          "postal": "823273"
+        },
+        {
+          "name": "ANDES",
+          "address": "750 Chai Chee Road #01-30 Technopark @ Chai Chee 469000",
+          "type": "Restaurant",
+          "number": "EERN21070012652",
+          "scheme": "Eating Establishment",
+          "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
+          "postal": "469000"
+        },
+        {
+          "name": "FATTY BOM BOM (S9) @ FOODHUB 455 SENGKANG",
+          "address": "455 SENGKANG WEST AVENUE #01-01, STALL 9 790455",
+          "type": "Hawker",
+          "number": "EEHK20230000728",
+          "scheme": "Eating Establishment",
+          "id": "655866d5-2e77-414c-8e46-22346eb68dcb",
+          "postal": "790455"
+        },
+        {
+          "name": "ANDES",
+          "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #02-02a CHANGI CITY POINT 486038",
+          "type": "Restaurant",
+          "number": "EERT20230000894",
+          "scheme": "Eating Establishment",
+          "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
+          "postal": "486038"
+        },
+        {
+          "name": "FATTY BOM BOM (S11) @ FOOD HUB 209 UPPER CHANGI ROAD",
+          "address": "209 NEW UPPER CHANGI ROAD #01-633, Stall 11 460209",
+          "type": "Hawker",
+          "number": "EEHK20230000722",
+          "scheme": "Eating Establishment",
+          "id": "de7e4fa8-3415-4d52-93cf-d1152bc2039b",
+          "postal": "460209"
+        },
+        {
+          "name": "Abang Gemuk (S1) @ FoodHub Aljunied",
+          "address": "119 ALJUNIED AVENUE 2 #01-54, Stall 1 380119",
+          "type": "Hawker",
+          "number": "EEHK20230000709",
+          "scheme": "Eating Establishment",
+          "id": "a210cf88-76ab-4cf8-b526-1d6c604b5146",
+          "postal": "380119"
+        },
+        {
+          "name": "Abang Gemuk (S3) @Food Paradise Sengkang",
+          "address": "279 SENGKANG EAST AVENUE #01-01 COMPASSVALE ANCILLA, Stall 3 540279",
+          "type": "Hawker",
+          "number": "EEHK20230000710",
+          "scheme": "Eating Establishment",
+          "id": "c9a1d890-a4da-4ae9-8044-249dbbac1a9a",
+          "postal": "540279"
+        },
+        {
+          "name": "ANDES",
+          "address": "1 JELEBU ROAD #03-10 BUKIT PANJANG PLAZA 677743",
+          "type": "Restaurant",
+          "number": "EERN21070012653",
+          "scheme": "Eating Establishment",
+          "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
+          "postal": "677743"
+        },
+        {
+          "name": "ANDES",
+          "address": "80 AIRPORT BOULEVARD,CHANGI AIRPORT #03-18 T1, LEVEL 3 VIEWING MALL CTRL 819642",
+          "type": "Restaurant",
+          "number": "EERN21070012647",
+          "scheme": "Eating Establishment",
+          "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
+          "postal": "819642"
+        },
+        {
+          "name": "ANDES",
+          "address": "3 SIMEI STREET 6 #01-13 EASTPOINT MALL 528833",
+          "type": "Restaurant",
+          "number": "EERN21060012480",
+          "scheme": "Eating Establishment",
+          "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
+          "postal": "528833"
+        },
+        {
+          "name": "ABANG GEMUK (S10) @ FOODHUB 547 SEGAR ROAD",
+          "address": "547 SEGAR ROAD #01-01 SEGAR VALE, (Stall 10) 670547",
+          "type": "Hawker",
+          "number": "EEHK20230000706",
+          "scheme": "Eating Establishment",
+          "id": "bbc989a7-3339-4374-9523-cba9918118fa",
+          "postal": "670547"
+        },
+        {
+          "name": "ABANG GEMUK (S1) @ FoodHub 496 Jurong West",
+          "address": "496 JURONG WEST STREET 41 #01-84, Stall 1 640496",
+          "type": "Hawker",
+          "number": "EEHK20230000707",
+          "scheme": "Eating Establishment",
+          "id": "f1003e93-078c-440e-b0b5-a231dd31888a",
+          "postal": "640496"
+        },
+        {
+          "name": "Chic-A-Boo Chicken Specialty",
+          "address": "6 Raffles Boulevard #03-147 #03-148, Marina Square 039594",
+          "type": "Restaurant",
+          "number": "EERN21070012617",
+          "scheme": "Eating Establishment",
+          "id": "29af124d-1e9e-42aa-bc6f-2aafa75bfe35",
+          "postal": "039594"
+        },
+        {
+          "name": "Fatty Bom Bom (S2) @ Grains & Hops 365B Hougang",
+          "address": "365B UPPER SERANGOON ROAD #01-1062 HOUGANG MEADOW, Stall 2 532365",
+          "type": "Hawker",
+          "number": "EEHK20230000721",
+          "scheme": "Eating Establishment",
+          "id": "f3c160e4-e06f-4618-9a15-3678e9ea9286",
+          "postal": "532365"
+        },
+        {
+          "name": "MANA LAGI",
+          "address": "477 TAMPINES STREET 43 #01-172 520477",
+          "type": "Restaurant",
+          "number": "EERT20230000715",
+          "scheme": "Eating Establishment",
+          "id": "836d3aa8-f3dc-491a-a431-4804613ddb00",
+          "postal": "520477"
+        },
+        {
+          "name": "FATTY BOM BOM (S9) @ FoodHub 325 Clementi",
+          "address": "325 CLEMENTI AVENUE 5 #01-129, Stall 9 120325",
+          "type": "Hawker",
+          "number": "EEHK20230000726",
+          "scheme": "Eating Establishment",
+          "id": "b44002a4-9dca-4bb4-b0db-877eb3e7b3c6",
+          "postal": "120325"
+        },
+        {
+          "name": "Chic-A-Boo Chicken Specialty",
+          "address": "6 WOODLANDS SQUARE #01-12 WOODS SQUARE 737737",
+          "type": "Restaurant",
+          "number": "EERN21070012620",
+          "scheme": "Eating Establishment",
+          "id": "29af124d-1e9e-42aa-bc6f-2aafa75bfe35",
+          "postal": "737737"
+        },
+        {
+          "name": "FATTY BOM BOM (S2) @ Grains & Hops 978 Toa Payoh",
+          "address": "978 TOA PAYOH NORTH #02-01, Stall 2 319001",
+          "type": "Hawker",
+          "number": "EEHK20230000725",
+          "scheme": "Eating Establishment",
+          "id": "1705adac-59aa-4b18-b59c-5fdc85c6f5de",
+          "postal": "319001"
+        },
+        {
+          "name": "FOODEX FOOD SERVICES PTE. LTD.",
+          "address": "22 SENOKO CRESCENT #01-#02, #03 758275",
+          "type": "Central Kitchen",
+          "number": "FPCK20240000810",
+          "scheme": "Food Preparation Area",
+          "id": "c7171390-82f0-407c-89ce-a7ef583bc6a2",
+          "postal": "758275"
+        },
+        {
+          "name": "MANA LAGI",
+          "address": "21 HOUGANG STREET 51 #01-04 HOUGANG GREEN SHOPPING MALL 538719",
+          "type": "Restaurant",
+          "number": "EERT20230001062",
+          "scheme": "Eating Establishment",
+          "id": "836d3aa8-f3dc-491a-a431-4804613ddb00",
+          "postal": "538719"
+        },
+        {
+          "name": "NO VIRTUAL BRANDS",
+          "address": "604 Sembawang Road #01-02 Sembawang Shopping Centre 758459",
+          "type": "Restaurant",
+          "number": "EERN21070012616",
+          "scheme": "Eating Establishment",
+          "id": "29af124d-1e9e-42aa-bc6f-2aafa75bfe35",
+          "postal": "758459"
+        },
+        {
+          "name": "ANDES",
+          "address": "6 WOODLANDS SQUARE #01-13/16 WOODS SQUARE 737737",
+          "type": "Restaurant",
+          "number": "EERN21070012648",
+          "scheme": "Eating Establishment",
+          "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
+          "postal": "737737"
+        },
+        {
+          "name": "FATTY BOM BOM (S7) @ FOODHUB 145 TECK WHYE",
+          "address": "145 TECK WHYE AVENUE #01-153, Stall 7 680145",
+          "type": "Hawker",
+          "number": "EEHK20230000729",
+          "scheme": "Eating Establishment",
+          "id": "db83ea56-0a26-46e0-8d99-f96e5363c17a",
+          "postal": "680145"
+        },
+        {
+          "name": "ANDES",
+          "address": "2 JURONG EAST STREET 21 #01-96 IMM BUILDING 609601",
+          "type": "Restaurant",
+          "number": "EERT20240001249",
+          "scheme": "Eating Establishment",
+          "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
+          "postal": "609601"
+        },
+        {
+          "name": "Fatty Bom Bom Sizzle (S11) @ FoodHub 167 Marsiling",
+          "address": "167 WOODLANDS STREET 11 #01-07, Stall 11 730167",
+          "type": "Hawker",
+          "number": "EEHK20230000720",
+          "scheme": "Eating Establishment",
+          "id": "d6279f4f-8357-40fa-903f-466678dbbdbb",
+          "postal": "730167"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Yakiniku Shokudo",
+          "address": "1 PASIR RIS CLOSE #02-318 E!HUB@DOWNTOWN EAST 519599",
+          "type": "Restaurant",
+          "number": "EERT20250000063",
+          "scheme": "Eating Establishment",
+          "id": "7febb99e-79f2-45a1-9f1b-a2fe974e405a",
+          "postal": "519599"
+        },
+        {
+          "name": "LPH CATERING",
+          "address": "173 PANDAN LOOP 128367",
+          "type": "Catering Company",
+          "number": "FPCA20250000038",
+          "scheme": "Food Preparation Area",
+          "id": "3be869c6-a338-4204-918b-500916352869",
+          "postal": "128367"
+        },
+        {
+          "name": "LOCO LOCO",
+          "address": "7 MANDAI ESTATE #06-04 FOODFAB@MANDAI 729904",
+          "type": "Catering Company",
+          "number": "FPCA20240000830",
+          "scheme": "Food Preparation Area",
+          "id": "a7073c37-6be5-48ea-b355-7dc943498078",
+          "postal": "729904"
+        },
+        {
+          "name": "McDonald's",
+          "address": "1 KIM SENG PROMENADE #01-124 GREAT WORLD CITY 237994",
+          "type": "Restaurant",
+          "number": "EERN20020011059",
+          "scheme": "Eating Establishment",
+          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+          "postal": "237994"
+        },
+        {
+          "name": "Telur Thai",
+          "address": "1 JURONG WEST CENTRAL 2 #B1-42/43/44 JURONG POINT 648886",
+          "type": "Hawker",
+          "number": "EEHK20250000777",
+          "scheme": "Eating Establishment",
+          "id": "0c1c70c3-2b77-418b-a59d-a2ffd355139c",
+          "postal": "648886"
+        },
+        {
+          "name": "STUFF'D",
+          "address": "1 WOODLANDS SQUARE #B1-K17 CAUSEWAY POINT 738099",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21110012929",
+          "scheme": "Eating Establishment",
+          "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
+          "postal": "738099"
+        },
+        {
+          "name": "PRIMADELI",
+          "address": "10 EUNOS ROAD 8 #B1-164 SINGAPORE POST CENTRE 408600",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000341",
+          "scheme": "Eating Establishment",
+          "id": "02140cb6-f4b2-428b-9b58-14206e1bfafb",
+          "postal": "408600"
+        },
+        {
+          "name": "Yakiniku Shokudo",
+          "address": "1 TAMPINES WALK #01-103/103A OUR TAMPINES HUB 528523",
+          "type": "Restaurant",
+          "number": "EERT20230000345",
+          "scheme": "Eating Establishment",
+          "id": "7febb99e-79f2-45a1-9f1b-a2fe974e405a",
+          "postal": "528523"
+        },
+        {
+          "name": "McDonald's",
+          "address": "12 KALLANG AVENUE #01-24 APERIA MALL 339511",
+          "type": "Restaurant",
+          "number": "EERN20020011061",
+          "scheme": "Eating Establishment",
+          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+          "postal": "339511"
+        },
+        {
+          "name": "SUBWAY",
+          "address": "20 EASTWOOD ROAD #01-11 EASTWOOD CENTRE 486442",
+          "type": "Restaurant",
+          "number": "EERT20240001159",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "486442"
+        },
+        {
+          "name": "FONG SENG NASI LEMAK",
+          "address": "101 Pasir Panjang Road 118527",
+          "type": "Restaurant",
+          "number": "EERN21020012034",
+          "scheme": "Eating Establishment",
+          "id": "050c83b7-f1f2-48ab-9b49-9b149adf4a27",
+          "postal": "118527"
+        },
+        {
+          "name": "Three's A Crowd",
+          "address": "50 RACE COURSE ROAD 218562",
+          "type": "Restaurant",
+          "number": "EERT20220000767",
+          "scheme": "Eating Establishment",
+          "id": "fffde1b4-44d4-440f-b460-33d87aa224ee",
+          "postal": "218562"
+        },
+        {
+          "name": "YOSHINOYA",
+          "address": "1 TAMPINES WALK #B1-K1/K22/K2 OUR TAMPINES HUB 528523",
+          "type": "Restaurant",
+          "number": "EERT20240001212",
+          "scheme": "Eating Establishment",
+          "id": "b3f7acc2-ed44-4e1d-be2f-ddfd176c2011",
+          "postal": "528523"
+        }
+      ],
+      "updated": [
+        {
+          "previous": {
+            "name": "Good Day Cafe (S21) @ Makan Place Ngee Ann Polytechnic",
+            "address": "535 CLEMENTI ROAD #02-02 NGEE ANN POLYTECHNIC (BLK 51), MAKAN PLACE STALL 21 599489",
+            "type": "Hawker",
+            "number": "EEHK20230001017",
+            "scheme": "Eating Establishment",
+            "id": "429cdf86-ad49-4f09-b1a8-76f6be789a7f",
+            "postal": "599489"
+          },
+          "current": {
+            "name": "Good Day Cafe (S21) @ Makan Place Ngee Ann Polytechnic",
+            "address": "535 CLEMENTI ROAD #02-02 NGEE ANN POLYTECHNIC (BLK 51), Stall 21 599489",
+            "type": "Hawker",
+            "number": "EEHK20230001017",
+            "scheme": "Eating Establishment",
+            "id": "429cdf86-ad49-4f09-b1a8-76f6be789a7f",
+            "postal": "599489"
+          }
+        },
+        {
+          "previous": {
+            "name": "Fish & Co.",
+            "address": "110 PASIR RIS CENTRAL #01-06 519641",
+            "type": "Hawker",
+            "number": "EEHK20240001279",
+            "scheme": "Eating Establishment",
+            "id": "dcef3017-de5f-439c-9754-8eaecfd88960",
+            "postal": "519641"
+          },
+          "current": {
+            "name": "TEXAS LONE STAR (S6) @ PASIR RIS CENTRAL HAWKER CENTRE",
+            "address": "110 PASIR RIS CENTRAL #01-06 519641",
+            "type": "Hawker",
+            "number": "EEHK20240001279",
+            "scheme": "Eating Establishment",
+            "id": "dcef3017-de5f-439c-9754-8eaecfd88960",
+            "postal": "519641"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2025-09-25T22:14:41.664429",
     "date": "2025-09-25",
     "summary": {
