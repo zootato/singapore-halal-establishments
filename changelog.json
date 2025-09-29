@@ -1,5 +1,142 @@
 [
   {
+    "timestamp": "2025-09-29T22:15:32.213105",
+    "date": "2025-09-29",
+    "summary": {
+      "new": 9,
+      "removed": 0,
+      "updated": 2
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "TARBOUSH",
+          "address": "1 TANGLIN ROAD #01-09/10 ORCHARD RENDEZVOUS HOTEL, SINGAPORE 247905",
+          "type": "Catering Company",
+          "number": "FPCA20250000868",
+          "scheme": "Food Preparation Area",
+          "id": "fc0ad046-bb7b-4d55-8fee-ffcaf7a4c06e",
+          "postal": "247905"
+        },
+        {
+          "name": "V Happy Crab",
+          "address": "133 ANG MO KIO AVENUE 3 S8 #01-1635 KEBUN BARU SPRING / LIAN WAH KOPITIAM 560133",
+          "type": "Hawker",
+          "number": "EEHK20250000872",
+          "scheme": "Eating Establishment",
+          "id": "106f0fef-7089-471d-b5c0-297d63699758",
+          "postal": "560133"
+        },
+        {
+          "name": "FATTY BOM BOM (S3) GRAINS & HOPS 494 TAMPINES",
+          "address": "494 TAMPINES STREET 45 #01-06, Stall 3 523494",
+          "type": "Hawker",
+          "number": "EEHK20230000724",
+          "scheme": "Eating Establishment",
+          "id": "f3403c6c-5e5a-4300-be11-e452c7d1825d",
+          "postal": "523494"
+        },
+        {
+          "name": "Soyo-Soyo (Japanese Casual Dining)",
+          "address": "2 ANG MO KIO DRIVE CENTRAL DELIGHTS FOODCOURT, STALL 4 #04-11 ITE COLLEGE CENTRAL 567720",
+          "type": "Hawker",
+          "number": "EEHK20250000866",
+          "scheme": "Eating Establishment",
+          "id": "a610d000-8965-4351-8723-e13a36a506c0",
+          "postal": "567720"
+        },
+        {
+          "name": "Saffrons",
+          "address": "1 ENGKU AMAN TURN #01-04 WISMA GEYLANG SERAI 408528",
+          "type": "Restaurant",
+          "number": "EERT20250000865",
+          "scheme": "Eating Establishment",
+          "id": "df8e3a57-e695-4700-a6b8-a4c3cfd16802",
+          "postal": "408528"
+        },
+        {
+          "name": "MARRYBROWN",
+          "address": "43 Siloso Beach Walk #01-03 Ifly Singapore Sentosa 099010",
+          "type": "Restaurant",
+          "number": "EERX21080012705",
+          "scheme": "Eating Establishment",
+          "id": "81b8721f-5f08-4497-8f9b-e2a0b64ddc2b",
+          "postal": "099010"
+        },
+        {
+          "name": "TARBOUSH",
+          "address": "1 TANGLIN ROAD #01-09/10 ORCHARD RENDEZVOUS HOTEL, SINGAPORE 247905",
+          "type": "Restaurant",
+          "number": "EERT20250000869",
+          "scheme": "Eating Establishment",
+          "id": "fc0ad046-bb7b-4d55-8fee-ffcaf7a4c06e",
+          "postal": "247905"
+        },
+        {
+          "name": "Go Tarboush",
+          "address": "123 ARAB STREET #01 KAMPONG GLAM CONSERVATION AREA 199818",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000870",
+          "scheme": "Eating Establishment",
+          "id": "012d0483-0275-4154-b550-e4abfcb2dca2",
+          "postal": "199818"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "11 BIDADARI PARK DRIVE #B1-K13 THE WOODLEIGH MALL 367803",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000844",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "367803"
+        }
+      ],
+      "removed": [],
+      "updated": [
+        {
+          "previous": {
+            "name": "Y&H Penyet (S13) @ Kopitiam NUH",
+            "address": "5 LOWER KENT RIDGE ROAD #01-01 NATIONAL UNIVERSITY HOSPITAL,STALL 13 119074",
+            "type": "Hawker",
+            "number": "EEHK20240000873",
+            "scheme": "Eating Establishment",
+            "id": "ad95de87-7336-439e-b7f3-deded065f32a",
+            "postal": "119074"
+          },
+          "current": {
+            "name": "Y&H Penyet (S13) @ Kopitiam NUH",
+            "address": "5 LOWER KENT RIDGE ROAD #01-01 NATIONAL UNIVERSITY HOSPITAL, STALL 13 119074",
+            "type": "Hawker",
+            "number": "EEHK20240000873",
+            "scheme": "Eating Establishment",
+            "id": "ad95de87-7336-439e-b7f3-deded065f32a",
+            "postal": "119074"
+          }
+        },
+        {
+          "previous": {
+            "name": "Y&H Penyet (S8) @ The Flavours Temasek Polytechnic",
+            "address": "23A TAMPINES AVENUE 1 blk 4,Stall 8 529764",
+            "type": "Hawker",
+            "number": "EEHK20240000872",
+            "scheme": "Eating Establishment",
+            "id": "dd224286-bdf2-410b-b4a8-a0f9def564f7",
+            "postal": "529764"
+          },
+          "current": {
+            "name": "Y&H Penyet (S8) @ The Flavours Temasek Polytechnic",
+            "address": "23A TAMPINES AVENUE 1 blk 4, Stall 8 529764",
+            "type": "Hawker",
+            "number": "EEHK20240000872",
+            "scheme": "Eating Establishment",
+            "id": "dd224286-bdf2-410b-b4a8-a0f9def564f7",
+            "postal": "529764"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2025-09-26T22:14:58.833408",
     "date": "2025-09-26",
     "summary": {
