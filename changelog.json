@@ -1,5 +1,240 @@
 [
   {
+    "timestamp": "2025-10-02T22:14:05.667210",
+    "date": "2025-10-02",
+    "summary": {
+      "new": 17,
+      "removed": 5,
+      "updated": 1
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Our Cafe @ Shangri-La",
+          "address": "22 ORANGE GROVE ROAD 01 SHANGRI-LA HOTEL 258350",
+          "type": "Staff Canteen",
+          "number": "EEFN21060012259",
+          "scheme": "Eating Establishment",
+          "id": "08728fc1-e0bc-452f-ad60-7d4873b4f35c",
+          "postal": "258350"
+        },
+        {
+          "name": "Staff Canteen Stall @ ICES (Mngd by PRO*3 Institutional Ctrg PL)",
+          "address": "1 PESEK ROAD Jurong Island 627833",
+          "type": "Staff Canteen",
+          "number": "EEFN21080012525",
+          "scheme": "Eating Establishment",
+          "id": "d339d723-46c4-4d23-b9ad-b17e4fe649a4",
+          "postal": "627833"
+        },
+        {
+          "name": "Western/Delight/Malay/Vegetarian Kitchen @ NUH",
+          "address": "9 LOWER KENT RIDGE ROAD #B1-01 NATIONAL UNIVERSITY CENTRE FOR ORAL HEALTH 119085",
+          "type": "Central Kitchen",
+          "number": "FPCK20250000878",
+          "scheme": "Food Preparation Area",
+          "id": "714ddcde-42b0-4bd2-bb97-fd79a9ab6a1e",
+          "postal": "119085"
+        },
+        {
+          "name": "NIKU IKU",
+          "address": "11 BIDADARI PARK DRIVE #B1-K11 THE WOODLEIGH MALL 367803",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000871",
+          "scheme": "Eating Establishment",
+          "id": "64a228b0-7d2f-4fd7-8a87-e5df67b09ade",
+          "postal": "367803"
+        },
+        {
+          "name": "WOK EXPRESS",
+          "address": "31 LOWER KENT RIDGE ROAD NATIONAL UNIVERSITY OF SINGAPORE, YUSOF ISHAK HOUSE, (LEVEL 1, KIOSK 1) 119078",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000674",
+          "scheme": "Eating Establishment",
+          "id": "6a76fb2a-4645-4920-b4c2-be3159954019",
+          "postal": "119078"
+        },
+        {
+          "name": "MARI MARI",
+          "address": "802 BUKIT BATOK WEST AVENUE 5 #01-11 BUKIT GOMBAK MRT STATION 659083",
+          "type": "Restaurant",
+          "number": "EERN21060012459",
+          "scheme": "Eating Establishment",
+          "id": "937b188b-6952-4310-97e3-3d17b82279e6",
+          "postal": "659083"
+        },
+        {
+          "name": "MAIN KITCHEN/WESTERN @ FSD-SGH (SINGHEALTH TOWER)",
+          "address": "OUTRAM ROAD SINGAPORE GENERAL HOSPITAL, BASEMENT 1 169608",
+          "type": "Central Kitchen",
+          "number": "FPCN21080001583",
+          "scheme": "Food Preparation Area",
+          "id": "bf394535-80ef-49cc-8316-1a57e845fb03",
+          "postal": "169608"
+        },
+        {
+          "name": "BREAD ERA",
+          "address": "495 JURONG WEST STREET 41 (PART OF LEFT) #01-100 640495",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000882",
+          "scheme": "Eating Establishment",
+          "id": "9cd457d0-ff9f-46f7-838b-0fdab2ebd5f4",
+          "postal": "640495"
+        },
+        {
+          "name": "MALA HOT POT (STALL 4) @ TECHNO EDGE CANTEEN",
+          "address": "3A ENGINEERING DRIVE 2 Techno Edge Canteen, stall 4 117275",
+          "type": "Hawker",
+          "number": "EEHK20240000722",
+          "scheme": "Eating Establishment",
+          "id": "fe2e55a6-3f35-4fe4-af5d-fc506d843eab",
+          "postal": "117275"
+        },
+        {
+          "name": "BAGUS CAFE @ RWS -RWS (Mngd by Compass Group)",
+          "address": "26 SENTOSA GATEWAY RESORTS WORLD SENTOSA 098138",
+          "type": "Staff Canteen",
+          "number": "EEFN21040011530",
+          "scheme": "Eating Establishment",
+          "id": "324ad1fd-1f1b-4e71-8a42-361f0ca8093f",
+          "postal": "098138"
+        },
+        {
+          "name": "Rasa Sayang Rasa Sayang",
+          "address": "240 TENGAH GARDEN WALK #01-01 GARDEN VINES @ TENGAH YONG LI COFFEE STATION, Stall 5 690240",
+          "type": "Hawker",
+          "number": "EEHK20250000883",
+          "scheme": "Eating Establishment",
+          "id": "67abef24-3c17-442d-ba09-5630ec42f1e1",
+          "postal": "690240"
+        },
+        {
+          "name": "Huat Huat Barbeque Seafood",
+          "address": "1220 EAST COAST PARKWAY East Coast Lagoon Food Village 468960",
+          "type": "Hawker",
+          "number": "EEHK20250000880",
+          "scheme": "Eating Establishment",
+          "id": "75823705-b20b-4dba-943a-85befb5c388a",
+          "postal": "468960"
+        },
+        {
+          "name": "Cik Lim Yong Tau Foo",
+          "address": "1 JURONG EAST STREET 21 (Stall 5) @ Fork & Spoon Ng Teng Fong General Hospital (Tower B) #02-01A, #02-01B NG TENG FONG GENERAL HOSPITAL (TOWER B) 609606",
+          "type": "Hawker",
+          "number": "EEHK25100000002",
+          "scheme": "Eating Establishment",
+          "id": "85cd77f0-7459-468e-9917-7561c6d98d5a",
+          "postal": "609606"
+        },
+        {
+          "name": "Emogi Yong Tao Foo",
+          "address": "548 WOODLANDS DRIVE 44 #01-21 Kopitiam Corner Vista Point, MR 2 730548",
+          "type": "Hawker",
+          "number": "EEHK25100000001",
+          "scheme": "Eating Establishment",
+          "id": "f2dfe035-107f-4667-a653-6556dc4be2e6",
+          "postal": "730548"
+        },
+        {
+          "name": "Seoul Garden",
+          "address": "2 JURONG EAST STREET 21 #02-25 IMM BUILDING 609601",
+          "type": "Restaurant",
+          "number": "EERT20250000863",
+          "scheme": "Eating Establishment",
+          "id": "074747cc-ca41-4dfa-a6a6-e5cb50903d8b",
+          "postal": "609601"
+        },
+        {
+          "name": "PASTRY KITCHEN @ FSD-SGH (SINGHEALTH TOWER)",
+          "address": "OUTRAM ROAD SINGAPORE GENERAL HOSPITAL, BASEMENT 1 169608",
+          "type": "Central Kitchen",
+          "number": "FPCN21080001584",
+          "scheme": "Food Preparation Area",
+          "id": "e24a4596-145c-4110-aed3-31f888ae268c",
+          "postal": "169608"
+        },
+        {
+          "name": "JR FOODS PTE. LTD.",
+          "address": "8 SENOKO SOUTH ROAD #03-01/03 CHNG KEE'S FOODLINK 758095",
+          "type": "Catering Company",
+          "number": "FPCA20240000882",
+          "scheme": "Food Preparation Area",
+          "id": "8fe8cd3f-e77c-43c1-a778-ef8e7feac985",
+          "postal": "758095"
+        }
+      ],
+      "removed": [
+        {
+          "name": "CRAVE",
+          "address": "1 LOWER KENT RIDGE ROAD #01-09/19/20 ONE @ KENTRIDGE 119082",
+          "type": "Restaurant",
+          "number": "EERN21050012353",
+          "scheme": "Eating Establishment",
+          "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
+          "postal": "119082"
+        },
+        {
+          "name": "SUBWAY",
+          "address": "20 EASTWOOD ROAD #01-11 EASTWOOD CENTRE 486442",
+          "type": "Restaurant",
+          "number": "EERT20240001159",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "486442"
+        },
+        {
+          "name": "Mee Bagus",
+          "address": "12 HAIG ROAD Stall 3 #01-323 Kedai Kopi 430012",
+          "type": "Hawker",
+          "number": "EEHK20250000466",
+          "scheme": "Eating Establishment",
+          "id": "cd2b1a60-2b11-4a39-95b0-a904e73d1612",
+          "postal": "430012"
+        },
+        {
+          "name": "SALMON WARRIOR",
+          "address": "10 EUNOS ROAD 8 #B1-165/166 SINGAPORE POST CENTRE 408600",
+          "type": "Restaurant",
+          "number": "EERT20220000671",
+          "scheme": "Eating Establishment",
+          "id": "552d459f-80f2-4527-a23e-56e82ec08b64",
+          "postal": "408600"
+        },
+        {
+          "name": "MR BEAN",
+          "address": "10 SINARAN DRIVE #01-21 SQUARE 2 307506",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000206",
+          "scheme": "Eating Establishment",
+          "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
+          "postal": "307506"
+        }
+      ],
+      "updated": [
+        {
+          "previous": {
+            "name": "Roost",
+            "address": "42 IMBIAH ROAD #01-K1 099701",
+            "type": "Restaurant",
+            "number": "EERT20250000823",
+            "scheme": "Eating Establishment",
+            "id": "5965b877-26d4-4e8e-9076-d0dbf88530c4",
+            "postal": "099701"
+          },
+          "current": {
+            "name": "Easy Gourmet",
+            "address": "42 IMBIAH ROAD #01-K1 099701",
+            "type": "Restaurant",
+            "number": "EERT20250000823",
+            "scheme": "Eating Establishment",
+            "id": "5965b877-26d4-4e8e-9076-d0dbf88530c4",
+            "postal": "099701"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2025-10-01T22:14:58.051439",
     "date": "2025-10-01",
     "summary": {
