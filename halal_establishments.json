@@ -415,15 +415,6 @@
   },
   {
     "name": "4FINGERS CRISPY CHICKEN",
-    "address": "F1 Singapore Grand Prix 2025, 1 REPUBLIC BOULEVARD THE PIT BUILDING, EVL 3736 038975",
-    "type": "Short Term Stall(Bazaar/Road Shows)",
-    "number": "EEST20250000819",
-    "scheme": "Eating Establishment",
-    "id": "90b83324-363a-4406-9afa-08b19b67522d",
-    "postal": "038975"
-  },
-  {
-    "name": "4FINGERS CRISPY CHICKEN",
     "address": "225 JALAN KAYU 799449",
     "type": "Snack Bar / Bakery",
     "number": "EEBN21070012391",
@@ -2611,21 +2602,21 @@
   },
   {
     "name": "BAKE INC",
-    "address": "960 WOODLANDS ROAD #01-09 KRANJI MRT STATION 738702",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20240000117",
-    "scheme": "Eating Establishment",
-    "id": "da0503ca-1962-4761-9a81-674b82f2b814",
-    "postal": "738702"
-  },
-  {
-    "name": "BAKE INC",
     "address": "301 BOON LAY WAY #01-25/26 BOON LAY MRT STATION 649846",
     "type": "Snack Bar / Bakery",
     "number": "EESB20230001162",
     "scheme": "Eating Establishment",
     "id": "da0503ca-1962-4761-9a81-674b82f2b814",
     "postal": "649846"
+  },
+  {
+    "name": "BAKE INC",
+    "address": "960 WOODLANDS ROAD #01-09 KRANJI MRT STATION 738702",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20240000117",
+    "scheme": "Eating Establishment",
+    "id": "da0503ca-1962-4761-9a81-674b82f2b814",
+    "postal": "738702"
   },
   {
     "name": "BAKE INC",
@@ -2728,21 +2719,21 @@
   },
   {
     "name": "BAKEINC",
-    "address": "30 SEMBAWANG DRIVE #01-13 SUN PLAZA 757713",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000487",
-    "scheme": "Eating Establishment",
-    "id": "edbe1a4e-d230-4fe7-914b-eb8d94f1245a",
-    "postal": "757713"
-  },
-  {
-    "name": "BAKEINC",
     "address": "604 SEMBAWANG ROAD #B1-17 SEMBAWANG SHOPPING CENTRE 758459",
     "type": "Snack Bar / Bakery",
     "number": "EESB20250000087",
     "scheme": "Eating Establishment",
     "id": "edbe1a4e-d230-4fe7-914b-eb8d94f1245a",
     "postal": "758459"
+  },
+  {
+    "name": "BAKEINC",
+    "address": "30 SEMBAWANG DRIVE #01-13 SUN PLAZA 757713",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000487",
+    "scheme": "Eating Establishment",
+    "id": "edbe1a4e-d230-4fe7-914b-eb8d94f1245a",
+    "postal": "757713"
   },
   {
     "name": "BAKEINC",
@@ -14059,6 +14050,15 @@
   },
   {
     "name": "Kazo",
+    "address": "50 JURONG GATEWAY ROAD #B1-K26 JEM 608549",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB25100000006",
+    "scheme": "Eating Establishment",
+    "id": "766847d6-38ea-4363-818a-36bafdf12534",
+    "postal": "608549"
+  },
+  {
+    "name": "Kazo",
     "address": "391A ORCHARD ROAD #B2-7-5-3 NGEE ANN CITY 238873",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000057",
@@ -19548,6 +19548,15 @@
     "postal": "737628"
   },
   {
+    "name": "My Saap Saap Thai",
+    "address": "900 SOUTH WOODLANDS DRIVE #01-07 WOODLANDS CIVIC CENTRE 730900",
+    "type": "Restaurant",
+    "number": "EERT25100000007",
+    "scheme": "Eating Establishment",
+    "id": "62cc2c4f-0b17-4027-815b-7c8e667d1517",
+    "postal": "730900"
+  },
+  {
     "name": "MY SAAP SAAP THAI",
     "address": "1 Lower Kent Ridge Road #01-16/17 NUH MEDICAL CENTRE 119082",
     "type": "Restaurant",
@@ -20746,6 +20755,15 @@
   },
   {
     "name": "OLD CHANG KEE",
+    "address": "60 AIRPORT BOULEVARD #02-K7 CHANGI AIRPORT TERMINAL 2 819643",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20230001236",
+    "scheme": "Eating Establishment",
+    "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
+    "postal": "819643"
+  },
+  {
+    "name": "OLD CHANG KEE",
     "address": "180 KITCHENER ROAD #B1-K5 CITY SQUARE MALL,Stall K5 208539",
     "type": "Snack Bar / Bakery",
     "number": "EEBN20090011436",
@@ -20770,15 +20788,6 @@
     "scheme": "Eating Establishment",
     "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
     "postal": "579837"
-  },
-  {
-    "name": "OLD CHANG KEE",
-    "address": "1 MARITIME SQUARE #02-20B HARBOURFRONT CENTRE 099253",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20220000439",
-    "scheme": "Eating Establishment",
-    "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
-    "postal": "099253"
   },
   {
     "name": "OLD CHANG KEE",
@@ -20896,15 +20905,6 @@
     "scheme": "Eating Establishment",
     "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
     "postal": "757713"
-  },
-  {
-    "name": "OLD CHANG KEE",
-    "address": "60 AIRPORT BOULEVARD #02-K7 CHANGI AIRPORT TERMINAL 2 819643",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20230001236",
-    "scheme": "Eating Establishment",
-    "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
-    "postal": "819643"
   },
   {
     "name": "OLD CHANG KEE",
@@ -21706,15 +21706,6 @@
     "scheme": "Food Preparation Area",
     "id": "cbda37fd-204a-4f77-9689-3075eeb80e12",
     "postal": "419723"
-  },
-  {
-    "name": "Penang Culture",
-    "address": "2025 Formula 1 Singapore Airlines Singapore Grand Prix, 25 PARK STREET, EVL 1449 018929",
-    "type": "Short Term Stall(Bazaar/Road Shows)",
-    "number": "EEST20250000725",
-    "scheme": "Eating Establishment",
-    "id": "3f4b7938-9bf2-4cd1-8e1b-503ea01b2f44",
-    "postal": "018929"
   },
   {
     "name": "PENYET BETAWI (S3) @ KOUFU TOA PAYOH",
@@ -23038,6 +23029,15 @@
     "scheme": "Eating Establishment",
     "id": "5538d34b-20cc-40cc-b972-ab33e62bd1f8",
     "postal": "228213"
+  },
+  {
+    "name": "Pondok Selera By Nurul Hidayah",
+    "address": "8A ADMIRALTY STREET #07-38 FOOD XCHANGE @ ADMIRALTY 757437",
+    "type": "Catering Company",
+    "number": "FPCA20240001085",
+    "scheme": "Food Preparation Area",
+    "id": "8f6454b2-602c-4716-9676-b445a534cc6a",
+    "postal": "757437"
   },
   {
     "name": "POON RESOURCES PTE LTD",
@@ -27907,15 +27907,6 @@
     "scheme": "Eating Establishment",
     "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
     "postal": "738991"
-  },
-  {
-    "name": "SUBWAY",
-    "address": "678A WOODLANDS AVENUE 6 #01-29 ADMIRALTY PLACE 731678",
-    "type": "Restaurant",
-    "number": "EERT20230000257",
-    "scheme": "Eating Establishment",
-    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-    "postal": "731678"
   },
   {
     "name": "SUBWAY",

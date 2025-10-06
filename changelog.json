@@ -1,5 +1,84 @@
 [
   {
+    "timestamp": "2025-10-06T22:15:06.491575",
+    "date": "2025-10-06",
+    "summary": {
+      "new": 3,
+      "removed": 4,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "My Saap Saap Thai",
+          "address": "900 SOUTH WOODLANDS DRIVE #01-07 WOODLANDS CIVIC CENTRE 730900",
+          "type": "Restaurant",
+          "number": "EERT25100000007",
+          "scheme": "Eating Establishment",
+          "id": "62cc2c4f-0b17-4027-815b-7c8e667d1517",
+          "postal": "730900"
+        },
+        {
+          "name": "Kazo",
+          "address": "50 JURONG GATEWAY ROAD #B1-K26 JEM 608549",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB25100000006",
+          "scheme": "Eating Establishment",
+          "id": "766847d6-38ea-4363-818a-36bafdf12534",
+          "postal": "608549"
+        },
+        {
+          "name": "Pondok Selera By Nurul Hidayah",
+          "address": "8A ADMIRALTY STREET #07-38 FOOD XCHANGE @ ADMIRALTY 757437",
+          "type": "Catering Company",
+          "number": "FPCA20240001085",
+          "scheme": "Food Preparation Area",
+          "id": "8f6454b2-602c-4716-9676-b445a534cc6a",
+          "postal": "757437"
+        }
+      ],
+      "removed": [
+        {
+          "name": "OLD CHANG KEE",
+          "address": "1 MARITIME SQUARE #02-20B HARBOURFRONT CENTRE 099253",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000439",
+          "scheme": "Eating Establishment",
+          "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
+          "postal": "099253"
+        },
+        {
+          "name": "Penang Culture",
+          "address": "2025 Formula 1 Singapore Airlines Singapore Grand Prix, 25 PARK STREET, EVL 1449 018929",
+          "type": "Short Term Stall(Bazaar/Road Shows)",
+          "number": "EEST20250000725",
+          "scheme": "Eating Establishment",
+          "id": "3f4b7938-9bf2-4cd1-8e1b-503ea01b2f44",
+          "postal": "018929"
+        },
+        {
+          "name": "SUBWAY",
+          "address": "678A WOODLANDS AVENUE 6 #01-29 ADMIRALTY PLACE 731678",
+          "type": "Restaurant",
+          "number": "EERT20230000257",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "731678"
+        },
+        {
+          "name": "4FINGERS CRISPY CHICKEN",
+          "address": "F1 Singapore Grand Prix 2025, 1 REPUBLIC BOULEVARD THE PIT BUILDING, EVL 3736 038975",
+          "type": "Short Term Stall(Bazaar/Road Shows)",
+          "number": "EEST20250000819",
+          "scheme": "Eating Establishment",
+          "id": "90b83324-363a-4406-9afa-08b19b67522d",
+          "postal": "038975"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2025-10-02T22:14:05.667210",
     "date": "2025-10-02",
     "summary": {
