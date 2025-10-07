@@ -1,5 +1,219 @@
 [
   {
+    "timestamp": "2025-10-07T22:15:42.377957",
+    "date": "2025-10-07",
+    "summary": {
+      "new": 17,
+      "removed": 5,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Maki-San",
+          "address": "301 BOON LAY WAY #01-02 BOON LAY MRT STATION 649846",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000166",
+          "scheme": "Eating Establishment",
+          "id": "da99f4e2-a7e5-4a67-bfb0-774ff8557be3",
+          "postal": "649846"
+        },
+        {
+          "name": "Maki-San",
+          "address": "11 BIDADARI PARK DRIVE #B1-K18/K19 THE WOODLEIGH MALL 367803",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000760",
+          "scheme": "Eating Establishment",
+          "id": "da99f4e2-a7e5-4a67-bfb0-774ff8557be3",
+          "postal": "367803"
+        },
+        {
+          "name": "Maki-San",
+          "address": "17 PETIR ROAD #B2-07 HILLION MALL 678278",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21030012179",
+          "scheme": "Eating Establishment",
+          "id": "da99f4e2-a7e5-4a67-bfb0-774ff8557be3",
+          "postal": "678278"
+        },
+        {
+          "name": "Maki-San",
+          "address": "53 ANG MO KIO AVENUE 3 #B2-58 AMK HUB 569933",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21030012180",
+          "scheme": "Eating Establishment",
+          "id": "da99f4e2-a7e5-4a67-bfb0-774ff8557be3",
+          "postal": "569933"
+        },
+        {
+          "name": "Maki-San",
+          "address": "112 EAST COAST ROAD #B1-43 112 KATONG 428802",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013079",
+          "scheme": "Eating Establishment",
+          "id": "da99f4e2-a7e5-4a67-bfb0-774ff8557be3",
+          "postal": "428802"
+        },
+        {
+          "name": "US PIZZA",
+          "address": "107 NORTH BRIDGE ROAD #01-18 FUNAN 179105",
+          "type": "Restaurant",
+          "number": "EERT20250000321",
+          "scheme": "Eating Establishment",
+          "id": "8d46192a-5396-4bd8-87c5-6d3bcfc4d7c0",
+          "postal": "179105"
+        },
+        {
+          "name": "US PIZZA",
+          "address": "154 WEST COAST ROAD #B1-55/56 WEST COAST PLAZA 127371",
+          "type": "Restaurant",
+          "number": "EERT20250000283",
+          "scheme": "Eating Establishment",
+          "id": "8d46192a-5396-4bd8-87c5-6d3bcfc4d7c0",
+          "postal": "127371"
+        },
+        {
+          "name": "Maki-San",
+          "address": "8 GRANGE ROAD #B1-06 CATHAY CINELEISURE ORCHARD 239695",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000763",
+          "scheme": "Eating Establishment",
+          "id": "da99f4e2-a7e5-4a67-bfb0-774ff8557be3",
+          "postal": "239695"
+        },
+        {
+          "name": "Maki-San",
+          "address": "21 CHOA CHU KANG AVENUE 4 #B1-K31/K32 LOT ONE, SHOPPERS' MALL 689812",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21030012178",
+          "scheme": "Eating Establishment",
+          "id": "da99f4e2-a7e5-4a67-bfb0-774ff8557be3",
+          "postal": "689812"
+        },
+        {
+          "name": "Maki-San",
+          "address": "1 NORTHPOINT DRIVE #B2-135 NORTHPOINT CITY 768019",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000759",
+          "scheme": "Eating Establishment",
+          "id": "da99f4e2-a7e5-4a67-bfb0-774ff8557be3",
+          "postal": "768019"
+        },
+        {
+          "name": "Maki-San",
+          "address": "8A ADMIRALTY STREET #03-13 FOOD XCHANGE @ ADMIRALTY 757437",
+          "type": "Central Kitchen",
+          "number": "FPCN21040001503",
+          "scheme": "Food Preparation Area",
+          "id": "da99f4e2-a7e5-4a67-bfb0-774ff8557be3",
+          "postal": "757437"
+        },
+        {
+          "name": "Maki-San",
+          "address": "2 TAMPINES CENTRAL 5 #B1-26 CENTURY SQUARE 529509",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21040012196",
+          "scheme": "Eating Establishment",
+          "id": "da99f4e2-a7e5-4a67-bfb0-774ff8557be3",
+          "postal": "529509"
+        },
+        {
+          "name": "Maki-San",
+          "address": "302 TIONG BAHRU ROAD #01-159 TIONG BAHRU PLAZA 168732",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21040012194",
+          "scheme": "Eating Establishment",
+          "id": "da99f4e2-a7e5-4a67-bfb0-774ff8557be3",
+          "postal": "168732"
+        },
+        {
+          "name": "Maki-San",
+          "address": "1 SENGKANG SQUARE #01-45 COMPASS ONE 545078",
+          "type": "Restaurant",
+          "number": "EERN21040012246",
+          "scheme": "Eating Establishment",
+          "id": "da99f4e2-a7e5-4a67-bfb0-774ff8557be3",
+          "postal": "545078"
+        },
+        {
+          "name": "Maki-San",
+          "address": "681 PUNGGOL DRIVE #01-08 820681",
+          "type": "Restaurant",
+          "number": "EERN21040012258",
+          "scheme": "Eating Establishment",
+          "id": "da99f4e2-a7e5-4a67-bfb0-774ff8557be3",
+          "postal": "820681"
+        },
+        {
+          "name": "US PIZZA",
+          "address": "505 ANG MO KIO AVENUE 8 #01-2674 CHENG SAN CREST 560505",
+          "type": "Restaurant",
+          "number": "EERT20250000013",
+          "scheme": "Eating Establishment",
+          "id": "8d46192a-5396-4bd8-87c5-6d3bcfc4d7c0",
+          "postal": "560505"
+        },
+        {
+          "name": "Maki-San",
+          "address": "30 WOODLANDS AVENUE 2 #01-37 WOODLANDS MRT STATION 738343",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000758",
+          "scheme": "Eating Establishment",
+          "id": "da99f4e2-a7e5-4a67-bfb0-774ff8557be3",
+          "postal": "738343"
+        }
+      ],
+      "removed": [
+        {
+          "name": "SUBWAY",
+          "address": "31 WOODLANDS AVENUE 6 #01-02 WOODLANDS GALAXY COMMUNITY CLUB 738991",
+          "type": "Restaurant",
+          "number": "EERN21120013223",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "738991"
+        },
+        {
+          "name": "SUBWAY",
+          "address": "3 SIMEI STREET 6 #B1-10 EASTPOINT MALL 528833",
+          "type": "Restaurant",
+          "number": "EERN21110013149",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "528833"
+        },
+        {
+          "name": "PRIMADELI",
+          "address": "83 PUNGGOL CENTRAL #B1-K11 WATERWAY POINT 828761",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000358",
+          "scheme": "Eating Establishment",
+          "id": "02140cb6-f4b2-428b-9b58-14206e1bfafb",
+          "postal": "828761"
+        },
+        {
+          "name": "PRIMADELI",
+          "address": "351 ANCHORVALE ROAD #01-04 ANCHORVALE FIELDS 540351",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000727",
+          "scheme": "Eating Establishment",
+          "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+          "postal": "540351"
+        },
+        {
+          "name": "QI JI",
+          "address": "107 NORTH BRIDGE ROAD #B2-12 FUNAN 179105",
+          "type": "Restaurant",
+          "number": "EERN21050012345",
+          "scheme": "Eating Establishment",
+          "id": "01cd5d67-3096-4ef7-bc6a-394a937ea753",
+          "postal": "179105"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2025-10-06T22:15:06.491575",
     "date": "2025-10-06",
     "summary": {
