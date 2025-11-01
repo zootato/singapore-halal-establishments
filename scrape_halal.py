@@ -13,6 +13,8 @@ from datetime import datetime
 from typing import List, Dict, Set, Tuple
 import logging
 from bs4 import BeautifulSoup
+import urllib3
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -23,6 +25,7 @@ class HalalScraper:
         self.base_url = "https://halal.muis.gov.sg/api/halal/establishments"
         self.main_url = "https://halal.muis.gov.sg/halal/establishments"
         self.session = requests.Session()
+        self.session.verify = False  # Disable SSL verification
         self.session.headers.update({
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36',
             'Accept-Language': 'en-US,en;q=0.9',
