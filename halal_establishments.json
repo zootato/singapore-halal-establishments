@@ -20511,6 +20511,15 @@
     "postal": "308433"
   },
   {
+    "name": "Nasi U",
+    "address": "1 SENTUL WALK STALL 2 #01-302 NTWU CANTEEN, PUNGGOL COAST BUS INTERCHANGE 829858",
+    "type": "Hawker",
+    "number": "EEHK25100000146",
+    "scheme": "Eating Establishment",
+    "id": "c02e9a4c-68a1-4b03-8819-4aaef11cbb74",
+    "postal": "829858"
+  },
+  {
     "name": "NasiPadang,IndianDelights,ItalianOven@Micron10A (The Wok People)",
     "address": "1 NORTH COAST DRIVE #06-00 757432",
     "type": "Staff Canteen",
@@ -34306,6 +34315,15 @@
     "scheme": "Eating Establishment",
     "id": "e1eb4468-e706-4f99-bbf2-2603b062790c",
     "postal": "538692"
+  },
+  {
+    "name": "Wikedo Western (MR6) @ Koufu Tampines Mart",
+    "address": "9 TAMPINES STREET 32 #01-01-14, MR6 529286",
+    "type": "Hawker",
+    "number": "EEHK20230000783",
+    "scheme": "Eating Establishment",
+    "id": "c1abd9c7-87a7-40ff-94c5-075bfd419193",
+    "postal": "529286"
   },
   {
     "name": "Wild West Grills (S2) @ Makan@Grab Media Close",

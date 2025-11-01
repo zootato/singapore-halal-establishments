@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2025-11-01T22:14:51.717962",
+    "date": "2025-11-01",
+    "summary": {
+      "new": 2,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Wikedo Western (MR6) @ Koufu Tampines Mart",
+          "address": "9 TAMPINES STREET 32 #01-01-14, MR6 529286",
+          "type": "Hawker",
+          "number": "EEHK20230000783",
+          "scheme": "Eating Establishment",
+          "id": "c1abd9c7-87a7-40ff-94c5-075bfd419193",
+          "postal": "529286"
+        },
+        {
+          "name": "Nasi U",
+          "address": "1 SENTUL WALK STALL 2 #01-302 NTWU CANTEEN, PUNGGOL COAST BUS INTERCHANGE 829858",
+          "type": "Hawker",
+          "number": "EEHK25100000146",
+          "scheme": "Eating Establishment",
+          "id": "c02e9a4c-68a1-4b03-8819-4aaef11cbb74",
+          "postal": "829858"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2025-11-01T02:07:12.904809",
     "date": "2025-11-01",
     "summary": {
