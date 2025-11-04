@@ -3870,6 +3870,15 @@
     "postal": "690127"
   },
   {
+    "name": "Buhari Cafe & Restaurant Indian Muslim Food",
+    "address": "80 AIRPORT BOULEVARD Upper Basement Canteen S1 THE ORCHIS FOOD COURT@CHANGI AIRPORT TERMINAL 1 819642",
+    "type": "Hawker",
+    "number": "EEHK25110000009",
+    "scheme": "Eating Establishment",
+    "id": "2c63e59a-0254-4edb-8ccb-22ce5afd963a",
+    "postal": "819642"
+  },
+  {
     "name": "BUMBU MAS KITCHEN",
     "address": "1007 ALJUNIED AVENUE 4 #01-01 389908",
     "type": "Central Kitchen",
@@ -5947,6 +5956,15 @@
     "scheme": "Eating Establishment",
     "id": "85cd77f0-7459-468e-9917-7561c6d98d5a",
     "postal": "609606"
+  },
+  {
+    "name": "Cik Lim Yong Tau Foo",
+    "address": "3 TEMASEK BOULEVARD (MR2) @ Food Arena Suntec City Mall #03-367, #03-368, #03-369, #03-370 SUNTEC CITY MALL 038983",
+    "type": "Hawker",
+    "number": "EEHK25110000003",
+    "scheme": "Eating Establishment",
+    "id": "53191ce8-75ad-456b-b35c-ffeee389d0f9",
+    "postal": "038983"
   },
   {
     "name": "Cik Lim Yong Tau Foo (MR2) @ Cantine Canberra Plaza",
@@ -8668,15 +8686,6 @@
   },
   {
     "name": "Dunkin'",
-    "address": "14 SCOTTS ROAD #01-03 FAR EAST PLAZA 228213",
-    "type": "Restaurant",
-    "number": "EERT20240000421",
-    "scheme": "Eating Establishment",
-    "id": "83555d54-74f6-478d-9393-666f698a1c48",
-    "postal": "228213"
-  },
-  {
-    "name": "Dunkin'",
     "address": "7 PASIR RIS CENTRAL #B1-K17 519612",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000727",
@@ -8692,6 +8701,15 @@
     "scheme": "Eating Establishment",
     "id": "83555d54-74f6-478d-9393-666f698a1c48",
     "postal": "738099"
+  },
+  {
+    "name": "Dunkin'",
+    "address": "14 SCOTTS ROAD #01-03 FAR EAST PLAZA 228213",
+    "type": "Restaurant",
+    "number": "EERT20240000421",
+    "scheme": "Eating Establishment",
+    "id": "83555d54-74f6-478d-9393-666f698a1c48",
+    "postal": "228213"
   },
   {
     "name": "Dunkin'",
@@ -9874,15 +9892,6 @@
   },
   {
     "name": "Fish & Co.",
-    "address": "10 SENGKANG SQUARE #01-54 KOPITIAM SQUARE 544829",
-    "type": "Hawker",
-    "number": "EEHN21110012970",
-    "scheme": "Eating Establishment",
-    "id": "6abb1b61-dc88-42cc-9d64-a8e900a62115",
-    "postal": "544829"
-  },
-  {
-    "name": "Fish & Co.",
     "address": "244 JALAN KAYU 799468",
     "type": "Hawker",
     "number": "EEHX21110012969",
@@ -9898,6 +9907,15 @@
     "scheme": "Eating Establishment",
     "id": "631ef2cc-69ac-47ac-ac09-be02a7039f65",
     "postal": "819666"
+  },
+  {
+    "name": "Fish & Co.",
+    "address": "10 SENGKANG SQUARE #01-54 KOPITIAM SQUARE 544829",
+    "type": "Hawker",
+    "number": "EEHN21110012970",
+    "scheme": "Eating Establishment",
+    "id": "6abb1b61-dc88-42cc-9d64-a8e900a62115",
+    "postal": "544829"
   },
   {
     "name": "FISH & CO. RESTAURANTS PTE LTD",
@@ -19980,6 +19998,15 @@
     "postal": "768019"
   },
   {
+    "name": "MUNCHI PANCAKES",
+    "address": "311 NEW UPPER CHANGI ROAD #B2-K12 BEDOK MALL 467360",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB25100000133",
+    "scheme": "Eating Establishment",
+    "id": "267f7410-4bb5-4ed0-8201-ea717282e07b",
+    "postal": "467360"
+  },
+  {
     "name": "MUNCHI PANCAKES(S1) @ ANCHORVALE VILLAGE HAWKER CENTRE",
     "address": "339 ANCHORVALE ROAD #02-01 Anchorvale Village Hawker Centre 540339",
     "type": "Hawker",
@@ -19987,6 +20014,15 @@
     "scheme": "Eating Establishment",
     "id": "51ff3e3b-8d3b-492a-ba6a-751c835f20fd",
     "postal": "540339"
+  },
+  {
+    "name": "MUNCHI PANCAKES(S38) @ WOODLEIGH VILLAGE HAWKER CENTRE",
+    "address": "202C WOODLEIGH LINK #01-38 363202",
+    "type": "Hawker",
+    "number": "EEHK20240000924",
+    "scheme": "Eating Establishment",
+    "id": "6c4dc028-c30c-458c-9f08-e1622953f083",
+    "postal": "363202"
   },
   {
     "name": "MUNCHI PANCAKES(S39) @ CI YUAN COMMUNITY CLUB HAWKER CENTRE",
@@ -20527,6 +20563,42 @@
     "scheme": "Eating Establishment",
     "id": "02e615be-6bd7-45d0-992f-253a74fd1cfd",
     "postal": "757432"
+  },
+  {
+    "name": "NASTY COOKIE",
+    "address": "6 RAFFLES BOULEVARD #02-271 MARINA SQUARE 039594",
+    "type": "Restaurant",
+    "number": "EERT20240000919",
+    "scheme": "Eating Establishment",
+    "id": "00bb8d74-a1c6-4dd1-adad-d89a87a0083f",
+    "postal": "039594"
+  },
+  {
+    "name": "NASTY COOKIE",
+    "address": "277 ORCHARD ROAD #B2-10 ORCHARD GATEWAY 238858",
+    "type": "Restaurant",
+    "number": "EERT20230000983",
+    "scheme": "Eating Establishment",
+    "id": "00bb8d74-a1c6-4dd1-adad-d89a87a0083f",
+    "postal": "238858"
+  },
+  {
+    "name": "NASTY COOKIE",
+    "address": "3 GATEWAY DRIVE #01-09 WESTGATE 608532",
+    "type": "Restaurant",
+    "number": "EERT20230000980",
+    "scheme": "Eating Establishment",
+    "id": "11a08e54-d670-488c-ad60-23bcd6e1184c",
+    "postal": "608532"
+  },
+  {
+    "name": "NASTY COOKIE PTE. LTD.",
+    "address": "21 TAMPINES STREET 92 #04-03A HERSING KITCHEN 528891",
+    "type": "Central Kitchen",
+    "number": "FPCK20230000979",
+    "scheme": "Food Preparation Area",
+    "id": "2d8d1a8c-aa2d-45a9-baa7-6349020b6a7a",
+    "postal": "528891"
   },
   {
     "name": "NENE CHICKEN",
@@ -24804,6 +24876,87 @@
     "postal": "648166"
   },
   {
+    "name": "RIVE GAUCHE PATISSERIE",
+    "address": "20 TAN QUEE LAN STREET #01-05 GUOCO MIDTOWN II 188107",
+    "type": "Restaurant",
+    "number": "EERT25110000014",
+    "scheme": "Eating Establishment",
+    "id": "8bfe6517-83bd-4a52-b3a2-0be050fe21c3",
+    "postal": "188107"
+  },
+  {
+    "name": "RIVE GAUCHE PATISSERIE",
+    "address": "2 ORCHARD TURN #B4-71 ION ORCHARD 238801",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB25110000015",
+    "scheme": "Eating Establishment",
+    "id": "8bfe6517-83bd-4a52-b3a2-0be050fe21c3",
+    "postal": "238801"
+  },
+  {
+    "name": "RIVE GAUCHE PATISSERIE",
+    "address": "23 SERANGOON CENTRAL #B1-16 NEX 556083",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB25110000016",
+    "scheme": "Eating Establishment",
+    "id": "8bfe6517-83bd-4a52-b3a2-0be050fe21c3",
+    "postal": "556083"
+  },
+  {
+    "name": "RIVE GAUCHE PATISSERIE",
+    "address": "1 NORTHPOINT DRIVE #B2-156 NORTHPOINT CITY 768019",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB25110000017",
+    "scheme": "Eating Establishment",
+    "id": "8bfe6517-83bd-4a52-b3a2-0be050fe21c3",
+    "postal": "768019"
+  },
+  {
+    "name": "RIVE GAUCHE PATISSERIE",
+    "address": "80 MARINE PARADE ROAD #03-30C PARKWAY PARADE 449269",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB25110000018",
+    "scheme": "Eating Establishment",
+    "id": "8bfe6517-83bd-4a52-b3a2-0be050fe21c3",
+    "postal": "449269"
+  },
+  {
+    "name": "RIVE GAUCHE PATISSERIE",
+    "address": "252 NORTH BRIDGE ROAD #B1-50 RAFFLES CITY SHOPPING CENTRE 179103",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB25110000019",
+    "scheme": "Eating Establishment",
+    "id": "8bfe6517-83bd-4a52-b3a2-0be050fe21c3",
+    "postal": "179103"
+  },
+  {
+    "name": "RIVE GAUCHE PATISSERIE",
+    "address": "1 VISTA EXCHANGE GREEN #B1-37C THE STAR VISTA 138617",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB25110000020",
+    "scheme": "Eating Establishment",
+    "id": "8bfe6517-83bd-4a52-b3a2-0be050fe21c3",
+    "postal": "138617"
+  },
+  {
+    "name": "RIVE GAUCHE PATISSERIE",
+    "address": "10 TAMPINES CENTRAL 1 #B1-14 TAMPINES ONE 529536",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB25110000021",
+    "scheme": "Eating Establishment",
+    "id": "8bfe6517-83bd-4a52-b3a2-0be050fe21c3",
+    "postal": "529536"
+  },
+  {
+    "name": "RIVE GAUCHE PATISSERIE",
+    "address": "16 WAN LEE ROAD #03-01 627946",
+    "type": "Central Kitchen",
+    "number": "FPCK25110000013",
+    "scheme": "Food Preparation Area",
+    "id": "8bfe6517-83bd-4a52-b3a2-0be050fe21c3",
+    "postal": "627946"
+  },
+  {
     "name": "RM 761 Express (S5)@761 Coffee Station Yishun",
     "address": "761 YISHUN STREET 72 #01-338,STALL 5 760761",
     "type": "Hawker",
@@ -27496,24 +27649,6 @@
   },
   {
     "name": "STUFF'D",
-    "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #B1-20 CHANGI CITY POINT 486038",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN21110012909",
-    "scheme": "Eating Establishment",
-    "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
-    "postal": "486038"
-  },
-  {
-    "name": "STUFF'D",
-    "address": "1 SENGKANG SQUARE #B1-02/03 COMPASS ONE 545078",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN21110012941",
-    "scheme": "Eating Establishment",
-    "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
-    "postal": "545078"
-  },
-  {
-    "name": "STUFF'D",
     "address": "33 SENGKANG WEST AVENUE #B2-22/23 THE SELETAR MALL 797653",
     "type": "Snack Bar / Bakery",
     "number": "EEBN21110012936",
@@ -27565,6 +27700,15 @@
     "scheme": "Eating Establishment",
     "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
     "postal": "179103"
+  },
+  {
+    "name": "STUFF'D",
+    "address": "1 SENGKANG SQUARE #B1-02/03 COMPASS ONE 545078",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN21110012941",
+    "scheme": "Eating Establishment",
+    "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
+    "postal": "545078"
   },
   {
     "name": "STUFF'D",
@@ -27703,6 +27847,15 @@
   },
   {
     "name": "STUFF'D",
+    "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #B1-20 CHANGI CITY POINT 486038",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN21110012909",
+    "scheme": "Eating Establishment",
+    "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
+    "postal": "486038"
+  },
+  {
+    "name": "STUFF'D",
     "address": "2 SIMEI STREET 3 #01-04 CHANGI GENERAL HOSPITAL 529889",
     "type": "Restaurant",
     "number": "EERT20240001168",
@@ -27748,42 +27901,6 @@
   },
   {
     "name": "SUBWAY",
-    "address": "1 SENGKANG SQUARE #01-20 COMPASS ONE 545078",
-    "type": "Restaurant",
-    "number": "EERN21110013126",
-    "scheme": "Eating Establishment",
-    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-    "postal": "545078"
-  },
-  {
-    "name": "SUBWAY",
-    "address": "275D COMPASSVALE LINK #01-01 KOPITIAM CITY ASPELLA 544275",
-    "type": "Restaurant",
-    "number": "EERN21110013137",
-    "scheme": "Eating Establishment",
-    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-    "postal": "544275"
-  },
-  {
-    "name": "SUBWAY",
-    "address": "383 BUKIT TIMAH ROAD #01-05 ALOCASSIA APARTMENTS 259727",
-    "type": "Restaurant",
-    "number": "EERN21110013178",
-    "scheme": "Eating Establishment",
-    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-    "postal": "259727"
-  },
-  {
-    "name": "SUBWAY",
-    "address": "40 Pasir Panjang Road #02-34 Maple Tree Business City 117383",
-    "type": "Restaurant",
-    "number": "EERN21110013197",
-    "scheme": "Eating Establishment",
-    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-    "postal": "117383"
-  },
-  {
-    "name": "SUBWAY",
     "address": "1 VISTA EXCHANGE GREEN #01-22 THE STAR VISTA 138617",
     "type": "Restaurant",
     "number": "EERT20220001033",
@@ -27808,6 +27925,15 @@
     "scheme": "Eating Establishment",
     "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
     "postal": "528766"
+  },
+  {
+    "name": "SUBWAY",
+    "address": "383 BUKIT TIMAH ROAD #01-05 ALOCASSIA APARTMENTS 259727",
+    "type": "Restaurant",
+    "number": "EERN21110013178",
+    "scheme": "Eating Establishment",
+    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+    "postal": "259727"
   },
   {
     "name": "SUBWAY",
@@ -28024,6 +28150,24 @@
     "scheme": "Eating Establishment",
     "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
     "postal": "039802"
+  },
+  {
+    "name": "SUBWAY",
+    "address": "1 SENGKANG SQUARE #01-20 COMPASS ONE 545078",
+    "type": "Restaurant",
+    "number": "EERN21110013126",
+    "scheme": "Eating Establishment",
+    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+    "postal": "545078"
+  },
+  {
+    "name": "SUBWAY",
+    "address": "275D COMPASSVALE LINK #01-01 KOPITIAM CITY ASPELLA 544275",
+    "type": "Restaurant",
+    "number": "EERN21110013137",
+    "scheme": "Eating Establishment",
+    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+    "postal": "544275"
   },
   {
     "name": "SUBWAY",
@@ -28585,6 +28729,15 @@
   },
   {
     "name": "SUBWAY",
+    "address": "40 Pasir Panjang Road #02-34 Maple Tree Business City 117383",
+    "type": "Restaurant",
+    "number": "EERN21110013197",
+    "scheme": "Eating Establishment",
+    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+    "postal": "117383"
+  },
+  {
+    "name": "SUBWAY",
     "address": "133 NEW BRIDGE ROAD #B1-37 CHINATOWN POINT 059413",
     "type": "Restaurant",
     "number": "EERN21110013103",
@@ -28648,24 +28801,6 @@
   },
   {
     "name": "Sukiya Gyudon • Curry",
-    "address": "70 COMPASSVALE BOW #01-69/70 544692",
-    "type": "Restaurant",
-    "number": "EERT20230000463",
-    "scheme": "Eating Establishment",
-    "id": "f25faa72-19a1-4c85-a920-fc1462f72292",
-    "postal": "544692"
-  },
-  {
-    "name": "Sukiya Gyudon • Curry",
-    "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #01-12 CHANGI CITY POINT 486038",
-    "type": "Restaurant",
-    "number": "EERT20240000365",
-    "scheme": "Eating Establishment",
-    "id": "f25faa72-19a1-4c85-a920-fc1462f72292",
-    "postal": "486038"
-  },
-  {
-    "name": "Sukiya Gyudon • Curry",
     "address": "33 SENGKANG WEST AVENUE #01-28/29/30 THE SELETAR MALL 797653",
     "type": "Restaurant",
     "number": "EERT20230001020",
@@ -28681,6 +28816,15 @@
     "scheme": "Eating Establishment",
     "id": "f25faa72-19a1-4c85-a920-fc1462f72292",
     "postal": "039594"
+  },
+  {
+    "name": "Sukiya Gyudon • Curry",
+    "address": "70 COMPASSVALE BOW #01-69/70 544692",
+    "type": "Restaurant",
+    "number": "EERT20230000463",
+    "scheme": "Eating Establishment",
+    "id": "f25faa72-19a1-4c85-a920-fc1462f72292",
+    "postal": "544692"
   },
   {
     "name": "Sukiya Gyudon • Curry",
@@ -28780,6 +28924,15 @@
     "scheme": "Eating Establishment",
     "id": "f25faa72-19a1-4c85-a920-fc1462f72292",
     "postal": "307506"
+  },
+  {
+    "name": "Sukiya Gyudon • Curry",
+    "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #01-12 CHANGI CITY POINT 486038",
+    "type": "Restaurant",
+    "number": "EERT20240000365",
+    "scheme": "Eating Establishment",
+    "id": "f25faa72-19a1-4c85-a920-fc1462f72292",
+    "postal": "486038"
   },
   {
     "name": "Sukiya Gyudon • Curry",
@@ -30328,15 +30481,6 @@
     "scheme": "Eating Establishment",
     "id": "2a66ae9a-f2e9-45d2-9c83-299a8aba23c6",
     "postal": "409051"
-  },
-  {
-    "name": "Telur Thai (S19) @ Kopitiam Tampines Mall",
-    "address": "4 TAMPINES CENTRAL 5 #04-27 TAMPINES MALL, Stall 19 529510",
-    "type": "Hawker",
-    "number": "EEHK20240000079",
-    "scheme": "Eating Establishment",
-    "id": "135a9f83-f2f4-40b3-8aac-e663ee9034df",
-    "postal": "529510"
   },
   {
     "name": "Telur Thai (S7) @ Cantine Greenridge Shopping Centre",
@@ -35017,6 +35161,15 @@
     "scheme": "Eating Establishment",
     "id": "afdf3d47-0667-4719-b5d3-4398c4ee4a02",
     "postal": "470741"
+  },
+  {
+    "name": "YB Fried Bee Hoon",
+    "address": "437 FERNVALE ROAD (S10)@Kopitiam Fernvale #01-01 FERNVALE GROVE 790437",
+    "type": "Hawker",
+    "number": "EEHK25110000008",
+    "scheme": "Eating Establishment",
+    "id": "226370e2-ec42-4b14-bfbe-d2bc897d1580",
+    "postal": "790437"
   },
   {
     "name": "Yea Mama Catering",
