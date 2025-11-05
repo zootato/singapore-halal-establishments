@@ -1,5 +1,246 @@
 [
   {
+    "timestamp": "2025-11-05T22:16:12.985568",
+    "date": "2025-11-05",
+    "summary": {
+      "new": 20,
+      "removed": 5,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "FLIPPER'S",
+          "address": "200 VICTORIA STREET #01-97 BUGIS JUNCTION 188021",
+          "type": "Restaurant",
+          "number": "EERT20220000134",
+          "scheme": "Eating Establishment",
+          "id": "606d294c-88b9-43ef-88f9-4e099b71c39b",
+          "postal": "188021"
+        },
+        {
+          "name": "FLIPPER'S",
+          "address": "3 GATEWAY DRIVE #01-42 WESTGATE 608532",
+          "type": "Restaurant",
+          "number": "EERT20240000133",
+          "scheme": "Eating Establishment",
+          "id": "606d294c-88b9-43ef-88f9-4e099b71c39b",
+          "postal": "608532"
+        },
+        {
+          "name": "MUNCHI PANCAKES(S3) @ KOPITIAM CORNER Simei",
+          "address": "248 SIMEI STREET 3 #01-136 520248",
+          "type": "Hawker",
+          "number": "EEHK20230001177",
+          "scheme": "Eating Establishment",
+          "id": "c6c390c7-a684-415b-ba61-367f7e0c1ded",
+          "postal": "520248"
+        },
+        {
+          "name": "MUNCHI PANCAKES (S67) @ OUR TAMPINES HUB",
+          "address": "1 TAMPINES WALK #01-67 OUR TAMPINES HUB 528523",
+          "type": "Hawker",
+          "number": "EEHK20230000825",
+          "scheme": "Eating Establishment",
+          "id": "6f3d7e7a-26d2-476f-b2ef-2837f54f4751",
+          "postal": "528523"
+        },
+        {
+          "name": "ALC RICE BOWLS",
+          "address": "7 WALLICH STREET #B2-22 TANJONG PAGAR CENTRE 078884",
+          "type": "Restaurant",
+          "number": "EERT20250000392",
+          "scheme": "Eating Establishment",
+          "id": "932905ed-ec6e-46d9-80af-c099ef7ba866",
+          "postal": "078884"
+        },
+        {
+          "name": "MUNCHI PANCAKES (S56) @ KOPITIAM SQUARE",
+          "address": "10 SENGKANG SQUARE #01-56 KOPITIAM SQUARE 544829",
+          "type": "Hawker",
+          "number": "EEHK20230000822",
+          "scheme": "Eating Establishment",
+          "id": "b5a1d548-9096-4449-8f6c-03aceb0839e5",
+          "postal": "544829"
+        },
+        {
+          "name": "Munchi Pancakes (S13) @ Bukit Batok West Hawker Centre",
+          "address": "469 BUKIT BATOK WEST AVENUE 9 #01-13 HARMONY VILLAGE @ BUKIT BATOK 650469",
+          "type": "Hawker",
+          "number": "EEHK20250000432",
+          "scheme": "Eating Establishment",
+          "id": "b11ac16e-b96c-4134-9a33-2edb69f798f9",
+          "postal": "650469"
+        },
+        {
+          "name": "MUNCHI PANCAKES (K45) @BUANGKOK HAWKER CENTRE",
+          "address": "70 COMPASSVALE BOW #02-K45 544692",
+          "type": "Hawker",
+          "number": "EEHK20240000328",
+          "scheme": "Eating Establishment",
+          "id": "1e94b84b-9c6b-407c-aebc-d1f12d891897",
+          "postal": "544692"
+        },
+        {
+          "name": "MUNCHI PANCAKES (S61) @ LAU PA SAT FESTIVAL MARKET",
+          "address": "18 RAFFLES QUAY TELOK AYER FESTIVAL MARKET, 61 048582",
+          "type": "Hawker",
+          "number": "EEHK20230000278",
+          "scheme": "Eating Establishment",
+          "id": "e57b059d-4dce-4238-a370-04050ada426a",
+          "postal": "048582"
+        },
+        {
+          "name": "MUNCHI PANCAKES (S2) @ KOPITIAM CORNER 118 RIVERVALE DRIVE",
+          "address": "118 RIVERVALE DRIVE #02-14 RIVERVALE PLAZA 540118",
+          "type": "Hawker",
+          "number": "EEHK20240000270",
+          "scheme": "Eating Establishment",
+          "id": "74eeb9b2-986c-4771-9a30-331beefa8a3f",
+          "postal": "540118"
+        },
+        {
+          "name": "MUNCHI PANCAKES (S23) @ SENJA HAWKER CENTRE",
+          "address": "2 SENJA CLOSE #02-23, (Stall 23) 677632",
+          "type": "Hawker",
+          "number": "EEHK20230000346",
+          "scheme": "Eating Establishment",
+          "id": "1ea5fee5-797f-4db5-af53-87ad9189eea9",
+          "postal": "677632"
+        },
+        {
+          "name": "Munchi Pancakes(S4) @ Fernvale Hawker Centre.",
+          "address": "21 SENGKANG WEST AVENUE #03-04 FERNVALE POINT 797650",
+          "type": "Hawker",
+          "number": "EEHK20220000937",
+          "scheme": "Eating Establishment",
+          "id": "35173000-643c-4dfc-87b1-f002eb9d90bc",
+          "postal": "797650"
+        },
+        {
+          "name": "NASTY COOKIE",
+          "address": "78 AIRPORT BOULEVARD #03-207 JEWEL CHANGI AIRPORT 819666",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000480",
+          "scheme": "Eating Establishment",
+          "id": "00bb8d74-a1c6-4dd1-adad-d89a87a0083f",
+          "postal": "819666"
+        },
+        {
+          "name": "MUNCHI PANCAKES (S36) @ ONE PUNGGOL HAWKER CENTRE",
+          "address": "1 PUNGGOL DRIVE #02-36 ONE PUNGGOL 828629",
+          "type": "Hawker",
+          "number": "EEHK20240000327",
+          "scheme": "Eating Establishment",
+          "id": "0a61c40a-29e4-4dcb-96b4-f67a5dd2ae4c",
+          "postal": "828629"
+        },
+        {
+          "name": "MUNCHI PANCAKES(S13) @ JURONG WEST HAWKER CENTRE",
+          "address": "50 JURONG WEST STREET 61 #01-13 648202",
+          "type": "Hawker",
+          "number": "EEHK20230001241",
+          "scheme": "Eating Establishment",
+          "id": "13cdd6d7-2cbe-4905-bbec-a1bdea2a5883",
+          "postal": "648202"
+        },
+        {
+          "name": "MUNCHI PANCAKES (S18) @ PASIR RIS CENTRAL HAWKER CENTRE",
+          "address": "110 PASIR RIS CENTRAL #01-18 519641",
+          "type": "Hawker",
+          "number": "EEHK20240000326",
+          "scheme": "Eating Establishment",
+          "id": "a070d7e7-f51d-43e9-bb2b-cbc10f904d29",
+          "postal": "519641"
+        },
+        {
+          "name": "MUNCHI PANCAKES (S43) @ YISHUN PARK HAWKER CENTRE",
+          "address": "51 YISHUN AVENUE 11 #01-43 Yishun Park Hawker Centre 768867",
+          "type": "Hawker",
+          "number": "EEHK20220000457",
+          "scheme": "Eating Establishment",
+          "id": "48e53925-726b-487f-bc45-515a853c2acc",
+          "postal": "768867"
+        },
+        {
+          "name": "ALC RICE BOWLS",
+          "address": "311 NEW UPPER CHANGI ROAD #B2-K13 BEDOK INTEGRATED TRANSPORT HUB 467360",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB25100000138",
+          "scheme": "Eating Establishment",
+          "id": "932905ed-ec6e-46d9-80af-c099ef7ba866",
+          "postal": "467360"
+        },
+        {
+          "name": "MUNCHI PANCAKES (S13) @ KOPITIAM CORNER KANG KAR MALL",
+          "address": "100 HOUGANG AVENUE 10 #01-02 KANG KAR MALL, Stall 13 538767",
+          "type": "Hawker",
+          "number": "EEHK20230001007",
+          "scheme": "Eating Establishment",
+          "id": "bf22e4ee-0710-49c8-b9fc-489dbf065689",
+          "postal": "538767"
+        },
+        {
+          "name": "E18HTEENCHEFS",
+          "address": "33 SENGKANG WEST AVENUE 02-14/15/16 THE SELETAR MALL 797653",
+          "type": "Restaurant",
+          "number": "EERT25110000006",
+          "scheme": "Eating Establishment",
+          "id": "a43c4044-2cb3-4fc5-ab3b-6e9556e5d35d",
+          "postal": "797653"
+        }
+      ],
+      "removed": [
+        {
+          "name": "FONG SENG NASI LEMAK",
+          "address": "101 Pasir Panjang Road 118527",
+          "type": "Restaurant",
+          "number": "EERN21020012034",
+          "scheme": "Eating Establishment",
+          "id": "050c83b7-f1f2-48ab-9b49-9b149adf4a27",
+          "postal": "118527"
+        },
+        {
+          "name": "Tenderbest",
+          "address": "101 YUNG SHENG ROAD #01-01 JURONG THEATRE, Stall 2 618497",
+          "type": "Hawker",
+          "number": "EEHN21060012444",
+          "scheme": "Eating Establishment",
+          "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
+          "postal": "618497"
+        },
+        {
+          "name": "MY SAAP SAAP THAI",
+          "address": "1 Lower Kent Ridge Road #01-16/17 NUH MEDICAL CENTRE 119082",
+          "type": "Restaurant",
+          "number": "EERN21060012448",
+          "scheme": "Eating Establishment",
+          "id": "9755e0bc-ad15-4b80-a18d-2a61afe5f5c5",
+          "postal": "119082"
+        },
+        {
+          "name": "McDonald's",
+          "address": "12 KALLANG AVENUE #01-24 APERIA MALL 339511",
+          "type": "Restaurant",
+          "number": "EERN20020011061",
+          "scheme": "Eating Establishment",
+          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+          "postal": "339511"
+        },
+        {
+          "name": "YOSHINOYA",
+          "address": "1 TAMPINES WALK #B1-K1/K22/K2 OUR TAMPINES HUB 528523",
+          "type": "Restaurant",
+          "number": "EERT20240001212",
+          "scheme": "Eating Establishment",
+          "id": "b3f7acc2-ed44-4e1d-be2f-ddfd176c2011",
+          "postal": "528523"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2025-11-04T22:16:02.541963",
     "date": "2025-11-04",
     "summary": {
