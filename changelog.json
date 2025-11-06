@@ -1,5 +1,47 @@
 [
   {
+    "timestamp": "2025-11-06T22:16:27.581658",
+    "date": "2025-11-06",
+    "summary": {
+      "new": 3,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "MIKKO BUBBLE TEA & CHILL CORNER.",
+          "address": "442 PASIR RIS DRIVE 6 #01-48 510442",
+          "type": "Restaurant",
+          "number": "EERT20230000988",
+          "scheme": "Eating Establishment",
+          "id": "5482bc24-af01-45ca-a680-8c12a0d370ed",
+          "postal": "510442"
+        },
+        {
+          "name": "HOW'S CATERING",
+          "address": "3 ENTERPRISE ROAD 3/5 Enterprise Road 629815",
+          "type": "Catering Company",
+          "number": "FPCA25110000011",
+          "scheme": "Food Preparation Area",
+          "id": "2d77e49c-8eaf-4a1d-a85f-89fd7798534c",
+          "postal": "629815"
+        },
+        {
+          "name": "Carrara",
+          "address": "2 JALAN BUKIT MERAH #01-5148 BRICKWORKS ESTATE 150002",
+          "type": "Restaurant",
+          "number": "EERT20240000647",
+          "scheme": "Eating Establishment",
+          "id": "dc42ca27-88f2-4703-be62-fa8f079daddd",
+          "postal": "150002"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2025-11-05T22:16:12.985568",
     "date": "2025-11-05",
     "summary": {
