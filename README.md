@@ -11,7 +11,7 @@ Automated daily-updated database of halal-certified establishments in Singapore 
 ## 📈 Statistics
 
 - **Total Establishments**: 3953
-- **Last Updated**: 2025-11-06
+- **Last Updated**: 2025-11-07
 - **Data Source**: [MUIS Halal Directory](https://halal.muis.gov.sg/halal/establishments)
 
 ## 🔄 Automated Updates
