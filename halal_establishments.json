@@ -900,6 +900,15 @@
     "postal": "650374"
   },
   {
+    "name": "Aishwarya Kitchen (S2) @ Adi Foods",
+    "address": "180 WOODLANDS INDUSTRIAL PARK E5 #01-01 WOODLANDS AUTO HUB, STALL 2 757512",
+    "type": "Hawker",
+    "number": "EEHN21100012688",
+    "scheme": "Eating Establishment",
+    "id": "e3e6339f-2dc4-40cc-b8a7-80d315beebd3",
+    "postal": "757512"
+  },
+  {
     "name": "AJ DELIGHTS",
     "address": "1 FUSIONOPOLIS WAY #B1-22 CONNEXIS 138632",
     "type": "Restaurant",
@@ -4942,15 +4951,6 @@
   },
   {
     "name": "CANADIAN 2 FOR 1 PIZZA",
-    "address": "369 SEMBAWANG ROAD #01-02 Sembawang Cottage 758382",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN21050012267",
-    "scheme": "Eating Establishment",
-    "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
-    "postal": "758382"
-  },
-  {
-    "name": "CANADIAN 2 FOR 1 PIZZA",
     "address": "1 STADIUM DRIVE 642 397629",
     "type": "Hawker",
     "number": "EEHK20240000591",
@@ -5038,6 +5038,15 @@
     "scheme": "Eating Establishment",
     "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
     "postal": "598332"
+  },
+  {
+    "name": "CANADIAN 2 FOR 1 PIZZA",
+    "address": "369 SEMBAWANG ROAD #01-02 Sembawang Cottage 758382",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN21050012267",
+    "scheme": "Eating Establishment",
+    "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
+    "postal": "758382"
   },
   {
     "name": "CANADIAN 2 FOR 1 PIZZA",
@@ -24076,21 +24085,21 @@
   },
   {
     "name": "Poulet",
-    "address": "1 WOODLANDS SQUARE #B1-25 CAUSEWAY POINT 738099",
-    "type": "Restaurant",
-    "number": "EERT20220000865",
-    "scheme": "Eating Establishment",
-    "id": "7ff20024-e719-4938-b00e-547276bea89c",
-    "postal": "738099"
-  },
-  {
-    "name": "Poulet",
     "address": "11 BIDADARI PARK DRIVE #B1-26/27 THE WOODLEIGH MALL 367803",
     "type": "Restaurant",
     "number": "EERT20230001085",
     "scheme": "Eating Establishment",
     "id": "7ff20024-e719-4938-b00e-547276bea89c",
     "postal": "367803"
+  },
+  {
+    "name": "Poulet",
+    "address": "1 WOODLANDS SQUARE #B1-25 CAUSEWAY POINT 738099",
+    "type": "Restaurant",
+    "number": "EERT20220000865",
+    "scheme": "Eating Establishment",
+    "id": "7ff20024-e719-4938-b00e-547276bea89c",
+    "postal": "738099"
   },
   {
     "name": "Poulet",
@@ -25945,15 +25954,6 @@
     "scheme": "Eating Establishment",
     "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
     "postal": "608532"
-  },
-  {
-    "name": "Sanook Kitchen",
-    "address": "180 KITCHENER ROAD #02-33/56 CITY SQUARE MALL 208539",
-    "type": "Restaurant",
-    "number": "EERT20250000405",
-    "scheme": "Eating Establishment",
-    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-    "postal": "208539"
   },
   {
     "name": "Sari Rasa Eating House",
@@ -28645,15 +28645,6 @@
     "scheme": "Eating Establishment",
     "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
     "postal": "738964"
-  },
-  {
-    "name": "SUBWAY",
-    "address": "31 WOODLANDS AVENUE 6 #01-02 WOODLANDS GALAXY COMMUNITY CLUB 738991",
-    "type": "Restaurant",
-    "number": "EERN21120013223",
-    "scheme": "Eating Establishment",
-    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-    "postal": "738991"
   },
   {
     "name": "SUBWAY",

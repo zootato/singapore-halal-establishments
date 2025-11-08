@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2025-11-08T22:13:59.970893",
+    "date": "2025-11-08",
+    "summary": {
+      "new": 1,
+      "removed": 2,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Aishwarya Kitchen (S2) @ Adi Foods",
+          "address": "180 WOODLANDS INDUSTRIAL PARK E5 #01-01 WOODLANDS AUTO HUB, STALL 2 757512",
+          "type": "Hawker",
+          "number": "EEHN21100012688",
+          "scheme": "Eating Establishment",
+          "id": "e3e6339f-2dc4-40cc-b8a7-80d315beebd3",
+          "postal": "757512"
+        }
+      ],
+      "removed": [
+        {
+          "name": "SUBWAY",
+          "address": "31 WOODLANDS AVENUE 6 #01-02 WOODLANDS GALAXY COMMUNITY CLUB 738991",
+          "type": "Restaurant",
+          "number": "EERN21120013223",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "738991"
+        },
+        {
+          "name": "Sanook Kitchen",
+          "address": "180 KITCHENER ROAD #02-33/56 CITY SQUARE MALL 208539",
+          "type": "Restaurant",
+          "number": "EERT20250000405",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "208539"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2025-11-07T22:15:55.363715",
     "date": "2025-11-07",
     "summary": {
