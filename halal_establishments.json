@@ -334,15 +334,6 @@
   },
   {
     "name": "4FINGERS CRISPY CHICKEN",
-    "address": "50 JURONG GATEWAY ROAD #01-15A JEM 608549",
-    "type": "Restaurant",
-    "number": "EERN21070012611",
-    "scheme": "Eating Establishment",
-    "id": "90b83324-363a-4406-9afa-08b19b67522d",
-    "postal": "608549"
-  },
-  {
-    "name": "4FINGERS CRISPY CHICKEN",
     "address": "9 BISHAN PLACE #01-32 JUNCTION 8 SHOPPING CENTRE 579837",
     "type": "Restaurant",
     "number": "EERN21070012627",
@@ -4951,6 +4942,15 @@
   },
   {
     "name": "CANADIAN 2 FOR 1 PIZZA",
+    "address": "369 SEMBAWANG ROAD #01-02 Sembawang Cottage 758382",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN21050012267",
+    "scheme": "Eating Establishment",
+    "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
+    "postal": "758382"
+  },
+  {
+    "name": "CANADIAN 2 FOR 1 PIZZA",
     "address": "1 STADIUM DRIVE 642 397629",
     "type": "Hawker",
     "number": "EEHK20240000591",
@@ -5038,15 +5038,6 @@
     "scheme": "Eating Establishment",
     "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
     "postal": "598332"
-  },
-  {
-    "name": "CANADIAN 2 FOR 1 PIZZA",
-    "address": "369 SEMBAWANG ROAD #01-02 Sembawang Cottage 758382",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN21050012267",
-    "scheme": "Eating Establishment",
-    "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
-    "postal": "758382"
   },
   {
     "name": "CANADIAN 2 FOR 1 PIZZA",
@@ -12760,6 +12751,15 @@
     "scheme": "Eating Establishment",
     "id": "27064161-5d33-4fd6-abf9-883f78f22c49",
     "postal": "528523"
+  },
+  {
+    "name": "HOUSE OF WHITE BEE HOON",
+    "address": "500 NEW PUNGGOL ROAD #01-10 THE PUNGGOL SETTLEMENT 828617",
+    "type": "Restaurant",
+    "number": "EERT20250000009",
+    "scheme": "Eating Establishment",
+    "id": "ca2b4b04-de01-47f3-b0a4-bef9dc5e9506",
+    "postal": "828617"
   },
   {
     "name": "HOW'S CATERING",
@@ -22060,15 +22060,6 @@
   },
   {
     "name": "ORDINARY BURGERS",
-    "address": "180 KITCHENER ROAD #B1-K11 CITY SQUARE MALL 208539",
-    "type": "Restaurant",
-    "number": "EERN21110012965",
-    "scheme": "Eating Establishment",
-    "id": "67760be7-1a35-4c35-bd42-70e905c0dcc9",
-    "postal": "208539"
-  },
-  {
-    "name": "ORDINARY BURGERS",
     "address": "1 LOWER KENT RIDGE ROAD #01-25 NUH MEDICAL CENTRE 119082",
     "type": "Snack Bar / Bakery",
     "number": "EESB20220001039",
@@ -24076,12 +24067,12 @@
   },
   {
     "name": "Poulet",
-    "address": "1 PASIR RIS CENTRAL STREET 3 #02-01/03 White Sands 518457",
+    "address": "1 WOODLANDS SQUARE #B1-25 CAUSEWAY POINT 738099",
     "type": "Restaurant",
-    "number": "EERN21110013050",
+    "number": "EERT20220000865",
     "scheme": "Eating Establishment",
     "id": "7ff20024-e719-4938-b00e-547276bea89c",
-    "postal": "518457"
+    "postal": "738099"
   },
   {
     "name": "Poulet",
@@ -24091,15 +24082,6 @@
     "scheme": "Eating Establishment",
     "id": "7ff20024-e719-4938-b00e-547276bea89c",
     "postal": "367803"
-  },
-  {
-    "name": "Poulet",
-    "address": "1 WOODLANDS SQUARE #B1-25 CAUSEWAY POINT 738099",
-    "type": "Restaurant",
-    "number": "EERT20220000865",
-    "scheme": "Eating Establishment",
-    "id": "7ff20024-e719-4938-b00e-547276bea89c",
-    "postal": "738099"
   },
   {
     "name": "Poulet",
@@ -25542,6 +25524,105 @@
     "postal": "168732"
   },
   {
+    "name": "SAKUNTHALA'S",
+    "address": "2 TELOK BLANGAH WAY #01-07 SAFRA CLUBHOUSE (MOUNT FABER) 098803",
+    "type": "Restaurant",
+    "number": "EERT20220000680",
+    "scheme": "Eating Establishment",
+    "id": "473c4f3d-de2e-4247-9fb9-1bbd5a1c7f6e",
+    "postal": "098803"
+  },
+  {
+    "name": "Sakunthala's Food Manufacturers Pte Ltd",
+    "address": "8A ADMIRALTY STREET #02-15 FOOD XCHANGE @ ADMIRALTY 757437",
+    "type": "Central Kitchen",
+    "number": "FPCN21070001566",
+    "scheme": "Food Preparation Area",
+    "id": "bf2e3aa1-244a-44f7-802f-8d276e2077b1",
+    "postal": "757437"
+  },
+  {
+    "name": "Sakunthala's Food Manufacturers Pte Ltd",
+    "address": "8A ADMIRALTY STREET #02-25 Food Xchange @ Admiralty 757437",
+    "type": "Central Kitchen",
+    "number": "FPCX21070001565",
+    "scheme": "Food Preparation Area",
+    "id": "bf2e3aa1-244a-44f7-802f-8d276e2077b1",
+    "postal": "757437"
+  },
+  {
+    "name": "SAKUNTHALA'S FOOD MANUFACTURERS PTE. LTD.",
+    "address": "8A ADMIRALTY STREET #02-16 FOOD XCHANGE @ ADMIRALTY 757437",
+    "type": "Central Kitchen",
+    "number": "FPCK20220000682",
+    "scheme": "Food Preparation Area",
+    "id": "5ac28c77-5d5a-414d-a474-474a796bee84",
+    "postal": "757437"
+  },
+  {
+    "name": "SAKUNTHALA'S FOOD MANUFACTURERS PTE. LTD.",
+    "address": "8A ADMIRALTY STREET #02-24 FOOD XCHANGE @ ADMIRALTY 757437",
+    "type": "Central Kitchen",
+    "number": "FPCK20220000683",
+    "scheme": "Food Preparation Area",
+    "id": "5ac28c77-5d5a-414d-a474-474a796bee84",
+    "postal": "757437"
+  },
+  {
+    "name": "SAKUNTHALA'S FOOD PALACE",
+    "address": "66 RACE COURSE ROAD 218570",
+    "type": "Restaurant",
+    "number": "EERT20220000675",
+    "scheme": "Eating Establishment",
+    "id": "025ba334-83e8-4f35-90bc-0120b4f1dd1d",
+    "postal": "218570"
+  },
+  {
+    "name": "SAKUNTHALA'S RESTAURANT",
+    "address": "8 CHANGI BUSINESS PARK AVENUE 1 #01-53 UE BIZHUB EAST 486018",
+    "type": "Restaurant",
+    "number": "EERT20220000679",
+    "scheme": "Eating Establishment",
+    "id": "7bc77553-2f6f-4917-affa-fea075357088",
+    "postal": "486018"
+  },
+  {
+    "name": "SAKUNTHALA'S RESTAURANT",
+    "address": "149/151/151A DUNLOP STREET 209466",
+    "type": "Restaurant",
+    "number": "EERT20220000676",
+    "scheme": "Eating Establishment",
+    "id": "7bc77553-2f6f-4917-affa-fea075357088",
+    "postal": "209466"
+  },
+  {
+    "name": "SAKUNTHALA'S RESTAURANT",
+    "address": "88 SYED ALWI ROAD #01-01 207667",
+    "type": "Restaurant",
+    "number": "EERT20220000678",
+    "scheme": "Eating Establishment",
+    "id": "7bc77553-2f6f-4917-affa-fea075357088",
+    "postal": "207667"
+  },
+  {
+    "name": "SAKUNTHALA'S RESTAURANT",
+    "address": "3 NORTHPOINT DRIVE #01-01 768020",
+    "type": "Restaurant",
+    "number": "EERT20220000681",
+    "scheme": "Eating Establishment",
+    "id": "7bc77553-2f6f-4917-affa-fea075357088",
+    "postal": "768020"
+  },
+  {
+    "name": "SAKUNTHALA'S RESTAURANT",
+    "address": "149/151/151A DUNLOP STREET 209466",
+    "type": "Catering Company",
+    "number": "FPCA20220000677",
+    "scheme": "Food Preparation Area",
+    "id": "7bc77553-2f6f-4917-affa-fea075357088",
+    "postal": "209466"
+  },
+  {
     "name": "SAKURA FAMILY THAI CHINESE CUISINE",
     "address": "3 SIMEI STREET 6 #03-05 EASTPOINT MALL 528833",
     "type": "Restaurant",
@@ -25954,6 +26035,15 @@
     "scheme": "Eating Establishment",
     "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
     "postal": "608532"
+  },
+  {
+    "name": "Sanook Kitchen",
+    "address": "180 KITCHENER ROAD #02-33/56 CITY SQUARE MALL 208539",
+    "type": "Restaurant",
+    "number": "EERT20250000405",
+    "scheme": "Eating Establishment",
+    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+    "postal": "208539"
   },
   {
     "name": "Sari Rasa Eating House",
@@ -35299,21 +35389,21 @@
   },
   {
     "name": "Yakiniku Shokudo",
-    "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #B1-32/33 CHANGI CITY POINT 486038",
-    "type": "Restaurant",
-    "number": "EERT20230000005",
-    "scheme": "Eating Establishment",
-    "id": "7febb99e-79f2-45a1-9f1b-a2fe974e405a",
-    "postal": "486038"
-  },
-  {
-    "name": "Yakiniku Shokudo",
     "address": "2 JURONG EAST STREET 21 #02-53 IMM BUILDING 609601",
     "type": "Restaurant",
     "number": "EERT20220000119",
     "scheme": "Eating Establishment",
     "id": "7febb99e-79f2-45a1-9f1b-a2fe974e405a",
     "postal": "609601"
+  },
+  {
+    "name": "Yakiniku Shokudo",
+    "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #B1-32/33 CHANGI CITY POINT 486038",
+    "type": "Restaurant",
+    "number": "EERT20230000005",
+    "scheme": "Eating Establishment",
+    "id": "7febb99e-79f2-45a1-9f1b-a2fe974e405a",
+    "postal": "486038"
   },
   {
     "name": "Yaya Bakery",
