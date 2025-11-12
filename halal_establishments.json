@@ -415,6 +415,15 @@
   },
   {
     "name": "4FINGERS CRISPY CHICKEN",
+    "address": "50 JURONG GATEWAY ROAD #01-15A, #01-15 JEM 608549",
+    "type": "Restaurant",
+    "number": "EERT25100000059",
+    "scheme": "Eating Establishment",
+    "id": "90b83324-363a-4406-9afa-08b19b67522d",
+    "postal": "608549"
+  },
+  {
+    "name": "4FINGERS CRISPY CHICKEN",
     "address": "65 AIRPORT BOULEVARD #B2-02 CHANGI AIRPORT TERMINAL 3 819663",
     "type": "Restaurant",
     "number": "EERX21070012609",
@@ -664,6 +673,24 @@
     "scheme": "Eating Establishment",
     "id": "e3739fb2-98c3-4004-83b5-1fbc9d4c375f",
     "postal": "797637"
+  },
+  {
+    "name": "ABANG GEMUK",
+    "address": "8A ADMIRALTY STREET #07-14 FOOD XCHANGE @ ADMIRALTY 757437",
+    "type": "Central Kitchen",
+    "number": "FPCK20230000704",
+    "scheme": "Food Preparation Area",
+    "id": "6f49f8c4-4fa7-4efc-a2b9-b6cb1fa05d08",
+    "postal": "757437"
+  },
+  {
+    "name": "ABANG GEMUK",
+    "address": "8A ADMIRALTY STREET #03-36 FOOD XCHANGE @ ADMIRALTY 757437",
+    "type": "Central Kitchen",
+    "number": "FPCK20240000211",
+    "scheme": "Food Preparation Area",
+    "id": "6f49f8c4-4fa7-4efc-a2b9-b6cb1fa05d08",
+    "postal": "757437"
   },
   {
     "name": "ABANG GEMUK (S1) @ FoodHub 496 Jurong West",
@@ -1603,6 +1630,15 @@
   },
   {
     "name": "ANDES",
+    "address": "2 JURONG EAST STREET 21 #01-96 IMM BUILDING 609601",
+    "type": "Restaurant",
+    "number": "EERT20240001249",
+    "scheme": "Eating Establishment",
+    "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
+    "postal": "609601"
+  },
+  {
+    "name": "ANDES",
     "address": "10 AIRPORT BOULEVARD #02-202 CHANGI AIRPORT TERMINAL 4 819665",
     "type": "Restaurant",
     "number": "EERT20220000657",
@@ -1618,15 +1654,6 @@
     "scheme": "Eating Establishment",
     "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
     "postal": "486038"
-  },
-  {
-    "name": "ANDES",
-    "address": "2 JURONG EAST STREET 21 #01-96 IMM BUILDING 609601",
-    "type": "Restaurant",
-    "number": "EERT20240001249",
-    "scheme": "Eating Establishment",
-    "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
-    "postal": "609601"
   },
   {
     "name": "Ani Yong Tau Foo",
@@ -4942,15 +4969,6 @@
   },
   {
     "name": "CANADIAN 2 FOR 1 PIZZA",
-    "address": "369 SEMBAWANG ROAD #01-02 Sembawang Cottage 758382",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN21050012267",
-    "scheme": "Eating Establishment",
-    "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
-    "postal": "758382"
-  },
-  {
-    "name": "CANADIAN 2 FOR 1 PIZZA",
     "address": "1 STADIUM DRIVE 642 397629",
     "type": "Hawker",
     "number": "EEHK20240000591",
@@ -5038,6 +5056,15 @@
     "scheme": "Eating Establishment",
     "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
     "postal": "598332"
+  },
+  {
+    "name": "CANADIAN 2 FOR 1 PIZZA",
+    "address": "369 SEMBAWANG ROAD #01-02 Sembawang Cottage 758382",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN21050012267",
+    "scheme": "Eating Establishment",
+    "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
+    "postal": "758382"
   },
   {
     "name": "CANADIAN 2 FOR 1 PIZZA",
@@ -11932,6 +11959,24 @@
     "scheme": "Food Preparation Area",
     "id": "0b33d0c5-213c-487a-bf99-914ccc44f4a4",
     "postal": "758215"
+  },
+  {
+    "name": "HARYASIN WEDDING BIRYANI",
+    "address": "14 CUFF ROAD #1st Storey LITTLE INDIA CONSERVATION AREA 209725",
+    "type": "Restaurant",
+    "number": "EERT20250000847",
+    "scheme": "Eating Establishment",
+    "id": "f9c019d9-a4b3-4ff6-bdb4-e5518aa42c11",
+    "postal": "209725"
+  },
+  {
+    "name": "HARYASIN WEDDING BIRYANI",
+    "address": "14 CUFF ROAD #(1ST STOREY) LITTLE INDIA CONSERVATION AREA 209725",
+    "type": "Catering Company",
+    "number": "FPCA20250000852",
+    "scheme": "Food Preparation Area",
+    "id": "f9c019d9-a4b3-4ff6-bdb4-e5518aa42c11",
+    "postal": "209725"
   },
   {
     "name": "HATSUMI DONBURI | SOBA",
@@ -24147,15 +24192,6 @@
     "postal": "099253"
   },
   {
-    "name": "PREMIUM CATERING PRIVATE LTD",
-    "address": "8A ADMIRALTY STREET #01/11 & 01/12 FOOD XCHANGE @ ADMIRALTY 757437",
-    "type": "Catering Company",
-    "number": "FPCA25100000044",
-    "scheme": "Food Preparation Area",
-    "id": "2a5fabf9-a7f1-4fd4-be7f-d318cf02aa32",
-    "postal": "757437"
-  },
-  {
     "name": "Preparation Kitchen @ Precious Homes Bukit Panjang Pte Ltd",
     "address": "21 SENJA ROAD #01 NUH WARD @ SENJA 677736",
     "type": "Central Kitchen",
@@ -24256,15 +24292,6 @@
   },
   {
     "name": "PRIMADELI",
-    "address": "866A TAMPINES STREET 83 #01-03 TAMPINES CENTRAL COMMUNITY COMPLEX 521866",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20240000345",
-    "scheme": "Eating Establishment",
-    "id": "02140cb6-f4b2-428b-9b58-14206e1bfafb",
-    "postal": "521866"
-  },
-  {
-    "name": "PRIMADELI",
     "address": "1 WOODLANDS SQUARE #B1-K23 CAUSEWAY POINT 738099",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000336",
@@ -24361,6 +24388,15 @@
     "scheme": "Eating Establishment",
     "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
     "postal": "640494"
+  },
+  {
+    "name": "PRIMADELI",
+    "address": "866A TAMPINES STREET 83 #01-03 TAMPINES CENTRAL COMMUNITY COMPLEX 521866",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20240000345",
+    "scheme": "Eating Establishment",
+    "id": "02140cb6-f4b2-428b-9b58-14206e1bfafb",
+    "postal": "521866"
   },
   {
     "name": "PRIMADELI",
@@ -35551,15 +35587,6 @@
   },
   {
     "name": "YOSHINOYA",
-    "address": "2 YISHUN WALK #01-07 Hometeam NS Khatib 767944",
-    "type": "Restaurant",
-    "number": "EERT20240001204",
-    "scheme": "Eating Establishment",
-    "id": "b3f7acc2-ed44-4e1d-be2f-ddfd176c2011",
-    "postal": "767944"
-  },
-  {
-    "name": "YOSHINOYA",
     "address": "230 VICTORIA STREET #B1-10 BUGIS JUNCTION TOWERS 188024",
     "type": "Restaurant",
     "number": "EERT20240001205",
@@ -35584,6 +35611,15 @@
     "scheme": "Eating Establishment",
     "id": "b3f7acc2-ed44-4e1d-be2f-ddfd176c2011",
     "postal": "545078"
+  },
+  {
+    "name": "YOSHINOYA",
+    "address": "2 YISHUN WALK #01-07 Hometeam NS Khatib 767944",
+    "type": "Restaurant",
+    "number": "EERT20240001204",
+    "scheme": "Eating Establishment",
+    "id": "b3f7acc2-ed44-4e1d-be2f-ddfd176c2011",
+    "postal": "767944"
   },
   {
     "name": "YOSHINOYA",

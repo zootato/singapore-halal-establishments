@@ -1,5 +1,75 @@
 [
   {
+    "timestamp": "2025-11-12T22:16:03.228993",
+    "date": "2025-11-12",
+    "summary": {
+      "new": 5,
+      "removed": 1,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "4FINGERS CRISPY CHICKEN",
+          "address": "50 JURONG GATEWAY ROAD #01-15A, #01-15 JEM 608549",
+          "type": "Restaurant",
+          "number": "EERT25100000059",
+          "scheme": "Eating Establishment",
+          "id": "90b83324-363a-4406-9afa-08b19b67522d",
+          "postal": "608549"
+        },
+        {
+          "name": "HARYASIN WEDDING BIRYANI",
+          "address": "14 CUFF ROAD #1st Storey LITTLE INDIA CONSERVATION AREA 209725",
+          "type": "Restaurant",
+          "number": "EERT20250000847",
+          "scheme": "Eating Establishment",
+          "id": "f9c019d9-a4b3-4ff6-bdb4-e5518aa42c11",
+          "postal": "209725"
+        },
+        {
+          "name": "HARYASIN WEDDING BIRYANI",
+          "address": "14 CUFF ROAD #(1ST STOREY) LITTLE INDIA CONSERVATION AREA 209725",
+          "type": "Catering Company",
+          "number": "FPCA20250000852",
+          "scheme": "Food Preparation Area",
+          "id": "f9c019d9-a4b3-4ff6-bdb4-e5518aa42c11",
+          "postal": "209725"
+        },
+        {
+          "name": "ABANG GEMUK",
+          "address": "8A ADMIRALTY STREET #03-36 FOOD XCHANGE @ ADMIRALTY 757437",
+          "type": "Central Kitchen",
+          "number": "FPCK20240000211",
+          "scheme": "Food Preparation Area",
+          "id": "6f49f8c4-4fa7-4efc-a2b9-b6cb1fa05d08",
+          "postal": "757437"
+        },
+        {
+          "name": "ABANG GEMUK",
+          "address": "8A ADMIRALTY STREET #07-14 FOOD XCHANGE @ ADMIRALTY 757437",
+          "type": "Central Kitchen",
+          "number": "FPCK20230000704",
+          "scheme": "Food Preparation Area",
+          "id": "6f49f8c4-4fa7-4efc-a2b9-b6cb1fa05d08",
+          "postal": "757437"
+        }
+      ],
+      "removed": [
+        {
+          "name": "PREMIUM CATERING PRIVATE LTD",
+          "address": "8A ADMIRALTY STREET #01/11 & 01/12 FOOD XCHANGE @ ADMIRALTY 757437",
+          "type": "Catering Company",
+          "number": "FPCA25100000044",
+          "scheme": "Food Preparation Area",
+          "id": "2a5fabf9-a7f1-4fd4-be7f-d318cf02aa32",
+          "postal": "757437"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2025-11-11T22:15:58.662370",
     "date": "2025-11-11",
     "summary": {
