@@ -1,5 +1,228 @@
 [
   {
+    "timestamp": "2025-11-13T22:16:03.300372",
+    "date": "2025-11-13",
+    "summary": {
+      "new": 18,
+      "removed": 5,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "OASIS SPICE CAFE @UNIVERSAL STUDIO  SINGAPORE (rws)",
+          "address": "30 SENTOSA GATEWAY #01-361 Universal Studios Singapore 098140",
+          "type": "Restaurant",
+          "number": "EERT20230001024",
+          "scheme": "Eating Establishment",
+          "id": "7c90bebc-8467-497c-83af-2e518054cf5b",
+          "postal": "098140"
+        },
+        {
+          "name": "Mana Lagi (S4) @ Foodhub 169 Stirling",
+          "address": "169 STIRLING ROAD #01-1175 STIRLING VIEW, Stall 4 140169",
+          "type": "Hawker",
+          "number": "EEHK20230000734",
+          "scheme": "Eating Establishment",
+          "id": "ce260761-86be-4e96-84de-5f7ecc97d038",
+          "postal": "140169"
+        },
+        {
+          "name": "ROTIBOY",
+          "address": "65 AIRPORT BOULEVARD #B2-28 CHANGI AIRPORT TERMINAL 3 819663",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000487",
+          "scheme": "Eating Establishment",
+          "id": "376e4074-b5c7-40f3-abad-2793943f4281",
+          "postal": "819663"
+        },
+        {
+          "name": "Poke Theory",
+          "address": "30 RAFFLES PLACE #01-18 CHANGE ALLEY MALL 048622",
+          "type": "Restaurant",
+          "number": "EERN21020012157",
+          "scheme": "Eating Establishment",
+          "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
+          "postal": "048622"
+        },
+        {
+          "name": "Poke Theory",
+          "address": "163 TANGLIN ROAD #02-126 TANGLIN MALL 247933",
+          "type": "Restaurant",
+          "number": "EERT20220000151",
+          "scheme": "Eating Establishment",
+          "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
+          "postal": "247933"
+        },
+        {
+          "name": "Opah Satay",
+          "address": "680 NORTH BRIDGE ROAD 1ST STOREY KAMPONG GLAM CONSERVATION AREA 188807",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB25100000117",
+          "scheme": "Eating Establishment",
+          "id": "9013d60b-6c4a-4f8c-82eb-946c5490233d",
+          "postal": "188807"
+        },
+        {
+          "name": "Poke Theory",
+          "address": "1 LOWER KENT RIDGE ROAD #02-02/03 NUH MEDICAL CENTRE 119082",
+          "type": "Restaurant",
+          "number": "EERT20230000744",
+          "scheme": "Eating Establishment",
+          "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
+          "postal": "119082"
+        },
+        {
+          "name": "Poke Theory",
+          "address": "179 TELOK AYER STREET 068627",
+          "type": "Restaurant",
+          "number": "EERT20230001147",
+          "scheme": "Eating Establishment",
+          "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
+          "postal": "068627"
+        },
+        {
+          "name": "Fatty Bom Bom Sizzle",
+          "address": "40 MARGARET DRIVE #01-05, Stall 1 140040",
+          "type": "Hawker",
+          "number": "EEHK20230000730",
+          "scheme": "Eating Establishment",
+          "id": "6d87a5b0-74b8-4c9d-8b79-2fa3e8302726",
+          "postal": "140040"
+        },
+        {
+          "name": "Mana Lagi (S8) @ Foodhub 432A Bukit Batok",
+          "address": "432A BUKIT BATOK WEST AVENUE 8 #01-06 WEST SCAPE @ BUKIT BATOK, Stall 8 651432",
+          "type": "Hawker",
+          "number": "EEHK20250000310",
+          "scheme": "Eating Establishment",
+          "id": "3faf25ae-7602-4fac-8ea4-d198f214dae3",
+          "postal": "651432"
+        },
+        {
+          "name": "Poke Theory",
+          "address": "2 PAYA LEBAR ROAD #01-04 PARK PLACE RESIDENCES AT PLQ 409053",
+          "type": "Restaurant",
+          "number": "EERN21020012158",
+          "scheme": "Eating Establishment",
+          "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
+          "postal": "409053"
+        },
+        {
+          "name": "Poke Theory",
+          "address": "1 WOODLANDS SQUARE #B1-22 CAUSEWAY POINT 738099",
+          "type": "Restaurant",
+          "number": "EERT20240000918",
+          "scheme": "Eating Establishment",
+          "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
+          "postal": "738099"
+        },
+        {
+          "name": "McDonald's",
+          "address": "633 TAMPINES NORTH DRIVE 2 #02-03 TAMPINES GREENCOURT 520633",
+          "type": "Restaurant",
+          "number": "EERT25100000143",
+          "scheme": "Eating Establishment",
+          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+          "postal": "520633"
+        },
+        {
+          "name": "Poke Theory",
+          "address": "68 PHOENIX ROAD #01-21 TEBAN PLACE 668202",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000150",
+          "scheme": "Eating Establishment",
+          "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
+          "postal": "668202"
+        },
+        {
+          "name": "Poke Theory",
+          "address": "7 FRASER STREET #01-36 DUO GALLERIA 189356",
+          "type": "Restaurant",
+          "number": "EERT20240000917",
+          "scheme": "Eating Establishment",
+          "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
+          "postal": "189356"
+        },
+        {
+          "name": "Poke Theory",
+          "address": "111 SOMERSET ROAD #01-04 TRIPLEONE SOMERSET 238164",
+          "type": "Restaurant",
+          "number": "EERN21020012159",
+          "scheme": "Eating Establishment",
+          "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
+          "postal": "238164"
+        },
+        {
+          "name": "Poke Theory",
+          "address": "238 THOMSON ROAD #01-53 NOVENA SQUARE 307683",
+          "type": "Restaurant",
+          "number": "EERN21020012162",
+          "scheme": "Eating Establishment",
+          "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
+          "postal": "307683"
+        },
+        {
+          "name": "ROTIBOY",
+          "address": "310 ORCHARD ROAD #B1-24 TANG PLAZA 238864",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB25100000142",
+          "scheme": "Eating Establishment",
+          "id": "ca4f69f6-9fce-4b57-be20-4999f3ddde18",
+          "postal": "238864"
+        }
+      ],
+      "removed": [
+        {
+          "name": "QI JI",
+          "address": "107 NORTH BRIDGE ROAD #B2-12 FUNAN 179105",
+          "type": "Restaurant",
+          "number": "EERN21050012345",
+          "scheme": "Eating Establishment",
+          "id": "01cd5d67-3096-4ef7-bc6a-394a937ea753",
+          "postal": "179105"
+        },
+        {
+          "name": "WOK HEY",
+          "address": "80 MARINE PARADE ROAD #01-K9 PARKWAY PARADE 449269",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000912",
+          "scheme": "Eating Establishment",
+          "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+          "postal": "449269"
+        },
+        {
+          "name": "Yakiniku Shokudo",
+          "address": "1 TAMPINES WALK #01-103/103A OUR TAMPINES HUB 528523",
+          "type": "Restaurant",
+          "number": "EERT20230000345",
+          "scheme": "Eating Establishment",
+          "id": "7febb99e-79f2-45a1-9f1b-a2fe974e405a",
+          "postal": "528523"
+        },
+        {
+          "name": "Yakiniku Shokudo",
+          "address": "1 PASIR RIS CLOSE #02-318 E!HUB@DOWNTOWN EAST 519599",
+          "type": "Restaurant",
+          "number": "EERT20250000063",
+          "scheme": "Eating Establishment",
+          "id": "7febb99e-79f2-45a1-9f1b-a2fe974e405a",
+          "postal": "519599"
+        },
+        {
+          "name": "PastryCo",
+          "address": "432A BUKIT BATOK WEST AVENUE 8 #01-02 WEST SCAPE @ BUKIT BATOK 651432",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000825",
+          "scheme": "Eating Establishment",
+          "id": "6dc02f81-d9ea-4cd9-879b-0d9239b917c4",
+          "postal": "651432"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2025-11-12T22:16:03.228993",
     "date": "2025-11-12",
     "summary": {
