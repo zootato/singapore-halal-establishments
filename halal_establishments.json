@@ -3312,6 +3312,15 @@
     "postal": "460213"
   },
   {
+    "name": "Beverage Section @ Chara Brasserie",
+    "address": "8 CLUB STREET #02-01, Beverage Section 069472",
+    "type": "Food Station",
+    "number": "EEFS20240000988",
+    "scheme": "Eating Establishment",
+    "id": "f931754a-c4b6-457f-88ce-fd4620212c33",
+    "postal": "069472"
+  },
+  {
     "name": "Beverage Section @ StraitsKitchen",
     "address": "10 SCOTTS ROAD #01 GRAND HYATT SINGAPORE, Beverage Section 228211",
     "type": "Food Station",
@@ -4555,6 +4564,15 @@
   },
   {
     "name": "BURGER KING",
+    "address": "60 AIRPORT BOULEVARD #03-01 CHANGI AIRPORT TERMINAL 2 (DEPARTURE HALL NORTH) 819643",
+    "type": "Restaurant",
+    "number": "EERT25110000005",
+    "scheme": "Eating Establishment",
+    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+    "postal": "819643"
+  },
+  {
+    "name": "BURGER KING",
     "address": "10 AIRPORT BOULEVARD #02-204 CHANGI AIRPORT TERMINAL 4,Departure/Check-in Hall 819665",
     "type": "Restaurant",
     "number": "EERT20230000877",
@@ -5308,6 +5326,15 @@
     "scheme": "Food Preparation Area",
     "id": "15714ea2-da8f-4707-8f9b-3bef26bbb7c6",
     "postal": "228220"
+  },
+  {
+    "name": "Central Kitchen @ Chara Brasserie",
+    "address": "8 CLUB STREET #02-01, CENTRAL KITCHEN 069472",
+    "type": "Central Kitchen",
+    "number": "FPCK20240000993",
+    "scheme": "Food Preparation Area",
+    "id": "5adb1b67-a971-4c93-ac45-f0385986bc19",
+    "postal": "069472"
   },
   {
     "name": "Central Kitchen @ Grand Hyatt",
@@ -6670,21 +6697,21 @@
   },
   {
     "name": "CRAVE",
-    "address": "1 LOWER KENT RIDGE ROAD #01-09/19/20 ONE @ KENTRIDGE 119082",
-    "type": "Restaurant",
-    "number": "EERN21050012353",
-    "scheme": "Eating Establishment",
-    "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
-    "postal": "119082"
-  },
-  {
-    "name": "CRAVE",
     "address": "83 PUNGGOL CENTRAL #B1-K7 WATERWAY POINT 828761",
     "type": "Snack Bar / Bakery",
     "number": "EESB20230000634",
     "scheme": "Eating Establishment",
     "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
     "postal": "828761"
+  },
+  {
+    "name": "CRAVE",
+    "address": "1 LOWER KENT RIDGE ROAD #01-09/19/20 ONE @ KENTRIDGE 119082",
+    "type": "Restaurant",
+    "number": "EERN21050012353",
+    "scheme": "Eating Establishment",
+    "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
+    "postal": "119082"
   },
   {
     "name": "Cravy For Crispy Chicken",
@@ -9559,7 +9586,7 @@
   },
   {
     "name": "FAMOUS AMOS",
-    "address": "8 GRANGE ROAD #01-8A CATHAY CINELEISURE  ORCHARD 239695",
+    "address": "8 GRANGE ROAD #01-8A CATHAY CINELEISURE ORCHARD 239695",
     "type": "Snack Bar / Bakery",
     "number": "EESB20250000032",
     "scheme": "Eating Establishment",
@@ -11683,15 +11710,6 @@
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
-    "address": "63 JURONG WEST CENTRAL 3 #03-01 JURONG POINT SHOPPING CENTRE 648331",
-    "type": "Halal Section",
-    "number": "EECN21070000438",
-    "scheme": "Eating Establishment",
-    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
-    "postal": "648331"
-  },
-  {
-    "name": "Halal Section @ NTUC FAIRPRICE",
     "address": "80 MARINE PARADE ROAD #03-28 PARKWAY PARADE 449269",
     "type": "Central Kitchen",
     "number": "FPCN21050001520",
@@ -11707,6 +11725,15 @@
     "scheme": "Food Preparation Area",
     "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
     "postal": "150166"
+  },
+  {
+    "name": "Halal Section @ NTUC FAIRPRICE",
+    "address": "63 JURONG WEST CENTRAL 3 #03-01 JURONG POINT SHOPPING CENTRE 648331",
+    "type": "Halal Section",
+    "number": "EECN21070000438",
+    "scheme": "Eating Establishment",
+    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
+    "postal": "648331"
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
@@ -12717,6 +12744,15 @@
     "postal": "688261"
   },
   {
+    "name": "Hot Food Section @ Chara Brasserie",
+    "address": "8 CLUB STREET #02-01, Hot Food Section 069472",
+    "type": "Food Station",
+    "number": "EEFS20240000991",
+    "scheme": "Eating Establishment",
+    "id": "54feee48-513d-4cc4-9fb2-fa4999555134",
+    "postal": "069472"
+  },
+  {
     "name": "HOT PAN SIZZLER (MR4) @ The Food Market Century Square",
     "address": "2 TAMPINES CENTRAL 5 #03-19 CENTURY SQUARE,MR 4 529509",
     "type": "Hawker",
@@ -13318,6 +13354,15 @@
     "scheme": "Food Preparation Area",
     "id": "888d6463-c4ef-43f5-84ab-8f4ab0ae75ed",
     "postal": "728664"
+  },
+  {
+    "name": "Indonesian (S15) @  Food Club Ngee Ann Polytechnic",
+    "address": "535 CLEMENTI ROAD #01-01 NGEE ANN POLYTECHNIC Blk 22, Stall 15 599489",
+    "type": "Hawker",
+    "number": "EEHK20220000936",
+    "scheme": "Eating Establishment",
+    "id": "f7c7fb45-459c-4718-a06b-02998aa3732b",
+    "postal": "599489"
   },
   {
     "name": "Indonesian Cuisine (S8)@East Delight ITE College East",
@@ -14524,6 +14569,15 @@
     "scheme": "Eating Establishment",
     "id": "8f4aa454-c904-4a6a-9117-b9c0d6e34e0e",
     "postal": "528523"
+  },
+  {
+    "name": "Kenny Rogers Express (MR8) @ Foodrepublic 313 Somerset",
+    "address": "313 ORCHARD ROAD #05-01/02/03 313 @ SOMERSET, MR 8 238895",
+    "type": "Hawker",
+    "number": "EEHK20250000033",
+    "scheme": "Eating Establishment",
+    "id": "a6e63ff6-3fdc-4056-866a-4d0b9cd2ce6b",
+    "postal": "238895"
   },
   {
     "name": "KENNY ROGERS ROASTERS",
@@ -18160,15 +18214,6 @@
     "scheme": "Eating Establishment",
     "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
     "postal": "609966"
-  },
-  {
-    "name": "McDonald's",
-    "address": "1 KIM SENG PROMENADE #01-124 GREAT WORLD CITY 237994",
-    "type": "Restaurant",
-    "number": "EERN20020011059",
-    "scheme": "Eating Establishment",
-    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-    "postal": "237994"
   },
   {
     "name": "McDonald's",
@@ -22563,6 +22608,15 @@
     "postal": "819643"
   },
   {
+    "name": "Pastry and Dessert Section @ Chara Brasserie",
+    "address": "8 CLUB STREET #02-01, Pastry and Dessert Section 069472",
+    "type": "Food Station",
+    "number": "EEFS20240000992",
+    "scheme": "Eating Establishment",
+    "id": "3e13b955-a579-4792-b70d-6db65fcb8d81",
+    "postal": "069472"
+  },
+  {
     "name": "PASTRY COUNTER @ CAROUSEL",
     "address": "25 SCOTTS ROAD SCOTTSWALK 228220",
     "type": "Food Station",
@@ -24300,15 +24354,6 @@
     "postal": "819666"
   },
   {
-    "name": "PRATA LAHHH!",
-    "address": "119 PLANTATION CRESCENT #01-02 TENGAH COMMUNITY CENTRE 690119",
-    "type": "Restaurant",
-    "number": "EERT20250000826",
-    "scheme": "Eating Establishment",
-    "id": "d604f65c-f0c2-43a9-93b8-44b76300fec4",
-    "postal": "690119"
-  },
-  {
     "name": "Prata Raya",
     "address": "53 ANG MO KIO AVENUE 3 #01-38/39 AMK HUB 569933",
     "type": "Restaurant",
@@ -25812,6 +25857,15 @@
     "postal": "528833"
   },
   {
+    "name": "Salad Section @ Chara Brasserie",
+    "address": "8 CLUB STREET #02-01, Salad Section 069472",
+    "type": "Food Station",
+    "number": "EEFS20240000989",
+    "scheme": "Eating Establishment",
+    "id": "658456c1-75fa-4874-b5b4-dc09bc51ae72",
+    "postal": "069472"
+  },
+  {
     "name": "SALLY'S",
     "address": "1 SENGKANG SQUARE #01-25 COMPASS ONE 545078",
     "type": "Restaurant",
@@ -26215,15 +26269,6 @@
     "scheme": "Eating Establishment",
     "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
     "postal": "608532"
-  },
-  {
-    "name": "Sanook Kitchen",
-    "address": "180 KITCHENER ROAD #02-33/56 CITY SQUARE MALL 208539",
-    "type": "Restaurant",
-    "number": "EERT20250000405",
-    "scheme": "Eating Establishment",
-    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-    "postal": "208539"
   },
   {
     "name": "Sari Rasa Eating House",
@@ -29617,6 +29662,15 @@
     "scheme": "Eating Establishment",
     "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
     "postal": "757713"
+  },
+  {
+    "name": "Sushi Seafood Section @ Chara Brasserie",
+    "address": "8 CLUB STREET #02-01, Sushi Seafood Section 069472",
+    "type": "Food Station",
+    "number": "EEFS20240000990",
+    "scheme": "Eating Establishment",
+    "id": "694b6858-aac8-4560-817c-def029b23879",
+    "postal": "069472"
   },
   {
     "name": "Sushi Sedap",
@@ -34828,6 +34882,24 @@
     "scheme": "Eating Establishment",
     "id": "980b47cd-f8b6-4239-bf67-e863cab8183c",
     "postal": "238858"
+  },
+  {
+    "name": "Wholesome @ HPB",
+    "address": "3 SECOND HOSPITAL AVENUE #01-04 HEALTH PROMOTION BOARD 168937",
+    "type": "Restaurant",
+    "number": "EERT20230000993",
+    "scheme": "Eating Establishment",
+    "id": "3425a5a6-1c57-4f29-8450-f87d65a46491",
+    "postal": "168937"
+  },
+  {
+    "name": "Wholesome Cafeteria @ Police cantonment complex (Mngd by food canopy Pte Ltd)",
+    "address": "391 NEW BRIDGE ROAD POLICE CANTONMENT COMPLEX, BLOCK A LEVEL 2 088762",
+    "type": "Staff Canteen",
+    "number": "EESC25110000026",
+    "scheme": "Eating Establishment",
+    "id": "bdb07e36-f538-4ca7-8dc6-9b26ba27e64f",
+    "postal": "088762"
   },
   {
     "name": "Wholesome Food (S1) @ North Canteen Nanyang Polytechnic",
