@@ -12025,7 +12025,7 @@
   },
   {
     "name": "Hatsumi Donburi | Soba",
-    "address": "1 BUKIT BATOK CENTRAL LINK #B1-1K9/K20 WEST MALL 658713",
+    "address": "1 BUKIT BATOK CENTRAL LINK #B1-K19/K20 WEST MALL 658713",
     "type": "Restaurant",
     "number": "EERT20250000399",
     "scheme": "Eating Establishment",
@@ -27432,6 +27432,15 @@
     "postal": "039594"
   },
   {
+    "name": "Soo San Na Catering Services",
+    "address": "15 WOODLANDS LOOP #01-05 738322",
+    "type": "Catering Company",
+    "number": "FPGN21120001622",
+    "scheme": "Food Preparation Area",
+    "id": "978930cb-d541-4738-b6c3-2ae02a7d76a6",
+    "postal": "738322"
+  },
+  {
     "name": "Soon Lee",
     "address": "1 bedok road #01-02 469572",
     "type": "Hawker",
@@ -27853,6 +27862,24 @@
     "scheme": "Eating Establishment",
     "id": "7151500f-84b5-4994-a6a6-51b3b0278f89",
     "postal": "737778"
+  },
+  {
+    "name": "Staff Canteen Stall @ 3M Innovation (Mngd by Soo San Na Catering)",
+    "address": "2 TUAS LINK 4 637321",
+    "type": "Staff Canteen",
+    "number": "EEFN21090012533",
+    "scheme": "Eating Establishment",
+    "id": "d9b3b5e0-92ba-4c78-a3d6-40a02517d2e6",
+    "postal": "637321"
+  },
+  {
+    "name": "Staff Canteen Stall @ 3M Singapore (Mngd by Soo San Na Catering)",
+    "address": "100 WOODLANDS AVENUE 7 738205",
+    "type": "Staff Canteen",
+    "number": "EEFX22020012568",
+    "scheme": "Eating Establishment",
+    "id": "dd8bc0c5-82cb-4619-bd8b-6effe7e464dc",
+    "postal": "738205"
   },
   {
     "name": "Staff Canteen Stall @ ICES (Mngd by PRO*3 Institutional Ctrg PL)",
@@ -28942,24 +28969,6 @@
     "scheme": "Eating Establishment",
     "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
     "postal": "470744"
-  },
-  {
-    "name": "SUBWAY",
-    "address": "548 WOODLANDS DRIVE 44 #01-23 VISTA POINT 730548",
-    "type": "Restaurant",
-    "number": "EERN21110013101",
-    "scheme": "Eating Establishment",
-    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-    "postal": "730548"
-  },
-  {
-    "name": "SUBWAY",
-    "address": "9 WOODLANDS AVENUE 9 #01-02/03 REPUBLIC POLYTECHNIC 738964",
-    "type": "Restaurant",
-    "number": "EERN21110013109",
-    "scheme": "Eating Establishment",
-    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-    "postal": "738964"
   },
   {
     "name": "SUBWAY",
