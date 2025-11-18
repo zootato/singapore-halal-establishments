@@ -1,5 +1,255 @@
 [
   {
+    "timestamp": "2025-11-18T22:17:07.597970",
+    "date": "2025-11-18",
+    "summary": {
+      "new": 18,
+      "removed": 8,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Sunbo Express Penyet + BBQ",
+          "address": "469 BUKIT BATOK WEST AVENUE 9 #01-20 HARMONY VILLAGE @ BUKIT BATOK, STALL 20 650469",
+          "type": "Hawker",
+          "number": "EEHK20250000763",
+          "scheme": "Eating Establishment",
+          "id": "83a017ba-c8a8-47d1-ad25-cef9b7f89a63",
+          "postal": "650469"
+        },
+        {
+          "name": "XIANG LIAN KOREAN CUISINE (S2)@KOPITIAM KTPH",
+          "address": "90 YISHUN CENTRAL #01-12 KHOO TECK PUAT HOSPITAL, Stall 2 768828",
+          "type": "Hawker",
+          "number": "EEHK20250000043",
+          "scheme": "Eating Establishment",
+          "id": "853e33b2-dff4-4d32-81bc-4848f207e5ad",
+          "postal": "768828"
+        },
+        {
+          "name": "Chicken Rice (MR2) @ Koufu Sun Plaza",
+          "address": "30 SEMBAWANG DRIVE #03-01B SUN PLAZA, (MR2) 757713",
+          "type": "Hawker",
+          "number": "EEHN22010013069",
+          "scheme": "Eating Establishment",
+          "id": "842447da-e887-44ac-923c-f5bfc749ad44",
+          "postal": "757713"
+        },
+        {
+          "name": "Xiang Lian Korean & Japanese Food (MR2)@Koufu Sembawang Mart",
+          "address": "511 CANBERRA ROAD #01-01 SEMBAWANG MART, MR2 750511",
+          "type": "Hawker",
+          "number": "EEHK20250000044",
+          "scheme": "Eating Establishment",
+          "id": "163a9629-8b06-4900-9f0c-ea11a8dfdff7",
+          "postal": "750511"
+        },
+        {
+          "name": "Sunbo Chicken Rice (S6)@Koufu Woodlands Health",
+          "address": "17 WOODLANDS DRIVE 17 #B1-03/04, Stall 6 737628",
+          "type": "Hawker",
+          "number": "EEHK20240001043",
+          "scheme": "Eating Establishment",
+          "id": "6aa0197a-5a40-4f4c-81b5-4d05fe5602a9",
+          "postal": "737628"
+        },
+        {
+          "name": "SOLDIER CHICKEN PASTA - WESTERN (MR1) @ HONG LEE",
+          "address": "7 EUNOS CRESCENT #01-2665, STALL MR1 400007",
+          "type": "Hawker",
+          "number": "EEHK20230000961",
+          "scheme": "Eating Establishment",
+          "id": "3316fa52-df05-479f-8f9c-fd30b89bfe05",
+          "postal": "400007"
+        },
+        {
+          "name": "SOLDIER CHICKEN (S5) @ Broadway Coffeeshop Serangoon",
+          "address": "261 SERANGOON CENTRAL DRIVE #01-15, STALL 5 550261",
+          "type": "Hawker",
+          "number": "EEHK20240000943",
+          "scheme": "Eating Establishment",
+          "id": "a5d7798d-2745-4fc3-8fc7-dfb78bf3dd60",
+          "postal": "550261"
+        },
+        {
+          "name": "Soldier Chicken",
+          "address": "306A WOODLANDS STREET 31 MR1 #01-01 Fuchun Neighbourhood Centre, MR TEH TARIK EATING HOUSE 731306",
+          "type": "Hawker",
+          "number": "EEHK25110000035",
+          "scheme": "Eating Establishment",
+          "id": "405105ab-965c-4bf6-8223-295fecba43e8",
+          "postal": "731306"
+        },
+        {
+          "name": "Fish Soup (S4) @ Cantine Jurong Point",
+          "address": "1 JURONG WEST CENTRAL 2 #B1-42/43/44 JURONG POINT, Stall 4 648886",
+          "type": "Hawker",
+          "number": "EEHN21070012528",
+          "scheme": "Eating Establishment",
+          "id": "db7f3b76-d4c4-4914-907e-7197e8828c43",
+          "postal": "648886"
+        },
+        {
+          "name": "Hatsumi Donburi | Soba",
+          "address": "1 NORTHPOINT DRIVE #02-115 NORTHPOINT CITY 768019",
+          "type": "Restaurant",
+          "number": "EERT25110000039",
+          "scheme": "Eating Establishment",
+          "id": "446ea3e3-576e-4c17-892e-c9102e9e7bbb",
+          "postal": "768019"
+        },
+        {
+          "name": "Sunbo Express Chicken Rice + BBQ",
+          "address": "30 HOSPITAL BOULEVARD Stall 03 Foodgle Hub National Cancer Centre Singapore #02-06 Foodgle Hub National Cancer Centre Singapore, STALL 3 168583",
+          "type": "Hawker",
+          "number": "EEHK20250000614",
+          "scheme": "Eating Establishment",
+          "id": "34bbed7f-c497-4a75-88ce-e870d1614c51",
+          "postal": "168583"
+        },
+        {
+          "name": "Bai Wei Xiang Ayam Penyet & Chicken Rice (S7)@Foodgle Hub NTU 23",
+          "address": "38 NANYANG CRESCENT #01-51-58 BLK 23, Stall 7 636866",
+          "type": "Hawker",
+          "number": "EEHN21050012325",
+          "scheme": "Eating Establishment",
+          "id": "d2fd5544-21f8-4501-af66-a11689bda2cd",
+          "postal": "636866"
+        },
+        {
+          "name": "Sunbo Chicken Rice (MR3)@Cookhouse Whitesands",
+          "address": "1 PASIR RIS CENTRAL STREET 3 #03-01/02/03-26 518457",
+          "type": "Hawker",
+          "number": "EEHK20240000245",
+          "scheme": "Eating Establishment",
+          "id": "0ee563ea-5d79-4566-8cd7-c11ff9b43081",
+          "postal": "518457"
+        },
+        {
+          "name": "ROTIKEK",
+          "address": "632 BEDOK RESERVOIR ROAD #01-860 EUNOS GROVE 470632",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB25110000004",
+          "scheme": "Eating Establishment",
+          "id": "42d34450-5869-4fe6-94cb-107c37145b50",
+          "postal": "470632"
+        },
+        {
+          "name": "Chicken Rice (S3) @ Koufu Buangkok Link",
+          "address": "991 BUANGKOK LINK #02-21, Stall 3 530991",
+          "type": "Hawker",
+          "number": "EEHN21080012642",
+          "scheme": "Eating Establishment",
+          "id": "c416dc91-1a65-4cd7-9e33-8012da022aa2",
+          "postal": "530991"
+        },
+        {
+          "name": "Sunbo Express Penyet + BBQ",
+          "address": "70 COMPASSVALE BOW #02-K05 BUANGKOK HAWKER CENTRE 544692",
+          "type": "Hawker",
+          "number": "EEHK25110000036",
+          "scheme": "Eating Establishment",
+          "id": "83a017ba-c8a8-47d1-ad25-cef9b7f89a63",
+          "postal": "544692"
+        },
+        {
+          "name": "KENNY ROGERS ROASTERS",
+          "address": "6 RAFFLES BOULEVARD #02-103A, 104 MARINA SQUARE 039594",
+          "type": "Restaurant",
+          "number": "EERX21070012631",
+          "scheme": "Eating Establishment",
+          "id": "a1ba7261-d4e8-4606-a28f-371bdade6dc2",
+          "postal": "039594"
+        },
+        {
+          "name": "Sunbo Chicken Rice (S11)@Koufu KKWCH",
+          "address": "100 BUKIT TIMAH ROAD #01-28 KK WOMEN's AND CHILDREN's HOSPITAL, Stall 11 229899",
+          "type": "Hawker",
+          "number": "EEHK20240000978",
+          "scheme": "Eating Establishment",
+          "id": "a456af07-c644-4947-90c0-804e5cae0493",
+          "postal": "229899"
+        }
+      ],
+      "removed": [
+        {
+          "name": "WOK HEY",
+          "address": "53 ANG MO KIO AVENUE 3 #01-36 AMK HUB,(PART OF) LEFT UNIT 569933",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20090011420",
+          "scheme": "Eating Establishment",
+          "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+          "postal": "569933"
+        },
+        {
+          "name": "CRAVE",
+          "address": "1 LOWER KENT RIDGE ROAD #01-09/19/20 ONE @ KENTRIDGE 119082",
+          "type": "Restaurant",
+          "number": "EERN21050012353",
+          "scheme": "Eating Establishment",
+          "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
+          "postal": "119082"
+        },
+        {
+          "name": "POON RESOURCES PTE LTD",
+          "address": "8A ADMIRALTY STREET #05-37 FOODXCHANGE @ ADMIRALTY 757437",
+          "type": "Central Kitchen",
+          "number": "FPCN21060001542",
+          "scheme": "Food Preparation Area",
+          "id": "a8638d93-94be-4376-8b48-c0b78f108f62",
+          "postal": "757437"
+        },
+        {
+          "name": "Tenderbest",
+          "address": "959 JURONG WEST STREET 92 #01-150/152, Stall 7 640959",
+          "type": "Hawker",
+          "number": "EEHN21060012437",
+          "scheme": "Eating Establishment",
+          "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
+          "postal": "640959"
+        },
+        {
+          "name": "WOK HEY",
+          "address": "1 TAMPINES WALK #01-82A OUR TAMPINES HUB 528523",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013109",
+          "scheme": "Eating Establishment",
+          "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+          "postal": "528523"
+        },
+        {
+          "name": "STUFF'D",
+          "address": "1 WOODLANDS SQUARE #B1-K17 CAUSEWAY POINT 738099",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21110012929",
+          "scheme": "Eating Establishment",
+          "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
+          "postal": "738099"
+        },
+        {
+          "name": "Pondok Selera By Nurul Hidayah",
+          "address": "8A ADMIRALTY STREET #07-38 FOOD XCHANGE @ ADMIRALTY 757437",
+          "type": "Catering Company",
+          "number": "FPCA20240001085",
+          "scheme": "Food Preparation Area",
+          "id": "8f6454b2-602c-4716-9676-b445a534cc6a",
+          "postal": "757437"
+        },
+        {
+          "name": "Wow Chicken Rice (S4) @ Boleh Boleh Harbourfront",
+          "address": "1 MARITIME SQUARE #01-103-108 HARBOURFRONT CENTRE, Stall 4 099253",
+          "type": "Hawker",
+          "number": "EEHK20230000630",
+          "scheme": "Eating Establishment",
+          "id": "f86a27e5-653a-4a7e-aeb1-9069fac407e4",
+          "postal": "099253"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2025-11-17T22:17:21.963976",
     "date": "2025-11-17",
     "summary": {
