@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2025-11-19T22:15:33.140338",
+    "date": "2025-11-19",
+    "summary": {
+      "new": 2,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Sunbo Chicken Rice & Ayam Penyet (S7) @ Koufu Wisteria Mall",
+          "address": "598 YISHUN RING ROAD #B1-01 WISTERIA MALL, stall 7 768698",
+          "type": "Hawker",
+          "number": "EEHK20250000046",
+          "scheme": "Eating Establishment",
+          "id": "d39ecc4a-8871-4d09-a761-294fc806cd31",
+          "postal": "768698"
+        },
+        {
+          "name": "Sunbo Express Chicken Rice & BBQ Central Kitchen",
+          "address": "10 TAMPINES NORTH DRIVE 4 #01-05/K6 JTC SPACE @ TAMPINES NORTH 528553",
+          "type": "Central Kitchen",
+          "number": "FPCK25110000037",
+          "scheme": "Food Preparation Area",
+          "id": "9fa9e5c6-5648-4bfa-84a3-a739e96b331e",
+          "postal": "528553"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2025-11-18T22:17:07.597970",
     "date": "2025-11-18",
     "summary": {
