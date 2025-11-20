@@ -478,15 +478,6 @@
   },
   {
     "name": "4FINGERS CRISPY CHICKEN",
-    "address": "598B SEMBAWANG ROAD SEMBAWANG SPRINGS ESTATE 758456",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20230000171",
-    "scheme": "Eating Establishment",
-    "id": "90b83324-363a-4406-9afa-08b19b67522d",
-    "postal": "758456"
-  },
-  {
-    "name": "4FINGERS CRISPY CHICKEN",
     "address": "988 UPPER SERANGOON ROAD #01-35 STARS OF KOVAN 534733",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000025",
@@ -1630,21 +1621,21 @@
   },
   {
     "name": "ANDES",
-    "address": "2 JURONG EAST STREET 21 #01-96 IMM BUILDING 609601",
-    "type": "Restaurant",
-    "number": "EERT20240001249",
-    "scheme": "Eating Establishment",
-    "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
-    "postal": "609601"
-  },
-  {
-    "name": "ANDES",
     "address": "10 AIRPORT BOULEVARD #02-202 CHANGI AIRPORT TERMINAL 4 819665",
     "type": "Restaurant",
     "number": "EERT20220000657",
     "scheme": "Eating Establishment",
     "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
     "postal": "819665"
+  },
+  {
+    "name": "ANDES",
+    "address": "2 JURONG EAST STREET 21 #01-96 IMM BUILDING 609601",
+    "type": "Restaurant",
+    "number": "EERT20240001249",
+    "scheme": "Eating Establishment",
+    "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
+    "postal": "609601"
   },
   {
     "name": "ANDES",
@@ -2638,6 +2629,15 @@
   },
   {
     "name": "BAKE INC",
+    "address": "70 JELLICOE ROAD #01-12 V HOTEL LAVENDER 208767",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN21120013033",
+    "scheme": "Eating Establishment",
+    "id": "da0503ca-1962-4761-9a81-674b82f2b814",
+    "postal": "208767"
+  },
+  {
+    "name": "BAKE INC",
     "address": "960 WOODLANDS ROAD #01-09 KRANJI MRT STATION 738702",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000117",
@@ -2653,15 +2653,6 @@
     "scheme": "Eating Establishment",
     "id": "da0503ca-1962-4761-9a81-674b82f2b814",
     "postal": "820168"
-  },
-  {
-    "name": "BAKE INC",
-    "address": "70 JELLICOE ROAD #01-12 V HOTEL LAVENDER 208767",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN21120013033",
-    "scheme": "Eating Establishment",
-    "id": "da0503ca-1962-4761-9a81-674b82f2b814",
-    "postal": "208767"
   },
   {
     "name": "BAKE INC",
@@ -11988,6 +11979,15 @@
     "postal": "729577"
   },
   {
+    "name": "Happy Day",
+    "address": "665A PUNGGOL DRIVE #01-01 WATERWAY WOODCRESS 821665",
+    "type": "Restaurant",
+    "number": "EERT20250000873",
+    "scheme": "Eating Establishment",
+    "id": "036af346-946d-46c9-8511-ca7c0cad8f9d",
+    "postal": "821665"
+  },
+  {
     "name": "Happy Nasi Ayam (MR2) @ Maxim 168 Toa Payoh",
     "address": "168 LORONG 1 TOA PAYOH #01-1040 TOA PAYOH GREEN,MR2 310168",
     "type": "Hawker",
@@ -14344,6 +14344,24 @@
     "scheme": "Food Preparation Area",
     "id": "97d65dd1-2bc5-4d82-8790-fbaa96cb3f42",
     "postal": "455710"
+  },
+  {
+    "name": "Kawan Bowl Scrambled Egg Rice (S2) @ Kopitiam Sunshine Place",
+    "address": "475 CHOA CHU KANG AVENUE 3 #01-31 SUNSHINE PLACE, Stall 2 680475",
+    "type": "Hawker",
+    "number": "EEHK20240001022",
+    "scheme": "Eating Establishment",
+    "id": "6b056e75-9556-462d-b622-72192bb6141e",
+    "postal": "680475"
+  },
+  {
+    "name": "Kawan bowl scrambled egg rice (S26) @ Kopitiam Anchorvale Village.",
+    "address": "339 ANCHORVALE ROAD #02-26 540339",
+    "type": "Hawker",
+    "number": "EEHK20240001024",
+    "scheme": "Eating Establishment",
+    "id": "80365507-9fc0-49f0-bac0-68ccd3b5ecd8",
+    "postal": "540339"
   },
   {
     "name": "KAWAN KAWAN CHICKEN RICE (S11) @ FOOD MALL MARSILING",
@@ -23734,21 +23752,21 @@
   },
   {
     "name": "Poke Theory",
-    "address": "2 PAYA LEBAR ROAD #01-04 PARK PLACE RESIDENCES AT PLQ 409053",
-    "type": "Restaurant",
-    "number": "EERN21020012158",
-    "scheme": "Eating Establishment",
-    "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
-    "postal": "409053"
-  },
-  {
-    "name": "Poke Theory",
     "address": "30 RAFFLES PLACE #01-18 CHANGE ALLEY MALL 048622",
     "type": "Restaurant",
     "number": "EERN21020012157",
     "scheme": "Eating Establishment",
     "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
     "postal": "048622"
+  },
+  {
+    "name": "Poke Theory",
+    "address": "2 PAYA LEBAR ROAD #01-04 PARK PLACE RESIDENCES AT PLQ 409053",
+    "type": "Restaurant",
+    "number": "EERN21020012158",
+    "scheme": "Eating Establishment",
+    "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
+    "postal": "409053"
   },
   {
     "name": "Poke Theory",
@@ -33733,6 +33751,15 @@
   },
   {
     "name": "TREATS",
+    "address": "110/114 MACPHERSON ROAD ESSO PETROL STATION 348501",
+    "type": "Food Kiosk",
+    "number": "EEKN21110012175",
+    "scheme": "Eating Establishment",
+    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
+    "postal": "348501"
+  },
+  {
+    "name": "TREATS",
     "address": "255 EAST COAST ROAD ESSO SERVICE STATION 428932",
     "type": "Food Kiosk",
     "number": "EEFK20220001003",
@@ -33865,15 +33892,6 @@
     "scheme": "Eating Establishment",
     "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
     "postal": "574416"
-  },
-  {
-    "name": "TREATS",
-    "address": "110/114 MACPHERSON ROAD ESSO PETROL STATION 348501",
-    "type": "Food Kiosk",
-    "number": "EEKN21110012175",
-    "scheme": "Eating Establishment",
-    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
-    "postal": "348501"
   },
   {
     "name": "TREATS",
