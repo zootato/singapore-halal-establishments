@@ -21880,6 +21880,15 @@
   },
   {
     "name": "OLD CHANG KEE",
+    "address": "1 TAMPINES WALK #01-105 OUR TAMPINES HUB 528523",
+    "type": "Restaurant",
+    "number": "EERT25100000145",
+    "scheme": "Eating Establishment",
+    "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
+    "postal": "528523"
+  },
+  {
+    "name": "OLD CHANG KEE",
     "address": "20 TAMPINES CENTRAL 1 #01-03 TAMPINES MRT STATION 529538",
     "type": "Snack Bar / Bakery",
     "number": "EEBN20090011453",
@@ -22138,6 +22147,15 @@
     "scheme": "Eating Establishment",
     "id": "2d05e174-a995-438d-9385-07285141becd",
     "postal": "730676"
+  },
+  {
+    "name": "Old Town White Coffee",
+    "address": "1 Stadium Place #01-18/19 Stadium Kallang Wave 397628",
+    "type": "Restaurant",
+    "number": "EERN21090012874",
+    "scheme": "Eating Establishment",
+    "id": "ee5b0bd3-84c2-43f4-9692-f98a7eb72528",
+    "postal": "397628"
   },
   {
     "name": "Olive's",

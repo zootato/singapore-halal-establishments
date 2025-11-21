@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2025-11-21T22:16:14.965337",
+    "date": "2025-11-21",
+    "summary": {
+      "new": 2,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "OLD CHANG KEE",
+          "address": "1 TAMPINES WALK #01-105 OUR TAMPINES HUB 528523",
+          "type": "Restaurant",
+          "number": "EERT25100000145",
+          "scheme": "Eating Establishment",
+          "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
+          "postal": "528523"
+        },
+        {
+          "name": "Old Town White Coffee",
+          "address": "1 Stadium Place #01-18/19 Stadium Kallang Wave 397628",
+          "type": "Restaurant",
+          "number": "EERN21090012874",
+          "scheme": "Eating Establishment",
+          "id": "ee5b0bd3-84c2-43f4-9692-f98a7eb72528",
+          "postal": "397628"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2025-11-20T22:16:44.539291",
     "date": "2025-11-20",
     "summary": {
