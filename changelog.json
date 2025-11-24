@@ -1,5 +1,120 @@
 [
   {
+    "timestamp": "2025-11-24T22:16:30.906450",
+    "date": "2025-11-24",
+    "summary": {
+      "new": 7,
+      "removed": 4,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Kawan Bowl Scrambled Egg Rice (S3) @ Cantine Pasir Ris Mall",
+          "address": "7 PASIR RIS CENTRAL #b2-17, Stall 3 519612",
+          "type": "Hawker",
+          "number": "EEHK20240001021",
+          "scheme": "Eating Establishment",
+          "id": "c3bea4c5-6e66-4be5-9aa8-a0276b1c3479",
+          "postal": "519612"
+        },
+        {
+          "name": "SAYBONS PTE LTD",
+          "address": "20 BUKIT BATOK CRESCENT #11-21 ENTERPRISE CENTRE 658080",
+          "type": "Catering Company",
+          "number": "FPCA20240000530",
+          "scheme": "Food Preparation Area",
+          "id": "167775b7-327e-4b5b-985d-d4fdbdea06a6",
+          "postal": "658080"
+        },
+        {
+          "name": "Happiness Sunbo Chicken Rice (MR3) @ Cantine Canberra Plaza",
+          "address": "133 CANBERRA VIEW #01-21/22/23 Canberra Plaza, MR3 750133",
+          "type": "Hawker",
+          "number": "EEHN22020013151",
+          "scheme": "Eating Establishment",
+          "id": "57f3b454-9b4c-4cab-ab46-2aed6e6c71f1",
+          "postal": "750133"
+        },
+        {
+          "name": "Chicken Rice (S6)@ Koufu SP Aero Hub",
+          "address": "500 DOVER ROAD FOOD COURT 4 @ AERO HUB SINGAPORE POLYTECHNIC, Stall 6 139651",
+          "type": "Hawker",
+          "number": "EEHN21100012686",
+          "scheme": "Eating Establishment",
+          "id": "62cf764e-e3f5-4375-b56a-8ac65a9b2f14",
+          "postal": "139651"
+        },
+        {
+          "name": "SAYBONS",
+          "address": "9 BISHAN PLACE #02-43 JUNCTION 8 579837",
+          "type": "Restaurant",
+          "number": "EERT20240000077",
+          "scheme": "Eating Establishment",
+          "id": "0dee7292-8637-4b6c-92f0-753411ad46ef",
+          "postal": "579837"
+        },
+        {
+          "name": "Singfood Hub",
+          "address": "318 JURONG EAST STREET 31 #01-40 Singfood Hub, Stall 3 @Harmony 318 Cafe 600318",
+          "type": "Hawker",
+          "number": "EEHK25100000056",
+          "scheme": "Eating Establishment",
+          "id": "92afcee1-81e8-49e3-8269-11ba5504da62",
+          "postal": "600318"
+        },
+        {
+          "name": "MEHNAZ KITCHEN",
+          "address": "21 BIOPOLIS ROAD #01-05 NUCLEOS 138567",
+          "type": "Restaurant",
+          "number": "EERT25110000042",
+          "scheme": "Eating Establishment",
+          "id": "d643d770-09f8-41ac-91ba-acf767ad5271",
+          "postal": "138567"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Tenderbest",
+          "address": "276 JURONG WEST STREET 25 #01-01, Stall 8 640276",
+          "type": "Hawker",
+          "number": "EEHK20220000797",
+          "scheme": "Eating Establishment",
+          "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
+          "postal": "640276"
+        },
+        {
+          "name": "Sanook Kitchen",
+          "address": "3 GATEWAY DRIVE #B1-25 WESTGATE 608532",
+          "type": "Restaurant",
+          "number": "EERT20240000492",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "608532"
+        },
+        {
+          "name": "Srisun Express",
+          "address": "56 SERANGOON GARDEN WAY SERANGOON GARDEN ESTATE 555952",
+          "type": "Restaurant",
+          "number": "EERX21040012274",
+          "scheme": "Eating Establishment",
+          "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
+          "postal": "555952"
+        },
+        {
+          "name": "So Pho",
+          "address": "83 Punggol Central #01-28 Waterway Point (East Wing) 828761",
+          "type": "Restaurant",
+          "number": "EERN21070012673",
+          "scheme": "Eating Establishment",
+          "id": "eab58cf8-5aa4-4b96-b522-760a4cceded7",
+          "postal": "828761"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2025-11-21T22:16:14.965337",
     "date": "2025-11-21",
     "summary": {

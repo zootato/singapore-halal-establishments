@@ -5688,6 +5688,15 @@
     "postal": "528523"
   },
   {
+    "name": "Chicken Rice (S6)@ Koufu SP Aero Hub",
+    "address": "500 DOVER ROAD FOOD COURT 4 @ AERO HUB SINGAPORE POLYTECHNIC, Stall 6 139651",
+    "type": "Hawker",
+    "number": "EEHN21100012686",
+    "scheme": "Eating Establishment",
+    "id": "62cf764e-e3f5-4375-b56a-8ac65a9b2f14",
+    "postal": "139651"
+  },
+  {
     "name": "Chicken Rice (S9) @ Cantine Paya Lebar Square",
     "address": "60 PAYA LEBAR ROAD #B1-51 PAYA LEBAR SQUARE, Stall 9 409051",
     "type": "Hawker",
@@ -11970,6 +11979,15 @@
     "postal": "758297"
   },
   {
+    "name": "Happiness Sunbo Chicken Rice (MR3) @ Cantine Canberra Plaza",
+    "address": "133 CANBERRA VIEW #01-21/22/23 Canberra Plaza, MR3 750133",
+    "type": "Hawker",
+    "number": "EEHN22020013151",
+    "scheme": "Eating Establishment",
+    "id": "57f3b454-9b4c-4cab-ab46-2aed6e6c71f1",
+    "postal": "750133"
+  },
+  {
     "name": "HAPPY CAFE",
     "address": "71 SUNGEI KADUT DRIVE #01-01 GAIN CITY MEGASTORE@SUNGEI KADUT 729577",
     "type": "Restaurant",
@@ -14362,6 +14380,15 @@
     "scheme": "Eating Establishment",
     "id": "80365507-9fc0-49f0-bac0-68ccd3b5ecd8",
     "postal": "540339"
+  },
+  {
+    "name": "Kawan Bowl Scrambled Egg Rice (S3) @ Cantine Pasir Ris Mall",
+    "address": "7 PASIR RIS CENTRAL #b2-17, Stall 3 519612",
+    "type": "Hawker",
+    "number": "EEHK20240001021",
+    "scheme": "Eating Establishment",
+    "id": "c3bea4c5-6e66-4be5-9aa8-a0276b1c3479",
+    "postal": "519612"
   },
   {
     "name": "KAWAN KAWAN CHICKEN RICE (S11) @ FOOD MALL MARSILING",
@@ -18916,6 +18943,15 @@
     "scheme": "Eating Establishment",
     "id": "104e854b-5513-4a1b-8031-0e1c0a6a2699",
     "postal": "528766"
+  },
+  {
+    "name": "MEHNAZ KITCHEN",
+    "address": "21 BIOPOLIS ROAD #01-05 NUCLEOS 138567",
+    "type": "Restaurant",
+    "number": "EERT25110000042",
+    "scheme": "Eating Establishment",
+    "id": "d643d770-09f8-41ac-91ba-acf767ad5271",
+    "postal": "138567"
   },
   {
     "name": "Mei Mei Japanese (S4) @ Cantine Greenridge.",
@@ -26334,15 +26370,6 @@
     "postal": "307506"
   },
   {
-    "name": "Sanook Kitchen",
-    "address": "3 GATEWAY DRIVE #B1-25 WESTGATE 608532",
-    "type": "Restaurant",
-    "number": "EERT20240000492",
-    "scheme": "Eating Establishment",
-    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-    "postal": "608532"
-  },
-  {
     "name": "Sari Rasa Eating House",
     "address": "430 UPPER CHANGI ROAD 01-10/11 EAST VILLAGE 487048",
     "type": "Restaurant",
@@ -26422,6 +26449,24 @@
     "scheme": "Eating Establishment",
     "id": "c30500d3-8278-48e1-a104-78ce76197359",
     "postal": "208539"
+  },
+  {
+    "name": "SAYBONS",
+    "address": "9 BISHAN PLACE #02-43 JUNCTION 8 579837",
+    "type": "Restaurant",
+    "number": "EERT20240000077",
+    "scheme": "Eating Establishment",
+    "id": "0dee7292-8637-4b6c-92f0-753411ad46ef",
+    "postal": "579837"
+  },
+  {
+    "name": "SAYBONS PTE LTD",
+    "address": "20 BUKIT BATOK CRESCENT #11-21 ENTERPRISE CENTRE 658080",
+    "type": "Catering Company",
+    "number": "FPCA20240000530",
+    "scheme": "Food Preparation Area",
+    "id": "167775b7-327e-4b5b-985d-d4fdbdea06a6",
+    "postal": "658080"
   },
   {
     "name": "SCHOOL CANTEEN STALL @ UWC (MANAGED BY SODEXO SINGAPORE)",
@@ -27297,6 +27342,15 @@
     "postal": "486121"
   },
   {
+    "name": "Singfood Hub",
+    "address": "318 JURONG EAST STREET 31 #01-40 Singfood Hub, Stall 3 @Harmony 318 Cafe 600318",
+    "type": "Hawker",
+    "number": "EEHK25100000056",
+    "scheme": "Eating Establishment",
+    "id": "92afcee1-81e8-49e3-8269-11ba5504da62",
+    "postal": "600318"
+  },
+  {
     "name": "SINGFOOD STALL (S1) @ ff 504 Food Place.",
     "address": "504 JURONG WEST STREET 51 #01-207 HONG KAH COURT 640504",
     "type": "Hawker",
@@ -27457,15 +27511,6 @@
     "scheme": "Eating Establishment",
     "id": "eab58cf8-5aa4-4b96-b522-760a4cceded7",
     "postal": "018972"
-  },
-  {
-    "name": "So Pho",
-    "address": "83 Punggol Central #01-28 Waterway Point (East Wing) 828761",
-    "type": "Restaurant",
-    "number": "EERN21070012673",
-    "scheme": "Eating Establishment",
-    "id": "eab58cf8-5aa4-4b96-b522-760a4cceded7",
-    "postal": "828761"
   },
   {
     "name": "So Pho",
@@ -27799,15 +27844,6 @@
     "scheme": "Eating Establishment",
     "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
     "postal": "520474"
-  },
-  {
-    "name": "Srisun Express",
-    "address": "56 SERANGOON GARDEN WAY SERANGOON GARDEN ESTATE 555952",
-    "type": "Restaurant",
-    "number": "EERX21040012274",
-    "scheme": "Eating Establishment",
-    "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
-    "postal": "555952"
   },
   {
     "name": "Srisun Prata.com",
@@ -31195,15 +31231,6 @@
   },
   {
     "name": "Tenderbest",
-    "address": "276 JURONG WEST STREET 25 #01-01, Stall 8 640276",
-    "type": "Hawker",
-    "number": "EEHK20220000797",
-    "scheme": "Eating Establishment",
-    "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
-    "postal": "640276"
-  },
-  {
-    "name": "Tenderbest",
     "address": "507 YISHUN AVENUE 4 #01-01, Stall 4 760507",
     "type": "Hawker",
     "number": "EEHN21080012615",
@@ -34525,21 +34552,21 @@
   },
   {
     "name": "US PIZZA",
-    "address": "12 KIM KEAT ROAD #01-02 HANSON COURT 328841",
-    "type": "Restaurant",
-    "number": "EERT25100000011",
-    "scheme": "Eating Establishment",
-    "id": "8d46192a-5396-4bd8-87c5-6d3bcfc4d7c0",
-    "postal": "328841"
-  },
-  {
-    "name": "US PIZZA",
     "address": "11 BIDADARI PARK DRIVE #B1-K12 THE WOODLEIGH MALL 367803",
     "type": "Snack Bar / Bakery",
     "number": "EESB25100000012",
     "scheme": "Eating Establishment",
     "id": "8d46192a-5396-4bd8-87c5-6d3bcfc4d7c0",
     "postal": "367803"
+  },
+  {
+    "name": "US PIZZA",
+    "address": "12 KIM KEAT ROAD #01-02 HANSON COURT 328841",
+    "type": "Restaurant",
+    "number": "EERT25100000011",
+    "scheme": "Eating Establishment",
+    "id": "8d46192a-5396-4bd8-87c5-6d3bcfc4d7c0",
+    "postal": "328841"
   },
   {
     "name": "US PIZZA",
