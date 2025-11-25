@@ -1990,7 +1990,7 @@
   },
   {
     "name": "ASIAN KITCHEN @ ORCHARD HOTEL",
-    "address": "442 ORCHARD ROAD ORCHARD HOTEL,LEVEL 2, ASIAN KITCHEN 238879",
+    "address": "442 ORCHARD ROAD ORCHARD HOTEL, LEVEL 2, ASIAN KITCHEN 238879",
     "type": "Central Kitchen",
     "number": "FPCK20230001248",
     "scheme": "Food Preparation Area",
@@ -6877,7 +6877,7 @@
   },
   {
     "name": "Cuisine Lover Fish Soup Ban Mian (S6) @ Koufu KKWCH",
-    "address": "100 BUKIT TIMAH ROAD #01-28 KK WOMEN'S AND CHILDREN'S HOSPITAL,Stall 6 229899",
+    "address": "100 BUKIT TIMAH ROAD #01-28 KK WOMEN's AND CHILDREN's HOSPITAL, Stall 6 229899",
     "type": "Hawker",
     "number": "EEHK20240001304",
     "scheme": "Eating Establishment",
@@ -34520,7 +34520,7 @@
     "type": "Hawker",
     "number": "EEHK20230001189",
     "scheme": "Eating Establishment",
-    "id": "2d3cb69e-95e0-475c-a722-ff3a50d7e3bb",
+    "id": "79bfe816-a7ec-46a9-8687-c6e511cfc222",
     "postal": "650233"
   },
   {
@@ -34529,7 +34529,7 @@
     "type": "Hawker",
     "number": "EEHX21110012966",
     "scheme": "Eating Establishment",
-    "id": "51b33d85-31e7-412f-a79b-e6cf8beebd9e",
+    "id": "f2b4cd47-20ef-4ac0-b4ee-1db0693d34b2",
     "postal": "119077"
   },
   {
@@ -34538,7 +34538,7 @@
     "type": "Hawker",
     "number": "EEHN21110012964",
     "scheme": "Eating Establishment",
-    "id": "0cc0410d-3b47-4677-9b0f-a38d357ef9b1",
+    "id": "f2b4cd47-20ef-4ac0-b4ee-1db0693d34b2",
     "postal": "640504"
   },
   {
@@ -34547,7 +34547,7 @@
     "type": "Hawker",
     "number": "EEHK20240000982",
     "scheme": "Eating Establishment",
-    "id": "adb63ace-8874-4692-acae-d3d0cb319f29",
+    "id": "f2b4cd47-20ef-4ac0-b4ee-1db0693d34b2",
     "postal": "828608"
   },
   {

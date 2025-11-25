@@ -1,5 +1,134 @@
 [
   {
+    "timestamp": "2025-11-25T22:16:38.939815",
+    "date": "2025-11-25",
+    "summary": {
+      "new": 4,
+      "removed": 4,
+      "updated": 2
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "UNCLE PENYET (S6) @FOODGLE HUB SINGAPORE INSTITUTE OF TECHNOLOGY",
+          "address": "1 PUNGGOL COAST ROAD #01-10, STALL 6 828608",
+          "type": "Hawker",
+          "number": "EEHK20240000982",
+          "scheme": "Eating Establishment",
+          "id": "f2b4cd47-20ef-4ac0-b4ee-1db0693d34b2",
+          "postal": "828608"
+        },
+        {
+          "name": "UNCLE PENYET",
+          "address": "21 LOWER KENT RIDGE ROAD FACULTY OF SCIENCE (PHASE 1), STALL 4 119077",
+          "type": "Hawker",
+          "number": "EEHX21110012966",
+          "scheme": "Eating Establishment",
+          "id": "f2b4cd47-20ef-4ac0-b4ee-1db0693d34b2",
+          "postal": "119077"
+        },
+        {
+          "name": "UNCLE PENYET",
+          "address": "233 BUKIT BATOK EAST AVENUE 5 #01-53 Kimly Coffeeshop GOMBAK GARDENS, Stall 5 650233",
+          "type": "Hawker",
+          "number": "EEHK20230001189",
+          "scheme": "Eating Establishment",
+          "id": "79bfe816-a7ec-46a9-8687-c6e511cfc222",
+          "postal": "650233"
+        },
+        {
+          "name": "UNCLE PENYET",
+          "address": "504 JURONG WEST STREET 51 #01-207 HONG KAH COURT 640504",
+          "type": "Hawker",
+          "number": "EEHN21110012964",
+          "scheme": "Eating Establishment",
+          "id": "f2b4cd47-20ef-4ac0-b4ee-1db0693d34b2",
+          "postal": "640504"
+        }
+      ],
+      "removed": [
+        {
+          "name": "UNCLE PENYET",
+          "address": "21 LOWER KENT RIDGE ROAD FACULTY OF SCIENCE (PHASE 1), STALL 4 119077",
+          "type": "Hawker",
+          "number": "EEHX21110012966",
+          "scheme": "Eating Establishment",
+          "id": "51b33d85-31e7-412f-a79b-e6cf8beebd9e",
+          "postal": "119077"
+        },
+        {
+          "name": "UNCLE PENYET",
+          "address": "233 BUKIT BATOK EAST AVENUE 5 #01-53 Kimly Coffeeshop GOMBAK GARDENS, Stall 5 650233",
+          "type": "Hawker",
+          "number": "EEHK20230001189",
+          "scheme": "Eating Establishment",
+          "id": "2d3cb69e-95e0-475c-a722-ff3a50d7e3bb",
+          "postal": "650233"
+        },
+        {
+          "name": "UNCLE PENYET (S6) @FOODGLE HUB SINGAPORE INSTITUTE OF TECHNOLOGY",
+          "address": "1 PUNGGOL COAST ROAD #01-10, STALL 6 828608",
+          "type": "Hawker",
+          "number": "EEHK20240000982",
+          "scheme": "Eating Establishment",
+          "id": "adb63ace-8874-4692-acae-d3d0cb319f29",
+          "postal": "828608"
+        },
+        {
+          "name": "UNCLE PENYET",
+          "address": "504 JURONG WEST STREET 51 #01-207 HONG KAH COURT 640504",
+          "type": "Hawker",
+          "number": "EEHN21110012964",
+          "scheme": "Eating Establishment",
+          "id": "0cc0410d-3b47-4677-9b0f-a38d357ef9b1",
+          "postal": "640504"
+        }
+      ],
+      "updated": [
+        {
+          "previous": {
+            "name": "ASIAN KITCHEN @ ORCHARD HOTEL",
+            "address": "442 ORCHARD ROAD ORCHARD HOTEL,LEVEL 2, ASIAN KITCHEN 238879",
+            "type": "Central Kitchen",
+            "number": "FPCK20230001248",
+            "scheme": "Food Preparation Area",
+            "id": "4db0cf0f-8f34-4cf6-84c6-3edad044308e",
+            "postal": "238879"
+          },
+          "current": {
+            "name": "ASIAN KITCHEN @ ORCHARD HOTEL",
+            "address": "442 ORCHARD ROAD ORCHARD HOTEL, LEVEL 2, ASIAN KITCHEN 238879",
+            "type": "Central Kitchen",
+            "number": "FPCK20230001248",
+            "scheme": "Food Preparation Area",
+            "id": "4db0cf0f-8f34-4cf6-84c6-3edad044308e",
+            "postal": "238879"
+          }
+        },
+        {
+          "previous": {
+            "name": "Cuisine Lover Fish Soup Ban Mian (S6) @ Koufu KKWCH",
+            "address": "100 BUKIT TIMAH ROAD #01-28 KK WOMEN'S AND CHILDREN'S HOSPITAL,Stall 6 229899",
+            "type": "Hawker",
+            "number": "EEHK20240001304",
+            "scheme": "Eating Establishment",
+            "id": "1181321a-bedf-46b9-8cb4-437b41afb030",
+            "postal": "229899"
+          },
+          "current": {
+            "name": "Cuisine Lover Fish Soup Ban Mian (S6) @ Koufu KKWCH",
+            "address": "100 BUKIT TIMAH ROAD #01-28 KK WOMEN's AND CHILDREN's HOSPITAL, Stall 6 229899",
+            "type": "Hawker",
+            "number": "EEHK20240001304",
+            "scheme": "Eating Establishment",
+            "id": "1181321a-bedf-46b9-8cb4-437b41afb030",
+            "postal": "229899"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2025-11-24T22:16:30.906450",
     "date": "2025-11-24",
     "summary": {
