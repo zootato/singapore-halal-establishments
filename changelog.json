@@ -1,5 +1,47 @@
 [
   {
+    "timestamp": "2025-11-26T22:16:23.319064",
+    "date": "2025-11-26",
+    "summary": {
+      "new": 3,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "TASH TISH TOSH",
+          "address": "1000 EAST COAST PARKWAY #01-02 449876",
+          "type": "Restaurant",
+          "number": "EERT20240000652",
+          "scheme": "Eating Establishment",
+          "id": "adec902d-9096-4884-808b-0ce718cf6a42",
+          "postal": "449876"
+        },
+        {
+          "name": "TASH TISH TOSH",
+          "address": "50 KANDAHAR STREET 198900",
+          "type": "Restaurant",
+          "number": "EERT20240000653",
+          "scheme": "Eating Establishment",
+          "id": "adec902d-9096-4884-808b-0ce718cf6a42",
+          "postal": "198900"
+        },
+        {
+          "name": "NUODLE",
+          "address": "12 WOODLANDS SQUARE #01-61 WOODS SQUARE, TOWER 1 737715",
+          "type": "Restaurant",
+          "number": "EERN21120013273",
+          "scheme": "Eating Establishment",
+          "id": "d488a61c-030f-4d9f-ae3e-025dc4f86327",
+          "postal": "737715"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2025-11-25T22:16:38.939815",
     "date": "2025-11-25",
     "summary": {

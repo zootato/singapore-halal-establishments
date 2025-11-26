@@ -21393,6 +21393,15 @@
     "postal": "486350"
   },
   {
+    "name": "NUODLE",
+    "address": "12 WOODLANDS SQUARE #01-61 WOODS SQUARE, TOWER 1 737715",
+    "type": "Restaurant",
+    "number": "EERN21120013273",
+    "scheme": "Eating Establishment",
+    "id": "d488a61c-030f-4d9f-ae3e-025dc4f86327",
+    "postal": "737715"
+  },
+  {
     "name": "OASIS CAFE",
     "address": "3 SAKRA ROAD #01-03 OASIS @ SAKRA 627878",
     "type": "Restaurant",
@@ -25651,21 +25660,21 @@
   },
   {
     "name": "RROOLL",
-    "address": "1 WOODLANDS SQUARE #B1-K22 CAUSEWAY POINT 738099",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20220000442",
-    "scheme": "Eating Establishment",
-    "id": "98647a82-0b52-4624-82e9-e1f7d5600687",
-    "postal": "738099"
-  },
-  {
-    "name": "RROOLL",
     "address": "10 TAMPINES CENTRAL 1 #B1-K4 TAMPINES ONE 529536",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000564",
     "scheme": "Eating Establishment",
     "id": "98647a82-0b52-4624-82e9-e1f7d5600687",
     "postal": "529536"
+  },
+  {
+    "name": "RROOLL",
+    "address": "1 WOODLANDS SQUARE #B1-K22 CAUSEWAY POINT 738099",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20220000442",
+    "scheme": "Eating Establishment",
+    "id": "98647a82-0b52-4624-82e9-e1f7d5600687",
+    "postal": "738099"
   },
   {
     "name": "RROOLL",
@@ -31066,6 +31075,24 @@
     "scheme": "Eating Establishment",
     "id": "7d674083-141d-43d4-ad2a-b316f7e06ce0",
     "postal": "609601"
+  },
+  {
+    "name": "TASH TISH TOSH",
+    "address": "1000 EAST COAST PARKWAY #01-02 449876",
+    "type": "Restaurant",
+    "number": "EERT20240000652",
+    "scheme": "Eating Establishment",
+    "id": "adec902d-9096-4884-808b-0ce718cf6a42",
+    "postal": "449876"
+  },
+  {
+    "name": "TASH TISH TOSH",
+    "address": "50 KANDAHAR STREET 198900",
+    "type": "Restaurant",
+    "number": "EERT20240000653",
+    "scheme": "Eating Establishment",
+    "id": "adec902d-9096-4884-808b-0ce718cf6a42",
+    "postal": "198900"
   },
   {
     "name": "TASTE OF INDIA RESTAURANT PTE. LTD.",
