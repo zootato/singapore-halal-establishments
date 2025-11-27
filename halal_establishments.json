@@ -12691,7 +12691,7 @@
   },
   {
     "name": "Hong Kong Street Live BBQ Seafood (MR6)@Kopitiam Lau Pa Sat",
-    "address": "18 RAFFLES QUAY TELOK AYER FESTIVAL MARKET,Stall 51 to 53 048582",
+    "address": "18 RAFFLES QUAY TELOK AYER FESTIVAL MARKET, Stall 51 to 53 048582",
     "type": "Hawker",
     "number": "EEHK20240000548",
     "scheme": "Eating Establishment",
@@ -14553,6 +14553,87 @@
     "postal": "038983"
   },
   {
+    "name": "KEBABS FAKTORY",
+    "address": "70 COMPASSVALE BOW #01-#10 SENGKANG GRAND MALL 544692",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB25110000051",
+    "scheme": "Eating Establishment",
+    "id": "21b6e186-826d-452d-bcee-19319a1907a2",
+    "postal": "544692"
+  },
+  {
+    "name": "KEBABS FAKTORY",
+    "address": "73A AYER RAJAH CRESCENT #01-#34 AYER RAJAH FOOD CENTRE 1 139957",
+    "type": "Hawker",
+    "number": "EEHK25110000046",
+    "scheme": "Eating Establishment",
+    "id": "21b6e186-826d-452d-bcee-19319a1907a2",
+    "postal": "139957"
+  },
+  {
+    "name": "KEBABS FAKTORY",
+    "address": "28 GAMBAS CRESCENT #03-#K1 NORDCOM TWO 757012",
+    "type": "Hawker",
+    "number": "EEHK25110000053",
+    "scheme": "Eating Establishment",
+    "id": "21b6e186-826d-452d-bcee-19319a1907a2",
+    "postal": "757012"
+  },
+  {
+    "name": "KEBABS FAKTORY",
+    "address": "1 BUKIT BATOK CENTRAL LINK #01-42 WEST MALL 658713",
+    "type": "Restaurant",
+    "number": "EERT25110000045",
+    "scheme": "Eating Establishment",
+    "id": "21b6e186-826d-452d-bcee-19319a1907a2",
+    "postal": "658713"
+  },
+  {
+    "name": "KEBABS FAKTORY",
+    "address": "10 PAYA LEBAR ROAD #01-#K3 PLQ MALL 409057",
+    "type": "Restaurant",
+    "number": "EERT25110000047",
+    "scheme": "Eating Establishment",
+    "id": "21b6e186-826d-452d-bcee-19319a1907a2",
+    "postal": "409057"
+  },
+  {
+    "name": "KEBABS FAKTORY",
+    "address": "107 NORTH BRIDGE ROAD #02-#31 FUNAN 179105",
+    "type": "Restaurant",
+    "number": "EERT25110000048",
+    "scheme": "Eating Establishment",
+    "id": "21b6e186-826d-452d-bcee-19319a1907a2",
+    "postal": "179105"
+  },
+  {
+    "name": "KEBABS FAKTORY",
+    "address": "163 TANGLIN ROAD #B1-#120 TANGLIN MALL 247933",
+    "type": "Restaurant",
+    "number": "EERT25110000049",
+    "scheme": "Eating Establishment",
+    "id": "21b6e186-826d-452d-bcee-19319a1907a2",
+    "postal": "247933"
+  },
+  {
+    "name": "KEBABS FAKTORY",
+    "address": "1 NORTHPOINT DRIVE #B2-139 NORTHPOINT CITY 768019",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB25110000052",
+    "scheme": "Eating Establishment",
+    "id": "21b6e186-826d-452d-bcee-19319a1907a2",
+    "postal": "768019"
+  },
+  {
+    "name": "Kebabs Faktory Pte Ltd",
+    "address": "28 GAMBAS CRESCENT #03-#K1 NORDCOM TWO 757012",
+    "type": "Central Kitchen",
+    "number": "FPCK25110000050",
+    "scheme": "Food Preparation Area",
+    "id": "9d2de194-c7dd-4086-a1ab-4ddb124d6fec",
+    "postal": "757012"
+  },
+  {
     "name": "KEMBANGAN KEDAI",
     "address": "55 SIMS AVENUE EAST #01-06 KEMBANGAN MRT STATION 416551",
     "type": "Restaurant",
@@ -15373,7 +15454,7 @@
   },
   {
     "name": "Kin Aroy Thai Food (S6&S7) @Satay By The Bay",
-    "address": "18 MARINA GARDENS DRIVE #01-19 GARDENS BY THE BAY,Stall 6 & 7 018953",
+    "address": "18 MARINA GARDENS DRIVE #01-19 GARDENS BY THE BAY, Stall 6 & 7 018953",
     "type": "Hawker",
     "number": "EEHN21120013027",
     "scheme": "Eating Establishment",
@@ -15793,6 +15874,15 @@
     "scheme": "Eating Establishment",
     "id": "e8aaa136-1cbe-45c3-9ae9-864f3dde676c",
     "postal": "179105"
+  },
+  {
+    "name": "Korean Cuisine (S6) @ Cantine Northpoint City",
+    "address": "1 NORTHPOINT DRIVE #02-101/102/103 NORTHPOINT CITY, STALL 6 768019",
+    "type": "Hawker",
+    "number": "EEHK20230001139",
+    "scheme": "Eating Establishment",
+    "id": "47aba601-eea8-4795-a865-698b4634ab7e",
+    "postal": "768019"
   },
   {
     "name": "Korean Cuisine Sanchon (S3)@Kopitiam Changi Airport T4",
@@ -18055,15 +18145,6 @@
   },
   {
     "name": "McDonald's",
-    "address": "4 BUKIT BATOK STREET 41 #01-42-45/50-54 LE QUEST 657991",
-    "type": "Restaurant",
-    "number": "EERN21010011971",
-    "scheme": "Eating Establishment",
-    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-    "postal": "657991"
-  },
-  {
-    "name": "McDonald's",
     "address": "11 BIDADARI PARK DRIVE #B1-11/12 THE WOODLEIGH MALL 367803",
     "type": "Restaurant",
     "number": "EERT20230000678",
@@ -18478,15 +18559,6 @@
   },
   {
     "name": "McDonald's",
-    "address": "4 TAMPINES CENTRAL 5 #01-33 TAMPINES MALL 529510",
-    "type": "Restaurant",
-    "number": "EERN20020011044",
-    "scheme": "Eating Establishment",
-    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-    "postal": "529510"
-  },
-  {
-    "name": "McDonald's",
     "address": "1 JOO KOON CIRCLE #01-27-31 Fairprice Hub 629117",
     "type": "Restaurant",
     "number": "EERN20020011025",
@@ -18565,6 +18637,15 @@
     "scheme": "Eating Establishment",
     "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
     "postal": "529284"
+  },
+  {
+    "name": "McDonald's",
+    "address": "4 TAMPINES CENTRAL 5 #01-33 TAMPINES MALL 529510",
+    "type": "Restaurant",
+    "number": "EERN20020011044",
+    "scheme": "Eating Establishment",
+    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+    "postal": "529510"
   },
   {
     "name": "McDonald's",
@@ -22698,15 +22779,6 @@
     "postal": "469000"
   },
   {
-    "name": "Pastamania",
-    "address": "1 BUKIT BATOK CENTRAL LINK #01-40 WEST MALL 658713",
-    "type": "Restaurant",
-    "number": "EERN22010013365",
-    "scheme": "Eating Establishment",
-    "id": "e1eb4468-e706-4f99-bbf2-2603b062790c",
-    "postal": "658713"
-  },
-  {
     "name": "Pastamania Pronto",
     "address": "638 JURONG WEST STREET 61 #02-01 PIONEER MALL 640638",
     "type": "Restaurant",
@@ -23338,15 +23410,6 @@
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
-    "address": "9 SENTUL CRESCENT #02-03 828654",
-    "type": "Restaurant",
-    "number": "EERT20240000132",
-    "scheme": "Eating Establishment",
-    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
-    "postal": "828654"
-  },
-  {
-    "name": "PIZZA HUT SINGAPORE PTE LTD",
     "address": "3 SIMEI STREET 6 #02-03 EASTPOINT MALL 528833",
     "type": "Restaurant",
     "number": "EERN21080012761",
@@ -23641,6 +23704,15 @@
     "scheme": "Eating Establishment",
     "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
     "postal": "768897"
+  },
+  {
+    "name": "PIZZA HUT SINGAPORE PTE LTD",
+    "address": "9 SENTUL CRESCENT #02-03 828654",
+    "type": "Restaurant",
+    "number": "EERT20240000132",
+    "scheme": "Eating Establishment",
+    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
+    "postal": "828654"
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
@@ -30826,6 +30898,15 @@
   },
   {
     "name": "Swissbake",
+    "address": "585 NORTH BRIDGE ROAD #01-09 RAFFLES HOSPITAL 188770",
+    "type": "Restaurant",
+    "number": "EERT25110000057",
+    "scheme": "Eating Establishment",
+    "id": "5af74926-1d0f-48b0-98da-33060a828772",
+    "postal": "188770"
+  },
+  {
+    "name": "Swissbake",
     "address": "6 WOODLANDS SQUARE #05-01 WOODS SQUARE 737737",
     "type": "Snack Bar / Bakery",
     "number": "EEBN21080012647",
@@ -33649,6 +33730,15 @@
     "scheme": "Eating Establishment",
     "id": "3e75f97a-1f6a-4795-ba6e-a2ba7adf2128",
     "postal": "544692"
+  },
+  {
+    "name": "TOKYO SHOKUDO",
+    "address": "10 PAYA LEBAR ROAD #B2-17 PLQ MALL 409057",
+    "type": "Restaurant",
+    "number": "EERT25110000055",
+    "scheme": "Eating Establishment",
+    "id": "3e75f97a-1f6a-4795-ba6e-a2ba7adf2128",
+    "postal": "409057"
   },
   {
     "name": "TOKYO SHOKUDO",
