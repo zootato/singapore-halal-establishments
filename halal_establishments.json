@@ -5598,6 +5598,15 @@
     "postal": "757713"
   },
   {
+    "name": "Chicken Rice (S12)@Food Club Ngee Ann Polytechnic",
+    "address": "535 CLEMENTI ROAD #01-01 NGEE ANN POLYTECHNIC (Blk 22), Stall 12 599489",
+    "type": "Hawker",
+    "number": "EEHK20220000543",
+    "scheme": "Eating Establishment",
+    "id": "c8ec167b-198c-440b-aff2-e0577d016673",
+    "postal": "599489"
+  },
+  {
     "name": "Chicken Rice (S14) @ Kopitiam Changi General Hospital",
     "address": "2 SIMEI STREET 3 #01-20 CHANGI GENERAL HOSPITAL, Stall 14 529889",
     "type": "Hawker",
@@ -10287,15 +10296,6 @@
     "postal": "523954"
   },
   {
-    "name": "Flakyhaus (S10) @ Tam Chiak Kopitiam Hougang",
-    "address": "212 HOUGANG STREET 21 #01-349, Stall 10 530212",
-    "type": "Hawker",
-    "number": "EEHK20250000149",
-    "scheme": "Eating Establishment",
-    "id": "10a1b664-5feb-4ff8-82cb-5c9bb606a206",
-    "postal": "530212"
-  },
-  {
     "name": "Flavours by Saute",
     "address": "107 NORTH BRIDGE ROAD #B1-30 FUNAN 179105",
     "type": "Restaurant",
@@ -14634,6 +14634,15 @@
     "postal": "757012"
   },
   {
+    "name": "KEKKI",
+    "address": "183 JALAN PELIKAT #01-43 THE PROMENADE@PELIKAT 537643",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB25110000058",
+    "scheme": "Eating Establishment",
+    "id": "2a5679a8-f721-4b01-a5f5-e621252efc49",
+    "postal": "537643"
+  },
+  {
     "name": "KEMBANGAN KEDAI",
     "address": "55 SIMS AVENUE EAST #01-06 KEMBANGAN MRT STATION 416551",
     "type": "Restaurant",
@@ -18370,15 +18379,6 @@
   },
   {
     "name": "McDonald's",
-    "address": "18 BOON LAY WAY #01-173 TradeHub 21 609966",
-    "type": "Restaurant",
-    "number": "EERN20020010981",
-    "scheme": "Eating Establishment",
-    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-    "postal": "609966"
-  },
-  {
-    "name": "McDonald's",
     "address": "180 KITCHENER ROAD #01-19/20-23 CITY SQUARE MALL 208539",
     "type": "Restaurant",
     "number": "EERT20240000910",
@@ -18844,6 +18844,15 @@
     "scheme": "Eating Establishment",
     "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
     "postal": "510735"
+  },
+  {
+    "name": "McDonald's",
+    "address": "18 BOON LAY WAY #01-173 TradeHub 21 609966",
+    "type": "Restaurant",
+    "number": "EERN20020010981",
+    "scheme": "Eating Establishment",
+    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+    "postal": "609966"
   },
   {
     "name": "McDonald's",
@@ -20779,6 +20788,15 @@
     "scheme": "Eating Establishment",
     "id": "4fcad118-8dea-4300-a6a9-f4bf6b4d7efa",
     "postal": "018935"
+  },
+  {
+    "name": "Namtown",
+    "address": "925 Yishun Central 1, (MR1) #01-211 Kedai Kopi Coffeeshop 760925",
+    "type": "Hawker",
+    "number": "EEHK25110000056",
+    "scheme": "Eating Establishment",
+    "id": "6ea78e70-d295-42ec-b30c-f5553cff5dd1",
+    "postal": "760925"
   },
   {
     "name": "NAMU BULGOGI",

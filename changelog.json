@@ -1,5 +1,57 @@
 [
   {
+    "timestamp": "2025-11-28T22:16:00.036367",
+    "date": "2025-11-28",
+    "summary": {
+      "new": 3,
+      "removed": 1,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Namtown",
+          "address": "925 Yishun Central 1, (MR1) #01-211 Kedai Kopi Coffeeshop 760925",
+          "type": "Hawker",
+          "number": "EEHK25110000056",
+          "scheme": "Eating Establishment",
+          "id": "6ea78e70-d295-42ec-b30c-f5553cff5dd1",
+          "postal": "760925"
+        },
+        {
+          "name": "Chicken Rice (S12)@Food Club Ngee Ann Polytechnic",
+          "address": "535 CLEMENTI ROAD #01-01 NGEE ANN POLYTECHNIC (Blk 22), Stall 12 599489",
+          "type": "Hawker",
+          "number": "EEHK20220000543",
+          "scheme": "Eating Establishment",
+          "id": "c8ec167b-198c-440b-aff2-e0577d016673",
+          "postal": "599489"
+        },
+        {
+          "name": "KEKKI",
+          "address": "183 JALAN PELIKAT #01-43 THE PROMENADE@PELIKAT 537643",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB25110000058",
+          "scheme": "Eating Establishment",
+          "id": "2a5679a8-f721-4b01-a5f5-e621252efc49",
+          "postal": "537643"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Flakyhaus (S10) @ Tam Chiak Kopitiam Hougang",
+          "address": "212 HOUGANG STREET 21 #01-349, Stall 10 530212",
+          "type": "Hawker",
+          "number": "EEHK20250000149",
+          "scheme": "Eating Establishment",
+          "id": "10a1b664-5feb-4ff8-82cb-5c9bb606a206",
+          "postal": "530212"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2025-11-27T22:16:46.376386",
     "date": "2025-11-27",
     "summary": {
