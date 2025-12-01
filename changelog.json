@@ -1,5 +1,29 @@
 [
   {
+    "timestamp": "2025-12-01T22:15:46.589162",
+    "date": "2025-12-01",
+    "summary": {
+      "new": 1,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Lucky Yishun Malay Food (S3) @NTWU Canteen Yishun Interchange",
+          "address": "920 YISHUN AVENUE 2 #01-14 769100",
+          "type": "Hawker",
+          "number": "EEHN21110012975",
+          "scheme": "Eating Establishment",
+          "id": "6e8bbe4e-0c3c-4473-9fc2-90b999497c05",
+          "postal": "769100"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2025-11-30T22:16:23.925376",
     "date": "2025-11-30",
     "summary": {
