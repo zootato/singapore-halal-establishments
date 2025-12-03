@@ -1143,6 +1143,15 @@
     "postal": "467360"
   },
   {
+    "name": "ALC RICE BOWLS",
+    "address": "1 WOODLANDS SQUARE #B1-K01 CAUSEWAY POINT 738099",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB25120000017",
+    "scheme": "Eating Establishment",
+    "id": "932905ed-ec6e-46d9-80af-c099ef7ba866",
+    "postal": "738099"
+  },
+  {
     "name": "Ali's Fry & Grill (S7)@Koufu Commonwealth",
     "address": "88 TANGLIN HALT ROAD #01-08 COMMONWEALTH VIEW, Stall 7 141088",
     "type": "Hawker",
@@ -2593,15 +2602,6 @@
   },
   {
     "name": "BAKE INC",
-    "address": "449 ANG MO KIO AVENUE 10 #01-1713 560449",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN21120013028",
-    "scheme": "Eating Establishment",
-    "id": "da0503ca-1962-4761-9a81-674b82f2b814",
-    "postal": "560449"
-  },
-  {
-    "name": "BAKE INC",
     "address": "960 WOODLANDS ROAD #01-09 KRANJI MRT STATION 738702",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000117",
@@ -2626,6 +2626,15 @@
     "scheme": "Eating Establishment",
     "id": "da0503ca-1962-4761-9a81-674b82f2b814",
     "postal": "208767"
+  },
+  {
+    "name": "BAKE INC",
+    "address": "449 ANG MO KIO AVENUE 10 #01-1713 560449",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN21120013028",
+    "scheme": "Eating Establishment",
+    "id": "da0503ca-1962-4761-9a81-674b82f2b814",
+    "postal": "560449"
   },
   {
     "name": "BAKE INC",
@@ -4879,15 +4888,6 @@
   },
   {
     "name": "CANADIAN 2 FOR 1 PIZZA",
-    "address": "31 BEACH VIEW #01-01/02 PALAWAN KIDZ BUILDING,UPPER LEVEL 098008",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20240000590",
-    "scheme": "Eating Establishment",
-    "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
-    "postal": "098008"
-  },
-  {
-    "name": "CANADIAN 2 FOR 1 PIZZA",
     "address": "1 STADIUM DRIVE 642 397629",
     "type": "Hawker",
     "number": "EEHK20240000591",
@@ -4993,6 +4993,15 @@
     "scheme": "Eating Establishment",
     "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
     "postal": "560151"
+  },
+  {
+    "name": "CANADIAN 2 FOR 1 PIZZA",
+    "address": "31 BEACH VIEW #01-01/02 PALAWAN KIDZ BUILDING,UPPER LEVEL 098008",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20240000590",
+    "scheme": "Eating Establishment",
+    "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
+    "postal": "098008"
   },
   {
     "name": "CANADIAN 2 FOR 1 PIZZA",
@@ -5569,6 +5578,15 @@
     "scheme": "Eating Establishment",
     "id": "62cf764e-e3f5-4375-b56a-8ac65a9b2f14",
     "postal": "139651"
+  },
+  {
+    "name": "Chicken Rice (S7)@Fork & Spoon Woodlands Mart",
+    "address": "768 WOODLANDS AVENUE 6 #01-30/32 WOODLANDS MART, Stall 7 730768",
+    "type": "Hawker",
+    "number": "EEHN22020013169",
+    "scheme": "Eating Establishment",
+    "id": "85dcaca4-83e8-4893-9baa-0800a5aa3623",
+    "postal": "730768"
   },
   {
     "name": "Chicken Rice (S9) @ Cantine Paya Lebar Square",
@@ -11160,6 +11178,15 @@
     "postal": "339511"
   },
   {
+    "name": "Hai Ge Ji Hainanese Chicken Rice",
+    "address": "783 NORTH BRIDGE ROAD 198751",
+    "type": "Restaurant",
+    "number": "EERT20240000981",
+    "scheme": "Eating Establishment",
+    "id": "109ed962-08ac-406e-95df-1e0be4f0b976",
+    "postal": "198751"
+  },
+  {
     "name": "HAJI LANE FOOD STATION @ ASIAN MARKET CAFE",
     "address": "2 STAMFORD ROAD #02-00 178882",
     "type": "Food Station",
@@ -13102,6 +13129,15 @@
     "scheme": "Eating Establishment",
     "id": "484f4878-6c25-4c38-a1be-cf2e65fb7cb7",
     "postal": "486047"
+  },
+  {
+    "name": "Indonesian Nasi Padang",
+    "address": "30 WOODLANDS AVENUE 2 Stall 2 NTWU Canteen Woodlands MRT #B1-01 WOODLANDS MRT STATION (NS9) 738343",
+    "type": "Hawker",
+    "number": "EEHK25120000015",
+    "scheme": "Eating Establishment",
+    "id": "e38daedf-0293-4265-b80d-48ecd8b13446",
+    "postal": "738343"
   },
   {
     "name": "Indonesian Panggang Food Enterprise",
@@ -16371,15 +16407,6 @@
     "postal": "486121"
   },
   {
-    "name": "LPH CATERING",
-    "address": "173 PANDAN LOOP 128367",
-    "type": "Catering Company",
-    "number": "FPCA20250000038",
-    "scheme": "Food Preparation Area",
-    "id": "3be869c6-a338-4204-918b-500916352869",
-    "postal": "128367"
-  },
-  {
     "name": "LUCINE",
     "address": "111 SOMERSET ROAD #01-06 / 37 / 38 111 SOMERSET 238164",
     "type": "Restaurant",
@@ -16972,6 +16999,15 @@
     "scheme": "Eating Establishment",
     "id": "ef3cf349-f409-4a4c-a92b-d25adb34680d",
     "postal": "539747"
+  },
+  {
+    "name": "Malay Delights",
+    "address": "36 CIRCUIT ROAD Stall 3, Heong Hock Cafe #01-418 Balam Gardens 370036",
+    "type": "Hawker",
+    "number": "EEHK25120000026",
+    "scheme": "Eating Establishment",
+    "id": "b6e17910-6914-43ff-9707-f8513a675b84",
+    "postal": "370036"
   },
   {
     "name": "Malay Delights & Beverage Counter @ Taka (Mgd by The Wok People)",
@@ -19189,15 +19225,6 @@
   },
   {
     "name": "MR BEAN",
-    "address": "2 TAMPINES CENTRAL 5 #01-36 CENTURY SQUARE 529509",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20230000587",
-    "scheme": "Eating Establishment",
-    "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
-    "postal": "529509"
-  },
-  {
-    "name": "MR BEAN",
     "address": "11 BIDADARI PARK DRIVE #B1-K10 THE WOODLEIGH MALL 367803",
     "type": "Snack Bar / Bakery",
     "number": "EESB20230000628",
@@ -19339,6 +19366,15 @@
     "scheme": "Eating Establishment",
     "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
     "postal": "529538"
+  },
+  {
+    "name": "MR BEAN",
+    "address": "2 TAMPINES CENTRAL 5 #01-36 CENTURY SQUARE 529509",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20230000587",
+    "scheme": "Eating Establishment",
+    "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
+    "postal": "529509"
   },
   {
     "name": "MR BEAN",
@@ -19801,6 +19837,15 @@
   },
   {
     "name": "MUNCHI PANCAKES",
+    "address": "1 WOODLANDS SQUARE #B1-K01 CAUSEWAY POINT 738099",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB25120000018",
+    "scheme": "Eating Establishment",
+    "id": "267f7410-4bb5-4ed0-8201-ea717282e07b",
+    "postal": "738099"
+  },
+  {
+    "name": "MUNCHI PANCAKES",
     "address": "238 THOMSON ROAD #02-10 VELOCITY @ NOVENA SQUARE 307683",
     "type": "Snack Bar / Bakery",
     "number": "EESB25100000131",
@@ -19852,6 +19897,15 @@
     "scheme": "Eating Establishment",
     "id": "267f7410-4bb5-4ed0-8201-ea717282e07b",
     "postal": "078884"
+  },
+  {
+    "name": "MUNCHI PANCAKES",
+    "address": "91 HILLVIEW LINK Stall K9, Timbre+ Hillview #02-05 CMPB (BLK 1), STALL K9 669723",
+    "type": "Hawker",
+    "number": "EEHK25120000022",
+    "scheme": "Eating Establishment",
+    "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
+    "postal": "669723"
   },
   {
     "name": "MUNCHI PANCAKES",
@@ -20737,6 +20791,15 @@
   },
   {
     "name": "NIKU IKU",
+    "address": "3155 COMMONWEALTH AVENUE WEST #B1-K21 THE CLEMENTI MALL 129588",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB25120000012",
+    "scheme": "Eating Establishment",
+    "id": "64a228b0-7d2f-4fd7-8a87-e5df67b09ade",
+    "postal": "129588"
+  },
+  {
+    "name": "NIKU IKU",
     "address": "11 BIDADARI PARK DRIVE #B1-K11 THE WOODLEIGH MALL 367803",
     "type": "Snack Bar / Bakery",
     "number": "EESB20250000871",
@@ -20986,6 +21049,15 @@
     "scheme": "Eating Establishment",
     "id": "7c90bebc-8467-497c-83af-2e518054cf5b",
     "postal": "098140"
+  },
+  {
+    "name": "OCEAN PLAYGROUND",
+    "address": "8A MARINA BOULEVARD #B2-40A MARINA BAY LINK MALL 018984",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20240001160",
+    "scheme": "Eating Establishment",
+    "id": "c32afbf9-4e43-48b6-abf9-b352476e246f",
+    "postal": "018984"
   },
   {
     "name": "OH'S FARM CATERING (F&B) PTE. LTD.",
@@ -23977,21 +24049,21 @@
   },
   {
     "name": "Poulet",
-    "address": "1 WOODLANDS SQUARE #B1-25 CAUSEWAY POINT 738099",
-    "type": "Restaurant",
-    "number": "EERT20220000865",
-    "scheme": "Eating Establishment",
-    "id": "7ff20024-e719-4938-b00e-547276bea89c",
-    "postal": "738099"
-  },
-  {
-    "name": "Poulet",
     "address": "11 BIDADARI PARK DRIVE #B1-26/27 THE WOODLEIGH MALL 367803",
     "type": "Restaurant",
     "number": "EERT20230001085",
     "scheme": "Eating Establishment",
     "id": "7ff20024-e719-4938-b00e-547276bea89c",
     "postal": "367803"
+  },
+  {
+    "name": "Poulet",
+    "address": "1 WOODLANDS SQUARE #B1-25 CAUSEWAY POINT 738099",
+    "type": "Restaurant",
+    "number": "EERT20220000865",
+    "scheme": "Eating Establishment",
+    "id": "7ff20024-e719-4938-b00e-547276bea89c",
+    "postal": "738099"
   },
   {
     "name": "Poulet",
@@ -24157,42 +24229,6 @@
   },
   {
     "name": "PRIMADELI",
-    "address": "1 WOODLANDS SQUARE #B1-K23 CAUSEWAY POINT 738099",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20240000336",
-    "scheme": "Eating Establishment",
-    "id": "02140cb6-f4b2-428b-9b58-14206e1bfafb",
-    "postal": "738099"
-  },
-  {
-    "name": "PRIMADELI",
-    "address": "351 ANCHORVALE ROAD #01-04 ANCHORVALE FIELDS 540351",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20240000339",
-    "scheme": "Eating Establishment",
-    "id": "02140cb6-f4b2-428b-9b58-14206e1bfafb",
-    "postal": "540351"
-  },
-  {
-    "name": "PRIMADELI",
-    "address": "351 ANCHORVALE ROAD #01-04 ANCHORVALE FIELDS 540351",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000727",
-    "scheme": "Eating Establishment",
-    "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
-    "postal": "540351"
-  },
-  {
-    "name": "PRIMADELI",
-    "address": "1 WOODLANDS SQUARE #B1-K23 CAUSEWAY POINT 738099",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000731",
-    "scheme": "Eating Establishment",
-    "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
-    "postal": "738099"
-  },
-  {
-    "name": "PRIMADELI",
     "address": "866A TAMPINES STREET 83 #01-03 TAMPINES CENTRAL COMMUNITY COMPLEX 521866",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000345",
@@ -24217,6 +24253,24 @@
     "scheme": "Food Preparation Area",
     "id": "02140cb6-f4b2-428b-9b58-14206e1bfafb",
     "postal": "099419"
+  },
+  {
+    "name": "PRIMADELI",
+    "address": "1 WOODLANDS SQUARE #B1-K23 CAUSEWAY POINT 738099",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20240000336",
+    "scheme": "Eating Establishment",
+    "id": "02140cb6-f4b2-428b-9b58-14206e1bfafb",
+    "postal": "738099"
+  },
+  {
+    "name": "PRIMADELI",
+    "address": "1 WOODLANDS SQUARE #B1-K23 CAUSEWAY POINT 738099",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000731",
+    "scheme": "Eating Establishment",
+    "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+    "postal": "738099"
   },
   {
     "name": "PRIMADELI",
@@ -25264,21 +25318,21 @@
   },
   {
     "name": "RROOLL",
-    "address": "1 WOODLANDS SQUARE #B1-K22 CAUSEWAY POINT 738099",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20220000442",
-    "scheme": "Eating Establishment",
-    "id": "98647a82-0b52-4624-82e9-e1f7d5600687",
-    "postal": "738099"
-  },
-  {
-    "name": "RROOLL",
     "address": "10 TAMPINES CENTRAL 1 #B1-K4 TAMPINES ONE 529536",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000564",
     "scheme": "Eating Establishment",
     "id": "98647a82-0b52-4624-82e9-e1f7d5600687",
     "postal": "529536"
+  },
+  {
+    "name": "RROOLL",
+    "address": "1 WOODLANDS SQUARE #B1-K22 CAUSEWAY POINT 738099",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20220000442",
+    "scheme": "Eating Establishment",
+    "id": "98647a82-0b52-4624-82e9-e1f7d5600687",
+    "postal": "738099"
   },
   {
     "name": "RROOLL",
@@ -26163,6 +26217,15 @@
     "postal": "529286"
   },
   {
+    "name": "Seabay Delight Wok Delight",
+    "address": "100 BUKIT TIMAH ROAD STALL 08, KOUFU #01-28 KK WOMEN's AND CHILDREN's HOSPITAL 229899",
+    "type": "Hawker",
+    "number": "EEHK25120000007",
+    "scheme": "Eating Establishment",
+    "id": "5bf2c286-1b83-49e1-905e-1f1fc359edb4",
+    "postal": "229899"
+  },
+  {
     "name": "Seabay Delight Wok Delight (MR2)@Koufu Sengkang Community Hospital",
     "address": "1 ANCHORVALE STREET #01-21 SENGKANG COMMUNITY HOSPITAL, MR 2 544835",
     "type": "Hawker",
@@ -26305,6 +26368,15 @@
     "scheme": "Eating Establishment",
     "id": "254de4bf-be70-497c-be32-f65f6422a778",
     "postal": "539747"
+  },
+  {
+    "name": "Seaview Restaurant",
+    "address": "2 NETHERAVON ROAD #04-03 CLUB CSC @ CHANGI 508503",
+    "type": "Restaurant",
+    "number": "EERN21110013075",
+    "scheme": "Eating Establishment",
+    "id": "4d2d888e-6ff2-4b94-a8b2-25b7d93e9ccc",
+    "postal": "508503"
   },
   {
     "name": "Seaview Restaurant",
@@ -28045,15 +28117,6 @@
   },
   {
     "name": "STUFF'D",
-    "address": "1 WOODLANDS SQUARE #B1-K17 CAUSEWAY POINT 738099",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN21110012929",
-    "scheme": "Eating Establishment",
-    "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
-    "postal": "738099"
-  },
-  {
-    "name": "STUFF'D",
     "address": "930 YISHUN AVENUE 2 #B1-43 NORTHPOINT 769098",
     "type": "Snack Bar / Bakery",
     "number": "EEBN21110012912",
@@ -28681,24 +28744,6 @@
     "scheme": "Eating Establishment",
     "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
     "postal": "470744"
-  },
-  {
-    "name": "SUBWAY",
-    "address": "548 WOODLANDS DRIVE 44 #01-23 VISTA POINT 730548",
-    "type": "Restaurant",
-    "number": "EERN21110013101",
-    "scheme": "Eating Establishment",
-    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-    "postal": "730548"
-  },
-  {
-    "name": "SUBWAY",
-    "address": "9 WOODLANDS AVENUE 9 #01-02/03 REPUBLIC POLYTECHNIC 738964",
-    "type": "Restaurant",
-    "number": "EERN21110013109",
-    "scheme": "Eating Establishment",
-    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-    "postal": "738964"
   },
   {
     "name": "SUBWAY",
@@ -33607,15 +33652,6 @@
   },
   {
     "name": "TREATS",
-    "address": "594 UPPER THOMSON ROAD MOBIL SERVICE STATION 574420",
-    "type": "Food Kiosk",
-    "number": "EEFK20230000638",
-    "scheme": "Eating Establishment",
-    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
-    "postal": "574420"
-  },
-  {
-    "name": "TREATS",
     "address": "262 QUEENSWAY MOBIL SERVICE STATION 149061",
     "type": "Food Kiosk",
     "number": "EEFK20230000900",
@@ -33631,6 +33667,15 @@
     "scheme": "Eating Establishment",
     "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
     "postal": "149067"
+  },
+  {
+    "name": "TREATS",
+    "address": "594 UPPER THOMSON ROAD MOBIL SERVICE STATION 574420",
+    "type": "Food Kiosk",
+    "number": "EEFK20230000638",
+    "scheme": "Eating Establishment",
+    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
+    "postal": "574420"
   },
   {
     "name": "TREATS",

@@ -1,5 +1,174 @@
 [
   {
+    "timestamp": "2025-12-03T22:17:31.774517",
+    "date": "2025-12-03",
+    "summary": {
+      "new": 11,
+      "removed": 6,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Malay Delights",
+          "address": "36 CIRCUIT ROAD Stall 3, Heong Hock Cafe #01-418 Balam Gardens 370036",
+          "type": "Hawker",
+          "number": "EEHK25120000026",
+          "scheme": "Eating Establishment",
+          "id": "b6e17910-6914-43ff-9707-f8513a675b84",
+          "postal": "370036"
+        },
+        {
+          "name": "ALC RICE BOWLS",
+          "address": "1 WOODLANDS SQUARE #B1-K01 CAUSEWAY POINT 738099",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB25120000017",
+          "scheme": "Eating Establishment",
+          "id": "932905ed-ec6e-46d9-80af-c099ef7ba866",
+          "postal": "738099"
+        },
+        {
+          "name": "Chicken Rice (S7)@Fork & Spoon Woodlands Mart",
+          "address": "768 WOODLANDS AVENUE 6 #01-30/32 WOODLANDS MART, Stall 7 730768",
+          "type": "Hawker",
+          "number": "EEHN22020013169",
+          "scheme": "Eating Establishment",
+          "id": "85dcaca4-83e8-4893-9baa-0800a5aa3623",
+          "postal": "730768"
+        },
+        {
+          "name": "Hai Ge Ji Hainanese Chicken Rice",
+          "address": "783 NORTH BRIDGE ROAD 198751",
+          "type": "Restaurant",
+          "number": "EERT20240000981",
+          "scheme": "Eating Establishment",
+          "id": "109ed962-08ac-406e-95df-1e0be4f0b976",
+          "postal": "198751"
+        },
+        {
+          "name": "NIKU IKU",
+          "address": "3155 COMMONWEALTH AVENUE WEST #B1-K21 THE CLEMENTI MALL 129588",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB25120000012",
+          "scheme": "Eating Establishment",
+          "id": "64a228b0-7d2f-4fd7-8a87-e5df67b09ade",
+          "postal": "129588"
+        },
+        {
+          "name": "Seaview Restaurant",
+          "address": "2 NETHERAVON ROAD #04-03 CLUB CSC @ CHANGI 508503",
+          "type": "Restaurant",
+          "number": "EERN21110013075",
+          "scheme": "Eating Establishment",
+          "id": "4d2d888e-6ff2-4b94-a8b2-25b7d93e9ccc",
+          "postal": "508503"
+        },
+        {
+          "name": "Indonesian Nasi Padang",
+          "address": "30 WOODLANDS AVENUE 2 Stall 2 NTWU Canteen Woodlands MRT #B1-01 WOODLANDS MRT STATION (NS9) 738343",
+          "type": "Hawker",
+          "number": "EEHK25120000015",
+          "scheme": "Eating Establishment",
+          "id": "e38daedf-0293-4265-b80d-48ecd8b13446",
+          "postal": "738343"
+        },
+        {
+          "name": "MUNCHI PANCAKES",
+          "address": "1 WOODLANDS SQUARE #B1-K01 CAUSEWAY POINT 738099",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB25120000018",
+          "scheme": "Eating Establishment",
+          "id": "267f7410-4bb5-4ed0-8201-ea717282e07b",
+          "postal": "738099"
+        },
+        {
+          "name": "OCEAN PLAYGROUND",
+          "address": "8A MARINA BOULEVARD #B2-40A MARINA BAY LINK MALL 018984",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240001160",
+          "scheme": "Eating Establishment",
+          "id": "c32afbf9-4e43-48b6-abf9-b352476e246f",
+          "postal": "018984"
+        },
+        {
+          "name": "Seabay Delight Wok Delight",
+          "address": "100 BUKIT TIMAH ROAD STALL 08, KOUFU #01-28 KK WOMEN's AND CHILDREN's HOSPITAL 229899",
+          "type": "Hawker",
+          "number": "EEHK25120000007",
+          "scheme": "Eating Establishment",
+          "id": "5bf2c286-1b83-49e1-905e-1f1fc359edb4",
+          "postal": "229899"
+        },
+        {
+          "name": "MUNCHI PANCAKES",
+          "address": "91 HILLVIEW LINK Stall K9, Timbre+ Hillview #02-05 CMPB (BLK 1), STALL K9 669723",
+          "type": "Hawker",
+          "number": "EEHK25120000022",
+          "scheme": "Eating Establishment",
+          "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
+          "postal": "669723"
+        }
+      ],
+      "removed": [
+        {
+          "name": "PRIMADELI",
+          "address": "351 ANCHORVALE ROAD #01-04 ANCHORVALE FIELDS 540351",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000339",
+          "scheme": "Eating Establishment",
+          "id": "02140cb6-f4b2-428b-9b58-14206e1bfafb",
+          "postal": "540351"
+        },
+        {
+          "name": "STUFF'D",
+          "address": "1 WOODLANDS SQUARE #B1-K17 CAUSEWAY POINT 738099",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21110012929",
+          "scheme": "Eating Establishment",
+          "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
+          "postal": "738099"
+        },
+        {
+          "name": "LPH CATERING",
+          "address": "173 PANDAN LOOP 128367",
+          "type": "Catering Company",
+          "number": "FPCA20250000038",
+          "scheme": "Food Preparation Area",
+          "id": "3be869c6-a338-4204-918b-500916352869",
+          "postal": "128367"
+        },
+        {
+          "name": "SUBWAY",
+          "address": "9 WOODLANDS AVENUE 9 #01-02/03 REPUBLIC POLYTECHNIC 738964",
+          "type": "Restaurant",
+          "number": "EERN21110013109",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "738964"
+        },
+        {
+          "name": "SUBWAY",
+          "address": "548 WOODLANDS DRIVE 44 #01-23 VISTA POINT 730548",
+          "type": "Restaurant",
+          "number": "EERN21110013101",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "730548"
+        },
+        {
+          "name": "PRIMADELI",
+          "address": "351 ANCHORVALE ROAD #01-04 ANCHORVALE FIELDS 540351",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000727",
+          "scheme": "Eating Establishment",
+          "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+          "postal": "540351"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2025-12-02T22:16:05.710527",
     "date": "2025-12-02",
     "summary": {
