@@ -1,5 +1,75 @@
 [
   {
+    "timestamp": "2025-12-04T22:15:16.502807",
+    "date": "2025-12-04",
+    "summary": {
+      "new": 4,
+      "removed": 2,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Roasted Delights (S1) @ Foodgle ITE CentralAMK",
+          "address": "2 Ang Mo Kio Drive #01-14 ITE College Central, Stall 1 567720",
+          "type": "Hawker",
+          "number": "EEHN21080012650",
+          "scheme": "Eating Establishment",
+          "id": "72645ac7-05c5-450e-911e-64ed2ed7228c",
+          "postal": "567720"
+        },
+        {
+          "name": "Sunbo Chicken Rice (S6) @ Koufu Nanyang Polytechnic",
+          "address": "180 ANG MO KIO AVENUE 8 NANYANG POLYTECHNIC Blk A Lvl 2 Ctrl South Canteen, Stall 6 569830",
+          "type": "Hawker",
+          "number": "EEHK20240000135",
+          "scheme": "Eating Establishment",
+          "id": "ea44ca19-7f5f-413a-bfb9-d461ce817f02",
+          "postal": "569830"
+        },
+        {
+          "name": "SUPER SUSHI",
+          "address": "302 TIONG BAHRU ROAD #B1-K7 TIONG BAHRU PLAZA 168732",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB25120000013",
+          "scheme": "Eating Establishment",
+          "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
+          "postal": "168732"
+        },
+        {
+          "name": "Emogi Japanese & Korean Cuisine",
+          "address": "1 JURONG EAST STREET 21 Stall 3, Fork & Spoon @ Ng Teng Fong General Hospital #02-01A/B JURONG COMMUNITY HOSPITAL 609606",
+          "type": "Hawker",
+          "number": "EEHK25120000001",
+          "scheme": "Eating Establishment",
+          "id": "de9f6984-02bd-42db-bd53-629090a2253c",
+          "postal": "609606"
+        }
+      ],
+      "removed": [
+        {
+          "name": "So Pho",
+          "address": "83 Punggol Central #01-28 Waterway Point (East Wing) 828761",
+          "type": "Restaurant",
+          "number": "EERN21070012673",
+          "scheme": "Eating Establishment",
+          "id": "eab58cf8-5aa4-4b96-b522-760a4cceded7",
+          "postal": "828761"
+        },
+        {
+          "name": "FONG SENG NASI LEMAK",
+          "address": "101 Pasir Panjang Road 118527",
+          "type": "Restaurant",
+          "number": "EERN21020012034",
+          "scheme": "Eating Establishment",
+          "id": "050c83b7-f1f2-48ab-9b49-9b149adf4a27",
+          "postal": "118527"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2025-12-03T22:17:31.774517",
     "date": "2025-12-03",
     "summary": {
