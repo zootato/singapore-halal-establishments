@@ -1,5 +1,138 @@
 [
   {
+    "timestamp": "2025-12-05T22:15:43.535234",
+    "date": "2025-12-05",
+    "summary": {
+      "new": 9,
+      "removed": 4,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Mari Mari Seafood & Catering",
+          "address": "1 WOODLANDS HEIGHT #05-K17 KOUFU GROUP HQ, Kitchen C03 737859",
+          "type": "Catering Company",
+          "number": "FPCA20240001115",
+          "scheme": "Food Preparation Area",
+          "id": "bacbabb2-c2f2-46ee-b051-48efba344753",
+          "postal": "737859"
+        },
+        {
+          "name": "Dunkin'",
+          "address": "107 NORTH BRIDGE ROAD #B2-05 FUNAN 179105",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB25120000033",
+          "scheme": "Eating Establishment",
+          "id": "83555d54-74f6-478d-9393-666f698a1c48",
+          "postal": "179105"
+        },
+        {
+          "name": "Staple Food Cafe",
+          "address": "196 JOO CHIAT ROAD 01-01 427467",
+          "type": "Restaurant",
+          "number": "EERT25120000031",
+          "scheme": "Eating Establishment",
+          "id": "65acada9-cad8-4602-a99e-47fa2a0eeb55",
+          "postal": "427467"
+        },
+        {
+          "name": "Encik Tan",
+          "address": "1 HARBOURFRONT WALK #B2-45 VIVOCITY 098585",
+          "type": "Restaurant",
+          "number": "EERT25120000006",
+          "scheme": "Eating Establishment",
+          "id": "008ded89-78a7-4d68-8a1e-8fdc67f56423",
+          "postal": "098585"
+        },
+        {
+          "name": "Dunkin'",
+          "address": "20 TAMPINES CENTRAL 1 #01-20 TAMPINES MRT STATION 529538",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB25120000025",
+          "scheme": "Eating Establishment",
+          "id": "83555d54-74f6-478d-9393-666f698a1c48",
+          "postal": "529538"
+        },
+        {
+          "name": "mari mari Seafood (MR5) @ Koufu Woodlands Height",
+          "address": "1 WOODLANDS HEIGHT #01-01 KOUFU GROUP HQ, MR5 737859",
+          "type": "Hawker",
+          "number": "EEHK20230000541",
+          "scheme": "Eating Establishment",
+          "id": "432be6c6-1775-4013-b345-13b9145f9b1b",
+          "postal": "737859"
+        },
+        {
+          "name": "Home of Seafood / Home of Sushi / Divine by Home of Seafood",
+          "address": "Halal International 2025, 1 EXPO DRIVE #01 SINGAPORE EXPO (HALL 5), Hall 5A - Booth G15 486150",
+          "type": "Short Term Stall(Bazaar/Road Shows)",
+          "number": "EEST25120000035",
+          "scheme": "Eating Establishment",
+          "id": "066a00a7-fc46-43ee-ad5d-d062e6ea3de0",
+          "postal": "486150"
+        },
+        {
+          "name": "Dunkin'",
+          "address": "3 TEMASEK BOULEVARD #01-K6 SUNTEC CITY MALL 038983",
+          "type": "Restaurant",
+          "number": "EERT25120000034",
+          "scheme": "Eating Establishment",
+          "id": "83555d54-74f6-478d-9393-666f698a1c48",
+          "postal": "038983"
+        },
+        {
+          "name": "Udang Udang Prawn Mee (MR4) @ Koufu Woodlands Height",
+          "address": "1 WOODLANDS HEIGHT #01-01 KOUFU GROUP HQ, MR4 737859",
+          "type": "Hawker",
+          "number": "EEHK20240001116",
+          "scheme": "Eating Establishment",
+          "id": "c897dfb8-4241-4d71-9f4a-5e8063c84bb0",
+          "postal": "737859"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Telur Thai (S19) @ Kopitiam Tampines Mall",
+          "address": "4 TAMPINES CENTRAL 5 #04-27 TAMPINES MALL, Stall 19 529510",
+          "type": "Hawker",
+          "number": "EEHK20240000079",
+          "scheme": "Eating Establishment",
+          "id": "135a9f83-f2f4-40b3-8aac-e663ee9034df",
+          "postal": "529510"
+        },
+        {
+          "name": "PRIMADELI",
+          "address": "201 KEPPEL ROAD #08-00 ANNEXE BLOCK 099419",
+          "type": "Central Kitchen",
+          "number": "FPCN21050001527",
+          "scheme": "Food Preparation Area",
+          "id": "02140cb6-f4b2-428b-9b58-14206e1bfafb",
+          "postal": "099419"
+        },
+        {
+          "name": "Sanook Kitchen",
+          "address": "180 KITCHENER ROAD #02-33/56 CITY SQUARE MALL 208539",
+          "type": "Restaurant",
+          "number": "EERT20250000405",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "208539"
+        },
+        {
+          "name": "MR BEAN",
+          "address": "10 SINARAN DRIVE #01-21 SQUARE 2 307506",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000206",
+          "scheme": "Eating Establishment",
+          "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
+          "postal": "307506"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2025-12-04T22:15:16.502807",
     "date": "2025-12-04",
     "summary": {

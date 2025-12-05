@@ -8605,6 +8605,15 @@
   },
   {
     "name": "Dunkin'",
+    "address": "3 TEMASEK BOULEVARD #01-K6 SUNTEC CITY MALL 038983",
+    "type": "Restaurant",
+    "number": "EERT25120000034",
+    "scheme": "Eating Establishment",
+    "id": "83555d54-74f6-478d-9393-666f698a1c48",
+    "postal": "038983"
+  },
+  {
+    "name": "Dunkin'",
     "address": "7 PASIR RIS CENTRAL #B1-K17 519612",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000727",
@@ -8704,6 +8713,15 @@
   },
   {
     "name": "Dunkin'",
+    "address": "107 NORTH BRIDGE ROAD #B2-05 FUNAN 179105",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB25120000033",
+    "scheme": "Eating Establishment",
+    "id": "83555d54-74f6-478d-9393-666f698a1c48",
+    "postal": "179105"
+  },
+  {
+    "name": "Dunkin'",
     "address": "311 NEW UPPER CHANGI ROAD #B2-K7 BEDOK MALL 467360",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000309",
@@ -8773,6 +8791,15 @@
     "scheme": "Eating Establishment",
     "id": "83555d54-74f6-478d-9393-666f698a1c48",
     "postal": "569933"
+  },
+  {
+    "name": "Dunkin'",
+    "address": "20 TAMPINES CENTRAL 1 #01-20 TAMPINES MRT STATION 529538",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB25120000025",
+    "scheme": "Eating Establishment",
+    "id": "83555d54-74f6-478d-9393-666f698a1c48",
+    "postal": "529538"
   },
   {
     "name": "Dunkin'",
@@ -9214,6 +9241,15 @@
     "scheme": "Eating Establishment",
     "id": "008ded89-78a7-4d68-8a1e-8fdc67f56423",
     "postal": "467360"
+  },
+  {
+    "name": "Encik Tan",
+    "address": "1 HARBOURFRONT WALK #B2-45 VIVOCITY 098585",
+    "type": "Restaurant",
+    "number": "EERT25120000006",
+    "scheme": "Eating Establishment",
+    "id": "008ded89-78a7-4d68-8a1e-8fdc67f56423",
+    "postal": "098585"
   },
   {
     "name": "Encik Tan",
@@ -11503,15 +11539,6 @@
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
-    "address": "53 Ang Mo Kio avenue 3 #B2-40 AMK HUB 569933",
-    "type": "Halal Section",
-    "number": "EECN21070000453",
-    "scheme": "Eating Establishment",
-    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
-    "postal": "569933"
-  },
-  {
-    "name": "Halal Section @ NTUC FAIRPRICE",
     "address": "80 MARINE PARADE ROAD #03-28 PARKWAY PARADE 449269",
     "type": "Central Kitchen",
     "number": "FPCN21050001520",
@@ -11563,6 +11590,15 @@
     "scheme": "Food Preparation Area",
     "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
     "postal": "397628"
+  },
+  {
+    "name": "Halal Section @ NTUC FAIRPRICE",
+    "address": "53 Ang Mo Kio avenue 3 #B2-40 AMK HUB 569933",
+    "type": "Halal Section",
+    "number": "EECN21070000453",
+    "scheme": "Eating Establishment",
+    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
+    "postal": "569933"
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
@@ -12400,6 +12436,15 @@
     "scheme": "Eating Establishment",
     "id": "066a00a7-fc46-43ee-ad5d-d062e6ea3de0",
     "postal": "427739"
+  },
+  {
+    "name": "Home of Seafood / Home of Sushi / Divine by Home of Seafood",
+    "address": "Halal International 2025, 1 EXPO DRIVE #01 SINGAPORE EXPO (HALL 5), Hall 5A - Booth G15 486150",
+    "type": "Short Term Stall(Bazaar/Road Shows)",
+    "number": "EEST25120000035",
+    "scheme": "Eating Establishment",
+    "id": "066a00a7-fc46-43ee-ad5d-d062e6ea3de0",
+    "postal": "486150"
   },
   {
     "name": "Homemade Italian (S58)@Tiong Bahru Market",
@@ -17406,6 +17451,24 @@
     "postal": "659083"
   },
   {
+    "name": "Mari Mari Seafood & Catering",
+    "address": "1 WOODLANDS HEIGHT #05-K17 KOUFU GROUP HQ, Kitchen C03 737859",
+    "type": "Catering Company",
+    "number": "FPCA20240001115",
+    "scheme": "Food Preparation Area",
+    "id": "bacbabb2-c2f2-46ee-b051-48efba344753",
+    "postal": "737859"
+  },
+  {
+    "name": "mari mari Seafood (MR5) @ Koufu Woodlands Height",
+    "address": "1 WOODLANDS HEIGHT #01-01 KOUFU GROUP HQ, MR5 737859",
+    "type": "Hawker",
+    "number": "EEHK20230000541",
+    "scheme": "Eating Establishment",
+    "id": "432be6c6-1775-4013-b345-13b9145f9b1b",
+    "postal": "737859"
+  },
+  {
     "name": "MARRYBROWN",
     "address": "43 Siloso Beach Walk #01-03 Ifly Singapore Sentosa 099010",
     "type": "Restaurant",
@@ -19213,15 +19276,6 @@
     "scheme": "Eating Establishment",
     "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
     "postal": "099253"
-  },
-  {
-    "name": "MR BEAN",
-    "address": "10 SINARAN DRIVE #01-21 SQUARE 2 307506",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20220000206",
-    "scheme": "Eating Establishment",
-    "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
-    "postal": "307506"
   },
   {
     "name": "MR BEAN",
@@ -23617,15 +23671,6 @@
   },
   {
     "name": "POLAR PUFFS & CAKES",
-    "address": "15 Woodlands Link 738726",
-    "type": "Central Kitchen",
-    "number": "FPCN20040001359",
-    "scheme": "Food Preparation Area",
-    "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
-    "postal": "738726"
-  },
-  {
-    "name": "POLAR PUFFS & CAKES",
     "address": "23 SERANGOON CENTRAL #03-K3/K4 NEX 556083",
     "type": "Snack Bar / Bakery",
     "number": "EEBN20030010669",
@@ -23805,6 +23850,15 @@
     "postal": "367803"
   },
   {
+    "name": "POLAR PUFFS & CAKES",
+    "address": "15 Woodlands Link 738726",
+    "type": "Central Kitchen",
+    "number": "FPCN20040001359",
+    "scheme": "Food Preparation Area",
+    "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+    "postal": "738726"
+  },
+  {
     "name": "Polar Puffs & Cakes",
     "address": "1 HARBOURFRONT WALK #B2-K5 VIVOCITY 098585",
     "type": "Snack Bar / Bakery",
@@ -23887,21 +23941,21 @@
   },
   {
     "name": "Popeyes Famous Louisiana Chicken",
-    "address": "30 WOODLANDS AVENUE 2 #01-07, 08, 15 WOODLANDS MRT STATION 738343",
-    "type": "Restaurant",
-    "number": "EERT20250000446",
-    "scheme": "Eating Establishment",
-    "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
-    "postal": "738343"
-  },
-  {
-    "name": "Popeyes Famous Louisiana Chicken",
     "address": "11 TANJONG KATONG ROAD #01-50/51 KINEX 437157",
     "type": "Restaurant",
     "number": "EERT20250000586",
     "scheme": "Eating Establishment",
     "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
     "postal": "437157"
+  },
+  {
+    "name": "Popeyes Famous Louisiana Chicken",
+    "address": "30 WOODLANDS AVENUE 2 #01-07, 08, 15 WOODLANDS MRT STATION 738343",
+    "type": "Restaurant",
+    "number": "EERT20250000446",
+    "scheme": "Eating Establishment",
+    "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+    "postal": "738343"
   },
   {
     "name": "Popeyes Famous Louisiana Chicken",
@@ -24241,15 +24295,6 @@
     "address": "201 KEPPEL ROAD #10-00 ANNEXE BLOCK 099419",
     "type": "Central Kitchen",
     "number": "FPCN21050001526",
-    "scheme": "Food Preparation Area",
-    "id": "02140cb6-f4b2-428b-9b58-14206e1bfafb",
-    "postal": "099419"
-  },
-  {
-    "name": "PRIMADELI",
-    "address": "201 KEPPEL ROAD #08-00 ANNEXE BLOCK 099419",
-    "type": "Central Kitchen",
-    "number": "FPCN21050001527",
     "scheme": "Food Preparation Area",
     "id": "02140cb6-f4b2-428b-9b58-14206e1bfafb",
     "postal": "099419"
@@ -25255,6 +25300,15 @@
   },
   {
     "name": "ROTIKEK",
+    "address": "632 BEDOK RESERVOIR ROAD #01-860 EUNOS GROVE 470632",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB25110000004",
+    "scheme": "Eating Establishment",
+    "id": "42d34450-5869-4fe6-94cb-107c37145b50",
+    "postal": "470632"
+  },
+  {
+    "name": "ROTIKEK",
     "address": "1 WOODLANDS ROAD #01-20 JUNCTION 10 677899",
     "type": "Snack Bar / Bakery",
     "number": "EEBN21050012330",
@@ -25270,15 +25324,6 @@
     "scheme": "Eating Establishment",
     "id": "7285c504-2c8b-496a-adeb-e0ed766bb652",
     "postal": "738343"
-  },
-  {
-    "name": "ROTIKEK",
-    "address": "632 BEDOK RESERVOIR ROAD #01-860 EUNOS GROVE 470632",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB25110000004",
-    "scheme": "Eating Establishment",
-    "id": "42d34450-5869-4fe6-94cb-107c37145b50",
-    "postal": "470632"
   },
   {
     "name": "ROYAL CATERING SERVICES PTE LTD",
@@ -26053,15 +26098,6 @@
     "scheme": "Eating Establishment",
     "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
     "postal": "608532"
-  },
-  {
-    "name": "Sanook Kitchen",
-    "address": "180 KITCHENER ROAD #02-33/56 CITY SQUARE MALL 208539",
-    "type": "Restaurant",
-    "number": "EERT20250000405",
-    "scheme": "Eating Establishment",
-    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-    "postal": "208539"
   },
   {
     "name": "Sari Rasa Eating House",
@@ -27916,6 +27952,15 @@
     "scheme": "Food Preparation Area",
     "id": "e30d7f1e-3fba-44be-8fd7-dc382d0c05e3",
     "postal": "758099"
+  },
+  {
+    "name": "Staple Food Cafe",
+    "address": "196 JOO CHIAT ROAD 01-01 427467",
+    "type": "Restaurant",
+    "number": "EERT25120000031",
+    "scheme": "Eating Establishment",
+    "id": "65acada9-cad8-4602-a99e-47fa2a0eeb55",
+    "postal": "427467"
   },
   {
     "name": "Streats Cafe",
@@ -30877,15 +30922,6 @@
     "scheme": "Eating Establishment",
     "id": "2a66ae9a-f2e9-45d2-9c83-299a8aba23c6",
     "postal": "409051"
-  },
-  {
-    "name": "Telur Thai (S19) @ Kopitiam Tampines Mall",
-    "address": "4 TAMPINES CENTRAL 5 #04-27 TAMPINES MALL, Stall 19 529510",
-    "type": "Hawker",
-    "number": "EEHK20240000079",
-    "scheme": "Eating Establishment",
-    "id": "135a9f83-f2f4-40b3-8aac-e663ee9034df",
-    "postal": "529510"
   },
   {
     "name": "Telur Thai (S7) @ Cantine Greenridge Shopping Centre",
@@ -34189,6 +34225,15 @@
     "scheme": "Eating Establishment",
     "id": "2b421cd1-a8a1-4d47-a983-d25fc5a6f434",
     "postal": "518457"
+  },
+  {
+    "name": "Udang Udang Prawn Mee (MR4) @ Koufu Woodlands Height",
+    "address": "1 WOODLANDS HEIGHT #01-01 KOUFU GROUP HQ, MR4 737859",
+    "type": "Hawker",
+    "number": "EEHK20240001116",
+    "scheme": "Eating Establishment",
+    "id": "c897dfb8-4241-4d71-9f4a-5e8063c84bb0",
+    "postal": "737859"
   },
   {
     "name": "UFS FOOD INDUSTRIES PTE. LTD.",
