@@ -1,5 +1,39 @@
 [
   {
+    "timestamp": "2025-12-06T22:15:42.778823",
+    "date": "2025-12-06",
+    "summary": {
+      "new": 1,
+      "removed": 1,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Cafe Fusion @ DHL Air Express Centre",
+          "address": "1 TAI SENG DRIVE #06 DHL AIR EXPRESS CENTRE 535215",
+          "type": "Staff Canteen",
+          "number": "EESC20220000674",
+          "scheme": "Eating Establishment",
+          "id": "0a15cd91-18e7-4d93-908f-4355228ea2eb",
+          "postal": "535215"
+        }
+      ],
+      "removed": [
+        {
+          "name": "PRIMADELI",
+          "address": "201 KEPPEL ROAD #10-00 ANNEXE BLOCK 099419",
+          "type": "Central Kitchen",
+          "number": "FPCN21050001526",
+          "scheme": "Food Preparation Area",
+          "id": "02140cb6-f4b2-428b-9b58-14206e1bfafb",
+          "postal": "099419"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2025-12-05T22:15:43.535234",
     "date": "2025-12-05",
     "summary": {
