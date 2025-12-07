@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2025-12-07T22:15:41.323529",
+    "date": "2025-12-07",
+    "summary": {
+      "new": 2,
+      "removed": 1,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "PRIMADELI",
+          "address": "201 KEPPEL ROAD #10-00 ANNEXE BLOCK 099419",
+          "type": "Central Kitchen",
+          "number": "FPCN21050001526",
+          "scheme": "Food Preparation Area",
+          "id": "02140cb6-f4b2-428b-9b58-14206e1bfafb",
+          "postal": "099419"
+        },
+        {
+          "name": "VS Canteen @ Hulett Dormitory",
+          "address": "20 SENOKO DRIVE 758207",
+          "type": "Staff Canteen",
+          "number": "EEFN21090012536",
+          "scheme": "Eating Establishment",
+          "id": "268fc5ce-044f-4809-8b03-22c950928f12",
+          "postal": "758207"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Home of Seafood / Home of Sushi / Divine by Home of Seafood",
+          "address": "Halal International 2025, 1 EXPO DRIVE #01 SINGAPORE EXPO (HALL 5), Hall 5A - Booth G15 486150",
+          "type": "Short Term Stall(Bazaar/Road Shows)",
+          "number": "EEST25120000035",
+          "scheme": "Eating Establishment",
+          "id": "066a00a7-fc46-43ee-ad5d-d062e6ea3de0",
+          "postal": "486150"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2025-12-06T22:15:42.778823",
     "date": "2025-12-06",
     "summary": {

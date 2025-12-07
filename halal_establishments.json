@@ -12447,15 +12447,6 @@
     "postal": "427739"
   },
   {
-    "name": "Home of Seafood / Home of Sushi / Divine by Home of Seafood",
-    "address": "Halal International 2025, 1 EXPO DRIVE #01 SINGAPORE EXPO (HALL 5), Hall 5A - Booth G15 486150",
-    "type": "Short Term Stall(Bazaar/Road Shows)",
-    "number": "EEST25120000035",
-    "scheme": "Eating Establishment",
-    "id": "066a00a7-fc46-43ee-ad5d-d062e6ea3de0",
-    "postal": "486150"
-  },
-  {
     "name": "Homemade Italian (S58)@Tiong Bahru Market",
     "address": "30 SENG POH ROAD #02-58, STALL 58 168898",
     "type": "Hawker",
@@ -24301,6 +24292,15 @@
   },
   {
     "name": "PRIMADELI",
+    "address": "201 KEPPEL ROAD #10-00 ANNEXE BLOCK 099419",
+    "type": "Central Kitchen",
+    "number": "FPCN21050001526",
+    "scheme": "Food Preparation Area",
+    "id": "02140cb6-f4b2-428b-9b58-14206e1bfafb",
+    "postal": "099419"
+  },
+  {
+    "name": "PRIMADELI",
     "address": "1 WOODLANDS SQUARE #B1-K23 CAUSEWAY POINT 738099",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000336",
@@ -34423,6 +34423,15 @@
     "scheme": "Eating Establishment",
     "id": "94a45ad6-6fa7-45e1-8830-2bbcd9a6a8d2",
     "postal": "098585"
+  },
+  {
+    "name": "VS Canteen @ Hulett Dormitory",
+    "address": "20 SENOKO DRIVE 758207",
+    "type": "Staff Canteen",
+    "number": "EEFN21090012536",
+    "scheme": "Eating Establishment",
+    "id": "268fc5ce-044f-4809-8b03-22c950928f12",
+    "postal": "758207"
   },
   {
     "name": "Waffles & Cream/The Kiosk/Desserts (S1) @ Cantine Jurong Point",
