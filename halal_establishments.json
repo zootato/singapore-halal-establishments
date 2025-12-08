@@ -2728,6 +2728,15 @@
   },
   {
     "name": "BAKEINC",
+    "address": "CHINESE NEW YEAR 2026 @ B2 TAKASHIMAYA, 391A ORCHARD ROAD #B2 NGEE ANN CITY, 7 238873",
+    "type": "Short Term Stall(Bazaar/Road Shows)",
+    "number": "EEST25120000036",
+    "scheme": "Eating Establishment",
+    "id": "edbe1a4e-d230-4fe7-914b-eb8d94f1245a",
+    "postal": "238873"
+  },
+  {
+    "name": "BAKEINC",
     "address": "65 AIRPORT BOULEVARD #B2-03 ATM OCBC CHANGI AIRPORT TERMINAL 3 - BASEMENT 2 SOUTH (IN FRONT OF FOODCOURT) 819663",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240001018",
@@ -4888,15 +4897,6 @@
   },
   {
     "name": "CANADIAN 2 FOR 1 PIZZA",
-    "address": "18 LIM TUA TOW ROAD 547765",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20230000702",
-    "scheme": "Eating Establishment",
-    "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
-    "postal": "547765"
-  },
-  {
-    "name": "CANADIAN 2 FOR 1 PIZZA",
     "address": "1 STADIUM DRIVE 642 397629",
     "type": "Hawker",
     "number": "EEHK20240000591",
@@ -5002,6 +5002,15 @@
     "scheme": "Eating Establishment",
     "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
     "postal": "560151"
+  },
+  {
+    "name": "CANADIAN 2 FOR 1 PIZZA",
+    "address": "18 LIM TUA TOW ROAD 547765",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20230000702",
+    "scheme": "Eating Establishment",
+    "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
+    "postal": "547765"
   },
   {
     "name": "CANADIAN 2 FOR 1 PIZZA",
@@ -5410,21 +5419,21 @@
   },
   {
     "name": "Chic-A-Boo Chicken Specialty",
-    "address": "6 Raffles Boulevard #03-147 #03-148, Marina Square 039594",
-    "type": "Restaurant",
-    "number": "EERN21070012617",
-    "scheme": "Eating Establishment",
-    "id": "29af124d-1e9e-42aa-bc6f-2aafa75bfe35",
-    "postal": "039594"
-  },
-  {
-    "name": "Chic-A-Boo Chicken Specialty",
     "address": "6 WOODLANDS SQUARE #01-12 WOODS SQUARE 737737",
     "type": "Restaurant",
     "number": "EERN21070012620",
     "scheme": "Eating Establishment",
     "id": "29af124d-1e9e-42aa-bc6f-2aafa75bfe35",
     "postal": "737737"
+  },
+  {
+    "name": "Chic-A-Boo Chicken Specialty",
+    "address": "6 Raffles Boulevard #03-147 #03-148, Marina Square 039594",
+    "type": "Restaurant",
+    "number": "EERN21070012617",
+    "scheme": "Eating Establishment",
+    "id": "29af124d-1e9e-42aa-bc6f-2aafa75bfe35",
+    "postal": "039594"
   },
   {
     "name": "Chicken Ka Kee",
@@ -10492,6 +10501,15 @@
     "scheme": "Eating Establishment",
     "id": "99def733-a809-4820-85a8-20297f1fd2a5",
     "postal": "120449"
+  },
+  {
+    "name": "FUSION WESTERN CUISINE",
+    "address": "150 TOWNER ROAD Stall 03 @ FoodHub #01-01 TOWNER CREST 320150",
+    "type": "Hawker",
+    "number": "EEHK25120000027",
+    "scheme": "Eating Establishment",
+    "id": "225d8367-2c75-4a77-8421-bebb4401ae7d",
+    "postal": "320150"
   },
   {
     "name": "Fusion Western Cuisine (S5) @ST 82 Coffee House",
@@ -23500,21 +23518,21 @@
   },
   {
     "name": "Poke Theory",
-    "address": "2 PAYA LEBAR ROAD #01-04 PARK PLACE RESIDENCES AT PLQ 409053",
-    "type": "Restaurant",
-    "number": "EERN21020012158",
-    "scheme": "Eating Establishment",
-    "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
-    "postal": "409053"
-  },
-  {
-    "name": "Poke Theory",
     "address": "30 RAFFLES PLACE #01-18 CHANGE ALLEY MALL 048622",
     "type": "Restaurant",
     "number": "EERN21020012157",
     "scheme": "Eating Establishment",
     "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
     "postal": "048622"
+  },
+  {
+    "name": "Poke Theory",
+    "address": "2 PAYA LEBAR ROAD #01-04 PARK PLACE RESIDENCES AT PLQ 409053",
+    "type": "Restaurant",
+    "number": "EERN21020012158",
+    "scheme": "Eating Establishment",
+    "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
+    "postal": "409053"
   },
   {
     "name": "Poke Theory",
@@ -23893,6 +23911,15 @@
     "scheme": "Eating Establishment",
     "id": "5538d34b-20cc-40cc-b972-ab33e62bd1f8",
     "postal": "228213"
+  },
+  {
+    "name": "Pondok Selera By Nurul Hidayah",
+    "address": "8A ADMIRALTY STREET #07-38 FOOD XCHANGE @ ADMIRALTY 757437",
+    "type": "Catering Company",
+    "number": "FPCA20240001085",
+    "scheme": "Food Preparation Area",
+    "id": "8f6454b2-602c-4716-9676-b445a534cc6a",
+    "postal": "757437"
   },
   {
     "name": "POON RESOURCES PTE LTD",
@@ -24289,15 +24316,6 @@
     "scheme": "Eating Establishment",
     "id": "02140cb6-f4b2-428b-9b58-14206e1bfafb",
     "postal": "521866"
-  },
-  {
-    "name": "PRIMADELI",
-    "address": "201 KEPPEL ROAD #10-00 ANNEXE BLOCK 099419",
-    "type": "Central Kitchen",
-    "number": "FPCN21050001526",
-    "scheme": "Food Preparation Area",
-    "id": "02140cb6-f4b2-428b-9b58-14206e1bfafb",
-    "postal": "099419"
   },
   {
     "name": "PRIMADELI",
@@ -27738,6 +27756,15 @@
     "postal": "628566"
   },
   {
+    "name": "Staff Canteen Stall @ Lonza Biologics ( Mngd by ISS Catering )",
+    "address": "35 TUAS SOUTH AVENUE 6 637377",
+    "type": "Staff Canteen",
+    "number": "EESC20230001000",
+    "scheme": "Eating Establishment",
+    "id": "29940345-bf67-4e70-b9c1-4cc6d0f3b954",
+    "postal": "637377"
+  },
+  {
     "name": "Staff Canteen Stall @ MIWORLD Building (Mngd by Heng Kitchen & Catering)",
     "address": "9 INTERNATIONAL BUSINESS PARK MIWORLD 609915",
     "type": "Staff Canteen",
@@ -29608,6 +29635,15 @@
     "scheme": "Eating Establishment",
     "id": "91835bbb-99ee-42bf-93e0-00d0c30d65fd",
     "postal": "510734"
+  },
+  {
+    "name": "SV Caterers Pte Ltd",
+    "address": "7 MANDAI ESTATE #05-05 FOODFAB@MANDAI 729904",
+    "type": "Catering Company",
+    "number": "FPCA25120000004",
+    "scheme": "Food Preparation Area",
+    "id": "46167b0c-c1af-4ff3-9419-759ae1e04805",
+    "postal": "729904"
   },
   {
     "name": "SWEE HENG",
@@ -35512,15 +35548,6 @@
     "scheme": "Eating Establishment",
     "id": "7febb99e-79f2-45a1-9f1b-a2fe974e405a",
     "postal": "467360"
-  },
-  {
-    "name": "Yakiniku Shokudo",
-    "address": "1 TAMPINES WALK #01-103/103A OUR TAMPINES HUB 528523",
-    "type": "Restaurant",
-    "number": "EERT20230000345",
-    "scheme": "Eating Establishment",
-    "id": "7febb99e-79f2-45a1-9f1b-a2fe974e405a",
-    "postal": "528523"
   },
   {
     "name": "Yakiniku Shokudo",
