@@ -1,5 +1,66 @@
 [
   {
+    "timestamp": "2025-12-09T22:16:22.088356",
+    "date": "2025-12-09",
+    "summary": {
+      "new": 3,
+      "removed": 2,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Jubilicious",
+          "address": "48 BOON LAY WAY #01-18 THE CHEVRONS 609961",
+          "type": "Restaurant",
+          "number": "EERT25120000020",
+          "scheme": "Eating Establishment",
+          "id": "ede058ed-e8b1-4655-9ad4-315207d2df18",
+          "postal": "609961"
+        },
+        {
+          "name": "Nasi Ayam",
+          "address": "306A WOODLANDS STREET 31 Stall 2 @ Mr Teh Tarik Eating House #01-01 FUCHUN NEIGHBOURHOOD CENTRE 731306",
+          "type": "Hawker",
+          "number": "EEHK25120000010",
+          "scheme": "Eating Establishment",
+          "id": "80182a53-75d4-43b4-976f-1d2dd1397861",
+          "postal": "731306"
+        },
+        {
+          "name": "Western Cuisine (S6) @ Foodgle Hub ITE College Central",
+          "address": "2 Ang Mo Kio Drive #01-14 ITE College Central, Stall 6 567720",
+          "type": "Hawker",
+          "number": "EEHK20230001077",
+          "scheme": "Eating Establishment",
+          "id": "5b0bec33-4231-4559-8514-b8316681d5a9",
+          "postal": "567720"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Syed Cafe",
+          "address": "743 HAVELOCK ROAD 169656",
+          "type": "Restaurant",
+          "number": "EERT20250000833",
+          "scheme": "Eating Establishment",
+          "id": "20369ee1-57f8-4781-a0b5-a3dd38004d4b",
+          "postal": "169656"
+        },
+        {
+          "name": "WOK HEY",
+          "address": "1 TAMPINES WALK #01-82A OUR TAMPINES HUB 528523",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013109",
+          "scheme": "Eating Establishment",
+          "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+          "postal": "528523"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2025-12-08T22:16:53.811098",
     "date": "2025-12-08",
     "summary": {

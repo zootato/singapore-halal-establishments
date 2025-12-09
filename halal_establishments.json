@@ -13824,6 +13824,15 @@
     "postal": "199020"
   },
   {
+    "name": "Jubilicious",
+    "address": "48 BOON LAY WAY #01-18 THE CHEVRONS 609961",
+    "type": "Restaurant",
+    "number": "EERT25120000020",
+    "scheme": "Eating Establishment",
+    "id": "ede058ed-e8b1-4655-9ad4-315207d2df18",
+    "postal": "609961"
+  },
+  {
     "name": "Julia BBQ",
     "address": "49A SERANGOON GARDEN WAY 23 #23 SERANGOON GARDEN MARKET & FOOD CENTRE 555945",
     "type": "Hawker",
@@ -20538,6 +20547,15 @@
     "postal": "738964"
   },
   {
+    "name": "Nasi Ayam",
+    "address": "306A WOODLANDS STREET 31 Stall 2 @ Mr Teh Tarik Eating House #01-01 FUCHUN NEIGHBOURHOOD CENTRE 731306",
+    "type": "Hawker",
+    "number": "EEHK25120000010",
+    "scheme": "Eating Establishment",
+    "id": "80182a53-75d4-43b4-976f-1d2dd1397861",
+    "postal": "731306"
+  },
+  {
     "name": "Nasi Ayam (S1) @ Mr Teh Tarik Eating House 728 Ang Mo Kio",
     "address": "728 ANG MO KIO AVENUE 6 #01-4200, Stall 1 560728",
     "type": "Hawker",
@@ -23680,15 +23698,6 @@
   },
   {
     "name": "POLAR PUFFS & CAKES",
-    "address": "1 WOODLANDS SQUARE #B1-K07 CAUSEWAY POINT 738099",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBX20040011257",
-    "scheme": "Eating Establishment",
-    "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
-    "postal": "738099"
-  },
-  {
-    "name": "POLAR PUFFS & CAKES",
     "address": "23 SERANGOON CENTRAL #03-K3/K4 NEX 556083",
     "type": "Snack Bar / Bakery",
     "number": "EEBN20030010669",
@@ -23839,6 +23848,15 @@
     "scheme": "Eating Establishment",
     "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
     "postal": "769098"
+  },
+  {
+    "name": "POLAR PUFFS & CAKES",
+    "address": "1 WOODLANDS SQUARE #B1-K07 CAUSEWAY POINT 738099",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBX20040011257",
+    "scheme": "Eating Establishment",
+    "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+    "postal": "738099"
   },
   {
     "name": "POLAR PUFFS & CAKES",
@@ -25201,15 +25219,6 @@
   },
   {
     "name": "ROCKY MASTER",
-    "address": "6 WOODLANDS SQUARE #01-11 WOODS SQUARE 737737",
-    "type": "Restaurant",
-    "number": "EERN21050012379",
-    "scheme": "Eating Establishment",
-    "id": "33632e00-5112-411c-92d5-7748c166de2b",
-    "postal": "737737"
-  },
-  {
-    "name": "ROCKY MASTER",
     "address": "1 HOUGANG STREET 91 #01-40 HOUGANG FESTIVAL MARKET 538692",
     "type": "Restaurant",
     "number": "EERN21050012373",
@@ -25234,6 +25243,15 @@
     "scheme": "Eating Establishment",
     "id": "33632e00-5112-411c-92d5-7748c166de2b",
     "postal": "238876"
+  },
+  {
+    "name": "ROCKY MASTER",
+    "address": "6 WOODLANDS SQUARE #01-11 WOODS SQUARE 737737",
+    "type": "Restaurant",
+    "number": "EERN21050012379",
+    "scheme": "Eating Establishment",
+    "id": "33632e00-5112-411c-92d5-7748c166de2b",
+    "postal": "737737"
   },
   {
     "name": "ROCKY MASTER",
@@ -30583,15 +30601,6 @@
   },
   {
     "name": "Syed Cafe",
-    "address": "743 HAVELOCK ROAD 169656",
-    "type": "Restaurant",
-    "number": "EERT20250000833",
-    "scheme": "Eating Establishment",
-    "id": "20369ee1-57f8-4781-a0b5-a3dd38004d4b",
-    "postal": "169656"
-  },
-  {
-    "name": "Syed Cafe",
     "address": "1 LOWER KENT RIDGE ROAD #02-04-06 NUH MEDICAL CENTRE 119082",
     "type": "Restaurant",
     "number": "EERT20240000578",
@@ -34659,6 +34668,15 @@
     "postal": "567720"
   },
   {
+    "name": "Western Cuisine (S6) @ Foodgle Hub ITE College Central",
+    "address": "2 Ang Mo Kio Drive #01-14 ITE College Central, Stall 6 567720",
+    "type": "Hawker",
+    "number": "EEHK20230001077",
+    "scheme": "Eating Establishment",
+    "id": "5b0bec33-4231-4559-8514-b8316681d5a9",
+    "postal": "567720"
+  },
+  {
     "name": "WESTERN CUISINE (S8) @ MAKAN PLACE NGEE ANN POLYTECHNIC",
     "address": "535 CLEMENTI ROAD #02-00 NGEE ANN POLYTECHNIC (Blk 51) 599489",
     "type": "Hawker",
@@ -35296,15 +35314,6 @@
     "scheme": "Eating Establishment",
     "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
     "postal": "569933"
-  },
-  {
-    "name": "WOK HEY",
-    "address": "1 TAMPINES WALK #01-82A OUR TAMPINES HUB 528523",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN22020013109",
-    "scheme": "Eating Establishment",
-    "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
-    "postal": "528523"
   },
   {
     "name": "WOK HEY",
