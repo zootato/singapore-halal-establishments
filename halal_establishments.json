@@ -34146,6 +34146,24 @@
     "postal": "737628"
   },
   {
+    "name": "TUK TUK CHA",
+    "address": "10 PAYA LEBAR ROAD #01-K4 PLQ MALL 409057",
+    "type": "Restaurant",
+    "number": "EERT20230001172",
+    "scheme": "Eating Establishment",
+    "id": "26419664-614b-4de2-ae02-a63d585f062f",
+    "postal": "409057"
+  },
+  {
+    "name": "TUK TUK CHA TREASURES",
+    "address": "1 SENGKANG SQUARE #01-47 COMPASS ONE 545078",
+    "type": "Restaurant",
+    "number": "EERT20230001171",
+    "scheme": "Eating Establishment",
+    "id": "19a80b74-3a39-4fc4-b0f0-0a533c24dde5",
+    "postal": "545078"
+  },
+  {
     "name": "TWOBAKEBOYS",
     "address": "360 BALESTIER ROAD #03-09/K2 SHAW PLAZA 329783",
     "type": "Restaurant",
