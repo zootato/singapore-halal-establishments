@@ -1,5 +1,29 @@
 [
   {
+    "timestamp": "2025-12-11T22:16:15.722427",
+    "date": "2025-12-11",
+    "summary": {
+      "new": 1,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "ORANGE CLOVE CATERING PTE LTD",
+          "address": "1 KAKI BUKIT ROAD 1 #05-03/04/05/06 ENTERPRISE ONE 415934",
+          "type": "Catering Company",
+          "number": "FPGX22020001653",
+          "scheme": "Food Preparation Area",
+          "id": "8e1c9885-5e1b-4918-8d88-fa95b24ef370",
+          "postal": "415934"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2025-12-10T22:17:31.866327",
     "date": "2025-12-10",
     "summary": {
