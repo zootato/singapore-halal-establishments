@@ -4249,6 +4249,15 @@
   },
   {
     "name": "BURGER KING",
+    "address": "1 HARBOURFRONT WALK #B2-41/56 VIVOCITY 098585",
+    "type": "Restaurant",
+    "number": "EERT25120000009",
+    "scheme": "Eating Establishment",
+    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+    "postal": "098585"
+  },
+  {
+    "name": "BURGER KING",
     "address": "809 French Road #01-31 Kitchener Complex 200809",
     "type": "Restaurant",
     "number": "EERX20030011314",
@@ -5731,6 +5740,15 @@
     "scheme": "Food Preparation Area",
     "id": "20a47308-6f44-4fe1-8812-df6ec64b9bdb",
     "postal": "486350"
+  },
+  {
+    "name": "Chimichurri",
+    "address": "103 IRRAWADDY ROAD #01-22 ROYAL SQUARE AT NOVENA 329566",
+    "type": "Restaurant",
+    "number": "EERT25120000049",
+    "scheme": "Eating Establishment",
+    "id": "02110098-6693-408a-ba39-ba2ddb576a6d",
+    "postal": "329566"
   },
   {
     "name": "Chinese Food (S4) @ Quad Cafe",
@@ -13581,6 +13599,15 @@
     "postal": "528523"
   },
   {
+    "name": "JINJJA KITCHEN",
+    "address": "1 JURONG WEST CENTRAL 2 #B1-06 JURONG POINT 648886",
+    "type": "Restaurant",
+    "number": "EERT25120000039",
+    "scheme": "Eating Establishment",
+    "id": "be28eb68-4cc1-4791-a42c-e2b8737ceae3",
+    "postal": "648886"
+  },
+  {
     "name": "JK EXCELLENT FOOD PTE. LTD.",
     "address": "8A ADMIRALTY STREET #03-37 FOOD XCHANGE @ ADMIRALTY 757437",
     "type": "Central Kitchen",
@@ -17442,6 +17469,15 @@
     "postal": "819665"
   },
   {
+    "name": "Manna Grill Pasta Burger Pizza",
+    "address": "348 YISHUN AVENUE 11 Stall 4, Rasa Rasa @ Yishun #01-04 ADORA GREEN 760348",
+    "type": "Hawker",
+    "number": "EEHK25120000048",
+    "scheme": "Eating Establishment",
+    "id": "13b52bb7-3406-44de-add2-610b94fb9303",
+    "postal": "760348"
+  },
+  {
     "name": "Manna Grill Pasta Burger Pizza (S4) @ Rasa Rasa Teck Whye",
     "address": "160A Jalan teck Whye, Stall 4 681160",
     "type": "Hawker",
@@ -19297,15 +19333,6 @@
   },
   {
     "name": "MR BEAN",
-    "address": "1 MARITIME SQUARE #01-K4 HARBOURFRONT CENTRE 099253",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20220000177",
-    "scheme": "Eating Establishment",
-    "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
-    "postal": "099253"
-  },
-  {
-    "name": "MR BEAN",
     "address": "11 BIDADARI PARK DRIVE #B1-K10 THE WOODLEIGH MALL 367803",
     "type": "Snack Bar / Bakery",
     "number": "EESB20230000628",
@@ -19384,6 +19411,15 @@
     "scheme": "Eating Establishment",
     "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
     "postal": "670445"
+  },
+  {
+    "name": "MR BEAN",
+    "address": "1 MARITIME SQUARE #01-K4 HARBOURFRONT CENTRE 099253",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20220000177",
+    "scheme": "Eating Establishment",
+    "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
+    "postal": "099253"
   },
   {
     "name": "MR BEAN",
@@ -26136,15 +26172,6 @@
     "postal": "307506"
   },
   {
-    "name": "Sanook Kitchen",
-    "address": "3 GATEWAY DRIVE #B1-25 WESTGATE 608532",
-    "type": "Restaurant",
-    "number": "EERT20240000492",
-    "scheme": "Eating Establishment",
-    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-    "postal": "608532"
-  },
-  {
     "name": "Sari Rasa Eating House",
     "address": "430 UPPER CHANGI ROAD 01-10/11 EAST VILLAGE 487048",
     "type": "Restaurant",
@@ -26521,6 +26548,15 @@
     "scheme": "Eating Establishment",
     "id": "169540c8-d889-4ec0-980a-7a5d364b8bed",
     "postal": "637607"
+  },
+  {
+    "name": "Sedap Corner Seafood & Chicken Rice",
+    "address": "326 JURONG EAST STREET 31 #01-118 600326",
+    "type": "Restaurant",
+    "number": "EERT25120000045",
+    "scheme": "Eating Establishment",
+    "id": "82546c11-b53d-4897-9d15-f5b8a5c84c97",
+    "postal": "600326"
   },
   {
     "name": "Sedap Padi Emas (S3) @ Kopitiam NUH",
@@ -31021,24 +31057,6 @@
     "scheme": "Eating Establishment",
     "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
     "postal": "538719"
-  },
-  {
-    "name": "Tenderbest",
-    "address": "276 JURONG WEST STREET 25 #01-01, Stall 8 640276",
-    "type": "Hawker",
-    "number": "EEHK20220000797",
-    "scheme": "Eating Establishment",
-    "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
-    "postal": "640276"
-  },
-  {
-    "name": "Tenderbest",
-    "address": "959 JURONG WEST STREET 92 #01-150/152, Stall 7 640959",
-    "type": "Hawker",
-    "number": "EEHN21060012437",
-    "scheme": "Eating Establishment",
-    "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
-    "postal": "640959"
   },
   {
     "name": "Tenderbest",

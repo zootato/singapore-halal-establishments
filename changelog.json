@@ -1,5 +1,93 @@
 [
   {
+    "timestamp": "2025-12-12T22:16:25.134014",
+    "date": "2025-12-12",
+    "summary": {
+      "new": 5,
+      "removed": 3,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Chimichurri",
+          "address": "103 IRRAWADDY ROAD #01-22 ROYAL SQUARE AT NOVENA 329566",
+          "type": "Restaurant",
+          "number": "EERT25120000049",
+          "scheme": "Eating Establishment",
+          "id": "02110098-6693-408a-ba39-ba2ddb576a6d",
+          "postal": "329566"
+        },
+        {
+          "name": "Manna Grill Pasta Burger Pizza",
+          "address": "348 YISHUN AVENUE 11 Stall 4, Rasa Rasa @ Yishun #01-04 ADORA GREEN 760348",
+          "type": "Hawker",
+          "number": "EEHK25120000048",
+          "scheme": "Eating Establishment",
+          "id": "13b52bb7-3406-44de-add2-610b94fb9303",
+          "postal": "760348"
+        },
+        {
+          "name": "BURGER KING",
+          "address": "1 HARBOURFRONT WALK #B2-41/56 VIVOCITY 098585",
+          "type": "Restaurant",
+          "number": "EERT25120000009",
+          "scheme": "Eating Establishment",
+          "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+          "postal": "098585"
+        },
+        {
+          "name": "JINJJA KITCHEN",
+          "address": "1 JURONG WEST CENTRAL 2 #B1-06 JURONG POINT 648886",
+          "type": "Restaurant",
+          "number": "EERT25120000039",
+          "scheme": "Eating Establishment",
+          "id": "be28eb68-4cc1-4791-a42c-e2b8737ceae3",
+          "postal": "648886"
+        },
+        {
+          "name": "Sedap Corner Seafood & Chicken Rice",
+          "address": "326 JURONG EAST STREET 31 #01-118 600326",
+          "type": "Restaurant",
+          "number": "EERT25120000045",
+          "scheme": "Eating Establishment",
+          "id": "82546c11-b53d-4897-9d15-f5b8a5c84c97",
+          "postal": "600326"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Tenderbest",
+          "address": "959 JURONG WEST STREET 92 #01-150/152, Stall 7 640959",
+          "type": "Hawker",
+          "number": "EEHN21060012437",
+          "scheme": "Eating Establishment",
+          "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
+          "postal": "640959"
+        },
+        {
+          "name": "Sanook Kitchen",
+          "address": "3 GATEWAY DRIVE #B1-25 WESTGATE 608532",
+          "type": "Restaurant",
+          "number": "EERT20240000492",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "608532"
+        },
+        {
+          "name": "Tenderbest",
+          "address": "276 JURONG WEST STREET 25 #01-01, Stall 8 640276",
+          "type": "Hawker",
+          "number": "EEHK20220000797",
+          "scheme": "Eating Establishment",
+          "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
+          "postal": "640276"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2025-12-11T22:16:15.722427",
     "date": "2025-12-11",
     "summary": {
