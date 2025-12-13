@@ -11808,6 +11808,24 @@
     "postal": "758297"
   },
   {
+    "name": "Happiness Chicken Rice",
+    "address": "1 JURONG EAST STREET 21 Stall No 7 @ Fork & Spoon Ng Teng Fong General Hospital #02-01A, #02-01B NG TENG FONG GENERAL HOSPITAL (TOWER B) 609606",
+    "type": "Hawker",
+    "number": "EEHK25120000044",
+    "scheme": "Eating Establishment",
+    "id": "e9a33dc4-1c73-4279-a87b-3fdd6ed1d1b9",
+    "postal": "609606"
+  },
+  {
+    "name": "Happiness Roasted Delight",
+    "address": "2 ANG MO KIO DRIVE (S8) @ Central Delights ITE College Central #04-04 ITE COLLEGE CENTRAL 567720",
+    "type": "Hawker",
+    "number": "EEHK25120000043",
+    "scheme": "Eating Establishment",
+    "id": "afbb876d-8289-404f-b3ff-fb04b14b9fbb",
+    "postal": "567720"
+  },
+  {
     "name": "Happiness Sunbo Chicken Rice (MR3) @ Cantine Canberra Plaza",
     "address": "133 CANBERRA VIEW #01-21/22/23 Canberra Plaza, MR3 750133",
     "type": "Hawker",
@@ -11815,6 +11833,15 @@
     "scheme": "Eating Establishment",
     "id": "57f3b454-9b4c-4cab-ab46-2aed6e6c71f1",
     "postal": "750133"
+  },
+  {
+    "name": "Happiness Sunbo Chicken Rice (S7)@Kopitiam KTPH",
+    "address": "90 YISHUN CENTRAL #01-12 KHOO TECK PUAT HOSPITAL 768828",
+    "type": "Hawker",
+    "number": "EEHK20240001086",
+    "scheme": "Eating Establishment",
+    "id": "c4ec2f2b-9310-4761-a60a-958b86c40920",
+    "postal": "768828"
   },
   {
     "name": "HAPPY CAFE",
@@ -20395,6 +20422,15 @@
   },
   {
     "name": "N.A",
+    "address": "1 JURONG EAST STREET 21 (Stall 6) @ Fork & Spoon Ng Teng Fong General Hospital (Tower B) #02-01A, #02-01B NG TENG FONG GENERAL HOSPITAL (TOWER B) 609606",
+    "type": "Hawker",
+    "number": "EEHK25120000041",
+    "scheme": "Eating Establishment",
+    "id": "2035b70c-c1f0-49ab-a004-a9576849a2b6",
+    "postal": "609606"
+  },
+  {
+    "name": "N.A",
     "address": "604 SEMBAWANG ROAD (S3)@Kopitiam Food Hall SSC #B1-25 #B1-25A Sembawang Shopping Centre, Stall 3 758459",
     "type": "Hawker",
     "number": "EEHK20250000639",
@@ -24310,15 +24346,6 @@
   },
   {
     "name": "PRIMADELI",
-    "address": "1 PASIR RIS CLOSE #02-K3/K4 E!HUB@DOWNTOWN EAST 519599",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000732",
-    "scheme": "Eating Establishment",
-    "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
-    "postal": "519599"
-  },
-  {
-    "name": "PRIMADELI",
     "address": "21 CHOA CHU KANG AVENUE 4 #B1-K25 LOT ONE, SHOPPERS' MALL 689812",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000355",
@@ -24415,6 +24442,15 @@
     "scheme": "Eating Establishment",
     "id": "02140cb6-f4b2-428b-9b58-14206e1bfafb",
     "postal": "528833"
+  },
+  {
+    "name": "PRIMADELI",
+    "address": "1 PASIR RIS CLOSE #02-K3/K4 E!HUB@DOWNTOWN EAST 519599",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000732",
+    "scheme": "Eating Establishment",
+    "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+    "postal": "519599"
   },
   {
     "name": "PRIMADELI",
@@ -24616,21 +24652,21 @@
   },
   {
     "name": "Providence Cafe & Bakery",
-    "address": "38 MALCOLM ROAD #01 ST. JOSEPH'S INSTITUTION 308274",
-    "type": "Restaurant",
-    "number": "EERT20230000658",
-    "scheme": "Eating Establishment",
-    "id": "dbdc613f-701f-4178-b1d5-af65a15b5d9e",
-    "postal": "308274"
-  },
-  {
-    "name": "Providence Cafe & Bakery",
     "address": "12 MARSILING ROAD #01-01 MARSILING SECONDARY SCHOOL 739110",
     "type": "Snack Bar / Bakery",
     "number": "EESB20250000603",
     "scheme": "Eating Establishment",
     "id": "dbdc613f-701f-4178-b1d5-af65a15b5d9e",
     "postal": "739110"
+  },
+  {
+    "name": "Providence Cafe & Bakery",
+    "address": "38 MALCOLM ROAD #01 ST. JOSEPH'S INSTITUTION 308274",
+    "type": "Restaurant",
+    "number": "EERT20230000658",
+    "scheme": "Eating Establishment",
+    "id": "dbdc613f-701f-4178-b1d5-af65a15b5d9e",
+    "postal": "308274"
   },
   {
     "name": "Providence Cafe & Bakery",
@@ -26341,6 +26377,15 @@
     "scheme": "Eating Establishment",
     "id": "5bf2c286-1b83-49e1-905e-1f1fc359edb4",
     "postal": "229899"
+  },
+  {
+    "name": "Seabay Delight Wok Delight",
+    "address": "10 HOSPITAL BOULEVARD #02-03 OUTRAM COMMUNITY HOSPITAL, STALL 2, KOUFU 168582",
+    "type": "Hawker",
+    "number": "EEHK25120000040",
+    "scheme": "Eating Establishment",
+    "id": "97a50ab3-4707-4dbc-8b49-622567c33356",
+    "postal": "168582"
   },
   {
     "name": "Seabay Delight Wok Delight (MR2)@Koufu Sengkang Community Hospital",
@@ -30988,15 +31033,6 @@
   },
   {
     "name": "Telur Thai",
-    "address": "1 JURONG WEST CENTRAL 2 #B1-42/43/44 JURONG POINT 648886",
-    "type": "Hawker",
-    "number": "EEHK20250000777",
-    "scheme": "Eating Establishment",
-    "id": "0c1c70c3-2b77-418b-a59d-a2ffd355139c",
-    "postal": "648886"
-  },
-  {
-    "name": "Telur Thai",
     "address": "127 PLANTATION CRESCENT #03-02 KOUFU PLANTATION PLAZA, Stall 4 690127",
     "type": "Hawker",
     "number": "EEHK20250000775",
@@ -33751,24 +33787,6 @@
   },
   {
     "name": "TREATS",
-    "address": "1027 UPPER SERANGOON ROAD MOBIL SERVICE STATION 534765",
-    "type": "Food Kiosk",
-    "number": "EEFK20220001016",
-    "scheme": "Eating Establishment",
-    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
-    "postal": "534765"
-  },
-  {
-    "name": "TREATS",
-    "address": "590 EAST COAST ROAD ESSO SERVICE STATION 458995",
-    "type": "Food Kiosk",
-    "number": "EEFK20220001017",
-    "scheme": "Eating Establishment",
-    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
-    "postal": "458995"
-  },
-  {
-    "name": "TREATS",
     "address": "262 QUEENSWAY MOBIL SERVICE STATION 149061",
     "type": "Food Kiosk",
     "number": "EEFK20230000900",
@@ -33874,6 +33892,24 @@
     "scheme": "Eating Establishment",
     "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
     "postal": "758452"
+  },
+  {
+    "name": "TREATS",
+    "address": "1027 UPPER SERANGOON ROAD MOBIL SERVICE STATION 534765",
+    "type": "Food Kiosk",
+    "number": "EEFK20220001016",
+    "scheme": "Eating Establishment",
+    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
+    "postal": "534765"
+  },
+  {
+    "name": "TREATS",
+    "address": "590 EAST COAST ROAD ESSO SERVICE STATION 458995",
+    "type": "Food Kiosk",
+    "number": "EEFK20220001017",
+    "scheme": "Eating Establishment",
+    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
+    "postal": "458995"
   },
   {
     "name": "TREATS",

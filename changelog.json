@@ -1,5 +1,75 @@
 [
   {
+    "timestamp": "2025-12-13T22:16:16.582002",
+    "date": "2025-12-13",
+    "summary": {
+      "new": 5,
+      "removed": 1,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Happiness Chicken Rice",
+          "address": "1 JURONG EAST STREET 21 Stall No 7 @ Fork & Spoon Ng Teng Fong General Hospital #02-01A, #02-01B NG TENG FONG GENERAL HOSPITAL (TOWER B) 609606",
+          "type": "Hawker",
+          "number": "EEHK25120000044",
+          "scheme": "Eating Establishment",
+          "id": "e9a33dc4-1c73-4279-a87b-3fdd6ed1d1b9",
+          "postal": "609606"
+        },
+        {
+          "name": "Happiness Roasted Delight",
+          "address": "2 ANG MO KIO DRIVE (S8) @ Central Delights ITE College Central #04-04 ITE COLLEGE CENTRAL 567720",
+          "type": "Hawker",
+          "number": "EEHK25120000043",
+          "scheme": "Eating Establishment",
+          "id": "afbb876d-8289-404f-b3ff-fb04b14b9fbb",
+          "postal": "567720"
+        },
+        {
+          "name": "N.A",
+          "address": "1 JURONG EAST STREET 21 (Stall 6) @ Fork & Spoon Ng Teng Fong General Hospital (Tower B) #02-01A, #02-01B NG TENG FONG GENERAL HOSPITAL (TOWER B) 609606",
+          "type": "Hawker",
+          "number": "EEHK25120000041",
+          "scheme": "Eating Establishment",
+          "id": "2035b70c-c1f0-49ab-a004-a9576849a2b6",
+          "postal": "609606"
+        },
+        {
+          "name": "Seabay Delight Wok Delight",
+          "address": "10 HOSPITAL BOULEVARD #02-03 OUTRAM COMMUNITY HOSPITAL, STALL 2, KOUFU 168582",
+          "type": "Hawker",
+          "number": "EEHK25120000040",
+          "scheme": "Eating Establishment",
+          "id": "97a50ab3-4707-4dbc-8b49-622567c33356",
+          "postal": "168582"
+        },
+        {
+          "name": "Happiness Sunbo Chicken Rice (S7)@Kopitiam KTPH",
+          "address": "90 YISHUN CENTRAL #01-12 KHOO TECK PUAT HOSPITAL 768828",
+          "type": "Hawker",
+          "number": "EEHK20240001086",
+          "scheme": "Eating Establishment",
+          "id": "c4ec2f2b-9310-4761-a60a-958b86c40920",
+          "postal": "768828"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Telur Thai",
+          "address": "1 JURONG WEST CENTRAL 2 #B1-42/43/44 JURONG POINT 648886",
+          "type": "Hawker",
+          "number": "EEHK20250000777",
+          "scheme": "Eating Establishment",
+          "id": "0c1c70c3-2b77-418b-a59d-a2ffd355139c",
+          "postal": "648886"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2025-12-12T22:16:25.134014",
     "date": "2025-12-12",
     "summary": {
