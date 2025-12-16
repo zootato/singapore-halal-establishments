@@ -1,5 +1,40 @@
 [
   {
+    "timestamp": "2025-12-16T22:17:18.259372",
+    "date": "2025-12-16",
+    "summary": {
+      "new": 0,
+      "removed": 0,
+      "updated": 1
+    },
+    "changes": {
+      "new": [],
+      "removed": [],
+      "updated": [
+        {
+          "previous": {
+            "name": "AJ Delights (S82 & 83) @ Alexandra Village Food Centre",
+            "address": "120 BUKIT MERAH LANE 1 #01-82&83 Alexandra Village Food Centre 150120",
+            "type": "Hawker",
+            "number": "EEHN21120013019",
+            "scheme": "Eating Establishment",
+            "id": "e29e1f89-40a1-4021-930f-42558e6dd7d8",
+            "postal": "150120"
+          },
+          "current": {
+            "name": "AJ Delights (S82 & 83) @ Alexandra Village Food Centre",
+            "address": "120 BUKIT MERAH LANE 1 #01-82/83 Alexandra Village Food Centre, STALL 82/83 150120",
+            "type": "Hawker",
+            "number": "EEHN21120013019",
+            "scheme": "Eating Establishment",
+            "id": "e29e1f89-40a1-4021-930f-42558e6dd7d8",
+            "postal": "150120"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2025-12-13T22:16:16.582002",
     "date": "2025-12-13",
     "summary": {
