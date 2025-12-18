@@ -6418,6 +6418,15 @@
   },
   {
     "name": "CRAVE",
+    "address": "9 NORTH BUONA VISTA DRIVE Stall 1 #01-18 THE METROPOLIS 138588",
+    "type": "Hawker",
+    "number": "EEHK25120000042",
+    "scheme": "Eating Establishment",
+    "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
+    "postal": "138588"
+  },
+  {
+    "name": "CRAVE",
     "address": "1 VISTA EXCHANGE GREEN #B1-43 THE STAR VISTA 138617",
     "type": "Restaurant",
     "number": "EERT25100000065",
@@ -10989,6 +10998,15 @@
     "postal": "098997"
   },
   {
+    "name": "Goreng Pisang",
+    "address": "306A WOODLANDS STREET 31 Stall 6 @ Mr Teh Tarik Eating House #01-01 FUCHUN NEIGHBOURHOOD CENTRE 731306",
+    "type": "Hawker",
+    "number": "EEHK25120000011",
+    "scheme": "Eating Establishment",
+    "id": "5e657aad-e96c-4880-ade0-0645f296bec2",
+    "postal": "731306"
+  },
+  {
     "name": "Gourmel Pte Ltd",
     "address": "5 BURN ROAD #06-02 TEE YIH JIA FOOD BUILDING 369972",
     "type": "Catering Company",
@@ -11023,6 +11041,15 @@
     "scheme": "Food Preparation Area",
     "id": "16af735b-707b-4848-8e97-414224d24424",
     "postal": "369972"
+  },
+  {
+    "name": "Gratify Services Pte. Ltd",
+    "address": "1012 ALJUNIED AVENUE 3 #01-43 ALJUNIED INDUSTRIAL ESTATE 389935",
+    "type": "Central Kitchen",
+    "number": "FPCK25120000047",
+    "scheme": "Food Preparation Area",
+    "id": "be1216f7-774a-47c3-a5da-d769ae7b785b",
+    "postal": "389935"
   },
   {
     "name": "GREAThai",
@@ -16011,6 +16038,15 @@
     "postal": "738702"
   },
   {
+    "name": "Kwong Seng International Pte Ltd",
+    "address": "239 Pandan Loop #08-03 FOOD CONCEPT @ PANDAN 128425",
+    "type": "Central Kitchen",
+    "number": "FPCK25120000078",
+    "scheme": "Food Preparation Area",
+    "id": "06812e10-944f-4f21-a15f-bc0a586b8e72",
+    "postal": "128425"
+  },
+  {
     "name": "KYO KOMACHI",
     "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #01-K8 CHANGI CITY POINT 486038",
     "type": "Restaurant",
@@ -16351,15 +16387,6 @@
     "scheme": "Eating Establishment",
     "id": "49f8491c-8cac-41ab-9498-b49b734fb111",
     "postal": "640456"
-  },
-  {
-    "name": "LOCO LOCO",
-    "address": "7 MANDAI ESTATE #06-04 FOODFAB@MANDAI 729904",
-    "type": "Catering Company",
-    "number": "FPCA20240000830",
-    "scheme": "Food Preparation Area",
-    "id": "a7073c37-6be5-48ea-b355-7dc943498078",
-    "postal": "729904"
   },
   {
     "name": "Long John Silver's",
@@ -23761,15 +23788,6 @@
   },
   {
     "name": "POLAR PUFFS & CAKES",
-    "address": "1 PASIR RIS CENTRAL STREET 3 #B1-K01 WHITE SANDS 518457",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN20040010693",
-    "scheme": "Eating Establishment",
-    "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
-    "postal": "518457"
-  },
-  {
-    "name": "POLAR PUFFS & CAKES",
     "address": "23 SERANGOON CENTRAL #03-K3/K4 NEX 556083",
     "type": "Snack Bar / Bakery",
     "number": "EEBN20030010669",
@@ -23830,6 +23848,15 @@
     "scheme": "Eating Establishment",
     "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
     "postal": "538766"
+  },
+  {
+    "name": "POLAR PUFFS & CAKES",
+    "address": "1 PASIR RIS CENTRAL STREET 3 #B1-K01 WHITE SANDS 518457",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN20040010693",
+    "scheme": "Eating Establishment",
+    "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+    "postal": "518457"
   },
   {
     "name": "POLAR PUFFS & CAKES",
@@ -31471,6 +31498,15 @@
     "scheme": "Eating Establishment",
     "id": "6cedb673-9bc6-456c-b64b-d1f67203ea48",
     "postal": "486038"
+  },
+  {
+    "name": "THAI MAKAN",
+    "address": "456 JURONG WEST STREET 41 Mr Teh Tarik Eating House (Stall 4) #01-750 640456",
+    "type": "Hawker",
+    "number": "EEHK25120000065",
+    "scheme": "Eating Establishment",
+    "id": "f8a553df-8b21-4c61-881f-cfef28b2854d",
+    "postal": "640456"
   },
   {
     "name": "THAI MAKAN (S12) @ KOPITIAM TAN TOCK SENG HOSPITAL",

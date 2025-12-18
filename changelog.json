@@ -1,5 +1,75 @@
 [
   {
+    "timestamp": "2025-12-18T22:16:01.005633",
+    "date": "2025-12-18",
+    "summary": {
+      "new": 5,
+      "removed": 1,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Kwong Seng International Pte Ltd",
+          "address": "239 Pandan Loop #08-03 FOOD CONCEPT @ PANDAN 128425",
+          "type": "Central Kitchen",
+          "number": "FPCK25120000078",
+          "scheme": "Food Preparation Area",
+          "id": "06812e10-944f-4f21-a15f-bc0a586b8e72",
+          "postal": "128425"
+        },
+        {
+          "name": "THAI MAKAN",
+          "address": "456 JURONG WEST STREET 41 Mr Teh Tarik Eating House (Stall 4) #01-750 640456",
+          "type": "Hawker",
+          "number": "EEHK25120000065",
+          "scheme": "Eating Establishment",
+          "id": "f8a553df-8b21-4c61-881f-cfef28b2854d",
+          "postal": "640456"
+        },
+        {
+          "name": "Goreng Pisang",
+          "address": "306A WOODLANDS STREET 31 Stall 6 @ Mr Teh Tarik Eating House #01-01 FUCHUN NEIGHBOURHOOD CENTRE 731306",
+          "type": "Hawker",
+          "number": "EEHK25120000011",
+          "scheme": "Eating Establishment",
+          "id": "5e657aad-e96c-4880-ade0-0645f296bec2",
+          "postal": "731306"
+        },
+        {
+          "name": "CRAVE",
+          "address": "9 NORTH BUONA VISTA DRIVE Stall 1 #01-18 THE METROPOLIS 138588",
+          "type": "Hawker",
+          "number": "EEHK25120000042",
+          "scheme": "Eating Establishment",
+          "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
+          "postal": "138588"
+        },
+        {
+          "name": "Gratify Services Pte. Ltd",
+          "address": "1012 ALJUNIED AVENUE 3 #01-43 ALJUNIED INDUSTRIAL ESTATE 389935",
+          "type": "Central Kitchen",
+          "number": "FPCK25120000047",
+          "scheme": "Food Preparation Area",
+          "id": "be1216f7-774a-47c3-a5da-d769ae7b785b",
+          "postal": "389935"
+        }
+      ],
+      "removed": [
+        {
+          "name": "LOCO LOCO",
+          "address": "7 MANDAI ESTATE #06-04 FOODFAB@MANDAI 729904",
+          "type": "Catering Company",
+          "number": "FPCA20240000830",
+          "scheme": "Food Preparation Area",
+          "id": "a7073c37-6be5-48ea-b355-7dc943498078",
+          "postal": "729904"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2025-12-17T22:16:30.794048",
     "date": "2025-12-17",
     "summary": {
