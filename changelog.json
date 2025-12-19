@@ -1,5 +1,246 @@
 [
   {
+    "timestamp": "2025-12-19T22:18:16.249474",
+    "date": "2025-12-19",
+    "summary": {
+      "new": 22,
+      "removed": 3,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "CANADIAN 2 FOR 1 PIZZA",
+          "address": "242 JURONG EAST STREET 24 #01-627 600242",
+          "type": "Restaurant",
+          "number": "EERT25120000073",
+          "scheme": "Eating Establishment",
+          "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
+          "postal": "600242"
+        },
+        {
+          "name": "FuneatayampenyetxWesterncuisine(MR3)@koufusunplaza",
+          "address": "30 SEMBAWANG DRIVE #03-01B SUN PLAZA, STALL MR3 757713",
+          "type": "Hawker",
+          "number": "EEHK20240000970",
+          "scheme": "Eating Establishment",
+          "id": "4e13416e-9054-4330-8b51-0e5e02b8e48b",
+          "postal": "757713"
+        },
+        {
+          "name": "KRYSTON F&B PTE. LTD.",
+          "address": "30B QUALITY ROAD #06-03 618826",
+          "type": "Catering Company",
+          "number": "FPCA20240000635",
+          "scheme": "Food Preparation Area",
+          "id": "df50ed4e-47b1-4f7d-a019-2d19853c6833",
+          "postal": "618826"
+        },
+        {
+          "name": "Indian Story Pte Ltd",
+          "address": "5 MANDAI LINK #03-06 MANDAI FOODLINK 728654",
+          "type": "Catering Company",
+          "number": "FPCA25120000038",
+          "scheme": "Food Preparation Area",
+          "id": "0dee96af-f29e-4ef5-94db-509f461c48b4",
+          "postal": "728654"
+        },
+        {
+          "name": "WINGSTOP",
+          "address": "4 BUKIT BATOK STREET 41 01-12/13 LE QUEST 657991",
+          "type": "Restaurant",
+          "number": "EERT25120000066",
+          "scheme": "Eating Establishment",
+          "id": "5078bd18-9cd6-436e-8ff3-0f2e55f795dc",
+          "postal": "657991"
+        },
+        {
+          "name": "SAAP SAAP THAI KAFFE & TOAST",
+          "address": "4 TAMPINES CENTRAL 5 #B1-K1 TAMPINES MALL 529510",
+          "type": "Restaurant",
+          "number": "EERT25120000077",
+          "scheme": "Eating Establishment",
+          "id": "21cbabe9-1b4b-4cbf-8382-15880b12d674",
+          "postal": "529510"
+        },
+        {
+          "name": "Kawan Bowl Scrambled Egg Rice (S5) @ Cantine Jurong Point.",
+          "address": "1 JURONG WEST CENTRAL 2 #B1-42/43/44 JURONG POINT, Stall 5 648886",
+          "type": "Hawker",
+          "number": "EEHK20240001023",
+          "scheme": "Eating Establishment",
+          "id": "b3e0f2dd-a6b8-403b-979e-549996673b68",
+          "postal": "648886"
+        },
+        {
+          "name": "J & C Bakery Pte Ltd",
+          "address": "15 WOODLANDS LOOP #03-03 738322",
+          "type": "Central Kitchen",
+          "number": "FPCN21040001501",
+          "scheme": "Food Preparation Area",
+          "id": "458bf659-ae09-48ee-8183-a6a6ae47372e",
+          "postal": "738322"
+        },
+        {
+          "name": "WINGSTOP",
+          "address": "1 PASIR RIS CENTRAL STREET 3 #02-01/02/03 WHITE SANDS 518457",
+          "type": "Restaurant",
+          "number": "EERT25120000067",
+          "scheme": "Eating Establishment",
+          "id": "5078bd18-9cd6-436e-8ff3-0f2e55f795dc",
+          "postal": "518457"
+        },
+        {
+          "name": "HAI KEE SEAFOOD",
+          "address": "500 CLEMENCEAU AVENUE NORTH #01-78 NEWTON FOOD CENTRE 229495",
+          "type": "Hawker",
+          "number": "EEHK25120000080",
+          "scheme": "Eating Establishment",
+          "id": "a93c9964-04ce-4393-911b-70a11ee31f15",
+          "postal": "229495"
+        },
+        {
+          "name": "KIM PARADISE PTE. LTD.",
+          "address": "30B QUALITY ROAD #04-102 618826",
+          "type": "Catering Company",
+          "number": "FPCA20250000076",
+          "scheme": "Food Preparation Area",
+          "id": "95e20e4f-ae45-4c04-8065-c275a711d9ce",
+          "postal": "618826"
+        },
+        {
+          "name": "J & C BAKERY",
+          "address": "430 UPPER CHANGI ROAD #01-58 EAST VILLAGE 487048",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21050012348",
+          "scheme": "Eating Establishment",
+          "id": "aca6b67f-b8bf-45d7-aeb5-391dc9b3b24c",
+          "postal": "487048"
+        },
+        {
+          "name": "DELI HUB CATERING PTE. LTD.",
+          "address": "30B QUALITY ROAD #04-01/02 618826",
+          "type": "Catering Company",
+          "number": "FPCA20250000096",
+          "scheme": "Food Preparation Area",
+          "id": "58cb4690-26ec-46f6-b1a4-4016d27db927",
+          "postal": "618826"
+        },
+        {
+          "name": "CHILLI MANIS CATERING PTE. LTD.",
+          "address": "30B QUALITY ROAD #03-102 618826",
+          "type": "Catering Company",
+          "number": "FPCA20250000098",
+          "scheme": "Food Preparation Area",
+          "id": "bf23ba90-6f5e-4aa6-bd66-8d06b03050f8",
+          "postal": "618826"
+        },
+        {
+          "name": "PONDOK NASI LEMAK",
+          "address": "2 COLLEGE AVENUE WEST Stall 10, Thrive Foods UTown NUS #02-01 UNIVERSITY TOWN (STEPHEN RIADY CENTRE) 138607",
+          "type": "Hawker",
+          "number": "EEHK25120000054",
+          "scheme": "Eating Establishment",
+          "id": "179d4dbf-686d-443b-a3c8-2773ca83a2b2",
+          "postal": "138607"
+        },
+        {
+          "name": "Pasta Kaki & Churros Factory",
+          "address": "83 KAMPONG BAHRU ROAD BLAIR PLAIN CONSERVATION AREA 169379",
+          "type": "Restaurant",
+          "number": "EERT25120000072",
+          "scheme": "Eating Establishment",
+          "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
+          "postal": "169379"
+        },
+        {
+          "name": "KAFFE & TOAST",
+          "address": "163 TANGLIN ROAD #B1-127 TANGLIN MALL 247933",
+          "type": "Restaurant",
+          "number": "EERT25120000076",
+          "scheme": "Eating Establishment",
+          "id": "bf19dd23-8f34-4621-88b5-aacf84905fe9",
+          "postal": "247933"
+        },
+        {
+          "name": "CATERCO CONCEPTS PTE. LTD.",
+          "address": "30B QUALITY ROAD #03-102 618826",
+          "type": "Catering Company",
+          "number": "FPCA20250000097",
+          "scheme": "Food Preparation Area",
+          "id": "c09f42b8-f9fe-44ba-9c92-94375d86a1a4",
+          "postal": "618826"
+        },
+        {
+          "name": "HJH MAIMUNAH MINI",
+          "address": "1 HARBOURFRONT WALK MR 29, KOPITIAM FOOD HALL #B2-40 VIVOCITY 098585",
+          "type": "Hawker",
+          "number": "EEHK25120000059",
+          "scheme": "Eating Establishment",
+          "id": "d7186732-cdce-48fc-bf26-19f71232a399",
+          "postal": "098585"
+        },
+        {
+          "name": "Ban Mian",
+          "address": "1 JURONG WEST CENTRAL 2 Stall 6 @ Cantine Jurong Point #B1-43 JURONG POINT 648886",
+          "type": "Hawker",
+          "number": "EEHK25120000060",
+          "scheme": "Eating Establishment",
+          "id": "abf1a3cb-75ff-4ba3-b654-6d47b59545bd",
+          "postal": "648886"
+        },
+        {
+          "name": "Mala Master",
+          "address": "469 BUKIT BATOK WEST AVENUE 9 (S21)@Bukit Batok West Hawker Centre #01-21 HARMONY VILLAGE @ BUKIT BATOK 650469",
+          "type": "Hawker",
+          "number": "EEHK25120000052",
+          "scheme": "Eating Establishment",
+          "id": "fdd75e8a-23b9-4960-95f0-c82c9ac8cd92",
+          "postal": "650469"
+        },
+        {
+          "name": "HJH MAIMUNAH MINI",
+          "address": "3155 COMMONWEALTH AVENUE WEST MR2, HAWKER'S STREET #04-20/21/22 THE CLEMENTI MALL, MR 2, HAWKERS\" STREET 129588",
+          "type": "Hawker",
+          "number": "EEHK25120000058",
+          "scheme": "Eating Establishment",
+          "id": "d7186732-cdce-48fc-bf26-19f71232a399",
+          "postal": "129588"
+        }
+      ],
+      "removed": [
+        {
+          "name": "PRIMADELI",
+          "address": "10 EUNOS ROAD 8 #B1-164 SINGAPORE POST CENTRE 408600",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000341",
+          "scheme": "Eating Establishment",
+          "id": "02140cb6-f4b2-428b-9b58-14206e1bfafb",
+          "postal": "408600"
+        },
+        {
+          "name": "PastryCo",
+          "address": "432A BUKIT BATOK WEST AVENUE 8 #01-02 WEST SCAPE @ BUKIT BATOK 651432",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000825",
+          "scheme": "Eating Establishment",
+          "id": "6dc02f81-d9ea-4cd9-879b-0d9239b917c4",
+          "postal": "651432"
+        },
+        {
+          "name": "WOK HEY",
+          "address": "53 ANG MO KIO AVENUE 3 #01-36 AMK HUB,(PART OF) LEFT UNIT 569933",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20090011420",
+          "scheme": "Eating Establishment",
+          "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+          "postal": "569933"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2025-12-18T22:16:01.005633",
     "date": "2025-12-18",
     "summary": {
