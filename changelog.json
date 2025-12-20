@@ -1,5 +1,179 @@
 [
   {
+    "timestamp": "2025-12-20T22:15:46.113724",
+    "date": "2025-12-20",
+    "summary": {
+      "new": 9,
+      "removed": 4,
+      "updated": 2
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "J&C BAKERY",
+          "address": "3700 YISHUN RING ROAD CALTEX SERVICE STATION 768690",
+          "type": "Food Kiosk",
+          "number": "EEFK20250000101",
+          "scheme": "Eating Establishment",
+          "id": "2cd161a8-0cff-43bd-8b55-5af850f521de",
+          "postal": "768690"
+        },
+        {
+          "name": "Cinta Hainanese Chicken Rice (S4) @ SG Hawker",
+          "address": "80 AIRPORT BOULEVARD #03-47-48 CHANGI AIRPORT TERMINAL 1, Stall 4 819642",
+          "type": "Hawker",
+          "number": "EEHK20240001124",
+          "scheme": "Eating Establishment",
+          "id": "1c391382-fc45-4285-839a-c0f79bd074a9",
+          "postal": "819642"
+        },
+        {
+          "name": "Ampang Yong Tau Foo (S12) @Cantine Pasir Ris Mall",
+          "address": "7 PASIR RIS CENTRAL #b2-17, stall 12 519612",
+          "type": "Hawker",
+          "number": "EEHK20240000851",
+          "scheme": "Eating Establishment",
+          "id": "a3bb6476-1c7d-4c47-a415-d6b81246d9b8",
+          "postal": "519612"
+        },
+        {
+          "name": "Cinta Hainanese Chicken Rice",
+          "address": "7 PASIR RIS CENTRAL Stall 11 #B2-17 Cantine PASIR RIS MALL 519612",
+          "type": "Hawker",
+          "number": "EEHK25120000085",
+          "scheme": "Eating Establishment",
+          "id": "4f8511ab-2f47-49ce-8fba-6cfcbcb7ae04",
+          "postal": "519612"
+        },
+        {
+          "name": "Ampang Yong Tau Foo",
+          "address": "1 JURONG WEST CENTRAL 2 B1-42,43,44 CANTINE JURONG POINT, Stall 8 648886",
+          "type": "Hawker",
+          "number": "EEHK25120000084",
+          "scheme": "Eating Establishment",
+          "id": "ac004075-5f44-4091-8917-4f36da74b4b7",
+          "postal": "648886"
+        },
+        {
+          "name": "Ampang Yong Tau Foo (S4) @ Cookhouse by Koufu White Sands.",
+          "address": "1 PASIR RIS CENTRAL STREET 3 #03-01, Stall 4 518457",
+          "type": "Hawker",
+          "number": "EEHK20240000855",
+          "scheme": "Eating Establishment",
+          "id": "2e5c7a19-9552-4944-aeea-6d7be7a0b6db",
+          "postal": "518457"
+        },
+        {
+          "name": "Ampang Yong Tau Foo & Beef Noodle (S8) @ Kopitiam T3",
+          "address": "65 AIRPORT BOULEVARD #B2-03 CHANGI AIRPORT TERMINAL 3, Stall 8 819663",
+          "type": "Hawker",
+          "number": "EEHK20250000277",
+          "scheme": "Eating Establishment",
+          "id": "bdecf2f5-a032-4428-9cf2-8c0b0c98295f",
+          "postal": "819663"
+        },
+        {
+          "name": "Cinta Hainanese Chicken Rice",
+          "address": "16 JALAN TAN TOCK SENG Stall 6 #B1-01 Kopitiam NATIONAL CENTRE FOR INFECTIOUS DISEASES 308442",
+          "type": "Hawker",
+          "number": "EEHK25120000083",
+          "scheme": "Eating Establishment",
+          "id": "4f8511ab-2f47-49ce-8fba-6cfcbcb7ae04",
+          "postal": "308442"
+        },
+        {
+          "name": "Ampang Yong Tau Foo (S2) @ Cantine Paya Lebar Square",
+          "address": "60 PAYA LEBAR ROAD #B1-51 PAYA LEBAR SQUARE, Stall 2 409051",
+          "type": "Hawker",
+          "number": "EEHK20240000853",
+          "scheme": "Eating Establishment",
+          "id": "fb8fb028-7ebe-42d6-8e52-550e9026a087",
+          "postal": "409051"
+        }
+      ],
+      "removed": [
+        {
+          "name": "McDonald's",
+          "address": "632 BUKIT BATOK CENTRAL #01-138, Mcdonald's 650632",
+          "type": "Restaurant",
+          "number": "EERN20020011015",
+          "scheme": "Eating Establishment",
+          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+          "postal": "650632"
+        },
+        {
+          "name": "Pastamania",
+          "address": "1 BUKIT BATOK CENTRAL LINK #01-40 WEST MALL 658713",
+          "type": "Restaurant",
+          "number": "EERN22010013365",
+          "scheme": "Eating Establishment",
+          "id": "e1eb4468-e706-4f99-bbf2-2603b062790c",
+          "postal": "658713"
+        },
+        {
+          "name": "PREMIUM CATERING PRIVATE LTD",
+          "address": "8A ADMIRALTY STREET #01/11 & 01/12 FOOD XCHANGE @ ADMIRALTY 757437",
+          "type": "Catering Company",
+          "number": "FPCA25100000044",
+          "scheme": "Food Preparation Area",
+          "id": "2a5fabf9-a7f1-4fd4-be7f-d318cf02aa32",
+          "postal": "757437"
+        },
+        {
+          "name": "Sushi Sedap",
+          "address": "2 Ang Mo Kio Drive #A1-12 ITE College Central NTUC Fairprice 567720",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000347",
+          "scheme": "Eating Establishment",
+          "id": "91835bbb-99ee-42bf-93e0-00d0c30d65fd",
+          "postal": "567720"
+        }
+      ],
+      "updated": [
+        {
+          "previous": {
+            "name": "High Kee BBQ Seafood (S11) @ East Coast Lagoon Food Village",
+            "address": "1220 EAST COAST PARKWAY East Coast Lagoon Food Village,Stall 11 468960",
+            "type": "Hawker",
+            "number": "EEHN21120013022",
+            "scheme": "Eating Establishment",
+            "id": "b00e4214-424d-4607-8953-a16fe3cd689c",
+            "postal": "468960"
+          },
+          "current": {
+            "name": "High Kee BBQ Seafood (S11) @ East Coast Lagoon Food Village",
+            "address": "1220 EAST COAST PARKWAY East Coast Lagoon Food Village, Stall 11 468960",
+            "type": "Hawker",
+            "number": "EEHN21120013022",
+            "scheme": "Eating Establishment",
+            "id": "b00e4214-424d-4607-8953-a16fe3cd689c",
+            "postal": "468960"
+          }
+        },
+        {
+          "previous": {
+            "name": "LIMAU KITCHEN (LEVEL B2)@SINGAPORE MARRIOTT TANG PLAZA HOTEL",
+            "address": "320 ORCHARD ROAD SINGAPORE MARRIOTT TANG PLAZA HOTEL,LEVEL B2 238865",
+            "type": "Central Kitchen",
+            "number": "FPCK20230001352",
+            "scheme": "Food Preparation Area",
+            "id": "1b4294e4-9642-4762-847f-7bf6f6263717",
+            "postal": "238865"
+          },
+          "current": {
+            "name": "LIMAU KITCHEN (LEVEL B2)@SINGAPORE MARRIOTT TANG PLAZA HOTEL",
+            "address": "320 ORCHARD ROAD SINGAPORE MARRIOTT TANG PLAZA HOTEL, LEVEL B2 238865",
+            "type": "Central Kitchen",
+            "number": "FPCK20230001352",
+            "scheme": "Food Preparation Area",
+            "id": "1b4294e4-9642-4762-847f-7bf6f6263717",
+            "postal": "238865"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2025-12-19T22:18:16.249474",
     "date": "2025-12-19",
     "summary": {
