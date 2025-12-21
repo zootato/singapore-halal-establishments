@@ -1,5 +1,102 @@
 [
   {
+    "timestamp": "2025-12-21T22:17:01.179413",
+    "date": "2025-12-21",
+    "summary": {
+      "new": 8,
+      "removed": 1,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Beradik",
+          "address": "10 AIRPORT BOULEVARD Stall 10 #02-205 Kopitiam CHANGI AIRPORT TERMINAL 4 819665",
+          "type": "Hawker",
+          "number": "EEHK25120000088",
+          "scheme": "Eating Establishment",
+          "id": "6b95c926-c479-408f-9416-2db5cf19a8c4",
+          "postal": "819665"
+        },
+        {
+          "name": "BERADIK WESTERN",
+          "address": "4 TAMPINES CENTRAL 5 Kopitiam Foodcourt Stall 5 04-27/28/29 TAMPINES MALL 529510",
+          "type": "Hawker",
+          "number": "EEHK25120000089",
+          "scheme": "Eating Establishment",
+          "id": "6ffc5a28-9ba0-4258-bc3d-5ae677b2a41e",
+          "postal": "529510"
+        },
+        {
+          "name": "Monster Western Express (MR5) @ Cantine Pasir Ris Mall",
+          "address": "7 PASIR RIS CENTRAL #b2-17, MR5 519612",
+          "type": "Hawker",
+          "number": "EEHK20240001125",
+          "scheme": "Eating Establishment",
+          "id": "7b8061c8-c765-4787-ac71-b93a38a9a294",
+          "postal": "519612"
+        },
+        {
+          "name": "Monster Western (MR5) @ Food Junction Century Square",
+          "address": "2 TAMPINES CENTRAL 5 #03-19 CENTURY SQUARE, MR5 529509",
+          "type": "Hawker",
+          "number": "EEHK20240001126",
+          "scheme": "Eating Establishment",
+          "id": "7770d615-8306-4ae1-a325-419b99877081",
+          "postal": "529509"
+        },
+        {
+          "name": "Beradik",
+          "address": "1 JURONG WEST CENTRAL 2 Stall 9 #B1-42,43,44 Jurong Point 648886",
+          "type": "Hawker",
+          "number": "EEHK25120000086",
+          "scheme": "Eating Establishment",
+          "id": "6b95c926-c479-408f-9416-2db5cf19a8c4",
+          "postal": "648886"
+        },
+        {
+          "name": "Beradik Western Cuisine (S5) @Koufu Tengah",
+          "address": "127 PLANTATION CRESCENT #03-02 PLANTATION PLAZA, Stall 5 690127",
+          "type": "Hawker",
+          "number": "EEHK20240001127",
+          "scheme": "Eating Establishment",
+          "id": "47fd593d-49dc-4357-b0ef-df203c2b33b3",
+          "postal": "690127"
+        },
+        {
+          "name": "BERADIK WESTERN",
+          "address": "5 LOWER KENT RIDGE ROAD #01-01 NATIONAL UNIVERSITY HOSPITAL, STALL 10, KOPITIAM NUH 119074",
+          "type": "Hawker",
+          "number": "EEHK25120000087",
+          "scheme": "Eating Establishment",
+          "id": "6ffc5a28-9ba0-4258-bc3d-5ae677b2a41e",
+          "postal": "119074"
+        },
+        {
+          "name": "Beradik Western (S6) @ Kopitiam Changi Airport T3",
+          "address": "65 AIRPORT BOULEVARD #B2-03 CHANGI AIRPORT TERMINAL 3 819663",
+          "type": "Hawker",
+          "number": "EEHK20250000137",
+          "scheme": "Eating Establishment",
+          "id": "0cd757e3-13c3-4851-aa07-d10dbef8a77f",
+          "postal": "819663"
+        }
+      ],
+      "removed": [
+        {
+          "name": "CRAVE",
+          "address": "1 LOWER KENT RIDGE ROAD #01-09/19/20 ONE @ KENTRIDGE 119082",
+          "type": "Restaurant",
+          "number": "EERN21050012353",
+          "scheme": "Eating Establishment",
+          "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
+          "postal": "119082"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2025-12-20T22:15:46.113724",
     "date": "2025-12-20",
     "summary": {

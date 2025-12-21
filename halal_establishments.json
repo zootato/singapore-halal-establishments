@@ -3249,6 +3249,60 @@
     "postal": "534057"
   },
   {
+    "name": "Beradik",
+    "address": "1 JURONG WEST CENTRAL 2 Stall 9 #B1-42,43,44 Jurong Point 648886",
+    "type": "Hawker",
+    "number": "EEHK25120000086",
+    "scheme": "Eating Establishment",
+    "id": "6b95c926-c479-408f-9416-2db5cf19a8c4",
+    "postal": "648886"
+  },
+  {
+    "name": "Beradik",
+    "address": "10 AIRPORT BOULEVARD Stall 10 #02-205 Kopitiam CHANGI AIRPORT TERMINAL 4 819665",
+    "type": "Hawker",
+    "number": "EEHK25120000088",
+    "scheme": "Eating Establishment",
+    "id": "6b95c926-c479-408f-9416-2db5cf19a8c4",
+    "postal": "819665"
+  },
+  {
+    "name": "BERADIK WESTERN",
+    "address": "5 LOWER KENT RIDGE ROAD #01-01 NATIONAL UNIVERSITY HOSPITAL, STALL 10, KOPITIAM NUH 119074",
+    "type": "Hawker",
+    "number": "EEHK25120000087",
+    "scheme": "Eating Establishment",
+    "id": "6ffc5a28-9ba0-4258-bc3d-5ae677b2a41e",
+    "postal": "119074"
+  },
+  {
+    "name": "BERADIK WESTERN",
+    "address": "4 TAMPINES CENTRAL 5 Kopitiam Foodcourt Stall 5 04-27/28/29 TAMPINES MALL 529510",
+    "type": "Hawker",
+    "number": "EEHK25120000089",
+    "scheme": "Eating Establishment",
+    "id": "6ffc5a28-9ba0-4258-bc3d-5ae677b2a41e",
+    "postal": "529510"
+  },
+  {
+    "name": "Beradik Western (S6) @ Kopitiam Changi Airport T3",
+    "address": "65 AIRPORT BOULEVARD #B2-03 CHANGI AIRPORT TERMINAL 3 819663",
+    "type": "Hawker",
+    "number": "EEHK20250000137",
+    "scheme": "Eating Establishment",
+    "id": "0cd757e3-13c3-4851-aa07-d10dbef8a77f",
+    "postal": "819663"
+  },
+  {
+    "name": "Beradik Western Cuisine (S5) @Koufu Tengah",
+    "address": "127 PLANTATION CRESCENT #03-02 PLANTATION PLAZA, Stall 5 690127",
+    "type": "Hawker",
+    "number": "EEHK20240001127",
+    "scheme": "Eating Establishment",
+    "id": "47fd593d-49dc-4357-b0ef-df203c2b33b3",
+    "postal": "690127"
+  },
+  {
     "name": "BETTER BAKER",
     "address": "253 CHOA CHU KANG AVENUE 1 #B1-01 KEAT HONG SHOPPING CENTRE 680253",
     "type": "Snack Bar / Bakery",
@@ -5212,15 +5266,6 @@
   },
   {
     "name": "CAT & THE FIDDLE",
-    "address": "3 GATEWAY DRIVE #01-18 WESTGATE 608532",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN21060012388",
-    "scheme": "Eating Establishment",
-    "id": "40ac230f-34a1-45df-8a3e-ef049f3f2e1f",
-    "postal": "608532"
-  },
-  {
-    "name": "CAT & THE FIDDLE",
     "address": "9 BISHAN PLACE #02-32A JUNCTION 8 SHOPPING CENTRE 579837",
     "type": "Snack Bar / Bakery",
     "number": "EEBN21060012385",
@@ -5236,6 +5281,15 @@
     "scheme": "Eating Establishment",
     "id": "40ac230f-34a1-45df-8a3e-ef049f3f2e1f",
     "postal": "737737"
+  },
+  {
+    "name": "CAT & THE FIDDLE",
+    "address": "3 GATEWAY DRIVE #01-18 WESTGATE 608532",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN21060012388",
+    "scheme": "Eating Establishment",
+    "id": "40ac230f-34a1-45df-8a3e-ef049f3f2e1f",
+    "postal": "608532"
   },
   {
     "name": "CAT & THE FIDDLE",
@@ -6766,15 +6820,6 @@
     "scheme": "Eating Establishment",
     "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
     "postal": "828761"
-  },
-  {
-    "name": "CRAVE",
-    "address": "1 LOWER KENT RIDGE ROAD #01-09/19/20 ONE @ KENTRIDGE 119082",
-    "type": "Restaurant",
-    "number": "EERN21050012353",
-    "scheme": "Eating Establishment",
-    "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
-    "postal": "119082"
   },
   {
     "name": "Cravy For Crispy Chicken",
@@ -8911,15 +8956,6 @@
   },
   {
     "name": "Dunkin'",
-    "address": "3 TEMASEK BOULEVARD #01-K6 SUNTEC CITY MALL 038983",
-    "type": "Restaurant",
-    "number": "EERT25120000034",
-    "scheme": "Eating Establishment",
-    "id": "83555d54-74f6-478d-9393-666f698a1c48",
-    "postal": "038983"
-  },
-  {
-    "name": "Dunkin'",
     "address": "1 BUKIT BATOK CENTRAL LINK #01-K1/K5 WEST MALL 658713",
     "type": "Snack Bar / Bakery",
     "number": "EEBN21110012962",
@@ -8962,6 +8998,15 @@
     "scheme": "Eating Establishment",
     "id": "83555d54-74f6-478d-9393-666f698a1c48",
     "postal": "529538"
+  },
+  {
+    "name": "Dunkin'",
+    "address": "3 TEMASEK BOULEVARD #01-K6 SUNTEC CITY MALL 038983",
+    "type": "Restaurant",
+    "number": "EERT25120000034",
+    "scheme": "Eating Establishment",
+    "id": "83555d54-74f6-478d-9393-666f698a1c48",
+    "postal": "038983"
   },
   {
     "name": "Dunkin'",
@@ -11728,15 +11773,6 @@
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
-    "address": "63 JURONG WEST CENTRAL 3 #03-01 JURONG POINT SHOPPING CENTRE 648331",
-    "type": "Halal Section",
-    "number": "EECN21070000438",
-    "scheme": "Eating Establishment",
-    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
-    "postal": "648331"
-  },
-  {
-    "name": "Halal Section @ NTUC FAIRPRICE",
     "address": "80 MARINE PARADE ROAD #03-28 PARKWAY PARADE 449269",
     "type": "Central Kitchen",
     "number": "FPCN21050001520",
@@ -11752,6 +11788,15 @@
     "scheme": "Food Preparation Area",
     "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
     "postal": "150166"
+  },
+  {
+    "name": "Halal Section @ NTUC FAIRPRICE",
+    "address": "63 JURONG WEST CENTRAL 3 #03-01 JURONG POINT SHOPPING CENTRE 648331",
+    "type": "Halal Section",
+    "number": "EECN21070000438",
+    "scheme": "Eating Establishment",
+    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
+    "postal": "648331"
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
@@ -19332,6 +19377,24 @@
     "postal": "049318"
   },
   {
+    "name": "Monster Western (MR5) @ Food Junction Century Square",
+    "address": "2 TAMPINES CENTRAL 5 #03-19 CENTURY SQUARE, MR5 529509",
+    "type": "Hawker",
+    "number": "EEHK20240001126",
+    "scheme": "Eating Establishment",
+    "id": "7770d615-8306-4ae1-a325-419b99877081",
+    "postal": "529509"
+  },
+  {
+    "name": "Monster Western Express (MR5) @ Cantine Pasir Ris Mall",
+    "address": "7 PASIR RIS CENTRAL #b2-17, MR5 519612",
+    "type": "Hawker",
+    "number": "EEHK20240001125",
+    "scheme": "Eating Establishment",
+    "id": "7b8061c8-c765-4787-ac71-b93a38a9a294",
+    "postal": "519612"
+  },
+  {
     "name": "MR BEAN",
     "address": "30 EUNOS CRESCENT #01-04 EUNOS MRT STATION 409423",
     "type": "Restaurant",
@@ -23374,15 +23437,6 @@
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
-    "address": "9 SENTUL CRESCENT #02-03 828654",
-    "type": "Restaurant",
-    "number": "EERT20240000132",
-    "scheme": "Eating Establishment",
-    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
-    "postal": "828654"
-  },
-  {
-    "name": "PIZZA HUT SINGAPORE PTE LTD",
     "address": "3 SIMEI STREET 6 #02-03 EASTPOINT MALL 528833",
     "type": "Restaurant",
     "number": "EERN21080012761",
@@ -23680,6 +23734,15 @@
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
+    "address": "9 SENTUL CRESCENT #02-03 828654",
+    "type": "Restaurant",
+    "number": "EERT20240000132",
+    "scheme": "Eating Establishment",
+    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
+    "postal": "828654"
+  },
+  {
+    "name": "PIZZA HUT SINGAPORE PTE LTD",
     "address": "191 SIN MING AVENUE #02-01 575738",
     "type": "Restaurant",
     "number": "EERT20240000152",
@@ -23968,15 +24031,6 @@
   },
   {
     "name": "POLAR PUFFS & CAKES",
-    "address": "820 THOMSON ROAD #01-31B MOUNT ALVERNIA HOSPITAL 574623",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN20060011283",
-    "scheme": "Eating Establishment",
-    "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
-    "postal": "574623"
-  },
-  {
-    "name": "POLAR PUFFS & CAKES",
     "address": "1 SENGKANG SQUARE #01-26 COMPASS ONE 545078",
     "type": "Snack Bar / Bakery",
     "number": "EEBN20040010692",
@@ -24109,6 +24163,15 @@
     "scheme": "Eating Establishment",
     "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
     "postal": "608549"
+  },
+  {
+    "name": "POLAR PUFFS & CAKES",
+    "address": "820 THOMSON ROAD #01-31B MOUNT ALVERNIA HOSPITAL 574623",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN20060011283",
+    "scheme": "Eating Establishment",
+    "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+    "postal": "574623"
   },
   {
     "name": "POLAR PUFFS & CAKES",
@@ -24310,15 +24373,6 @@
   },
   {
     "name": "Popeyes Famous Louisiana Chicken",
-    "address": "11 TANJONG KATONG ROAD #01-50/51 KINEX 437157",
-    "type": "Restaurant",
-    "number": "EERT20250000586",
-    "scheme": "Eating Establishment",
-    "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
-    "postal": "437157"
-  },
-  {
-    "name": "Popeyes Famous Louisiana Chicken",
     "address": "30 WOODLANDS AVENUE 2 #01-07, 08, 15 WOODLANDS MRT STATION 738343",
     "type": "Restaurant",
     "number": "EERT20250000446",
@@ -24433,6 +24487,15 @@
     "scheme": "Eating Establishment",
     "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
     "postal": "367803"
+  },
+  {
+    "name": "Popeyes Famous Louisiana Chicken",
+    "address": "11 TANJONG KATONG ROAD #01-50/51 KINEX 437157",
+    "type": "Restaurant",
+    "number": "EERT20250000586",
+    "scheme": "Eating Establishment",
+    "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+    "postal": "437157"
   },
   {
     "name": "Popeyes Famous Louisiana Chicken",
