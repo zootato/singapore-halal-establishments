@@ -1242,6 +1242,15 @@
     "postal": "207482"
   },
   {
+    "name": "Ameerah Restaurant",
+    "address": "306 WOODLANDS STREET 31 #01-41 FUCHUN NEIGHBOURHOOD CENTRE 730306",
+    "type": "Restaurant",
+    "number": "EERT25120000062",
+    "scheme": "Eating Establishment",
+    "id": "53f639bb-55d2-488d-a11b-ad341f92ef27",
+    "postal": "730306"
+  },
+  {
     "name": "AMGD Global",
     "address": "20 LENGKOK BAHRU #01-10 ENABLING VILLAGE 159053",
     "type": "Restaurant",
@@ -1621,15 +1630,6 @@
   },
   {
     "name": "ANDES",
-    "address": "6 WOODLANDS SQUARE #01-13/16 WOODS SQUARE 737737",
-    "type": "Restaurant",
-    "number": "EERN21070012648",
-    "scheme": "Eating Establishment",
-    "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
-    "postal": "737737"
-  },
-  {
-    "name": "ANDES",
     "address": "1 Pasir Ris Close #02-325 E!Hub @ Downtown East 519599",
     "type": "Restaurant",
     "number": "EERN21070012650",
@@ -1645,6 +1645,15 @@
     "scheme": "Eating Establishment",
     "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
     "postal": "609601"
+  },
+  {
+    "name": "ANDES",
+    "address": "6 WOODLANDS SQUARE #01-13/16 WOODS SQUARE 737737",
+    "type": "Restaurant",
+    "number": "EERN21070012648",
+    "scheme": "Eating Establishment",
+    "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
+    "postal": "737737"
   },
   {
     "name": "ANDES",
@@ -3015,6 +3024,15 @@
     "postal": "556083"
   },
   {
+    "name": "Ballroom Level 1 kitchen @ Mount Faber Peak",
+    "address": "109 MOUNT FABER ROAD #01 CABLE CAR SINGAPORE & MOUNT FABER 099203",
+    "type": "Catering Company",
+    "number": "FPCA25120000075",
+    "scheme": "Food Preparation Area",
+    "id": "95a79503-8dac-49af-9baf-fc6970a21b1a",
+    "postal": "099203"
+  },
+  {
     "name": "Ban Mian",
     "address": "1 JURONG WEST CENTRAL 2 Stall 6 @ Cantine Jurong Point #B1-43 JURONG POINT 648886",
     "type": "Hawker",
@@ -3292,6 +3310,15 @@
     "scheme": "Eating Establishment",
     "id": "0cd757e3-13c3-4851-aa07-d10dbef8a77f",
     "postal": "819663"
+  },
+  {
+    "name": "Beradik Western Cuisine (S1) @ Koufu Foodcourt Pioneer Mall",
+    "address": "638A JURONG WEST STREET 61 #01-22 PIONEER MALL, Stall 1 641638",
+    "type": "Hawker",
+    "number": "EEHK20230000432",
+    "scheme": "Eating Establishment",
+    "id": "87b89f08-f679-40dc-ac97-bf10496f5e44",
+    "postal": "641638"
   },
   {
     "name": "Beradik Western Cuisine (S5) @Koufu Tengah",
@@ -4510,15 +4537,6 @@
   },
   {
     "name": "BURGER KING",
-    "address": "604 SEMBAWANG ROAD #01-01 SEMBAWANG SHOPPING CENTRE 758459",
-    "type": "Restaurant",
-    "number": "EERX20040011364",
-    "scheme": "Eating Establishment",
-    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
-    "postal": "758459"
-  },
-  {
-    "name": "BURGER KING",
     "address": "460 ALEXANDRA ROAD #01-17/20 ALEXANDRA RETAIL CENTER 119963",
     "type": "Restaurant",
     "number": "EERN20030011327",
@@ -4669,6 +4687,15 @@
     "scheme": "Eating Establishment",
     "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
     "postal": "049407"
+  },
+  {
+    "name": "BURGER KING",
+    "address": "604 SEMBAWANG ROAD #01-01 SEMBAWANG SHOPPING CENTRE 758459",
+    "type": "Restaurant",
+    "number": "EERX20040011364",
+    "scheme": "Eating Establishment",
+    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+    "postal": "758459"
   },
   {
     "name": "Butcher Kitchen @ Hotel Jen Singapore Tanglin by Shangri-La",
@@ -6262,6 +6289,15 @@
     "scheme": "Eating Establishment",
     "id": "1c391382-fc45-4285-839a-c0f79bd074a9",
     "postal": "819642"
+  },
+  {
+    "name": "Cinta Hainanese Chicken Rice (S9) @ Kopitiam T3",
+    "address": "65 AIRPORT BOULEVARD #B2-03 CHANGI AIRPORT TERMINAL 3, Stall 9 819663",
+    "type": "Hawker",
+    "number": "EEHK20250000278",
+    "scheme": "Eating Establishment",
+    "id": "985f18c8-98bc-4e7d-825c-c8f3db862cbc",
+    "postal": "819663"
   },
   {
     "name": "Citrus By The Pool",
@@ -13951,6 +13987,15 @@
   },
   {
     "name": "Jollibee",
+    "address": "1 YISHUN STREET 11 Caltex 768642",
+    "type": "Food Kiosk",
+    "number": "EEFK25120000055",
+    "scheme": "Eating Establishment",
+    "id": "141beb81-0153-470b-a8bb-09c539ee8ae1",
+    "postal": "768642"
+  },
+  {
+    "name": "Jollibee",
     "address": "23 SERANGOON CENTRAL #B1-28/29 NEX 556083",
     "type": "Restaurant",
     "number": "EERN20110011923",
@@ -14023,6 +14068,15 @@
   },
   {
     "name": "Jollibee",
+    "address": "88 PUNGGOL WAY #01-118 PUNGGOL COAST MALL 829913",
+    "type": "Restaurant",
+    "number": "EERT25120000029",
+    "scheme": "Eating Establishment",
+    "id": "141beb81-0153-470b-a8bb-09c539ee8ae1",
+    "postal": "829913"
+  },
+  {
+    "name": "Jollibee",
     "address": "100 JURONG WEST AVENUE 1,(PART OF) 649519",
     "type": "Food Kiosk",
     "number": "EEFK20230001222",
@@ -14038,6 +14092,15 @@
     "scheme": "Eating Establishment",
     "id": "141beb81-0153-470b-a8bb-09c539ee8ae1",
     "postal": "648886"
+  },
+  {
+    "name": "Jollibee",
+    "address": "53 ANG MO KIO AVENUE 3 B1-47, B1-48, B1-51, B1-51A AMK HUB 569933",
+    "type": "Restaurant",
+    "number": "EERT25120000028",
+    "scheme": "Eating Establishment",
+    "id": "141beb81-0153-470b-a8bb-09c539ee8ae1",
+    "postal": "569933"
   },
   {
     "name": "Jollibee",
@@ -18622,15 +18685,6 @@
   },
   {
     "name": "McDonald's",
-    "address": "17 Petir Road #B1-25-27 Hillion Mall 678278",
-    "type": "Restaurant",
-    "number": "EERN20020010962",
-    "scheme": "Eating Establishment",
-    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-    "postal": "678278"
-  },
-  {
-    "name": "McDonald's",
     "address": "583 ORCHARD ROAD #B-3/35 FORUM SHOPPING MALL 238884",
     "type": "Restaurant",
     "number": "EERN20020010980",
@@ -19375,6 +19429,15 @@
     "scheme": "Eating Establishment",
     "id": "206ff1ce-bbee-425d-ad7b-5589d2378f5d",
     "postal": "049318"
+  },
+  {
+    "name": "Monster Western (MR1) @ Food Republic Jewel",
+    "address": "78 AIRPORT BOULEVARD #B2-238/239/240 Jewel Changi Airport, MR1 819666",
+    "type": "Hawker",
+    "number": "EEHK20240000550",
+    "scheme": "Eating Establishment",
+    "id": "4b4dc51a-8acc-4980-8cb2-fafb29faee62",
+    "postal": "819666"
   },
   {
     "name": "Monster Western (MR5) @ Food Junction Century Square",
@@ -21094,15 +21157,6 @@
     "scheme": "Eating Establishment",
     "id": "00bb8d74-a1c6-4dd1-adad-d89a87a0083f",
     "postal": "238858"
-  },
-  {
-    "name": "NASTY COOKIE",
-    "address": "3 GATEWAY DRIVE #01-09 WESTGATE 608532",
-    "type": "Restaurant",
-    "number": "EERT20230000980",
-    "scheme": "Eating Establishment",
-    "id": "11a08e54-d670-488c-ad60-23bcd6e1184c",
-    "postal": "608532"
   },
   {
     "name": "NASTY COOKIE PTE. LTD.",
@@ -24327,15 +24381,6 @@
     "postal": "757437"
   },
   {
-    "name": "POON RESOURCES PTE LTD",
-    "address": "8A ADMIRALTY STREET #05-37 FOODXCHANGE @ ADMIRALTY 757437",
-    "type": "Central Kitchen",
-    "number": "FPCN21060001542",
-    "scheme": "Food Preparation Area",
-    "id": "a8638d93-94be-4376-8b48-c0b78f108f62",
-    "postal": "757437"
-  },
-  {
     "name": "Popeyes Famous Louisiana Chicken",
     "address": "96 SOMERSET ROAD #01-01/04 Pan Pacific Serviced Suites Orchard 238163",
     "type": "Restaurant",
@@ -25189,6 +25234,15 @@
     "scheme": "Food Preparation Area",
     "id": "99d518ce-aa7a-4545-9e12-42d2c797fc65",
     "postal": "188061"
+  },
+  {
+    "name": "RASA CHICKEN RICE",
+    "address": "10 HOSPITAL BOULEVARD #02-03 MR4, KOUFU OUTRAM COMMUNITY HOSPITAL 168582",
+    "type": "Hawker",
+    "number": "EEHK25120000064",
+    "scheme": "Eating Establishment",
+    "id": "46772f21-cbed-4936-bf37-73ed5e73a10a",
+    "postal": "168582"
   },
   {
     "name": "Rasa Istimewa Restaurant",
@@ -26494,15 +26548,6 @@
     "scheme": "Eating Establishment",
     "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
     "postal": "678278"
-  },
-  {
-    "name": "Sanook Kitchen",
-    "address": "10 SINARAN DRIVE #02-65/66/67 SQUARE 2 307506",
-    "type": "Restaurant",
-    "number": "EERT20230000878",
-    "scheme": "Eating Establishment",
-    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-    "postal": "307506"
   },
   {
     "name": "Sari Rasa Eating House",
@@ -29862,15 +29907,6 @@
     "postal": "569830"
   },
   {
-    "name": "Sunbo Chicken Rice (S6)@Koufu Woodlands Health",
-    "address": "17 WOODLANDS DRIVE 17 #B1-03/04, Stall 6 737628",
-    "type": "Hawker",
-    "number": "EEHK20240001043",
-    "scheme": "Eating Establishment",
-    "id": "6aa0197a-5a40-4f4c-81b5-4d05fe5602a9",
-    "postal": "737628"
-  },
-  {
     "name": "Sunbo Express Chicken Rice & BBQ Central Kitchen",
     "address": "10 TAMPINES NORTH DRIVE 4 #01-05/K6 JTC SPACE @ TAMPINES NORTH 528553",
     "type": "Central Kitchen",
@@ -30013,6 +30049,15 @@
     "scheme": "Eating Establishment",
     "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
     "postal": "168732"
+  },
+  {
+    "name": "SUPER SUSHI",
+    "address": "1 JELEBU ROAD #01-68 BUKIT PANJANG PLAZA 677743",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB25120000071",
+    "scheme": "Eating Establishment",
+    "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
+    "postal": "677743"
   },
   {
     "name": "Sushi Seafood Section @ Chara Brasserie",
@@ -35233,6 +35278,15 @@
     "scheme": "Eating Establishment",
     "id": "980b47cd-f8b6-4239-bf67-e863cab8183c",
     "postal": "238858"
+  },
+  {
+    "name": "WH Kitchen 1 @ Woodlands Hospital",
+    "address": "17 WOODLANDS DRIVE 17 #B2 737628",
+    "type": "Central Kitchen",
+    "number": "FPCK20230001329",
+    "scheme": "Food Preparation Area",
+    "id": "0f753af1-a38f-491a-8920-5d2eb147515f",
+    "postal": "737628"
   },
   {
     "name": "Wholesome @ HPB",
