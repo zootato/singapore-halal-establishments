@@ -3285,6 +3285,15 @@
     "postal": "819665"
   },
   {
+    "name": "Beradik (S5) @ Boleh Boleh Harbourfront",
+    "address": "1 MARITIME SQUARE #01-103/104/105/106/107/108 HARBOURFRONT CENTRE, STALL 5 099253",
+    "type": "Hawker",
+    "number": "EEHK20240000302",
+    "scheme": "Eating Establishment",
+    "id": "cc7163d1-18db-477e-93f0-fd508229c65e",
+    "postal": "099253"
+  },
+  {
     "name": "BERADIK WESTERN",
     "address": "5 LOWER KENT RIDGE ROAD #01-01 NATIONAL UNIVERSITY HOSPITAL, STALL 10, KOPITIAM NUH 119074",
     "type": "Hawker",
@@ -7792,6 +7801,15 @@
     "scheme": "Eating Establishment",
     "id": "c6c59929-b79d-48ce-b641-1fbcc46a6c35",
     "postal": "078877"
+  },
+  {
+    "name": "Dignity Kitchen",
+    "address": "69 BOON KENG ROAD 339772",
+    "type": "Restaurant",
+    "number": "EERT20220000637",
+    "scheme": "Eating Establishment",
+    "id": "26b6c6ed-6bef-4e08-bb60-a30b1720199b",
+    "postal": "339772"
   },
   {
     "name": "Dim Sum & Chicken Rice (S2) @ Tang Tea House Jurong West",
@@ -18298,15 +18316,6 @@
   },
   {
     "name": "McDonald's",
-    "address": "180 KITCHENER ROAD #01-19/20-23 CITY SQUARE MALL 208539",
-    "type": "Restaurant",
-    "number": "EERT20240000910",
-    "scheme": "Eating Establishment",
-    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-    "postal": "208539"
-  },
-  {
-    "name": "McDonald's",
     "address": "11 BIDADARI PARK DRIVE #B1-11/12 THE WOODLEIGH MALL 367803",
     "type": "Restaurant",
     "number": "EERT20230000678",
@@ -18547,6 +18556,15 @@
     "scheme": "Eating Establishment",
     "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
     "postal": "237994"
+  },
+  {
+    "name": "McDonald's",
+    "address": "180 KITCHENER ROAD #01-19/20-23 CITY SQUARE MALL 208539",
+    "type": "Restaurant",
+    "number": "EERT20240000910",
+    "scheme": "Eating Establishment",
+    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+    "postal": "208539"
   },
   {
     "name": "McDonald's",
@@ -19429,6 +19447,15 @@
     "scheme": "Eating Establishment",
     "id": "206ff1ce-bbee-425d-ad7b-5589d2378f5d",
     "postal": "049318"
+  },
+  {
+    "name": "Monster Western (MR1) @ Food Dynasty Cineleisure",
+    "address": "8 GRANGE ROAD #B1-01/01A CATHAY CINELEISURE ORCHARD, MR1 239695",
+    "type": "Hawker",
+    "number": "EEHK20250000286",
+    "scheme": "Eating Establishment",
+    "id": "2dab0dc7-705d-4e2a-9cfe-74ca85d5866c",
+    "postal": "239695"
   },
   {
     "name": "Monster Western (MR1) @ Food Republic Jewel",
@@ -23455,15 +23482,6 @@
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
-    "address": "306 WOODLANDS STREET 31 #01-17 FUCHUN NEIGHBOURHOOD CENTRE 730306",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000703",
-    "scheme": "Eating Establishment",
-    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
-    "postal": "730306"
-  },
-  {
-    "name": "PIZZA HUT SINGAPORE PTE LTD",
     "address": "66 JALAN MALU-MALU SEMBAWANG SPRINGS ESTATE 769681",
     "type": "Snack Bar / Bakery",
     "number": "EESB20250000704",
@@ -23488,6 +23506,15 @@
     "scheme": "Eating Establishment",
     "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
     "postal": "545078"
+  },
+  {
+    "name": "PIZZA HUT SINGAPORE PTE LTD",
+    "address": "306 WOODLANDS STREET 31 #01-17 FUCHUN NEIGHBOURHOOD CENTRE 730306",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000703",
+    "scheme": "Eating Establishment",
+    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
+    "postal": "730306"
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
@@ -24742,15 +24769,6 @@
   },
   {
     "name": "PRIMADELI",
-    "address": "1 PASIR RIS CENTRAL STREET 3 #B1-K15 WHITE SANDS 518457",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000751",
-    "scheme": "Eating Establishment",
-    "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
-    "postal": "518457"
-  },
-  {
-    "name": "PRIMADELI",
     "address": "3 SIMEI STREET 6 #B1-K4 EASTPOINT MALL 528833",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000340",
@@ -24982,6 +25000,15 @@
     "scheme": "Eating Establishment",
     "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
     "postal": "820168"
+  },
+  {
+    "name": "PRIMADELI",
+    "address": "1 PASIR RIS CENTRAL STREET 3 #B1-K15 WHITE SANDS 518457",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000751",
+    "scheme": "Eating Establishment",
+    "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+    "postal": "518457"
   },
   {
     "name": "Providence Cafe & Bakery",
@@ -26980,6 +27007,15 @@
     "scheme": "Eating Establishment",
     "id": "edd0c76a-185c-44c6-892b-1f395ccf8865",
     "postal": "149306"
+  },
+  {
+    "name": "Selera Kampungku",
+    "address": "306A WOODLANDS STREET 31 Stall MR2 @ Mr Teh Tarik Eating House #01-01 FUCHUN NEIGHBOURHOOD CENTRE 731306",
+    "type": "Hawker",
+    "number": "EEHK25120000063",
+    "scheme": "Eating Establishment",
+    "id": "661b43f3-0525-46db-9add-ca061449939c",
+    "postal": "731306"
   },
   {
     "name": "SELERA RESTAURANT",
@@ -36154,15 +36190,6 @@
   },
   {
     "name": "YOSHINOYA",
-    "address": "2 YISHUN WALK #01-07 Hometeam NS Khatib 767944",
-    "type": "Restaurant",
-    "number": "EERT20240001204",
-    "scheme": "Eating Establishment",
-    "id": "b3f7acc2-ed44-4e1d-be2f-ddfd176c2011",
-    "postal": "767944"
-  },
-  {
-    "name": "YOSHINOYA",
     "address": "230 VICTORIA STREET #B1-10 BUGIS JUNCTION TOWERS 188024",
     "type": "Restaurant",
     "number": "EERT20240001205",
@@ -36187,6 +36214,15 @@
     "scheme": "Eating Establishment",
     "id": "b3f7acc2-ed44-4e1d-be2f-ddfd176c2011",
     "postal": "545078"
+  },
+  {
+    "name": "YOSHINOYA",
+    "address": "2 YISHUN WALK #01-07 Hometeam NS Khatib 767944",
+    "type": "Restaurant",
+    "number": "EERT20240001204",
+    "scheme": "Eating Establishment",
+    "id": "b3f7acc2-ed44-4e1d-be2f-ddfd176c2011",
+    "postal": "767944"
   },
   {
     "name": "YOSHINOYA",

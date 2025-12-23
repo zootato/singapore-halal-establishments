@@ -1,5 +1,56 @@
 [
   {
+    "timestamp": "2025-12-23T22:17:02.035693",
+    "date": "2025-12-23",
+    "summary": {
+      "new": 4,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Beradik (S5) @ Boleh Boleh Harbourfront",
+          "address": "1 MARITIME SQUARE #01-103/104/105/106/107/108 HARBOURFRONT CENTRE, STALL 5 099253",
+          "type": "Hawker",
+          "number": "EEHK20240000302",
+          "scheme": "Eating Establishment",
+          "id": "cc7163d1-18db-477e-93f0-fd508229c65e",
+          "postal": "099253"
+        },
+        {
+          "name": "Dignity Kitchen",
+          "address": "69 BOON KENG ROAD 339772",
+          "type": "Restaurant",
+          "number": "EERT20220000637",
+          "scheme": "Eating Establishment",
+          "id": "26b6c6ed-6bef-4e08-bb60-a30b1720199b",
+          "postal": "339772"
+        },
+        {
+          "name": "Monster Western (MR1) @ Food Dynasty Cineleisure",
+          "address": "8 GRANGE ROAD #B1-01/01A CATHAY CINELEISURE ORCHARD, MR1 239695",
+          "type": "Hawker",
+          "number": "EEHK20250000286",
+          "scheme": "Eating Establishment",
+          "id": "2dab0dc7-705d-4e2a-9cfe-74ca85d5866c",
+          "postal": "239695"
+        },
+        {
+          "name": "Selera Kampungku",
+          "address": "306A WOODLANDS STREET 31 Stall MR2 @ Mr Teh Tarik Eating House #01-01 FUCHUN NEIGHBOURHOOD CENTRE 731306",
+          "type": "Hawker",
+          "number": "EEHK25120000063",
+          "scheme": "Eating Establishment",
+          "id": "661b43f3-0525-46db-9add-ca061449939c",
+          "postal": "731306"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2025-12-22T22:16:27.144516",
     "date": "2025-12-22",
     "summary": {
@@ -44557,39 +44608,6 @@
           "scheme": "Eating Establishment",
           "id": "afdf3d47-0667-4719-b5d3-4398c4ee4a02",
           "postal": "470741"
-        }
-      ],
-      "removed": [],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2025-09-24T22:15:02.106656",
-    "date": "2025-09-24",
-    "summary": {
-      "new": 2,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "SUPER SUSHI",
-          "address": "2 ORCHARD TURN #B4-51 ION ORCHARD 238801",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20250000857",
-          "scheme": "Eating Establishment",
-          "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
-          "postal": "238801"
-        },
-        {
-          "name": "SUPER SUSHI",
-          "address": "930 YISHUN AVENUE 2 #B1-39 NORTHPOINT CITY 769098",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20250000856",
-          "scheme": "Eating Establishment",
-          "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
-          "postal": "769098"
         }
       ],
       "removed": [],
