@@ -3439,6 +3439,15 @@
   },
   {
     "name": "Bibimbap / Dosirak",
+    "address": "3 SIMEI STREET 6 #b1-13 EASTPOINT MALL 528833",
+    "type": "Restaurant",
+    "number": "EERT25120000093",
+    "scheme": "Eating Establishment",
+    "id": "1eed1f4f-ce5c-431d-a4e7-e4f75c9602d9",
+    "postal": "528833"
+  },
+  {
+    "name": "Bibimbap / Dosirak",
     "address": "311 NEW UPPER CHANGI ROAD #01-95 BEDOK INTEGRATED TRANSPORT HUB 467360",
     "type": "Hawker",
     "number": "EEHK20250000793",
@@ -6478,6 +6487,15 @@
     "scheme": "Eating Establishment",
     "id": "2610b10e-25e3-4821-b11a-e98efd585166",
     "postal": "750105"
+  },
+  {
+    "name": "Community Brew",
+    "address": "21 CANBERRA LINK #02-02 756973",
+    "type": "Restaurant",
+    "number": "EERT20250000766",
+    "scheme": "Eating Establishment",
+    "id": "e6e0a01c-2d06-4098-9224-12753d79033c",
+    "postal": "756973"
   },
   {
     "name": "Continental Delight Catering Services Pte Ltd",
@@ -24103,15 +24121,6 @@
   },
   {
     "name": "POLAR PUFFS & CAKES",
-    "address": "100 BUKIT TIMAH ROAD #01-34 KK WOMEN'S AND CHILDREN'S HOSPITAL 229899",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN20030010670",
-    "scheme": "Eating Establishment",
-    "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
-    "postal": "229899"
-  },
-  {
-    "name": "POLAR PUFFS & CAKES",
     "address": "1 SENGKANG SQUARE #01-26 COMPASS ONE 545078",
     "type": "Snack Bar / Bakery",
     "number": "EEBN20040010692",
@@ -24145,6 +24154,15 @@
     "scheme": "Eating Establishment",
     "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
     "postal": "556083"
+  },
+  {
+    "name": "POLAR PUFFS & CAKES",
+    "address": "100 BUKIT TIMAH ROAD #01-34 KK WOMEN'S AND CHILDREN'S HOSPITAL 229899",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN20030010670",
+    "scheme": "Eating Establishment",
+    "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+    "postal": "229899"
   },
   {
     "name": "POLAR PUFFS & CAKES",
@@ -25372,21 +25390,21 @@
   },
   {
     "name": "Red Ginger",
-    "address": "2 JURONG EAST STREET 21 #01-46 IMM BUILDING 609601",
-    "type": "Restaurant",
-    "number": "EERN20090011843",
-    "scheme": "Eating Establishment",
-    "id": "b820e61a-e25d-40fe-b177-121aedf7df68",
-    "postal": "609601"
-  },
-  {
-    "name": "Red Ginger",
     "address": "10 PAYA LEBAR ROAD #B2-31 409057",
     "type": "Restaurant",
     "number": "EERX20090011842",
     "scheme": "Eating Establishment",
     "id": "b820e61a-e25d-40fe-b177-121aedf7df68",
     "postal": "409057"
+  },
+  {
+    "name": "Red Ginger",
+    "address": "2 JURONG EAST STREET 21 #01-46 IMM BUILDING 609601",
+    "type": "Restaurant",
+    "number": "EERN20090011843",
+    "scheme": "Eating Establishment",
+    "id": "b820e61a-e25d-40fe-b177-121aedf7df68",
+    "postal": "609601"
   },
   {
     "name": "Red Ginger",
@@ -26323,6 +26341,15 @@
     "scheme": "Eating Establishment",
     "id": "3bd9ccb4-3fd0-4719-8ffc-594b877c6cc5",
     "postal": "569933"
+  },
+  {
+    "name": "Sanchon",
+    "address": "127 PLANTATION CRESCENT MR01, Koufu #03-02 PLANTATION PLAZA 690127",
+    "type": "Hawker",
+    "number": "EEHK25120000074",
+    "scheme": "Eating Establishment",
+    "id": "f6ba948d-0355-49d2-94f9-07b02b702079",
+    "postal": "690127"
   },
   {
     "name": "SANCHOS TAQUERIA",
@@ -29592,6 +29619,15 @@
     "postal": "198698"
   },
   {
+    "name": "Sugar Mama Lah",
+    "address": "96 ARAB STREET KAMPONG GLAM CONSERVATION AREA (LEVEL 2) KAMPONG GLAM CONSERVATION AREA 199792",
+    "type": "Restaurant",
+    "number": "EERT25120000092",
+    "scheme": "Eating Establishment",
+    "id": "48f3e571-dfbc-42db-a6fc-ed0d5b59dc37",
+    "postal": "199792"
+  },
+  {
     "name": "SuiTok",
     "address": "2 ORCHARD LINK #02-10 SCAPE 237978",
     "type": "Restaurant",
@@ -31282,6 +31318,15 @@
     "scheme": "Food Preparation Area",
     "id": "fc0ad046-bb7b-4d55-8fee-ffcaf7a4c06e",
     "postal": "247905"
+  },
+  {
+    "name": "Tartini Sedap Grill and Pasta",
+    "address": "3155 COMMONWEALTH AVENUE WEST MR1 Hawkers' Street The Clementi Mall #04-20/21/22 THE CLEMENTI MALL, MR 1, HAWKERS' STREET 129588",
+    "type": "Hawker",
+    "number": "EEHK25120000061",
+    "scheme": "Eating Establishment",
+    "id": "220fc26e-2da7-4322-bc88-8677dae5edba",
+    "postal": "129588"
   },
   {
     "name": "Tartini Sedap Western Cuisine (MR6)@Makan Street IMM",
