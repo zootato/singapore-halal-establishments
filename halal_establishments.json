@@ -21556,6 +21556,15 @@
   },
   {
     "name": "Now Pizza",
+    "address": "63 JURONG WEST CENTRAL 3 JP2, Jurong Point #03-60 Jurong Point 648331",
+    "type": "Restaurant",
+    "number": "EERT25120000097",
+    "scheme": "Eating Establishment",
+    "id": "864c6a47-e378-4258-b9a5-9bf82b296233",
+    "postal": "648331"
+  },
+  {
+    "name": "Now Pizza",
     "address": "107 NORTH BRIDGE ROAD #B2-31 FUNAN 179105",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000620",
