@@ -21367,6 +21367,15 @@
   },
   {
     "name": "NIKU IKU",
+    "address": "1 WOODLANDS SQUARE #B1-K13 CAUSEWAY POINT 738099",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB25120000069",
+    "scheme": "Eating Establishment",
+    "id": "64a228b0-7d2f-4fd7-8a87-e5df67b09ade",
+    "postal": "738099"
+  },
+  {
+    "name": "NIKU IKU",
     "address": "11 BIDADARI PARK DRIVE #B1-K11 THE WOODLEIGH MALL 367803",
     "type": "Snack Bar / Bakery",
     "number": "EESB20250000871",
@@ -21391,6 +21400,15 @@
     "scheme": "Eating Establishment",
     "id": "64a228b0-7d2f-4fd7-8a87-e5df67b09ade",
     "postal": "188021"
+  },
+  {
+    "name": "NIKU IKU",
+    "address": "302 TIONG BAHRU ROAD #B1-137 TIONG BAHRU PLAZA 168732",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB25120000068",
+    "scheme": "Eating Establishment",
+    "id": "64a228b0-7d2f-4fd7-8a87-e5df67b09ade",
+    "postal": "168732"
   },
   {
     "name": "NIKU IKU PTE LTD",
@@ -23500,15 +23518,6 @@
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
-    "address": "888 WOODLANDS DRIVE 50 #01-729 888 PLAZA 730888",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000702",
-    "scheme": "Eating Establishment",
-    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
-    "postal": "730888"
-  },
-  {
-    "name": "PIZZA HUT SINGAPORE PTE LTD",
     "address": "66 JALAN MALU-MALU SEMBAWANG SPRINGS ESTATE 769681",
     "type": "Snack Bar / Bakery",
     "number": "EESB20250000704",
@@ -23533,6 +23542,15 @@
     "scheme": "Eating Establishment",
     "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
     "postal": "545078"
+  },
+  {
+    "name": "PIZZA HUT SINGAPORE PTE LTD",
+    "address": "888 WOODLANDS DRIVE 50 #01-729 888 PLAZA 730888",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000702",
+    "scheme": "Eating Establishment",
+    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
+    "postal": "730888"
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
@@ -24787,15 +24805,6 @@
   },
   {
     "name": "PRIMADELI",
-    "address": "1 WOODLANDS SQUARE #B1-K23 CAUSEWAY POINT 738099",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000731",
-    "scheme": "Eating Establishment",
-    "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
-    "postal": "738099"
-  },
-  {
-    "name": "PRIMADELI",
     "address": "3 SIMEI STREET 6 #B1-K4 EASTPOINT MALL 528833",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000340",
@@ -24982,6 +24991,15 @@
     "scheme": "Eating Establishment",
     "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
     "postal": "467360"
+  },
+  {
+    "name": "PRIMADELI",
+    "address": "1 WOODLANDS SQUARE #B1-K23 CAUSEWAY POINT 738099",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000731",
+    "scheme": "Eating Establishment",
+    "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+    "postal": "738099"
   },
   {
     "name": "PRIMADELI",
@@ -28000,21 +28018,21 @@
   },
   {
     "name": "SPRINGLEAF PRATA PLACE",
-    "address": "1 WOODLANDS ROAD #01-25 JUNCTION 10 677899",
-    "type": "Restaurant",
-    "number": "EERN21060012485",
-    "scheme": "Eating Establishment",
-    "id": "97aab0ac-414e-458a-9758-d335f07b1e6b",
-    "postal": "677899"
-  },
-  {
-    "name": "SPRINGLEAF PRATA PLACE",
     "address": "60 YISHUN AVENUE 4 #01-07 SAFRA COUNTRY CLUB (YISHUN) 769027",
     "type": "Restaurant",
     "number": "EERN21060012488",
     "scheme": "Eating Establishment",
     "id": "97aab0ac-414e-458a-9758-d335f07b1e6b",
     "postal": "769027"
+  },
+  {
+    "name": "SPRINGLEAF PRATA PLACE",
+    "address": "1 WOODLANDS ROAD #01-25 JUNCTION 10 677899",
+    "type": "Restaurant",
+    "number": "EERN21060012485",
+    "scheme": "Eating Establishment",
+    "id": "97aab0ac-414e-458a-9758-d335f07b1e6b",
+    "postal": "677899"
   },
   {
     "name": "SPRINGLEAF PRATA PLACE",
