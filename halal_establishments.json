@@ -8631,6 +8631,24 @@
     "postal": "520824"
   },
   {
+    "name": "Double K (S6) @ S11 Woodlands",
+    "address": "304 WOODLANDS STREET 31 #01-125 FUCHUN NEIGHBOURHOOD CENTRE, STALL 6 730304",
+    "type": "Hawker",
+    "number": "EEHK20220001019",
+    "scheme": "Eating Establishment",
+    "id": "bbc9d245-8fb2-4c42-a547-0791e51fe2f4",
+    "postal": "730304"
+  },
+  {
+    "name": "Double K (S7) @ KPT Woodlands",
+    "address": "515A WOODLANDS DRIVE 14 #01-181, STALL 7 731515",
+    "type": "Hawker",
+    "number": "EEHK20220000614",
+    "scheme": "Eating Establishment",
+    "id": "c7c11045-96ac-4082-a3da-19f4e6258415",
+    "postal": "731515"
+  },
+  {
     "name": "DOUGH CULTURE",
     "address": "70 COMPASSVALE BOW #01-07 544692",
     "type": "Snack Bar / Bakery",
@@ -24661,15 +24679,6 @@
   },
   {
     "name": "Poulet",
-    "address": "1 WOODLANDS SQUARE #B1-25 CAUSEWAY POINT 738099",
-    "type": "Restaurant",
-    "number": "EERT20220000865",
-    "scheme": "Eating Establishment",
-    "id": "7ff20024-e719-4938-b00e-547276bea89c",
-    "postal": "738099"
-  },
-  {
-    "name": "Poulet",
     "address": "252 NORTH BRIDGE ROAD #B1-65/66 RAFFLES CITY SHOPPING CENTRE,#B1-65/66 179103",
     "type": "Restaurant",
     "number": "EERN21110013061",
@@ -24685,6 +24694,15 @@
     "scheme": "Eating Establishment",
     "id": "7ff20024-e719-4938-b00e-547276bea89c",
     "postal": "188067"
+  },
+  {
+    "name": "Poulet",
+    "address": "1 WOODLANDS SQUARE #B1-25 CAUSEWAY POINT 738099",
+    "type": "Restaurant",
+    "number": "EERT20220000865",
+    "scheme": "Eating Establishment",
+    "id": "7ff20024-e719-4938-b00e-547276bea89c",
+    "postal": "738099"
   },
   {
     "name": "Poulet + Brasserie",
@@ -24793,15 +24811,6 @@
     "scheme": "Eating Establishment",
     "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
     "postal": "650272"
-  },
-  {
-    "name": "PRIMADELI",
-    "address": "1 WOODLANDS SQUARE #B1-K23 CAUSEWAY POINT 738099",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20240000336",
-    "scheme": "Eating Establishment",
-    "id": "02140cb6-f4b2-428b-9b58-14206e1bfafb",
-    "postal": "738099"
   },
   {
     "name": "PRIMADELI",
@@ -24996,6 +25005,15 @@
     "name": "PRIMADELI",
     "address": "1 WOODLANDS SQUARE #B1-K23 CAUSEWAY POINT 738099",
     "type": "Snack Bar / Bakery",
+    "number": "EESB20240000336",
+    "scheme": "Eating Establishment",
+    "id": "02140cb6-f4b2-428b-9b58-14206e1bfafb",
+    "postal": "738099"
+  },
+  {
+    "name": "PRIMADELI",
+    "address": "1 WOODLANDS SQUARE #B1-K23 CAUSEWAY POINT 738099",
+    "type": "Snack Bar / Bakery",
     "number": "EESB20250000731",
     "scheme": "Eating Establishment",
     "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
@@ -25045,15 +25063,6 @@
     "scheme": "Eating Establishment",
     "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
     "postal": "820168"
-  },
-  {
-    "name": "PRIMADELI",
-    "address": "1 PASIR RIS CENTRAL STREET 3 #B1-K15 WHITE SANDS 518457",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000751",
-    "scheme": "Eating Establishment",
-    "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
-    "postal": "518457"
   },
   {
     "name": "Providence Cafe & Bakery",
@@ -33892,6 +33901,15 @@
     "scheme": "Eating Establishment",
     "id": "7e922a15-9a6d-476b-aad1-87794c044a35",
     "postal": "529509"
+  },
+  {
+    "name": "Toast Junction",
+    "address": "1 PASIR PANJANG ROAD #02-07 LABRADOR TOWER, STALL 6, FOOD JUNCTION 118479",
+    "type": "Hawker",
+    "number": "EEHK25120000090",
+    "scheme": "Eating Establishment",
+    "id": "7e922a15-9a6d-476b-aad1-87794c044a35",
+    "postal": "118479"
   },
   {
     "name": "Toko Ngopi (S3) @ Kedai Kopi",
