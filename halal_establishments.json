@@ -3249,6 +3249,15 @@
     "postal": "099253"
   },
   {
+    "name": "Beradik (S9) @ Kopitiam AMK HUB",
+    "address": "53 ANG MO KIO AVENUE 3 #03-12 AMK HUB, Stall 9 569933",
+    "type": "Hawker",
+    "number": "EEHK20240000435",
+    "scheme": "Eating Establishment",
+    "id": "ee6b122f-6ab2-4f71-88dc-2aae593db4f4",
+    "postal": "569933"
+  },
+  {
     "name": "BERADIK WESTERN",
     "address": "5 LOWER KENT RIDGE ROAD #01-01 NATIONAL UNIVERSITY HOSPITAL, STALL 10, KOPITIAM NUH 119074",
     "type": "Hawker",
@@ -11440,15 +11449,6 @@
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
-    "address": "17 Petir Road #B2-67 Hillion Mall 678278",
-    "type": "Halal Section",
-    "number": "EECN21070000441",
-    "scheme": "Eating Establishment",
-    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
-    "postal": "678278"
-  },
-  {
-    "name": "Halal Section @ NTUC FAIRPRICE",
     "address": "80 MARINE PARADE ROAD #03-28 PARKWAY PARADE 449269",
     "type": "Central Kitchen",
     "number": "FPCN21050001520",
@@ -11482,6 +11482,15 @@
     "scheme": "Food Preparation Area",
     "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
     "postal": "671524"
+  },
+  {
+    "name": "Halal Section @ NTUC FAIRPRICE",
+    "address": "17 Petir Road #B2-67 Hillion Mall 678278",
+    "type": "Halal Section",
+    "number": "EECN21070000441",
+    "scheme": "Eating Establishment",
+    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
+    "postal": "678278"
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
