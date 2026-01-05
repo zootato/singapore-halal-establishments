@@ -4860,6 +4860,15 @@
     "postal": "368079"
   },
   {
+    "name": "CAFE SANTAI BY ENAK ENAK",
+    "address": "1110 EAST COAST PARKWAY #01-03, #01-04 Goldkist Beach Resort 449880",
+    "type": "Restaurant",
+    "number": "EERT25120000107",
+    "scheme": "Eating Establishment",
+    "id": "ad7594e5-7560-485e-a754-f0596c4af8ef",
+    "postal": "449880"
+  },
+  {
     "name": "Cafe Shiok! @ SAS (Managed by Sodexo Singapore)",
     "address": "40 WOODLANDS STREET 41 #02-04 SINGAPORE AMERICAN SCHOOL 738547",
     "type": "Hawker",
@@ -8650,15 +8659,6 @@
   },
   {
     "name": "Dunkin'",
-    "address": "3 TEMASEK BOULEVARD #01-K6 SUNTEC CITY MALL 038983",
-    "type": "Restaurant",
-    "number": "EERT25120000034",
-    "scheme": "Eating Establishment",
-    "id": "83555d54-74f6-478d-9393-666f698a1c48",
-    "postal": "038983"
-  },
-  {
-    "name": "Dunkin'",
     "address": "7 PASIR RIS CENTRAL #B1-K17 519612",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000727",
@@ -8845,6 +8845,15 @@
     "scheme": "Eating Establishment",
     "id": "83555d54-74f6-478d-9393-666f698a1c48",
     "postal": "529538"
+  },
+  {
+    "name": "Dunkin'",
+    "address": "3 TEMASEK BOULEVARD #01-K6 SUNTEC CITY MALL 038983",
+    "type": "Restaurant",
+    "number": "EERT25120000034",
+    "scheme": "Eating Establishment",
+    "id": "83555d54-74f6-478d-9393-666f698a1c48",
+    "postal": "038983"
   },
   {
     "name": "Dunkin'",
@@ -10611,6 +10620,15 @@
     "postal": "757437"
   },
   {
+    "name": "Geylang Food Corner Pte Ltd",
+    "address": "269 GEYLANG ROAD #1st Storey GEYLANG CONSERVATION AREA 389323",
+    "type": "Restaurant",
+    "number": "EERT25120000109",
+    "scheme": "Eating Establishment",
+    "id": "d0b54507-0782-4532-af1c-2ff1e11944ff",
+    "postal": "389323"
+  },
+  {
     "name": "GEYLANG FOOD STATION @ ASIAN MARKET CAFE",
     "address": "2 STAMFORD ROAD #02-00 178882",
     "type": "Food Station",
@@ -11440,15 +11458,6 @@
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
-    "address": "63 JURONG WEST CENTRAL 3 #03-01 JURONG POINT SHOPPING CENTRE 648331",
-    "type": "Halal Section",
-    "number": "EECN21070000438",
-    "scheme": "Eating Establishment",
-    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
-    "postal": "648331"
-  },
-  {
-    "name": "Halal Section @ NTUC FAIRPRICE",
     "address": "80 MARINE PARADE ROAD #03-28 PARKWAY PARADE 449269",
     "type": "Central Kitchen",
     "number": "FPCN21050001520",
@@ -11464,6 +11473,15 @@
     "scheme": "Food Preparation Area",
     "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
     "postal": "150166"
+  },
+  {
+    "name": "Halal Section @ NTUC FAIRPRICE",
+    "address": "63 JURONG WEST CENTRAL 3 #03-01 JURONG POINT SHOPPING CENTRE 648331",
+    "type": "Halal Section",
+    "number": "EECN21070000438",
+    "scheme": "Eating Establishment",
+    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
+    "postal": "648331"
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
@@ -13165,6 +13183,15 @@
     "scheme": "Food Preparation Area",
     "id": "dbcdb1c7-cc8d-4fc7-a6c3-8a7783efc5fd",
     "postal": "368330"
+  },
+  {
+    "name": "International Cuisine@Rolls Royce(Mngd by ISS Catering)",
+    "address": "6 Seletar Aerospace Rise Rolls Royce 797575",
+    "type": "Staff Canteen",
+    "number": "EEFN21070012269",
+    "scheme": "Eating Establishment",
+    "id": "34e10f71-d3da-4743-a872-8222e8121e84",
+    "postal": "797575"
   },
   {
     "name": "Ipoh Hainanese Chicken Rice (S14) @ Kopitiam Lau Pa Sat",
@@ -17271,6 +17298,15 @@
     "postal": "768828"
   },
   {
+    "name": "Malay/Indian Delights@Rolls Royce (Mngd by ISS Catering)",
+    "address": "6 Seletar Aerospace Rise Rolls Royce 797575",
+    "type": "Staff Canteen",
+    "number": "EEFN21070012270",
+    "scheme": "Eating Establishment",
+    "id": "0151a572-d338-4518-9b9a-160833f5c8c5",
+    "postal": "797575"
+  },
+  {
     "name": "Malaysian Street Food (S9)@My Kampung Kallang Wave Mall",
     "address": "1 STADIUM PLACE #02-16/k6, Stall 9 397628",
     "type": "Hawker",
@@ -18118,15 +18154,6 @@
   },
   {
     "name": "McDonald's",
-    "address": "70 JELLICOE ROAD #01-20 V HOTEL LAVENDER 208767",
-    "type": "Restaurant",
-    "number": "EERN20020010979",
-    "scheme": "Eating Establishment",
-    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-    "postal": "208767"
-  },
-  {
-    "name": "McDonald's",
     "address": "633 TAMPINES NORTH DRIVE 2 #02-03 TAMPINES GREENCOURT 520633",
     "type": "Restaurant",
     "number": "EERT25100000143",
@@ -18691,6 +18718,15 @@
     "scheme": "Eating Establishment",
     "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
     "postal": "169637"
+  },
+  {
+    "name": "McDonald's",
+    "address": "70 JELLICOE ROAD #01-20 V HOTEL LAVENDER 208767",
+    "type": "Restaurant",
+    "number": "EERN20020010979",
+    "scheme": "Eating Establishment",
+    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+    "postal": "208767"
   },
   {
     "name": "McDonald's",
@@ -23743,21 +23779,21 @@
   },
   {
     "name": "Providence Cafe & Bakery",
-    "address": "38 MALCOLM ROAD #01 ST. JOSEPH'S INSTITUTION 308274",
-    "type": "Restaurant",
-    "number": "EERT20230000658",
-    "scheme": "Eating Establishment",
-    "id": "dbdc613f-701f-4178-b1d5-af65a15b5d9e",
-    "postal": "308274"
-  },
-  {
-    "name": "Providence Cafe & Bakery",
     "address": "12 MARSILING ROAD #01-01 MARSILING SECONDARY SCHOOL 739110",
     "type": "Snack Bar / Bakery",
     "number": "EESB20250000603",
     "scheme": "Eating Establishment",
     "id": "dbdc613f-701f-4178-b1d5-af65a15b5d9e",
     "postal": "739110"
+  },
+  {
+    "name": "Providence Cafe & Bakery",
+    "address": "38 MALCOLM ROAD #01 ST. JOSEPH'S INSTITUTION 308274",
+    "type": "Restaurant",
+    "number": "EERT20230000658",
+    "scheme": "Eating Establishment",
+    "id": "dbdc613f-701f-4178-b1d5-af65a15b5d9e",
+    "postal": "308274"
   },
   {
     "name": "Providence Cafe & Bakery",
@@ -26404,15 +26440,6 @@
     "scheme": "Eating Establishment",
     "id": "eab58cf8-5aa4-4b96-b522-760a4cceded7",
     "postal": "018972"
-  },
-  {
-    "name": "So Pho",
-    "address": "83 Punggol Central #01-28 Waterway Point (East Wing) 828761",
-    "type": "Restaurant",
-    "number": "EERN21070012673",
-    "scheme": "Eating Establishment",
-    "id": "eab58cf8-5aa4-4b96-b522-760a4cceded7",
-    "postal": "828761"
   },
   {
     "name": "So Pho",
@@ -33316,6 +33343,96 @@
     "scheme": "Eating Establishment",
     "id": "b435a306-a90d-4a66-a179-b23bacdb2a65",
     "postal": "397628"
+  },
+  {
+    "name": "YOSHINOYA",
+    "address": "1 VISTA EXCHANGE GREEN #02-07 THE STAR VISTA 138617",
+    "type": "Restaurant",
+    "number": "EERT20240001213",
+    "scheme": "Eating Establishment",
+    "id": "b3f7acc2-ed44-4e1d-be2f-ddfd176c2011",
+    "postal": "138617"
+  },
+  {
+    "name": "YOSHINOYA",
+    "address": "2 YISHUN WALK #01-07 Hometeam NS Khatib 767944",
+    "type": "Restaurant",
+    "number": "EERT20240001204",
+    "scheme": "Eating Establishment",
+    "id": "b3f7acc2-ed44-4e1d-be2f-ddfd176c2011",
+    "postal": "767944"
+  },
+  {
+    "name": "YOSHINOYA",
+    "address": "230 VICTORIA STREET #B1-10 BUGIS JUNCTION TOWERS 188024",
+    "type": "Restaurant",
+    "number": "EERT20240001205",
+    "scheme": "Eating Establishment",
+    "id": "b3f7acc2-ed44-4e1d-be2f-ddfd176c2011",
+    "postal": "188024"
+  },
+  {
+    "name": "YOSHINOYA",
+    "address": "9 RAFFLES BOULEVARD #01-106 MILLENIA WALK 039596",
+    "type": "Restaurant",
+    "number": "EERT20250000169",
+    "scheme": "Eating Establishment",
+    "id": "b3f7acc2-ed44-4e1d-be2f-ddfd176c2011",
+    "postal": "039596"
+  },
+  {
+    "name": "YOSHINOYA",
+    "address": "1 SENGKANG SQUARE #01-35 COMPASS ONE 545078",
+    "type": "Restaurant",
+    "number": "EERT20240001206",
+    "scheme": "Eating Establishment",
+    "id": "b3f7acc2-ed44-4e1d-be2f-ddfd176c2011",
+    "postal": "545078"
+  },
+  {
+    "name": "YOSHINOYA",
+    "address": "370 ALEXANDRA ROAD #01-01A ANCHORPOINT SHOPPING CENTRE 159953",
+    "type": "Restaurant",
+    "number": "EERT25120000106",
+    "scheme": "Eating Establishment",
+    "id": "b3f7acc2-ed44-4e1d-be2f-ddfd176c2011",
+    "postal": "159953"
+  },
+  {
+    "name": "YOSHINOYA",
+    "address": "311 NEW UPPER CHANGI ROAD #B2-30 BEDOK MALL 467360",
+    "type": "Restaurant",
+    "number": "EERT20240001203",
+    "scheme": "Eating Establishment",
+    "id": "b3f7acc2-ed44-4e1d-be2f-ddfd176c2011",
+    "postal": "467360"
+  },
+  {
+    "name": "YOSHINOYA",
+    "address": "9 BISHAN PLACE #01-49/50 JUNCTION 8 579837",
+    "type": "Restaurant",
+    "number": "EERT20240001208",
+    "scheme": "Eating Establishment",
+    "id": "b3f7acc2-ed44-4e1d-be2f-ddfd176c2011",
+    "postal": "579837"
+  },
+  {
+    "name": "YOSHINOYA",
+    "address": "1 TAMPINES WALK #B1-K1/K22/K2 OUR TAMPINES HUB 528523",
+    "type": "Restaurant",
+    "number": "EERT20240001212",
+    "scheme": "Eating Establishment",
+    "id": "b3f7acc2-ed44-4e1d-be2f-ddfd176c2011",
+    "postal": "528523"
+  },
+  {
+    "name": "YOSHINOYA",
+    "address": "2 HANDY ROAD #B1-08 FORMER CATHAY BUILDING 229233",
+    "type": "Restaurant",
+    "number": "EERT20250000635",
+    "scheme": "Eating Establishment",
+    "id": "b3f7acc2-ed44-4e1d-be2f-ddfd176c2011",
+    "postal": "229233"
   },
   {
     "name": "Yummy Hanoi (S6) @ Cantine Paya Lebar Square",
