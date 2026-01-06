@@ -19872,6 +19872,51 @@
     "postal": "219962"
   },
   {
+    "name": "Nando's",
+    "address": "1 Vista Exchange Green #B1-09 The Star Vista 138617",
+    "type": "Restaurant",
+    "number": "EERN21110013070",
+    "scheme": "Eating Establishment",
+    "id": "7746181f-53c9-42c3-ab80-7da0470453e0",
+    "postal": "138617"
+  },
+  {
+    "name": "Nando's",
+    "address": "1 JURONG WEST CENTRAL 2 #02-32/33 JURONG POINT 648886",
+    "type": "Restaurant",
+    "number": "EERN21110013071",
+    "scheme": "Eating Establishment",
+    "id": "7746181f-53c9-42c3-ab80-7da0470453e0",
+    "postal": "648886"
+  },
+  {
+    "name": "Nando's",
+    "address": "4 Tampines Central 5 #01-46 Tampines Mall 529510",
+    "type": "Restaurant",
+    "number": "EERN21110013090",
+    "scheme": "Eating Establishment",
+    "id": "7746181f-53c9-42c3-ab80-7da0470453e0",
+    "postal": "529510"
+  },
+  {
+    "name": "Nando's",
+    "address": "68 Orchard Road #04-10/11 Plaza Singapura 238839",
+    "type": "Restaurant",
+    "number": "EERN21110013069",
+    "scheme": "Eating Establishment",
+    "id": "7746181f-53c9-42c3-ab80-7da0470453e0",
+    "postal": "238839"
+  },
+  {
+    "name": "Nando's",
+    "address": "80 Middle Road #01-85&87 Bugis Junction 188966",
+    "type": "Restaurant",
+    "number": "EERN21110013072",
+    "scheme": "Eating Establishment",
+    "id": "7746181f-53c9-42c3-ab80-7da0470453e0",
+    "postal": "188966"
+  },
+  {
     "name": "Nanyang Cafe",
     "address": "9 WOODLANDS AVENUE 9 #02-00 REPUBLIC POLYTECHNIC 738964",
     "type": "Hawker",
@@ -21762,15 +21807,6 @@
     "postal": "469000"
   },
   {
-    "name": "Pastamania",
-    "address": "1 BUKIT BATOK CENTRAL LINK #01-40 WEST MALL 658713",
-    "type": "Restaurant",
-    "number": "EERN22010013365",
-    "scheme": "Eating Establishment",
-    "id": "e1eb4468-e706-4f99-bbf2-2603b062790c",
-    "postal": "658713"
-  },
-  {
     "name": "Pastamania Pronto",
     "address": "638 JURONG WEST STREET 61 #02-01 PIONEER MALL 640638",
     "type": "Restaurant",
@@ -23578,15 +23614,6 @@
     "scheme": "Eating Establishment",
     "id": "5b92126c-87b4-4e2d-a42c-491764da5e44",
     "postal": "099253"
-  },
-  {
-    "name": "PREMIUM CATERING PRIVATE LTD",
-    "address": "8A ADMIRALTY STREET #01/11 & 01/12 FOOD XCHANGE @ ADMIRALTY 757437",
-    "type": "Catering Company",
-    "number": "FPCA25100000044",
-    "scheme": "Food Preparation Area",
-    "id": "2a5fabf9-a7f1-4fd4-be7f-d318cf02aa32",
-    "postal": "757437"
   },
   {
     "name": "Preparation Kitchen @ HP INC (Managed by Sodexo Singapore Pte Ltd)",
