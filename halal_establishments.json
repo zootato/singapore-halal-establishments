@@ -8407,30 +8407,21 @@
   },
   {
     "name": "DOUGH CULTURE",
-    "address": "70 COMPASSVALE BOW #01-07 544692",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20230000566",
-    "scheme": "Eating Establishment",
-    "id": "0246652a-fd3c-4a8e-a0bf-34a376910365",
-    "postal": "544692"
-  },
-  {
-    "name": "DOUGH CULTURE",
     "address": "1 PASIR RIS CENTRAL STREET 3 #01-43 518457",
     "type": "Snack Bar / Bakery",
     "number": "EEBN21120013008",
     "scheme": "Eating Establishment",
-    "id": "0a24b696-af57-4b5a-af1d-815fe8f04bcb",
+    "id": "d54efa73-ca47-4771-ad30-b27fc4dae026",
     "postal": "518457"
   },
   {
     "name": "DOUGH CULTURE",
-    "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #B1-K8 CHANGI CITY POINT 486038",
+    "address": "70 COMPASSVALE BOW #01-07 544692",
     "type": "Snack Bar / Bakery",
-    "number": "EESB20250000529",
+    "number": "EESB20230000566",
     "scheme": "Eating Establishment",
-    "id": "0246652a-fd3c-4a8e-a0bf-34a376910365",
-    "postal": "486038"
+    "id": "d54efa73-ca47-4771-ad30-b27fc4dae026",
+    "postal": "544692"
   },
   {
     "name": "DOUGH CULTURE",
@@ -8438,8 +8429,17 @@
     "type": "Snack Bar / Bakery",
     "number": "EESB20220000063",
     "scheme": "Eating Establishment",
-    "id": "0a24b696-af57-4b5a-af1d-815fe8f04bcb",
+    "id": "d54efa73-ca47-4771-ad30-b27fc4dae026",
     "postal": "738099"
+  },
+  {
+    "name": "DOUGH CULTURE",
+    "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #B1-K8 CHANGI CITY POINT 486038",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000529",
+    "scheme": "Eating Establishment",
+    "id": "d54efa73-ca47-4771-ad30-b27fc4dae026",
+    "postal": "486038"
   },
   {
     "name": "DOUGH CULTURE",
@@ -8447,7 +8447,7 @@
     "type": "Snack Bar / Bakery",
     "number": "EESB20230000388",
     "scheme": "Eating Establishment",
-    "id": "0246652a-fd3c-4a8e-a0bf-34a376910365",
+    "id": "d54efa73-ca47-4771-ad30-b27fc4dae026",
     "postal": "129588"
   },
   {
@@ -8456,7 +8456,7 @@
     "type": "Snack Bar / Bakery",
     "number": "EESB20230000262",
     "scheme": "Eating Establishment",
-    "id": "0246652a-fd3c-4a8e-a0bf-34a376910365",
+    "id": "d54efa73-ca47-4771-ad30-b27fc4dae026",
     "postal": "731678"
   },
   {
@@ -8465,7 +8465,7 @@
     "type": "Snack Bar / Bakery",
     "number": "EESB20230000626",
     "scheme": "Eating Establishment",
-    "id": "0246652a-fd3c-4a8e-a0bf-34a376910365",
+    "id": "d54efa73-ca47-4771-ad30-b27fc4dae026",
     "postal": "367803"
   },
   {
@@ -8474,7 +8474,7 @@
     "type": "Snack Bar / Bakery",
     "number": "EESB20240001095",
     "scheme": "Eating Establishment",
-    "id": "0246652a-fd3c-4a8e-a0bf-34a376910365",
+    "id": "d54efa73-ca47-4771-ad30-b27fc4dae026",
     "postal": "556083"
   },
   {
@@ -8483,7 +8483,7 @@
     "type": "Snack Bar / Bakery",
     "number": "EESB20220000416",
     "scheme": "Eating Establishment",
-    "id": "0a24b696-af57-4b5a-af1d-815fe8f04bcb",
+    "id": "d54efa73-ca47-4771-ad30-b27fc4dae026",
     "postal": "678278"
   },
   {
@@ -8492,7 +8492,7 @@
     "type": "Snack Bar / Bakery",
     "number": "EESB20230000030",
     "scheme": "Eating Establishment",
-    "id": "0a24b696-af57-4b5a-af1d-815fe8f04bcb",
+    "id": "d54efa73-ca47-4771-ad30-b27fc4dae026",
     "postal": "530377"
   },
   {
@@ -26035,6 +26035,15 @@
     "scheme": "Eating Establishment",
     "id": "d4914eaa-03ef-4646-b762-3221f02be310",
     "postal": "188021"
+  },
+  {
+    "name": "SHIOK BURGER",
+    "address": "21 CHOA CHU KANG AVENUE 4 #B1-K10 LOT ONE, SHOPPERS' MALL 689812",
+    "type": "Restaurant",
+    "number": "EERT25120000070",
+    "scheme": "Eating Establishment",
+    "id": "4fcad118-8dea-4300-a6a9-f4bf6b4d7efa",
+    "postal": "689812"
   },
   {
     "name": "SHIOK BURGER",

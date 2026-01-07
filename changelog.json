@@ -1,5 +1,210 @@
 [
   {
+    "timestamp": "2026-01-07T22:17:06.856951",
+    "date": "2026-01-07",
+    "summary": {
+      "new": 11,
+      "removed": 10,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "DOUGH CULTURE",
+          "address": "3155 COMMONWEALTH AVENUE WEST #B1-K14 THE CLEMENTI MALL 129588",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000388",
+          "scheme": "Eating Establishment",
+          "id": "d54efa73-ca47-4771-ad30-b27fc4dae026",
+          "postal": "129588"
+        },
+        {
+          "name": "DOUGH CULTURE",
+          "address": "70 COMPASSVALE BOW #01-07 544692",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000566",
+          "scheme": "Eating Establishment",
+          "id": "d54efa73-ca47-4771-ad30-b27fc4dae026",
+          "postal": "544692"
+        },
+        {
+          "name": "DOUGH CULTURE",
+          "address": "1 PASIR RIS CENTRAL STREET 3 #01-43 518457",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21120013008",
+          "scheme": "Eating Establishment",
+          "id": "d54efa73-ca47-4771-ad30-b27fc4dae026",
+          "postal": "518457"
+        },
+        {
+          "name": "DOUGH CULTURE",
+          "address": "17 PETIR ROAD #B2-43 HILLION MALL 678278",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000416",
+          "scheme": "Eating Establishment",
+          "id": "d54efa73-ca47-4771-ad30-b27fc4dae026",
+          "postal": "678278"
+        },
+        {
+          "name": "DOUGH CULTURE",
+          "address": "678A WOODLANDS AVENUE 6 #01-09 ADMIRALTY PLACE 731678",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000262",
+          "scheme": "Eating Establishment",
+          "id": "d54efa73-ca47-4771-ad30-b27fc4dae026",
+          "postal": "731678"
+        },
+        {
+          "name": "DOUGH CULTURE",
+          "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #B1-K8 CHANGI CITY POINT 486038",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000529",
+          "scheme": "Eating Establishment",
+          "id": "d54efa73-ca47-4771-ad30-b27fc4dae026",
+          "postal": "486038"
+        },
+        {
+          "name": "DOUGH CULTURE",
+          "address": "11 BIDADARI PARK DRIVE #B1-K26 THE WOODLEIGH MALL 367803",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000626",
+          "scheme": "Eating Establishment",
+          "id": "d54efa73-ca47-4771-ad30-b27fc4dae026",
+          "postal": "367803"
+        },
+        {
+          "name": "DOUGH CULTURE",
+          "address": "1 WOODLANDS SQUARE #01-K08 CAUSEWAY POINT 738099",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000063",
+          "scheme": "Eating Establishment",
+          "id": "d54efa73-ca47-4771-ad30-b27fc4dae026",
+          "postal": "738099"
+        },
+        {
+          "name": "DOUGH CULTURE",
+          "address": "23 SERANGOON CENTRAL #B2-09 NEX 556083",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240001095",
+          "scheme": "Eating Establishment",
+          "id": "d54efa73-ca47-4771-ad30-b27fc4dae026",
+          "postal": "556083"
+        },
+        {
+          "name": "SHIOK BURGER",
+          "address": "21 CHOA CHU KANG AVENUE 4 #B1-K10 LOT ONE, SHOPPERS' MALL 689812",
+          "type": "Restaurant",
+          "number": "EERT25120000070",
+          "scheme": "Eating Establishment",
+          "id": "4fcad118-8dea-4300-a6a9-f4bf6b4d7efa",
+          "postal": "689812"
+        },
+        {
+          "name": "DOUGH CULTURE",
+          "address": "377 HOUGANG STREET 32 #B1-16 530377",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000030",
+          "scheme": "Eating Establishment",
+          "id": "d54efa73-ca47-4771-ad30-b27fc4dae026",
+          "postal": "530377"
+        }
+      ],
+      "removed": [
+        {
+          "name": "DOUGH CULTURE",
+          "address": "678A WOODLANDS AVENUE 6 #01-09 ADMIRALTY PLACE 731678",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000262",
+          "scheme": "Eating Establishment",
+          "id": "0246652a-fd3c-4a8e-a0bf-34a376910365",
+          "postal": "731678"
+        },
+        {
+          "name": "DOUGH CULTURE",
+          "address": "377 HOUGANG STREET 32 #B1-16 530377",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000030",
+          "scheme": "Eating Establishment",
+          "id": "0a24b696-af57-4b5a-af1d-815fe8f04bcb",
+          "postal": "530377"
+        },
+        {
+          "name": "DOUGH CULTURE",
+          "address": "1 PASIR RIS CENTRAL STREET 3 #01-43 518457",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21120013008",
+          "scheme": "Eating Establishment",
+          "id": "0a24b696-af57-4b5a-af1d-815fe8f04bcb",
+          "postal": "518457"
+        },
+        {
+          "name": "DOUGH CULTURE",
+          "address": "23 SERANGOON CENTRAL #B2-09 NEX 556083",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240001095",
+          "scheme": "Eating Establishment",
+          "id": "0246652a-fd3c-4a8e-a0bf-34a376910365",
+          "postal": "556083"
+        },
+        {
+          "name": "DOUGH CULTURE",
+          "address": "3155 COMMONWEALTH AVENUE WEST #B1-K14 THE CLEMENTI MALL 129588",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000388",
+          "scheme": "Eating Establishment",
+          "id": "0246652a-fd3c-4a8e-a0bf-34a376910365",
+          "postal": "129588"
+        },
+        {
+          "name": "DOUGH CULTURE",
+          "address": "11 BIDADARI PARK DRIVE #B1-K26 THE WOODLEIGH MALL 367803",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000626",
+          "scheme": "Eating Establishment",
+          "id": "0246652a-fd3c-4a8e-a0bf-34a376910365",
+          "postal": "367803"
+        },
+        {
+          "name": "DOUGH CULTURE",
+          "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #B1-K8 CHANGI CITY POINT 486038",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000529",
+          "scheme": "Eating Establishment",
+          "id": "0246652a-fd3c-4a8e-a0bf-34a376910365",
+          "postal": "486038"
+        },
+        {
+          "name": "DOUGH CULTURE",
+          "address": "70 COMPASSVALE BOW #01-07 544692",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000566",
+          "scheme": "Eating Establishment",
+          "id": "0246652a-fd3c-4a8e-a0bf-34a376910365",
+          "postal": "544692"
+        },
+        {
+          "name": "DOUGH CULTURE",
+          "address": "1 WOODLANDS SQUARE #01-K08 CAUSEWAY POINT 738099",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000063",
+          "scheme": "Eating Establishment",
+          "id": "0a24b696-af57-4b5a-af1d-815fe8f04bcb",
+          "postal": "738099"
+        },
+        {
+          "name": "DOUGH CULTURE",
+          "address": "17 PETIR ROAD #B2-43 HILLION MALL 678278",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000416",
+          "scheme": "Eating Establishment",
+          "id": "0a24b696-af57-4b5a-af1d-815fe8f04bcb",
+          "postal": "678278"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-01-06T22:17:16.735552",
     "date": "2026-01-06",
     "summary": {
@@ -10214,193 +10419,6 @@
           "scheme": "Eating Establishment",
           "id": "b3f7acc2-ed44-4e1d-be2f-ddfd176c2011",
           "postal": "528523"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2025-11-04T22:16:02.541963",
-    "date": "2025-11-04",
-    "summary": {
-      "new": 18,
-      "removed": 1,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "YB Fried Bee Hoon",
-          "address": "437 FERNVALE ROAD (S10)@Kopitiam Fernvale #01-01 FERNVALE GROVE 790437",
-          "type": "Hawker",
-          "number": "EEHK25110000008",
-          "scheme": "Eating Establishment",
-          "id": "226370e2-ec42-4b14-bfbe-d2bc897d1580",
-          "postal": "790437"
-        },
-        {
-          "name": "RIVE GAUCHE PATISSERIE",
-          "address": "23 SERANGOON CENTRAL #B1-16 NEX 556083",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB25110000016",
-          "scheme": "Eating Establishment",
-          "id": "8bfe6517-83bd-4a52-b3a2-0be050fe21c3",
-          "postal": "556083"
-        },
-        {
-          "name": "NASTY COOKIE PTE. LTD.",
-          "address": "21 TAMPINES STREET 92 #04-03A HERSING KITCHEN 528891",
-          "type": "Central Kitchen",
-          "number": "FPCK20230000979",
-          "scheme": "Food Preparation Area",
-          "id": "2d8d1a8c-aa2d-45a9-baa7-6349020b6a7a",
-          "postal": "528891"
-        },
-        {
-          "name": "Cik Lim Yong Tau Foo",
-          "address": "3 TEMASEK BOULEVARD (MR2) @ Food Arena Suntec City Mall #03-367, #03-368, #03-369, #03-370 SUNTEC CITY MALL 038983",
-          "type": "Hawker",
-          "number": "EEHK25110000003",
-          "scheme": "Eating Establishment",
-          "id": "53191ce8-75ad-456b-b35c-ffeee389d0f9",
-          "postal": "038983"
-        },
-        {
-          "name": "NASTY COOKIE",
-          "address": "6 RAFFLES BOULEVARD #02-271 MARINA SQUARE 039594",
-          "type": "Restaurant",
-          "number": "EERT20240000919",
-          "scheme": "Eating Establishment",
-          "id": "00bb8d74-a1c6-4dd1-adad-d89a87a0083f",
-          "postal": "039594"
-        },
-        {
-          "name": "RIVE GAUCHE PATISSERIE",
-          "address": "2 ORCHARD TURN #B4-71 ION ORCHARD 238801",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB25110000015",
-          "scheme": "Eating Establishment",
-          "id": "8bfe6517-83bd-4a52-b3a2-0be050fe21c3",
-          "postal": "238801"
-        },
-        {
-          "name": "NASTY COOKIE",
-          "address": "3 GATEWAY DRIVE #01-09 WESTGATE 608532",
-          "type": "Restaurant",
-          "number": "EERT20230000980",
-          "scheme": "Eating Establishment",
-          "id": "11a08e54-d670-488c-ad60-23bcd6e1184c",
-          "postal": "608532"
-        },
-        {
-          "name": "MUNCHI PANCAKES",
-          "address": "311 NEW UPPER CHANGI ROAD #B2-K12 BEDOK MALL 467360",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB25100000133",
-          "scheme": "Eating Establishment",
-          "id": "267f7410-4bb5-4ed0-8201-ea717282e07b",
-          "postal": "467360"
-        },
-        {
-          "name": "MUNCHI PANCAKES(S38) @ WOODLEIGH VILLAGE HAWKER CENTRE",
-          "address": "202C WOODLEIGH LINK #01-38 363202",
-          "type": "Hawker",
-          "number": "EEHK20240000924",
-          "scheme": "Eating Establishment",
-          "id": "6c4dc028-c30c-458c-9f08-e1622953f083",
-          "postal": "363202"
-        },
-        {
-          "name": "RIVE GAUCHE PATISSERIE",
-          "address": "80 MARINE PARADE ROAD #03-30C PARKWAY PARADE 449269",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB25110000018",
-          "scheme": "Eating Establishment",
-          "id": "8bfe6517-83bd-4a52-b3a2-0be050fe21c3",
-          "postal": "449269"
-        },
-        {
-          "name": "RIVE GAUCHE PATISSERIE",
-          "address": "16 WAN LEE ROAD #03-01 627946",
-          "type": "Central Kitchen",
-          "number": "FPCK25110000013",
-          "scheme": "Food Preparation Area",
-          "id": "8bfe6517-83bd-4a52-b3a2-0be050fe21c3",
-          "postal": "627946"
-        },
-        {
-          "name": "RIVE GAUCHE PATISSERIE",
-          "address": "10 TAMPINES CENTRAL 1 #B1-14 TAMPINES ONE 529536",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB25110000021",
-          "scheme": "Eating Establishment",
-          "id": "8bfe6517-83bd-4a52-b3a2-0be050fe21c3",
-          "postal": "529536"
-        },
-        {
-          "name": "Buhari Cafe & Restaurant Indian Muslim Food",
-          "address": "80 AIRPORT BOULEVARD Upper Basement Canteen S1 THE ORCHIS FOOD COURT@CHANGI AIRPORT TERMINAL 1 819642",
-          "type": "Hawker",
-          "number": "EEHK25110000009",
-          "scheme": "Eating Establishment",
-          "id": "2c63e59a-0254-4edb-8ccb-22ce5afd963a",
-          "postal": "819642"
-        },
-        {
-          "name": "RIVE GAUCHE PATISSERIE",
-          "address": "1 NORTHPOINT DRIVE #B2-156 NORTHPOINT CITY 768019",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB25110000017",
-          "scheme": "Eating Establishment",
-          "id": "8bfe6517-83bd-4a52-b3a2-0be050fe21c3",
-          "postal": "768019"
-        },
-        {
-          "name": "RIVE GAUCHE PATISSERIE",
-          "address": "1 VISTA EXCHANGE GREEN #B1-37C THE STAR VISTA 138617",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB25110000020",
-          "scheme": "Eating Establishment",
-          "id": "8bfe6517-83bd-4a52-b3a2-0be050fe21c3",
-          "postal": "138617"
-        },
-        {
-          "name": "NASTY COOKIE",
-          "address": "277 ORCHARD ROAD #B2-10 ORCHARD GATEWAY 238858",
-          "type": "Restaurant",
-          "number": "EERT20230000983",
-          "scheme": "Eating Establishment",
-          "id": "00bb8d74-a1c6-4dd1-adad-d89a87a0083f",
-          "postal": "238858"
-        },
-        {
-          "name": "RIVE GAUCHE PATISSERIE",
-          "address": "20 TAN QUEE LAN STREET #01-05 GUOCO MIDTOWN II 188107",
-          "type": "Restaurant",
-          "number": "EERT25110000014",
-          "scheme": "Eating Establishment",
-          "id": "8bfe6517-83bd-4a52-b3a2-0be050fe21c3",
-          "postal": "188107"
-        },
-        {
-          "name": "RIVE GAUCHE PATISSERIE",
-          "address": "252 NORTH BRIDGE ROAD #B1-50 RAFFLES CITY SHOPPING CENTRE 179103",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB25110000019",
-          "scheme": "Eating Establishment",
-          "id": "8bfe6517-83bd-4a52-b3a2-0be050fe21c3",
-          "postal": "179103"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Telur Thai (S19) @ Kopitiam Tampines Mall",
-          "address": "4 TAMPINES CENTRAL 5 #04-27 TAMPINES MALL, Stall 19 529510",
-          "type": "Hawker",
-          "number": "EEHK20240000079",
-          "scheme": "Eating Establishment",
-          "id": "135a9f83-f2f4-40b3-8aac-e663ee9034df",
-          "postal": "529510"
         }
       ],
       "updated": []
