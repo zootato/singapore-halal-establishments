@@ -1,5 +1,137 @@
 [
   {
+    "timestamp": "2026-01-12T22:17:11.889585",
+    "date": "2026-01-12",
+    "summary": {
+      "new": 13,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "SEMBAWANG EATING HOUSE (SEAFOOD RESTAURANT) PTE. LTD.",
+          "address": "510 UPPER JURONG ROAD #01-06-08 SINGAPORE DISCOVERY CENTRE 638365",
+          "type": "Catering Company",
+          "number": "FPCA20230001325",
+          "scheme": "Food Preparation Area",
+          "id": "d3f4e2e1-5460-4b3e-9532-4e08d3ca13c7",
+          "postal": "638365"
+        },
+        {
+          "name": "Yu Ni Xiang Yu",
+          "address": "2 SIMEI STREET 3 #01-30/31 (S3) @ NTUC FOODFARE CHANGI GENERAL HOSPITAL 529889",
+          "type": "Hawker",
+          "number": "EEHK26010000008",
+          "scheme": "Eating Establishment",
+          "id": "410fef90-6f58-4073-a86c-77ba32d1994b",
+          "postal": "529889"
+        },
+        {
+          "name": "Xinyu Korean Cuisine",
+          "address": "2 SIMEI STREET 3 #01-20 (S11) @ KOPITIAM CORNER CHANGI GENERAL HOSPITAL 529889",
+          "type": "Hawker",
+          "number": "EEHK26010000009",
+          "scheme": "Eating Establishment",
+          "id": "130359f9-e957-4b57-9c8a-8e74014ad349",
+          "postal": "529889"
+        },
+        {
+          "name": "Gyusei Gyukatsu Wagyu-Steakhouse",
+          "address": "775 NORTH BRIDGE ROAD #01 HOTEL CLOVER 198743",
+          "type": "Restaurant",
+          "number": "EERT26010000020",
+          "scheme": "Eating Establishment",
+          "id": "f33da927-7dff-4314-8012-14f8a27d8f6c",
+          "postal": "198743"
+        },
+        {
+          "name": "Green Sky Fried Kway Teow",
+          "address": "1 BEDOK ROAD #01-14 BEDOK FOOD CENTRE, (Stall 14) 469572",
+          "type": "Hawker",
+          "number": "EEHK26010000018",
+          "scheme": "Eating Establishment",
+          "id": "d4a321fe-e76e-4d8e-b0fd-bc754c3094ef",
+          "postal": "469572"
+        },
+        {
+          "name": "Donburi Hero",
+          "address": "112 EAST COAST ROAD Part Right #01-20 112 KATONG 428802",
+          "type": "Restaurant",
+          "number": "EERT26010000023",
+          "scheme": "Eating Establishment",
+          "id": "3997725f-3312-46ed-916f-649504557dd3",
+          "postal": "428802"
+        },
+        {
+          "name": "Xinyu Korean Cuisine",
+          "address": "2 TAMPINES CENTRAL 5 #03-19 (S11) @ The Food Market Century Square 529509",
+          "type": "Hawker",
+          "number": "EEHK26010000007",
+          "scheme": "Eating Establishment",
+          "id": "6db8ce69-e19b-4c92-a58d-cd1f8fd7305b",
+          "postal": "529509"
+        },
+        {
+          "name": "Fish & Co.",
+          "address": "524A JELAPANG ROAD #01-03 GREENRIDGE SHOPPING CENTRE, STALL 6 671524",
+          "type": "Hawker",
+          "number": "EEHN21110012968",
+          "scheme": "Eating Establishment",
+          "id": "6abb1b61-dc88-42cc-9d64-a8e900a62115",
+          "postal": "671524"
+        },
+        {
+          "name": "Fish & Co.",
+          "address": "10 SENGKANG SQUARE #01-54 KOPITIAM SQUARE 544829",
+          "type": "Hawker",
+          "number": "EEHN21110012970",
+          "scheme": "Eating Establishment",
+          "id": "6abb1b61-dc88-42cc-9d64-a8e900a62115",
+          "postal": "544829"
+        },
+        {
+          "name": "Wok Qi Fried Rice",
+          "address": "7 PASIR RIS CENTRAL #B2-17 PASIR RIS MALL Cantine By Kopitam, MR6 519612",
+          "type": "Hawker",
+          "number": "EEHK26010000021",
+          "scheme": "Eating Establishment",
+          "id": "43ce6d64-696a-4f1b-8a94-6bc44f543759",
+          "postal": "519612"
+        },
+        {
+          "name": "Bara",
+          "address": "16 ENGGOR STREET #01-10 ICON VILLAGE 079717",
+          "type": "Restaurant",
+          "number": "EERN21120013228",
+          "scheme": "Eating Establishment",
+          "id": "d4b922a4-2143-40e1-957e-85d0a9770895",
+          "postal": "079717"
+        },
+        {
+          "name": "SEMBAWANG EATING HOUSE (SEAFOOD RESTAURANT) PTE. LTD.",
+          "address": "153 MOUNT PLEASANT ROAD 298341",
+          "type": "Catering Company",
+          "number": "FPCA20240000174",
+          "scheme": "Food Preparation Area",
+          "id": "d3f4e2e1-5460-4b3e-9532-4e08d3ca13c7",
+          "postal": "298341"
+        },
+        {
+          "name": "Fish & Co.",
+          "address": "110 PASIR RIS CENTRAL #01-06 519641",
+          "type": "Hawker",
+          "number": "EEHK20240001279",
+          "scheme": "Eating Establishment",
+          "id": "dcef3017-de5f-439c-9754-8eaecfd88960",
+          "postal": "519641"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-01-09T22:17:29.531752",
     "date": "2026-01-09",
     "summary": {
@@ -10649,48 +10781,6 @@
           }
         }
       ]
-    }
-  },
-  {
-    "timestamp": "2025-11-06T22:16:27.581658",
-    "date": "2025-11-06",
-    "summary": {
-      "new": 3,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "MIKKO BUBBLE TEA & CHILL CORNER.",
-          "address": "442 PASIR RIS DRIVE 6 #01-48 510442",
-          "type": "Restaurant",
-          "number": "EERT20230000988",
-          "scheme": "Eating Establishment",
-          "id": "5482bc24-af01-45ca-a680-8c12a0d370ed",
-          "postal": "510442"
-        },
-        {
-          "name": "HOW'S CATERING",
-          "address": "3 ENTERPRISE ROAD 3/5 Enterprise Road 629815",
-          "type": "Catering Company",
-          "number": "FPCA25110000011",
-          "scheme": "Food Preparation Area",
-          "id": "2d77e49c-8eaf-4a1d-a85f-89fd7798534c",
-          "postal": "629815"
-        },
-        {
-          "name": "Carrara",
-          "address": "2 JALAN BUKIT MERAH #01-5148 BRICKWORKS ESTATE 150002",
-          "type": "Restaurant",
-          "number": "EERT20240000647",
-          "scheme": "Eating Establishment",
-          "id": "dc42ca27-88f2-4703-be62-fa8f079daddd",
-          "postal": "150002"
-        }
-      ],
-      "removed": [],
-      "updated": []
     }
   }
 ]

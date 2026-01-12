@@ -3051,6 +3051,15 @@
     "postal": "218289"
   },
   {
+    "name": "Bara",
+    "address": "16 ENGGOR STREET #01-10 ICON VILLAGE 079717",
+    "type": "Restaurant",
+    "number": "EERN21120013228",
+    "scheme": "Eating Establishment",
+    "id": "d4b922a4-2143-40e1-957e-85d0a9770895",
+    "postal": "079717"
+  },
+  {
     "name": "BARA BARA (S7) @ KOPITIAM PUNGGOL",
     "address": "108 PUNGGOL FIELD #01-01, (Stall 7) 820108",
     "type": "Hawker",
@@ -8281,6 +8290,15 @@
   },
   {
     "name": "Donburi Hero",
+    "address": "112 EAST COAST ROAD Part Right #01-20 112 KATONG 428802",
+    "type": "Restaurant",
+    "number": "EERT26010000023",
+    "scheme": "Eating Establishment",
+    "id": "3997725f-3312-46ed-916f-649504557dd3",
+    "postal": "428802"
+  },
+  {
+    "name": "Donburi Hero",
     "address": "1 STADIUM PLACE #01-40 SPORTS HUB RETAIL MALL 397628",
     "type": "Restaurant",
     "number": "EERT20240000093",
@@ -8650,15 +8668,6 @@
   },
   {
     "name": "Dunkin'",
-    "address": "14 SCOTTS ROAD #01-03 FAR EAST PLAZA 228213",
-    "type": "Restaurant",
-    "number": "EERT20240000421",
-    "scheme": "Eating Establishment",
-    "id": "83555d54-74f6-478d-9393-666f698a1c48",
-    "postal": "228213"
-  },
-  {
-    "name": "Dunkin'",
     "address": "7 PASIR RIS CENTRAL #B1-K17 519612",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000727",
@@ -8692,6 +8701,15 @@
     "scheme": "Eating Establishment",
     "id": "83555d54-74f6-478d-9393-666f698a1c48",
     "postal": "738099"
+  },
+  {
+    "name": "Dunkin'",
+    "address": "14 SCOTTS ROAD #01-03 FAR EAST PLAZA 228213",
+    "type": "Restaurant",
+    "number": "EERT20240000421",
+    "scheme": "Eating Establishment",
+    "id": "83555d54-74f6-478d-9393-666f698a1c48",
+    "postal": "228213"
   },
   {
     "name": "Dunkin'",
@@ -9799,6 +9817,33 @@
     "scheme": "Eating Establishment",
     "id": "57bc7cef-2e5b-4126-9a08-f1ef5d627344",
     "postal": "760414"
+  },
+  {
+    "name": "Fish & Co.",
+    "address": "110 PASIR RIS CENTRAL #01-06 519641",
+    "type": "Hawker",
+    "number": "EEHK20240001279",
+    "scheme": "Eating Establishment",
+    "id": "dcef3017-de5f-439c-9754-8eaecfd88960",
+    "postal": "519641"
+  },
+  {
+    "name": "Fish & Co.",
+    "address": "524A JELAPANG ROAD #01-03 GREENRIDGE SHOPPING CENTRE, STALL 6 671524",
+    "type": "Hawker",
+    "number": "EEHN21110012968",
+    "scheme": "Eating Establishment",
+    "id": "6abb1b61-dc88-42cc-9d64-a8e900a62115",
+    "postal": "671524"
+  },
+  {
+    "name": "Fish & Co.",
+    "address": "10 SENGKANG SQUARE #01-54 KOPITIAM SQUARE 544829",
+    "type": "Hawker",
+    "number": "EEHN21110012970",
+    "scheme": "Eating Establishment",
+    "id": "6abb1b61-dc88-42cc-9d64-a8e900a62115",
+    "postal": "544829"
   },
   {
     "name": "Fish Soup (S4) @ Cantine Jurong Point",
@@ -10935,6 +10980,15 @@
     "postal": "608532"
   },
   {
+    "name": "Green Sky Fried Kway Teow",
+    "address": "1 BEDOK ROAD #01-14 BEDOK FOOD CENTRE, (Stall 14) 469572",
+    "type": "Hawker",
+    "number": "EEHK26010000018",
+    "scheme": "Eating Establishment",
+    "id": "d4a321fe-e76e-4d8e-b0fd-bc754c3094ef",
+    "postal": "469572"
+  },
+  {
     "name": "Greens & Grains Salad",
     "address": "27 PRINCE GEORGE'S PARK PRINCE GEORGE's PARK RESIDENCES - NATIONAL UNIVERSITY OF SINGAPORE, STALL 2 118425",
     "type": "Hawker",
@@ -11032,6 +11086,15 @@
     "scheme": "Eating Establishment",
     "id": "d629c08d-9990-4f1d-9a5a-01ff690e2a09",
     "postal": "138602"
+  },
+  {
+    "name": "Gyusei Gyukatsu Wagyu-Steakhouse",
+    "address": "775 NORTH BRIDGE ROAD #01 HOTEL CLOVER 198743",
+    "type": "Restaurant",
+    "number": "EERT26010000020",
+    "scheme": "Eating Establishment",
+    "id": "f33da927-7dff-4314-8012-14f8a27d8f6c",
+    "postal": "198743"
   },
   {
     "name": "H & N CATERING SERVICES PTE. LTD.",
@@ -25183,15 +25246,6 @@
   },
   {
     "name": "Sanook Kitchen",
-    "address": "3 SIMEI STREET 6 #01-15 EASTPOINT MALL 528833",
-    "type": "Restaurant",
-    "number": "EERN21040012308",
-    "scheme": "Eating Establishment",
-    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-    "postal": "528833"
-  },
-  {
-    "name": "Sanook Kitchen",
     "address": "6 WOODLANDS SQUARE #B2-08 WOODS SQUARE 737737",
     "type": "Restaurant",
     "number": "EERN21040012304",
@@ -25225,6 +25279,15 @@
     "scheme": "Eating Establishment",
     "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
     "postal": "529536"
+  },
+  {
+    "name": "Sanook Kitchen",
+    "address": "3 SIMEI STREET 6 #01-15 EASTPOINT MALL 528833",
+    "type": "Restaurant",
+    "number": "EERN21040012308",
+    "scheme": "Eating Establishment",
+    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+    "postal": "528833"
   },
   {
     "name": "Sanook Kitchen",
@@ -25810,6 +25873,24 @@
     "scheme": "Eating Establishment",
     "id": "0a98bfca-5b20-48c0-ab07-e5869ea6d7a8",
     "postal": "730693"
+  },
+  {
+    "name": "SEMBAWANG EATING HOUSE (SEAFOOD RESTAURANT) PTE. LTD.",
+    "address": "510 UPPER JURONG ROAD #01-06-08 SINGAPORE DISCOVERY CENTRE 638365",
+    "type": "Catering Company",
+    "number": "FPCA20230001325",
+    "scheme": "Food Preparation Area",
+    "id": "d3f4e2e1-5460-4b3e-9532-4e08d3ca13c7",
+    "postal": "638365"
+  },
+  {
+    "name": "SEMBAWANG EATING HOUSE (SEAFOOD RESTAURANT) PTE. LTD.",
+    "address": "153 MOUNT PLEASANT ROAD 298341",
+    "type": "Catering Company",
+    "number": "FPCA20240000174",
+    "scheme": "Food Preparation Area",
+    "id": "d3f4e2e1-5460-4b3e-9532-4e08d3ca13c7",
+    "postal": "298341"
   },
   {
     "name": "Sengkang Square Oyster Omelette (S57 & S58) @ Kopitiam Square",
@@ -32122,15 +32203,6 @@
   },
   {
     "name": "TREATS",
-    "address": "396 TELOK BLANGAH ROAD ESSO SERVICE STATION 098837",
-    "type": "Food Kiosk",
-    "number": "EEFK20230000902",
-    "scheme": "Eating Establishment",
-    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
-    "postal": "098837"
-  },
-  {
-    "name": "TREATS",
     "address": "622 QUEENSWAY MOBIL SERVICE STATION 149067",
     "type": "Food Kiosk",
     "number": "EEKN21110012190",
@@ -32209,6 +32281,15 @@
     "scheme": "Eating Establishment",
     "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
     "postal": "758452"
+  },
+  {
+    "name": "TREATS",
+    "address": "396 TELOK BLANGAH ROAD ESSO SERVICE STATION 098837",
+    "type": "Food Kiosk",
+    "number": "EEFK20230000902",
+    "scheme": "Eating Establishment",
+    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
+    "postal": "098837"
   },
   {
     "name": "TREATS",
@@ -33534,6 +33615,15 @@
     "postal": "119078"
   },
   {
+    "name": "Wok Qi Fried Rice",
+    "address": "7 PASIR RIS CENTRAL #B2-17 PASIR RIS MALL Cantine By Kopitam, MR6 519612",
+    "type": "Hawker",
+    "number": "EEHK26010000021",
+    "scheme": "Eating Establishment",
+    "id": "43ce6d64-696a-4f1b-8a94-6bc44f543759",
+    "postal": "519612"
+  },
+  {
     "name": "WOKE RAMEN",
     "address": "1 SENGKANG SQUARE #03-13 COMPASS ONE 545078",
     "type": "Restaurant",
@@ -33613,6 +33703,24 @@
     "scheme": "Eating Establishment",
     "id": "853e33b2-dff4-4d32-81bc-4848f207e5ad",
     "postal": "768828"
+  },
+  {
+    "name": "Xinyu Korean Cuisine",
+    "address": "2 TAMPINES CENTRAL 5 #03-19 (S11) @ The Food Market Century Square 529509",
+    "type": "Hawker",
+    "number": "EEHK26010000007",
+    "scheme": "Eating Establishment",
+    "id": "6db8ce69-e19b-4c92-a58d-cd1f8fd7305b",
+    "postal": "529509"
+  },
+  {
+    "name": "Xinyu Korean Cuisine",
+    "address": "2 SIMEI STREET 3 #01-20 (S11) @ KOPITIAM CORNER CHANGI GENERAL HOSPITAL 529889",
+    "type": "Hawker",
+    "number": "EEHK26010000009",
+    "scheme": "Eating Establishment",
+    "id": "130359f9-e957-4b57-9c8a-8e74014ad349",
+    "postal": "529889"
   },
   {
     "name": "XW Plus Western Grill",
@@ -33964,6 +34072,15 @@
     "scheme": "Eating Establishment",
     "id": "b3f7acc2-ed44-4e1d-be2f-ddfd176c2011",
     "postal": "229233"
+  },
+  {
+    "name": "Yu Ni Xiang Yu",
+    "address": "2 SIMEI STREET 3 #01-30/31 (S3) @ NTUC FOODFARE CHANGI GENERAL HOSPITAL 529889",
+    "type": "Hawker",
+    "number": "EEHK26010000008",
+    "scheme": "Eating Establishment",
+    "id": "410fef90-6f58-4073-a86c-77ba32d1994b",
+    "postal": "529889"
   },
   {
     "name": "Yummy Hanoi (S6) @ Cantine Paya Lebar Square",
