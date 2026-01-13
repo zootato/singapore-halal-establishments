@@ -1,5 +1,147 @@
 [
   {
+    "timestamp": "2026-01-13T22:17:46.825410",
+    "date": "2026-01-13",
+    "summary": {
+      "new": 9,
+      "removed": 5,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Nenek Recipe (S19) @ FM FOODMASTER",
+          "address": "9 JURONG WEST AVENUE 5 #01-09, STALL 19 649487",
+          "type": "Hawker",
+          "number": "EEHK20250000030",
+          "scheme": "Eating Establishment",
+          "id": "c00e82de-3643-44db-bf9c-f811de4a8838",
+          "postal": "649487"
+        },
+        {
+          "name": "SIZZLING HOTPLATE (S12) @ Foodgle Hub ITE College Central",
+          "address": "2 ANG MO KIO DRIVE #01-14/29 ITE COLLEGE CENTRAL, Stall 12 567720",
+          "type": "Hawker",
+          "number": "EEHK20240001291",
+          "scheme": "Eating Establishment",
+          "id": "fd8852c3-98bd-4d1f-87cc-30d12fb5c59f",
+          "postal": "567720"
+        },
+        {
+          "name": "Kitchen @ Ren Ci NH(mngd by L&H catering)",
+          "address": "31 BUKIT BATOK STREET 52 #02 Ren Ci (Nursing Home) 659251",
+          "type": "Central Kitchen",
+          "number": "FPCK20230001231",
+          "scheme": "Food Preparation Area",
+          "id": "5d246201-4eb9-4fdd-90cf-e6bc021dea8b",
+          "postal": "659251"
+        },
+        {
+          "name": "Pepper Lunch Express (S10) @ Foodrepublic 313 Somerset",
+          "address": "313 ORCHARD ROAD S10 #05-01/03/02 313 @ SOMERSET 238895",
+          "type": "Hawker",
+          "number": "EEHK20250000120",
+          "scheme": "Eating Establishment",
+          "id": "98ee1f0a-51fe-43dd-b422-c358e1bdc5a0",
+          "postal": "238895"
+        },
+        {
+          "name": "KENANGAN COFFEE",
+          "address": "12 KALLANG AVENUE #01-72 APERIA 339511",
+          "type": "Restaurant",
+          "number": "EERT26010000016",
+          "scheme": "Eating Establishment",
+          "id": "08d5fb6e-e9f2-427d-a38f-ab5fcb7529cf",
+          "postal": "339511"
+        },
+        {
+          "name": "Pepper Lunch Express (S11) @ Cookhouse Waterway Point",
+          "address": "83 PUNGGOL CENTRAL #02-20 WATERWAY POINT, (Stall 11) 828761",
+          "type": "Hawker",
+          "number": "EEHK20240001251",
+          "scheme": "Eating Establishment",
+          "id": "98ee1f0a-51fe-43dd-b422-c358e1bdc5a0",
+          "postal": "828761"
+        },
+        {
+          "name": "Rasa Sayang Rasa Sayang (MR3) @Yong Li Coffee Station 105 Canberra",
+          "address": "105 CANBERRA STREET #01-01,(MR3) 750105",
+          "type": "Hawker",
+          "number": "EEHK20250000037",
+          "scheme": "Eating Establishment",
+          "id": "67abef24-3c17-442d-ba09-5630ec42f1e1",
+          "postal": "750105"
+        },
+        {
+          "name": "Nenek Recipe Indonesian Grill & BBQ (MR2) @ Food More Jurong",
+          "address": "3 YUAN CHING ROAD #01-01, MR2 618642",
+          "type": "Hawker",
+          "number": "EEHK20230001161",
+          "scheme": "Eating Establishment",
+          "id": "f0a6cc48-64a8-4e3f-92d7-57eb07e10079",
+          "postal": "618642"
+        },
+        {
+          "name": "Nenek Recipe",
+          "address": "28 GAMBAS CRESCENT #03-K10 NORDCOM TWO, (Kitchen 10) 757012",
+          "type": "Hawker",
+          "number": "EEHK20220000779",
+          "scheme": "Eating Establishment",
+          "id": "b5fdef35-ad09-46f2-ba4a-ff84fb49ce7c",
+          "postal": "757012"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Rasa Sayang Rasa Sayang (MR3) @Yong Li Coffee Station 105 Canberra",
+          "address": "105 CANBERRA STREET #01-01,(MR3) 750105",
+          "type": "Hawker",
+          "number": "EEHK20250000037",
+          "scheme": "Eating Establishment",
+          "id": "a770e71f-f7c0-477e-a386-0513583475a8",
+          "postal": "750105"
+        },
+        {
+          "name": "THAI MAKAN (S10) @ CANTINE JURONG POINT",
+          "address": "1 JURONG WEST CENTRAL 2 #B1-42/43/44 JURONG POINT, Stall 10 648886",
+          "type": "Hawker",
+          "number": "EEHK20240000153",
+          "scheme": "Eating Establishment",
+          "id": "84bda1c3-5fea-4075-b1f7-82be577776b5",
+          "postal": "648886"
+        },
+        {
+          "name": "Pepper Lunch Express (S10) @ Foodrepublic 313 Somerset",
+          "address": "313 ORCHARD ROAD S10 #05-01/03/02 313 @ SOMERSET 238895",
+          "type": "Hawker",
+          "number": "EEHK20250000120",
+          "scheme": "Eating Establishment",
+          "id": "897482d6-6a2e-4ff9-b02e-3a8c2e2550c2",
+          "postal": "238895"
+        },
+        {
+          "name": "Sanook Kitchen",
+          "address": "17 Petir Road #01-17/18 Hillion Mall 678278",
+          "type": "Restaurant",
+          "number": "EERT20230000517",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "678278"
+        },
+        {
+          "name": "Pepper Lunch Express (S11) @ Cookhouse Waterway Point",
+          "address": "83 PUNGGOL CENTRAL #02-20 WATERWAY POINT, (Stall 11) 828761",
+          "type": "Hawker",
+          "number": "EEHK20240001251",
+          "scheme": "Eating Establishment",
+          "id": "34c8cee8-2801-4ca0-aae1-28e1a44b9d40",
+          "postal": "828761"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-01-12T22:17:11.889585",
     "date": "2026-01-12",
     "summary": {
@@ -10746,41 +10888,6 @@
         }
       ],
       "updated": []
-    }
-  },
-  {
-    "timestamp": "2025-11-07T22:15:55.363715",
-    "date": "2025-11-07",
-    "summary": {
-      "new": 0,
-      "removed": 0,
-      "updated": 1
-    },
-    "changes": {
-      "new": [],
-      "removed": [],
-      "updated": [
-        {
-          "previous": {
-            "name": "CHOPS! GRILL & SIDES",
-            "address": "33 LORONG LIPUT HOLLAND VILLAGE,Stall 4 (MR2) 277744",
-            "type": "Hawker",
-            "number": "EEHK20220000942",
-            "scheme": "Eating Establishment",
-            "id": "b0de2a96-d0a7-410c-98fb-a0114e4a314b",
-            "postal": "277744"
-          },
-          "current": {
-            "name": "CHOPS! GRILL & SIDES",
-            "address": "33 LORONG LIPUT HOLLAND VILLAGE, Stall 4 (MR2) 277744",
-            "type": "Hawker",
-            "number": "EEHK20220000942",
-            "scheme": "Eating Establishment",
-            "id": "b0de2a96-d0a7-410c-98fb-a0114e4a314b",
-            "postal": "277744"
-          }
-        }
-      ]
     }
   }
 ]

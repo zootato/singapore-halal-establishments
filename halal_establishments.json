@@ -14598,6 +14598,15 @@
     "postal": "569933"
   },
   {
+    "name": "KENANGAN COFFEE",
+    "address": "12 KALLANG AVENUE #01-72 APERIA 339511",
+    "type": "Restaurant",
+    "number": "EERT26010000016",
+    "scheme": "Eating Establishment",
+    "id": "08d5fb6e-e9f2-427d-a38f-ab5fcb7529cf",
+    "postal": "339511"
+  },
+  {
     "name": "KENJINN",
     "address": "1 TAMPINES WALK HAWKER CENTRE @ OUR TAMPINES HUB 528523",
     "type": "Snack Bar / Bakery",
@@ -15442,6 +15451,15 @@
     "scheme": "Food Preparation Area",
     "id": "4bcd96cc-5c4a-43b2-8d41-cbf1c1735b64",
     "postal": "468984"
+  },
+  {
+    "name": "Kitchen @ Ren Ci NH(mngd by L&H catering)",
+    "address": "31 BUKIT BATOK STREET 52 #02 Ren Ci (Nursing Home) 659251",
+    "type": "Central Kitchen",
+    "number": "FPCK20230001231",
+    "scheme": "Food Preparation Area",
+    "id": "5d246201-4eb9-4fdd-90cf-e6bc021dea8b",
+    "postal": "659251"
   },
   {
     "name": "Kitchen @ Ren Ci Woodlands (mngd by First Cuisine Food Industries)",
@@ -20232,6 +20250,33 @@
     "postal": "600130"
   },
   {
+    "name": "Nenek Recipe",
+    "address": "28 GAMBAS CRESCENT #03-K10 NORDCOM TWO, (Kitchen 10) 757012",
+    "type": "Hawker",
+    "number": "EEHK20220000779",
+    "scheme": "Eating Establishment",
+    "id": "b5fdef35-ad09-46f2-ba4a-ff84fb49ce7c",
+    "postal": "757012"
+  },
+  {
+    "name": "Nenek Recipe (S19) @ FM FOODMASTER",
+    "address": "9 JURONG WEST AVENUE 5 #01-09, STALL 19 649487",
+    "type": "Hawker",
+    "number": "EEHK20250000030",
+    "scheme": "Eating Establishment",
+    "id": "c00e82de-3643-44db-bf9c-f811de4a8838",
+    "postal": "649487"
+  },
+  {
+    "name": "Nenek Recipe Indonesian Grill & BBQ (MR2) @ Food More Jurong",
+    "address": "3 YUAN CHING ROAD #01-01, MR2 618642",
+    "type": "Hawker",
+    "number": "EEHK20230001161",
+    "scheme": "Eating Establishment",
+    "id": "f0a6cc48-64a8-4e3f-92d7-57eb07e10079",
+    "postal": "618642"
+  },
+  {
     "name": "Neo Group Bakery Pte Ltd",
     "address": "30B QUALITY ROAD 06-01/02 618826",
     "type": "Central Kitchen",
@@ -22226,7 +22271,7 @@
     "type": "Hawker",
     "number": "EEHK20250000120",
     "scheme": "Eating Establishment",
-    "id": "897482d6-6a2e-4ff9-b02e-3a8c2e2550c2",
+    "id": "98ee1f0a-51fe-43dd-b422-c358e1bdc5a0",
     "postal": "238895"
   },
   {
@@ -22235,7 +22280,7 @@
     "type": "Hawker",
     "number": "EEHK20240001251",
     "scheme": "Eating Establishment",
-    "id": "34c8cee8-2801-4ca0-aae1-28e1a44b9d40",
+    "id": "98ee1f0a-51fe-43dd-b422-c358e1bdc5a0",
     "postal": "828761"
   },
   {
@@ -24224,7 +24269,7 @@
     "type": "Hawker",
     "number": "EEHK20250000037",
     "scheme": "Eating Establishment",
-    "id": "a770e71f-f7c0-477e-a386-0513583475a8",
+    "id": "67abef24-3c17-442d-ba09-5630ec42f1e1",
     "postal": "750105"
   },
   {
@@ -25407,15 +25452,6 @@
     "postal": "828761"
   },
   {
-    "name": "Sanook Kitchen",
-    "address": "17 Petir Road #01-17/18 Hillion Mall 678278",
-    "type": "Restaurant",
-    "number": "EERT20230000517",
-    "scheme": "Eating Establishment",
-    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-    "postal": "678278"
-  },
-  {
     "name": "Sari Rasa Eating House",
     "address": "430 UPPER CHANGI ROAD 01-10/11 EAST VILLAGE 487048",
     "type": "Restaurant",
@@ -26449,6 +26485,15 @@
     "scheme": "Eating Establishment",
     "id": "de759219-0afb-4576-a7f2-a57afe883af1",
     "postal": "465492"
+  },
+  {
+    "name": "SIZZLING HOTPLATE (S12) @ Foodgle Hub ITE College Central",
+    "address": "2 ANG MO KIO DRIVE #01-14/29 ITE COLLEGE CENTRAL, Stall 12 567720",
+    "type": "Hawker",
+    "number": "EEHK20240001291",
+    "scheme": "Eating Establishment",
+    "id": "fd8852c3-98bd-4d1f-87cc-30d12fb5c59f",
+    "postal": "567720"
   },
   {
     "name": "Smashed SG (S14) @ Foodies' Clan T2 Staff Canteen",
@@ -30031,15 +30076,6 @@
     "scheme": "Eating Establishment",
     "id": "f8a553df-8b21-4c61-881f-cfef28b2854d",
     "postal": "640456"
-  },
-  {
-    "name": "THAI MAKAN (S10) @ CANTINE JURONG POINT",
-    "address": "1 JURONG WEST CENTRAL 2 #B1-42/43/44 JURONG POINT, Stall 10 648886",
-    "type": "Hawker",
-    "number": "EEHK20240000153",
-    "scheme": "Eating Establishment",
-    "id": "84bda1c3-5fea-4075-b1f7-82be577776b5",
-    "postal": "648886"
   },
   {
     "name": "THAI MAKAN (S12) @ KOPITIAM TAN TOCK SENG HOSPITAL",
