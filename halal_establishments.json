@@ -3249,6 +3249,15 @@
     "postal": "819665"
   },
   {
+    "name": "Beradik (S3) @ Cookhouse Whitesand",
+    "address": "1 PASIR RIS CENTRAL STREET 3 #03-01/02/26, Stall 3 518457",
+    "type": "Hawker",
+    "number": "EEHK20240000547",
+    "scheme": "Eating Establishment",
+    "id": "efe4941a-c110-45ea-83f1-96cb15fb593f",
+    "postal": "518457"
+  },
+  {
     "name": "Beradik (S5) @ Boleh Boleh Harbourfront",
     "address": "1 MARITIME SQUARE #01-103/104/105/106/107/108 HARBOURFRONT CENTRE, STALL 5 099253",
     "type": "Hawker",
@@ -3283,6 +3292,15 @@
     "scheme": "Eating Establishment",
     "id": "6ffc5a28-9ba0-4258-bc3d-5ae677b2a41e",
     "postal": "529510"
+  },
+  {
+    "name": "Beradik Western  (S9) @ Kopitiam Food Hall Plaza SIngapura",
+    "address": "68 ORCHARD ROAD #06-15/16/17 PLAZA SINGAPURA, STALL 9 238839",
+    "type": "Hawker",
+    "number": "EEHK20240000582",
+    "scheme": "Eating Establishment",
+    "id": "ead04ea6-3f13-480a-b0f6-d283e3df68cf",
+    "postal": "238839"
   },
   {
     "name": "Beradik Western (S6) @ Kopitiam Changi Airport T3",
@@ -4519,15 +4537,6 @@
   },
   {
     "name": "BURGER KING",
-    "address": "1 LOWER KENT RIDGE ROAD #03-09/10/11 119082",
-    "type": "Restaurant",
-    "number": "EERX20030011324",
-    "scheme": "Eating Establishment",
-    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
-    "postal": "119082"
-  },
-  {
-    "name": "BURGER KING",
     "address": "460 ALEXANDRA ROAD #01-17/20 ALEXANDRA RETAIL CENTER 119963",
     "type": "Restaurant",
     "number": "EERN20030011327",
@@ -4687,6 +4696,15 @@
     "scheme": "Eating Establishment",
     "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
     "postal": "758459"
+  },
+  {
+    "name": "BURGER KING",
+    "address": "1 LOWER KENT RIDGE ROAD #03-09/10/11 119082",
+    "type": "Restaurant",
+    "number": "EERX20030011324",
+    "scheme": "Eating Establishment",
+    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+    "postal": "119082"
   },
   {
     "name": "Butcher Kitchen @ Hotel Jen Singapore Tanglin by Shangri-La",
@@ -14338,15 +14356,6 @@
   },
   {
     "name": "Kazo",
-    "address": "53 ANG MO KIO AVENUE 3 #01-17/18 AMK HUB 569933",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20240000051",
-    "scheme": "Eating Establishment",
-    "id": "911cb7f7-438a-4583-a323-1e96bb9071a4",
-    "postal": "569933"
-  },
-  {
-    "name": "Kazo",
     "address": "17 PETIR ROAD #B2-11 HILLION MALL 678278",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000052",
@@ -14371,6 +14380,15 @@
     "scheme": "Eating Establishment",
     "id": "911cb7f7-438a-4583-a323-1e96bb9071a4",
     "postal": "238873"
+  },
+  {
+    "name": "Kazo",
+    "address": "53 ANG MO KIO AVENUE 3 #01-17/18 AMK HUB 569933",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20240000051",
+    "scheme": "Eating Establishment",
+    "id": "911cb7f7-438a-4583-a323-1e96bb9071a4",
+    "postal": "569933"
   },
   {
     "name": "Kazo",
@@ -16164,6 +16182,15 @@
     "postal": "588996"
   },
   {
+    "name": "Lai Makan by Orchid Thai",
+    "address": "30 HOSPITAL BOULEVARD #02-04 NATIONAL CANCER CENTRE SINGAPORE 168583",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26010000017",
+    "scheme": "Eating Establishment",
+    "id": "b94b3598-1f9b-4914-9932-4bba53944db0",
+    "postal": "168583"
+  },
+  {
     "name": "LAM(P.K.) POULTRY SUPPLY",
     "address": "1 GEYLANG SERAI #01-102 GEYLANG SERAI MARKET 402001",
     "type": "Hawker",
@@ -16774,6 +16801,15 @@
     "scheme": "Eating Establishment",
     "id": "d4d18501-f61d-49ac-9cbb-b0613aae207e",
     "postal": "419725"
+  },
+  {
+    "name": "MACPHERSON CAFE CORNER",
+    "address": "456 MACPHERSON ROAD #1st storey 368174",
+    "type": "Restaurant",
+    "number": "EERT26010000022",
+    "scheme": "Eating Establishment",
+    "id": "040c9eed-966a-4fa8-954a-ed25ba6b27f9",
+    "postal": "368174"
   },
   {
     "name": "MAGIC WOK FAMILY RESTAURANT",
@@ -22284,8 +22320,8 @@
     "postal": "828761"
   },
   {
-    "name": "Pepper Plus Rice (MR4) @ Cantine Paya Lebar Square",
-    "address": "60 PAYA LEBAR ROAD #B1-51 PAYA LEBAR SQUARE,Stall MR4 409051",
+    "name": "Pepper Plus Rice",
+    "address": "60 PAYA LEBAR ROAD #B1-51 PAYA LEBAR SQUARE, Stall MR4 409051",
     "type": "Hawker",
     "number": "EEHK20250000041",
     "scheme": "Eating Establishment",
@@ -23761,15 +23797,6 @@
   },
   {
     "name": "PRIMADELI",
-    "address": "1 PASIR RIS CLOSE #02-K3/K4 E!HUB@DOWNTOWN EAST 519599",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000732",
-    "scheme": "Eating Establishment",
-    "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
-    "postal": "519599"
-  },
-  {
-    "name": "PRIMADELI",
     "address": "21 CHOA CHU KANG AVENUE 4 #B1-K25 LOT ONE, SHOPPERS' MALL 689812",
     "type": "Snack Bar / Bakery",
     "number": "EESB20250000738",
@@ -23812,6 +23839,15 @@
     "scheme": "Eating Establishment",
     "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
     "postal": "518457"
+  },
+  {
+    "name": "PRIMADELI",
+    "address": "1 PASIR RIS CLOSE #02-K3/K4 E!HUB@DOWNTOWN EAST 519599",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000732",
+    "scheme": "Eating Establishment",
+    "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+    "postal": "519599"
   },
   {
     "name": "PRIMADELI",
@@ -24172,6 +24208,15 @@
     "scheme": "Eating Establishment",
     "id": "fa8fee7f-7bbf-4f29-b6e5-972f803f3dc3",
     "postal": "608532"
+  },
+  {
+    "name": "Ramnad Ponni Mess",
+    "address": "11 HINDOO ROAD WELLNESS BUILDING 209110",
+    "type": "Restaurant",
+    "number": "EERT26010000002",
+    "scheme": "Eating Establishment",
+    "id": "6ce7ca76-44ed-42c0-8bc1-7a43c981db78",
+    "postal": "209110"
   },
   {
     "name": "Rampage Western Food",
@@ -29512,7 +29557,7 @@
   },
   {
     "name": "TDR Malay Kitchen @ Marina Bay Sands",
-    "address": "1 BAYFRONT AVENUE #B2 MARINA BAY SANDS,B2 STAFF CANTEEN TEAM DINING RM 018971",
+    "address": "1 BAYFRONT AVENUE #B2 MARINA BAY SANDS, B2 STAFF CANTEEN TEAM DINING RM 018971",
     "type": "Staff Canteen",
     "number": "EEFX21120012551",
     "scheme": "Eating Establishment",

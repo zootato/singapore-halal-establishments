@@ -1,5 +1,106 @@
 [
   {
+    "timestamp": "2026-01-14T22:17:44.562578",
+    "date": "2026-01-14",
+    "summary": {
+      "new": 5,
+      "removed": 0,
+      "updated": 2
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Lai Makan by Orchid Thai",
+          "address": "30 HOSPITAL BOULEVARD #02-04 NATIONAL CANCER CENTRE SINGAPORE 168583",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26010000017",
+          "scheme": "Eating Establishment",
+          "id": "b94b3598-1f9b-4914-9932-4bba53944db0",
+          "postal": "168583"
+        },
+        {
+          "name": "Beradik Western  (S9) @ Kopitiam Food Hall Plaza SIngapura",
+          "address": "68 ORCHARD ROAD #06-15/16/17 PLAZA SINGAPURA, STALL 9 238839",
+          "type": "Hawker",
+          "number": "EEHK20240000582",
+          "scheme": "Eating Establishment",
+          "id": "ead04ea6-3f13-480a-b0f6-d283e3df68cf",
+          "postal": "238839"
+        },
+        {
+          "name": "Beradik (S3) @ Cookhouse Whitesand",
+          "address": "1 PASIR RIS CENTRAL STREET 3 #03-01/02/26, Stall 3 518457",
+          "type": "Hawker",
+          "number": "EEHK20240000547",
+          "scheme": "Eating Establishment",
+          "id": "efe4941a-c110-45ea-83f1-96cb15fb593f",
+          "postal": "518457"
+        },
+        {
+          "name": "Ramnad Ponni Mess",
+          "address": "11 HINDOO ROAD WELLNESS BUILDING 209110",
+          "type": "Restaurant",
+          "number": "EERT26010000002",
+          "scheme": "Eating Establishment",
+          "id": "6ce7ca76-44ed-42c0-8bc1-7a43c981db78",
+          "postal": "209110"
+        },
+        {
+          "name": "MACPHERSON CAFE CORNER",
+          "address": "456 MACPHERSON ROAD #1st storey 368174",
+          "type": "Restaurant",
+          "number": "EERT26010000022",
+          "scheme": "Eating Establishment",
+          "id": "040c9eed-966a-4fa8-954a-ed25ba6b27f9",
+          "postal": "368174"
+        }
+      ],
+      "removed": [],
+      "updated": [
+        {
+          "previous": {
+            "name": "TDR Malay Kitchen @ Marina Bay Sands",
+            "address": "1 BAYFRONT AVENUE #B2 MARINA BAY SANDS,B2 STAFF CANTEEN TEAM DINING RM 018971",
+            "type": "Staff Canteen",
+            "number": "EEFX21120012551",
+            "scheme": "Eating Establishment",
+            "id": "3d777f98-3a42-45b9-920a-df1dee8d5077",
+            "postal": "018971"
+          },
+          "current": {
+            "name": "TDR Malay Kitchen @ Marina Bay Sands",
+            "address": "1 BAYFRONT AVENUE #B2 MARINA BAY SANDS, B2 STAFF CANTEEN TEAM DINING RM 018971",
+            "type": "Staff Canteen",
+            "number": "EEFX21120012551",
+            "scheme": "Eating Establishment",
+            "id": "3d777f98-3a42-45b9-920a-df1dee8d5077",
+            "postal": "018971"
+          }
+        },
+        {
+          "previous": {
+            "name": "Pepper Plus Rice (MR4) @ Cantine Paya Lebar Square",
+            "address": "60 PAYA LEBAR ROAD #B1-51 PAYA LEBAR SQUARE,Stall MR4 409051",
+            "type": "Hawker",
+            "number": "EEHK20250000041",
+            "scheme": "Eating Establishment",
+            "id": "499b8957-6170-46f6-9ad2-07a81d2f4cd9",
+            "postal": "409051"
+          },
+          "current": {
+            "name": "Pepper Plus Rice",
+            "address": "60 PAYA LEBAR ROAD #B1-51 PAYA LEBAR SQUARE, Stall MR4 409051",
+            "type": "Hawker",
+            "number": "EEHK20250000041",
+            "scheme": "Eating Establishment",
+            "id": "499b8957-6170-46f6-9ad2-07a81d2f4cd9",
+            "postal": "409051"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-01-13T22:17:46.825410",
     "date": "2026-01-13",
     "summary": {
@@ -10842,49 +10943,6 @@
           "scheme": "Eating Establishment",
           "id": "7ff20024-e719-4938-b00e-547276bea89c",
           "postal": "518457"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2025-11-08T22:13:59.970893",
-    "date": "2025-11-08",
-    "summary": {
-      "new": 1,
-      "removed": 2,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Aishwarya Kitchen (S2) @ Adi Foods",
-          "address": "180 WOODLANDS INDUSTRIAL PARK E5 #01-01 WOODLANDS AUTO HUB, STALL 2 757512",
-          "type": "Hawker",
-          "number": "EEHN21100012688",
-          "scheme": "Eating Establishment",
-          "id": "e3e6339f-2dc4-40cc-b8a7-80d315beebd3",
-          "postal": "757512"
-        }
-      ],
-      "removed": [
-        {
-          "name": "SUBWAY",
-          "address": "31 WOODLANDS AVENUE 6 #01-02 WOODLANDS GALAXY COMMUNITY CLUB 738991",
-          "type": "Restaurant",
-          "number": "EERN21120013223",
-          "scheme": "Eating Establishment",
-          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-          "postal": "738991"
-        },
-        {
-          "name": "Sanook Kitchen",
-          "address": "180 KITCHENER ROAD #02-33/56 CITY SQUARE MALL 208539",
-          "type": "Restaurant",
-          "number": "EERT20250000405",
-          "scheme": "Eating Establishment",
-          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-          "postal": "208539"
         }
       ],
       "updated": []
