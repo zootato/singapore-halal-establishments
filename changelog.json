@@ -1,5 +1,129 @@
 [
   {
+    "timestamp": "2026-01-15T22:17:24.753500",
+    "date": "2026-01-15",
+    "summary": {
+      "new": 10,
+      "removed": 2,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "NAMU BULGOGI",
+          "address": "17 PETIR ROAD #B2-55-56 BUKIT PANJANG INTEGRATED TRANSPORT HUB 678278",
+          "type": "Restaurant",
+          "number": "EERT20250000778",
+          "scheme": "Eating Establishment",
+          "id": "d49cd0f6-e81b-4a10-809e-9c9d95552c9e",
+          "postal": "678278"
+        },
+        {
+          "name": "GOGO FRANKS",
+          "address": "63 JURONG WEST CENTRAL 3 #03-89B JURONG POINT 648331",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21100012892",
+          "scheme": "Eating Establishment",
+          "id": "46dc3d57-aa01-4556-b871-2900a6a3a796",
+          "postal": "648331"
+        },
+        {
+          "name": "MONSTER PLANET",
+          "address": "50 JURONG GATEWAY ROAD #01-07 JEM 608549",
+          "type": "Restaurant",
+          "number": "EERN21120013344",
+          "scheme": "Eating Establishment",
+          "id": "206ff1ce-bbee-425d-ad7b-5589d2378f5d",
+          "postal": "608549"
+        },
+        {
+          "name": "NAMU BULGOGI",
+          "address": "10 TAMPINES CENTRAL 1 #B1-K18 TAMPINES ONE 529536",
+          "type": "Restaurant",
+          "number": "EERT20240001289",
+          "scheme": "Eating Establishment",
+          "id": "d49cd0f6-e81b-4a10-809e-9c9d95552c9e",
+          "postal": "529536"
+        },
+        {
+          "name": "Firefry Thai Snacks",
+          "address": "3 SIMEI STREET 6 #01-01C EASTPOINT MALL 528833",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26010000040",
+          "scheme": "Eating Establishment",
+          "id": "d4bb77c7-6cf2-4bef-9fd3-4e752c83238e",
+          "postal": "528833"
+        },
+        {
+          "name": "Pratunam",
+          "address": "418 NORTHSHORE DRIVE #02-01 NORTHSHORE PLAZA II 820418",
+          "type": "Restaurant",
+          "number": "EERT26010000039",
+          "scheme": "Eating Establishment",
+          "id": "77c49e4d-695d-41e7-8daf-91f688fd6a0e",
+          "postal": "820418"
+        },
+        {
+          "name": "MONSTER PLANET",
+          "address": "176 ORCHARD ROAD #01-33C/D THE CENTREPOINT 238843",
+          "type": "Restaurant",
+          "number": "EERN21120013345",
+          "scheme": "Eating Establishment",
+          "id": "206ff1ce-bbee-425d-ad7b-5589d2378f5d",
+          "postal": "238843"
+        },
+        {
+          "name": "CHICKATA CAFE",
+          "address": "200 BEDOK NORTH AVENUE 1 #01-7B 469752",
+          "type": "Restaurant",
+          "number": "EERT26010000046",
+          "scheme": "Eating Establishment",
+          "id": "fc5b2678-c40a-4cd5-88bc-370a6e291c11",
+          "postal": "469752"
+        },
+        {
+          "name": "NAMU BULGOGI",
+          "address": "1 NORTHPOINT DRIVE #B1-181 NEE SOON CENTRAL COMMUNITY CLUB 768019",
+          "type": "Restaurant",
+          "number": "EERT26010000019",
+          "scheme": "Eating Establishment",
+          "id": "d49cd0f6-e81b-4a10-809e-9c9d95552c9e",
+          "postal": "768019"
+        },
+        {
+          "name": "Pratunam Plus & Firefry Thai Snacks",
+          "address": "201 VICTORIA STREET #04-09 BUGIS+ 188067",
+          "type": "Restaurant",
+          "number": "EERT26010000038",
+          "scheme": "Eating Establishment",
+          "id": "19ee0c08-5cee-42da-ac70-58a87d1ccb45",
+          "postal": "188067"
+        }
+      ],
+      "removed": [
+        {
+          "name": "TEXAS CHICKEN",
+          "address": "638 JURONG WEST STREET 61 #02-01 PIONEER MALL 640638",
+          "type": "Restaurant",
+          "number": "EERN21120013350",
+          "scheme": "Eating Establishment",
+          "id": "53c88848-1280-4fee-b6dc-b5d1d941c07d",
+          "postal": "640638"
+        },
+        {
+          "name": "QI JI",
+          "address": "107 NORTH BRIDGE ROAD #B2-12 FUNAN 179105",
+          "type": "Restaurant",
+          "number": "EERN21050012345",
+          "scheme": "Eating Establishment",
+          "id": "01cd5d67-3096-4ef7-bc6a-394a937ea753",
+          "postal": "179105"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-01-14T22:17:44.562578",
     "date": "2026-01-14",
     "summary": {
@@ -10783,166 +10907,6 @@
           "scheme": "Food Preparation Area",
           "id": "2a5fabf9-a7f1-4fd4-be7f-d318cf02aa32",
           "postal": "757437"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2025-11-11T22:15:58.662370",
-    "date": "2025-11-11",
-    "summary": {
-      "new": 13,
-      "removed": 3,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "SAKUNTHALA'S RESTAURANT",
-          "address": "149/151/151A DUNLOP STREET 209466",
-          "type": "Catering Company",
-          "number": "FPCA20220000677",
-          "scheme": "Food Preparation Area",
-          "id": "7bc77553-2f6f-4917-affa-fea075357088",
-          "postal": "209466"
-        },
-        {
-          "name": "SAKUNTHALA'S",
-          "address": "2 TELOK BLANGAH WAY #01-07 SAFRA CLUBHOUSE (MOUNT FABER) 098803",
-          "type": "Restaurant",
-          "number": "EERT20220000680",
-          "scheme": "Eating Establishment",
-          "id": "473c4f3d-de2e-4247-9fb9-1bbd5a1c7f6e",
-          "postal": "098803"
-        },
-        {
-          "name": "Sakunthala's Food Manufacturers Pte Ltd",
-          "address": "8A ADMIRALTY STREET #02-25 Food Xchange @ Admiralty 757437",
-          "type": "Central Kitchen",
-          "number": "FPCX21070001565",
-          "scheme": "Food Preparation Area",
-          "id": "bf2e3aa1-244a-44f7-802f-8d276e2077b1",
-          "postal": "757437"
-        },
-        {
-          "name": "SAKUNTHALA'S FOOD PALACE",
-          "address": "66 RACE COURSE ROAD 218570",
-          "type": "Restaurant",
-          "number": "EERT20220000675",
-          "scheme": "Eating Establishment",
-          "id": "025ba334-83e8-4f35-90bc-0120b4f1dd1d",
-          "postal": "218570"
-        },
-        {
-          "name": "SAKUNTHALA'S FOOD MANUFACTURERS PTE. LTD.",
-          "address": "8A ADMIRALTY STREET #02-16 FOOD XCHANGE @ ADMIRALTY 757437",
-          "type": "Central Kitchen",
-          "number": "FPCK20220000682",
-          "scheme": "Food Preparation Area",
-          "id": "5ac28c77-5d5a-414d-a474-474a796bee84",
-          "postal": "757437"
-        },
-        {
-          "name": "HOUSE OF WHITE BEE HOON",
-          "address": "500 NEW PUNGGOL ROAD #01-10 THE PUNGGOL SETTLEMENT 828617",
-          "type": "Restaurant",
-          "number": "EERT20250000009",
-          "scheme": "Eating Establishment",
-          "id": "ca2b4b04-de01-47f3-b0a4-bef9dc5e9506",
-          "postal": "828617"
-        },
-        {
-          "name": "SAKUNTHALA'S RESTAURANT",
-          "address": "88 SYED ALWI ROAD #01-01 207667",
-          "type": "Restaurant",
-          "number": "EERT20220000678",
-          "scheme": "Eating Establishment",
-          "id": "7bc77553-2f6f-4917-affa-fea075357088",
-          "postal": "207667"
-        },
-        {
-          "name": "SAKUNTHALA'S RESTAURANT",
-          "address": "149/151/151A DUNLOP STREET 209466",
-          "type": "Restaurant",
-          "number": "EERT20220000676",
-          "scheme": "Eating Establishment",
-          "id": "7bc77553-2f6f-4917-affa-fea075357088",
-          "postal": "209466"
-        },
-        {
-          "name": "SAKUNTHALA'S RESTAURANT",
-          "address": "3 NORTHPOINT DRIVE #01-01 768020",
-          "type": "Restaurant",
-          "number": "EERT20220000681",
-          "scheme": "Eating Establishment",
-          "id": "7bc77553-2f6f-4917-affa-fea075357088",
-          "postal": "768020"
-        },
-        {
-          "name": "Sakunthala's Food Manufacturers Pte Ltd",
-          "address": "8A ADMIRALTY STREET #02-15 FOOD XCHANGE @ ADMIRALTY 757437",
-          "type": "Central Kitchen",
-          "number": "FPCN21070001566",
-          "scheme": "Food Preparation Area",
-          "id": "bf2e3aa1-244a-44f7-802f-8d276e2077b1",
-          "postal": "757437"
-        },
-        {
-          "name": "SAKUNTHALA'S RESTAURANT",
-          "address": "8 CHANGI BUSINESS PARK AVENUE 1 #01-53 UE BIZHUB EAST 486018",
-          "type": "Restaurant",
-          "number": "EERT20220000679",
-          "scheme": "Eating Establishment",
-          "id": "7bc77553-2f6f-4917-affa-fea075357088",
-          "postal": "486018"
-        },
-        {
-          "name": "Sanook Kitchen",
-          "address": "180 KITCHENER ROAD #02-33/56 CITY SQUARE MALL 208539",
-          "type": "Restaurant",
-          "number": "EERT20250000405",
-          "scheme": "Eating Establishment",
-          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-          "postal": "208539"
-        },
-        {
-          "name": "SAKUNTHALA'S FOOD MANUFACTURERS PTE. LTD.",
-          "address": "8A ADMIRALTY STREET #02-24 FOOD XCHANGE @ ADMIRALTY 757437",
-          "type": "Central Kitchen",
-          "number": "FPCK20220000683",
-          "scheme": "Food Preparation Area",
-          "id": "5ac28c77-5d5a-414d-a474-474a796bee84",
-          "postal": "757437"
-        }
-      ],
-      "removed": [
-        {
-          "name": "4FINGERS CRISPY CHICKEN",
-          "address": "50 JURONG GATEWAY ROAD #01-15A JEM 608549",
-          "type": "Restaurant",
-          "number": "EERN21070012611",
-          "scheme": "Eating Establishment",
-          "id": "90b83324-363a-4406-9afa-08b19b67522d",
-          "postal": "608549"
-        },
-        {
-          "name": "ORDINARY BURGERS",
-          "address": "180 KITCHENER ROAD #B1-K11 CITY SQUARE MALL 208539",
-          "type": "Restaurant",
-          "number": "EERN21110012965",
-          "scheme": "Eating Establishment",
-          "id": "67760be7-1a35-4c35-bd42-70e905c0dcc9",
-          "postal": "208539"
-        },
-        {
-          "name": "Poulet",
-          "address": "1 PASIR RIS CENTRAL STREET 3 #02-01/03 White Sands 518457",
-          "type": "Restaurant",
-          "number": "EERN21110013050",
-          "scheme": "Eating Establishment",
-          "id": "7ff20024-e719-4938-b00e-547276bea89c",
-          "postal": "518457"
         }
       ],
       "updated": []
