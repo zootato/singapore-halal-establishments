@@ -486,6 +486,15 @@
     "postal": "534733"
   },
   {
+    "name": "511 Nasi Lemak",
+    "address": "511 BEDOK NORTH STREET 3 stall 10 #01-41 KAKI BUKIT 511 MARKET AND FOOD CENTRE 460511",
+    "type": "Hawker",
+    "number": "EEHK26010000045",
+    "scheme": "Eating Establishment",
+    "id": "5d32eab1-339a-46f2-b974-4f3e3ff459b9",
+    "postal": "460511"
+  },
+  {
     "name": "54 BAKERY CAFE",
     "address": "2 VENTURE DRIVE #02-46 VISION EXCHANGE 608526",
     "type": "Restaurant",
@@ -817,6 +826,15 @@
     "scheme": "Eating Establishment",
     "id": "a38ed3f3-c19b-4c8c-9a5f-858750d8c7af",
     "postal": "120503"
+  },
+  {
+    "name": "ADAM ROAD MEE SOTO",
+    "address": "30 RAFFLES PLACE #B1-08/09 CIMB PLAZA 048622",
+    "type": "Restaurant",
+    "number": "EERT26010000032",
+    "scheme": "Eating Establishment",
+    "id": "db836bcb-d410-467a-a964-99d33712b2aa",
+    "postal": "048622"
   },
   {
     "name": "Add More Mala Hot Pot (Stall 49) @ Bukit Canberra Hawker Centre",
@@ -1621,21 +1639,21 @@
   },
   {
     "name": "ANDES",
-    "address": "750 Chai Chee Road #01-30 Technopark @ Chai Chee 469000",
-    "type": "Restaurant",
-    "number": "EERN21070012652",
-    "scheme": "Eating Establishment",
-    "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
-    "postal": "469000"
-  },
-  {
-    "name": "ANDES",
     "address": "2 JURONG EAST STREET 21 #01-96 IMM BUILDING 609601",
     "type": "Restaurant",
     "number": "EERT20240001249",
     "scheme": "Eating Establishment",
     "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
     "postal": "609601"
+  },
+  {
+    "name": "ANDES",
+    "address": "750 Chai Chee Road #01-30 Technopark @ Chai Chee 469000",
+    "type": "Restaurant",
+    "number": "EERN21070012652",
+    "scheme": "Eating Establishment",
+    "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
+    "postal": "469000"
   },
   {
     "name": "ANDES",
@@ -7137,6 +7155,60 @@
     "postal": "069183"
   },
   {
+    "name": "D'RUBINAH CATERING & RKA FOOD INDUSTRIES PTE LTD.",
+    "address": "8A ADMIRALTY STREET #03-31 FOOD XCHANGE @ ADMIRALTY 757437",
+    "type": "Catering Company",
+    "number": "FPCA20240001162",
+    "scheme": "Food Preparation Area",
+    "id": "7cfb64aa-7ac1-4c1a-afb3-9d3666b95597",
+    "postal": "757437"
+  },
+  {
+    "name": "D'RUBINAH EATING CORNER",
+    "address": "846 YISHUN RING ROAD #01-3659 KHATIB CENTRAL 760846",
+    "type": "Restaurant",
+    "number": "EERX21070012660",
+    "scheme": "Eating Establishment",
+    "id": "51a2cd56-09f7-481a-870d-edfca7aba830",
+    "postal": "760846"
+  },
+  {
+    "name": "D'RUBINAH EATING PLACE PTE. LTD.",
+    "address": "461 YISHUN AVENUE 6 #01-13 MULTI STOREY CAR PARK 760461",
+    "type": "Restaurant",
+    "number": "EERN21070012658",
+    "scheme": "Eating Establishment",
+    "id": "bbe2b134-1746-4f24-bd11-c05dfa042921",
+    "postal": "760461"
+  },
+  {
+    "name": "D'RUBINAH RESTAURANT",
+    "address": "592 SEMBAWANG ROAD SEMBAWANG SPRINGS ESTATE 758451",
+    "type": "Restaurant",
+    "number": "EERN21070012661",
+    "scheme": "Eating Establishment",
+    "id": "ef5277f6-e71b-478d-bd97-9e29f1baa5d2",
+    "postal": "758451"
+  },
+  {
+    "name": "D'RUBINAH RESTAURANT @ YISHUN (CTL)",
+    "address": "935 YISHUN CENTRAL 1 #01-45 760935",
+    "type": "Restaurant",
+    "number": "EERT20230001075",
+    "scheme": "Eating Establishment",
+    "id": "4eb6069f-8e68-46d6-8ce2-0d52fa5a0efc",
+    "postal": "760935"
+  },
+  {
+    "name": "D'RUBINAH@AMK",
+    "address": "340 ANG MO KIO AVENUE 1 #01-1679 TECK GHEE COURT 560340",
+    "type": "Restaurant",
+    "number": "EERT20230000255",
+    "scheme": "Eating Establishment",
+    "id": "64f9de65-dd28-4d7d-adfc-e9e5ba6bf448",
+    "postal": "560340"
+  },
+  {
     "name": "D's Hood (MR1) @ The Broadway 334A Sembawang",
     "address": "334A SEMBAWANG CLOSE #01-01, STALL MR1 751334",
     "type": "Hawker",
@@ -10366,15 +10438,6 @@
     "scheme": "Eating Establishment",
     "id": "94b436ca-060f-4863-873d-214ddf70e278",
     "postal": "199593"
-  },
-  {
-    "name": "FRUIT PARADISE",
-    "address": "1 HARBOURFRONT WALK #01-59 VIVOCITY 098585",
-    "type": "Restaurant",
-    "number": "EERT20250000375",
-    "scheme": "Eating Establishment",
-    "id": "30abd843-2c8a-42c5-aa10-e511ec3644ba",
-    "postal": "098585"
   },
   {
     "name": "FRUIT PARADISE",
@@ -14374,15 +14437,6 @@
   },
   {
     "name": "Kazo",
-    "address": "7 PASIR RIS CENTRAL #B1-42 519612",
-    "type": "Restaurant",
-    "number": "EERT20250000073",
-    "scheme": "Eating Establishment",
-    "id": "911cb7f7-438a-4583-a323-1e96bb9071a4",
-    "postal": "519612"
-  },
-  {
-    "name": "Kazo",
     "address": "17 PETIR ROAD #B2-11 HILLION MALL 678278",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000052",
@@ -14425,6 +14479,15 @@
     "scheme": "Eating Establishment",
     "id": "766847d6-38ea-4363-818a-36bafdf12534",
     "postal": "768019"
+  },
+  {
+    "name": "Kazo",
+    "address": "7 PASIR RIS CENTRAL #B1-42 519612",
+    "type": "Restaurant",
+    "number": "EERT20250000073",
+    "scheme": "Eating Establishment",
+    "id": "911cb7f7-438a-4583-a323-1e96bb9071a4",
+    "postal": "519612"
   },
   {
     "name": "Kazo",
@@ -23599,15 +23662,6 @@
   },
   {
     "name": "Popeyes Famous Louisiana Chicken",
-    "address": "11 TANJONG KATONG ROAD #01-50/51 KINEX 437157",
-    "type": "Restaurant",
-    "number": "EERT20250000586",
-    "scheme": "Eating Establishment",
-    "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
-    "postal": "437157"
-  },
-  {
-    "name": "Popeyes Famous Louisiana Chicken",
     "address": "30 WOODLANDS AVENUE 2 #01-07, 08, 15 WOODLANDS MRT STATION 738343",
     "type": "Restaurant",
     "number": "EERT20250000446",
@@ -23722,6 +23776,15 @@
     "scheme": "Eating Establishment",
     "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
     "postal": "367803"
+  },
+  {
+    "name": "Popeyes Famous Louisiana Chicken",
+    "address": "11 TANJONG KATONG ROAD #01-50/51 KINEX 437157",
+    "type": "Restaurant",
+    "number": "EERT20250000586",
+    "scheme": "Eating Establishment",
+    "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+    "postal": "437157"
   },
   {
     "name": "Popeyes Famous Louisiana Chicken",
@@ -29016,6 +29079,42 @@
     "postal": "349312"
   },
   {
+    "name": "SUPER SHIOK NASI LEMAK",
+    "address": "216 BEDOK NORTH STREET 1 Stall 11 #01-11 MARKET & HAWKER CENTRE 460216",
+    "type": "Hawker",
+    "number": "EEHK20250000633",
+    "scheme": "Eating Establishment",
+    "id": "e40952d1-a646-422c-b6db-df139d236aec",
+    "postal": "460216"
+  },
+  {
+    "name": "SUPER SHIOK NASI LEMAK",
+    "address": "628 ANG MO KIO AVENUE 4 Stall 96 #01-96 ANG MO KIO MARKET & FOOD CENTRE 560628",
+    "type": "Hawker",
+    "number": "EEHK20250000666",
+    "scheme": "Eating Establishment",
+    "id": "dc83b054-6544-4b41-9b4b-eed0271accf0",
+    "postal": "560628"
+  },
+  {
+    "name": "Super Shiok Nasi Lemak (S115) @Bedok Market & Food Centre",
+    "address": "538 BEDOK NORTH STREET 3 #01-115 460538",
+    "type": "Hawker",
+    "number": "EEHK20240001261",
+    "scheme": "Eating Establishment",
+    "id": "db43b1e2-9224-49c2-b909-11a1bdd74a49",
+    "postal": "460538"
+  },
+  {
+    "name": "SUPER SHIOK NASI LEMAK (S13) @BENDEMEER MARKET & FOOD CENTRE",
+    "address": "29 BENDEMEER ROAD #01-13 Bendemeer Market & Food Centre, Stall 13 330029",
+    "type": "Hawker",
+    "number": "EEHK20240001262",
+    "scheme": "Eating Establishment",
+    "id": "379c7e48-f182-4cbf-b7e4-45290f00a8f7",
+    "postal": "330029"
+  },
+  {
     "name": "SUPER SUSHI",
     "address": "4 TAMPINES CENTRAL 5 #B1-K4 TAMPINES MALL 529510",
     "type": "Snack Bar / Bakery",
@@ -33766,6 +33865,213 @@
     "scheme": "Eating Establishment",
     "id": "6a76fb2a-4645-4920-b4c2-be3159954019",
     "postal": "119078"
+  },
+  {
+    "name": "WOK HEY",
+    "address": "3155 COMMONWEALTH AVENUE WEST #B1-K22 THE CLEMENTI MALL 129588",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN20090011430",
+    "scheme": "Eating Establishment",
+    "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+    "postal": "129588"
+  },
+  {
+    "name": "WOK HEY",
+    "address": "238 THOMSON ROAD #01-23 NOVENA SQUARE 307683",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN20090011413",
+    "scheme": "Eating Establishment",
+    "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+    "postal": "307683"
+  },
+  {
+    "name": "WOK HEY",
+    "address": "11 BIDADARI PARK DRIVE #B1-K4 THE WOODLEIGH MALL 367803",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20230000891",
+    "scheme": "Eating Establishment",
+    "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+    "postal": "367803"
+  },
+  {
+    "name": "WOK HEY",
+    "address": "21 CHOA CHU KANG AVENUE 4 #B1-K27 LOT ONE, SHOPPERS' MALL 689812",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN21070012608",
+    "scheme": "Eating Establishment",
+    "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+    "postal": "689812"
+  },
+  {
+    "name": "WOK HEY",
+    "address": "252 NORTH BRIDGE ROAD #B1-72 RAFFLES CITY SHOPPING CENTRE 179103",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN20090011424",
+    "scheme": "Eating Establishment",
+    "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+    "postal": "179103"
+  },
+  {
+    "name": "WOK HEY",
+    "address": "9 RAFFLES PLACE #B1-15 REPUBLIC PLAZA 048619",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN20090011427",
+    "scheme": "Eating Establishment",
+    "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+    "postal": "048619"
+  },
+  {
+    "name": "WOK HEY",
+    "address": "1 SENGKANG SQUARE #B1-42 COMPASS ONE 545078",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN20090011416",
+    "scheme": "Eating Establishment",
+    "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+    "postal": "545078"
+  },
+  {
+    "name": "WOK HEY",
+    "address": "9 BISHAN PLACE #B1-11 JUNCTION 8 SHOPPING CENTRE 579837",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN20090011421",
+    "scheme": "Eating Establishment",
+    "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+    "postal": "579837"
+  },
+  {
+    "name": "WOK HEY",
+    "address": "60 PAYA LEBAR ROAD #01-62 PAYA LEBAR SQUARE 409051",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN20090011417",
+    "scheme": "Eating Establishment",
+    "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+    "postal": "409051"
+  },
+  {
+    "name": "WOK HEY",
+    "address": "68 ORCHARD ROAD #B2-31 PLAZA SINGAPURA 238839",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN20090011425",
+    "scheme": "Eating Establishment",
+    "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+    "postal": "238839"
+  },
+  {
+    "name": "WOK HEY",
+    "address": "200 VICTORIA STREET #B1-K2 BUGIS JUNCTION 188021",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20240000705",
+    "scheme": "Eating Establishment",
+    "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+    "postal": "188021"
+  },
+  {
+    "name": "WOK HEY",
+    "address": "311 NEW UPPER CHANGI ROAD #B2-K9 BEDOK MALL 467360",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN20090011412",
+    "scheme": "Eating Establishment",
+    "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+    "postal": "467360"
+  },
+  {
+    "name": "WOK HEY",
+    "address": "930 YISHUN AVENUE 2 #B1-41 NORTHPOINT CITY 769098",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN20110011491",
+    "scheme": "Eating Establishment",
+    "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+    "postal": "769098"
+  },
+  {
+    "name": "WOK HEY",
+    "address": "30 SEMBAWANG DRIVE #B1-39 SUN PLAZA 757713",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN22020013141",
+    "scheme": "Eating Establishment",
+    "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+    "postal": "757713"
+  },
+  {
+    "name": "WOK HEY",
+    "address": "53 ANG MO KIO AVENUE 3 #01-36 AMK HUB, (PART OF) LEFT UNIT 569933",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN20090011420",
+    "scheme": "Eating Establishment",
+    "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+    "postal": "569933"
+  },
+  {
+    "name": "WOK HEY",
+    "address": "1 TAMPINES WALK #01-82A OUR TAMPINES HUB 528523",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN22020013109",
+    "scheme": "Eating Establishment",
+    "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+    "postal": "528523"
+  },
+  {
+    "name": "WOK HEY",
+    "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #B1-07 CHANGI CITY POINT 486038",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20220000297",
+    "scheme": "Eating Establishment",
+    "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+    "postal": "486038"
+  },
+  {
+    "name": "WOK HEY",
+    "address": "30 SIMEI STREET 3 #01-03 SIMEI MRT STATION 529888",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20220000549",
+    "scheme": "Eating Establishment",
+    "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+    "postal": "529888"
+  },
+  {
+    "name": "WOK HEY",
+    "address": "10 BUKIT BATOK CENTRAL #01-15 BUKIT BATOK MRT STATION 659958",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20230000139",
+    "scheme": "Eating Establishment",
+    "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+    "postal": "659958"
+  },
+  {
+    "name": "WOK HEY",
+    "address": "1 LOWER KENT RIDGE ROAD #01-25 NUH MEDICAL CENTRE, (CENTER PART OF) 119082",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20230000254",
+    "scheme": "Eating Establishment",
+    "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+    "postal": "119082"
+  },
+  {
+    "name": "WOK HEY",
+    "address": "2 JURONG EAST STREET 21 #01-K02 IMM BUILDING 609601",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN20090011423",
+    "scheme": "Eating Establishment",
+    "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+    "postal": "609601"
+  },
+  {
+    "name": "WOK HEY",
+    "address": "1 JURONG EAST STREET 21 LEFT PART OF 609606 #02-08 NG TENG FONG HOSPITAL 609606",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000198",
+    "scheme": "Eating Establishment",
+    "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+    "postal": "609606"
+  },
+  {
+    "name": "WOK HEY",
+    "address": "133 NEW BRIDGE ROAD #B1-52C CHINATOWN POINT, (PART OF RIGHT) 059413",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN20090011432",
+    "scheme": "Eating Establishment",
+    "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+    "postal": "059413"
   },
   {
     "name": "Wok Qi Fried Rice",
