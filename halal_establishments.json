@@ -12916,7 +12916,7 @@
   },
   {
     "name": "HUGABO",
-    "address": "7 WALLICH STREET #B1-23 GUOCO TOWER,(right part of) 078884",
+    "address": "7 WALLICH STREET #B1-23 GUOCO TOWER, (right part of) 078884",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000150",
     "scheme": "Eating Establishment",
@@ -12925,7 +12925,7 @@
   },
   {
     "name": "HUGABO",
-    "address": "1 PASIR RIS CENTRAL STREET 3 #B1-07/08,(Right Part of) 518457",
+    "address": "1 PASIR RIS CENTRAL STREET 3 #B1-07/08, (Right Part of) 518457",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000036",
     "scheme": "Eating Establishment",
@@ -19026,6 +19026,24 @@
     "postal": "730676"
   },
   {
+    "name": "Metta Cafe",
+    "address": "32 SIMEI STREET 1 METTA BUILDING 529950",
+    "type": "Restaurant",
+    "number": "EERN21030012180",
+    "scheme": "Eating Establishment",
+    "id": "9869ce0b-96b9-470c-9264-4633fb08e4e1",
+    "postal": "529950"
+  },
+  {
+    "name": "Metta Cafe",
+    "address": "32 SIMEI STREET 1 METTA BUILDING 529950",
+    "type": "Catering Company",
+    "number": "FPCA25120000114",
+    "scheme": "Food Preparation Area",
+    "id": "9869ce0b-96b9-470c-9264-4633fb08e4e1",
+    "postal": "529950"
+  },
+  {
     "name": "Mgt Canteen @Sembawang Seatrium(mngd by Catering Solutions P/L)",
     "address": "60 ADMIRALTY ROAD WEST SEMBAWANG SHIPYARD 759956",
     "type": "Staff Canteen",
@@ -21690,6 +21708,15 @@
     "postal": "737736"
   },
   {
+    "name": "ON'LEE CAFE",
+    "address": "11 WOODLANDS SQUARE #B1-08,-#B1-09, #B1-10, #B1-11 WOODLANDS MRT STATION (TE2) 737736",
+    "type": "Restaurant",
+    "number": "EERT26010000036",
+    "scheme": "Eating Establishment",
+    "id": "ebc63ffa-cc82-42b2-94e8-b2dc8dbc62dd",
+    "postal": "737736"
+  },
+  {
     "name": "Opah Satay",
     "address": "680 NORTH BRIDGE ROAD 1ST STOREY KAMPONG GLAM CONSERVATION AREA 188807",
     "type": "Snack Bar / Bakery",
@@ -21877,6 +21904,24 @@
     "scheme": "Eating Establishment",
     "id": "e94d6bff-88ea-4869-bd66-587d9498d776",
     "postal": "768019"
+  },
+  {
+    "name": "Papa Cafe",
+    "address": "991 BUANGKOK LINK #02-10 530991",
+    "type": "Restaurant",
+    "number": "EERN21110013214",
+    "scheme": "Eating Establishment",
+    "id": "3ec4c454-3ee3-42d6-86b9-0efdaad99ca8",
+    "postal": "530991"
+  },
+  {
+    "name": "Papa Cafe",
+    "address": "533 CHOA CHU KANG STREET 51 #01-27 LIMBANG SHOPPING CENTRE 680533",
+    "type": "Restaurant",
+    "number": "EERT20240000607",
+    "scheme": "Eating Establishment",
+    "id": "c320ebaa-36a4-45c6-a2d8-edeafb4c983e",
+    "postal": "680533"
   },
   {
     "name": "PAPPARICH",
@@ -22339,6 +22384,33 @@
   },
   {
     "name": "Pepper Lunch Express",
+    "address": "2 BAYFRONT AVENUE S14 #B2-49,#B2-53 THE SHOPPES AT MARINA BAY SANDS 018972",
+    "type": "Hawker",
+    "number": "EEHK26010000024",
+    "scheme": "Eating Establishment",
+    "id": "98ee1f0a-51fe-43dd-b422-c358e1bdc5a0",
+    "postal": "018972"
+  },
+  {
+    "name": "Pepper Lunch Express",
+    "address": "9 BISHAN PLACE S11 Food Junction #04-1/2E JUNCTION 8 579837",
+    "type": "Hawker",
+    "number": "EEHK26010000025",
+    "scheme": "Eating Establishment",
+    "id": "98ee1f0a-51fe-43dd-b422-c358e1bdc5a0",
+    "postal": "579837"
+  },
+  {
+    "name": "Pepper Lunch Express",
+    "address": "1 BUKIT BATOK CENTRAL LINK MR3, Kopitiam #04-01 WEST MALL 658713",
+    "type": "Hawker",
+    "number": "EEHK26010000026",
+    "scheme": "Eating Establishment",
+    "id": "98ee1f0a-51fe-43dd-b422-c358e1bdc5a0",
+    "postal": "658713"
+  },
+  {
+    "name": "Pepper Lunch Express",
     "address": "101 THOMSON ROAD #B1-02/56M/56N/56P/56Q/57-59 UNITED SQUARE, Stall 8 307591",
     "type": "Hawker",
     "number": "EEHN21120013043",
@@ -22690,15 +22762,6 @@
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
-    "address": "306 WOODLANDS STREET 31 #01-17 FUCHUN NEIGHBOURHOOD CENTRE 730306",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000703",
-    "scheme": "Eating Establishment",
-    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
-    "postal": "730306"
-  },
-  {
-    "name": "PIZZA HUT SINGAPORE PTE LTD",
     "address": "66 JALAN MALU-MALU SEMBAWANG SPRINGS ESTATE 769681",
     "type": "Snack Bar / Bakery",
     "number": "EESB20250000704",
@@ -22732,6 +22795,15 @@
     "scheme": "Eating Establishment",
     "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
     "postal": "828654"
+  },
+  {
+    "name": "PIZZA HUT SINGAPORE PTE LTD",
+    "address": "306 WOODLANDS STREET 31 #01-17 FUCHUN NEIGHBOURHOOD CENTRE 730306",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000703",
+    "scheme": "Eating Establishment",
+    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
+    "postal": "730306"
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
@@ -23607,15 +23679,6 @@
     "postal": "138607"
   },
   {
-    "name": "Pondok Selera By Nurul Hidayah",
-    "address": "8A ADMIRALTY STREET #07-38 FOOD XCHANGE @ ADMIRALTY 757437",
-    "type": "Catering Company",
-    "number": "FPCA20240001085",
-    "scheme": "Food Preparation Area",
-    "id": "8f6454b2-602c-4716-9676-b445a534cc6a",
-    "postal": "757437"
-  },
-  {
     "name": "POON RESOURCES PTE LTD",
     "address": "8A ADMIRALTY STREET #05-37 FOODXCHANGE @ ADMIRALTY 757437",
     "type": "Central Kitchen",
@@ -23986,15 +24049,6 @@
   },
   {
     "name": "PRIMADELI",
-    "address": "1 PASIR RIS CENTRAL STREET 3 #B1-K15 WHITE SANDS 518457",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000751",
-    "scheme": "Eating Establishment",
-    "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
-    "postal": "518457"
-  },
-  {
-    "name": "PRIMADELI",
     "address": "1 PASIR RIS CLOSE #02-K3/K4 E!HUB@DOWNTOWN EAST 519599",
     "type": "Snack Bar / Bakery",
     "number": "EESB20250000732",
@@ -24109,6 +24163,15 @@
     "scheme": "Eating Establishment",
     "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
     "postal": "820168"
+  },
+  {
+    "name": "PRIMADELI",
+    "address": "1 PASIR RIS CENTRAL STREET 3 #B1-K15 WHITE SANDS 518457",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000751",
+    "scheme": "Eating Establishment",
+    "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+    "postal": "518457"
   },
   {
     "name": "Providence Cafe & Bakery",
@@ -24370,15 +24433,6 @@
     "scheme": "Eating Establishment",
     "id": "fcc38ede-2bbe-4406-bbe5-d5ad0733fa57",
     "postal": "681668"
-  },
-  {
-    "name": "Rasa Bagus Restoran",
-    "address": "654A PUNGGOL DRIVE #01-07 821654",
-    "type": "Restaurant",
-    "number": "EERT20250000271",
-    "scheme": "Eating Establishment",
-    "id": "a44e4758-f61a-4ef4-8025-3c0f3416ce72",
-    "postal": "821654"
   },
   {
     "name": "RASA CATERING PTE. LTD.",
@@ -34381,7 +34435,7 @@
   },
   {
     "name": "YES! TOMATO",
-    "address": "431 YISHUN AVENUE 1 #01-01 VISTA SPRING @ YISHUN 760431",
+    "address": "431 YISHUN AVENUE 1 #01-01 VISTA SPRING @ YISHUN, Stall 2 760431",
     "type": "Hawker",
     "number": "EEHN22020013210",
     "scheme": "Eating Establishment",

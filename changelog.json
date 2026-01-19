@@ -1,5 +1,172 @@
 [
   {
+    "timestamp": "2026-01-19T22:18:30.143773",
+    "date": "2026-01-19",
+    "summary": {
+      "new": 8,
+      "removed": 2,
+      "updated": 3
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Pepper Lunch Express",
+          "address": "2 BAYFRONT AVENUE S14 #B2-49,#B2-53 THE SHOPPES AT MARINA BAY SANDS 018972",
+          "type": "Hawker",
+          "number": "EEHK26010000024",
+          "scheme": "Eating Establishment",
+          "id": "98ee1f0a-51fe-43dd-b422-c358e1bdc5a0",
+          "postal": "018972"
+        },
+        {
+          "name": "Pepper Lunch Express",
+          "address": "1 BUKIT BATOK CENTRAL LINK MR3, Kopitiam #04-01 WEST MALL 658713",
+          "type": "Hawker",
+          "number": "EEHK26010000026",
+          "scheme": "Eating Establishment",
+          "id": "98ee1f0a-51fe-43dd-b422-c358e1bdc5a0",
+          "postal": "658713"
+        },
+        {
+          "name": "Papa Cafe",
+          "address": "533 CHOA CHU KANG STREET 51 #01-27 LIMBANG SHOPPING CENTRE 680533",
+          "type": "Restaurant",
+          "number": "EERT20240000607",
+          "scheme": "Eating Establishment",
+          "id": "c320ebaa-36a4-45c6-a2d8-edeafb4c983e",
+          "postal": "680533"
+        },
+        {
+          "name": "ON'LEE CAFE",
+          "address": "11 WOODLANDS SQUARE #B1-08,-#B1-09, #B1-10, #B1-11 WOODLANDS MRT STATION (TE2) 737736",
+          "type": "Restaurant",
+          "number": "EERT26010000036",
+          "scheme": "Eating Establishment",
+          "id": "ebc63ffa-cc82-42b2-94e8-b2dc8dbc62dd",
+          "postal": "737736"
+        },
+        {
+          "name": "Metta Cafe",
+          "address": "32 SIMEI STREET 1 METTA BUILDING 529950",
+          "type": "Restaurant",
+          "number": "EERN21030012180",
+          "scheme": "Eating Establishment",
+          "id": "9869ce0b-96b9-470c-9264-4633fb08e4e1",
+          "postal": "529950"
+        },
+        {
+          "name": "Papa Cafe",
+          "address": "991 BUANGKOK LINK #02-10 530991",
+          "type": "Restaurant",
+          "number": "EERN21110013214",
+          "scheme": "Eating Establishment",
+          "id": "3ec4c454-3ee3-42d6-86b9-0efdaad99ca8",
+          "postal": "530991"
+        },
+        {
+          "name": "Metta Cafe",
+          "address": "32 SIMEI STREET 1 METTA BUILDING 529950",
+          "type": "Catering Company",
+          "number": "FPCA25120000114",
+          "scheme": "Food Preparation Area",
+          "id": "9869ce0b-96b9-470c-9264-4633fb08e4e1",
+          "postal": "529950"
+        },
+        {
+          "name": "Pepper Lunch Express",
+          "address": "9 BISHAN PLACE S11 Food Junction #04-1/2E JUNCTION 8 579837",
+          "type": "Hawker",
+          "number": "EEHK26010000025",
+          "scheme": "Eating Establishment",
+          "id": "98ee1f0a-51fe-43dd-b422-c358e1bdc5a0",
+          "postal": "579837"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Rasa Bagus Restoran",
+          "address": "654A PUNGGOL DRIVE #01-07 821654",
+          "type": "Restaurant",
+          "number": "EERT20250000271",
+          "scheme": "Eating Establishment",
+          "id": "a44e4758-f61a-4ef4-8025-3c0f3416ce72",
+          "postal": "821654"
+        },
+        {
+          "name": "Pondok Selera By Nurul Hidayah",
+          "address": "8A ADMIRALTY STREET #07-38 FOOD XCHANGE @ ADMIRALTY 757437",
+          "type": "Catering Company",
+          "number": "FPCA20240001085",
+          "scheme": "Food Preparation Area",
+          "id": "8f6454b2-602c-4716-9676-b445a534cc6a",
+          "postal": "757437"
+        }
+      ],
+      "updated": [
+        {
+          "previous": {
+            "name": "YES! TOMATO",
+            "address": "431 YISHUN AVENUE 1 #01-01 VISTA SPRING @ YISHUN 760431",
+            "type": "Hawker",
+            "number": "EEHN22020013210",
+            "scheme": "Eating Establishment",
+            "id": "212fd581-990e-4387-add3-bc91466f9375",
+            "postal": "760431"
+          },
+          "current": {
+            "name": "YES! TOMATO",
+            "address": "431 YISHUN AVENUE 1 #01-01 VISTA SPRING @ YISHUN, Stall 2 760431",
+            "type": "Hawker",
+            "number": "EEHN22020013210",
+            "scheme": "Eating Establishment",
+            "id": "212fd581-990e-4387-add3-bc91466f9375",
+            "postal": "760431"
+          }
+        },
+        {
+          "previous": {
+            "name": "HUGABO",
+            "address": "7 WALLICH STREET #B1-23 GUOCO TOWER,(right part of) 078884",
+            "type": "Snack Bar / Bakery",
+            "number": "EESB20240000150",
+            "scheme": "Eating Establishment",
+            "id": "2e6b1f33-8843-4d1c-a0f4-c6e566b81a7d",
+            "postal": "078884"
+          },
+          "current": {
+            "name": "HUGABO",
+            "address": "7 WALLICH STREET #B1-23 GUOCO TOWER, (right part of) 078884",
+            "type": "Snack Bar / Bakery",
+            "number": "EESB20240000150",
+            "scheme": "Eating Establishment",
+            "id": "2e6b1f33-8843-4d1c-a0f4-c6e566b81a7d",
+            "postal": "078884"
+          }
+        },
+        {
+          "previous": {
+            "name": "HUGABO",
+            "address": "1 PASIR RIS CENTRAL STREET 3 #B1-07/08,(Right Part of) 518457",
+            "type": "Snack Bar / Bakery",
+            "number": "EESB20240000036",
+            "scheme": "Eating Establishment",
+            "id": "2e6b1f33-8843-4d1c-a0f4-c6e566b81a7d",
+            "postal": "518457"
+          },
+          "current": {
+            "name": "HUGABO",
+            "address": "1 PASIR RIS CENTRAL STREET 3 #B1-07/08, (Right Part of) 518457",
+            "type": "Snack Bar / Bakery",
+            "number": "EESB20240000036",
+            "scheme": "Eating Establishment",
+            "id": "2e6b1f33-8843-4d1c-a0f4-c6e566b81a7d",
+            "postal": "518457"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-01-17T22:15:54.303792",
     "date": "2026-01-17",
     "summary": {
@@ -10815,169 +10982,6 @@
             "scheme": "Eating Establishment",
             "id": "446ea3e3-576e-4c17-892e-c9102e9e7bbb",
             "postal": "658713"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2025-11-14T22:15:53.852486",
-    "date": "2025-11-14",
-    "summary": {
-      "new": 11,
-      "removed": 3,
-      "updated": 1
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Salad Section @ Chara Brasserie",
-          "address": "8 CLUB STREET #02-01, Salad Section 069472",
-          "type": "Food Station",
-          "number": "EEFS20240000989",
-          "scheme": "Eating Establishment",
-          "id": "658456c1-75fa-4874-b5b4-dc09bc51ae72",
-          "postal": "069472"
-        },
-        {
-          "name": "Sushi Seafood Section @ Chara Brasserie",
-          "address": "8 CLUB STREET #02-01, Sushi Seafood Section 069472",
-          "type": "Food Station",
-          "number": "EEFS20240000990",
-          "scheme": "Eating Establishment",
-          "id": "694b6858-aac8-4560-817c-def029b23879",
-          "postal": "069472"
-        },
-        {
-          "name": "Beverage Section @ Chara Brasserie",
-          "address": "8 CLUB STREET #02-01, Beverage Section 069472",
-          "type": "Food Station",
-          "number": "EEFS20240000988",
-          "scheme": "Eating Establishment",
-          "id": "f931754a-c4b6-457f-88ce-fd4620212c33",
-          "postal": "069472"
-        },
-        {
-          "name": "Kenny Rogers Express (MR8) @ Foodrepublic 313 Somerset",
-          "address": "313 ORCHARD ROAD #05-01/02/03 313 @ SOMERSET, MR 8 238895",
-          "type": "Hawker",
-          "number": "EEHK20250000033",
-          "scheme": "Eating Establishment",
-          "id": "a6e63ff6-3fdc-4056-866a-4d0b9cd2ce6b",
-          "postal": "238895"
-        },
-        {
-          "name": "Wholesome @ HPB",
-          "address": "3 SECOND HOSPITAL AVENUE #01-04 HEALTH PROMOTION BOARD 168937",
-          "type": "Restaurant",
-          "number": "EERT20230000993",
-          "scheme": "Eating Establishment",
-          "id": "3425a5a6-1c57-4f29-8450-f87d65a46491",
-          "postal": "168937"
-        },
-        {
-          "name": "Central Kitchen @ Chara Brasserie",
-          "address": "8 CLUB STREET #02-01, CENTRAL KITCHEN 069472",
-          "type": "Central Kitchen",
-          "number": "FPCK20240000993",
-          "scheme": "Food Preparation Area",
-          "id": "5adb1b67-a971-4c93-ac45-f0385986bc19",
-          "postal": "069472"
-        },
-        {
-          "name": "Pastry and Dessert Section @ Chara Brasserie",
-          "address": "8 CLUB STREET #02-01, Pastry and Dessert Section 069472",
-          "type": "Food Station",
-          "number": "EEFS20240000992",
-          "scheme": "Eating Establishment",
-          "id": "3e13b955-a579-4792-b70d-6db65fcb8d81",
-          "postal": "069472"
-        },
-        {
-          "name": "Wholesome Cafeteria @ Police cantonment complex (Mngd by food canopy Pte Ltd)",
-          "address": "391 NEW BRIDGE ROAD POLICE CANTONMENT COMPLEX, BLOCK A LEVEL 2 088762",
-          "type": "Staff Canteen",
-          "number": "EESC25110000026",
-          "scheme": "Eating Establishment",
-          "id": "bdb07e36-f538-4ca7-8dc6-9b26ba27e64f",
-          "postal": "088762"
-        },
-        {
-          "name": "Indonesian (S15) @  Food Club Ngee Ann Polytechnic",
-          "address": "535 CLEMENTI ROAD #01-01 NGEE ANN POLYTECHNIC Blk 22, Stall 15 599489",
-          "type": "Hawker",
-          "number": "EEHK20220000936",
-          "scheme": "Eating Establishment",
-          "id": "f7c7fb45-459c-4718-a06b-02998aa3732b",
-          "postal": "599489"
-        },
-        {
-          "name": "BURGER KING",
-          "address": "60 AIRPORT BOULEVARD #03-01 CHANGI AIRPORT TERMINAL 2 (DEPARTURE HALL NORTH) 819643",
-          "type": "Restaurant",
-          "number": "EERT25110000005",
-          "scheme": "Eating Establishment",
-          "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
-          "postal": "819643"
-        },
-        {
-          "name": "Hot Food Section @ Chara Brasserie",
-          "address": "8 CLUB STREET #02-01, Hot Food Section 069472",
-          "type": "Food Station",
-          "number": "EEFS20240000991",
-          "scheme": "Eating Establishment",
-          "id": "54feee48-513d-4cc4-9fb2-fa4999555134",
-          "postal": "069472"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Sanook Kitchen",
-          "address": "180 KITCHENER ROAD #02-33/56 CITY SQUARE MALL 208539",
-          "type": "Restaurant",
-          "number": "EERT20250000405",
-          "scheme": "Eating Establishment",
-          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-          "postal": "208539"
-        },
-        {
-          "name": "PRATA LAHHH!",
-          "address": "119 PLANTATION CRESCENT #01-02 TENGAH COMMUNITY CENTRE 690119",
-          "type": "Restaurant",
-          "number": "EERT20250000826",
-          "scheme": "Eating Establishment",
-          "id": "d604f65c-f0c2-43a9-93b8-44b76300fec4",
-          "postal": "690119"
-        },
-        {
-          "name": "McDonald's",
-          "address": "1 KIM SENG PROMENADE #01-124 GREAT WORLD CITY 237994",
-          "type": "Restaurant",
-          "number": "EERN20020011059",
-          "scheme": "Eating Establishment",
-          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-          "postal": "237994"
-        }
-      ],
-      "updated": [
-        {
-          "previous": {
-            "name": "FAMOUS AMOS",
-            "address": "8 GRANGE ROAD #01-8A CATHAY CINELEISURE  ORCHARD 239695",
-            "type": "Snack Bar / Bakery",
-            "number": "EESB20250000032",
-            "scheme": "Eating Establishment",
-            "id": "57fb9ed3-1f8d-4f08-a9d4-87fd582740de",
-            "postal": "239695"
-          },
-          "current": {
-            "name": "FAMOUS AMOS",
-            "address": "8 GRANGE ROAD #01-8A CATHAY CINELEISURE ORCHARD 239695",
-            "type": "Snack Bar / Bakery",
-            "number": "EESB20250000032",
-            "scheme": "Eating Establishment",
-            "id": "57fb9ed3-1f8d-4f08-a9d4-87fd582740de",
-            "postal": "239695"
           }
         }
       ]
