@@ -1,5 +1,47 @@
 [
   {
+    "timestamp": "2026-01-20T22:18:34.965522",
+    "date": "2026-01-20",
+    "summary": {
+      "new": 0,
+      "removed": 3,
+      "updated": 0
+    },
+    "changes": {
+      "new": [],
+      "removed": [
+        {
+          "name": "DELIBOWL",
+          "address": "6 CHANGI BUSINESS PARK AVENUE 1 #01-31 ESR BIZPARK @ CHANGI 486017",
+          "type": "Restaurant",
+          "number": "EERT20240001221",
+          "scheme": "Eating Establishment",
+          "id": "e1dfd439-7824-439d-ad94-b2de0bceecd4",
+          "postal": "486017"
+        },
+        {
+          "name": "Kuma-chan Onsen",
+          "address": "181 ORCHARD ROAD #07-10/11 ORCHARD CENTRAL 238896",
+          "type": "Restaurant",
+          "number": "EERT20250000060",
+          "scheme": "Eating Establishment",
+          "id": "115b17c0-9a64-452e-aaa6-b12d6686632f",
+          "postal": "238896"
+        },
+        {
+          "name": "Sugar Mama Lah",
+          "address": "730/732 NORTH BRIDGE ROAD (F&B COUNTER 2) CURBSIDE CRAFTERS 198698",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000287",
+          "scheme": "Eating Establishment",
+          "id": "48f3e571-dfbc-42db-a6fc-ed0d5b59dc37",
+          "postal": "198698"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-01-19T22:18:30.143773",
     "date": "2026-01-19",
     "summary": {
@@ -10903,88 +10945,6 @@
         }
       ],
       "updated": []
-    }
-  },
-  {
-    "timestamp": "2025-11-17T22:17:21.963976",
-    "date": "2025-11-17",
-    "summary": {
-      "new": 3,
-      "removed": 2,
-      "updated": 1
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Staff Canteen Stall @ 3M Singapore (Mngd by Soo San Na Catering)",
-          "address": "100 WOODLANDS AVENUE 7 738205",
-          "type": "Staff Canteen",
-          "number": "EEFX22020012568",
-          "scheme": "Eating Establishment",
-          "id": "dd8bc0c5-82cb-4619-bd8b-6effe7e464dc",
-          "postal": "738205"
-        },
-        {
-          "name": "Soo San Na Catering Services",
-          "address": "15 WOODLANDS LOOP #01-05 738322",
-          "type": "Catering Company",
-          "number": "FPGN21120001622",
-          "scheme": "Food Preparation Area",
-          "id": "978930cb-d541-4738-b6c3-2ae02a7d76a6",
-          "postal": "738322"
-        },
-        {
-          "name": "Staff Canteen Stall @ 3M Innovation (Mngd by Soo San Na Catering)",
-          "address": "2 TUAS LINK 4 637321",
-          "type": "Staff Canteen",
-          "number": "EEFN21090012533",
-          "scheme": "Eating Establishment",
-          "id": "d9b3b5e0-92ba-4c78-a3d6-40a02517d2e6",
-          "postal": "637321"
-        }
-      ],
-      "removed": [
-        {
-          "name": "SUBWAY",
-          "address": "9 WOODLANDS AVENUE 9 #01-02/03 REPUBLIC POLYTECHNIC 738964",
-          "type": "Restaurant",
-          "number": "EERN21110013109",
-          "scheme": "Eating Establishment",
-          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-          "postal": "738964"
-        },
-        {
-          "name": "SUBWAY",
-          "address": "548 WOODLANDS DRIVE 44 #01-23 VISTA POINT 730548",
-          "type": "Restaurant",
-          "number": "EERN21110013101",
-          "scheme": "Eating Establishment",
-          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-          "postal": "730548"
-        }
-      ],
-      "updated": [
-        {
-          "previous": {
-            "name": "Hatsumi Donburi | Soba",
-            "address": "1 BUKIT BATOK CENTRAL LINK #B1-1K9/K20 WEST MALL 658713",
-            "type": "Restaurant",
-            "number": "EERT20250000399",
-            "scheme": "Eating Establishment",
-            "id": "446ea3e3-576e-4c17-892e-c9102e9e7bbb",
-            "postal": "658713"
-          },
-          "current": {
-            "name": "Hatsumi Donburi | Soba",
-            "address": "1 BUKIT BATOK CENTRAL LINK #B1-K19/K20 WEST MALL 658713",
-            "type": "Restaurant",
-            "number": "EERT20250000399",
-            "scheme": "Eating Establishment",
-            "id": "446ea3e3-576e-4c17-892e-c9102e9e7bbb",
-            "postal": "658713"
-          }
-        }
-      ]
     }
   }
 ]

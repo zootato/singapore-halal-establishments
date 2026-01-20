@@ -7489,15 +7489,6 @@
   },
   {
     "name": "DELIBOWL",
-    "address": "6 CHANGI BUSINESS PARK AVENUE 1 #01-31 ESR BIZPARK @ CHANGI 486017",
-    "type": "Restaurant",
-    "number": "EERT20240001221",
-    "scheme": "Eating Establishment",
-    "id": "e1dfd439-7824-439d-ad94-b2de0bceecd4",
-    "postal": "486017"
-  },
-  {
-    "name": "DELIBOWL",
     "address": "33 SENGKANG WEST AVENUE #01-09, #01-10, #01-11, #01-12, #01-13, #01-14 THE SELETAR MALL 797653",
     "type": "Restaurant",
     "number": "EERT20250000810",
@@ -14437,6 +14428,15 @@
   },
   {
     "name": "Kazo",
+    "address": "7 PASIR RIS CENTRAL #B1-42 519612",
+    "type": "Restaurant",
+    "number": "EERT20250000073",
+    "scheme": "Eating Establishment",
+    "id": "911cb7f7-438a-4583-a323-1e96bb9071a4",
+    "postal": "519612"
+  },
+  {
+    "name": "Kazo",
     "address": "17 PETIR ROAD #B2-11 HILLION MALL 678278",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000052",
@@ -14479,15 +14479,6 @@
     "scheme": "Eating Establishment",
     "id": "766847d6-38ea-4363-818a-36bafdf12534",
     "postal": "768019"
-  },
-  {
-    "name": "Kazo",
-    "address": "7 PASIR RIS CENTRAL #B1-42 519612",
-    "type": "Restaurant",
-    "number": "EERT20250000073",
-    "scheme": "Eating Establishment",
-    "id": "911cb7f7-438a-4583-a323-1e96bb9071a4",
-    "postal": "519612"
   },
   {
     "name": "Kazo",
@@ -16189,15 +16180,6 @@
     "scheme": "Eating Establishment",
     "id": "aaff7ea0-5d5c-4c48-a11b-e7201dfeac4e",
     "postal": "081006"
-  },
-  {
-    "name": "Kuma-chan Onsen",
-    "address": "181 ORCHARD ROAD #07-10/11 ORCHARD CENTRAL 238896",
-    "type": "Restaurant",
-    "number": "EERT20250000060",
-    "scheme": "Eating Establishment",
-    "id": "115b17c0-9a64-452e-aaa6-b12d6686632f",
-    "postal": "238896"
   },
   {
     "name": "Kumar Kitchen",
@@ -18370,6 +18352,15 @@
   },
   {
     "name": "McDonald's",
+    "address": "70 JELLICOE ROAD #01-20 V HOTEL LAVENDER 208767",
+    "type": "Restaurant",
+    "number": "EERN20020010979",
+    "scheme": "Eating Establishment",
+    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+    "postal": "208767"
+  },
+  {
+    "name": "McDonald's",
     "address": "633 TAMPINES NORTH DRIVE 2 #02-03 TAMPINES GREENCOURT 520633",
     "type": "Restaurant",
     "number": "EERT25100000143",
@@ -18934,15 +18925,6 @@
     "scheme": "Eating Establishment",
     "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
     "postal": "169637"
-  },
-  {
-    "name": "McDonald's",
-    "address": "70 JELLICOE ROAD #01-20 V HOTEL LAVENDER 208767",
-    "type": "Restaurant",
-    "number": "EERN20020010979",
-    "scheme": "Eating Establishment",
-    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-    "postal": "208767"
   },
   {
     "name": "McDonald's",
@@ -28708,15 +28690,6 @@
     "scheme": "Eating Establishment",
     "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
     "postal": "461059"
-  },
-  {
-    "name": "Sugar Mama Lah",
-    "address": "730/732 NORTH BRIDGE ROAD (F&B COUNTER 2) CURBSIDE CRAFTERS 198698",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000287",
-    "scheme": "Eating Establishment",
-    "id": "48f3e571-dfbc-42db-a6fc-ed0d5b59dc37",
-    "postal": "198698"
   },
   {
     "name": "Sugar Mama Lah",
