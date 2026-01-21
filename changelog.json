@@ -1,5 +1,1137 @@
 [
   {
+    "timestamp": "2026-01-21T22:18:28.978895",
+    "date": "2026-01-21",
+    "summary": {
+      "new": 112,
+      "removed": 12,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "CROLO BY SWEE HENG",
+          "address": "63 JURONG WEST CENTRAL 3 #01-28 JURONG POINT 648331",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000248",
+          "scheme": "Eating Establishment",
+          "id": "2bd1ef47-dec3-44a2-b0d0-b11418553544",
+          "postal": "648331"
+        },
+        {
+          "name": "SWEE HENG 1989 CLASSIC",
+          "address": "21 CHOA CHU KANG AVENUE 4 #B1-02 LOT ONE, SHOPPERS' MALL 689812",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013117",
+          "scheme": "Eating Establishment",
+          "id": "92f90956-de91-43bc-915e-12b8de4ff829",
+          "postal": "689812"
+        },
+        {
+          "name": "SWEE HENG 1989 BAKERY CAFE",
+          "address": "10 EUNOS ROAD 8 #B1-158 SINGAPORE POST CENTRE 408600",
+          "type": "Restaurant",
+          "number": "EERN22020013493",
+          "scheme": "Eating Establishment",
+          "id": "f0bbdbed-8a2d-4103-b76b-433f4268e0be",
+          "postal": "408600"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "476 UPPER SERANGOON VIEW #02-16 530476",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013149",
+          "scheme": "Eating Establishment",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "530476"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "118 RIVERVALE DRIVE #01-17 RIVERVALE PLAZA 540118",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013144",
+          "scheme": "Eating Establishment",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "540118"
+        },
+        {
+          "name": "Pizza Fun",
+          "address": "151 LORONG CHUAN #01-21 NEW TECH PARK 556741",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26010000075",
+          "scheme": "Eating Establishment",
+          "id": "cf76654c-0b48-4e81-b484-42183d672d38",
+          "postal": "556741"
+        },
+        {
+          "name": "SWEE HENG 1989 CLASSIC (S9) @ KOPITIAM KTPH",
+          "address": "90 YISHUN CENTRAL #01-12 KHOO TECK PUAT HOSPITAL 768828",
+          "type": "Hawker",
+          "number": "EEHK20240001275",
+          "scheme": "Eating Establishment",
+          "id": "92f90956-de91-43bc-915e-12b8de4ff829",
+          "postal": "768828"
+        },
+        {
+          "name": "SWEE HENG 1989 CLASSIC",
+          "address": "133 CANBERRA VIEW #B1-11 750133",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013129",
+          "scheme": "Eating Establishment",
+          "id": "92f90956-de91-43bc-915e-12b8de4ff829",
+          "postal": "750133"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "1 GEYLANG SERAI #01-197 402001",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013120",
+          "scheme": "Eating Establishment",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "402001"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "1 STADIUM PLACE #01-29 397628",
+          "type": "Halal Section",
+          "number": "EECN22020000456",
+          "scheme": "Eating Establishment",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "397628"
+        },
+        {
+          "name": "COAST & ROAST (A CONCEPT BY FISH & CO.)",
+          "address": "290 ORCHARD ROAD #B1-35/36 THE PARAGON 238859",
+          "type": "Restaurant",
+          "number": "EERT20230001268",
+          "scheme": "Eating Establishment",
+          "id": "f241463b-a8d8-4fc7-9951-959b397c07d0",
+          "postal": "238859"
+        },
+        {
+          "name": "TOAST & ROLL",
+          "address": "20 TAMPINES CENTRAL 1 #01-08 TAMPINES MRT 529538",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000136",
+          "scheme": "Eating Establishment",
+          "id": "78f7c4f0-2461-4fb2-93b8-e473ce650491",
+          "postal": "529538"
+        },
+        {
+          "name": "CROLO",
+          "address": "90 HOUGANG AVENUE 10 #B1-08A HOUGANG MALL 538766",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240001122",
+          "scheme": "Eating Establishment",
+          "id": "bdfbb76f-b92b-4675-b091-68f46d12433d",
+          "postal": "538766"
+        },
+        {
+          "name": "SWEE HENG 1989 CLASSIC",
+          "address": "407 NORTHSHORE DRIVE #02-03/04 820407",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013158",
+          "scheme": "Eating Establishment",
+          "id": "92f90956-de91-43bc-915e-12b8de4ff829",
+          "postal": "820407"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "768 WOODLANDS AVENUE 6 #01-28 WOODLANDS MART 730768",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013126",
+          "scheme": "Eating Establishment",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "730768"
+        },
+        {
+          "name": "CHOP CHOP",
+          "address": "10 ANSON ROAD 02-67/68 INTERNATIONAL PLAZA 079903",
+          "type": "Restaurant",
+          "number": "EERT26010000083",
+          "scheme": "Eating Establishment",
+          "id": "dfdc316f-00b8-4561-9095-13dd2d9ac887",
+          "postal": "079903"
+        },
+        {
+          "name": "Charlie's Catering",
+          "address": "55 SERANGOON NORTH AVENUE 4 Kitchen 14, Smart City Kitchens #01-02/19/20 S9 555859",
+          "type": "Catering Company",
+          "number": "FPCA26010000060",
+          "scheme": "Food Preparation Area",
+          "id": "58e52a3a-d5db-45e1-abd2-67715b14e2a3",
+          "postal": "555859"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "449 ANG MO KIO AVENUE 10 #01-1727 560449",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013099",
+          "scheme": "Eating Establishment",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "560449"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "53 ANG MO KIO AVENUE 3 #B2-40 FAIRPRICE XTRA @ AMK HUB 569933",
+          "type": "Halal Section",
+          "number": "EECN22020000459",
+          "scheme": "Eating Establishment",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "569933"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "70 CHOA CHU KANG LOOP #01-04 CCK BUS INTERCHANGE 689688",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013121",
+          "scheme": "Eating Establishment",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "689688"
+        },
+        {
+          "name": "SWEE HENG 1989 CLASSIC",
+          "address": "1 BUKIT BATOK CENTRAL LINK #01-03 WEST MALL 658713",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013101",
+          "scheme": "Eating Establishment",
+          "id": "92f90956-de91-43bc-915e-12b8de4ff829",
+          "postal": "658713"
+        },
+        {
+          "name": "SWEE HENG 1989 CLASSIC",
+          "address": "51 TAMPINES AVENUE 4 #B1-40/41 OUR TAMPINES HUB 529684",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013154",
+          "scheme": "Eating Establishment",
+          "id": "92f90956-de91-43bc-915e-12b8de4ff829",
+          "postal": "529684"
+        },
+        {
+          "name": "SWEE HENG 1989 EXPRESS",
+          "address": "60 PAYA LEBAR ROAD #01-30 PAYA LEBAR SQUARE 409051",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013135",
+          "scheme": "Eating Establishment",
+          "id": "06c1250a-679a-4c2a-b266-e033cfb46f54",
+          "postal": "409051"
+        },
+        {
+          "name": "SWEE HENG 1989 CLASSIC",
+          "address": "51 UPPER SERANGOON ROAD #01-17 THE POIZ CENTRE 347697",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013098",
+          "scheme": "Eating Establishment",
+          "id": "92f90956-de91-43bc-915e-12b8de4ff829",
+          "postal": "347697"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "215C COMPASSVALE DRIVE #01-05 543215",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013148",
+          "scheme": "Eating Establishment",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "543215"
+        },
+        {
+          "name": "FISH & CO RESTAURANTS PTE LTD",
+          "address": "53 ANG MO KIO AVENUE 3 #02-02 AMK HUB 569933",
+          "type": "Restaurant",
+          "number": "EERN22020013441",
+          "scheme": "Eating Establishment",
+          "id": "ece07088-f84b-4090-9192-78f2c83be085",
+          "postal": "569933"
+        },
+        {
+          "name": "SWEE HENG 1989 CLASSIC",
+          "address": "1 NORTHPOINT DRIVE #B2-114 NORTHPOINT CITY 768019",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013133",
+          "scheme": "Eating Establishment",
+          "id": "92f90956-de91-43bc-915e-12b8de4ff829",
+          "postal": "768019"
+        },
+        {
+          "name": "Yummy Sedap",
+          "address": "110 YISHUN RING ROAD Stall 7 , Kimly Coffeeshop #01-401 CHONG PANG GARDEN 760110",
+          "type": "Hawker",
+          "number": "EEHK26010000074",
+          "scheme": "Eating Establishment",
+          "id": "c3fcda1e-3536-4ad6-8c47-74fbcb734dd1",
+          "postal": "760110"
+        },
+        {
+          "name": "SWEE HENG 1989 CLASSIC",
+          "address": "11 BIDADARI PARK DRIVE #B1-K41 THE WOODLEIGH MALL 367803",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000797",
+          "scheme": "Eating Establishment",
+          "id": "92f90956-de91-43bc-915e-12b8de4ff829",
+          "postal": "367803"
+        },
+        {
+          "name": "SWEE HENG 1989 CLASSIC & BAE.GAL",
+          "address": "33 SENGKANG WEST AVENUE #B1-19 THE SELETAR MALL 797653",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000980",
+          "scheme": "Eating Establishment",
+          "id": "01b61891-6054-446d-9081-f09f1c38d7cd",
+          "postal": "797653"
+        },
+        {
+          "name": "SWEE HENG",
+          "address": "71 PASIR RIS DRIVE 3 #01-16 PASIR RIS INTEGRATED TRANSPORT HUB 519872",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000520",
+          "scheme": "Eating Establishment",
+          "id": "8ca8605b-be4d-48dd-98d0-78c2ed91bffb",
+          "postal": "519872"
+        },
+        {
+          "name": "SWEE HENG 1989 CLASSIC",
+          "address": "90 HOUGANG AVENUE 10 #B1-11 HOUGANG MALL 538766",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000797",
+          "scheme": "Eating Establishment",
+          "id": "92f90956-de91-43bc-915e-12b8de4ff829",
+          "postal": "538766"
+        },
+        {
+          "name": "san.wich",
+          "address": "313 ORCHARD ROAD #B3-23 313 @ SOMERSET 238895",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000651",
+          "scheme": "Eating Establishment",
+          "id": "3bd9ccb4-3fd0-4719-8ffc-594b877c6cc5",
+          "postal": "238895"
+        },
+        {
+          "name": "FISH & CO. RESTAURANTS PTE. LTD.",
+          "address": "151 LORONG CHUAN #01-05 NEW TECH PARK 556741",
+          "type": "Restaurant",
+          "number": "EERT20230001265",
+          "scheme": "Eating Establishment",
+          "id": "9e822efe-efa0-4188-86ff-8993b0247d49",
+          "postal": "556741"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "511 CANBERRA ROAD #01-07 SEMBAWANG MART 750511",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013119",
+          "scheme": "Eating Establishment",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "750511"
+        },
+        {
+          "name": "CROLO BY SWEE HENG",
+          "address": "70 COMPASSVALE BOW #B1-04 544692",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000441",
+          "scheme": "Eating Establishment",
+          "id": "2bd1ef47-dec3-44a2-b0d0-b11418553544",
+          "postal": "544692"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "888 WOODLANDS DRIVE 50 #01-747 888 PLAZA 730888",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013127",
+          "scheme": "Eating Establishment",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "730888"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "252 JURONG EAST STREET 24 #01-179 600252",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013151",
+          "scheme": "Eating Establishment",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "600252"
+        },
+        {
+          "name": "Kuma-chan Onsen",
+          "address": "181 ORCHARD ROAD #07-10/11 ORCHARD CENTRAL 238896",
+          "type": "Restaurant",
+          "number": "EERT20250000060",
+          "scheme": "Eating Establishment",
+          "id": "115b17c0-9a64-452e-aaa6-b12d6686632f",
+          "postal": "238896"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "16 SENOKO AVENUE 758306",
+          "type": "Central Kitchen",
+          "number": "FPCN22020001666",
+          "scheme": "Food Preparation Area",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "758306"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "504 JURONG WEST STREET 51 #01-243, (Part of) 640504",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013130",
+          "scheme": "Eating Establishment",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "640504"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "372 BUKIT BATOK STREET 31 #01-372 650372",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013092",
+          "scheme": "Eating Establishment",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "650372"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "27 BENDEMEER ROAD #01-637 BENDEMEER SHOPPING MALL 330027",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013139",
+          "scheme": "Eating Establishment",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "330027"
+        },
+        {
+          "name": "CROLO",
+          "address": "53 ANG MO KIO AVENUE 3 #B2-56 AMK HUB 569933",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000491",
+          "scheme": "Eating Establishment",
+          "id": "bdfbb76f-b92b-4675-b091-68f46d12433d",
+          "postal": "569933"
+        },
+        {
+          "name": "PIZZA KITA",
+          "address": "6 EU TONG SEN STREET #02-54 THE CENTRAL 059817",
+          "type": "Restaurant",
+          "number": "EERT26010000059",
+          "scheme": "Eating Establishment",
+          "id": "d4d617c8-feb5-42d5-9fa3-7da77942c8af",
+          "postal": "059817"
+        },
+        {
+          "name": "SWEE HENG 1989 CLASSIC",
+          "address": "1 PASIR RIS CENTRAL STREET 3 #B1-12 518457",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013159",
+          "scheme": "Eating Establishment",
+          "id": "92f90956-de91-43bc-915e-12b8de4ff829",
+          "postal": "518457"
+        },
+        {
+          "name": "SWEE HENG 1989 CLASSIC",
+          "address": "681 PUNGGOL DRIVE #B1-04 OASIS TERRACES 820681",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013150",
+          "scheme": "Eating Establishment",
+          "id": "92f90956-de91-43bc-915e-12b8de4ff829",
+          "postal": "820681"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "37 TEBAN GARDENS ROAD #01-310 (PART OF) 600037",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013152",
+          "scheme": "Eating Establishment",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "600037"
+        },
+        {
+          "name": "san.wich",
+          "address": "10 TAMPINES CENTRAL 1 #B1-K11 TAMPINES ONE 529536",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000708",
+          "scheme": "Eating Establishment",
+          "id": "3bd9ccb4-3fd0-4719-8ffc-594b877c6cc5",
+          "postal": "529536"
+        },
+        {
+          "name": "TOAST & ROLL",
+          "address": "238 THOMSON ROAD #01-91/92 ATM DBS NOVENA MRT STATION 307683",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000139",
+          "scheme": "Eating Establishment",
+          "id": "78f7c4f0-2461-4fb2-93b8-e473ce650491",
+          "postal": "307683"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "548 WOODLANDS DRIVE 44 #01-19 VISTA POINT 730548",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013118",
+          "scheme": "Eating Establishment",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "730548"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "68 GEYLANG BAHRU #01-3227 330068",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013096",
+          "scheme": "Eating Establishment",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "330068"
+        },
+        {
+          "name": "TOAST & ROLL",
+          "address": "1 BUKIT BATOK CENTRAL LINK #B1-12 WEST MALL 658713",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000427",
+          "scheme": "Eating Establishment",
+          "id": "78f7c4f0-2461-4fb2-93b8-e473ce650491",
+          "postal": "658713"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "201E TAMPINES STREET 23 #01-88 527201",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013143",
+          "scheme": "Eating Establishment",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "527201"
+        },
+        {
+          "name": "FISH & CO. RESTAURANTS PTE LTD",
+          "address": "460 UPPER BUKIT TIMAH ROAD 678074",
+          "type": "Restaurant",
+          "number": "EERT20230001267",
+          "scheme": "Eating Establishment",
+          "id": "3435f5f1-b870-40fa-8233-6d199f4d1bcd",
+          "postal": "678074"
+        },
+        {
+          "name": "TOAST & ROLL",
+          "address": "205 HOUGANG STREET 21 #01-02 HEARTLAND MALL-KOVAN 530205",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000551",
+          "scheme": "Eating Establishment",
+          "id": "78f7c4f0-2461-4fb2-93b8-e473ce650491",
+          "postal": "530205"
+        },
+        {
+          "name": "TOAST & ROLL",
+          "address": "311 NEW UPPER CHANGI ROAD #B2-15 BEDOK MALL 467360",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000552",
+          "scheme": "Eating Establishment",
+          "id": "78f7c4f0-2461-4fb2-93b8-e473ce650491",
+          "postal": "467360"
+        },
+        {
+          "name": "SWEE HENG 1989 EXPRESS",
+          "address": "11 WOODLANDS SQUARE #B1-27 WOODLANDS MRT STATION 737736",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013136",
+          "scheme": "Eating Establishment",
+          "id": "06c1250a-679a-4c2a-b266-e033cfb46f54",
+          "postal": "737736"
+        },
+        {
+          "name": "SWEE HENG 1989 CLASSIC",
+          "address": "70 COMPASSVALE BOW #B1-13 544692",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000440",
+          "scheme": "Eating Establishment",
+          "id": "92f90956-de91-43bc-915e-12b8de4ff829",
+          "postal": "544692"
+        },
+        {
+          "name": "CROLO",
+          "address": "7 PASIR RIS CENTRAL #01-28 519612",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000771",
+          "scheme": "Eating Establishment",
+          "id": "bdfbb76f-b92b-4675-b091-68f46d12433d",
+          "postal": "519612"
+        },
+        {
+          "name": "san.wich",
+          "address": "21 CHOA CHU KANG AVENUE 4 #B1-K21 LOT ONE, SHOPPERS' MALL 689812",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000435",
+          "scheme": "Eating Establishment",
+          "id": "3bd9ccb4-3fd0-4719-8ffc-594b877c6cc5",
+          "postal": "689812"
+        },
+        {
+          "name": "SWEE HENG 1989 CLASSIC",
+          "address": "339 ANCHORVALE ROAD #B1-10 540339",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000707",
+          "scheme": "Eating Establishment",
+          "id": "92f90956-de91-43bc-915e-12b8de4ff829",
+          "postal": "540339"
+        },
+        {
+          "name": "SWEE HENG 1989 CLASSIC",
+          "address": "1 HARBOURFRONT WALK #B2-23 VIVO CITY 098585",
+          "type": "Halal Section",
+          "number": "EECN22020000458",
+          "scheme": "Eating Establishment",
+          "id": "92f90956-de91-43bc-915e-12b8de4ff829",
+          "postal": "098585"
+        },
+        {
+          "name": "san.wich",
+          "address": "11 BIDADARI PARK DRIVE #B1-K14 THE WOODLEIGH MALL 367803",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000798",
+          "scheme": "Eating Establishment",
+          "id": "3bd9ccb4-3fd0-4719-8ffc-594b877c6cc5",
+          "postal": "367803"
+        },
+        {
+          "name": "SWEE HENG",
+          "address": "963 JURONG WEST STREET 91 #01-314 640963",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000383",
+          "scheme": "Eating Establishment",
+          "id": "8ca8605b-be4d-48dd-98d0-78c2ed91bffb",
+          "postal": "640963"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "495 JURONG WEST STREET 41 #01-98, (PART OF - RIGHT UNIT) 640495",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013128",
+          "scheme": "Eating Establishment",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "640495"
+        },
+        {
+          "name": "FISH & CO RESTAURANTS PTE LTD",
+          "address": "83 Punggol Central #B1-18 WATERWAY POINT (EAST WING) 828761",
+          "type": "Restaurant",
+          "number": "EERN22020013444",
+          "scheme": "Eating Establishment",
+          "id": "ece07088-f84b-4090-9192-78f2c83be085",
+          "postal": "828761"
+        },
+        {
+          "name": "SWEE HENG 1989 CLASSIC",
+          "address": "127 PLANTATION CRESCENT #B1-09/10 PLANTATION PLAZA 690127",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240001247",
+          "scheme": "Eating Establishment",
+          "id": "92f90956-de91-43bc-915e-12b8de4ff829",
+          "postal": "690127"
+        },
+        {
+          "name": "CROLO BY SWEE HENG",
+          "address": "33 SENGKANG WEST AVENUE #B1-24 THE SELETAR MALL 797653",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000607",
+          "scheme": "Eating Establishment",
+          "id": "2bd1ef47-dec3-44a2-b0d0-b11418553544",
+          "postal": "797653"
+        },
+        {
+          "name": "SWEE HENG 1989 CLASSIC",
+          "address": "63 JURONG WEST CENTRAL 3 #03-31 JURONG POINT 648331",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013100",
+          "scheme": "Eating Establishment",
+          "id": "92f90956-de91-43bc-915e-12b8de4ff829",
+          "postal": "648331"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "445 FAJAR ROAD #01-522 670445",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013115",
+          "scheme": "Eating Establishment",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "670445"
+        },
+        {
+          "name": "SWEE HENG 1989 CLASSIC",
+          "address": "6 WOODLANDS SQUARE #B2-09 WOODS SQUARE 737737",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013132",
+          "scheme": "Eating Establishment",
+          "id": "92f90956-de91-43bc-915e-12b8de4ff829",
+          "postal": "737737"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "53 ANG MO KIO AVENUE 3 #B2-26 FAIRPRICE XTRA @ AMK HUB (HALAL SECTION) 569933",
+          "type": "Central Kitchen",
+          "number": "FPCN22020001659",
+          "scheme": "Food Preparation Area",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "569933"
+        },
+        {
+          "name": "SWEE HENG 1989 CLASSIC",
+          "address": "2 JURONG EAST STREET 21 #01-83 IMM BUILDING 609601",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000663",
+          "scheme": "Eating Establishment",
+          "id": "92f90956-de91-43bc-915e-12b8de4ff829",
+          "postal": "609601"
+        },
+        {
+          "name": "FISH & CO.",
+          "address": "11 BIDADARI PARK DRIVE #01-37 THE WOODLEIGH MALL 367803",
+          "type": "Restaurant",
+          "number": "EERT20240001259",
+          "scheme": "Eating Establishment",
+          "id": "df22ebcd-10f7-43a7-8143-8eaecd612a7a",
+          "postal": "367803"
+        },
+        {
+          "name": "SWEE HENG 1989 CLASSIC",
+          "address": "1 JURONG EAST STREET 21 #02-13 TOWER A, NG TENG FONG GENERAL HOSPITAL 609606",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013156",
+          "scheme": "Eating Establishment",
+          "id": "92f90956-de91-43bc-915e-12b8de4ff829",
+          "postal": "609606"
+        },
+        {
+          "name": "FISH & CO RESTAURANTS PTE LTD",
+          "address": "3 TEMASEK BOULEVARD #B1-145 SUNTEC CITY MALL 038983",
+          "type": "Restaurant",
+          "number": "EERT25120000111",
+          "scheme": "Eating Establishment",
+          "id": "7a9147e1-c7c2-49fc-b8ba-3ddc6693281b",
+          "postal": "038983"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "629 ANG MO KIO AVENUE 4 #01-984, (part right) 560629",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013140",
+          "scheme": "Eating Establishment",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "560629"
+        },
+        {
+          "name": "SWEE HENG 1989 CLASSIC",
+          "address": "3155 COMMONWEALTH AVENUE WEST #B1-K1/K2 THE CLEMENTI MALL 129588",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013155",
+          "scheme": "Eating Establishment",
+          "id": "92f90956-de91-43bc-915e-12b8de4ff829",
+          "postal": "129588"
+        },
+        {
+          "name": "FISH & CO RESTAURANTS PTE LTD",
+          "address": "1 JURONG WEST CENTRAL 2 #02-20E JURONG POINT 648886",
+          "type": "Restaurant",
+          "number": "EERN22020013445",
+          "scheme": "Eating Establishment",
+          "id": "ece07088-f84b-4090-9192-78f2c83be085",
+          "postal": "648886"
+        },
+        {
+          "name": "SWEE HENG 1989 CLASSIC",
+          "address": "678A WOODLANDS AVENUE 6 #01-27 ADMIRALTY PLACE 731678",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000247",
+          "scheme": "Eating Establishment",
+          "id": "92f90956-de91-43bc-915e-12b8de4ff829",
+          "postal": "731678"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "12 HAIG ROAD #01-335 HAIG VIEW 430012",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013122",
+          "scheme": "Eating Establishment",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "430012"
+        },
+        {
+          "name": "SWEE HENG 1989 CLASSIC",
+          "address": "1 JELEBU ROAD #01-22B BUKIT PANJANG PLAZA 677743",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240001099",
+          "scheme": "Eating Establishment",
+          "id": "92f90956-de91-43bc-915e-12b8de4ff829",
+          "postal": "677743"
+        },
+        {
+          "name": "TOAST & ROLL AND BAE.GAL",
+          "address": "1 JURONG WEST CENTRAL 2 #B1-02 JURONG POINT 648886",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240001132",
+          "scheme": "Eating Establishment",
+          "id": "ab2807cf-9a9f-4c94-bedf-4a8111810374",
+          "postal": "648886"
+        },
+        {
+          "name": "SIN MING POPIAH",
+          "address": "28 TAI SENG STREET #04-05 SAKAE BUILDING 534106",
+          "type": "Central Kitchen",
+          "number": "FPCK26010000063",
+          "scheme": "Food Preparation Area",
+          "id": "4ff00851-b9dc-41bf-b1a3-880559de78b9",
+          "postal": "534106"
+        },
+        {
+          "name": "Eat Taste Enterprise Pte Ltd",
+          "address": "8A ADMIRALTY STREET #02-37 FOOD XCHANGE @ ADMIRALTY 757437",
+          "type": "Central Kitchen",
+          "number": "FPCK26010000091",
+          "scheme": "Food Preparation Area",
+          "id": "b7d9aca6-b8c9-47fc-86cf-021f6b0890bb",
+          "postal": "757437"
+        },
+        {
+          "name": "SWEE HENG 1989 CLASSIC",
+          "address": "11 RIVERVALE CRESCENT #01-25 RIVERVALE MALL 545082",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013153",
+          "scheme": "Eating Establishment",
+          "id": "92f90956-de91-43bc-915e-12b8de4ff829",
+          "postal": "545082"
+        },
+        {
+          "name": "Asam Tree Nasi Padang",
+          "address": "168 PUNGGOL FIELD Stall 12, Koufu #01-01 PUNGGOL PLAZA 820168",
+          "type": "Hawker",
+          "number": "EEHK26010000092",
+          "scheme": "Eating Establishment",
+          "id": "4921c3d0-f6e2-467a-9150-910e8174b587",
+          "postal": "820168"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "818 CHOA CHU KANG AVENUE 1 #01-03 680818",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013124",
+          "scheme": "Eating Establishment",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "680818"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "11 BEDOK NORTH STREET 1 #01-21 HEARTBEAT @ BEDOK 469662",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013123",
+          "scheme": "Eating Establishment",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "469662"
+        },
+        {
+          "name": "TOAST & ROLL AND BAE.GAL",
+          "address": "681 PUNGGOL DRIVE #02-07/08 820681",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240001268",
+          "scheme": "Eating Establishment",
+          "id": "ab2807cf-9a9f-4c94-bedf-4a8111810374",
+          "postal": "820681"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "253 CHOA CHU KANG AVENUE 1 #B1-19 KEAT HONG SHOPPING CENTRE 680253",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013102",
+          "scheme": "Eating Establishment",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "680253"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "330 ANCHORVALE STREET #01-03 540330",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013146",
+          "scheme": "Eating Establishment",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "540330"
+        },
+        {
+          "name": "Charlie's Western",
+          "address": "215C COMPASSVALE DRIVE Stall 5, Happy Hawkers #01-06 COMPASSVALE MAST 543215",
+          "type": "Hawker",
+          "number": "EEHK26010000061",
+          "scheme": "Eating Establishment",
+          "id": "94158f93-5630-450c-b68f-3936831e526d",
+          "postal": "543215"
+        },
+        {
+          "name": "SWEE HENG 1989 CLASSIC & BAE.GAL",
+          "address": "84 PUNGGOL WAY #01-63 PUNGGOL COAST MALL 829911",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000418",
+          "scheme": "Eating Establishment",
+          "id": "01b61891-6054-446d-9081-f09f1c38d7cd",
+          "postal": "829911"
+        },
+        {
+          "name": "THE FROSTED CHICK",
+          "address": "41 OPAL CRESCENT 328428",
+          "type": "Restaurant",
+          "number": "EERT20240001290",
+          "scheme": "Eating Establishment",
+          "id": "553acff5-6d7d-4912-8578-c91ad00014d8",
+          "postal": "328428"
+        },
+        {
+          "name": "SWEE HENG 1989 SIGNATURE",
+          "address": "313 ORCHARD ROAD #B3-23 313 @ SOMERSET 238895",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000652",
+          "scheme": "Eating Establishment",
+          "id": "76f27f4f-34d6-4277-a42f-9315cea5617b",
+          "postal": "238895"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "23 SERANGOON CENTRAL #03-42 NEX FAIRPRICE XTRA 556083",
+          "type": "Halal Section",
+          "number": "EECN22020000460",
+          "scheme": "Eating Establishment",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "556083"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "50 JURONG GATEWAY ROAD #B1-21/22 JEM 608549",
+          "type": "Halal Section",
+          "number": "EECN22020000461",
+          "scheme": "Eating Establishment",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "608549"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "63 JURONG WEST CENTRAL 3 #03-01 (STALL INSIDE FAIRPRICE XTRA) 648331",
+          "type": "Central Kitchen",
+          "number": "FPCN22020001665",
+          "scheme": "Food Preparation Area",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "648331"
+        },
+        {
+          "name": "Toppot Mala, Hotpot, Grill Fish",
+          "address": "2 JOO CHIAT ROAD #01-1127 JOO CHIAT COMPLEX 420002",
+          "type": "Hawker",
+          "number": "EEHK26010000066",
+          "scheme": "Eating Establishment",
+          "id": "960af10e-4963-4fa3-8a73-baff09fb38e4",
+          "postal": "420002"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "63 JURONG WEST CENTRAL 3 #03-01 (STALL INSIDE FAIRPRICE XTRA) 648331",
+          "type": "Halal Section",
+          "number": "EECN22020000457",
+          "scheme": "Eating Establishment",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "648331"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "221 BOON LAY PLACE #01-158 (PART OF) BOON LAY SHOPPING CENTRE 640221",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013094",
+          "scheme": "Eating Establishment",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "640221"
+        },
+        {
+          "name": "FUS'ZIN PALATE CATERING PTE LTD",
+          "address": "20 Bukit Batok Crescent #13-21 Enterprise Centre 658080",
+          "type": "Catering Company",
+          "number": "FPGN21110001610",
+          "scheme": "Food Preparation Area",
+          "id": "e12c7f00-7c8e-4809-b4aa-7251d0aa19bd",
+          "postal": "658080"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "507 YISHUN AVENUE 4 #01-03 760507",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013125",
+          "scheme": "Eating Establishment",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "760507"
+        },
+        {
+          "name": "BAE.GAL",
+          "address": "2 TAMPINES CENTRAL 5 #01-32A CENTURY SQUARE 529509",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230001323",
+          "scheme": "Eating Establishment",
+          "id": "c87fe738-138b-4856-93e5-530fc5d286e9",
+          "postal": "529509"
+        },
+        {
+          "name": "SWEE HENG 1989 CLASSIC",
+          "address": "4 BUKIT BATOK STREET 41 #01-48/49 LE QUEST 657991",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013097",
+          "scheme": "Eating Establishment",
+          "id": "92f90956-de91-43bc-915e-12b8de4ff829",
+          "postal": "657991"
+        },
+        {
+          "name": "CROLO BY SWEE HENG",
+          "address": "1 NORTHPOINT DRIVE #B2-144 NORTHPOINT CITY 768019",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013160",
+          "scheme": "Eating Establishment",
+          "id": "2bd1ef47-dec3-44a2-b0d0-b11418553544",
+          "postal": "768019"
+        },
+        {
+          "name": "FISH & CO. RESTAURANTS PTE LTD",
+          "address": "1 TAMPINES WALK #01-15 OUR TAMPINES HUB 528523",
+          "type": "Restaurant",
+          "number": "EERT20230001266",
+          "scheme": "Eating Establishment",
+          "id": "3435f5f1-b870-40fa-8233-6d199f4d1bcd",
+          "postal": "528523"
+        },
+        {
+          "name": "SWEE HENG BAKERY PTE LTD",
+          "address": "308 ANCHORVALE ROAD #01-06 MULTI STOREY CAR PARK 540308",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013145",
+          "scheme": "Eating Establishment",
+          "id": "47ed644a-4dc0-4d03-ab49-e6a88a4eafb5",
+          "postal": "540308"
+        },
+        {
+          "name": "Ovals",
+          "address": "310 ORCHARD ROAD #B1-29 TANG PLAZA 238864",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26010000093",
+          "scheme": "Eating Establishment",
+          "id": "cc280792-8387-4527-9fb5-2644f5bc4c48",
+          "postal": "238864"
+        },
+        {
+          "name": "Maki-San",
+          "address": "399 LORONG 2 TOA PAYOH ESSO TOA PAYOH LORONG 2 319640",
+          "type": "Food Kiosk",
+          "number": "EEFK26010000056",
+          "scheme": "Eating Establishment",
+          "id": "da99f4e2-a7e5-4a67-bfb0-774ff8557be3",
+          "postal": "319640"
+        }
+      ],
+      "removed": [
+        {
+          "name": "TOKYO SHOKUDO",
+          "address": "4 TAMPINES CENTRAL 5 #04-02 TAMPINES MALL 529510",
+          "type": "Restaurant",
+          "number": "EERN21120013325",
+          "scheme": "Eating Establishment",
+          "id": "3e75f97a-1f6a-4795-ba6e-a2ba7adf2128",
+          "postal": "529510"
+        },
+        {
+          "name": "POON RESOURCES PTE LTD",
+          "address": "8A ADMIRALTY STREET #05-37 FOODXCHANGE @ ADMIRALTY 757437",
+          "type": "Central Kitchen",
+          "number": "FPCN21060001542",
+          "scheme": "Food Preparation Area",
+          "id": "a8638d93-94be-4376-8b48-c0b78f108f62",
+          "postal": "757437"
+        },
+        {
+          "name": "Three's A Crowd",
+          "address": "802 Tampines Avenue 4 #01-11 TAMPINES POLYVIEW 520802",
+          "type": "Restaurant",
+          "number": "EERT20250000069",
+          "scheme": "Eating Establishment",
+          "id": "94e3041f-55ca-4513-804b-f07d8deb1bc7",
+          "postal": "520802"
+        },
+        {
+          "name": "QI JI",
+          "address": "11 RIVERVALE CRESCENT #01-02B RIVERVALE MALL 545082",
+          "type": "Restaurant",
+          "number": "EERT25110000007",
+          "scheme": "Eating Establishment",
+          "id": "01cd5d67-3096-4ef7-bc6a-394a937ea753",
+          "postal": "545082"
+        },
+        {
+          "name": "Tenderbest",
+          "address": "101 YUNG SHENG ROAD #01-01 JURONG THEATRE, Stall 2 618497",
+          "type": "Hawker",
+          "number": "EEHN21060012444",
+          "scheme": "Eating Establishment",
+          "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
+          "postal": "618497"
+        },
+        {
+          "name": "Tenderbest",
+          "address": "959 JURONG WEST STREET 92 #01-150/152, Stall 7 640959",
+          "type": "Hawker",
+          "number": "EEHN21060012437",
+          "scheme": "Eating Establishment",
+          "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
+          "postal": "640959"
+        },
+        {
+          "name": "McDonald's",
+          "address": "632 BUKIT BATOK CENTRAL #01-138, Mcdonald's 650632",
+          "type": "Restaurant",
+          "number": "EERN20020011015",
+          "scheme": "Eating Establishment",
+          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+          "postal": "650632"
+        },
+        {
+          "name": "Tenderbest",
+          "address": "276 JURONG WEST STREET 25 #01-01, Stall 8 640276",
+          "type": "Hawker",
+          "number": "EEHK20220000797",
+          "scheme": "Eating Establishment",
+          "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
+          "postal": "640276"
+        },
+        {
+          "name": "PRATA LAHHH!",
+          "address": "119 PLANTATION CRESCENT #01-02 TENGAH COMMUNITY CENTRE 690119",
+          "type": "Restaurant",
+          "number": "EERT20250000826",
+          "scheme": "Eating Establishment",
+          "id": "d604f65c-f0c2-43a9-93b8-44b76300fec4",
+          "postal": "690119"
+        },
+        {
+          "name": "Sanook Kitchen",
+          "address": "83 PUNGGOL CENTRAL #B1-13 WATERWAY POINT 828761",
+          "type": "Restaurant",
+          "number": "EERT20230000516",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "828761"
+        },
+        {
+          "name": "Telur Thai",
+          "address": "1 JURONG WEST CENTRAL 2 #B1-42/43/44 JURONG POINT 648886",
+          "type": "Hawker",
+          "number": "EEHK20250000777",
+          "scheme": "Eating Establishment",
+          "id": "0c1c70c3-2b77-418b-a59d-a2ffd355139c",
+          "postal": "648886"
+        },
+        {
+          "name": "Tenderbest (S1) @ Foodclique Gateway",
+          "address": "132 JURONG GATEWAY ROAD #01-273, Stall 1 600132",
+          "type": "Hawker",
+          "number": "EEHK20240001047",
+          "scheme": "Eating Establishment",
+          "id": "5801d955-b96a-4e2d-9286-c9d861873fff",
+          "postal": "600132"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-01-20T22:18:34.965522",
     "date": "2026-01-20",
     "summary": {
@@ -10694,256 +11826,6 @@
         }
       ],
       "removed": [],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2025-11-18T22:17:07.597970",
-    "date": "2025-11-18",
-    "summary": {
-      "new": 18,
-      "removed": 8,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Sunbo Express Penyet + BBQ",
-          "address": "469 BUKIT BATOK WEST AVENUE 9 #01-20 HARMONY VILLAGE @ BUKIT BATOK, STALL 20 650469",
-          "type": "Hawker",
-          "number": "EEHK20250000763",
-          "scheme": "Eating Establishment",
-          "id": "83a017ba-c8a8-47d1-ad25-cef9b7f89a63",
-          "postal": "650469"
-        },
-        {
-          "name": "XIANG LIAN KOREAN CUISINE (S2)@KOPITIAM KTPH",
-          "address": "90 YISHUN CENTRAL #01-12 KHOO TECK PUAT HOSPITAL, Stall 2 768828",
-          "type": "Hawker",
-          "number": "EEHK20250000043",
-          "scheme": "Eating Establishment",
-          "id": "853e33b2-dff4-4d32-81bc-4848f207e5ad",
-          "postal": "768828"
-        },
-        {
-          "name": "Chicken Rice (MR2) @ Koufu Sun Plaza",
-          "address": "30 SEMBAWANG DRIVE #03-01B SUN PLAZA, (MR2) 757713",
-          "type": "Hawker",
-          "number": "EEHN22010013069",
-          "scheme": "Eating Establishment",
-          "id": "842447da-e887-44ac-923c-f5bfc749ad44",
-          "postal": "757713"
-        },
-        {
-          "name": "Xiang Lian Korean & Japanese Food (MR2)@Koufu Sembawang Mart",
-          "address": "511 CANBERRA ROAD #01-01 SEMBAWANG MART, MR2 750511",
-          "type": "Hawker",
-          "number": "EEHK20250000044",
-          "scheme": "Eating Establishment",
-          "id": "163a9629-8b06-4900-9f0c-ea11a8dfdff7",
-          "postal": "750511"
-        },
-        {
-          "name": "Sunbo Chicken Rice (S6)@Koufu Woodlands Health",
-          "address": "17 WOODLANDS DRIVE 17 #B1-03/04, Stall 6 737628",
-          "type": "Hawker",
-          "number": "EEHK20240001043",
-          "scheme": "Eating Establishment",
-          "id": "6aa0197a-5a40-4f4c-81b5-4d05fe5602a9",
-          "postal": "737628"
-        },
-        {
-          "name": "SOLDIER CHICKEN PASTA - WESTERN (MR1) @ HONG LEE",
-          "address": "7 EUNOS CRESCENT #01-2665, STALL MR1 400007",
-          "type": "Hawker",
-          "number": "EEHK20230000961",
-          "scheme": "Eating Establishment",
-          "id": "3316fa52-df05-479f-8f9c-fd30b89bfe05",
-          "postal": "400007"
-        },
-        {
-          "name": "SOLDIER CHICKEN (S5) @ Broadway Coffeeshop Serangoon",
-          "address": "261 SERANGOON CENTRAL DRIVE #01-15, STALL 5 550261",
-          "type": "Hawker",
-          "number": "EEHK20240000943",
-          "scheme": "Eating Establishment",
-          "id": "a5d7798d-2745-4fc3-8fc7-dfb78bf3dd60",
-          "postal": "550261"
-        },
-        {
-          "name": "Soldier Chicken",
-          "address": "306A WOODLANDS STREET 31 MR1 #01-01 Fuchun Neighbourhood Centre, MR TEH TARIK EATING HOUSE 731306",
-          "type": "Hawker",
-          "number": "EEHK25110000035",
-          "scheme": "Eating Establishment",
-          "id": "405105ab-965c-4bf6-8223-295fecba43e8",
-          "postal": "731306"
-        },
-        {
-          "name": "Fish Soup (S4) @ Cantine Jurong Point",
-          "address": "1 JURONG WEST CENTRAL 2 #B1-42/43/44 JURONG POINT, Stall 4 648886",
-          "type": "Hawker",
-          "number": "EEHN21070012528",
-          "scheme": "Eating Establishment",
-          "id": "db7f3b76-d4c4-4914-907e-7197e8828c43",
-          "postal": "648886"
-        },
-        {
-          "name": "Hatsumi Donburi | Soba",
-          "address": "1 NORTHPOINT DRIVE #02-115 NORTHPOINT CITY 768019",
-          "type": "Restaurant",
-          "number": "EERT25110000039",
-          "scheme": "Eating Establishment",
-          "id": "446ea3e3-576e-4c17-892e-c9102e9e7bbb",
-          "postal": "768019"
-        },
-        {
-          "name": "Sunbo Express Chicken Rice + BBQ",
-          "address": "30 HOSPITAL BOULEVARD Stall 03 Foodgle Hub National Cancer Centre Singapore #02-06 Foodgle Hub National Cancer Centre Singapore, STALL 3 168583",
-          "type": "Hawker",
-          "number": "EEHK20250000614",
-          "scheme": "Eating Establishment",
-          "id": "34bbed7f-c497-4a75-88ce-e870d1614c51",
-          "postal": "168583"
-        },
-        {
-          "name": "Bai Wei Xiang Ayam Penyet & Chicken Rice (S7)@Foodgle Hub NTU 23",
-          "address": "38 NANYANG CRESCENT #01-51-58 BLK 23, Stall 7 636866",
-          "type": "Hawker",
-          "number": "EEHN21050012325",
-          "scheme": "Eating Establishment",
-          "id": "d2fd5544-21f8-4501-af66-a11689bda2cd",
-          "postal": "636866"
-        },
-        {
-          "name": "Sunbo Chicken Rice (MR3)@Cookhouse Whitesands",
-          "address": "1 PASIR RIS CENTRAL STREET 3 #03-01/02/03-26 518457",
-          "type": "Hawker",
-          "number": "EEHK20240000245",
-          "scheme": "Eating Establishment",
-          "id": "0ee563ea-5d79-4566-8cd7-c11ff9b43081",
-          "postal": "518457"
-        },
-        {
-          "name": "ROTIKEK",
-          "address": "632 BEDOK RESERVOIR ROAD #01-860 EUNOS GROVE 470632",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB25110000004",
-          "scheme": "Eating Establishment",
-          "id": "42d34450-5869-4fe6-94cb-107c37145b50",
-          "postal": "470632"
-        },
-        {
-          "name": "Chicken Rice (S3) @ Koufu Buangkok Link",
-          "address": "991 BUANGKOK LINK #02-21, Stall 3 530991",
-          "type": "Hawker",
-          "number": "EEHN21080012642",
-          "scheme": "Eating Establishment",
-          "id": "c416dc91-1a65-4cd7-9e33-8012da022aa2",
-          "postal": "530991"
-        },
-        {
-          "name": "Sunbo Express Penyet + BBQ",
-          "address": "70 COMPASSVALE BOW #02-K05 BUANGKOK HAWKER CENTRE 544692",
-          "type": "Hawker",
-          "number": "EEHK25110000036",
-          "scheme": "Eating Establishment",
-          "id": "83a017ba-c8a8-47d1-ad25-cef9b7f89a63",
-          "postal": "544692"
-        },
-        {
-          "name": "KENNY ROGERS ROASTERS",
-          "address": "6 RAFFLES BOULEVARD #02-103A, 104 MARINA SQUARE 039594",
-          "type": "Restaurant",
-          "number": "EERX21070012631",
-          "scheme": "Eating Establishment",
-          "id": "a1ba7261-d4e8-4606-a28f-371bdade6dc2",
-          "postal": "039594"
-        },
-        {
-          "name": "Sunbo Chicken Rice (S11)@Koufu KKWCH",
-          "address": "100 BUKIT TIMAH ROAD #01-28 KK WOMEN's AND CHILDREN's HOSPITAL, Stall 11 229899",
-          "type": "Hawker",
-          "number": "EEHK20240000978",
-          "scheme": "Eating Establishment",
-          "id": "a456af07-c644-4947-90c0-804e5cae0493",
-          "postal": "229899"
-        }
-      ],
-      "removed": [
-        {
-          "name": "WOK HEY",
-          "address": "53 ANG MO KIO AVENUE 3 #01-36 AMK HUB,(PART OF) LEFT UNIT 569933",
-          "type": "Snack Bar / Bakery",
-          "number": "EEBN20090011420",
-          "scheme": "Eating Establishment",
-          "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
-          "postal": "569933"
-        },
-        {
-          "name": "CRAVE",
-          "address": "1 LOWER KENT RIDGE ROAD #01-09/19/20 ONE @ KENTRIDGE 119082",
-          "type": "Restaurant",
-          "number": "EERN21050012353",
-          "scheme": "Eating Establishment",
-          "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
-          "postal": "119082"
-        },
-        {
-          "name": "POON RESOURCES PTE LTD",
-          "address": "8A ADMIRALTY STREET #05-37 FOODXCHANGE @ ADMIRALTY 757437",
-          "type": "Central Kitchen",
-          "number": "FPCN21060001542",
-          "scheme": "Food Preparation Area",
-          "id": "a8638d93-94be-4376-8b48-c0b78f108f62",
-          "postal": "757437"
-        },
-        {
-          "name": "Tenderbest",
-          "address": "959 JURONG WEST STREET 92 #01-150/152, Stall 7 640959",
-          "type": "Hawker",
-          "number": "EEHN21060012437",
-          "scheme": "Eating Establishment",
-          "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
-          "postal": "640959"
-        },
-        {
-          "name": "WOK HEY",
-          "address": "1 TAMPINES WALK #01-82A OUR TAMPINES HUB 528523",
-          "type": "Snack Bar / Bakery",
-          "number": "EEBN22020013109",
-          "scheme": "Eating Establishment",
-          "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
-          "postal": "528523"
-        },
-        {
-          "name": "STUFF'D",
-          "address": "1 WOODLANDS SQUARE #B1-K17 CAUSEWAY POINT 738099",
-          "type": "Snack Bar / Bakery",
-          "number": "EEBN21110012929",
-          "scheme": "Eating Establishment",
-          "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
-          "postal": "738099"
-        },
-        {
-          "name": "Pondok Selera By Nurul Hidayah",
-          "address": "8A ADMIRALTY STREET #07-38 FOOD XCHANGE @ ADMIRALTY 757437",
-          "type": "Catering Company",
-          "number": "FPCA20240001085",
-          "scheme": "Food Preparation Area",
-          "id": "8f6454b2-602c-4716-9676-b445a534cc6a",
-          "postal": "757437"
-        },
-        {
-          "name": "Wow Chicken Rice (S4) @ Boleh Boleh Harbourfront",
-          "address": "1 MARITIME SQUARE #01-103-108 HARBOURFRONT CENTRE, Stall 4 099253",
-          "type": "Hawker",
-          "number": "EEHK20230000630",
-          "scheme": "Eating Establishment",
-          "id": "f86a27e5-653a-4a7e-aeb1-9069fac407e4",
-          "postal": "099253"
-        }
-      ],
       "updated": []
     }
   }
