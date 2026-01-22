@@ -504,6 +504,15 @@
     "postal": "608526"
   },
   {
+    "name": "57 Nasi Lovemak",
+    "address": "91 HILLVIEW LINK Timbre Plus Hillview #02-K10 CMPB 669723",
+    "type": "Hawker",
+    "number": "EEHK26010000106",
+    "scheme": "Eating Establishment",
+    "id": "91dd84fb-613e-4079-87e1-31e3393bb978",
+    "postal": "669723"
+  },
+  {
     "name": "7 DAYS MAKAN DI PASIR RIS",
     "address": "10 PASIR RIS CENTRAL #01-08 PASIR RIS MRT STATION 519634",
     "type": "Snack Bar / Bakery",
@@ -673,6 +682,24 @@
     "scheme": "Eating Establishment",
     "id": "e3739fb2-98c3-4004-83b5-1fbc9d4c375f",
     "postal": "797637"
+  },
+  {
+    "name": "Abang 991 Nasi Padang",
+    "address": "1 JOO KOON CIRCLE Stall 04, Kopitiam #03-25 FAIRPRICE HUB 629117",
+    "type": "Hawker",
+    "number": "EEHK26010000068",
+    "scheme": "Eating Establishment",
+    "id": "d9c49f7c-5407-43af-be90-1f1e3f1789a6",
+    "postal": "629117"
+  },
+  {
+    "name": "Abang 991 Nasi Padang",
+    "address": "991 BUANGKOK LINK MR5, KOUFU #02-21 BUANGKOK SQUARE 530991",
+    "type": "Hawker",
+    "number": "EEHK26010000067",
+    "scheme": "Eating Establishment",
+    "id": "b59b4fb1-a994-44c0-bded-2d1781800178",
+    "postal": "530991"
   },
   {
     "name": "ABANG GEMUK",
@@ -855,6 +882,15 @@
     "postal": "368330"
   },
   {
+    "name": "AGOR WESTERN",
+    "address": "100 BUKIT TIMAH ROAD #01-28 KK WOMEN'S AND CHILDREN'S HOSPITAL, Stall 10 229899",
+    "type": "Hawker",
+    "number": "EEHK20240000704",
+    "scheme": "Eating Establishment",
+    "id": "7f21c11a-cb73-4f49-ab19-6d222e57f690",
+    "postal": "229899"
+  },
+  {
     "name": "Agor Western (S10) @ Kopitiam NUH",
     "address": "5 LOWER KENT RIDGE ROAD #01-01 NATIONAL UNIVERSITY HOSPITAL, STALL 10 119074",
     "type": "Hawker",
@@ -862,15 +898,6 @@
     "scheme": "Eating Establishment",
     "id": "4f8d3107-33ac-40eb-8c05-6e9acc242a77",
     "postal": "119074"
-  },
-  {
-    "name": "AGOR WESTERN (S10) @ KOUFU KKH",
-    "address": "100 BUKIT TIMAH ROAD #01-28 KK WOMEN'S AND CHILDREN'S HOSPITAL, Stall 10 229899",
-    "type": "Hawker",
-    "number": "EEHK20240000704",
-    "scheme": "Eating Establishment",
-    "id": "7f21c11a-cb73-4f49-ab19-6d222e57f690",
-    "postal": "229899"
   },
   {
     "name": "Ah B Bakery",
@@ -1096,6 +1123,24 @@
     "scheme": "Eating Establishment",
     "id": "18ce2f76-9e97-448b-a1a1-362b68565920",
     "postal": "650155"
+  },
+  {
+    "name": "AL MAKAN",
+    "address": "201D TAMPINES STREET 21 #01-1155 524201",
+    "type": "Restaurant",
+    "number": "EERT20230001225",
+    "scheme": "Eating Establishment",
+    "id": "11f1839f-4f76-4287-879a-e6583e1aec64",
+    "postal": "524201"
+  },
+  {
+    "name": "AL ZOUQ FOODS & CATERER PTE. LTD.",
+    "address": "727 ANG MO KIO AVENUE 6 #01-4264 560727",
+    "type": "Restaurant",
+    "number": "EERT20220000139",
+    "scheme": "Eating Establishment",
+    "id": "5c539ec2-e820-493d-88c5-cbf3aab626b2",
+    "postal": "560727"
   },
   {
     "name": "AL-AZHAR",
@@ -1612,24 +1657,6 @@
   },
   {
     "name": "ANDES",
-    "address": "80 AIRPORT BOULEVARD,CHANGI AIRPORT #03-18 T1, LEVEL 3 VIEWING MALL CTRL 819642",
-    "type": "Restaurant",
-    "number": "EERN21070012647",
-    "scheme": "Eating Establishment",
-    "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
-    "postal": "819642"
-  },
-  {
-    "name": "ANDES",
-    "address": "6 WOODLANDS SQUARE #01-13/16 WOODS SQUARE 737737",
-    "type": "Restaurant",
-    "number": "EERN21070012648",
-    "scheme": "Eating Establishment",
-    "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
-    "postal": "737737"
-  },
-  {
-    "name": "ANDES",
     "address": "1 Pasir Ris Close #02-325 E!Hub @ Downtown East 519599",
     "type": "Restaurant",
     "number": "EERN21070012650",
@@ -1645,6 +1672,24 @@
     "scheme": "Eating Establishment",
     "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
     "postal": "609601"
+  },
+  {
+    "name": "ANDES",
+    "address": "80 AIRPORT BOULEVARD,CHANGI AIRPORT #03-18 T1, LEVEL 3 VIEWING MALL CTRL 819642",
+    "type": "Restaurant",
+    "number": "EERN21070012647",
+    "scheme": "Eating Establishment",
+    "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
+    "postal": "819642"
+  },
+  {
+    "name": "ANDES",
+    "address": "6 WOODLANDS SQUARE #01-13/16 WOODS SQUARE 737737",
+    "type": "Restaurant",
+    "number": "EERN21070012648",
+    "scheme": "Eating Establishment",
+    "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
+    "postal": "737737"
   },
   {
     "name": "ANDES",
@@ -2629,24 +2674,6 @@
   },
   {
     "name": "BAKE INC",
-    "address": "17 BEDOK SOUTH ROAD #01-561 460017",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN21120013018",
-    "scheme": "Eating Establishment",
-    "id": "da0503ca-1962-4761-9a81-674b82f2b814",
-    "postal": "460017"
-  },
-  {
-    "name": "BAKE INC",
-    "address": "17 PETIR ROAD #B2-41/42 HILLION MALL 678278",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN21120013020",
-    "scheme": "Eating Establishment",
-    "id": "da0503ca-1962-4761-9a81-674b82f2b814",
-    "postal": "678278"
-  },
-  {
-    "name": "BAKE INC",
     "address": "960 WOODLANDS ROAD #01-09 KRANJI MRT STATION 738702",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000117",
@@ -2671,6 +2698,24 @@
     "scheme": "Eating Establishment",
     "id": "da0503ca-1962-4761-9a81-674b82f2b814",
     "postal": "208767"
+  },
+  {
+    "name": "BAKE INC",
+    "address": "17 BEDOK SOUTH ROAD #01-561 460017",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN21120013018",
+    "scheme": "Eating Establishment",
+    "id": "da0503ca-1962-4761-9a81-674b82f2b814",
+    "postal": "460017"
+  },
+  {
+    "name": "BAKE INC",
+    "address": "17 PETIR ROAD #B2-41/42 HILLION MALL 678278",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN21120013020",
+    "scheme": "Eating Establishment",
+    "id": "da0503ca-1962-4761-9a81-674b82f2b814",
+    "postal": "678278"
   },
   {
     "name": "BAKE INC",
@@ -2719,15 +2764,6 @@
   },
   {
     "name": "BAKE INC",
-    "address": "301 BOON LAY WAY #01-25/26 BOON LAY MRT STATION 649846",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20230001162",
-    "scheme": "Eating Establishment",
-    "id": "da0503ca-1962-4761-9a81-674b82f2b814",
-    "postal": "649846"
-  },
-  {
-    "name": "BAKE INC",
     "address": "61 CHOA CHU KANG DRIVE #01-08 YEW TEE MRT STATION 689715",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000119",
@@ -2743,6 +2779,15 @@
     "scheme": "Eating Establishment",
     "id": "da0503ca-1962-4761-9a81-674b82f2b814",
     "postal": "567226"
+  },
+  {
+    "name": "BAKE INC",
+    "address": "301 BOON LAY WAY #01-25/26 BOON LAY MRT STATION 649846",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20230001162",
+    "scheme": "Eating Establishment",
+    "id": "da0503ca-1962-4761-9a81-674b82f2b814",
+    "postal": "649846"
   },
   {
     "name": "BAKE INC",
@@ -5239,15 +5284,6 @@
   },
   {
     "name": "Captain Kim Korean BBQ & Hotpot",
-    "address": "3151 COMMONWEALTH AVENUE WEST #02-05/06/07 GRANTRAL MALL @ CLEMENTI 129581",
-    "type": "Restaurant",
-    "number": "EERT20230000092",
-    "scheme": "Eating Establishment",
-    "id": "17afee8c-89a8-4752-b834-092827f2b4ae",
-    "postal": "129581"
-  },
-  {
-    "name": "Captain Kim Korean BBQ & Hotpot",
     "address": "1 WOODLANDS ROAD #01-24 JUNCTION 10 677899",
     "type": "Restaurant",
     "number": "EERX21110013080",
@@ -5263,6 +5299,15 @@
     "scheme": "Eating Establishment",
     "id": "9d4cb9e6-2004-49c6-9aed-a8cf5e013a32",
     "postal": "529653"
+  },
+  {
+    "name": "Captain Kim Korean BBQ & Hotpot",
+    "address": "3151 COMMONWEALTH AVENUE WEST #02-05/06/07 GRANTRAL MALL @ CLEMENTI 129581",
+    "type": "Restaurant",
+    "number": "EERT20230000092",
+    "scheme": "Eating Establishment",
+    "id": "17afee8c-89a8-4752-b834-092827f2b4ae",
+    "postal": "129581"
   },
   {
     "name": "Carnival Bakery",
@@ -5290,6 +5335,15 @@
     "scheme": "Eating Establishment",
     "id": "d66d631c-3e54-49a0-b033-47cb03e06807",
     "postal": "671524"
+  },
+  {
+    "name": "CASSEROLE CATERING SERVICES PTE LTD",
+    "address": "17 CHIN BEE CRESCENT 619898",
+    "type": "Catering Company",
+    "number": "FPGN21110001608",
+    "scheme": "Food Preparation Area",
+    "id": "f15dcc02-fc19-473d-890d-7d327cfce377",
+    "postal": "619898"
   },
   {
     "name": "CASUARINA CURRY",
@@ -5416,6 +5470,15 @@
     "scheme": "Food Preparation Area",
     "id": "62fcff51-39d1-4835-91eb-4f99c9215d30",
     "postal": "637055"
+  },
+  {
+    "name": "CELEBOX",
+    "address": "30B QUALITY ROAD #06-03 618826",
+    "type": "Catering Company",
+    "number": "FPCA26010000081",
+    "scheme": "Food Preparation Area",
+    "id": "b7d396ff-a39a-41e1-856c-9b5296701347",
+    "postal": "618826"
   },
   {
     "name": "CENTRAL KITCHEN @ CAROUSEL",
@@ -5677,6 +5740,15 @@
     "scheme": "Eating Establishment",
     "id": "9908a17f-6e52-4e6d-bc05-76b6b53fe2cf",
     "postal": "738099"
+  },
+  {
+    "name": "Chicken Rice",
+    "address": "348 YISHUN AVENUE 11 Stall 2 @ Rasa Rasa Yishun #01-04 ADORA GREEN 760348",
+    "type": "Hawker",
+    "number": "EEHK26010000049",
+    "scheme": "Eating Establishment",
+    "id": "169bf8c6-9d51-422e-b586-f764ac733b76",
+    "postal": "760348"
   },
   {
     "name": "Chicken Rice",
@@ -8119,42 +8191,6 @@
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
-    "address": "505 WEST COAST DRIVE #01-210 120505",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN21060012379",
-    "scheme": "Eating Establishment",
-    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
-    "postal": "120505"
-  },
-  {
-    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
-    "address": "29 EAST COAST ROAD 428750",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20240000240",
-    "scheme": "Eating Establishment",
-    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
-    "postal": "428750"
-  },
-  {
-    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
-    "address": "47 LORONG 6 TOA PAYOH #01-148 EAST PAYOH SPRING 310047",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20240000615",
-    "scheme": "Eating Establishment",
-    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
-    "postal": "310047"
-  },
-  {
-    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
-    "address": "21 JASMINE ROAD #01 ADELPHI PARK ESTATE 576587",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20240000621",
-    "scheme": "Eating Establishment",
-    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
-    "postal": "576587"
-  },
-  {
-    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
     "address": "1 HILLVIEW RISE #01-03 667970",
     "type": "Restaurant",
     "number": "EERN21060012528",
@@ -8278,6 +8314,15 @@
     "scheme": "Eating Establishment",
     "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
     "postal": "769674"
+  },
+  {
+    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+    "address": "21 JASMINE ROAD #01 ADELPHI PARK ESTATE 576587",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20240000621",
+    "scheme": "Eating Establishment",
+    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+    "postal": "576587"
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
@@ -8416,6 +8461,15 @@
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+    "address": "505 WEST COAST DRIVE #01-210 120505",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN21060012379",
+    "scheme": "Eating Establishment",
+    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+    "postal": "120505"
+  },
+  {
+    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
     "address": "218 BEDOK NORTH STREET 1 #01-15 460218",
     "type": "Snack Bar / Bakery",
     "number": "EEBN21060012380",
@@ -8440,6 +8494,15 @@
     "scheme": "Eating Establishment",
     "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
     "postal": "329811"
+  },
+  {
+    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+    "address": "29 EAST COAST ROAD 428750",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20240000240",
+    "scheme": "Eating Establishment",
+    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+    "postal": "428750"
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
@@ -8479,6 +8542,15 @@
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+    "address": "47 LORONG 6 TOA PAYOH #01-148 EAST PAYOH SPRING 310047",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20240000615",
+    "scheme": "Eating Establishment",
+    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+    "postal": "310047"
+  },
+  {
+    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
     "address": "46 TELOK BLANGAH DRIVE #01-81 BLANGAH COURT 100046",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000616",
@@ -8497,21 +8569,21 @@
   },
   {
     "name": "Donburi Hero",
-    "address": "112 EAST COAST ROAD Part Right #01-20 112 KATONG 428802",
-    "type": "Restaurant",
-    "number": "EERT26010000023",
-    "scheme": "Eating Establishment",
-    "id": "3997725f-3312-46ed-916f-649504557dd3",
-    "postal": "428802"
-  },
-  {
-    "name": "Donburi Hero",
     "address": "1 STADIUM PLACE #01-40 SPORTS HUB RETAIL MALL 397628",
     "type": "Restaurant",
     "number": "EERT20240000093",
     "scheme": "Eating Establishment",
     "id": "3997725f-3312-46ed-916f-649504557dd3",
     "postal": "397628"
+  },
+  {
+    "name": "Donburi Hero",
+    "address": "112 EAST COAST ROAD Part Right #01-20 112 KATONG 428802",
+    "type": "Restaurant",
+    "number": "EERT26010000023",
+    "scheme": "Eating Establishment",
+    "id": "3997725f-3312-46ed-916f-649504557dd3",
+    "postal": "428802"
   },
   {
     "name": "Dou",
@@ -8818,6 +8890,15 @@
     "scheme": "Eating Establishment",
     "id": "6b1f4f6a-dd44-4734-8dd4-0034c275e6a3",
     "postal": "420002"
+  },
+  {
+    "name": "Drinks",
+    "address": "348 YISHUN AVENUE 11 Stall 7 #01-04 ADORA GREEN 760348",
+    "type": "Hawker",
+    "number": "EEHK26010000051",
+    "scheme": "Eating Establishment",
+    "id": "f8fba3e8-1c3c-45dd-9418-cb358628dc21",
+    "postal": "760348"
   },
   {
     "name": "Drinks & Desserts (S8) @ Tang Tea House Jurong West",
@@ -9666,6 +9747,15 @@
     "postal": "449536"
   },
   {
+    "name": "Express Teppan-yaki",
+    "address": "200 VICTORIA STREET #B1-K23 BUGIS JUNCTION 188021",
+    "type": "Restaurant",
+    "number": "EERT26010000069",
+    "scheme": "Eating Establishment",
+    "id": "3bf1548d-f083-4f8c-893d-2b3152a3460c",
+    "postal": "188021"
+  },
+  {
     "name": "EXPRESS TEPPAN-YAKI (MR4) @ KOPITIAM COMPASS ONE",
     "address": "1 SENGKANG SQUARE #04-11 COMPASS ONE 545078",
     "type": "Hawker",
@@ -10045,6 +10135,15 @@
   },
   {
     "name": "FISH & CO RESTAURANTS PTE LTD",
+    "address": "1 WOODLANDS SQUARE #02-34/K01 CAUSEWAY POINT 738099",
+    "type": "Restaurant",
+    "number": "EERT20220000851",
+    "scheme": "Eating Establishment",
+    "id": "7a9147e1-c7c2-49fc-b8ba-3ddc6693281b",
+    "postal": "738099"
+  },
+  {
+    "name": "FISH & CO RESTAURANTS PTE LTD",
     "address": "3 TEMASEK BOULEVARD #B1-145 SUNTEC CITY MALL 038983",
     "type": "Restaurant",
     "number": "EERT25120000111",
@@ -10080,24 +10179,6 @@
     "postal": "648886"
   },
   {
-    "name": "FISH & CO.",
-    "address": "11 BIDADARI PARK DRIVE #01-37 THE WOODLEIGH MALL 367803",
-    "type": "Restaurant",
-    "number": "EERT20240001259",
-    "scheme": "Eating Establishment",
-    "id": "df22ebcd-10f7-43a7-8143-8eaecd612a7a",
-    "postal": "367803"
-  },
-  {
-    "name": "Fish & Co.",
-    "address": "110 PASIR RIS CENTRAL #01-06 519641",
-    "type": "Hawker",
-    "number": "EEHK20240001279",
-    "scheme": "Eating Establishment",
-    "id": "dcef3017-de5f-439c-9754-8eaecfd88960",
-    "postal": "519641"
-  },
-  {
     "name": "Fish & Co.",
     "address": "524A JELAPANG ROAD #01-03 GREENRIDGE SHOPPING CENTRE, STALL 6 671524",
     "type": "Hawker",
@@ -10107,6 +10188,15 @@
     "postal": "671524"
   },
   {
+    "name": "FISH & CO.",
+    "address": "78 AIRPORT BOULEVARD #B1-300 JEWEL CHANGI AIRPORT 819666",
+    "type": "Restaurant",
+    "number": "EERT20250000563",
+    "scheme": "Eating Establishment",
+    "id": "631ef2cc-69ac-47ac-ac09-be02a7039f65",
+    "postal": "819666"
+  },
+  {
     "name": "Fish & Co.",
     "address": "10 SENGKANG SQUARE #01-54 KOPITIAM SQUARE 544829",
     "type": "Hawker",
@@ -10114,6 +10204,15 @@
     "scheme": "Eating Establishment",
     "id": "6abb1b61-dc88-42cc-9d64-a8e900a62115",
     "postal": "544829"
+  },
+  {
+    "name": "FISH & CO.",
+    "address": "11 BIDADARI PARK DRIVE #01-37 THE WOODLEIGH MALL 367803",
+    "type": "Restaurant",
+    "number": "EERT20240001259",
+    "scheme": "Eating Establishment",
+    "id": "df22ebcd-10f7-43a7-8143-8eaecd612a7a",
+    "postal": "367803"
   },
   {
     "name": "FISH & CO. RESTAURANTS PTE LTD",
@@ -10411,15 +10510,6 @@
     "scheme": "Eating Establishment",
     "id": "2fbb3d7c-7591-477f-be56-1636a66ed256",
     "postal": "129751"
-  },
-  {
-    "name": "FONG SENG NASI LEMAK",
-    "address": "101 Pasir Panjang Road 118527",
-    "type": "Restaurant",
-    "number": "EERN21020012034",
-    "scheme": "Eating Establishment",
-    "id": "050c83b7-f1f2-48ab-9b49-9b149adf4a27",
-    "postal": "118527"
   },
   {
     "name": "Food Library Western (MR1) @ Cantine Corner Admiralty",
@@ -10899,6 +10989,15 @@
     "postal": "209445"
   },
   {
+    "name": "Gardens You Tiao",
+    "address": "49A SERANGOON GARDEN WAY #01-33 SERANGOON GARDEN MARKET 555945",
+    "type": "Hawker",
+    "number": "EEHK26010000052",
+    "scheme": "Eating Establishment",
+    "id": "d8a80351-2de7-4302-a48f-9964e214196a",
+    "postal": "555945"
+  },
+  {
     "name": "GELARE",
     "address": "1 WOODLANDS SQUARE #03-K06/K07/K08 CAUSEWAY POINT 738099",
     "type": "Restaurant",
@@ -11304,6 +11403,15 @@
     "postal": "118425"
   },
   {
+    "name": "GREENTEA RICE",
+    "address": "2 BUKIT PANJANG RING ROAD #01-18 BUKIT PANJANG HAWKER CENTRE 679947",
+    "type": "Hawker",
+    "number": "EEHK26010000098",
+    "scheme": "Eating Establishment",
+    "id": "5a474880-3540-4cb4-b367-c8e4c56ad7d4",
+    "postal": "679947"
+  },
+  {
     "name": "Greentea Rice (S18) @ Fernvale Hawker Centre",
     "address": "21 SENGKANG WEST AVENUE #03-18 FERNVALE POINT,Stall 18 797650",
     "type": "Hawker",
@@ -11448,6 +11556,15 @@
     "postal": "129588"
   },
   {
+    "name": "Ha-Jun Korean",
+    "address": "9 RAFFLES PLACE #B1-04 REPUBLIC PLAZA 048619",
+    "type": "Restaurant",
+    "number": "EERT26010000112",
+    "scheme": "Eating Establishment",
+    "id": "ba41759e-67df-4726-8251-83516eb1e81f",
+    "postal": "048619"
+  },
+  {
     "name": "HA-JUN KOREAN",
     "address": "1 NORTH BUONA VISTA LINK #01-02 139691",
     "type": "Restaurant",
@@ -11458,21 +11575,21 @@
   },
   {
     "name": "Ha-Jun Korean",
-    "address": "90 BRAS BASAH ROAD #B1-29/29A ESPLANADE MRT STATION 189562",
-    "type": "Restaurant",
-    "number": "EERT20230000476",
-    "scheme": "Eating Establishment",
-    "id": "dabbc0a8-0df4-448e-9faa-f69f855d7b55",
-    "postal": "189562"
-  },
-  {
-    "name": "Ha-Jun Korean",
     "address": "30 RAFFLES PLACE #B1-15 30 RAFFLES PLACE 048622",
     "type": "Restaurant",
     "number": "EERT20240000157",
     "scheme": "Eating Establishment",
     "id": "dabbc0a8-0df4-448e-9faa-f69f855d7b55",
     "postal": "048622"
+  },
+  {
+    "name": "Ha-Jun Korean",
+    "address": "90 BRAS BASAH ROAD #B1-29/29A ESPLANADE MRT STATION 189562",
+    "type": "Restaurant",
+    "number": "EERT20230000476",
+    "scheme": "Eating Establishment",
+    "id": "dabbc0a8-0df4-448e-9faa-f69f855d7b55",
+    "postal": "189562"
   },
   {
     "name": "HA... JUN",
@@ -11509,6 +11626,15 @@
     "scheme": "Eating Establishment",
     "id": "5f9be741-0af1-4b3e-8036-9fbd62dd5a59",
     "postal": "339511"
+  },
+  {
+    "name": "HAI GE JI BEEF NOODLES",
+    "address": "461 YISHUN AVENUE 6 #01-01 BLOSSOM SPRING @ YISHUN 760461",
+    "type": "Restaurant",
+    "number": "EERT26010000128",
+    "scheme": "Eating Establishment",
+    "id": "7e52d575-69ed-499e-97c1-a3bdcc9705d0",
+    "postal": "760461"
   },
   {
     "name": "Hai Ge Ji Hainanese Chicken Rice",
@@ -12124,7 +12250,7 @@
   },
   {
     "name": "Happy Nasi Ayam (MR2) @ Maxim 168 Toa Payoh",
-    "address": "168 LORONG 1 TOA PAYOH #01-1040 TOA PAYOH GREEN,MR2 310168",
+    "address": "168 LORONG 1 TOA PAYOH #01-1040 TOA PAYOH GREEN, MR2 310168",
     "type": "Hawker",
     "number": "EEHK20250000003",
     "scheme": "Eating Establishment",
@@ -15823,6 +15949,15 @@
   },
   {
     "name": "KOPI & TARTS",
+    "address": "208 BEDOK SOUTH AVENUE 1 ST. ANDREW COMMUNITY HOSPITAL 469726",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26010000077",
+    "scheme": "Eating Establishment",
+    "id": "f0c681c2-b4e6-4cba-9de7-9d2e2c9f7515",
+    "postal": "469726"
+  },
+  {
+    "name": "KOPI & TARTS",
     "address": "45 SCIENCE PARK ROAD #01-07 SSPARKLE 117407",
     "type": "Restaurant",
     "number": "EERN21020012037",
@@ -16108,6 +16243,15 @@
     "scheme": "Eating Establishment",
     "id": "81a9d8cc-aa88-4f0a-b82f-d45cc9e63f64",
     "postal": "189861"
+  },
+  {
+    "name": "Kraft x Mexicana",
+    "address": "820 TAMPINES STREET 81 #01-526 TAMPINES POLYVIEW 520820",
+    "type": "Restaurant",
+    "number": "EERT20230001255",
+    "scheme": "Eating Establishment",
+    "id": "7ebf6d71-a92a-45c4-bf79-3627f36c24fe",
+    "postal": "520820"
   },
   {
     "name": "Krispy Kreme",
@@ -17152,6 +17296,15 @@
     "scheme": "Eating Establishment",
     "id": "e5766605-e9b7-44e6-94f1-f1695f3ecacf",
     "postal": "119391"
+  },
+  {
+    "name": "Makan By The Bay BBQ & Grill & Seafood",
+    "address": "18 MARINA GARDENS DRIVE Stall 9 &10 #01-19 SATAY BY THE BAY 018953",
+    "type": "Hawker",
+    "number": "EEHK26010000073",
+    "scheme": "Eating Establishment",
+    "id": "70916be9-15d4-44e3-b9f5-43982050665e",
+    "postal": "018953"
   },
   {
     "name": "MAKAN MAKAN",
@@ -18577,15 +18730,6 @@
   },
   {
     "name": "McDonald's",
-    "address": "70 JELLICOE ROAD #01-20 V HOTEL LAVENDER 208767",
-    "type": "Restaurant",
-    "number": "EERN20020010979",
-    "scheme": "Eating Establishment",
-    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-    "postal": "208767"
-  },
-  {
-    "name": "McDonald's",
     "address": "633 TAMPINES NORTH DRIVE 2 #02-03 TAMPINES GREENCOURT 520633",
     "type": "Restaurant",
     "number": "EERT25100000143",
@@ -19141,6 +19285,15 @@
     "scheme": "Eating Establishment",
     "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
     "postal": "169637"
+  },
+  {
+    "name": "McDonald's",
+    "address": "70 JELLICOE ROAD #01-20 V HOTEL LAVENDER 208767",
+    "type": "Restaurant",
+    "number": "EERN20020010979",
+    "scheme": "Eating Establishment",
+    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+    "postal": "208767"
   },
   {
     "name": "McDonald's",
@@ -19762,6 +19915,15 @@
     "scheme": "Eating Establishment",
     "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
     "postal": "390051"
+  },
+  {
+    "name": "MUNCHI PANCAKES",
+    "address": "84 PUNGGOL WAY #02-K86 PUNGGOL COAST HAWKER CENTRE 829911",
+    "type": "Hawker",
+    "number": "EEHK26010000055",
+    "scheme": "Eating Establishment",
+    "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
+    "postal": "829911"
   },
   {
     "name": "MUNCHI PANCAKES",
@@ -22860,6 +23022,15 @@
     "postal": "768019"
   },
   {
+    "name": "Pho Viet-Nam",
+    "address": "1 WOODLANDS SQUARE Stall 2, Cantine #07-03 CAUSEWAY POINT 738099",
+    "type": "Hawker",
+    "number": "EEHK26010000088",
+    "scheme": "Eating Establishment",
+    "id": "ef509206-8ab7-42f3-81ce-3194805f8a7a",
+    "postal": "738099"
+  },
+  {
     "name": "PHO VIET-NAM (MR3) @ Boleh Boleh! Clementi",
     "address": "3155 COMMONWEALTH AVENUE WEST #04-20/21/22 THE CLEMENTI MALL,MR 3 129588",
     "type": "Hawker",
@@ -22876,6 +23047,15 @@
     "scheme": "Eating Establishment",
     "id": "d6655e92-f3f2-4bca-8c7b-70dc9a2d0259",
     "postal": "648886"
+  },
+  {
+    "name": "Pineapple @ Aaannngg Pte Ltd",
+    "address": "11 CHANGI COAST WALK Safra Resort Sea Sports Centre 499740",
+    "type": "Catering Company",
+    "number": "FPCA26010000072",
+    "scheme": "Food Preparation Area",
+    "id": "e5421017-045c-4449-aa39-17c860cc7722",
+    "postal": "499740"
   },
   {
     "name": "PINES FOOD DELIGHT PTE LTD",
@@ -22969,15 +23149,6 @@
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
-    "address": "888 WOODLANDS DRIVE 50 #01-729 888 PLAZA 730888",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000702",
-    "scheme": "Eating Establishment",
-    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
-    "postal": "730888"
-  },
-  {
-    "name": "PIZZA HUT SINGAPORE PTE LTD",
     "address": "66 JALAN MALU-MALU SEMBAWANG SPRINGS ESTATE 769681",
     "type": "Snack Bar / Bakery",
     "number": "EESB20250000704",
@@ -22987,21 +23158,21 @@
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
-    "address": "3 YUAN CHING ROAD #01-03 JURONG LEISURE COMPLEX 618642",
-    "type": "Restaurant",
-    "number": "EERN21080012794",
-    "scheme": "Eating Establishment",
-    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
-    "postal": "618642"
-  },
-  {
-    "name": "PIZZA HUT SINGAPORE PTE LTD",
     "address": "1 SENGKANG SQUARE #B1-15 SENGKANG MALL (1SM) 545078",
     "type": "Restaurant",
     "number": "EERN21080012769",
     "scheme": "Eating Establishment",
     "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
     "postal": "545078"
+  },
+  {
+    "name": "PIZZA HUT SINGAPORE PTE LTD",
+    "address": "888 WOODLANDS DRIVE 50 #01-729 888 PLAZA 730888",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000702",
+    "scheme": "Eating Establishment",
+    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
+    "postal": "730888"
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
@@ -23209,6 +23380,15 @@
     "scheme": "Eating Establishment",
     "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
     "postal": "677743"
+  },
+  {
+    "name": "PIZZA HUT SINGAPORE PTE LTD",
+    "address": "3 YUAN CHING ROAD #01-03 JURONG LEISURE COMPLEX 618642",
+    "type": "Restaurant",
+    "number": "EERN21080012794",
+    "scheme": "Eating Establishment",
+    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
+    "postal": "618642"
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
@@ -23617,15 +23797,6 @@
   },
   {
     "name": "POLAR PUFFS & CAKES",
-    "address": "820 THOMSON ROAD #01-31B MOUNT ALVERNIA HOSPITAL 574623",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN20060011283",
-    "scheme": "Eating Establishment",
-    "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
-    "postal": "574623"
-  },
-  {
-    "name": "POLAR PUFFS & CAKES",
     "address": "1 SENGKANG SQUARE #01-26 COMPASS ONE 545078",
     "type": "Snack Bar / Bakery",
     "number": "EEBN20040010692",
@@ -23758,6 +23929,15 @@
     "scheme": "Eating Establishment",
     "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
     "postal": "608549"
+  },
+  {
+    "name": "POLAR PUFFS & CAKES",
+    "address": "820 THOMSON ROAD #01-31B MOUNT ALVERNIA HOSPITAL 574623",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN20060011283",
+    "scheme": "Eating Establishment",
+    "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+    "postal": "574623"
   },
   {
     "name": "POLAR PUFFS & CAKES",
@@ -24112,15 +24292,6 @@
   },
   {
     "name": "Poulet",
-    "address": "1 WOODLANDS SQUARE #B1-25 CAUSEWAY POINT 738099",
-    "type": "Restaurant",
-    "number": "EERT20220000865",
-    "scheme": "Eating Establishment",
-    "id": "7ff20024-e719-4938-b00e-547276bea89c",
-    "postal": "738099"
-  },
-  {
-    "name": "Poulet",
     "address": "252 NORTH BRIDGE ROAD #B1-65/66 RAFFLES CITY SHOPPING CENTRE,#B1-65/66 179103",
     "type": "Restaurant",
     "number": "EERN21110013061",
@@ -24136,6 +24307,15 @@
     "scheme": "Eating Establishment",
     "id": "7ff20024-e719-4938-b00e-547276bea89c",
     "postal": "188067"
+  },
+  {
+    "name": "Poulet",
+    "address": "1 WOODLANDS SQUARE #B1-25 CAUSEWAY POINT 738099",
+    "type": "Restaurant",
+    "number": "EERT20220000865",
+    "scheme": "Eating Establishment",
+    "id": "7ff20024-e719-4938-b00e-547276bea89c",
+    "postal": "738099"
   },
   {
     "name": "Poulet + Brasserie",
@@ -24247,15 +24427,6 @@
   },
   {
     "name": "PRIMADELI",
-    "address": "1 WOODLANDS SQUARE #B1-K23 CAUSEWAY POINT 738099",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000731",
-    "scheme": "Eating Establishment",
-    "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
-    "postal": "738099"
-  },
-  {
-    "name": "PRIMADELI",
     "address": "1 PASIR RIS CLOSE #02-K3/K4 E!HUB@DOWNTOWN EAST 519599",
     "type": "Snack Bar / Bakery",
     "number": "EESB20250000732",
@@ -24346,6 +24517,15 @@
   },
   {
     "name": "PRIMADELI",
+    "address": "1 WOODLANDS SQUARE #B1-K23 CAUSEWAY POINT 738099",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000731",
+    "scheme": "Eating Establishment",
+    "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+    "postal": "738099"
+  },
+  {
+    "name": "PRIMADELI",
     "address": "18 YISHUN AVENUE 9 #02-61 JUNCTION NINE 768897",
     "type": "Snack Bar / Bakery",
     "number": "EESB20250000736",
@@ -24370,15 +24550,6 @@
     "scheme": "Eating Establishment",
     "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
     "postal": "820168"
-  },
-  {
-    "name": "PRIMADELI",
-    "address": "1 PASIR RIS CENTRAL STREET 3 #B1-K15 WHITE SANDS 518457",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000751",
-    "scheme": "Eating Establishment",
-    "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
-    "postal": "518457"
   },
   {
     "name": "Providence Cafe & Bakery",
@@ -24523,6 +24694,15 @@
     "scheme": "Eating Establishment",
     "id": "01cd5d67-3096-4ef7-bc6a-394a937ea753",
     "postal": "528833"
+  },
+  {
+    "name": "QI JI",
+    "address": "59 JALAN PEMIMPIN Kitchen 5 #01-03 & #01-04 L & Y BUILDING 577218",
+    "type": "Hawker",
+    "number": "EEHK26010000102",
+    "scheme": "Eating Establishment",
+    "id": "01cd5d67-3096-4ef7-bc6a-394a937ea753",
+    "postal": "577218"
   },
   {
     "name": "QI JI",
@@ -24706,7 +24886,7 @@
   },
   {
     "name": "Rasa Sayang Rasa Sayang (MR3) @Yong Li Coffee Station 105 Canberra",
-    "address": "105 CANBERRA STREET #01-01,(MR3) 750105",
+    "address": "105 CANBERRA STREET #01-01, (MR3) 750105",
     "type": "Hawker",
     "number": "EEHK20250000037",
     "scheme": "Eating Establishment",
@@ -24766,6 +24946,15 @@
     "scheme": "Eating Establishment",
     "id": "b820e61a-e25d-40fe-b177-121aedf7df68",
     "postal": "409057"
+  },
+  {
+    "name": "Red Ginger",
+    "address": "63 JURONG WEST CENTRAL 3 01-71/72/73/74 JURONG POINT 648331",
+    "type": "Restaurant",
+    "number": "EERT26010000111",
+    "scheme": "Eating Establishment",
+    "id": "b820e61a-e25d-40fe-b177-121aedf7df68",
+    "postal": "648331"
   },
   {
     "name": "Red Ginger",
@@ -26163,6 +26352,15 @@
     "postal": "819665"
   },
   {
+    "name": "Seafood & BBQ",
+    "address": "348 YISHUN AVENUE 11 Stall 1 #01-04 ADORA GREEN 760348",
+    "type": "Hawker",
+    "number": "EEHK26010000050",
+    "scheme": "Eating Establishment",
+    "id": "eb266de5-4963-427a-b214-cee3f5b48a0d",
+    "postal": "760348"
+  },
+  {
     "name": "Seafood (S1) @ Rasa Rasa Sengkang",
     "address": "278D COMPASSVALE BOW #01-05, Stall 1 544278",
     "type": "Hawker",
@@ -26620,6 +26818,15 @@
     "scheme": "Eating Establishment",
     "id": "2713edeb-c05a-41d4-8a2b-b124adee7c56",
     "postal": "207321"
+  },
+  {
+    "name": "SHERLYN & CO",
+    "address": "3017 BEDOK NORTH STREET 5 Gourmet East Kitchen #01-12 GOURMET EAST KITCHEN 486121",
+    "type": "Catering Company",
+    "number": "FPCA26010000057",
+    "scheme": "Food Preparation Area",
+    "id": "e88daf61-55f5-40a3-9840-6c43d4d16a76",
+    "postal": "486121"
   },
   {
     "name": "Shinfuni",
@@ -27325,21 +27532,21 @@
   },
   {
     "name": "SPRINGLEAF PRATA PLACE",
-    "address": "1 WOODLANDS ROAD #01-25 JUNCTION 10 677899",
-    "type": "Restaurant",
-    "number": "EERN21060012485",
-    "scheme": "Eating Establishment",
-    "id": "97aab0ac-414e-458a-9758-d335f07b1e6b",
-    "postal": "677899"
-  },
-  {
-    "name": "SPRINGLEAF PRATA PLACE",
     "address": "60 YISHUN AVENUE 4 #01-07 SAFRA COUNTRY CLUB (YISHUN) 769027",
     "type": "Restaurant",
     "number": "EERN21060012488",
     "scheme": "Eating Establishment",
     "id": "97aab0ac-414e-458a-9758-d335f07b1e6b",
     "postal": "769027"
+  },
+  {
+    "name": "SPRINGLEAF PRATA PLACE",
+    "address": "1 WOODLANDS ROAD #01-25 JUNCTION 10 677899",
+    "type": "Restaurant",
+    "number": "EERN21060012485",
+    "scheme": "Eating Establishment",
+    "id": "97aab0ac-414e-458a-9758-d335f07b1e6b",
+    "postal": "677899"
   },
   {
     "name": "SPRINGLEAF PRATA PLACE",
@@ -27412,15 +27619,6 @@
     "scheme": "Eating Establishment",
     "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
     "postal": "520474"
-  },
-  {
-    "name": "Srisun Express",
-    "address": "56 SERANGOON GARDEN WAY SERANGOON GARDEN ESTATE 555952",
-    "type": "Restaurant",
-    "number": "EERX21040012274",
-    "scheme": "Eating Establishment",
-    "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
-    "postal": "555952"
   },
   {
     "name": "Srisun Prata.com",
@@ -29314,6 +29512,15 @@
   },
   {
     "name": "Sunbo Express Chicken Rice + BBQ",
+    "address": "180 ANG MO KIO AVENUE 8 Blk E Stall 02 Foodgle Hub North Canteen #02 NANYANG POLYTECHNIC (NYP) 569830",
+    "type": "Hawker",
+    "number": "EEHK26010000065",
+    "scheme": "Eating Establishment",
+    "id": "a4c435f2-b282-4b26-af75-559cc09a6dba",
+    "postal": "569830"
+  },
+  {
+    "name": "Sunbo Express Chicken Rice + BBQ",
     "address": "30 HOSPITAL BOULEVARD Stall 03 Foodgle Hub National Cancer Centre Singapore #02-06 Foodgle Hub National Cancer Centre Singapore, STALL 3 168583",
     "type": "Hawker",
     "number": "EEHK20250000614",
@@ -31122,6 +31329,15 @@
     "postal": "819643"
   },
   {
+    "name": "TEXAS LONE STAR (S6) @ PASIR RIS CENTRAL HAWKER CENTRE",
+    "address": "110 PASIR RIS CENTRAL #01-06 519641",
+    "type": "Hawker",
+    "number": "EEHK20240001279",
+    "scheme": "Eating Establishment",
+    "id": "dcef3017-de5f-439c-9754-8eaecfd88960",
+    "postal": "519641"
+  },
+  {
     "name": "TF TENDERFRESH PASTA & BROILER (S4) @ Kopitiam Corner Pasir Ris St 51",
     "address": "527C PASIR RIS STREET 51 #01-01 COSTA RIS, stall 4 513527",
     "type": "Hawker",
@@ -32661,6 +32877,24 @@
     "postal": "367803"
   },
   {
+    "name": "THE SOY COMPANY PTE. LTD.",
+    "address": "1010 ALJUNIED AVENUE 4 #01-04/06 ALJUNIED INDUSTRIAL ESTATE 389911",
+    "type": "Central Kitchen",
+    "number": "FPCK20220000154",
+    "scheme": "Food Preparation Area",
+    "id": "b732b112-602d-421d-9c8c-90d1c9c2a47e",
+    "postal": "389911"
+  },
+  {
+    "name": "THE SOY COMPANY PTE. LTD.",
+    "address": "1007 ALJUNIED AVENUE 4 #01-03 ALJUNIED INDUSTRIAL ESTATE 389908",
+    "type": "Central Kitchen",
+    "number": "FPCK20220000155",
+    "scheme": "Food Preparation Area",
+    "id": "b732b112-602d-421d-9c8c-90d1c9c2a47e",
+    "postal": "389908"
+  },
+  {
     "name": "The Tree Cafe",
     "address": "107 NORTH BRIDGE ROAD #02-33 FUNAN 179105",
     "type": "Restaurant",
@@ -33031,6 +33265,15 @@
   },
   {
     "name": "Tongue Tip Lanzhou Beef Noodles",
+    "address": "601 MACPHERSON ROAD #01-48 GRANTRAL MALL 368242",
+    "type": "Restaurant",
+    "number": "EERT26010000119",
+    "scheme": "Eating Establishment",
+    "id": "2dce1ae1-5e33-4749-952e-c14abd6ebf2b",
+    "postal": "368242"
+  },
+  {
+    "name": "Tongue Tip Lanzhou Beef Noodles",
     "address": "30 WOODLANDS AVENUE 1 #01-09A THE WOODGROVE 739065",
     "type": "Restaurant",
     "number": "EERT20250000117",
@@ -33283,33 +33526,6 @@
   },
   {
     "name": "TREATS",
-    "address": "638 GEYLANG ROAD ESSO PETROL STATION 389569",
-    "type": "Food Kiosk",
-    "number": "EEFK20220001015",
-    "scheme": "Eating Establishment",
-    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
-    "postal": "389569"
-  },
-  {
-    "name": "TREATS",
-    "address": "1027 UPPER SERANGOON ROAD MOBIL SERVICE STATION 534765",
-    "type": "Food Kiosk",
-    "number": "EEFK20220001016",
-    "scheme": "Eating Establishment",
-    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
-    "postal": "534765"
-  },
-  {
-    "name": "TREATS",
-    "address": "590 EAST COAST ROAD ESSO SERVICE STATION 458995",
-    "type": "Food Kiosk",
-    "number": "EEFK20220001017",
-    "scheme": "Eating Establishment",
-    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
-    "postal": "458995"
-  },
-  {
-    "name": "TREATS",
     "address": "262 QUEENSWAY MOBIL SERVICE STATION 149061",
     "type": "Food Kiosk",
     "number": "EEFK20230000900",
@@ -33415,6 +33631,33 @@
     "scheme": "Eating Establishment",
     "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
     "postal": "758452"
+  },
+  {
+    "name": "TREATS",
+    "address": "638 GEYLANG ROAD ESSO PETROL STATION 389569",
+    "type": "Food Kiosk",
+    "number": "EEFK20220001015",
+    "scheme": "Eating Establishment",
+    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
+    "postal": "389569"
+  },
+  {
+    "name": "TREATS",
+    "address": "1027 UPPER SERANGOON ROAD MOBIL SERVICE STATION 534765",
+    "type": "Food Kiosk",
+    "number": "EEFK20220001016",
+    "scheme": "Eating Establishment",
+    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
+    "postal": "534765"
+  },
+  {
+    "name": "TREATS",
+    "address": "590 EAST COAST ROAD ESSO SERVICE STATION 458995",
+    "type": "Food Kiosk",
+    "number": "EEFK20220001017",
+    "scheme": "Eating Establishment",
+    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
+    "postal": "458995"
   },
   {
     "name": "TREATS",
@@ -35271,6 +35514,15 @@
     "postal": "486350"
   },
   {
+    "name": "Yea Mama Catering",
+    "address": "1550 BEDOK NORTH AVENUE 4 #02-12 JTC BEDOK FOOD CITY 489950",
+    "type": "Catering Company",
+    "number": "FPCA26010000064",
+    "scheme": "Food Preparation Area",
+    "id": "80446d13-0553-4512-b762-d14820d9d8dd",
+    "postal": "489950"
+  },
+  {
     "name": "YES! NASI KUKUS & NASI LEMAK (S3)@ HZB CANTEEN WAVE 9",
     "address": "71 WOODLANDS INDUSTRIAL PARK E9 #01-04 WAVE9,(Stall 3) 757048",
     "type": "Hawker",
@@ -35431,15 +35683,6 @@
     "scheme": "Eating Establishment",
     "id": "b3f7acc2-ed44-4e1d-be2f-ddfd176c2011",
     "postal": "579837"
-  },
-  {
-    "name": "YOSHINOYA",
-    "address": "1 TAMPINES WALK #B1-K1/K22/K2 OUR TAMPINES HUB 528523",
-    "type": "Restaurant",
-    "number": "EERT20240001212",
-    "scheme": "Eating Establishment",
-    "id": "b3f7acc2-ed44-4e1d-be2f-ddfd176c2011",
-    "postal": "528523"
   },
   {
     "name": "YOSHINOYA",

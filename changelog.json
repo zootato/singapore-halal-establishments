@@ -1,5 +1,417 @@
 [
   {
+    "timestamp": "2026-01-22T22:18:32.835039",
+    "date": "2026-01-22",
+    "summary": {
+      "new": 31,
+      "removed": 4,
+      "updated": 4
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Abang 991 Nasi Padang",
+          "address": "1 JOO KOON CIRCLE Stall 04, Kopitiam #03-25 FAIRPRICE HUB 629117",
+          "type": "Hawker",
+          "number": "EEHK26010000068",
+          "scheme": "Eating Establishment",
+          "id": "d9c49f7c-5407-43af-be90-1f1e3f1789a6",
+          "postal": "629117"
+        },
+        {
+          "name": "AL ZOUQ FOODS & CATERER PTE. LTD.",
+          "address": "727 ANG MO KIO AVENUE 6 #01-4264 560727",
+          "type": "Restaurant",
+          "number": "EERT20220000139",
+          "scheme": "Eating Establishment",
+          "id": "5c539ec2-e820-493d-88c5-cbf3aab626b2",
+          "postal": "560727"
+        },
+        {
+          "name": "Pineapple @ Aaannngg Pte Ltd",
+          "address": "11 CHANGI COAST WALK Safra Resort Sea Sports Centre 499740",
+          "type": "Catering Company",
+          "number": "FPCA26010000072",
+          "scheme": "Food Preparation Area",
+          "id": "e5421017-045c-4449-aa39-17c860cc7722",
+          "postal": "499740"
+        },
+        {
+          "name": "Ha-Jun Korean",
+          "address": "9 RAFFLES PLACE #B1-04 REPUBLIC PLAZA 048619",
+          "type": "Restaurant",
+          "number": "EERT26010000112",
+          "scheme": "Eating Establishment",
+          "id": "ba41759e-67df-4726-8251-83516eb1e81f",
+          "postal": "048619"
+        },
+        {
+          "name": "SHERLYN & CO",
+          "address": "3017 BEDOK NORTH STREET 5 Gourmet East Kitchen #01-12 GOURMET EAST KITCHEN 486121",
+          "type": "Catering Company",
+          "number": "FPCA26010000057",
+          "scheme": "Food Preparation Area",
+          "id": "e88daf61-55f5-40a3-9840-6c43d4d16a76",
+          "postal": "486121"
+        },
+        {
+          "name": "CELEBOX",
+          "address": "30B QUALITY ROAD #06-03 618826",
+          "type": "Catering Company",
+          "number": "FPCA26010000081",
+          "scheme": "Food Preparation Area",
+          "id": "b7d396ff-a39a-41e1-856c-9b5296701347",
+          "postal": "618826"
+        },
+        {
+          "name": "Yea Mama Catering",
+          "address": "1550 BEDOK NORTH AVENUE 4 #02-12 JTC BEDOK FOOD CITY 489950",
+          "type": "Catering Company",
+          "number": "FPCA26010000064",
+          "scheme": "Food Preparation Area",
+          "id": "80446d13-0553-4512-b762-d14820d9d8dd",
+          "postal": "489950"
+        },
+        {
+          "name": "Red Ginger",
+          "address": "63 JURONG WEST CENTRAL 3 01-71/72/73/74 JURONG POINT 648331",
+          "type": "Restaurant",
+          "number": "EERT26010000111",
+          "scheme": "Eating Establishment",
+          "id": "b820e61a-e25d-40fe-b177-121aedf7df68",
+          "postal": "648331"
+        },
+        {
+          "name": "KOPI & TARTS",
+          "address": "208 BEDOK SOUTH AVENUE 1 ST. ANDREW COMMUNITY HOSPITAL 469726",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26010000077",
+          "scheme": "Eating Establishment",
+          "id": "f0c681c2-b4e6-4cba-9de7-9d2e2c9f7515",
+          "postal": "469726"
+        },
+        {
+          "name": "Gardens You Tiao",
+          "address": "49A SERANGOON GARDEN WAY #01-33 SERANGOON GARDEN MARKET 555945",
+          "type": "Hawker",
+          "number": "EEHK26010000052",
+          "scheme": "Eating Establishment",
+          "id": "d8a80351-2de7-4302-a48f-9964e214196a",
+          "postal": "555945"
+        },
+        {
+          "name": "HAI GE JI BEEF NOODLES",
+          "address": "461 YISHUN AVENUE 6 #01-01 BLOSSOM SPRING @ YISHUN 760461",
+          "type": "Restaurant",
+          "number": "EERT26010000128",
+          "scheme": "Eating Establishment",
+          "id": "7e52d575-69ed-499e-97c1-a3bdcc9705d0",
+          "postal": "760461"
+        },
+        {
+          "name": "Abang 991 Nasi Padang",
+          "address": "991 BUANGKOK LINK MR5, KOUFU #02-21 BUANGKOK SQUARE 530991",
+          "type": "Hawker",
+          "number": "EEHK26010000067",
+          "scheme": "Eating Establishment",
+          "id": "b59b4fb1-a994-44c0-bded-2d1781800178",
+          "postal": "530991"
+        },
+        {
+          "name": "Tongue Tip Lanzhou Beef Noodles",
+          "address": "601 MACPHERSON ROAD #01-48 GRANTRAL MALL 368242",
+          "type": "Restaurant",
+          "number": "EERT26010000119",
+          "scheme": "Eating Establishment",
+          "id": "2dce1ae1-5e33-4749-952e-c14abd6ebf2b",
+          "postal": "368242"
+        },
+        {
+          "name": "Makan By The Bay BBQ & Grill & Seafood",
+          "address": "18 MARINA GARDENS DRIVE Stall 9 &10 #01-19 SATAY BY THE BAY 018953",
+          "type": "Hawker",
+          "number": "EEHK26010000073",
+          "scheme": "Eating Establishment",
+          "id": "70916be9-15d4-44e3-b9f5-43982050665e",
+          "postal": "018953"
+        },
+        {
+          "name": "Drinks",
+          "address": "348 YISHUN AVENUE 11 Stall 7 #01-04 ADORA GREEN 760348",
+          "type": "Hawker",
+          "number": "EEHK26010000051",
+          "scheme": "Eating Establishment",
+          "id": "f8fba3e8-1c3c-45dd-9418-cb358628dc21",
+          "postal": "760348"
+        },
+        {
+          "name": "Express Teppan-yaki",
+          "address": "200 VICTORIA STREET #B1-K23 BUGIS JUNCTION 188021",
+          "type": "Restaurant",
+          "number": "EERT26010000069",
+          "scheme": "Eating Establishment",
+          "id": "3bf1548d-f083-4f8c-893d-2b3152a3460c",
+          "postal": "188021"
+        },
+        {
+          "name": "GREENTEA RICE",
+          "address": "2 BUKIT PANJANG RING ROAD #01-18 BUKIT PANJANG HAWKER CENTRE 679947",
+          "type": "Hawker",
+          "number": "EEHK26010000098",
+          "scheme": "Eating Establishment",
+          "id": "5a474880-3540-4cb4-b367-c8e4c56ad7d4",
+          "postal": "679947"
+        },
+        {
+          "name": "FISH & CO.",
+          "address": "78 AIRPORT BOULEVARD #B1-300 JEWEL CHANGI AIRPORT 819666",
+          "type": "Restaurant",
+          "number": "EERT20250000563",
+          "scheme": "Eating Establishment",
+          "id": "631ef2cc-69ac-47ac-ac09-be02a7039f65",
+          "postal": "819666"
+        },
+        {
+          "name": "57 Nasi Lovemak",
+          "address": "91 HILLVIEW LINK Timbre Plus Hillview #02-K10 CMPB 669723",
+          "type": "Hawker",
+          "number": "EEHK26010000106",
+          "scheme": "Eating Establishment",
+          "id": "91dd84fb-613e-4079-87e1-31e3393bb978",
+          "postal": "669723"
+        },
+        {
+          "name": "CASSEROLE CATERING SERVICES PTE LTD",
+          "address": "17 CHIN BEE CRESCENT 619898",
+          "type": "Catering Company",
+          "number": "FPGN21110001608",
+          "scheme": "Food Preparation Area",
+          "id": "f15dcc02-fc19-473d-890d-7d327cfce377",
+          "postal": "619898"
+        },
+        {
+          "name": "MUNCHI PANCAKES",
+          "address": "84 PUNGGOL WAY #02-K86 PUNGGOL COAST HAWKER CENTRE 829911",
+          "type": "Hawker",
+          "number": "EEHK26010000055",
+          "scheme": "Eating Establishment",
+          "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
+          "postal": "829911"
+        },
+        {
+          "name": "Kraft x Mexicana",
+          "address": "820 TAMPINES STREET 81 #01-526 TAMPINES POLYVIEW 520820",
+          "type": "Restaurant",
+          "number": "EERT20230001255",
+          "scheme": "Eating Establishment",
+          "id": "7ebf6d71-a92a-45c4-bf79-3627f36c24fe",
+          "postal": "520820"
+        },
+        {
+          "name": "Seafood & BBQ",
+          "address": "348 YISHUN AVENUE 11 Stall 1 #01-04 ADORA GREEN 760348",
+          "type": "Hawker",
+          "number": "EEHK26010000050",
+          "scheme": "Eating Establishment",
+          "id": "eb266de5-4963-427a-b214-cee3f5b48a0d",
+          "postal": "760348"
+        },
+        {
+          "name": "AL MAKAN",
+          "address": "201D TAMPINES STREET 21 #01-1155 524201",
+          "type": "Restaurant",
+          "number": "EERT20230001225",
+          "scheme": "Eating Establishment",
+          "id": "11f1839f-4f76-4287-879a-e6583e1aec64",
+          "postal": "524201"
+        },
+        {
+          "name": "Chicken Rice",
+          "address": "348 YISHUN AVENUE 11 Stall 2 @ Rasa Rasa Yishun #01-04 ADORA GREEN 760348",
+          "type": "Hawker",
+          "number": "EEHK26010000049",
+          "scheme": "Eating Establishment",
+          "id": "169bf8c6-9d51-422e-b586-f764ac733b76",
+          "postal": "760348"
+        },
+        {
+          "name": "THE SOY COMPANY PTE. LTD.",
+          "address": "1007 ALJUNIED AVENUE 4 #01-03 ALJUNIED INDUSTRIAL ESTATE 389908",
+          "type": "Central Kitchen",
+          "number": "FPCK20220000155",
+          "scheme": "Food Preparation Area",
+          "id": "b732b112-602d-421d-9c8c-90d1c9c2a47e",
+          "postal": "389908"
+        },
+        {
+          "name": "QI JI",
+          "address": "59 JALAN PEMIMPIN Kitchen 5 #01-03 & #01-04 L & Y BUILDING 577218",
+          "type": "Hawker",
+          "number": "EEHK26010000102",
+          "scheme": "Eating Establishment",
+          "id": "01cd5d67-3096-4ef7-bc6a-394a937ea753",
+          "postal": "577218"
+        },
+        {
+          "name": "FISH & CO RESTAURANTS PTE LTD",
+          "address": "1 WOODLANDS SQUARE #02-34/K01 CAUSEWAY POINT 738099",
+          "type": "Restaurant",
+          "number": "EERT20220000851",
+          "scheme": "Eating Establishment",
+          "id": "7a9147e1-c7c2-49fc-b8ba-3ddc6693281b",
+          "postal": "738099"
+        },
+        {
+          "name": "Sunbo Express Chicken Rice + BBQ",
+          "address": "180 ANG MO KIO AVENUE 8 Blk E Stall 02 Foodgle Hub North Canteen #02 NANYANG POLYTECHNIC (NYP) 569830",
+          "type": "Hawker",
+          "number": "EEHK26010000065",
+          "scheme": "Eating Establishment",
+          "id": "a4c435f2-b282-4b26-af75-559cc09a6dba",
+          "postal": "569830"
+        },
+        {
+          "name": "Pho Viet-Nam",
+          "address": "1 WOODLANDS SQUARE Stall 2, Cantine #07-03 CAUSEWAY POINT 738099",
+          "type": "Hawker",
+          "number": "EEHK26010000088",
+          "scheme": "Eating Establishment",
+          "id": "ef509206-8ab7-42f3-81ce-3194805f8a7a",
+          "postal": "738099"
+        },
+        {
+          "name": "THE SOY COMPANY PTE. LTD.",
+          "address": "1010 ALJUNIED AVENUE 4 #01-04/06 ALJUNIED INDUSTRIAL ESTATE 389911",
+          "type": "Central Kitchen",
+          "number": "FPCK20220000154",
+          "scheme": "Food Preparation Area",
+          "id": "b732b112-602d-421d-9c8c-90d1c9c2a47e",
+          "postal": "389911"
+        }
+      ],
+      "removed": [
+        {
+          "name": "FONG SENG NASI LEMAK",
+          "address": "101 Pasir Panjang Road 118527",
+          "type": "Restaurant",
+          "number": "EERN21020012034",
+          "scheme": "Eating Establishment",
+          "id": "050c83b7-f1f2-48ab-9b49-9b149adf4a27",
+          "postal": "118527"
+        },
+        {
+          "name": "PRIMADELI",
+          "address": "1 PASIR RIS CENTRAL STREET 3 #B1-K15 WHITE SANDS 518457",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000751",
+          "scheme": "Eating Establishment",
+          "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+          "postal": "518457"
+        },
+        {
+          "name": "YOSHINOYA",
+          "address": "1 TAMPINES WALK #B1-K1/K22/K2 OUR TAMPINES HUB 528523",
+          "type": "Restaurant",
+          "number": "EERT20240001212",
+          "scheme": "Eating Establishment",
+          "id": "b3f7acc2-ed44-4e1d-be2f-ddfd176c2011",
+          "postal": "528523"
+        },
+        {
+          "name": "Srisun Express",
+          "address": "56 SERANGOON GARDEN WAY SERANGOON GARDEN ESTATE 555952",
+          "type": "Restaurant",
+          "number": "EERX21040012274",
+          "scheme": "Eating Establishment",
+          "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
+          "postal": "555952"
+        }
+      ],
+      "updated": [
+        {
+          "previous": {
+            "name": "Rasa Sayang Rasa Sayang (MR3) @Yong Li Coffee Station 105 Canberra",
+            "address": "105 CANBERRA STREET #01-01,(MR3) 750105",
+            "type": "Hawker",
+            "number": "EEHK20250000037",
+            "scheme": "Eating Establishment",
+            "id": "67abef24-3c17-442d-ba09-5630ec42f1e1",
+            "postal": "750105"
+          },
+          "current": {
+            "name": "Rasa Sayang Rasa Sayang (MR3) @Yong Li Coffee Station 105 Canberra",
+            "address": "105 CANBERRA STREET #01-01, (MR3) 750105",
+            "type": "Hawker",
+            "number": "EEHK20250000037",
+            "scheme": "Eating Establishment",
+            "id": "67abef24-3c17-442d-ba09-5630ec42f1e1",
+            "postal": "750105"
+          }
+        },
+        {
+          "previous": {
+            "name": "Happy Nasi Ayam (MR2) @ Maxim 168 Toa Payoh",
+            "address": "168 LORONG 1 TOA PAYOH #01-1040 TOA PAYOH GREEN,MR2 310168",
+            "type": "Hawker",
+            "number": "EEHK20250000003",
+            "scheme": "Eating Establishment",
+            "id": "225f398c-03e3-4827-b173-80bb6d36e05d",
+            "postal": "310168"
+          },
+          "current": {
+            "name": "Happy Nasi Ayam (MR2) @ Maxim 168 Toa Payoh",
+            "address": "168 LORONG 1 TOA PAYOH #01-1040 TOA PAYOH GREEN, MR2 310168",
+            "type": "Hawker",
+            "number": "EEHK20250000003",
+            "scheme": "Eating Establishment",
+            "id": "225f398c-03e3-4827-b173-80bb6d36e05d",
+            "postal": "310168"
+          }
+        },
+        {
+          "previous": {
+            "name": "AGOR WESTERN (S10) @ KOUFU KKH",
+            "address": "100 BUKIT TIMAH ROAD #01-28 KK WOMEN'S AND CHILDREN'S HOSPITAL, Stall 10 229899",
+            "type": "Hawker",
+            "number": "EEHK20240000704",
+            "scheme": "Eating Establishment",
+            "id": "7f21c11a-cb73-4f49-ab19-6d222e57f690",
+            "postal": "229899"
+          },
+          "current": {
+            "name": "AGOR WESTERN",
+            "address": "100 BUKIT TIMAH ROAD #01-28 KK WOMEN'S AND CHILDREN'S HOSPITAL, Stall 10 229899",
+            "type": "Hawker",
+            "number": "EEHK20240000704",
+            "scheme": "Eating Establishment",
+            "id": "7f21c11a-cb73-4f49-ab19-6d222e57f690",
+            "postal": "229899"
+          }
+        },
+        {
+          "previous": {
+            "name": "Fish & Co.",
+            "address": "110 PASIR RIS CENTRAL #01-06 519641",
+            "type": "Hawker",
+            "number": "EEHK20240001279",
+            "scheme": "Eating Establishment",
+            "id": "dcef3017-de5f-439c-9754-8eaecfd88960",
+            "postal": "519641"
+          },
+          "current": {
+            "name": "TEXAS LONE STAR (S6) @ PASIR RIS CENTRAL HAWKER CENTRE",
+            "address": "110 PASIR RIS CENTRAL #01-06 519641",
+            "type": "Hawker",
+            "number": "EEHK20240001279",
+            "scheme": "Eating Establishment",
+            "id": "dcef3017-de5f-439c-9754-8eaecfd88960",
+            "postal": "519641"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-01-21T22:18:28.978895",
     "date": "2026-01-21",
     "summary": {
@@ -11793,39 +12205,6 @@
           "postal": "758456"
         }
       ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2025-11-19T22:15:33.140338",
-    "date": "2025-11-19",
-    "summary": {
-      "new": 2,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Sunbo Chicken Rice & Ayam Penyet (S7) @ Koufu Wisteria Mall",
-          "address": "598 YISHUN RING ROAD #B1-01 WISTERIA MALL, stall 7 768698",
-          "type": "Hawker",
-          "number": "EEHK20250000046",
-          "scheme": "Eating Establishment",
-          "id": "d39ecc4a-8871-4d09-a761-294fc806cd31",
-          "postal": "768698"
-        },
-        {
-          "name": "Sunbo Express Chicken Rice & BBQ Central Kitchen",
-          "address": "10 TAMPINES NORTH DRIVE 4 #01-05/K6 JTC SPACE @ TAMPINES NORTH 528553",
-          "type": "Central Kitchen",
-          "number": "FPCK25110000037",
-          "scheme": "Food Preparation Area",
-          "id": "9fa9e5c6-5648-4bfa-84a3-a739e96b331e",
-          "postal": "528553"
-        }
-      ],
-      "removed": [],
       "updated": []
     }
   }
