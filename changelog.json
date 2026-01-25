@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-01-25T22:16:28.502247",
+    "date": "2026-01-25",
+    "summary": {
+      "new": 2,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Malabar Kitchen",
+          "address": "1 DICKSON ROAD #Level 1 209493",
+          "type": "Restaurant",
+          "number": "EERT26010000114",
+          "scheme": "Eating Establishment",
+          "id": "73c93ac7-c09b-438f-94b4-08d803993c80",
+          "postal": "209493"
+        },
+        {
+          "name": "BOTTLE TREE CAFE RESTAURANT",
+          "address": "510 UPPER JURONG ROAD #01-06-08 SINGAPORE DISCOVERY CENTRE 638365",
+          "type": "Restaurant",
+          "number": "EERT20230001324",
+          "scheme": "Eating Establishment",
+          "id": "77cc7c13-1c6a-41fc-9cbe-aa561e347cff",
+          "postal": "638365"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-01-23T22:16:56.667581",
     "date": "2026-01-23",
     "summary": {
@@ -13048,39 +13081,6 @@
           "postal": "828761"
         }
       ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2025-11-21T22:16:14.965337",
-    "date": "2025-11-21",
-    "summary": {
-      "new": 2,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "OLD CHANG KEE",
-          "address": "1 TAMPINES WALK #01-105 OUR TAMPINES HUB 528523",
-          "type": "Restaurant",
-          "number": "EERT25100000145",
-          "scheme": "Eating Establishment",
-          "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
-          "postal": "528523"
-        },
-        {
-          "name": "Old Town White Coffee",
-          "address": "1 Stadium Place #01-18/19 Stadium Kallang Wave 397628",
-          "type": "Restaurant",
-          "number": "EERN21090012874",
-          "scheme": "Eating Establishment",
-          "id": "ee5b0bd3-84c2-43f4-9692-f98a7eb72528",
-          "postal": "397628"
-        }
-      ],
-      "removed": [],
       "updated": []
     }
   }

@@ -3735,6 +3735,15 @@
     "postal": "649846"
   },
   {
+    "name": "BOTTLE TREE CAFE RESTAURANT",
+    "address": "510 UPPER JURONG ROAD #01-06-08 SINGAPORE DISCOVERY CENTRE 638365",
+    "type": "Restaurant",
+    "number": "EERT20230001324",
+    "scheme": "Eating Establishment",
+    "id": "77cc7c13-1c6a-41fc-9cbe-aa561e347cff",
+    "postal": "638365"
+  },
+  {
     "name": "Bounce Teochew Fishball Noodles",
     "address": "78 AIRPORT BOULEVARD #B2-238 JEWEL CHANGI AIRPORT 819666",
     "type": "Hawker",
@@ -4483,15 +4492,6 @@
   },
   {
     "name": "BURGER KING",
-    "address": "1 HARBOURFRONT WALK #B2-41/56 VIVOCITY 098585",
-    "type": "Restaurant",
-    "number": "EERT25120000009",
-    "scheme": "Eating Establishment",
-    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
-    "postal": "098585"
-  },
-  {
-    "name": "BURGER KING",
     "address": "1 JELEBU ROAD #01-28/29 BUKIT PANJANG PLAZA 677743",
     "type": "Restaurant",
     "number": "EERN20030011313",
@@ -4615,6 +4615,15 @@
     "scheme": "Eating Establishment",
     "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
     "postal": "059413"
+  },
+  {
+    "name": "BURGER KING",
+    "address": "1 HARBOURFRONT WALK #B2-41/56 VIVOCITY 098585",
+    "type": "Restaurant",
+    "number": "EERT25120000009",
+    "scheme": "Eating Establishment",
+    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+    "postal": "098585"
   },
   {
     "name": "BURGER KING",
@@ -5104,15 +5113,6 @@
   },
   {
     "name": "CANADIAN 2 FOR 1 PIZZA",
-    "address": "557 Jurong West Street 42 #01-397 640557",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN21050012274",
-    "scheme": "Eating Establishment",
-    "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
-    "postal": "640557"
-  },
-  {
-    "name": "CANADIAN 2 FOR 1 PIZZA",
     "address": "10 KIM KEAT ROAD,First storey 328844",
     "type": "Snack Bar / Bakery",
     "number": "EEBN21050012272",
@@ -5137,6 +5137,15 @@
     "scheme": "Eating Establishment",
     "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
     "postal": "828670"
+  },
+  {
+    "name": "CANADIAN 2 FOR 1 PIZZA",
+    "address": "557 Jurong West Street 42 #01-397 640557",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN21050012274",
+    "scheme": "Eating Establishment",
+    "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
+    "postal": "640557"
   },
   {
     "name": "CANADIAN 2 FOR 1 PIZZA",
@@ -17683,6 +17692,15 @@
     "scheme": "Eating Establishment",
     "id": "b2ecd9ac-c354-470b-8de3-18b0a85d83b2",
     "postal": "469572"
+  },
+  {
+    "name": "Malabar Kitchen",
+    "address": "1 DICKSON ROAD #Level 1 209493",
+    "type": "Restaurant",
+    "number": "EERT26010000114",
+    "scheme": "Eating Establishment",
+    "id": "73c93ac7-c09b-438f-94b4-08d803993c80",
+    "postal": "209493"
   },
   {
     "name": "Malay & Indian Cuisine @ RVRC(Mngd by Smorgasbord Int Pte Ltd)",
