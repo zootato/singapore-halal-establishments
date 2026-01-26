@@ -1,5 +1,183 @@
 [
   {
+    "timestamp": "2026-01-26T22:17:16.940058",
+    "date": "2026-01-26",
+    "summary": {
+      "new": 8,
+      "removed": 10,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "McDonald's",
+          "address": "17 Petir Road #B1-25-27 Hillion Mall 678278",
+          "type": "Restaurant",
+          "number": "EERN20020010962",
+          "scheme": "Eating Establishment",
+          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+          "postal": "678278"
+        },
+        {
+          "name": "Flavours of M @ M Hotel",
+          "address": "81 ANSON ROAD #B2-00 M HOTEL 079908",
+          "type": "Staff Canteen",
+          "number": "EEFN21100012546",
+          "scheme": "Eating Establishment",
+          "id": "8a3080ff-27fd-4eef-868a-9c6f1fe84c67",
+          "postal": "079908"
+        },
+        {
+          "name": "EXPRESS TEPPAN-YAKI/ Alley.Wei",
+          "address": "4 TAMPINES CENTRAL 5 #B1-K21, K22 TAMPINES MALL 529510",
+          "type": "Restaurant",
+          "number": "EERT26010000124",
+          "scheme": "Eating Establishment",
+          "id": "a9d8385b-18ae-4689-8e3c-8df270ab04f4",
+          "postal": "529510"
+        },
+        {
+          "name": "Flavours of M @ M Hotel",
+          "address": "81 ANSON ROAD #B2-00 M HOTEL 079908",
+          "type": "Central Kitchen",
+          "number": "FPCN21100001607",
+          "scheme": "Food Preparation Area",
+          "id": "8a3080ff-27fd-4eef-868a-9c6f1fe84c67",
+          "postal": "079908"
+        },
+        {
+          "name": "Express Teppan-yaki",
+          "address": "1 NORTHPOINT DRIVE #B1-200 NORTHPOINT CITY 768019",
+          "type": "Restaurant",
+          "number": "EERT26010000123",
+          "scheme": "Eating Establishment",
+          "id": "3bf1548d-f083-4f8c-893d-2b3152a3460c",
+          "postal": "768019"
+        },
+        {
+          "name": "The Buffet",
+          "address": "81 ANSON ROAD #02-00 M HOTEL 079908",
+          "type": "Restaurant",
+          "number": "EERN21060012545",
+          "scheme": "Eating Establishment",
+          "id": "e9d884ad-f73d-4ddf-a61e-c53b6db70d90",
+          "postal": "079908"
+        },
+        {
+          "name": "Cafe O Singapore Pte Ltd",
+          "address": "28 GAMBAS CRESCENT Kitchen 15 #03-K15 NORDCOM TWO 757012",
+          "type": "Central Kitchen",
+          "number": "FPCK26010000095",
+          "scheme": "Food Preparation Area",
+          "id": "61c18f7f-bf64-4f5a-953b-cf65059558ab",
+          "postal": "757012"
+        },
+        {
+          "name": "OLD CHANG KEE",
+          "address": "133 NEW BRIDGE ROAD #B1-47A CHINATOWN POINT 059413",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26010000071",
+          "scheme": "Eating Establishment",
+          "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
+          "postal": "059413"
+        }
+      ],
+      "removed": [
+        {
+          "name": "DELIFRANCE",
+          "address": "3 TEMASEK BOULEVARD #02-600 SUNTEC CITY MALL 038983",
+          "type": "Restaurant",
+          "number": "EERT20230000173",
+          "scheme": "Eating Establishment",
+          "id": "94f707c0-d13d-48f6-81d0-015c2d3647f8",
+          "postal": "038983"
+        },
+        {
+          "name": "Srisun Express",
+          "address": "681 HOUGANG AVENUE 8 #01-831 HOUGANG VILLAGE 530681",
+          "type": "Restaurant",
+          "number": "EERT20230000895",
+          "scheme": "Eating Establishment",
+          "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
+          "postal": "530681"
+        },
+        {
+          "name": "THE COFFEE BEAN & TEA LEAF",
+          "address": "133 New Bridge Road #02-55 Chinatown Point, 059413",
+          "type": "Restaurant",
+          "number": "EERN21120013261",
+          "scheme": "Eating Establishment",
+          "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+          "postal": "059413"
+        },
+        {
+          "name": "THE COFFEE BEAN & TEA LEAF",
+          "address": "407 NORTHSHORE DRIVE #01-19 820407",
+          "type": "Restaurant",
+          "number": "EERN22020013457",
+          "scheme": "Eating Establishment",
+          "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+          "postal": "820407"
+        },
+        {
+          "name": "TOKYO SHOKUDO",
+          "address": "10 PAYA LEBAR ROAD #B2-17 PLQ MALL 409057",
+          "type": "Restaurant",
+          "number": "EERT25110000055",
+          "scheme": "Eating Establishment",
+          "id": "3e75f97a-1f6a-4795-ba6e-a2ba7adf2128",
+          "postal": "409057"
+        },
+        {
+          "name": "Three's A Crowd",
+          "address": "50 RACE COURSE ROAD 218562",
+          "type": "Restaurant",
+          "number": "EERT20220000767",
+          "scheme": "Eating Establishment",
+          "id": "fffde1b4-44d4-440f-b460-33d87aa224ee",
+          "postal": "218562"
+        },
+        {
+          "name": "Milan Cafeteria",
+          "address": "1 TAMPINES WALK #01-103/103A OUR TAMPINES HUB 528523",
+          "type": "Restaurant",
+          "number": "EERT20240001057",
+          "scheme": "Eating Establishment",
+          "id": "a1ee7547-25ef-4c1b-93b6-a8a0555c0087",
+          "postal": "528523"
+        },
+        {
+          "name": "Srisun Express",
+          "address": "509 BISHAN STREET 11 #01-382 570509",
+          "type": "Restaurant",
+          "number": "EERT20230001058",
+          "scheme": "Eating Establishment",
+          "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
+          "postal": "570509"
+        },
+        {
+          "name": "Sanook Kitchen",
+          "address": "1 HARBOURFRONT WALK #B2-23C VIVO CITY 098585",
+          "type": "Restaurant",
+          "number": "EERT20220000545",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "098585"
+        },
+        {
+          "name": "ICHIKOKUDO",
+          "address": "10 PAYA LEBAR ROAD #B1-15/16 PLQ MALL 409057",
+          "type": "Restaurant",
+          "number": "EERN22020013481",
+          "scheme": "Eating Establishment",
+          "id": "61fba834-5357-40ed-b890-73b8a668f34f",
+          "postal": "409057"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-01-25T22:16:28.502247",
     "date": "2026-01-25",
     "summary": {
@@ -12967,121 +13145,6 @@
           }
         }
       ]
-    }
-  },
-  {
-    "timestamp": "2025-11-24T22:16:30.906450",
-    "date": "2025-11-24",
-    "summary": {
-      "new": 7,
-      "removed": 4,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Kawan Bowl Scrambled Egg Rice (S3) @ Cantine Pasir Ris Mall",
-          "address": "7 PASIR RIS CENTRAL #b2-17, Stall 3 519612",
-          "type": "Hawker",
-          "number": "EEHK20240001021",
-          "scheme": "Eating Establishment",
-          "id": "c3bea4c5-6e66-4be5-9aa8-a0276b1c3479",
-          "postal": "519612"
-        },
-        {
-          "name": "SAYBONS PTE LTD",
-          "address": "20 BUKIT BATOK CRESCENT #11-21 ENTERPRISE CENTRE 658080",
-          "type": "Catering Company",
-          "number": "FPCA20240000530",
-          "scheme": "Food Preparation Area",
-          "id": "167775b7-327e-4b5b-985d-d4fdbdea06a6",
-          "postal": "658080"
-        },
-        {
-          "name": "Happiness Sunbo Chicken Rice (MR3) @ Cantine Canberra Plaza",
-          "address": "133 CANBERRA VIEW #01-21/22/23 Canberra Plaza, MR3 750133",
-          "type": "Hawker",
-          "number": "EEHN22020013151",
-          "scheme": "Eating Establishment",
-          "id": "57f3b454-9b4c-4cab-ab46-2aed6e6c71f1",
-          "postal": "750133"
-        },
-        {
-          "name": "Chicken Rice (S6)@ Koufu SP Aero Hub",
-          "address": "500 DOVER ROAD FOOD COURT 4 @ AERO HUB SINGAPORE POLYTECHNIC, Stall 6 139651",
-          "type": "Hawker",
-          "number": "EEHN21100012686",
-          "scheme": "Eating Establishment",
-          "id": "62cf764e-e3f5-4375-b56a-8ac65a9b2f14",
-          "postal": "139651"
-        },
-        {
-          "name": "SAYBONS",
-          "address": "9 BISHAN PLACE #02-43 JUNCTION 8 579837",
-          "type": "Restaurant",
-          "number": "EERT20240000077",
-          "scheme": "Eating Establishment",
-          "id": "0dee7292-8637-4b6c-92f0-753411ad46ef",
-          "postal": "579837"
-        },
-        {
-          "name": "Singfood Hub",
-          "address": "318 JURONG EAST STREET 31 #01-40 Singfood Hub, Stall 3 @Harmony 318 Cafe 600318",
-          "type": "Hawker",
-          "number": "EEHK25100000056",
-          "scheme": "Eating Establishment",
-          "id": "92afcee1-81e8-49e3-8269-11ba5504da62",
-          "postal": "600318"
-        },
-        {
-          "name": "MEHNAZ KITCHEN",
-          "address": "21 BIOPOLIS ROAD #01-05 NUCLEOS 138567",
-          "type": "Restaurant",
-          "number": "EERT25110000042",
-          "scheme": "Eating Establishment",
-          "id": "d643d770-09f8-41ac-91ba-acf767ad5271",
-          "postal": "138567"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Tenderbest",
-          "address": "276 JURONG WEST STREET 25 #01-01, Stall 8 640276",
-          "type": "Hawker",
-          "number": "EEHK20220000797",
-          "scheme": "Eating Establishment",
-          "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
-          "postal": "640276"
-        },
-        {
-          "name": "Sanook Kitchen",
-          "address": "3 GATEWAY DRIVE #B1-25 WESTGATE 608532",
-          "type": "Restaurant",
-          "number": "EERT20240000492",
-          "scheme": "Eating Establishment",
-          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-          "postal": "608532"
-        },
-        {
-          "name": "Srisun Express",
-          "address": "56 SERANGOON GARDEN WAY SERANGOON GARDEN ESTATE 555952",
-          "type": "Restaurant",
-          "number": "EERX21040012274",
-          "scheme": "Eating Establishment",
-          "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
-          "postal": "555952"
-        },
-        {
-          "name": "So Pho",
-          "address": "83 Punggol Central #01-28 Waterway Point (East Wing) 828761",
-          "type": "Restaurant",
-          "number": "EERN21070012673",
-          "scheme": "Eating Establishment",
-          "id": "eab58cf8-5aa4-4b96-b522-760a4cceded7",
-          "postal": "828761"
-        }
-      ],
-      "updated": []
     }
   }
 ]
