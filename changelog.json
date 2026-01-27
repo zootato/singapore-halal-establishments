@@ -1,5 +1,102 @@
 [
   {
+    "timestamp": "2026-01-27T22:17:49.185035",
+    "date": "2026-01-27",
+    "summary": {
+      "new": 8,
+      "removed": 1,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "MR BEAN",
+          "address": "1 TAMPINES WALK #01-83 OUR TAMPINES HUB 528523",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26010000078",
+          "scheme": "Eating Establishment",
+          "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
+          "postal": "528523"
+        },
+        {
+          "name": "MR BEAN",
+          "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #B1-K13 CHANGI CITY POINT 486038",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26010000076",
+          "scheme": "Eating Establishment",
+          "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
+          "postal": "486038"
+        },
+        {
+          "name": "Selemak Pagi",
+          "address": "126 CANBERRA STREET Stall 9, DeTian Coffeeshop #01-01 EASTDELTA @ CANBERRA 750126",
+          "type": "Hawker",
+          "number": "EEHK26010000096",
+          "scheme": "Eating Establishment",
+          "id": "4524d9ba-dc69-4cfb-9233-faeb745d60d7",
+          "postal": "750126"
+        },
+        {
+          "name": "Selemak Pagi",
+          "address": "21 HOUGANG STREET 51 Stall 10, DeTian Coffeeshop #01-51 HOUGANG GREEN SHOPPING MALL 538719",
+          "type": "Hawker",
+          "number": "EEHK26010000097",
+          "scheme": "Eating Establishment",
+          "id": "4524d9ba-dc69-4cfb-9233-faeb745d60d7",
+          "postal": "538719"
+        },
+        {
+          "name": "MR BEAN +PLUS",
+          "address": "690 YISHUN RING ROAD #01-- 769567",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240001016",
+          "scheme": "Eating Establishment",
+          "id": "e54db45a-addf-433e-b85a-312696c7a8e9",
+          "postal": "769567"
+        },
+        {
+          "name": "Kubis Authentic Korean Food",
+          "address": "50 PASIR PANJANG ROAD Stall 3 Kopitiam Mapletree Business City #03-51 MAPLETREE BUSINESS CITY 117384",
+          "type": "Hawker",
+          "number": "EEHK26010000100",
+          "scheme": "Eating Establishment",
+          "id": "939bf021-94b2-41d0-8d4c-68dfd6708a8c",
+          "postal": "117384"
+        },
+        {
+          "name": "MR BEAN EXPLORE",
+          "address": "200 VICTORIA STREET #B1-K13 BUGIS JUNCTION 188021",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26010000070",
+          "scheme": "Eating Establishment",
+          "id": "5cf2fa87-f189-43d3-affd-9a05bb315860",
+          "postal": "188021"
+        },
+        {
+          "name": "MR BEAN",
+          "address": "17 WOODLANDS DRIVE 17 #B2-14 WOODLANDS HEALTH CAMPUS 737628",
+          "type": "Restaurant",
+          "number": "EERT26010000079",
+          "scheme": "Eating Establishment",
+          "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
+          "postal": "737628"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Tenderbest",
+          "address": "827 TAMPINES STREET 81 #01-128 TAMPINES GROVE, MR2 520827",
+          "type": "Hawker",
+          "number": "EEHK20230000621",
+          "scheme": "Eating Establishment",
+          "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
+          "postal": "520827"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-01-26T22:17:16.940058",
     "date": "2026-01-26",
     "summary": {
@@ -13016,135 +13113,6 @@
       ],
       "removed": [],
       "updated": []
-    }
-  },
-  {
-    "timestamp": "2025-11-25T22:16:38.939815",
-    "date": "2025-11-25",
-    "summary": {
-      "new": 4,
-      "removed": 4,
-      "updated": 2
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "UNCLE PENYET (S6) @FOODGLE HUB SINGAPORE INSTITUTE OF TECHNOLOGY",
-          "address": "1 PUNGGOL COAST ROAD #01-10, STALL 6 828608",
-          "type": "Hawker",
-          "number": "EEHK20240000982",
-          "scheme": "Eating Establishment",
-          "id": "f2b4cd47-20ef-4ac0-b4ee-1db0693d34b2",
-          "postal": "828608"
-        },
-        {
-          "name": "UNCLE PENYET",
-          "address": "21 LOWER KENT RIDGE ROAD FACULTY OF SCIENCE (PHASE 1), STALL 4 119077",
-          "type": "Hawker",
-          "number": "EEHX21110012966",
-          "scheme": "Eating Establishment",
-          "id": "f2b4cd47-20ef-4ac0-b4ee-1db0693d34b2",
-          "postal": "119077"
-        },
-        {
-          "name": "UNCLE PENYET",
-          "address": "233 BUKIT BATOK EAST AVENUE 5 #01-53 Kimly Coffeeshop GOMBAK GARDENS, Stall 5 650233",
-          "type": "Hawker",
-          "number": "EEHK20230001189",
-          "scheme": "Eating Establishment",
-          "id": "79bfe816-a7ec-46a9-8687-c6e511cfc222",
-          "postal": "650233"
-        },
-        {
-          "name": "UNCLE PENYET",
-          "address": "504 JURONG WEST STREET 51 #01-207 HONG KAH COURT 640504",
-          "type": "Hawker",
-          "number": "EEHN21110012964",
-          "scheme": "Eating Establishment",
-          "id": "f2b4cd47-20ef-4ac0-b4ee-1db0693d34b2",
-          "postal": "640504"
-        }
-      ],
-      "removed": [
-        {
-          "name": "UNCLE PENYET",
-          "address": "21 LOWER KENT RIDGE ROAD FACULTY OF SCIENCE (PHASE 1), STALL 4 119077",
-          "type": "Hawker",
-          "number": "EEHX21110012966",
-          "scheme": "Eating Establishment",
-          "id": "51b33d85-31e7-412f-a79b-e6cf8beebd9e",
-          "postal": "119077"
-        },
-        {
-          "name": "UNCLE PENYET",
-          "address": "233 BUKIT BATOK EAST AVENUE 5 #01-53 Kimly Coffeeshop GOMBAK GARDENS, Stall 5 650233",
-          "type": "Hawker",
-          "number": "EEHK20230001189",
-          "scheme": "Eating Establishment",
-          "id": "2d3cb69e-95e0-475c-a722-ff3a50d7e3bb",
-          "postal": "650233"
-        },
-        {
-          "name": "UNCLE PENYET (S6) @FOODGLE HUB SINGAPORE INSTITUTE OF TECHNOLOGY",
-          "address": "1 PUNGGOL COAST ROAD #01-10, STALL 6 828608",
-          "type": "Hawker",
-          "number": "EEHK20240000982",
-          "scheme": "Eating Establishment",
-          "id": "adb63ace-8874-4692-acae-d3d0cb319f29",
-          "postal": "828608"
-        },
-        {
-          "name": "UNCLE PENYET",
-          "address": "504 JURONG WEST STREET 51 #01-207 HONG KAH COURT 640504",
-          "type": "Hawker",
-          "number": "EEHN21110012964",
-          "scheme": "Eating Establishment",
-          "id": "0cc0410d-3b47-4677-9b0f-a38d357ef9b1",
-          "postal": "640504"
-        }
-      ],
-      "updated": [
-        {
-          "previous": {
-            "name": "ASIAN KITCHEN @ ORCHARD HOTEL",
-            "address": "442 ORCHARD ROAD ORCHARD HOTEL,LEVEL 2, ASIAN KITCHEN 238879",
-            "type": "Central Kitchen",
-            "number": "FPCK20230001248",
-            "scheme": "Food Preparation Area",
-            "id": "4db0cf0f-8f34-4cf6-84c6-3edad044308e",
-            "postal": "238879"
-          },
-          "current": {
-            "name": "ASIAN KITCHEN @ ORCHARD HOTEL",
-            "address": "442 ORCHARD ROAD ORCHARD HOTEL, LEVEL 2, ASIAN KITCHEN 238879",
-            "type": "Central Kitchen",
-            "number": "FPCK20230001248",
-            "scheme": "Food Preparation Area",
-            "id": "4db0cf0f-8f34-4cf6-84c6-3edad044308e",
-            "postal": "238879"
-          }
-        },
-        {
-          "previous": {
-            "name": "Cuisine Lover Fish Soup Ban Mian (S6) @ Koufu KKWCH",
-            "address": "100 BUKIT TIMAH ROAD #01-28 KK WOMEN'S AND CHILDREN'S HOSPITAL,Stall 6 229899",
-            "type": "Hawker",
-            "number": "EEHK20240001304",
-            "scheme": "Eating Establishment",
-            "id": "1181321a-bedf-46b9-8cb4-437b41afb030",
-            "postal": "229899"
-          },
-          "current": {
-            "name": "Cuisine Lover Fish Soup Ban Mian (S6) @ Koufu KKWCH",
-            "address": "100 BUKIT TIMAH ROAD #01-28 KK WOMEN's AND CHILDREN's HOSPITAL, Stall 6 229899",
-            "type": "Hawker",
-            "number": "EEHK20240001304",
-            "scheme": "Eating Establishment",
-            "id": "1181321a-bedf-46b9-8cb4-437b41afb030",
-            "postal": "229899"
-          }
-        }
-      ]
     }
   }
 ]

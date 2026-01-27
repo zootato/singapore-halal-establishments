@@ -16597,6 +16597,15 @@
   },
   {
     "name": "Kubis Authentic Korean Food",
+    "address": "50 PASIR PANJANG ROAD Stall 3 Kopitiam Mapletree Business City #03-51 MAPLETREE BUSINESS CITY 117384",
+    "type": "Hawker",
+    "number": "EEHK26010000100",
+    "scheme": "Eating Establishment",
+    "id": "939bf021-94b2-41d0-8d4c-68dfd6708a8c",
+    "postal": "117384"
+  },
+  {
+    "name": "Kubis Authentic Korean Food",
     "address": "9 TAMPINES STREET 32 (Stall 9)@Koufu Tampines Mart #01-01, #01-02, #01-03, #01-04, #01-05, #01-06, #01-07, #01-08, #01-09, #01-10 529286",
     "type": "Hawker",
     "number": "EEHK25100000078",
@@ -19873,6 +19882,15 @@
   },
   {
     "name": "MR BEAN",
+    "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #B1-K13 CHANGI CITY POINT 486038",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26010000076",
+    "scheme": "Eating Establishment",
+    "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
+    "postal": "486038"
+  },
+  {
+    "name": "MR BEAN",
     "address": "1 TAN TOCK SENG LINK #01-02 TTSH INTEGRATED CARE HUB 307382",
     "type": "Restaurant",
     "number": "EERT20240001293",
@@ -19924,6 +19942,15 @@
     "scheme": "Eating Establishment",
     "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
     "postal": "730676"
+  },
+  {
+    "name": "MR BEAN",
+    "address": "17 WOODLANDS DRIVE 17 #B2-14 WOODLANDS HEALTH CAMPUS 737628",
+    "type": "Restaurant",
+    "number": "EERT26010000079",
+    "scheme": "Eating Establishment",
+    "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
+    "postal": "737628"
   },
   {
     "name": "MR BEAN",
@@ -20104,6 +20131,15 @@
     "scheme": "Eating Establishment",
     "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
     "postal": "529286"
+  },
+  {
+    "name": "MR BEAN",
+    "address": "1 TAMPINES WALK #01-83 OUR TAMPINES HUB 528523",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26010000078",
+    "scheme": "Eating Establishment",
+    "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
+    "postal": "528523"
   },
   {
     "name": "MR BEAN",
@@ -20293,6 +20329,24 @@
     "scheme": "Eating Establishment",
     "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
     "postal": "579827"
+  },
+  {
+    "name": "MR BEAN +PLUS",
+    "address": "690 YISHUN RING ROAD #01-- 769567",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20240001016",
+    "scheme": "Eating Establishment",
+    "id": "e54db45a-addf-433e-b85a-312696c7a8e9",
+    "postal": "769567"
+  },
+  {
+    "name": "MR BEAN EXPLORE",
+    "address": "200 VICTORIA STREET #B1-K13 BUGIS JUNCTION 188021",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26010000070",
+    "scheme": "Eating Establishment",
+    "id": "5cf2fa87-f189-43d3-affd-9a05bb315860",
+    "postal": "188021"
   },
   {
     "name": "Mr Biryani",
@@ -24346,15 +24400,6 @@
   },
   {
     "name": "Poke Theory",
-    "address": "1 WOODLANDS SQUARE #B1-22 CAUSEWAY POINT 738099",
-    "type": "Restaurant",
-    "number": "EERT20240000918",
-    "scheme": "Eating Establishment",
-    "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
-    "postal": "738099"
-  },
-  {
-    "name": "Poke Theory",
     "address": "30 RAFFLES PLACE #01-18 CHANGE ALLEY MALL 048622",
     "type": "Restaurant",
     "number": "EERN21020012157",
@@ -24370,6 +24415,15 @@
     "scheme": "Eating Establishment",
     "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
     "postal": "409053"
+  },
+  {
+    "name": "Poke Theory",
+    "address": "1 WOODLANDS SQUARE #B1-22 CAUSEWAY POINT 738099",
+    "type": "Restaurant",
+    "number": "EERT20240000918",
+    "scheme": "Eating Establishment",
+    "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
+    "postal": "738099"
   },
   {
     "name": "Poke Theory",
@@ -27223,6 +27277,24 @@
     "scheme": "Eating Establishment",
     "id": "edd0c76a-185c-44c6-892b-1f395ccf8865",
     "postal": "149306"
+  },
+  {
+    "name": "Selemak Pagi",
+    "address": "126 CANBERRA STREET Stall 9, DeTian Coffeeshop #01-01 EASTDELTA @ CANBERRA 750126",
+    "type": "Hawker",
+    "number": "EEHK26010000096",
+    "scheme": "Eating Establishment",
+    "id": "4524d9ba-dc69-4cfb-9233-faeb745d60d7",
+    "postal": "750126"
+  },
+  {
+    "name": "Selemak Pagi",
+    "address": "21 HOUGANG STREET 51 Stall 10, DeTian Coffeeshop #01-51 HOUGANG GREEN SHOPPING MALL 538719",
+    "type": "Hawker",
+    "number": "EEHK26010000097",
+    "scheme": "Eating Establishment",
+    "id": "4524d9ba-dc69-4cfb-9233-faeb745d60d7",
+    "postal": "538719"
   },
   {
     "name": "Selera Kampungku",
@@ -31687,15 +31759,6 @@
     "scheme": "Eating Establishment",
     "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
     "postal": "538719"
-  },
-  {
-    "name": "Tenderbest",
-    "address": "827 TAMPINES STREET 81 #01-128 TAMPINES GROVE, MR2 520827",
-    "type": "Hawker",
-    "number": "EEHK20230000621",
-    "scheme": "Eating Establishment",
-    "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
-    "postal": "520827"
   },
   {
     "name": "Tenderbest",
