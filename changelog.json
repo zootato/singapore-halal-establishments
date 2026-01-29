@@ -1,5 +1,288 @@
 [
   {
+    "timestamp": "2026-01-29T22:19:47.275320",
+    "date": "2026-01-29",
+    "summary": {
+      "new": 11,
+      "removed": 3,
+      "updated": 7
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Syed Cafe Exclusive",
+          "address": "293 LORONG 6 TOA PAYOH #01-04 SAFRA CLUBHOUSE (TOA PAYOH) 319387",
+          "type": "Restaurant",
+          "number": "EERT20250000664",
+          "scheme": "Eating Establishment",
+          "id": "dc67baf4-6576-4fce-a8c8-7530aa3a042f",
+          "postal": "319387"
+        },
+        {
+          "name": "Pho Viet-Nam",
+          "address": "1 JURONG WEST CENTRAL 2 Stall 3, Cantine #B1-42,43,44 JURONG POINT 648886",
+          "type": "Hawker",
+          "number": "EEHK26010000089",
+          "scheme": "Eating Establishment",
+          "id": "ef509206-8ab7-42f3-81ce-3194805f8a7a",
+          "postal": "648886"
+        },
+        {
+          "name": "Fried Chicken Master",
+          "address": "3 TEMASEK BOULEVARD #02-601 SUNTEC CITY MALL 038983",
+          "type": "Restaurant",
+          "number": "EERT20240001243",
+          "scheme": "Eating Establishment",
+          "id": "52023cc7-2fb7-4e60-93b8-af11f2f3abde",
+          "postal": "038983"
+        },
+        {
+          "name": "Fried Chicken Master",
+          "address": "2 TAMPINES CENTRAL 5 #B1-38 CENTURY SQUARE 529509",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240001258",
+          "scheme": "Eating Establishment",
+          "id": "52023cc7-2fb7-4e60-93b8-af11f2f3abde",
+          "postal": "529509"
+        },
+        {
+          "name": "Fried Chicken Master",
+          "address": "1 NORTHPOINT DRIVE #B2-145 NORTHPOINT CITY 768019",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000320",
+          "scheme": "Eating Establishment",
+          "id": "52023cc7-2fb7-4e60-93b8-af11f2f3abde",
+          "postal": "768019"
+        },
+        {
+          "name": "Syed Cafe",
+          "address": "1 LOWER KENT RIDGE ROAD #02-04/05/06 NUH MEDICAL CENTRE 119082",
+          "type": "Restaurant",
+          "number": "EERT20240000578",
+          "scheme": "Eating Establishment",
+          "id": "dee3be1e-4c46-4391-8676-c6d4569fc4c3",
+          "postal": "119082"
+        },
+        {
+          "name": "Syed Cafe (MR2) @ Seng Huat Coffee House Holland Close",
+          "address": "6 HOLLAND CLOSE #01-36, MR2 271006",
+          "type": "Hawker",
+          "number": "EEHK20240000577",
+          "scheme": "Eating Establishment",
+          "id": "23867665-becf-41b6-a46a-f9ca7723bbfc",
+          "postal": "271006"
+        },
+        {
+          "name": "BREAD JUNCTION",
+          "address": "11 JALAN TAN TOCK SENG STALL 2 @ KOPITIAM #01-13/14/15 TAN TOCK SENG HOSPITAL 308433",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26010000150",
+          "scheme": "Eating Establishment",
+          "id": "decb19b6-4968-48c5-9a89-c3fed4934b22",
+          "postal": "308433"
+        },
+        {
+          "name": "Syed Cafe Exclusive",
+          "address": "28 CHOA CHU KANG DRIVE #01-02 689964",
+          "type": "Restaurant",
+          "number": "EERT20230001226",
+          "scheme": "Eating Establishment",
+          "id": "2ba9896c-5795-4369-ac79-05bfe3d1d868",
+          "postal": "689964"
+        },
+        {
+          "name": "Syed Cafe",
+          "address": "326 BEDOK ROAD BEDOK SHOPPING COMPLEX 469496",
+          "type": "Restaurant",
+          "number": "EERN21090012884",
+          "scheme": "Eating Establishment",
+          "id": "cbebe0ab-7498-4893-9b49-e017e992841d",
+          "postal": "469496"
+        },
+        {
+          "name": "ROTIKEK",
+          "address": "354 CLEMENTI AVENUE 2 STALL 9, CHANG CHENG MEE WAH.WUFU #01-157 CLEMENTI AVENUE 2 SHOPPING CENTRE 120354",
+          "type": "Hawker",
+          "number": "EEHK26010000082",
+          "scheme": "Eating Establishment",
+          "id": "dbb1ba80-8e2d-49e0-b99e-474b77336e3f",
+          "postal": "120354"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Kuma-chan Onsen",
+          "address": "181 ORCHARD ROAD #07-10/11 ORCHARD CENTRAL 238896",
+          "type": "Restaurant",
+          "number": "EERT20250000060",
+          "scheme": "Eating Establishment",
+          "id": "115b17c0-9a64-452e-aaa6-b12d6686632f",
+          "postal": "238896"
+        },
+        {
+          "name": "McDonald's",
+          "address": "17 Petir Road #B1-25-27 Hillion Mall 678278",
+          "type": "Restaurant",
+          "number": "EERN20020010962",
+          "scheme": "Eating Establishment",
+          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+          "postal": "678278"
+        },
+        {
+          "name": "SWEE HENG",
+          "address": "963 JURONG WEST STREET 91 #01-314 640963",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000383",
+          "scheme": "Eating Establishment",
+          "id": "8ca8605b-be4d-48dd-98d0-78c2ed91bffb",
+          "postal": "640963"
+        }
+      ],
+      "updated": [
+        {
+          "previous": {
+            "name": "Pasta Kaki & Churros Factory",
+            "address": "83 KAMPONG BAHRU ROAD BLAIR PLAIN CONSERVATION AREA 169379",
+            "type": "Restaurant",
+            "number": "EERT25120000072",
+            "scheme": "Eating Establishment",
+            "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
+            "postal": "169379"
+          },
+          "current": {
+            "name": "CANADIAN 2 FOR 1 PIZZA",
+            "address": "83 KAMPONG BAHRU ROAD BLAIR PLAIN CONSERVATION AREA 169379",
+            "type": "Restaurant",
+            "number": "EERT25120000072",
+            "scheme": "Eating Establishment",
+            "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
+            "postal": "169379"
+          }
+        },
+        {
+          "previous": {
+            "name": "Indian Cuisine @ CAPT/RC (Mngd By SMORGASBORD Int Pte Ltd)",
+            "address": "4 COLLEGE AVENUE EAST University Town, NUS,Indian Cuisine Stall 138613",
+            "type": "Hawker",
+            "number": "EEHN21070012568",
+            "scheme": "Eating Establishment",
+            "id": "b5c571d0-f2ba-4452-8651-047cbb445447",
+            "postal": "138613"
+          },
+          "current": {
+            "name": "Indian Cuisine @ CAPT/RC (Mngd By SMORGASBORD Int Pte Ltd)",
+            "address": "4 COLLEGE AVENUE EAST University Town, NUS, Indian Cuisine Stall 138613",
+            "type": "Hawker",
+            "number": "EEHN21070012568",
+            "scheme": "Eating Establishment",
+            "id": "b5c571d0-f2ba-4452-8651-047cbb445447",
+            "postal": "138613"
+          }
+        },
+        {
+          "previous": {
+            "name": "Indian Cuisine @ College of CT (Mngd By Smorgasbord Int Pte Ltd)",
+            "address": "24 COLLEGE AVENUE EAST #01-01 UNIVERSITY TOWN - NUS,Indian Cuisine stall 138596",
+            "type": "Hawker",
+            "number": "EEHN21080012586",
+            "scheme": "Eating Establishment",
+            "id": "695f4335-330e-4bf2-9c4a-13ec72484861",
+            "postal": "138596"
+          },
+          "current": {
+            "name": "Indian Cuisine @ College of CT (Mngd By Smorgasbord Int Pte Ltd)",
+            "address": "24 COLLEGE AVENUE EAST #01-01 UNIVERSITY TOWN - NUS, Indian Cuisine stall 138596",
+            "type": "Hawker",
+            "number": "EEHN21080012586",
+            "scheme": "Eating Establishment",
+            "id": "695f4335-330e-4bf2-9c4a-13ec72484861",
+            "postal": "138596"
+          }
+        },
+        {
+          "previous": {
+            "name": "MALAY CUISINE@COLLEGE OF CT (MNGD BY SMORGASBORD INT PTE LTD)",
+            "address": "24 COLLEGE AVENUE EAST #01-01 UNIVERSITY TOWN - NUS,Malay Cuisine Stall 138596",
+            "type": "Hawker",
+            "number": "EEHK20220000798",
+            "scheme": "Eating Establishment",
+            "id": "caade187-b10b-497f-9885-911e1d58951b",
+            "postal": "138596"
+          },
+          "current": {
+            "name": "MALAY CUISINE@COLLEGE OF CT (MNGD BY SMORGASBORD INT PTE LTD)",
+            "address": "24 COLLEGE AVENUE EAST #01-01 UNIVERSITY TOWN - NUS, Malay Cuisine Stall 138596",
+            "type": "Hawker",
+            "number": "EEHK20220000798",
+            "scheme": "Eating Establishment",
+            "id": "caade187-b10b-497f-9885-911e1d58951b",
+            "postal": "138596"
+          }
+        },
+        {
+          "previous": {
+            "name": "MALAY CUISINE@ COLLEGE OF CT (MNGD BY SMORGASBORD INT PTE LTD)",
+            "address": "24 COLLEGE AVENUE EAST #01-01 UNIVERSITY TOWN - NUS,Malay Cuisine Kitchen 138596",
+            "type": "Central Kitchen",
+            "number": "FPCK20220000799",
+            "scheme": "Food Preparation Area",
+            "id": "6b0b901a-b1d7-445a-b56b-46c4214addb0",
+            "postal": "138596"
+          },
+          "current": {
+            "name": "MALAY CUISINE@ COLLEGE OF CT (MNGD BY SMORGASBORD INT PTE LTD)",
+            "address": "24 COLLEGE AVENUE EAST #01-01 UNIVERSITY TOWN - NUS, Malay Cuisine Kitchen 138596",
+            "type": "Central Kitchen",
+            "number": "FPCK20220000799",
+            "scheme": "Food Preparation Area",
+            "id": "6b0b901a-b1d7-445a-b56b-46c4214addb0",
+            "postal": "138596"
+          }
+        },
+        {
+          "previous": {
+            "name": "Malay cuisine @ CAPT/RC (Mngd By SMORGASBORD Int Pte Ltd)",
+            "address": "4 COLLEGE AVENUE EAST University Town, NUS,Malay Cuisine Stall 138613",
+            "type": "Hawker",
+            "number": "EEHN21070012567",
+            "scheme": "Eating Establishment",
+            "id": "6f03d82f-a803-4c83-b0b4-52a85079cae3",
+            "postal": "138613"
+          },
+          "current": {
+            "name": "Malay cuisine @ CAPT/RC (Mngd By SMORGASBORD Int Pte Ltd)",
+            "address": "4 COLLEGE AVENUE EAST University Town, NUS, Malay Cuisine Stall 138613",
+            "type": "Hawker",
+            "number": "EEHN21070012567",
+            "scheme": "Eating Establishment",
+            "id": "6f03d82f-a803-4c83-b0b4-52a85079cae3",
+            "postal": "138613"
+          }
+        },
+        {
+          "previous": {
+            "name": "EAST WEST FUSION PTE. LTD.",
+            "address": "71 QUALITY ROAD #01-D 618823",
+            "type": "Catering Company",
+            "number": "FPCA20250000021",
+            "scheme": "Food Preparation Area",
+            "id": "7ff3e728-4d34-4b72-a595-8e234c522819",
+            "postal": "618823"
+          },
+          "current": {
+            "name": "EAST WEST FUSION PTE. LTD.",
+            "address": "71 QUALITY ROAD, (PART OF) UNIT D 618823",
+            "type": "Catering Company",
+            "number": "FPCA20250000021",
+            "scheme": "Food Preparation Area",
+            "id": "7ff3e728-4d34-4b72-a595-8e234c522819",
+            "postal": "618823"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-01-28T22:19:52.489381",
     "date": "2026-01-28",
     "summary": {
@@ -13012,189 +13295,6 @@
         }
       ],
       "updated": []
-    }
-  },
-  {
-    "timestamp": "2025-11-27T22:16:46.376386",
-    "date": "2025-11-27",
-    "summary": {
-      "new": 12,
-      "removed": 2,
-      "updated": 2
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "TOKYO SHOKUDO",
-          "address": "10 PAYA LEBAR ROAD #B2-17 PLQ MALL 409057",
-          "type": "Restaurant",
-          "number": "EERT25110000055",
-          "scheme": "Eating Establishment",
-          "id": "3e75f97a-1f6a-4795-ba6e-a2ba7adf2128",
-          "postal": "409057"
-        },
-        {
-          "name": "Swissbake",
-          "address": "585 NORTH BRIDGE ROAD #01-09 RAFFLES HOSPITAL 188770",
-          "type": "Restaurant",
-          "number": "EERT25110000057",
-          "scheme": "Eating Establishment",
-          "id": "5af74926-1d0f-48b0-98da-33060a828772",
-          "postal": "188770"
-        },
-        {
-          "name": "KEBABS FAKTORY",
-          "address": "28 GAMBAS CRESCENT #03-#K1 NORDCOM TWO 757012",
-          "type": "Hawker",
-          "number": "EEHK25110000053",
-          "scheme": "Eating Establishment",
-          "id": "21b6e186-826d-452d-bcee-19319a1907a2",
-          "postal": "757012"
-        },
-        {
-          "name": "KEBABS FAKTORY",
-          "address": "1 BUKIT BATOK CENTRAL LINK #01-42 WEST MALL 658713",
-          "type": "Restaurant",
-          "number": "EERT25110000045",
-          "scheme": "Eating Establishment",
-          "id": "21b6e186-826d-452d-bcee-19319a1907a2",
-          "postal": "658713"
-        },
-        {
-          "name": "KEBABS FAKTORY",
-          "address": "10 PAYA LEBAR ROAD #01-#K3 PLQ MALL 409057",
-          "type": "Restaurant",
-          "number": "EERT25110000047",
-          "scheme": "Eating Establishment",
-          "id": "21b6e186-826d-452d-bcee-19319a1907a2",
-          "postal": "409057"
-        },
-        {
-          "name": "KEBABS FAKTORY",
-          "address": "73A AYER RAJAH CRESCENT #01-#34 AYER RAJAH FOOD CENTRE 1 139957",
-          "type": "Hawker",
-          "number": "EEHK25110000046",
-          "scheme": "Eating Establishment",
-          "id": "21b6e186-826d-452d-bcee-19319a1907a2",
-          "postal": "139957"
-        },
-        {
-          "name": "KEBABS FAKTORY",
-          "address": "70 COMPASSVALE BOW #01-#10 SENGKANG GRAND MALL 544692",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB25110000051",
-          "scheme": "Eating Establishment",
-          "id": "21b6e186-826d-452d-bcee-19319a1907a2",
-          "postal": "544692"
-        },
-        {
-          "name": "Korean Cuisine (S6) @ Cantine Northpoint City",
-          "address": "1 NORTHPOINT DRIVE #02-101/102/103 NORTHPOINT CITY, STALL 6 768019",
-          "type": "Hawker",
-          "number": "EEHK20230001139",
-          "scheme": "Eating Establishment",
-          "id": "47aba601-eea8-4795-a865-698b4634ab7e",
-          "postal": "768019"
-        },
-        {
-          "name": "KEBABS FAKTORY",
-          "address": "107 NORTH BRIDGE ROAD #02-#31 FUNAN 179105",
-          "type": "Restaurant",
-          "number": "EERT25110000048",
-          "scheme": "Eating Establishment",
-          "id": "21b6e186-826d-452d-bcee-19319a1907a2",
-          "postal": "179105"
-        },
-        {
-          "name": "Kebabs Faktory Pte Ltd",
-          "address": "28 GAMBAS CRESCENT #03-#K1 NORDCOM TWO 757012",
-          "type": "Central Kitchen",
-          "number": "FPCK25110000050",
-          "scheme": "Food Preparation Area",
-          "id": "9d2de194-c7dd-4086-a1ab-4ddb124d6fec",
-          "postal": "757012"
-        },
-        {
-          "name": "KEBABS FAKTORY",
-          "address": "163 TANGLIN ROAD #B1-#120 TANGLIN MALL 247933",
-          "type": "Restaurant",
-          "number": "EERT25110000049",
-          "scheme": "Eating Establishment",
-          "id": "21b6e186-826d-452d-bcee-19319a1907a2",
-          "postal": "247933"
-        },
-        {
-          "name": "KEBABS FAKTORY",
-          "address": "1 NORTHPOINT DRIVE #B2-139 NORTHPOINT CITY 768019",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB25110000052",
-          "scheme": "Eating Establishment",
-          "id": "21b6e186-826d-452d-bcee-19319a1907a2",
-          "postal": "768019"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Pastamania",
-          "address": "1 BUKIT BATOK CENTRAL LINK #01-40 WEST MALL 658713",
-          "type": "Restaurant",
-          "number": "EERN22010013365",
-          "scheme": "Eating Establishment",
-          "id": "e1eb4468-e706-4f99-bbf2-2603b062790c",
-          "postal": "658713"
-        },
-        {
-          "name": "McDonald's",
-          "address": "4 BUKIT BATOK STREET 41 #01-42-45/50-54 LE QUEST 657991",
-          "type": "Restaurant",
-          "number": "EERN21010011971",
-          "scheme": "Eating Establishment",
-          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-          "postal": "657991"
-        }
-      ],
-      "updated": [
-        {
-          "previous": {
-            "name": "Kin Aroy Thai Food (S6&S7) @Satay By The Bay",
-            "address": "18 MARINA GARDENS DRIVE #01-19 GARDENS BY THE BAY,Stall 6 & 7 018953",
-            "type": "Hawker",
-            "number": "EEHN21120013027",
-            "scheme": "Eating Establishment",
-            "id": "a64a577b-a4c0-401d-9b12-e0bcecb27607",
-            "postal": "018953"
-          },
-          "current": {
-            "name": "Kin Aroy Thai Food (S6&S7) @Satay By The Bay",
-            "address": "18 MARINA GARDENS DRIVE #01-19 GARDENS BY THE BAY, Stall 6 & 7 018953",
-            "type": "Hawker",
-            "number": "EEHN21120013027",
-            "scheme": "Eating Establishment",
-            "id": "a64a577b-a4c0-401d-9b12-e0bcecb27607",
-            "postal": "018953"
-          }
-        },
-        {
-          "previous": {
-            "name": "Hong Kong Street Live BBQ Seafood (MR6)@Kopitiam Lau Pa Sat",
-            "address": "18 RAFFLES QUAY TELOK AYER FESTIVAL MARKET,Stall 51 to 53 048582",
-            "type": "Hawker",
-            "number": "EEHK20240000548",
-            "scheme": "Eating Establishment",
-            "id": "d7b5f38f-ab08-4f2e-a113-dce2f59b8bd4",
-            "postal": "048582"
-          },
-          "current": {
-            "name": "Hong Kong Street Live BBQ Seafood (MR6)@Kopitiam Lau Pa Sat",
-            "address": "18 RAFFLES QUAY TELOK AYER FESTIVAL MARKET, Stall 51 to 53 048582",
-            "type": "Hawker",
-            "number": "EEHK20240000548",
-            "scheme": "Eating Establishment",
-            "id": "d7b5f38f-ab08-4f2e-a113-dce2f59b8bd4",
-            "postal": "048582"
-          }
-        }
-      ]
     }
   }
 ]
