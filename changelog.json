@@ -1,5 +1,29 @@
 [
   {
+    "timestamp": "2026-01-30T22:17:15.350646",
+    "date": "2026-01-30",
+    "summary": {
+      "new": 1,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Yummy Sedap",
+          "address": "1 WOODLANDS HEIGHT MR 1 #01-01 KOUFU GROUP HQ 737859",
+          "type": "Hawker",
+          "number": "EEHK26010000131",
+          "scheme": "Eating Establishment",
+          "id": "1514de17-1d07-473e-8d13-e4a4646d02a1",
+          "postal": "737859"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-01-29T22:19:47.275320",
     "date": "2026-01-29",
     "summary": {
@@ -13240,58 +13264,6 @@
           "scheme": "Eating Establishment",
           "id": "5078bd18-9cd6-436e-8ff3-0f2e55f795dc",
           "postal": "408600"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2025-11-28T22:16:00.036367",
-    "date": "2025-11-28",
-    "summary": {
-      "new": 3,
-      "removed": 1,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Namtown",
-          "address": "925 Yishun Central 1, (MR1) #01-211 Kedai Kopi Coffeeshop 760925",
-          "type": "Hawker",
-          "number": "EEHK25110000056",
-          "scheme": "Eating Establishment",
-          "id": "6ea78e70-d295-42ec-b30c-f5553cff5dd1",
-          "postal": "760925"
-        },
-        {
-          "name": "Chicken Rice (S12)@Food Club Ngee Ann Polytechnic",
-          "address": "535 CLEMENTI ROAD #01-01 NGEE ANN POLYTECHNIC (Blk 22), Stall 12 599489",
-          "type": "Hawker",
-          "number": "EEHK20220000543",
-          "scheme": "Eating Establishment",
-          "id": "c8ec167b-198c-440b-aff2-e0577d016673",
-          "postal": "599489"
-        },
-        {
-          "name": "KEKKI",
-          "address": "183 JALAN PELIKAT #01-43 THE PROMENADE@PELIKAT 537643",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB25110000058",
-          "scheme": "Eating Establishment",
-          "id": "2a5679a8-f721-4b01-a5f5-e621252efc49",
-          "postal": "537643"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Flakyhaus (S10) @ Tam Chiak Kopitiam Hougang",
-          "address": "212 HOUGANG STREET 21 #01-349, Stall 10 530212",
-          "type": "Hawker",
-          "number": "EEHK20250000149",
-          "scheme": "Eating Establishment",
-          "id": "10a1b664-5feb-4ff8-82cb-5c9bb606a206",
-          "postal": "530212"
         }
       ],
       "updated": []
