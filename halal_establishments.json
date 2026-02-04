@@ -22824,6 +22824,42 @@
     "postal": "680533"
   },
   {
+    "name": "PAPPARICH",
+    "address": "8A ADMIRALTY STREET #06-17 FOOD XCHANGE @ ADMIRALTY 757437",
+    "type": "Central Kitchen",
+    "number": "FPCK20230001339",
+    "scheme": "Food Preparation Area",
+    "id": "b32ab7dd-3428-41f5-b01a-8dec875e9864",
+    "postal": "757437"
+  },
+  {
+    "name": "PAPPARICH",
+    "address": "60 AIRPORT BOULEVARD #03-24/25 CHANGI AIRPORT TERMINAL 2 819643",
+    "type": "Restaurant",
+    "number": "EERT20230001342",
+    "scheme": "Eating Establishment",
+    "id": "b32ab7dd-3428-41f5-b01a-8dec875e9864",
+    "postal": "819643"
+  },
+  {
+    "name": "PAPPARICH",
+    "address": "10 AIRPORT BOULEVARD #02-203A CHANGI AIRPORT TERMINAL 4 819665",
+    "type": "Restaurant",
+    "number": "EERT20240000731",
+    "scheme": "Eating Establishment",
+    "id": "b32ab7dd-3428-41f5-b01a-8dec875e9864",
+    "postal": "819665"
+  },
+  {
+    "name": "PAPPARICH",
+    "address": "80 MARINE PARADE ROAD #01-35B PARKWAY PARADE 449269",
+    "type": "Restaurant",
+    "number": "EERT20250000464",
+    "scheme": "Eating Establishment",
+    "id": "f554f0c7-e57b-4e99-8623-45cd958c4b2d",
+    "postal": "449269"
+  },
+  {
     "name": "Paradise Biryani",
     "address": "16 JALAN PARI BURONG PICARDY GARDENS 488682",
     "type": "Restaurant",
@@ -24496,15 +24532,6 @@
     "scheme": "Eating Establishment",
     "id": "179d4dbf-686d-443b-a3c8-2773ca83a2b2",
     "postal": "138607"
-  },
-  {
-    "name": "Pondok Selera By Nurul Hidayah",
-    "address": "8A ADMIRALTY STREET #07-38 FOOD XCHANGE @ ADMIRALTY 757437",
-    "type": "Catering Company",
-    "number": "FPCA20240001085",
-    "scheme": "Food Preparation Area",
-    "id": "8f6454b2-602c-4716-9676-b445a534cc6a",
-    "postal": "757437"
   },
   {
     "name": "Popeyes Famous Louisiana Chicken",
@@ -27817,6 +27844,15 @@
     "scheme": "Eating Establishment",
     "id": "d2bdf387-5391-4527-81f8-0e63665cf874",
     "postal": "307591"
+  },
+  {
+    "name": "SOYO-SOYO (JAPANESE CASUAL DINING)",
+    "address": "21 LOWER KENT RIDGE ROAD NATIONAL UNIVERSITY OF SINGAPORE, STALL 6, FRONTIER CANTEEN 119077",
+    "type": "Hawker",
+    "number": "EEHK25120000079",
+    "scheme": "Eating Establishment",
+    "id": "788e57cb-554e-425d-92bd-d04bbe468b27",
+    "postal": "119077"
   },
   {
     "name": "Soyo-Soyo (Japanese Casual Dining)",
@@ -34363,21 +34399,21 @@
   },
   {
     "name": "TripletS",
-    "address": "70 STAMFORD ROAD #B1-24A SINGAPORE MANAGEMENT UNIVERSITY 178901",
-    "type": "Restaurant",
-    "number": "EERN21070012573",
-    "scheme": "Eating Establishment",
-    "id": "93a5a81c-1ecf-48e6-9206-cad8e5504ada",
-    "postal": "178901"
-  },
-  {
-    "name": "TripletS",
     "address": "1 PUNGGOL COAST ROAD 01-01 DIGIPEN INSTITUTE TECHNOLOGY OF SINGAPORE 828608",
     "type": "Snack Bar / Bakery",
     "number": "EESB26010000121",
     "scheme": "Eating Establishment",
     "id": "93a5a81c-1ecf-48e6-9206-cad8e5504ada",
     "postal": "828608"
+  },
+  {
+    "name": "TripletS",
+    "address": "70 STAMFORD ROAD #B1-24A SINGAPORE MANAGEMENT UNIVERSITY 178901",
+    "type": "Restaurant",
+    "number": "EERN21070012573",
+    "scheme": "Eating Establishment",
+    "id": "93a5a81c-1ecf-48e6-9206-cad8e5504ada",
+    "postal": "178901"
   },
   {
     "name": "Triplets",
