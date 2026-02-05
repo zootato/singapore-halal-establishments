@@ -1,5 +1,249 @@
 [
   {
+    "timestamp": "2026-02-05T22:20:21.159911",
+    "date": "2026-02-05",
+    "summary": {
+      "new": 21,
+      "removed": 2,
+      "updated": 1
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Spark & Flame Catering",
+          "address": "73 UPPER PAYA LEBAR ROAD #01-01 CENTRO BIANCO 534818",
+          "type": "Catering Company",
+          "number": "FPGN21110001618",
+          "scheme": "Food Preparation Area",
+          "id": "fd536f69-b71c-40b1-9bfd-cb41ad74163c",
+          "postal": "534818"
+        },
+        {
+          "name": "Warung Leko",
+          "address": "162 ROCHOR ROAD BUGIS VILLAGE 188437",
+          "type": "Restaurant",
+          "number": "EERT26010000152",
+          "scheme": "Eating Establishment",
+          "id": "a30a6ca2-6650-4571-af25-3063690ad03f",
+          "postal": "188437"
+        },
+        {
+          "name": "Malay Cuisine Canteen Stall 2 @ Resonac (Mngd by The Wok People)",
+          "address": "2 PIONEER CRESCENT, 7th Storey, STALL 2 628553",
+          "type": "Staff Canteen",
+          "number": "EESC20230001252",
+          "scheme": "Eating Establishment",
+          "id": "fd386199-451a-42ca-96bf-565c6557900a",
+          "postal": "628553"
+        },
+        {
+          "name": "The Landmark",
+          "address": "390 VICTORIA STREET #05 THE GOLDEN LANDMARK 188061",
+          "type": "Restaurant",
+          "number": "EERX22030013537",
+          "scheme": "Eating Establishment",
+          "id": "dd5a28a2-2c58-45b8-9075-58b8263e7c39",
+          "postal": "188061"
+        },
+        {
+          "name": "Staff Canteen @ Fortis Construction - Site Office (Mngd by Sodexo)",
+          "address": "15A SUNVIEW WAY #02-00 627459",
+          "type": "Staff Canteen",
+          "number": "EESC20240001178",
+          "scheme": "Eating Establishment",
+          "id": "d632e488-0e3e-42d1-8cd5-439b31dd8a74",
+          "postal": "627459"
+        },
+        {
+          "name": "TIP TOP",
+          "address": "7 WALLICH STREET #B2-20 GUOCO TOWER 078884",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000841",
+          "scheme": "Eating Establishment",
+          "id": "87a00d7d-0af0-4000-be56-7b7facc1c180",
+          "postal": "078884"
+        },
+        {
+          "name": "TIP TOP",
+          "address": "200 VICTORIA STREET #01-68 BUGIS JUNCTION 188021",
+          "type": "Restaurant",
+          "number": "EERN21110013220",
+          "scheme": "Eating Establishment",
+          "id": "87a00d7d-0af0-4000-be56-7b7facc1c180",
+          "postal": "188021"
+        },
+        {
+          "name": "All Best Foods Pte Ltd",
+          "address": "41 TAMPINES STREET 92 #04-00 ABR BUILDING 528881",
+          "type": "Central Kitchen",
+          "number": "FPCN21090001597",
+          "scheme": "Food Preparation Area",
+          "id": "7ddfd6dd-517e-44d1-8d4e-0bce3c11be08",
+          "postal": "528881"
+        },
+        {
+          "name": "TIP TOP",
+          "address": "1 RAFFLES PLACE #B1-26 ONE RAFFLES PLACE 048616",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21110012997",
+          "scheme": "Eating Establishment",
+          "id": "87a00d7d-0af0-4000-be56-7b7facc1c180",
+          "postal": "048616"
+        },
+        {
+          "name": "MANA LAGI",
+          "address": "326 JURONG EAST STREET 31 #01-110 600326",
+          "type": "Restaurant",
+          "number": "EERT26010000108",
+          "scheme": "Eating Establishment",
+          "id": "836d3aa8-f3dc-491a-a431-4804613ddb00",
+          "postal": "600326"
+        },
+        {
+          "name": "TIP TOP",
+          "address": "80 AIRPORT BOULEVARD #02-K11 CHANGI AIRPORT TERMINAL 1 - TRANSIT LOUNGE 819642",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000974",
+          "scheme": "Eating Establishment",
+          "id": "87a00d7d-0af0-4000-be56-7b7facc1c180",
+          "postal": "819642"
+        },
+        {
+          "name": "JKT Western / OK CHICKEN RICE / HUMFULL PRAWN LAKSA",
+          "address": "51 LORONG 6 TOA PAYOH 777 Coffeeshop #01-60 EAST PAYOH PALM 310051",
+          "type": "Hawker",
+          "number": "EEHK26010000125",
+          "scheme": "Eating Establishment",
+          "id": "9d9cb427-e036-48f8-803c-57251fc4404c",
+          "postal": "310051"
+        },
+        {
+          "name": "TIP TOP",
+          "address": "1 SENGKANG SQUARE #B1-45 COMPASS ONE 545078",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21110012999",
+          "scheme": "Eating Establishment",
+          "id": "87a00d7d-0af0-4000-be56-7b7facc1c180",
+          "postal": "545078"
+        },
+        {
+          "name": "TIP TOP",
+          "address": "1 PASIR RIS CLOSE #02-109 E!HUB@DOWNTOWN EAST 519599",
+          "type": "Restaurant",
+          "number": "EERT20240000728",
+          "scheme": "Eating Establishment",
+          "id": "87a00d7d-0af0-4000-be56-7b7facc1c180",
+          "postal": "519599"
+        },
+        {
+          "name": "DESHI BHAI",
+          "address": "13 ROWELL ROAD (1ST STOREY) 207971",
+          "type": "Restaurant",
+          "number": "EERT26010000151",
+          "scheme": "Eating Establishment",
+          "id": "b87718a0-344f-45cc-acdb-86c177c2639d",
+          "postal": "207971"
+        },
+        {
+          "name": "Springleaf Prata Place",
+          "address": "310 ORCHARD ROAD #B1-05 Hawkers Street (Stall7) TANG PLAZA 238864",
+          "type": "Hawker",
+          "number": "EEHK26010000115",
+          "scheme": "Eating Establishment",
+          "id": "2ea4c2d6-6230-4857-b632-cdd6d86a5c50",
+          "postal": "238864"
+        },
+        {
+          "name": "The Landmark",
+          "address": "390 VICTORIA STREET #05 THE GOLDEN LANDMARK 188061",
+          "type": "Catering Company",
+          "number": "FPGX22030001667",
+          "scheme": "Food Preparation Area",
+          "id": "dd5a28a2-2c58-45b8-9075-58b8263e7c39",
+          "postal": "188061"
+        },
+        {
+          "name": "HATSUMI DONBURI | SOBA",
+          "address": "10 EUNOS ROAD 8 B1-165/166 SINGAPORE POST CENTRE 408600",
+          "type": "Restaurant",
+          "number": "EERT26010000157",
+          "scheme": "Eating Establishment",
+          "id": "9b315931-ca15-41a2-8dd2-0b59cd9a1644",
+          "postal": "408600"
+        },
+        {
+          "name": "Rasa Foods Pte Ltd",
+          "address": "21 TAMPINES STREET 92 #02-06 HERSING KITCHEN 528891",
+          "type": "Catering Company",
+          "number": "FPCA26010000129",
+          "scheme": "Food Preparation Area",
+          "id": "0c5255db-d22d-48d9-bc53-50de3154c5d7",
+          "postal": "528891"
+        },
+        {
+          "name": "SUBWAY",
+          "address": "133 CANBERRA VIEW #02-13 CANBERRA PLAZA 750133",
+          "type": "Restaurant",
+          "number": "EERT26010000132",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "750133"
+        },
+        {
+          "name": "Tenderbest",
+          "address": "703 HOUGANG AVENUE 2 Stall 10 #01-201 MTF Coffee House 530703",
+          "type": "Hawker",
+          "number": "EEHK26010000122",
+          "scheme": "Eating Establishment",
+          "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
+          "postal": "530703"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Sumber Ayam Chicken Rice (S5)@Food Republic City Square Mall",
+          "address": "180 KITCHENER ROAD #B3-04 CITY SQUARE MALL, Stall 5 208539",
+          "type": "Hawker",
+          "number": "EEHK20240000913",
+          "scheme": "Eating Establishment",
+          "id": "6898b05f-3ffe-41b3-af30-8aea1bf8c6a3",
+          "postal": "208539"
+        },
+        {
+          "name": "TENDERFRESH Xpress",
+          "address": "118 RIVERVALE DRIVE #01-K18/k19 Rivervale Plaza 540118",
+          "type": "Restaurant",
+          "number": "EERN21060012467",
+          "scheme": "Eating Establishment",
+          "id": "fa23a2c4-12e6-4c0a-aa89-d3552d6d92cb",
+          "postal": "540118"
+        }
+      ],
+      "updated": [
+        {
+          "previous": {
+            "name": "Pasta Kaki & Churros Factory",
+            "address": "83 KAMPONG BAHRU ROAD BLAIR PLAIN CONSERVATION AREA 169379",
+            "type": "Restaurant",
+            "number": "EERT25120000072",
+            "scheme": "Eating Establishment",
+            "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
+            "postal": "169379"
+          },
+          "current": {
+            "name": "CANADIAN 2 FOR 1 PIZZA",
+            "address": "83 KAMPONG BAHRU ROAD BLAIR PLAIN CONSERVATION AREA 169379",
+            "type": "Restaurant",
+            "number": "EERT25120000072",
+            "scheme": "Eating Establishment",
+            "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
+            "postal": "169379"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-02-04T22:20:13.937161",
     "date": "2026-02-04",
     "summary": {
@@ -12144,76 +12388,6 @@
           "scheme": "Eating Establishment",
           "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
           "postal": "307506"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2025-12-04T22:15:16.502807",
-    "date": "2025-12-04",
-    "summary": {
-      "new": 4,
-      "removed": 2,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Roasted Delights (S1) @ Foodgle ITE CentralAMK",
-          "address": "2 Ang Mo Kio Drive #01-14 ITE College Central, Stall 1 567720",
-          "type": "Hawker",
-          "number": "EEHN21080012650",
-          "scheme": "Eating Establishment",
-          "id": "72645ac7-05c5-450e-911e-64ed2ed7228c",
-          "postal": "567720"
-        },
-        {
-          "name": "Sunbo Chicken Rice (S6) @ Koufu Nanyang Polytechnic",
-          "address": "180 ANG MO KIO AVENUE 8 NANYANG POLYTECHNIC Blk A Lvl 2 Ctrl South Canteen, Stall 6 569830",
-          "type": "Hawker",
-          "number": "EEHK20240000135",
-          "scheme": "Eating Establishment",
-          "id": "ea44ca19-7f5f-413a-bfb9-d461ce817f02",
-          "postal": "569830"
-        },
-        {
-          "name": "SUPER SUSHI",
-          "address": "302 TIONG BAHRU ROAD #B1-K7 TIONG BAHRU PLAZA 168732",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB25120000013",
-          "scheme": "Eating Establishment",
-          "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
-          "postal": "168732"
-        },
-        {
-          "name": "Emogi Japanese & Korean Cuisine",
-          "address": "1 JURONG EAST STREET 21 Stall 3, Fork & Spoon @ Ng Teng Fong General Hospital #02-01A/B JURONG COMMUNITY HOSPITAL 609606",
-          "type": "Hawker",
-          "number": "EEHK25120000001",
-          "scheme": "Eating Establishment",
-          "id": "de9f6984-02bd-42db-bd53-629090a2253c",
-          "postal": "609606"
-        }
-      ],
-      "removed": [
-        {
-          "name": "So Pho",
-          "address": "83 Punggol Central #01-28 Waterway Point (East Wing) 828761",
-          "type": "Restaurant",
-          "number": "EERN21070012673",
-          "scheme": "Eating Establishment",
-          "id": "eab58cf8-5aa4-4b96-b522-760a4cceded7",
-          "postal": "828761"
-        },
-        {
-          "name": "FONG SENG NASI LEMAK",
-          "address": "101 Pasir Panjang Road 118527",
-          "type": "Restaurant",
-          "number": "EERN21020012034",
-          "scheme": "Eating Establishment",
-          "id": "050c83b7-f1f2-48ab-9b49-9b149adf4a27",
-          "postal": "118527"
         }
       ],
       "updated": []
