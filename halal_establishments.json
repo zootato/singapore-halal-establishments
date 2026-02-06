@@ -7066,6 +7066,15 @@
   },
   {
     "name": "Cravy for Crispy Chicken",
+    "address": "1 BUKIT BATOK CENTRAL LINK #02-10A WEST MALL 658713",
+    "type": "Restaurant",
+    "number": "EERT26020000045",
+    "scheme": "Eating Establishment",
+    "id": "c091e13f-3dbe-44a1-b12d-78da06d58861",
+    "postal": "658713"
+  },
+  {
+    "name": "Cravy for Crispy Chicken",
     "address": "1 EXPO DRIVE #01-112 SINGAPORE EXPO 486150",
     "type": "Hawker",
     "number": "EEHK20240000579",
@@ -12393,6 +12402,15 @@
     "postal": "821665"
   },
   {
+    "name": "Happy Nasi Ayam (MR2) @ Maxim 168 Toa Payoh",
+    "address": "168 LORONG 1 TOA PAYOH #01-1040 TOA PAYOH GREEN, MR2 310168",
+    "type": "Hawker",
+    "number": "EEHK20250000003",
+    "scheme": "Eating Establishment",
+    "id": "225f398c-03e3-4827-b173-80bb6d36e05d",
+    "postal": "310168"
+  },
+  {
     "name": "HAPPY OVEN",
     "address": "40 BEO CRESCENT #01-08 160040",
     "type": "Snack Bar / Bakery",
@@ -13536,6 +13554,15 @@
     "postal": "903808"
   },
   {
+    "name": "Indian Express",
+    "address": "2 BAYFRONT AVENUE #B2-49/53 The Shoppes At MBS 018972",
+    "type": "Hawker",
+    "number": "EEHK26010000155",
+    "scheme": "Eating Establishment",
+    "id": "07e1a468-4296-4d75-8d17-cfd59dc1c145",
+    "postal": "018972"
+  },
+  {
     "name": "Indian Fiesta (S3) @ Bartley Sec Sch",
     "address": "10 JALAN BUNGA RAMPAI BARTLEY SECONDARY SCHOOL 538403",
     "type": "Canteen",
@@ -13678,6 +13705,15 @@
     "scheme": "Eating Establishment",
     "id": "4645832b-2c00-4c86-8bd6-3e54932c7d87",
     "postal": "238863"
+  },
+  {
+    "name": "Indo 6 Express (S2) @ BaoBao Foodcourt Lucky Plaza",
+    "address": "Bazaar Geylang KBRI-SG, 1 ENGKU AMAN TURN PPIS FAMILY SERVICE CENTRE (EAST), 136 408528",
+    "type": "Short Term Stall(Bazaar/Road Shows)",
+    "number": "EEST26020000050",
+    "scheme": "Eating Establishment",
+    "id": "4645832b-2c00-4c86-8bd6-3e54932c7d87",
+    "postal": "408528"
   },
   {
     "name": "Indo Padang (S52) @ Kopitiam Square",
@@ -16560,6 +16596,15 @@
     "postal": "500004"
   },
   {
+    "name": "Kumar Kitchen Kumar Mama Tea Kadai",
+    "address": "195A/195B SERANGOON ROAD L Hotel @Broadway (1St Storey) 218067",
+    "type": "Restaurant",
+    "number": "EERT26020000048",
+    "scheme": "Eating Establishment",
+    "id": "a01773f6-f5b6-4e7a-b8fa-7b24c2ee3cce",
+    "postal": "218067"
+  },
+  {
     "name": "KUNYIT KEDAI",
     "address": "960 WOODLANDS ROAD #01-06/07/08 KRANJI MRT STATION 738702",
     "type": "Restaurant",
@@ -16837,6 +16882,15 @@
     "scheme": "Food Preparation Area",
     "id": "1b4294e4-9642-4762-847f-7bf6f6263717",
     "postal": "238865"
+  },
+  {
+    "name": "Lin Xuan Yong Tau Foo (MR7) @ Kopitiam Changi Airport T4",
+    "address": "10 AIRPORT BOULEVARD #02-205 CHANGI AIRPORT TERMINAL 4, MR7 819665",
+    "type": "Hawker",
+    "number": "EEHK20250000081",
+    "scheme": "Eating Establishment",
+    "id": "348fa0de-a106-497b-99c2-5582a87a5806",
+    "postal": "819665"
   },
   {
     "name": "LITTLE SAYANG (S7) @ GOODLUCK FOODCOURT",
@@ -18811,15 +18865,6 @@
   },
   {
     "name": "McDonald's",
-    "address": "17 Petir Road #B1-25-27 Hillion Mall 678278",
-    "type": "Restaurant",
-    "number": "EERN20020010962",
-    "scheme": "Eating Establishment",
-    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-    "postal": "678278"
-  },
-  {
-    "name": "McDonald's",
     "address": "583 ORCHARD ROAD #B-3/35 FORUM SHOPPING MALL 238884",
     "type": "Restaurant",
     "number": "EERN20020010980",
@@ -20779,15 +20824,6 @@
     "scheme": "Eating Establishment",
     "id": "505cfecb-8b8a-47dd-aa33-0c42d1a054da",
     "postal": "769100"
-  },
-  {
-    "name": "MY KAMPUNG",
-    "address": "3 GATEWAY DRIVE #B2-K8 WESTGATE 608532",
-    "type": "Restaurant",
-    "number": "EERT20250000812",
-    "scheme": "Eating Establishment",
-    "id": "505cfecb-8b8a-47dd-aa33-0c42d1a054da",
-    "postal": "608532"
   },
   {
     "name": "MY KAMPUNG CHICKEN RICE",
@@ -22941,6 +22977,249 @@
     "postal": "758382"
   },
   {
+    "name": "Paris Baguette",
+    "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #01-K28/K29 CHANGI CITY 486038",
+    "type": "Restaurant",
+    "number": "EERT26020000016",
+    "scheme": "Eating Establishment",
+    "id": "8426b1a6-b4b6-41da-9f87-117a4cf314e5",
+    "postal": "486038"
+  },
+  {
+    "name": "Paris Baguette",
+    "address": "23 SERANGOON CENTRAL #01-67 NEX 556083",
+    "type": "Restaurant",
+    "number": "EERT26020000028",
+    "scheme": "Eating Establishment",
+    "id": "8426b1a6-b4b6-41da-9f87-117a4cf314e5",
+    "postal": "556083"
+  },
+  {
+    "name": "Paris Baguette",
+    "address": "1 PASIR RIS CENTRAL STREET 3 #01-18/19/20 WHITE SANDS 518457",
+    "type": "Restaurant",
+    "number": "EERT26020000040",
+    "scheme": "Eating Establishment",
+    "id": "8426b1a6-b4b6-41da-9f87-117a4cf314e5",
+    "postal": "518457"
+  },
+  {
+    "name": "Paris Baguette",
+    "address": "6 RAFFLES BOULEVARD #02-121/152/152K MARINA SQUARE 039594",
+    "type": "Restaurant",
+    "number": "EERT26020000017",
+    "scheme": "Eating Establishment",
+    "id": "8426b1a6-b4b6-41da-9f87-117a4cf314e5",
+    "postal": "039594"
+  },
+  {
+    "name": "Paris Baguette",
+    "address": "16 RAFFLES QUAY #01-03 HONG LEONG BUILDING 048581",
+    "type": "Restaurant",
+    "number": "EERT26020000019",
+    "scheme": "Eating Establishment",
+    "id": "8426b1a6-b4b6-41da-9f87-117a4cf314e5",
+    "postal": "048581"
+  },
+  {
+    "name": "Paris Baguette",
+    "address": "252 NORTH BRIDGE ROAD #01-46/46A/47/48 RAFFLES CITY SHOPPING CENTRE 179103",
+    "type": "Restaurant",
+    "number": "EERT26020000027",
+    "scheme": "Eating Establishment",
+    "id": "8426b1a6-b4b6-41da-9f87-117a4cf314e5",
+    "postal": "179103"
+  },
+  {
+    "name": "Paris Baguette",
+    "address": "10 SINARAN DRIVE #01-156-159 SQUARE 2 307506",
+    "type": "Restaurant",
+    "number": "EERT26020000018",
+    "scheme": "Eating Establishment",
+    "id": "8426b1a6-b4b6-41da-9f87-117a4cf314e5",
+    "postal": "307506"
+  },
+  {
+    "name": "Paris Baguette",
+    "address": "80 MARINE PARADE ROAD #01-K3/K43/01-69B PARKWAY PARADE 449269",
+    "type": "Restaurant",
+    "number": "EERT26020000020",
+    "scheme": "Eating Establishment",
+    "id": "8426b1a6-b4b6-41da-9f87-117a4cf314e5",
+    "postal": "449269"
+  },
+  {
+    "name": "Paris Baguette",
+    "address": "302 TIONG BAHRU ROAD #01-148/149/150 TIONG BAHRU PLAZA 168732",
+    "type": "Restaurant",
+    "number": "EERT26020000021",
+    "scheme": "Eating Establishment",
+    "id": "8426b1a6-b4b6-41da-9f87-117a4cf314e5",
+    "postal": "168732"
+  },
+  {
+    "name": "Paris Baguette",
+    "address": "10 AIRPORT BOULEVARD #01-05 CHANGI AIRPORT TERMINAL 4 819665",
+    "type": "Restaurant",
+    "number": "EERT26020000022",
+    "scheme": "Eating Establishment",
+    "id": "8426b1a6-b4b6-41da-9f87-117a4cf314e5",
+    "postal": "819665"
+  },
+  {
+    "name": "Paris Baguette",
+    "address": "10 PAYA LEBAR ROAD #01-03/05/06 PAYA LEBAR QUARTER 409057",
+    "type": "Restaurant",
+    "number": "EERT26020000023",
+    "scheme": "Eating Establishment",
+    "id": "8426b1a6-b4b6-41da-9f87-117a4cf314e5",
+    "postal": "409057"
+  },
+  {
+    "name": "Paris Baguette",
+    "address": "65 AIRPORT BOULEVARD #01-22 CHANGI AIRPORT TERMINAL 3 ARRIVAL HALL-PUBLIC AREA 819663",
+    "type": "Restaurant",
+    "number": "EERT26020000024",
+    "scheme": "Eating Establishment",
+    "id": "8426b1a6-b4b6-41da-9f87-117a4cf314e5",
+    "postal": "819663"
+  },
+  {
+    "name": "Paris Baguette",
+    "address": "200 VICTORIA STREET #B1-24 BUGIS JUNCTION 188021",
+    "type": "Restaurant",
+    "number": "EERT26020000025",
+    "scheme": "Eating Establishment",
+    "id": "8426b1a6-b4b6-41da-9f87-117a4cf314e5",
+    "postal": "188021"
+  },
+  {
+    "name": "Paris Baguette",
+    "address": "2 ORCHARD TURN #B1-15C #B1-15B ION ORCHARD 238801",
+    "type": "Restaurant",
+    "number": "EERT26020000026",
+    "scheme": "Eating Establishment",
+    "id": "8426b1a6-b4b6-41da-9f87-117a4cf314e5",
+    "postal": "238801"
+  },
+  {
+    "name": "Paris Baguette",
+    "address": "53 ANG MO KIO AVENUE 3 #B1-25/26 AMK HUB 569933",
+    "type": "Restaurant",
+    "number": "EERT26020000029",
+    "scheme": "Eating Establishment",
+    "id": "8426b1a6-b4b6-41da-9f87-117a4cf314e5",
+    "postal": "569933"
+  },
+  {
+    "name": "Paris Baguette",
+    "address": "12 KALLANG AVENUE #01-35 APERIA 339511",
+    "type": "Restaurant",
+    "number": "EERT26020000030",
+    "scheme": "Eating Establishment",
+    "id": "8426b1a6-b4b6-41da-9f87-117a4cf314e5",
+    "postal": "339511"
+  },
+  {
+    "name": "Paris Baguette",
+    "address": "78 AIRPORT BOULEVARD #02-200 JEWEL CHANGI AIRPORT 819666",
+    "type": "Restaurant",
+    "number": "EERT26020000031",
+    "scheme": "Eating Establishment",
+    "id": "8426b1a6-b4b6-41da-9f87-117a4cf314e5",
+    "postal": "819666"
+  },
+  {
+    "name": "Paris Baguette",
+    "address": "930 YISHUN AVENUE 2 #02-16/17 NORTHPOINT CITY 769098",
+    "type": "Restaurant",
+    "number": "EERT26020000032",
+    "scheme": "Eating Establishment",
+    "id": "8426b1a6-b4b6-41da-9f87-117a4cf314e5",
+    "postal": "769098"
+  },
+  {
+    "name": "Paris Baguette",
+    "address": "7 HOLLAND VILLAGE WAY #01-46/47 ONE HOLLAND VILLAGE 275758",
+    "type": "Restaurant",
+    "number": "EERT26020000033",
+    "scheme": "Eating Establishment",
+    "id": "8426b1a6-b4b6-41da-9f87-117a4cf314e5",
+    "postal": "275758"
+  },
+  {
+    "name": "Paris Baguette",
+    "address": "133 NEW BRIDGE ROAD #01-07/09 CHINATOWN POINT 059413",
+    "type": "Restaurant",
+    "number": "EERT26020000034",
+    "scheme": "Eating Establishment",
+    "id": "8426b1a6-b4b6-41da-9f87-117a4cf314e5",
+    "postal": "059413"
+  },
+  {
+    "name": "Paris Baguette",
+    "address": "17 PETIR ROAD #B1-16 HILLION MALL 678278",
+    "type": "Restaurant",
+    "number": "EERT26020000035",
+    "scheme": "Eating Establishment",
+    "id": "8426b1a6-b4b6-41da-9f87-117a4cf314e5",
+    "postal": "678278"
+  },
+  {
+    "name": "Paris Baguette",
+    "address": "1 HARBOURFRONT WALK #B2-55 VIVOCITY 098585",
+    "type": "Restaurant",
+    "number": "EERT26020000036",
+    "scheme": "Eating Establishment",
+    "id": "8426b1a6-b4b6-41da-9f87-117a4cf314e5",
+    "postal": "098585"
+  },
+  {
+    "name": "Paris Baguette",
+    "address": "1 BUKIT BATOK CENTRAL LINK B1-18, B1-22 WEST MALL 658713",
+    "type": "Restaurant",
+    "number": "EERT26020000037",
+    "scheme": "Eating Establishment",
+    "id": "8426b1a6-b4b6-41da-9f87-117a4cf314e5",
+    "postal": "658713"
+  },
+  {
+    "name": "Paris Baguette",
+    "address": "50 JURONG GATEWAY ROAD #02-20/21 JEM 608549",
+    "type": "Restaurant",
+    "number": "EERT26020000038",
+    "scheme": "Eating Establishment",
+    "id": "8426b1a6-b4b6-41da-9f87-117a4cf314e5",
+    "postal": "608549"
+  },
+  {
+    "name": "Paris Baguette",
+    "address": "60 AIRPORT BOULEVARD #01-04 CHANGI AIRPORT TERMINAL 2 819643",
+    "type": "Restaurant",
+    "number": "EERT26020000039",
+    "scheme": "Eating Establishment",
+    "id": "8426b1a6-b4b6-41da-9f87-117a4cf314e5",
+    "postal": "819643"
+  },
+  {
+    "name": "Paris Baguette",
+    "address": "311 NEW UPPER CHANGI ROAD #01-31 BEDOK MALL 467360",
+    "type": "Restaurant",
+    "number": "EERT26020000041",
+    "scheme": "Eating Establishment",
+    "id": "8426b1a6-b4b6-41da-9f87-117a4cf314e5",
+    "postal": "467360"
+  },
+  {
+    "name": "Paris Baguette Singapore",
+    "address": "16 TAI SENG STREET #01-01 534138",
+    "type": "Central Kitchen",
+    "number": "FPCK26020000015",
+    "scheme": "Food Preparation Area",
+    "id": "8426b1a6-b4b6-41da-9f87-117a4cf314e5",
+    "postal": "534138"
+  },
+  {
     "name": "PARIS VAN JAVA",
     "address": "304 ORCHARD ROAD #01-45/46/47 LUCKY PLAZA 238863",
     "type": "Restaurant",
@@ -23653,15 +23932,6 @@
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
-    "address": "3 YUAN CHING ROAD #01-03 JURONG LEISURE COMPLEX 618642",
-    "type": "Restaurant",
-    "number": "EERN21080012794",
-    "scheme": "Eating Establishment",
-    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
-    "postal": "618642"
-  },
-  {
-    "name": "PIZZA HUT SINGAPORE PTE LTD",
     "address": "1 SENGKANG SQUARE #B1-15 SENGKANG MALL (1SM) 545078",
     "type": "Restaurant",
     "number": "EERN21080012769",
@@ -23893,6 +24163,15 @@
     "scheme": "Eating Establishment",
     "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
     "postal": "677743"
+  },
+  {
+    "name": "PIZZA HUT SINGAPORE PTE LTD",
+    "address": "3 YUAN CHING ROAD #01-03 JURONG LEISURE COMPLEX 618642",
+    "type": "Restaurant",
+    "number": "EERN21080012794",
+    "scheme": "Eating Establishment",
+    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
+    "postal": "618642"
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
@@ -24166,15 +24445,6 @@
   },
   {
     "name": "Poke Theory",
-    "address": "68 PHOENIX ROAD #01-21 TEBAN PLACE 668202",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20220000150",
-    "scheme": "Eating Establishment",
-    "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
-    "postal": "668202"
-  },
-  {
-    "name": "Poke Theory",
     "address": "30 RAFFLES PLACE #01-18 CHANGE ALLEY MALL 048622",
     "type": "Restaurant",
     "number": "EERN21020012157",
@@ -24235,6 +24505,15 @@
     "scheme": "Eating Establishment",
     "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
     "postal": "189356"
+  },
+  {
+    "name": "Poke Theory",
+    "address": "68 PHOENIX ROAD #01-21 TEBAN PLACE 668202",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20220000150",
+    "scheme": "Eating Establishment",
+    "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
+    "postal": "668202"
   },
   {
     "name": "POLAR CAFE",
@@ -28117,33 +28396,6 @@
   },
   {
     "name": "Srisun Express",
-    "address": "681 HOUGANG AVENUE 8 #01-831 HOUGANG VILLAGE 530681",
-    "type": "Restaurant",
-    "number": "EERT20230000895",
-    "scheme": "Eating Establishment",
-    "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
-    "postal": "530681"
-  },
-  {
-    "name": "Srisun Express",
-    "address": "509 BISHAN STREET 11 #01-382 570509",
-    "type": "Restaurant",
-    "number": "EERT20230001058",
-    "scheme": "Eating Establishment",
-    "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
-    "postal": "570509"
-  },
-  {
-    "name": "Srisun Express",
-    "address": "407 ANG MO KIO AVENUE 10 #01-743 TECK GHEE SQUARE 560407",
-    "type": "Restaurant",
-    "number": "EERX21040012271",
-    "scheme": "Eating Establishment",
-    "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
-    "postal": "560407"
-  },
-  {
-    "name": "Srisun Express",
     "address": "474 TAMPINES STREET 43 #01-118 520474",
     "type": "Restaurant",
     "number": "EERX21040012273",
@@ -31609,15 +31861,6 @@
   },
   {
     "name": "Tenderbest",
-    "address": "888 WOODLANDS DRIVE 50 #01-733 888 PLAZA, Stall 9 730888",
-    "type": "Hawker",
-    "number": "EEHN21060012452",
-    "scheme": "Eating Establishment",
-    "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
-    "postal": "730888"
-  },
-  {
-    "name": "Tenderbest",
     "address": "106 BIDADARI PARK DRIVE #01-05, MR02 340106",
     "type": "Hawker",
     "number": "EEHN21060012445",
@@ -33640,6 +33883,60 @@
     "scheme": "Food Preparation Area",
     "id": "862ce995-33f0-4ef6-81bf-ed12cbb00839",
     "postal": "534106"
+  },
+  {
+    "name": "Tim Hortons",
+    "address": "313 ORCHARD ROAD #01-29 313 @ SOMERSET 238895",
+    "type": "Restaurant",
+    "number": "EERT26020000008",
+    "scheme": "Eating Establishment",
+    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+    "postal": "238895"
+  },
+  {
+    "name": "Tim Hortons",
+    "address": "1 HARBOURFRONT WALK #01-207 VIVOCITY 098585",
+    "type": "Restaurant",
+    "number": "EERT26020000001",
+    "scheme": "Eating Establishment",
+    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+    "postal": "098585"
+  },
+  {
+    "name": "Tim Hortons",
+    "address": "1 RAFFLES PLACE #01-12 #01-11 ONE RAFFLES PLACE 048616",
+    "type": "Restaurant",
+    "number": "EERT26020000004",
+    "scheme": "Eating Establishment",
+    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+    "postal": "048616"
+  },
+  {
+    "name": "Tim Hortons",
+    "address": "9 RAFFLES BOULEVARD #01-87 #01-86 MILLENIA WALK 039596",
+    "type": "Restaurant",
+    "number": "EERT26020000014",
+    "scheme": "Eating Establishment",
+    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+    "postal": "039596"
+  },
+  {
+    "name": "Tim Hortons",
+    "address": "68 ORCHARD ROAD #02-K2,#02-K3,#02-K5,#02-K6 #02-K1 PLAZA SINGAPURA 238839",
+    "type": "Restaurant",
+    "number": "EERT26020000010",
+    "scheme": "Eating Establishment",
+    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+    "postal": "238839"
+  },
+  {
+    "name": "Tim Hortons",
+    "address": "80 MARINE PARADE ROAD #01-02 PARKWAY PARADE 449269",
+    "type": "Restaurant",
+    "number": "EERT26020000009",
+    "scheme": "Eating Establishment",
+    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+    "postal": "449269"
   },
   {
     "name": "Timbre Pizza (S5) @ One Punggol Hawker Centre",
@@ -36145,21 +36442,21 @@
   },
   {
     "name": "Yakiniku Shokudo",
-    "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #B1-32/33 CHANGI CITY POINT 486038",
-    "type": "Restaurant",
-    "number": "EERT20230000005",
-    "scheme": "Eating Establishment",
-    "id": "7febb99e-79f2-45a1-9f1b-a2fe974e405a",
-    "postal": "486038"
-  },
-  {
-    "name": "Yakiniku Shokudo",
     "address": "2 JURONG EAST STREET 21 #02-53 IMM BUILDING 609601",
     "type": "Restaurant",
     "number": "EERT20220000119",
     "scheme": "Eating Establishment",
     "id": "7febb99e-79f2-45a1-9f1b-a2fe974e405a",
     "postal": "609601"
+  },
+  {
+    "name": "Yakiniku Shokudo",
+    "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #B1-32/33 CHANGI CITY POINT 486038",
+    "type": "Restaurant",
+    "number": "EERT20230000005",
+    "scheme": "Eating Establishment",
+    "id": "7febb99e-79f2-45a1-9f1b-a2fe974e405a",
+    "postal": "486038"
   },
   {
     "name": "Yaya Bakery",
