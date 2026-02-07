@@ -29980,6 +29980,15 @@
   },
   {
     "name": "Sugar Mama Lah",
+    "address": "BAZARIA MARSILING (OPEN FIELD OUTSIDE WOODLANDS MRT STATION), 30 WOODLANDS AVENUE 2 WOODLANDS MRT STATION (NS9), BOOTH 50 738343",
+    "type": "Short Term Stall(Bazaar/Road Shows)",
+    "number": "EEST26020000051",
+    "scheme": "Eating Establishment",
+    "id": "48f3e571-dfbc-42db-a6fc-ed0d5b59dc37",
+    "postal": "738343"
+  },
+  {
+    "name": "Sugar Mama Lah",
     "address": "96 ARAB STREET KAMPONG GLAM CONSERVATION AREA (LEVEL 2) KAMPONG GLAM CONSERVATION AREA 199792",
     "type": "Restaurant",
     "number": "EERT25120000092",
@@ -33895,15 +33904,6 @@
   },
   {
     "name": "Tim Hortons",
-    "address": "1 HARBOURFRONT WALK #01-207 VIVOCITY 098585",
-    "type": "Restaurant",
-    "number": "EERT26020000001",
-    "scheme": "Eating Establishment",
-    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-    "postal": "098585"
-  },
-  {
-    "name": "Tim Hortons",
     "address": "1 RAFFLES PLACE #01-12 #01-11 ONE RAFFLES PLACE 048616",
     "type": "Restaurant",
     "number": "EERT26020000004",
@@ -34453,15 +34453,6 @@
   },
   {
     "name": "TREATS",
-    "address": "251 UPPER EAST COAST ROAD MOBIL SERVICE STATION 466404",
-    "type": "Food Kiosk",
-    "number": "EEFK20220001012",
-    "scheme": "Eating Establishment",
-    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
-    "postal": "466404"
-  },
-  {
-    "name": "TREATS",
     "address": "353 UPPER THOMSON ROAD MOBIL SERVICE STATION 574410",
     "type": "Food Kiosk",
     "number": "EEFK20230000637",
@@ -34558,6 +34549,15 @@
     "scheme": "Eating Establishment",
     "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
     "postal": "758452"
+  },
+  {
+    "name": "TREATS",
+    "address": "251 UPPER EAST COAST ROAD MOBIL SERVICE STATION 466404",
+    "type": "Food Kiosk",
+    "number": "EEFK20220001012",
+    "scheme": "Eating Establishment",
+    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
+    "postal": "466404"
   },
   {
     "name": "TREATS",
