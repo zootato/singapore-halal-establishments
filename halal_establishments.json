@@ -19458,6 +19458,15 @@
     "postal": "048582"
   },
   {
+    "name": "Mini Wok",
+    "address": "180 ANG MO KIO AVENUE 8 MR3, NORTH CANTEEN #02 NANYANG POLYTECHNIC BLOCK E 569830",
+    "type": "Hawker",
+    "number": "EEHK26010000141",
+    "scheme": "Eating Establishment",
+    "id": "0df43f2f-4801-463a-bb15-4396e71d3ef4",
+    "postal": "569830"
+  },
+  {
     "name": "Mini Wok (MR3)@Fork & Spoon Woodlands Mart",
     "address": "768 WOODLANDS AVENUE 6 #01-30/32 WOODLANDS MART, MR 3 730768",
     "type": "Hawker",
