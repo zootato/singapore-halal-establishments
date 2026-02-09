@@ -99,6 +99,15 @@
     "postal": "758455"
   },
   {
+    "name": "149 Cafe @ TechnipFMC (Mngd By The Wok People)",
+    "address": "149 GUL CIRCLE 629605",
+    "type": "Staff Canteen",
+    "number": "EEFN21100012548",
+    "scheme": "Eating Establishment",
+    "id": "1e714a83-8be8-4037-b71a-d823e8e08cee",
+    "postal": "629605"
+  },
+  {
     "name": "156 Japanese Korean (S5)@Coffee & Tea Yishun",
     "address": "156 YISHUN STREET 11 #01-122, Stall 5 760156",
     "type": "Hawker",
@@ -4483,15 +4492,6 @@
   },
   {
     "name": "BURGER KING",
-    "address": "28 CHOA CHU KANG DRIVE #01-01 SAFRA 689964",
-    "type": "Restaurant",
-    "number": "EERT20230000841",
-    "scheme": "Eating Establishment",
-    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
-    "postal": "689964"
-  },
-  {
-    "name": "BURGER KING",
     "address": "1 JELEBU ROAD #01-28/29 BUKIT PANJANG PLAZA 677743",
     "type": "Restaurant",
     "number": "EERN20030011313",
@@ -4798,6 +4798,15 @@
   },
   {
     "name": "BURGER KING",
+    "address": "28 CHOA CHU KANG DRIVE #01-01 SAFRA 689964",
+    "type": "Restaurant",
+    "number": "EERT20230000841",
+    "scheme": "Eating Establishment",
+    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+    "postal": "689964"
+  },
+  {
+    "name": "BURGER KING",
     "address": "604 SEMBAWANG ROAD #01-01 SEMBAWANG SHOPPING CENTRE 758459",
     "type": "Restaurant",
     "number": "EERX20040011364",
@@ -4876,6 +4885,24 @@
     "scheme": "Eating Establishment",
     "id": "43d64b41-601e-4089-b85e-bbb482fb6529",
     "postal": "618499"
+  },
+  {
+    "name": "Bytes Cafe (Mngd By The Wok People)",
+    "address": "8 UPPER CHANGI ROAD NORTH #04-00 APPLIED MATERIALS BUILDING 506906",
+    "type": "Staff Canteen",
+    "number": "EEFN21090012537",
+    "scheme": "Eating Establishment",
+    "id": "f9bd12ce-2cb1-4ee4-beb3-21ce8c64f92f",
+    "postal": "506906"
+  },
+  {
+    "name": "Bytes Cafe (Mngd By The Wok People)",
+    "address": "33 CHANGI NORTH CRESCENT #02-00 499640",
+    "type": "Staff Canteen",
+    "number": "EEFN21120012553",
+    "scheme": "Eating Establishment",
+    "id": "f9bd12ce-2cb1-4ee4-beb3-21ce8c64f92f",
+    "postal": "499640"
   },
   {
     "name": "Cafe 2b Bistro",
@@ -5104,24 +5131,6 @@
   },
   {
     "name": "CANADIAN 2 FOR 1 PIZZA",
-    "address": "67 BRIGHTON CRESCENT SERANGOON GARDEN ESTATE 559212",
-    "type": "Restaurant",
-    "number": "EERN21050012320",
-    "scheme": "Eating Establishment",
-    "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
-    "postal": "559212"
-  },
-  {
-    "name": "CANADIAN 2 FOR 1 PIZZA",
-    "address": "557 Jurong West Street 42 #01-397 640557",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN21050012274",
-    "scheme": "Eating Establishment",
-    "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
-    "postal": "640557"
-  },
-  {
-    "name": "CANADIAN 2 FOR 1 PIZZA",
     "address": "10 KIM KEAT ROAD,First storey 328844",
     "type": "Snack Bar / Bakery",
     "number": "EEBN21050012272",
@@ -5155,6 +5164,15 @@
     "scheme": "Eating Establishment",
     "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
     "postal": "828670"
+  },
+  {
+    "name": "CANADIAN 2 FOR 1 PIZZA",
+    "address": "557 Jurong West Street 42 #01-397 640557",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN21050012274",
+    "scheme": "Eating Establishment",
+    "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
+    "postal": "640557"
   },
   {
     "name": "CANADIAN 2 FOR 1 PIZZA",
@@ -5200,6 +5218,15 @@
     "scheme": "Eating Establishment",
     "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
     "postal": "397629"
+  },
+  {
+    "name": "CANADIAN 2 FOR 1 PIZZA",
+    "address": "67 BRIGHTON CRESCENT SERANGOON GARDEN ESTATE 559212",
+    "type": "Restaurant",
+    "number": "EERN21050012320",
+    "scheme": "Eating Establishment",
+    "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
+    "postal": "559212"
   },
   {
     "name": "CANADIAN 2 FOR 1 PIZZA",
@@ -8263,15 +8290,6 @@
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
-    "address": "505 WEST COAST DRIVE #01-210 120505",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN21060012379",
-    "scheme": "Eating Establishment",
-    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
-    "postal": "120505"
-  },
-  {
-    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
     "address": "1 HILLVIEW RISE #01-03 667970",
     "type": "Restaurant",
     "number": "EERN21060012528",
@@ -8542,6 +8560,15 @@
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+    "address": "505 WEST COAST DRIVE #01-210 120505",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN21060012379",
+    "scheme": "Eating Establishment",
+    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+    "postal": "120505"
+  },
+  {
+    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
     "address": "218 BEDOK NORTH STREET 1 #01-15 460218",
     "type": "Snack Bar / Bakery",
     "number": "EEBN21060012380",
@@ -8629,6 +8656,15 @@
     "scheme": "Eating Establishment",
     "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
     "postal": "100046"
+  },
+  {
+    "name": "DOMINO’S PIZZA SINGAPORE PTE LTD",
+    "address": "1 PASIR RIS DRIVE 4 #01-09 PASIR RIS EAST COMMUNITY CLUB 519457",
+    "type": "Restaurant",
+    "number": "EERT26010000156",
+    "scheme": "Eating Establishment",
+    "id": "64d8ab21-e0be-4283-b91f-b2eabe73698a",
+    "postal": "519457"
   },
   {
     "name": "DOMINO’S PIZZA SINGAPORE PTE LTD",
@@ -11691,15 +11727,6 @@
     "postal": "048619"
   },
   {
-    "name": "HA-JUN KOREAN",
-    "address": "1 NORTH BUONA VISTA LINK #01-02 139691",
-    "type": "Restaurant",
-    "number": "EERT20250000298",
-    "scheme": "Eating Establishment",
-    "id": "58f3214a-f3a1-4632-bef7-22dda2c530a2",
-    "postal": "139691"
-  },
-  {
     "name": "Ha-Jun Korean",
     "address": "30 RAFFLES PLACE #B1-15 30 RAFFLES PLACE 048622",
     "type": "Restaurant",
@@ -11716,6 +11743,15 @@
     "scheme": "Eating Establishment",
     "id": "dabbc0a8-0df4-448e-9faa-f69f855d7b55",
     "postal": "189562"
+  },
+  {
+    "name": "HA-JUN KOREAN",
+    "address": "1 NORTH BUONA VISTA LINK #01-02 139691",
+    "type": "Restaurant",
+    "number": "EERT20250000298",
+    "scheme": "Eating Establishment",
+    "id": "58f3214a-f3a1-4632-bef7-22dda2c530a2",
+    "postal": "139691"
   },
   {
     "name": "HA... JUN",
@@ -26263,21 +26299,21 @@
   },
   {
     "name": "SAAP SAAP THAI",
-    "address": "2 JURONG EAST STREET 21 #01-48 IMM BUILDING 609601",
-    "type": "Restaurant",
-    "number": "EERN21070012635",
-    "scheme": "Eating Establishment",
-    "id": "9589c31f-fee1-4b1e-925f-755094a68b7a",
-    "postal": "609601"
-  },
-  {
-    "name": "SAAP SAAP THAI",
     "address": "1 JOO KOON CIRCLE #01-40/43/46A FAIRPRICE HUB 629117",
     "type": "Restaurant",
     "number": "EERN21100012927",
     "scheme": "Eating Establishment",
     "id": "9589c31f-fee1-4b1e-925f-755094a68b7a",
     "postal": "629117"
+  },
+  {
+    "name": "SAAP SAAP THAI",
+    "address": "2 JURONG EAST STREET 21 #01-48 IMM BUILDING 609601",
+    "type": "Restaurant",
+    "number": "EERN21070012635",
+    "scheme": "Eating Establishment",
+    "id": "9589c31f-fee1-4b1e-925f-755094a68b7a",
+    "postal": "609601"
   },
   {
     "name": "SAAP SAAP THAI",
@@ -30232,7 +30268,7 @@
   },
   {
     "name": "Sukiya Gyudon • Curry",
-    "address": "53 ANG MO KIO AVENUE 3 #01-06,07 AMK HUB 569933",
+    "address": "53 ANG MO KIO AVENUE 3 01-06,07 AMK HUB 569933",
     "type": "Restaurant",
     "number": "EERT20250000354",
     "scheme": "Eating Establishment",
@@ -30259,7 +30295,7 @@
   },
   {
     "name": "Sukiya Gyudon • Curry",
-    "address": "84 PUNGGOL WAY #01-86/87 PUNGGOL COAST MALL 829911",
+    "address": "84 PUNGGOL WAY 01-86/87 PUNGGOL COAST MALL 829911",
     "type": "Restaurant",
     "number": "EERT20250000667",
     "scheme": "Eating Establishment",

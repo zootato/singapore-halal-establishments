@@ -1,5 +1,97 @@
 [
   {
+    "timestamp": "2026-02-09T22:26:05.704339",
+    "date": "2026-02-09",
+    "summary": {
+      "new": 4,
+      "removed": 0,
+      "updated": 2
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Bytes Cafe (Mngd By The Wok People)",
+          "address": "33 CHANGI NORTH CRESCENT #02-00 499640",
+          "type": "Staff Canteen",
+          "number": "EEFN21120012553",
+          "scheme": "Eating Establishment",
+          "id": "f9bd12ce-2cb1-4ee4-beb3-21ce8c64f92f",
+          "postal": "499640"
+        },
+        {
+          "name": "Bytes Cafe (Mngd By The Wok People)",
+          "address": "8 UPPER CHANGI ROAD NORTH #04-00 APPLIED MATERIALS BUILDING 506906",
+          "type": "Staff Canteen",
+          "number": "EEFN21090012537",
+          "scheme": "Eating Establishment",
+          "id": "f9bd12ce-2cb1-4ee4-beb3-21ce8c64f92f",
+          "postal": "506906"
+        },
+        {
+          "name": "149 Cafe @ TechnipFMC (Mngd By The Wok People)",
+          "address": "149 GUL CIRCLE 629605",
+          "type": "Staff Canteen",
+          "number": "EEFN21100012548",
+          "scheme": "Eating Establishment",
+          "id": "1e714a83-8be8-4037-b71a-d823e8e08cee",
+          "postal": "629605"
+        },
+        {
+          "name": "DOMINO’S PIZZA SINGAPORE PTE LTD",
+          "address": "1 PASIR RIS DRIVE 4 #01-09 PASIR RIS EAST COMMUNITY CLUB 519457",
+          "type": "Restaurant",
+          "number": "EERT26010000156",
+          "scheme": "Eating Establishment",
+          "id": "64d8ab21-e0be-4283-b91f-b2eabe73698a",
+          "postal": "519457"
+        }
+      ],
+      "removed": [],
+      "updated": [
+        {
+          "previous": {
+            "name": "Sukiya Gyudon • Curry",
+            "address": "53 ANG MO KIO AVENUE 3 #01-06,07 AMK HUB 569933",
+            "type": "Restaurant",
+            "number": "EERT20250000354",
+            "scheme": "Eating Establishment",
+            "id": "f25faa72-19a1-4c85-a920-fc1462f72292",
+            "postal": "569933"
+          },
+          "current": {
+            "name": "Sukiya Gyudon • Curry",
+            "address": "53 ANG MO KIO AVENUE 3 01-06,07 AMK HUB 569933",
+            "type": "Restaurant",
+            "number": "EERT20250000354",
+            "scheme": "Eating Establishment",
+            "id": "f25faa72-19a1-4c85-a920-fc1462f72292",
+            "postal": "569933"
+          }
+        },
+        {
+          "previous": {
+            "name": "Sukiya Gyudon • Curry",
+            "address": "84 PUNGGOL WAY #01-86/87 PUNGGOL COAST MALL 829911",
+            "type": "Restaurant",
+            "number": "EERT20250000667",
+            "scheme": "Eating Establishment",
+            "id": "f25faa72-19a1-4c85-a920-fc1462f72292",
+            "postal": "829911"
+          },
+          "current": {
+            "name": "Sukiya Gyudon • Curry",
+            "address": "84 PUNGGOL WAY 01-86/87 PUNGGOL COAST MALL 829911",
+            "type": "Restaurant",
+            "number": "EERT20250000667",
+            "scheme": "Eating Establishment",
+            "id": "f25faa72-19a1-4c85-a920-fc1462f72292",
+            "postal": "829911"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-02-08T22:20:28.714351",
     "date": "2026-02-08",
     "summary": {
@@ -12577,85 +12669,6 @@
           "number": "EEBN22020013109",
           "scheme": "Eating Establishment",
           "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
-          "postal": "528523"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2025-12-08T22:16:53.811098",
-    "date": "2025-12-08",
-    "summary": {
-      "new": 5,
-      "removed": 2,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "SV Caterers Pte Ltd",
-          "address": "7 MANDAI ESTATE #05-05 FOODFAB@MANDAI 729904",
-          "type": "Catering Company",
-          "number": "FPCA25120000004",
-          "scheme": "Food Preparation Area",
-          "id": "46167b0c-c1af-4ff3-9419-759ae1e04805",
-          "postal": "729904"
-        },
-        {
-          "name": "Pondok Selera By Nurul Hidayah",
-          "address": "8A ADMIRALTY STREET #07-38 FOOD XCHANGE @ ADMIRALTY 757437",
-          "type": "Catering Company",
-          "number": "FPCA20240001085",
-          "scheme": "Food Preparation Area",
-          "id": "8f6454b2-602c-4716-9676-b445a534cc6a",
-          "postal": "757437"
-        },
-        {
-          "name": "BAKEINC",
-          "address": "CHINESE NEW YEAR 2026 @ B2 TAKASHIMAYA, 391A ORCHARD ROAD #B2 NGEE ANN CITY, 7 238873",
-          "type": "Short Term Stall(Bazaar/Road Shows)",
-          "number": "EEST25120000036",
-          "scheme": "Eating Establishment",
-          "id": "edbe1a4e-d230-4fe7-914b-eb8d94f1245a",
-          "postal": "238873"
-        },
-        {
-          "name": "Staff Canteen Stall @ Lonza Biologics ( Mngd by ISS Catering )",
-          "address": "35 TUAS SOUTH AVENUE 6 637377",
-          "type": "Staff Canteen",
-          "number": "EESC20230001000",
-          "scheme": "Eating Establishment",
-          "id": "29940345-bf67-4e70-b9c1-4cc6d0f3b954",
-          "postal": "637377"
-        },
-        {
-          "name": "FUSION WESTERN CUISINE",
-          "address": "150 TOWNER ROAD Stall 03 @ FoodHub #01-01 TOWNER CREST 320150",
-          "type": "Hawker",
-          "number": "EEHK25120000027",
-          "scheme": "Eating Establishment",
-          "id": "225d8367-2c75-4a77-8421-bebb4401ae7d",
-          "postal": "320150"
-        }
-      ],
-      "removed": [
-        {
-          "name": "PRIMADELI",
-          "address": "201 KEPPEL ROAD #10-00 ANNEXE BLOCK 099419",
-          "type": "Central Kitchen",
-          "number": "FPCN21050001526",
-          "scheme": "Food Preparation Area",
-          "id": "02140cb6-f4b2-428b-9b58-14206e1bfafb",
-          "postal": "099419"
-        },
-        {
-          "name": "Yakiniku Shokudo",
-          "address": "1 TAMPINES WALK #01-103/103A OUR TAMPINES HUB 528523",
-          "type": "Restaurant",
-          "number": "EERT20230000345",
-          "scheme": "Eating Establishment",
-          "id": "7febb99e-79f2-45a1-9f1b-a2fe974e405a",
           "postal": "528523"
         }
       ],
