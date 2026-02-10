@@ -1,5 +1,195 @@
 [
   {
+    "timestamp": "2026-02-10T22:28:01.394774",
+    "date": "2026-02-10",
+    "summary": {
+      "new": 15,
+      "removed": 2,
+      "updated": 1
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "KUEH HO JIAK",
+          "address": "6 TANJONG PAGAR PLAZA #02-20, STALL 20, TANJONG PAGAR PLAZA MARKET & FOOD CENTRE 081006",
+          "type": "Hawker",
+          "number": "EEHK20220000596",
+          "scheme": "Eating Establishment",
+          "id": "aaff7ea0-5d5c-4c48-a11b-e7201dfeac4e",
+          "postal": "081006"
+        },
+        {
+          "name": "DABBA STREET",
+          "address": "302 TIONG BAHRU ROAD #B1-K06 TIONG BAHRU PLAZA 168732",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000122",
+          "scheme": "Eating Establishment",
+          "id": "073efe61-4460-4497-b8e9-8add21a2ca8e",
+          "postal": "168732"
+        },
+        {
+          "name": "MUNCHI CONCEPTS PTE LTD",
+          "address": "25 HARPER ROAD #06-02 HARPER POINT 369683",
+          "type": "Central Kitchen",
+          "number": "FPCK26020000049",
+          "scheme": "Food Preparation Area",
+          "id": "f028c9f5-b8c2-429f-ae62-f37aa341cef6",
+          "postal": "369683"
+        },
+        {
+          "name": "Indian Cuisine @ CAPT/RC (Mngd By SMORGASBORD Int Pte Ltd)",
+          "address": "4 COLLEGE AVENUE EAST University Town, NUS, Indian Cuisine Stall 138613",
+          "type": "Hawker",
+          "number": "EEHN21070012568",
+          "scheme": "Eating Establishment",
+          "id": "b5c571d0-f2ba-4452-8651-047cbb445447",
+          "postal": "138613"
+        },
+        {
+          "name": "Malay cuisine @ CAPT/RC (Mngd By SMORGASBORD Int Pte Ltd)",
+          "address": "4 COLLEGE AVENUE EAST University Town, NUS, Malay Cuisine Stall 138613",
+          "type": "Hawker",
+          "number": "EEHN21070012567",
+          "scheme": "Eating Establishment",
+          "id": "6f03d82f-a803-4c83-b0b4-52a85079cae3",
+          "postal": "138613"
+        },
+        {
+          "name": "MALAY CUISINE@ COLLEGE OF CT (MNGD BY SMORGASBORD INT PTE LTD)",
+          "address": "24 COLLEGE AVENUE EAST #01-01 UNIVERSITY TOWN - NUS, Malay Cuisine Kitchen 138596",
+          "type": "Central Kitchen",
+          "number": "FPCK20220000799",
+          "scheme": "Food Preparation Area",
+          "id": "6b0b901a-b1d7-445a-b56b-46c4214addb0",
+          "postal": "138596"
+        },
+        {
+          "name": "Indian Cuisine @ College of CT (Mngd By Smorgasbord Int Pte Ltd)",
+          "address": "24 COLLEGE AVENUE EAST #01-01 UNIVERSITY TOWN - NUS, Indian Cuisine stall 138596",
+          "type": "Hawker",
+          "number": "EEHN21080012586",
+          "scheme": "Eating Establishment",
+          "id": "695f4335-330e-4bf2-9c4a-13ec72484861",
+          "postal": "138596"
+        },
+        {
+          "name": "DABBA STREET",
+          "address": "1 LOWER KENT RIDGE ROAD #01-01 NUH MEDICAL CENTRE 119082",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240001065",
+          "scheme": "Eating Establishment",
+          "id": "073efe61-4460-4497-b8e9-8add21a2ca8e",
+          "postal": "119082"
+        },
+        {
+          "name": "DABBA STREET",
+          "address": "63 JURONG WEST CENTRAL 3 #01-31 Jurong Point 648331",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000615",
+          "scheme": "Eating Establishment",
+          "id": "073efe61-4460-4497-b8e9-8add21a2ca8e",
+          "postal": "648331"
+        },
+        {
+          "name": "DABBA STREET",
+          "address": "1 PASIR RIS CENTRAL STREET 3 #B1-K2 518457",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000039",
+          "scheme": "Eating Establishment",
+          "id": "073efe61-4460-4497-b8e9-8add21a2ca8e",
+          "postal": "518457"
+        },
+        {
+          "name": "MALAY CUISINE@ELM & SAGA YALE NUS (MNGD BY SMORGASBOARD INT PL)",
+          "address": "14/10/12 COLLEGE AVENUE WEST 138611",
+          "type": "Central Kitchen",
+          "number": "FPCK20240000217",
+          "scheme": "Food Preparation Area",
+          "id": "c2582d05-8bc9-4df2-9efa-5edf988f7313",
+          "postal": "138611"
+        },
+        {
+          "name": "DABBA STREET",
+          "address": "1 JURONG EAST STREET 21 #02-17/18 609606",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240001189",
+          "scheme": "Eating Establishment",
+          "id": "073efe61-4460-4497-b8e9-8add21a2ca8e",
+          "postal": "609606"
+        },
+        {
+          "name": "Malay & Indian Cuisine @ RVRC(Mngd by Smorgasbord Int Pte Ltd)",
+          "address": "25 LOWER KENT RIDGE ROAD RIDGE VIEW DINING HALL, NUS 119081",
+          "type": "Hawker",
+          "number": "EEHN21070012566",
+          "scheme": "Eating Establishment",
+          "id": "a4b6d9a3-5802-417f-a293-a44a6c96265e",
+          "postal": "119081"
+        },
+        {
+          "name": "BAYFRONT CATERING SERVICES",
+          "address": "8A ADMIRALTY STREET #06-24 FOOD XCHANGE @ ADMIRALTY 757437",
+          "type": "Catering Company",
+          "number": "FPCA20240000028",
+          "scheme": "Food Preparation Area",
+          "id": "e3b75e42-a0f6-4b5a-b5ba-527dfe23573a",
+          "postal": "757437"
+        },
+        {
+          "name": "MALAY CUISINE@COLLEGE OF CT (MNGD BY SMORGASBORD INT PTE LTD)",
+          "address": "24 COLLEGE AVENUE EAST #01-01 UNIVERSITY TOWN - NUS, Malay Cuisine Stall 138596",
+          "type": "Hawker",
+          "number": "EEHK20220000798",
+          "scheme": "Eating Establishment",
+          "id": "caade187-b10b-497f-9885-911e1d58951b",
+          "postal": "138596"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Telur Thai",
+          "address": "127 PLANTATION CRESCENT #03-02 KOUFU PLANTATION PLAZA, Stall 4 690127",
+          "type": "Hawker",
+          "number": "EEHK20250000775",
+          "scheme": "Eating Establishment",
+          "id": "7001901a-4b95-4a8b-8989-93cb7b0f369a",
+          "postal": "690127"
+        },
+        {
+          "name": "Sanook Kitchen",
+          "address": "1 HARBOURFRONT WALK #B2-23C VIVO CITY 098585",
+          "type": "Restaurant",
+          "number": "EERT20220000545",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "098585"
+        }
+      ],
+      "updated": [
+        {
+          "previous": {
+            "name": "A-PO Hokkien Mee (S9)@Food Junction Lot One",
+            "address": "21 CHOA CHU KANG AVENUE 4 LOT ONE, SHOPPERS' MALL, Stall 9 689812",
+            "type": "Hawker",
+            "number": "EEHK20230000110",
+            "scheme": "Eating Establishment",
+            "id": "5960f873-dc13-44bb-b02d-c30ea524f45b",
+            "postal": "689812"
+          },
+          "current": {
+            "name": "A-PO Hokkien Mee (S9)@Food Junction Lot One",
+            "address": "21 CHOA CHU KANG AVENUE 4 #04-16 LOT ONE, SHOPPERS' MALL, Stall 9 689812",
+            "type": "Hawker",
+            "number": "EEHK20230000110",
+            "scheme": "Eating Establishment",
+            "id": "5960f873-dc13-44bb-b02d-c30ea524f45b",
+            "postal": "689812"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-02-09T22:26:05.704339",
     "date": "2026-02-09",
     "summary": {
@@ -12611,67 +12801,6 @@
         }
       ],
       "removed": [],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2025-12-09T22:16:22.088356",
-    "date": "2025-12-09",
-    "summary": {
-      "new": 3,
-      "removed": 2,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Jubilicious",
-          "address": "48 BOON LAY WAY #01-18 THE CHEVRONS 609961",
-          "type": "Restaurant",
-          "number": "EERT25120000020",
-          "scheme": "Eating Establishment",
-          "id": "ede058ed-e8b1-4655-9ad4-315207d2df18",
-          "postal": "609961"
-        },
-        {
-          "name": "Nasi Ayam",
-          "address": "306A WOODLANDS STREET 31 Stall 2 @ Mr Teh Tarik Eating House #01-01 FUCHUN NEIGHBOURHOOD CENTRE 731306",
-          "type": "Hawker",
-          "number": "EEHK25120000010",
-          "scheme": "Eating Establishment",
-          "id": "80182a53-75d4-43b4-976f-1d2dd1397861",
-          "postal": "731306"
-        },
-        {
-          "name": "Western Cuisine (S6) @ Foodgle Hub ITE College Central",
-          "address": "2 Ang Mo Kio Drive #01-14 ITE College Central, Stall 6 567720",
-          "type": "Hawker",
-          "number": "EEHK20230001077",
-          "scheme": "Eating Establishment",
-          "id": "5b0bec33-4231-4559-8514-b8316681d5a9",
-          "postal": "567720"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Syed Cafe",
-          "address": "743 HAVELOCK ROAD 169656",
-          "type": "Restaurant",
-          "number": "EERT20250000833",
-          "scheme": "Eating Establishment",
-          "id": "20369ee1-57f8-4781-a0b5-a3dd38004d4b",
-          "postal": "169656"
-        },
-        {
-          "name": "WOK HEY",
-          "address": "1 TAMPINES WALK #01-82A OUR TAMPINES HUB 528523",
-          "type": "Snack Bar / Bakery",
-          "number": "EEBN22020013109",
-          "scheme": "Eating Establishment",
-          "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
-          "postal": "528523"
-        }
-      ],
       "updated": []
     }
   }

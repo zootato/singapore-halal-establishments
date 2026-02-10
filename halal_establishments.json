@@ -685,7 +685,7 @@
   },
   {
     "name": "A-PO Hokkien Mee (S9)@Food Junction Lot One",
-    "address": "21 CHOA CHU KANG AVENUE 4 LOT ONE, SHOPPERS' MALL, Stall 9 689812",
+    "address": "21 CHOA CHU KANG AVENUE 4 #04-16 LOT ONE, SHOPPERS' MALL, Stall 9 689812",
     "type": "Hawker",
     "number": "EEHK20230000110",
     "scheme": "Eating Establishment",
@@ -3222,6 +3222,15 @@
     "postal": "238896"
   },
   {
+    "name": "BAYFRONT CATERING SERVICES",
+    "address": "8A ADMIRALTY STREET #06-24 FOOD XCHANGE @ ADMIRALTY 757437",
+    "type": "Catering Company",
+    "number": "FPCA20240000028",
+    "scheme": "Food Preparation Area",
+    "id": "e3b75e42-a0f6-4b5a-b5ba-527dfe23573a",
+    "postal": "757437"
+  },
+  {
     "name": "BAZIL KITCHEN",
     "address": "46 RACE COURSE ROAD #01-46, #02-46 LITTLE INDIA CONSERVATION AREA 218559",
     "type": "Restaurant",
@@ -4483,15 +4492,6 @@
   },
   {
     "name": "BURGER KING",
-    "address": "1 HARBOURFRONT WALK #02-80/81 VIVO CITY 098585",
-    "type": "Restaurant",
-    "number": "EERN20030011322",
-    "scheme": "Eating Establishment",
-    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
-    "postal": "098585"
-  },
-  {
-    "name": "BURGER KING",
     "address": "1 JELEBU ROAD #01-28/29 BUKIT PANJANG PLAZA 677743",
     "type": "Restaurant",
     "number": "EERN20030011313",
@@ -4552,6 +4552,15 @@
     "scheme": "Eating Establishment",
     "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
     "postal": "409051"
+  },
+  {
+    "name": "BURGER KING",
+    "address": "1 HARBOURFRONT WALK #02-80/81 VIVO CITY 098585",
+    "type": "Restaurant",
+    "number": "EERN20030011322",
+    "scheme": "Eating Establishment",
+    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+    "postal": "098585"
   },
   {
     "name": "BURGER KING",
@@ -7497,6 +7506,51 @@
     "postal": "751334"
   },
   {
+    "name": "DABBA STREET",
+    "address": "1 PASIR RIS CENTRAL STREET 3 #B1-K2 518457",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20240000039",
+    "scheme": "Eating Establishment",
+    "id": "073efe61-4460-4497-b8e9-8add21a2ca8e",
+    "postal": "518457"
+  },
+  {
+    "name": "DABBA STREET",
+    "address": "1 JURONG EAST STREET 21 #02-17/18 609606",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20240001189",
+    "scheme": "Eating Establishment",
+    "id": "073efe61-4460-4497-b8e9-8add21a2ca8e",
+    "postal": "609606"
+  },
+  {
+    "name": "DABBA STREET",
+    "address": "63 JURONG WEST CENTRAL 3 #01-31 Jurong Point 648331",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000615",
+    "scheme": "Eating Establishment",
+    "id": "073efe61-4460-4497-b8e9-8add21a2ca8e",
+    "postal": "648331"
+  },
+  {
+    "name": "DABBA STREET",
+    "address": "302 TIONG BAHRU ROAD #B1-K06 TIONG BAHRU PLAZA 168732",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000122",
+    "scheme": "Eating Establishment",
+    "id": "073efe61-4460-4497-b8e9-8add21a2ca8e",
+    "postal": "168732"
+  },
+  {
+    "name": "DABBA STREET",
+    "address": "1 LOWER KENT RIDGE ROAD #01-01 NUH MEDICAL CENTRE 119082",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20240001065",
+    "scheme": "Eating Establishment",
+    "id": "073efe61-4460-4497-b8e9-8add21a2ca8e",
+    "postal": "119082"
+  },
+  {
     "name": "DAILY COFFEE",
     "address": "750 CHAI CHEE ROAD #01-18 VIVA BUSINESS PARK 469000",
     "type": "Restaurant",
@@ -8272,24 +8326,6 @@
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
-    "address": "625 ELIAS ROAD #01-312 ELIAS MALL 510625",
-    "type": "Restaurant",
-    "number": "EERN21060012540",
-    "scheme": "Eating Establishment",
-    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
-    "postal": "510625"
-  },
-  {
-    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
-    "address": "171 SENGKANG EAST DRIVE #01-13 540171",
-    "type": "Restaurant",
-    "number": "EERT20240001300",
-    "scheme": "Eating Establishment",
-    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
-    "postal": "540171"
-  },
-  {
-    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
     "address": "1 HILLVIEW RISE #01-03 667970",
     "type": "Restaurant",
     "number": "EERN21060012528",
@@ -8497,6 +8533,15 @@
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+    "address": "625 ELIAS ROAD #01-312 ELIAS MALL 510625",
+    "type": "Restaurant",
+    "number": "EERN21060012540",
+    "scheme": "Eating Establishment",
+    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+    "postal": "510625"
+  },
+  {
+    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
     "address": "73 KILLINEY ROAD 239528",
     "type": "Restaurant",
     "number": "EERN21060012541",
@@ -8557,6 +8602,15 @@
     "scheme": "Eating Establishment",
     "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
     "postal": "521139"
+  },
+  {
+    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+    "address": "171 SENGKANG EAST DRIVE #01-13 540171",
+    "type": "Restaurant",
+    "number": "EERT20240001300",
+    "scheme": "Eating Establishment",
+    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+    "postal": "540171"
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
@@ -13590,6 +13644,24 @@
     "postal": "903808"
   },
   {
+    "name": "Indian Cuisine @ CAPT/RC (Mngd By SMORGASBORD Int Pte Ltd)",
+    "address": "4 COLLEGE AVENUE EAST University Town, NUS, Indian Cuisine Stall 138613",
+    "type": "Hawker",
+    "number": "EEHN21070012568",
+    "scheme": "Eating Establishment",
+    "id": "b5c571d0-f2ba-4452-8651-047cbb445447",
+    "postal": "138613"
+  },
+  {
+    "name": "Indian Cuisine @ College of CT (Mngd By Smorgasbord Int Pte Ltd)",
+    "address": "24 COLLEGE AVENUE EAST #01-01 UNIVERSITY TOWN - NUS, Indian Cuisine stall 138596",
+    "type": "Hawker",
+    "number": "EEHN21080012586",
+    "scheme": "Eating Establishment",
+    "id": "695f4335-330e-4bf2-9c4a-13ec72484861",
+    "postal": "138596"
+  },
+  {
     "name": "Indian Express",
     "address": "2 BAYFRONT AVENUE #B2-49/53 The Shoppes At MBS 018972",
     "type": "Hawker",
@@ -16623,6 +16695,15 @@
     "postal": "437157"
   },
   {
+    "name": "KUEH HO JIAK",
+    "address": "6 TANJONG PAGAR PLAZA #02-20, STALL 20, TANJONG PAGAR PLAZA MARKET & FOOD CENTRE 081006",
+    "type": "Hawker",
+    "number": "EEHK20220000596",
+    "scheme": "Eating Establishment",
+    "id": "aaff7ea0-5d5c-4c48-a11b-e7201dfeac4e",
+    "postal": "081006"
+  },
+  {
     "name": "Kumar Kitchen",
     "address": "4 CHANGI VILLAGE ROAD #01-2078 500004",
     "type": "Restaurant",
@@ -17685,6 +17766,15 @@
     "postal": "209493"
   },
   {
+    "name": "Malay & Indian Cuisine @ RVRC(Mngd by Smorgasbord Int Pte Ltd)",
+    "address": "25 LOWER KENT RIDGE ROAD RIDGE VIEW DINING HALL, NUS 119081",
+    "type": "Hawker",
+    "number": "EEHN21070012566",
+    "scheme": "Eating Establishment",
+    "id": "a4b6d9a3-5802-417f-a293-a44a6c96265e",
+    "postal": "119081"
+  },
+  {
     "name": "Malay & Western Delight@ExxonMobil Asia Pac Mngd by Compass Grp",
     "address": "1 AYER CHAWAN PLACE LEVEL 1 STAFF CANTEEN 627871",
     "type": "Staff Canteen",
@@ -17721,6 +17811,15 @@
     "postal": "609606"
   },
   {
+    "name": "Malay cuisine @ CAPT/RC (Mngd By SMORGASBORD Int Pte Ltd)",
+    "address": "4 COLLEGE AVENUE EAST University Town, NUS, Malay Cuisine Stall 138613",
+    "type": "Hawker",
+    "number": "EEHN21070012567",
+    "scheme": "Eating Establishment",
+    "id": "6f03d82f-a803-4c83-b0b4-52a85079cae3",
+    "postal": "138613"
+  },
+  {
     "name": "Malay Cuisine @ Sky Cafe Infineon (mngd by Wok People)",
     "address": "168 KALLANG WAY #07-00 INFINEON 349253",
     "type": "Staff Canteen",
@@ -17737,6 +17836,33 @@
     "scheme": "Eating Establishment",
     "id": "fd386199-451a-42ca-96bf-565c6557900a",
     "postal": "628553"
+  },
+  {
+    "name": "MALAY CUISINE@ COLLEGE OF CT (MNGD BY SMORGASBORD INT PTE LTD)",
+    "address": "24 COLLEGE AVENUE EAST #01-01 UNIVERSITY TOWN - NUS, Malay Cuisine Kitchen 138596",
+    "type": "Central Kitchen",
+    "number": "FPCK20220000799",
+    "scheme": "Food Preparation Area",
+    "id": "6b0b901a-b1d7-445a-b56b-46c4214addb0",
+    "postal": "138596"
+  },
+  {
+    "name": "MALAY CUISINE@COLLEGE OF CT (MNGD BY SMORGASBORD INT PTE LTD)",
+    "address": "24 COLLEGE AVENUE EAST #01-01 UNIVERSITY TOWN - NUS, Malay Cuisine Stall 138596",
+    "type": "Hawker",
+    "number": "EEHK20220000798",
+    "scheme": "Eating Establishment",
+    "id": "caade187-b10b-497f-9885-911e1d58951b",
+    "postal": "138596"
+  },
+  {
+    "name": "MALAY CUISINE@ELM & SAGA YALE NUS (MNGD BY SMORGASBOARD INT PL)",
+    "address": "14/10/12 COLLEGE AVENUE WEST 138611",
+    "type": "Central Kitchen",
+    "number": "FPCK20240000217",
+    "scheme": "Food Preparation Area",
+    "id": "c2582d05-8bc9-4df2-9efa-5edf988f7313",
+    "postal": "138611"
   },
   {
     "name": "MALAY DELICACIES",
@@ -20464,6 +20590,15 @@
     "scheme": "Food Preparation Area",
     "id": "7658e141-3ef3-4e90-98df-9be69d99af1d",
     "postal": "486350"
+  },
+  {
+    "name": "MUNCHI CONCEPTS PTE LTD",
+    "address": "25 HARPER ROAD #06-02 HARPER POINT 369683",
+    "type": "Central Kitchen",
+    "number": "FPCK26020000049",
+    "scheme": "Food Preparation Area",
+    "id": "f028c9f5-b8c2-429f-ae62-f37aa341cef6",
+    "postal": "369683"
   },
   {
     "name": "MUNCHI PANCAKES",
@@ -25759,21 +25894,21 @@
   },
   {
     "name": "Red Ginger",
-    "address": "2 JURONG EAST STREET 21 #01-46 IMM BUILDING 609601",
-    "type": "Restaurant",
-    "number": "EERN20090011843",
-    "scheme": "Eating Establishment",
-    "id": "b820e61a-e25d-40fe-b177-121aedf7df68",
-    "postal": "609601"
-  },
-  {
-    "name": "Red Ginger",
     "address": "10 PAYA LEBAR ROAD #B2-31 409057",
     "type": "Restaurant",
     "number": "EERX20090011842",
     "scheme": "Eating Establishment",
     "id": "b820e61a-e25d-40fe-b177-121aedf7df68",
     "postal": "409057"
+  },
+  {
+    "name": "Red Ginger",
+    "address": "2 JURONG EAST STREET 21 #01-46 IMM BUILDING 609601",
+    "type": "Restaurant",
+    "number": "EERN20090011843",
+    "scheme": "Eating Establishment",
+    "id": "b820e61a-e25d-40fe-b177-121aedf7df68",
+    "postal": "609601"
   },
   {
     "name": "Red Ginger",
@@ -26908,15 +27043,6 @@
     "scheme": "Eating Establishment",
     "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
     "postal": "238801"
-  },
-  {
-    "name": "Sanook Kitchen",
-    "address": "1 HARBOURFRONT WALK #B2-23C VIVO CITY 098585",
-    "type": "Restaurant",
-    "number": "EERT20220000545",
-    "scheme": "Eating Establishment",
-    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-    "postal": "098585"
   },
   {
     "name": "Sanook Kitchen",
@@ -31833,15 +31959,6 @@
     "postal": "486350"
   },
   {
-    "name": "Telur Thai",
-    "address": "127 PLANTATION CRESCENT #03-02 KOUFU PLANTATION PLAZA, Stall 4 690127",
-    "type": "Hawker",
-    "number": "EEHK20250000775",
-    "scheme": "Eating Establishment",
-    "id": "7001901a-4b95-4a8b-8989-93cb7b0f369a",
-    "postal": "690127"
-  },
-  {
     "name": "Telur Thai (S10) @ Cantine Paya Lebar Square",
     "address": "60 PAYA LEBAR ROAD #B1-51 PAYA LEBAR SQUARE, Stall 10 409051",
     "type": "Hawker",
@@ -32455,33 +32572,6 @@
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "211 HENDERSON ROAD #01-03 211 HENDERSON 159552",
-    "type": "Restaurant",
-    "number": "EERT20220000228",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "159552"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "11 RESEARCH LINK #01-02,National University Singapore (NUS) COM 3 119391",
-    "type": "Restaurant",
-    "number": "EERT20220001074",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "119391"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "211 HENDERSON ROAD #06-01/02/04 211 HENDERSON 159552",
-    "type": "Central Kitchen",
-    "number": "FPCN21120001631",
-    "scheme": "Food Preparation Area",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "159552"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
     "address": "10 ANSON ROAD #01-32 INTERNATIONAL PLAZA 079903",
     "type": "Restaurant",
     "number": "EERN21120013265",
@@ -32923,6 +33013,15 @@
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
+    "address": "211 HENDERSON ROAD #01-03 211 HENDERSON 159552",
+    "type": "Restaurant",
+    "number": "EERT20220000228",
+    "scheme": "Eating Establishment",
+    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+    "postal": "159552"
+  },
+  {
+    "name": "THE COFFEE BEAN & TEA LEAF",
     "address": "78 AIRPORT BOULEVARD #01-200 JEWEL CHANGI AIRPORT 819666",
     "type": "Restaurant",
     "number": "EERT20220000446",
@@ -32956,6 +33055,15 @@
     "scheme": "Eating Establishment",
     "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
     "postal": "819665"
+  },
+  {
+    "name": "THE COFFEE BEAN & TEA LEAF",
+    "address": "11 RESEARCH LINK #01-02,National University Singapore (NUS) COM 3 119391",
+    "type": "Restaurant",
+    "number": "EERT20220001074",
+    "scheme": "Eating Establishment",
+    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+    "postal": "119391"
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
@@ -33156,6 +33264,15 @@
     "postal": "229899"
   },
   {
+    "name": "THE COFFEE BEAN & TEA LEAF",
+    "address": "211 HENDERSON ROAD #06-01/02/04 211 HENDERSON 159552",
+    "type": "Central Kitchen",
+    "number": "FPCN21120001631",
+    "scheme": "Food Preparation Area",
+    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+    "postal": "159552"
+  },
+  {
     "name": "THE COFFEE BEAN & TEA LEAF BEANSTRO",
     "address": "2 BAYFRONT AVENUE #B2-020 018972",
     "type": "Restaurant",
@@ -33247,15 +33364,6 @@
   },
   {
     "name": "The JellyHearts",
-    "address": "21 TAMPINES STREET 92 #03-03 HERSING KITCHEN 528891",
-    "type": "Central Kitchen",
-    "number": "FPCN21100001602",
-    "scheme": "Food Preparation Area",
-    "id": "471a0417-671a-40d6-a037-54c55c933a2f",
-    "postal": "528891"
-  },
-  {
-    "name": "The JellyHearts",
     "address": "1 PASIR RIS CLOSE #02-111 E!HUB@DOWNTOWN EAST 519599",
     "type": "Restaurant",
     "number": "EERN21040012234",
@@ -33325,6 +33433,15 @@
     "scheme": "Eating Establishment",
     "id": "471a0417-671a-40d6-a037-54c55c933a2f",
     "postal": "098585"
+  },
+  {
+    "name": "The JellyHearts",
+    "address": "21 TAMPINES STREET 92 #03-03 HERSING KITCHEN 528891",
+    "type": "Central Kitchen",
+    "number": "FPCN21100001602",
+    "scheme": "Food Preparation Area",
+    "id": "471a0417-671a-40d6-a037-54c55c933a2f",
+    "postal": "528891"
   },
   {
     "name": "The Kiosk (S1) @ Cantine by Kopitiam Canberra Plaza",
@@ -34489,15 +34606,6 @@
   },
   {
     "name": "TREATS",
-    "address": "751 BUKIT TIMAH ROAD MOBIL SERVICE STATION 269757",
-    "type": "Food Kiosk",
-    "number": "EEFK20220001011",
-    "scheme": "Eating Establishment",
-    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
-    "postal": "269757"
-  },
-  {
-    "name": "TREATS",
     "address": "353 UPPER THOMSON ROAD MOBIL SERVICE STATION 574410",
     "type": "Food Kiosk",
     "number": "EEFK20230000637",
@@ -34594,6 +34702,15 @@
     "scheme": "Eating Establishment",
     "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
     "postal": "758452"
+  },
+  {
+    "name": "TREATS",
+    "address": "751 BUKIT TIMAH ROAD MOBIL SERVICE STATION 269757",
+    "type": "Food Kiosk",
+    "number": "EEFK20220001011",
+    "scheme": "Eating Establishment",
+    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
+    "postal": "269757"
   },
   {
     "name": "TREATS",
