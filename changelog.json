@@ -1,5 +1,29 @@
 [
   {
+    "timestamp": "2026-02-11T22:21:59.803721",
+    "date": "2026-02-11",
+    "summary": {
+      "new": 1,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Y&H PENYET",
+          "address": "11 JALAN TAN TOCK SENG Stall 20 @ Kopitiam TTSH #01-13/14/15 TAN TOCK SENG HOSPITAL 308433",
+          "type": "Hawker",
+          "number": "EEHK26020000044",
+          "scheme": "Eating Establishment",
+          "id": "210b9774-455a-405a-ad14-1f0e66d4023d",
+          "postal": "308433"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-02-10T22:28:01.394774",
     "date": "2026-02-10",
     "summary": {
@@ -12765,39 +12789,6 @@
           "scheme": "Food Preparation Area",
           "id": "8e1c9885-5e1b-4918-8d88-fa95b24ef370",
           "postal": "415934"
-        }
-      ],
-      "removed": [],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2025-12-10T22:17:31.866327",
-    "date": "2025-12-10",
-    "summary": {
-      "new": 2,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "TUK TUK CHA TREASURES",
-          "address": "1 SENGKANG SQUARE #01-47 COMPASS ONE 545078",
-          "type": "Restaurant",
-          "number": "EERT20230001171",
-          "scheme": "Eating Establishment",
-          "id": "19a80b74-3a39-4fc4-b0f0-0a533c24dde5",
-          "postal": "545078"
-        },
-        {
-          "name": "TUK TUK CHA",
-          "address": "10 PAYA LEBAR ROAD #01-K4 PLQ MALL 409057",
-          "type": "Restaurant",
-          "number": "EERT20230001172",
-          "scheme": "Eating Establishment",
-          "id": "26419664-614b-4de2-ae02-a63d585f062f",
-          "postal": "409057"
         }
       ],
       "removed": [],

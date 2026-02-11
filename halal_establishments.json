@@ -36550,6 +36550,15 @@
   },
   {
     "name": "Y&H PENYET",
+    "address": "11 JALAN TAN TOCK SENG Stall 20 @ Kopitiam TTSH #01-13/14/15 TAN TOCK SENG HOSPITAL 308433",
+    "type": "Hawker",
+    "number": "EEHK26020000044",
+    "scheme": "Eating Establishment",
+    "id": "210b9774-455a-405a-ad14-1f0e66d4023d",
+    "postal": "308433"
+  },
+  {
+    "name": "Y&H PENYET",
     "address": "65 AIRPORT BOULEVARD #B2-03 CHANGI AIRPORT TERMINAL 3 BUILDING KOPITIAM, Stall 7 819663",
     "type": "Hawker",
     "number": "EEHK20250000881",
