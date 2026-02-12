@@ -17487,6 +17487,15 @@
     "postal": "039594"
   },
   {
+    "name": "Makan Mate Catering By Pan Seas Enterprises",
+    "address": "35B Fishery Port Road 619744",
+    "type": "Catering Company",
+    "number": "FPGX22010001641",
+    "scheme": "Food Preparation Area",
+    "id": "e9e1754f-ae62-49fd-93a8-ffc4cd4b4f79",
+    "postal": "619744"
+  },
+  {
     "name": "MAKAN POINT @ FOUR POINTS BY SHERATON SINGAPORE, RIVERVIEW",
     "address": "382 HAVELOCK ROAD #04-00 FOUR POINTS BY SHERATON SINGAPORE, RIVERVIEW, Staff Canteen 169629",
     "type": "Staff Canteen",
@@ -25651,15 +25660,6 @@
   },
   {
     "name": "QI JI",
-    "address": "3 SIMEI STREET 6 #01-28 EASTPOINT MALL 528833",
-    "type": "Restaurant",
-    "number": "EERN21050012333",
-    "scheme": "Eating Establishment",
-    "id": "01cd5d67-3096-4ef7-bc6a-394a937ea753",
-    "postal": "528833"
-  },
-  {
-    "name": "QI JI",
     "address": "59 JALAN PEMIMPIN Kitchen 5 #01-03 & #01-04 L & Y BUILDING 577218",
     "type": "Hawker",
     "number": "EEHK26010000102",
@@ -25702,6 +25702,15 @@
     "scheme": "Eating Establishment",
     "id": "01cd5d67-3096-4ef7-bc6a-394a937ea753",
     "postal": "768019"
+  },
+  {
+    "name": "QI JI",
+    "address": "3 SIMEI STREET 6 #01-28 EASTPOINT MALL 528833",
+    "type": "Restaurant",
+    "number": "EERN21050012333",
+    "scheme": "Eating Establishment",
+    "id": "01cd5d67-3096-4ef7-bc6a-394a937ea753",
+    "postal": "528833"
   },
   {
     "name": "QUAN FENG FOOD SUPPLY PTE. LTD.",
