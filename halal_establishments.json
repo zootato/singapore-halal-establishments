@@ -2863,15 +2863,6 @@
   },
   {
     "name": "BAKEINC",
-    "address": "CHINESE NEW YEAR 2026 @ B2 TAKASHIMAYA, 391A ORCHARD ROAD #B2 NGEE ANN CITY, 7 238873",
-    "type": "Short Term Stall(Bazaar/Road Shows)",
-    "number": "EEST25120000036",
-    "scheme": "Eating Establishment",
-    "id": "edbe1a4e-d230-4fe7-914b-eb8d94f1245a",
-    "postal": "238873"
-  },
-  {
-    "name": "BAKEINC",
     "address": "65 AIRPORT BOULEVARD #B2-03 ATM OCBC CHANGI AIRPORT TERMINAL 3 - BASEMENT 2 SOUTH (IN FRONT OF FOODCOURT) 819663",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240001018",
@@ -8326,6 +8317,15 @@
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+    "address": "625 ELIAS ROAD #01-312 ELIAS MALL 510625",
+    "type": "Restaurant",
+    "number": "EERN21060012540",
+    "scheme": "Eating Establishment",
+    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+    "postal": "510625"
+  },
+  {
+    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
     "address": "1 HILLVIEW RISE #01-03 667970",
     "type": "Restaurant",
     "number": "EERN21060012528",
@@ -8530,15 +8530,6 @@
     "scheme": "Eating Establishment",
     "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
     "postal": "520462"
-  },
-  {
-    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
-    "address": "625 ELIAS ROAD #01-312 ELIAS MALL 510625",
-    "type": "Restaurant",
-    "number": "EERN21060012540",
-    "scheme": "Eating Establishment",
-    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
-    "postal": "510625"
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
