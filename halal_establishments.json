@@ -12879,6 +12879,15 @@
     "postal": "098585"
   },
   {
+    "name": "HEI SIGNATURE CATERING",
+    "address": "28 TAI SENG STREET #04-01 SAKAE BUILDING 534106",
+    "type": "Catering Company",
+    "number": "FPCA26020000043",
+    "scheme": "Food Preparation Area",
+    "id": "44ef4462-3836-4d55-9067-69482c8aeb32",
+    "postal": "534106"
+  },
+  {
     "name": "HEI SUSHI",
     "address": "1 PASIR RIS CLOSE #02-334 E!Hub Downtown East 519599",
     "type": "Restaurant",
@@ -24580,6 +24589,15 @@
   },
   {
     "name": "PIZZA KITA",
+    "address": "Bazaar Raya Utara Trade Fair 2026, 717 WOODLANDS DRIVE 70 HDB PUBLIC SHELTERS, 08 730717",
+    "type": "Short Term Stall(Bazaar/Road Shows)",
+    "number": "EEST26020000094",
+    "scheme": "Eating Establishment",
+    "id": "d4d617c8-feb5-42d5-9fa3-7da77942c8af",
+    "postal": "730717"
+  },
+  {
+    "name": "PIZZA KITA",
     "address": "6 EU TONG SEN STREET #02-54 THE CENTRAL 059817",
     "type": "Restaurant",
     "number": "EERT26010000059",
@@ -27277,15 +27295,6 @@
     "scheme": "Eating Establishment",
     "id": "aa72f2f0-25a5-4ab5-80f1-f38f17aa2f3a",
     "postal": "208767"
-  },
-  {
-    "name": "Seabay Delight Wok Delight (S2)@Koufu Woodlands Health",
-    "address": "17 WOODLANDS DRIVE 17 #B1-03/04, Stall 2 737628",
-    "type": "Hawker",
-    "number": "EEHK20240000824",
-    "scheme": "Eating Establishment",
-    "id": "ce95ca2f-bac0-4d2b-8c94-e2f0327fe99b",
-    "postal": "737628"
   },
   {
     "name": "Seabay Delights Hokkien Mee (MR8)@Kopitiam Changi Airport T4",
@@ -32563,15 +32572,6 @@
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "5 LOWER KENT RIDGE ROAD #01-10 NATIONAL UNIVERSITY HOSPITAL MAIN BLDG (LOBBY) 119074",
-    "type": "Restaurant",
-    "number": "EERN21120013270",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "119074"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
     "address": "10 ANSON ROAD #01-32 INTERNATIONAL PLAZA 079903",
     "type": "Restaurant",
     "number": "EERN21120013265",
@@ -32866,6 +32866,15 @@
     "scheme": "Eating Establishment",
     "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
     "postal": "486038"
+  },
+  {
+    "name": "THE COFFEE BEAN & TEA LEAF",
+    "address": "5 LOWER KENT RIDGE ROAD #01-10 NATIONAL UNIVERSITY HOSPITAL MAIN BLDG (LOBBY) 119074",
+    "type": "Restaurant",
+    "number": "EERN21120013270",
+    "scheme": "Eating Establishment",
+    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+    "postal": "119074"
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",

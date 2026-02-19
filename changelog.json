@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-02-19T22:21:02.979461",
+    "date": "2026-02-19",
+    "summary": {
+      "new": 2,
+      "removed": 1,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "PIZZA KITA",
+          "address": "Bazaar Raya Utara Trade Fair 2026, 717 WOODLANDS DRIVE 70 HDB PUBLIC SHELTERS, 08 730717",
+          "type": "Short Term Stall(Bazaar/Road Shows)",
+          "number": "EEST26020000094",
+          "scheme": "Eating Establishment",
+          "id": "d4d617c8-feb5-42d5-9fa3-7da77942c8af",
+          "postal": "730717"
+        },
+        {
+          "name": "HEI SIGNATURE CATERING",
+          "address": "28 TAI SENG STREET #04-01 SAKAE BUILDING 534106",
+          "type": "Catering Company",
+          "number": "FPCA26020000043",
+          "scheme": "Food Preparation Area",
+          "id": "44ef4462-3836-4d55-9067-69482c8aeb32",
+          "postal": "534106"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Seabay Delight Wok Delight (S2)@Koufu Woodlands Health",
+          "address": "17 WOODLANDS DRIVE 17 #B1-03/04, Stall 2 737628",
+          "type": "Hawker",
+          "number": "EEHK20240000824",
+          "scheme": "Eating Establishment",
+          "id": "ce95ca2f-bac0-4d2b-8c94-e2f0327fe99b",
+          "postal": "737628"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-02-16T22:19:51.288815",
     "date": "2026-02-16",
     "summary": {
@@ -12659,41 +12702,6 @@
         }
       ],
       "updated": []
-    }
-  },
-  {
-    "timestamp": "2025-12-16T22:17:18.259372",
-    "date": "2025-12-16",
-    "summary": {
-      "new": 0,
-      "removed": 0,
-      "updated": 1
-    },
-    "changes": {
-      "new": [],
-      "removed": [],
-      "updated": [
-        {
-          "previous": {
-            "name": "AJ Delights (S82 & 83) @ Alexandra Village Food Centre",
-            "address": "120 BUKIT MERAH LANE 1 #01-82&83 Alexandra Village Food Centre 150120",
-            "type": "Hawker",
-            "number": "EEHN21120013019",
-            "scheme": "Eating Establishment",
-            "id": "e29e1f89-40a1-4021-930f-42558e6dd7d8",
-            "postal": "150120"
-          },
-          "current": {
-            "name": "AJ Delights (S82 & 83) @ Alexandra Village Food Centre",
-            "address": "120 BUKIT MERAH LANE 1 #01-82/83 Alexandra Village Food Centre, STALL 82/83 150120",
-            "type": "Hawker",
-            "number": "EEHN21120013019",
-            "scheme": "Eating Establishment",
-            "id": "e29e1f89-40a1-4021-930f-42558e6dd7d8",
-            "postal": "150120"
-          }
-        }
-      ]
     }
   }
 ]
