@@ -1791,6 +1791,15 @@
     "postal": "486047"
   },
   {
+    "name": "Ann & Kalsri Chicken Rice F&B",
+    "address": "8 CLUB STREET MR2 #B2-34 FOODELIC 069472",
+    "type": "Hawker",
+    "number": "EEHK26020000082",
+    "scheme": "Eating Establishment",
+    "id": "0e05d7b0-dabb-4c30-b7f4-3c76a376539c",
+    "postal": "069472"
+  },
+  {
     "name": "Ann & Kalsri Chicken Rice F&B (S3) @East Gourmet ITE College East",
     "address": "10 SIMEI AVENUE #02-33 ITE COLLEGE EAST, STALL 3 486047",
     "type": "Hawker",
@@ -7542,6 +7551,24 @@
     "postal": "119082"
   },
   {
+    "name": "DAILY CHICKEN",
+    "address": "200 VICTORIA STREET #B1-06 BUGIS JUNCTION 188021",
+    "type": "Restaurant",
+    "number": "EERT26020000087",
+    "scheme": "Eating Establishment",
+    "id": "197e57c8-07f0-475b-8fba-154c40bb0bf0",
+    "postal": "188021"
+  },
+  {
+    "name": "DAILY CHICKEN",
+    "address": "83 PUNGGOL CENTRAL #01-66 WATERWAY POINT 828761",
+    "type": "Restaurant",
+    "number": "EERT26020000086",
+    "scheme": "Eating Establishment",
+    "id": "197e57c8-07f0-475b-8fba-154c40bb0bf0",
+    "postal": "828761"
+  },
+  {
     "name": "DAILY COFFEE",
     "address": "750 CHAI CHEE ROAD #01-18 VIVA BUSINESS PARK 469000",
     "type": "Restaurant",
@@ -8287,6 +8314,15 @@
     "scheme": "Eating Establishment",
     "id": "00ba342f-f509-4c61-b6e9-e6cd94707bb6",
     "postal": "556083"
+  },
+  {
+    "name": "DOMINO'S PIZZA SINGAPORE PTE LTD",
+    "address": "961 UPPER SERANGOON ROAD #1ST 534719",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26020000067",
+    "scheme": "Eating Establishment",
+    "id": "61621304-0866-48eb-957f-d6a9c8339fc4",
+    "postal": "534719"
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD",
@@ -9873,6 +9909,15 @@
     "postal": "207409"
   },
   {
+    "name": "ES Fresh",
+    "address": "294 YISHUN STREET 22 #01-335 MARKET 760294",
+    "type": "Hawker",
+    "number": "EEHK26020000058",
+    "scheme": "Eating Establishment",
+    "id": "44af078c-bc19-4a35-a024-73823b55a4c4",
+    "postal": "760294"
+  },
+  {
     "name": "ESS",
     "address": "20 MACTAGGART ROAD #02-06/07 MACTAGGART FOODLINK 368079",
     "type": "Catering Company",
@@ -10648,6 +10693,15 @@
   },
   {
     "name": "Flakyhaus",
+    "address": "150 TOWNER ROAD #01-04 TOWNER CREST 320150",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26020000099",
+    "scheme": "Eating Establishment",
+    "id": "b9460c58-db22-4903-a0e4-0bdeb7344c77",
+    "postal": "320150"
+  },
+  {
+    "name": "Flakyhaus",
     "address": "954C TAMPINES STREET 96 #01-04 TAMPINES GREENGEM 523954",
     "type": "Snack Bar / Bakery",
     "number": "EESB20250000344",
@@ -10782,7 +10836,7 @@
     "postal": "486350"
   },
   {
-    "name": "FORTUNE POPIAH (S2) @ MAXWELL FOOD CENTRE",
+    "name": "Fortune Popiah",
     "address": "1 KADAYANALLUR STREET #101, Stall 2 069184",
     "type": "Hawker",
     "number": "EEHK20250000279",
@@ -13176,6 +13230,33 @@
     "postal": "427739"
   },
   {
+    "name": "Home of Seafood / Home of Sushi / Divine by Home of Seafood",
+    "address": "Ramadhan Bazaar @ Woodlands MRT, 30 WOODLANDS AVENUE 2, 73 738343",
+    "type": "Short Term Stall(Bazaar/Road Shows)",
+    "number": "EEST26020000101",
+    "scheme": "Eating Establishment",
+    "id": "066a00a7-fc46-43ee-ad5d-d062e6ea3de0",
+    "postal": "738343"
+  },
+  {
+    "name": "Home of Seafood / Home of Sushi / Divine by Home of Seafood",
+    "address": "Bazaar Ramadhan 2026 - Tampines Changkat, 301 TAMPINES STREET 32 #01, 9 520301",
+    "type": "Short Term Stall(Bazaar/Road Shows)",
+    "number": "EEST26020000102",
+    "scheme": "Eating Establishment",
+    "id": "066a00a7-fc46-43ee-ad5d-d062e6ea3de0",
+    "postal": "520301"
+  },
+  {
+    "name": "Home of Seafood / Home of Sushi / Divine by Home of Seafood",
+    "address": "Gemilang Kampong Gelam, 38 KANDAHAR STREET KAMPONG GLAM CONSERVATION AREA, K30 198894",
+    "type": "Short Term Stall(Bazaar/Road Shows)",
+    "number": "EEST26020000103",
+    "scheme": "Eating Establishment",
+    "id": "066a00a7-fc46-43ee-ad5d-d062e6ea3de0",
+    "postal": "198894"
+  },
+  {
     "name": "Homemade Italian (S58)@Tiong Bahru Market",
     "address": "30 SENG POH ROAD #02-58, STALL 58 168898",
     "type": "Hawker",
@@ -13840,15 +13921,6 @@
     "scheme": "Eating Establishment",
     "id": "6491b0a1-7c1f-4325-a2c8-646c268c894b",
     "postal": "169608"
-  },
-  {
-    "name": "IndoChili",
-    "address": "54 ZION ROAD 247779",
-    "type": "Restaurant",
-    "number": "EERT26010000133",
-    "scheme": "Eating Establishment",
-    "id": "20382466-0e7d-4a53-9f37-ec7a5fc2fa40",
-    "postal": "247779"
   },
   {
     "name": "Indochili Catering and Supply Pte Ltd",
@@ -22276,15 +22348,6 @@
   },
   {
     "name": "OLD CHANG KEE",
-    "address": "2/4 WOODLANDS TERRACE 738427",
-    "type": "Catering Company",
-    "number": "FPGN22010001652",
-    "scheme": "Food Preparation Area",
-    "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
-    "postal": "738427"
-  },
-  {
-    "name": "OLD CHANG KEE",
     "address": "238 THOMSON ROAD #01-70/71 NOVENA SQUARE 307683",
     "type": "Snack Bar / Bakery",
     "number": "EEBN20090011379",
@@ -22381,6 +22444,15 @@
     "scheme": "Eating Establishment",
     "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
     "postal": "238859"
+  },
+  {
+    "name": "OLD CHANG KEE",
+    "address": "2/4 WOODLANDS TERRACE 738427",
+    "type": "Catering Company",
+    "number": "FPGN22010001652",
+    "scheme": "Food Preparation Area",
+    "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
+    "postal": "738427"
   },
   {
     "name": "OLD CHANG KEE",
@@ -24139,15 +24211,6 @@
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
-    "address": "306 WOODLANDS STREET 31 #01-17 FUCHUN NEIGHBOURHOOD CENTRE 730306",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000703",
-    "scheme": "Eating Establishment",
-    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
-    "postal": "730306"
-  },
-  {
-    "name": "PIZZA HUT SINGAPORE PTE LTD",
     "address": "3 SIMEI STREET 6 #02-03 EASTPOINT MALL 528833",
     "type": "Restaurant",
     "number": "EERN21080012761",
@@ -24568,6 +24631,15 @@
     "scheme": "Eating Establishment",
     "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
     "postal": "310085"
+  },
+  {
+    "name": "PIZZA HUT SINGAPORE PTE LTD",
+    "address": "306 WOODLANDS STREET 31 #01-17 FUCHUN NEIGHBOURHOOD CENTRE 730306",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000703",
+    "scheme": "Eating Establishment",
+    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
+    "postal": "730306"
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
@@ -25947,6 +26019,15 @@
     "postal": "738099"
   },
   {
+    "name": "Red Ginger Coffeehouse",
+    "address": "83 PUNGGOL CENTRAL #B1-17 WATERWAY POINT 828761",
+    "type": "Restaurant",
+    "number": "EERT26020000069",
+    "scheme": "Eating Establishment",
+    "id": "ba8897d3-8a63-4044-a886-719f727d2a99",
+    "postal": "828761"
+  },
+  {
     "name": "Relaks @ Conrad Singapore Marina Bay (managed by Compass Group)",
     "address": "2 TEMASEK BOULEVARD #B1 (Staff Canteen) CONRAD CENTENNIAL SINGAPORE 038982",
     "type": "Staff Canteen",
@@ -27259,15 +27340,6 @@
     "scheme": "Eating Establishment",
     "id": "2c98fa18-96dc-46e0-b517-0dc26d3bae82",
     "postal": "544835"
-  },
-  {
-    "name": "Seabay Delight Wok Delight (S1)@Cantine Corner Admiralty Place",
-    "address": "678A WOODLANDS AVENUE 6 #02-05 ADMIRALTY PLACE, STALL 1 731678",
-    "type": "Hawker",
-    "number": "EEHK20240000460",
-    "scheme": "Eating Establishment",
-    "id": "f0dc00e5-1368-4f41-b161-fa80429314b2",
-    "postal": "731678"
   },
   {
     "name": "Seabay Delight Wok Delight (S11)@Cantine Jurong Point",
@@ -29683,12 +29755,12 @@
   },
   {
     "name": "SUBWAY",
-    "address": "1 JOO KOON CIRCLE #01-52PT/58 FAIRPRICE HUB 629117",
+    "address": "282 BISHAN STREET 22 #01-145 BISHAN NORTH SHOPPING MALL 570282",
     "type": "Restaurant",
-    "number": "EERT20240001152",
+    "number": "EERT26020000070",
     "scheme": "Eating Establishment",
     "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-    "postal": "629117"
+    "postal": "570282"
   },
   {
     "name": "SUBWAY",
@@ -29986,6 +30058,15 @@
     "scheme": "Eating Establishment",
     "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
     "postal": "569933"
+  },
+  {
+    "name": "SUBWAY",
+    "address": "1 JOO KOON CIRCLE #01-52PT/58 FAIRPRICE HUB 629117",
+    "type": "Restaurant",
+    "number": "EERT20240001152",
+    "scheme": "Eating Establishment",
+    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+    "postal": "629117"
   },
   {
     "name": "SUBWAY",
