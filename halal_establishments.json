@@ -7551,6 +7551,24 @@
     "postal": "119082"
   },
   {
+    "name": "DABBA STREET",
+    "address": "53 ANG MO KIO AVENUE 3 PART RIGHT #01-36 AMK HUB 569933",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26020000056",
+    "scheme": "Eating Establishment",
+    "id": "073efe61-4460-4497-b8e9-8add21a2ca8e",
+    "postal": "569933"
+  },
+  {
+    "name": "DABBA STREET CLOUD KITCHEN",
+    "address": "10 TAMPINES NORTH DRIVE 4 K11 #01-05 JTC SPACE @ TAMPINES NORTH 528553",
+    "type": "Central Kitchen",
+    "number": "FPCK26020000055",
+    "scheme": "Food Preparation Area",
+    "id": "e0ed18bb-646b-474c-ae62-28ca62960145",
+    "postal": "528553"
+  },
+  {
     "name": "DAILY CHICKEN",
     "address": "200 VICTORIA STREET #B1-06 BUGIS JUNCTION 188021",
     "type": "Restaurant",
@@ -10422,15 +10440,6 @@
     "postal": "671524"
   },
   {
-    "name": "FISH & CO.",
-    "address": "78 AIRPORT BOULEVARD #B1-300 JEWEL CHANGI AIRPORT 819666",
-    "type": "Restaurant",
-    "number": "EERT20250000563",
-    "scheme": "Eating Establishment",
-    "id": "631ef2cc-69ac-47ac-ac09-be02a7039f65",
-    "postal": "819666"
-  },
-  {
     "name": "Fish & Co.",
     "address": "10 SENGKANG SQUARE #01-54 KOPITIAM SQUARE 544829",
     "type": "Hawker",
@@ -10447,6 +10456,15 @@
     "scheme": "Eating Establishment",
     "id": "df22ebcd-10f7-43a7-8143-8eaecd612a7a",
     "postal": "367803"
+  },
+  {
+    "name": "FISH & CO.",
+    "address": "78 AIRPORT BOULEVARD #B1-300 JEWEL CHANGI AIRPORT 819666",
+    "type": "Restaurant",
+    "number": "EERT20250000563",
+    "scheme": "Eating Establishment",
+    "id": "631ef2cc-69ac-47ac-ac09-be02a7039f65",
+    "postal": "819666"
   },
   {
     "name": "FISH & CO. RESTAURANTS PTE LTD",
@@ -12592,6 +12610,15 @@
   },
   {
     "name": "HATSUMI DONBURI | SOBA",
+    "address": "12 MARINA VIEW #02-04 Asia Square Food Garden, TOWER 2 018961",
+    "type": "Hawker",
+    "number": "EEHK26020000078",
+    "scheme": "Eating Establishment",
+    "id": "972c0884-3175-4f94-9f08-387ef8aca633",
+    "postal": "018961"
+  },
+  {
+    "name": "HATSUMI DONBURI | SOBA",
     "address": "23 SERANGOON CENTRAL #01-58 NEX 556083",
     "type": "Restaurant",
     "number": "EERT20240001169",
@@ -13903,6 +13930,15 @@
     "scheme": "Eating Establishment",
     "id": "4645832b-2c00-4c86-8bd6-3e54932c7d87",
     "postal": "408528"
+  },
+  {
+    "name": "INDO EXPRESS PUNGGOL",
+    "address": "40 STAMFORD ROAD #01-02 SMU CONNEXION 178908",
+    "type": "Hawker",
+    "number": "EEHK26020000079",
+    "scheme": "Eating Establishment",
+    "id": "0f9c3ca7-254e-4c75-b194-2e3c0cc1562f",
+    "postal": "178908"
   },
   {
     "name": "Indo Padang (S52) @ Kopitiam Square",
@@ -18736,15 +18772,6 @@
     "scheme": "Eating Establishment",
     "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
     "postal": "099253"
-  },
-  {
-    "name": "McDonald's",
-    "address": "4 BUKIT BATOK STREET 41 #01-42-45/50-54 LE QUEST 657991",
-    "type": "Restaurant",
-    "number": "EERN21010011971",
-    "scheme": "Eating Establishment",
-    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-    "postal": "657991"
   },
   {
     "name": "McDonald's",
@@ -31680,6 +31707,15 @@
     "postal": "819643"
   },
   {
+    "name": "Swish Rolls / Ollella",
+    "address": "290 ORCHARD ROAD #B1-K4 THE PARAGON 238859",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26020000105",
+    "scheme": "Eating Establishment",
+    "id": "85fd326a-eab5-432f-9ac1-917d8400f3ef",
+    "postal": "238859"
+  },
+  {
     "name": "Swissbake",
     "address": "6 EU TONG SEN STREET #01-53/54 The Central 059817",
     "type": "Restaurant",
@@ -34687,15 +34723,6 @@
   },
   {
     "name": "TREATS",
-    "address": "299 YIO CHU KANG ROAD MOBIL SERVICE STATION 805909",
-    "type": "Food Kiosk",
-    "number": "EEFK20220001010",
-    "scheme": "Eating Establishment",
-    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
-    "postal": "805909"
-  },
-  {
-    "name": "TREATS",
     "address": "353 UPPER THOMSON ROAD MOBIL SERVICE STATION 574410",
     "type": "Food Kiosk",
     "number": "EEFK20230000637",
@@ -34792,6 +34819,15 @@
     "scheme": "Eating Establishment",
     "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
     "postal": "758452"
+  },
+  {
+    "name": "TREATS",
+    "address": "299 YIO CHU KANG ROAD MOBIL SERVICE STATION 805909",
+    "type": "Food Kiosk",
+    "number": "EEFK20220001010",
+    "scheme": "Eating Establishment",
+    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
+    "postal": "805909"
   },
   {
     "name": "TREATS",
