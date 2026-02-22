@@ -540,6 +540,15 @@
     "postal": "519634"
   },
   {
+    "name": "786 Banana Leaf",
+    "address": "306A WOODLANDS STREET 31 Stall MR3 @ Mr Teh Tarik Eating House #01-01 FUCHUN NEIGHBOURHOOD CENTRE 731306",
+    "type": "Hawker",
+    "number": "EEHK26020000085",
+    "scheme": "Eating Establishment",
+    "id": "08793a12-d4b2-4e71-a113-9c43a52433e0",
+    "postal": "731306"
+  },
+  {
     "name": "97 NASI LEMAK",
     "address": "51 OLD AIRPORT ROAD #01-97 OLD AIRPORT ROAD HAWKERS' CENTRE 390051",
     "type": "Hawker",
@@ -4483,15 +4492,6 @@
   },
   {
     "name": "BURGER KING",
-    "address": "65 AIRPORT BOULEVARD #03-AF11 CHANGI AIRPORT TERMINAL 3 819663",
-    "type": "Restaurant",
-    "number": "EERN20030011308",
-    "scheme": "Eating Establishment",
-    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
-    "postal": "819663"
-  },
-  {
-    "name": "BURGER KING",
     "address": "1 JELEBU ROAD #01-28/29 BUKIT PANJANG PLAZA 677743",
     "type": "Restaurant",
     "number": "EERN20030011313",
@@ -4732,6 +4732,15 @@
     "scheme": "Eating Establishment",
     "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
     "postal": "819665"
+  },
+  {
+    "name": "BURGER KING",
+    "address": "65 AIRPORT BOULEVARD #03-AF11 CHANGI AIRPORT TERMINAL 3 819663",
+    "type": "Restaurant",
+    "number": "EERN20030011308",
+    "scheme": "Eating Establishment",
+    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+    "postal": "819663"
   },
   {
     "name": "BURGER KING",
@@ -22366,15 +22375,6 @@
   },
   {
     "name": "OLD CHANG KEE",
-    "address": "678A WOODLANDS AVENUE 6 #01-06 ADMIRALTY PLACE 731678",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20230000261",
-    "scheme": "Eating Establishment",
-    "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
-    "postal": "731678"
-  },
-  {
-    "name": "OLD CHANG KEE",
     "address": "238 THOMSON ROAD #01-70/71 NOVENA SQUARE 307683",
     "type": "Snack Bar / Bakery",
     "number": "EEBN20090011379",
@@ -22471,6 +22471,15 @@
     "scheme": "Eating Establishment",
     "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
     "postal": "238859"
+  },
+  {
+    "name": "OLD CHANG KEE",
+    "address": "678A WOODLANDS AVENUE 6 #01-06 ADMIRALTY PLACE 731678",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20230000261",
+    "scheme": "Eating Establishment",
+    "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
+    "postal": "731678"
   },
   {
     "name": "OLD CHANG KEE",
@@ -24229,15 +24238,6 @@
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
-    "address": "888 WOODLANDS DRIVE 50 #01-729 888 PLAZA 730888",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000702",
-    "scheme": "Eating Establishment",
-    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
-    "postal": "730888"
-  },
-  {
-    "name": "PIZZA HUT SINGAPORE PTE LTD",
     "address": "3 SIMEI STREET 6 #02-03 EASTPOINT MALL 528833",
     "type": "Restaurant",
     "number": "EERN21080012761",
@@ -24658,6 +24658,15 @@
     "scheme": "Eating Establishment",
     "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
     "postal": "310085"
+  },
+  {
+    "name": "PIZZA HUT SINGAPORE PTE LTD",
+    "address": "888 WOODLANDS DRIVE 50 #01-729 888 PLAZA 730888",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000702",
+    "scheme": "Eating Establishment",
+    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
+    "postal": "730888"
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
