@@ -6111,6 +6111,15 @@
     "postal": "486350"
   },
   {
+    "name": "CHILLI API CATERING PTE. LTD.",
+    "address": "3015 BEDOK NORTH STREET 5 #05-27 SHIMEI EAST KITCHEN 486350",
+    "type": "Catering Company",
+    "number": "FPCA26020000077",
+    "scheme": "Food Preparation Area",
+    "id": "20a47308-6f44-4fe1-8812-df6ec64b9bdb",
+    "postal": "486350"
+  },
+  {
     "name": "CHILLI MANIS CATERING PTE. LTD.",
     "address": "30B QUALITY ROAD #03-102 618826",
     "type": "Catering Company",
@@ -6523,6 +6532,15 @@
     "scheme": "Eating Establishment",
     "id": "4f8511ab-2f47-49ce-8fba-6cfcbcb7ae04",
     "postal": "519612"
+  },
+  {
+    "name": "Cinta Hainanese Chicken Rice",
+    "address": "1 ANCHORVALE STREET #01-21 SENGKANG COMMUNITY HOSPITAL 544835",
+    "type": "Restaurant",
+    "number": "EERT26020000066",
+    "scheme": "Eating Establishment",
+    "id": "4f8511ab-2f47-49ce-8fba-6cfcbcb7ae04",
+    "postal": "544835"
   },
   {
     "name": "Cinta Hainanese Chicken Rice (S4) @ SG Hawker",
@@ -8380,15 +8398,6 @@
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
-    "address": "625 ELIAS ROAD #01-312 ELIAS MALL 510625",
-    "type": "Restaurant",
-    "number": "EERN21060012540",
-    "scheme": "Eating Establishment",
-    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
-    "postal": "510625"
-  },
-  {
-    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
     "address": "1 HILLVIEW RISE #01-03 667970",
     "type": "Restaurant",
     "number": "EERN21060012528",
@@ -8593,6 +8602,15 @@
     "scheme": "Eating Establishment",
     "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
     "postal": "520462"
+  },
+  {
+    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+    "address": "625 ELIAS ROAD #01-312 ELIAS MALL 510625",
+    "type": "Restaurant",
+    "number": "EERN21060012540",
+    "scheme": "Eating Establishment",
+    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+    "postal": "510625"
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
@@ -24084,15 +24102,6 @@
     "postal": "757713"
   },
   {
-    "name": "PEZZO",
-    "address": "1 NORTHPOINT DRIVE #B2-152 NORTHPOINT CITY 768019",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBX22010013066",
-    "scheme": "Eating Establishment",
-    "id": "49b74e8e-3054-4cf6-ac23-1aa44135302b",
-    "postal": "768019"
-  },
-  {
     "name": "Pho Viet-Nam",
     "address": "1 WOODLANDS SQUARE Stall 2, Cantine #07-03 CAUSEWAY POINT 738099",
     "type": "Hawker",
@@ -25768,21 +25777,21 @@
   },
   {
     "name": "QI JI",
-    "address": "1 JURONG EAST STREET 21 #02-11 NTFGH TOWER A 609606",
-    "type": "Restaurant",
-    "number": "EERN21050012331",
-    "scheme": "Eating Establishment",
-    "id": "01cd5d67-3096-4ef7-bc6a-394a937ea753",
-    "postal": "609606"
-  },
-  {
-    "name": "QI JI",
     "address": "59 JALAN PEMIMPIN Kitchen 5 #01-03 & #01-04 L & Y BUILDING 577218",
     "type": "Hawker",
     "number": "EEHK26010000102",
     "scheme": "Eating Establishment",
     "id": "01cd5d67-3096-4ef7-bc6a-394a937ea753",
     "postal": "577218"
+  },
+  {
+    "name": "QI JI",
+    "address": "1 JURONG EAST STREET 21 #02-11 NTFGH TOWER A 609606",
+    "type": "Restaurant",
+    "number": "EERN21050012331",
+    "scheme": "Eating Establishment",
+    "id": "01cd5d67-3096-4ef7-bc6a-394a937ea753",
+    "postal": "609606"
   },
   {
     "name": "QI JI",
@@ -27172,21 +27181,21 @@
   },
   {
     "name": "Sanook Kitchen",
-    "address": "2 ORCHARD TURN #B3-19 ION ORCHARD 238801",
-    "type": "Restaurant",
-    "number": "EERT20220000262",
-    "scheme": "Eating Establishment",
-    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-    "postal": "238801"
-  },
-  {
-    "name": "Sanook Kitchen",
     "address": "10 PAYA LEBAR ROAD #03-28/29 PLQ MALL 409057",
     "type": "Restaurant",
     "number": "EERT20220001029",
     "scheme": "Eating Establishment",
     "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
     "postal": "409057"
+  },
+  {
+    "name": "Sanook Kitchen",
+    "address": "2 ORCHARD TURN #B3-19 ION ORCHARD 238801",
+    "type": "Restaurant",
+    "number": "EERT20220000262",
+    "scheme": "Eating Establishment",
+    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+    "postal": "238801"
   },
   {
     "name": "Sari Rasa Eating House",
@@ -28429,6 +28438,15 @@
     "scheme": "Eating Establishment",
     "id": "405105ab-965c-4bf6-8223-295fecba43e8",
     "postal": "520826"
+  },
+  {
+    "name": "Soldier Chicken",
+    "address": "623 ELIAS ROAD STALL 1 #01-02 Coffee United Elias Mall 510623",
+    "type": "Hawker",
+    "number": "EEHK26020000083",
+    "scheme": "Eating Establishment",
+    "id": "405105ab-965c-4bf6-8223-295fecba43e8",
+    "postal": "510623"
   },
   {
     "name": "SOLDIER CHICKEN (S5) @ Broadway Coffeeshop Serangoon",
@@ -33721,6 +33739,87 @@
     "scheme": "Eating Establishment",
     "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
     "postal": "528833"
+  },
+  {
+    "name": "THE ORIGINAL VADAI",
+    "address": "Pelita Raya Bazaar, 20 TAMPINES CENTRAL 1 TAMPINES MRT STATION (EW2), F33 529538",
+    "type": "Short Term Stall(Bazaar/Road Shows)",
+    "number": "EEST26020000106",
+    "scheme": "Eating Establishment",
+    "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
+    "postal": "529538"
+  },
+  {
+    "name": "THE ORIGINAL VADAI",
+    "address": "Kampong Gelam Ramadan Bazaar, 3 MUSCAT STREET MASJID SULTAN, K32 198833",
+    "type": "Short Term Stall(Bazaar/Road Shows)",
+    "number": "EEST26020000107",
+    "scheme": "Eating Establishment",
+    "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
+    "postal": "198833"
+  },
+  {
+    "name": "THE ORIGINAL VADAI",
+    "address": "Jurong Central Ramadan Bazaar, 496 JURONG WEST STREET 41, 27 640496",
+    "type": "Short Term Stall(Bazaar/Road Shows)",
+    "number": "EEST26020000108",
+    "scheme": "Eating Establishment",
+    "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
+    "postal": "640496"
+  },
+  {
+    "name": "THE ORIGINAL VADAI",
+    "address": "Bazaar Raya Geylang Serai, 1 ENGKU AMAN TURN WISMA GEYLANG SERAI, 7 408528",
+    "type": "Short Term Stall(Bazaar/Road Shows)",
+    "number": "EEST26020000109",
+    "scheme": "Eating Establishment",
+    "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
+    "postal": "408528"
+  },
+  {
+    "name": "THE ORIGINAL VADAI",
+    "address": "Bazaar Raya Geylang Serai, 1 GEYLANG SERAI SRI GEYLANG SERAI, 37, 38 402001",
+    "type": "Short Term Stall(Bazaar/Road Shows)",
+    "number": "EEST26020000110",
+    "scheme": "Eating Establishment",
+    "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
+    "postal": "402001"
+  },
+  {
+    "name": "THE ORIGINAL VADAI",
+    "address": "Admiralty Ramadan Bazaar, 683B WOODLANDS DRIVE 62, 28 732683",
+    "type": "Short Term Stall(Bazaar/Road Shows)",
+    "number": "EEST26020000112",
+    "scheme": "Eating Establishment",
+    "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
+    "postal": "732683"
+  },
+  {
+    "name": "THE ORIGINAL VADAI",
+    "address": "Woodlands MRT Ramadan Bazaar, 1 WOODLANDS SQUARE CAUSEWAY POINT, 22 738099",
+    "type": "Short Term Stall(Bazaar/Road Shows)",
+    "number": "EEST26020000113",
+    "scheme": "Eating Establishment",
+    "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
+    "postal": "738099"
+  },
+  {
+    "name": "THE ORIGINAL VADAI",
+    "address": "Pasir Ris Ramadan Bazaar, 415 PASIR RIS DRIVE 6, 12 510415",
+    "type": "Short Term Stall(Bazaar/Road Shows)",
+    "number": "EEST26020000114",
+    "scheme": "Eating Establishment",
+    "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
+    "postal": "510415"
+  },
+  {
+    "name": "THE ORIGINAL VADAI",
+    "address": "Bukit Gombak Ramadan Bazaar, 374 BUKIT BATOK STREET 31, 55 650374",
+    "type": "Short Term Stall(Bazaar/Road Shows)",
+    "number": "EEST26020000115",
+    "scheme": "Eating Establishment",
+    "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
+    "postal": "650374"
   },
   {
     "name": "THE ORIGINAL VADAI",
