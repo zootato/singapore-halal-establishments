@@ -6210,6 +6210,15 @@
     "postal": "079903"
   },
   {
+    "name": "Chops & Sear",
+    "address": "21 HOUGANG STREET 51 (S7) @ De Tian 21 Hougang #01-51 HOUGANG GREEN SHOPPING MALL 538719",
+    "type": "Hawker",
+    "number": "EEHK26020000071",
+    "scheme": "Eating Establishment",
+    "id": "ad27eda0-2724-4574-92b5-b234959d8d90",
+    "postal": "538719"
+  },
+  {
     "name": "Chops & Sear (MR1) @ De Tian 524 Hougang",
     "address": "524 HOUGANG AVENUE 6 #01-125, 129, MR1 530524",
     "type": "Hawker",
@@ -13662,6 +13671,24 @@
     "postal": "117275"
   },
   {
+    "name": "Husk Nasi Lemak",
+    "address": "60 AIRPORT BOULEVARD #036-141 Changi Airport T2 - Departure Transit Lounge Centre Straits Food Village @ CHANGI AIRPORT TERMINAL 2 BUILDING, Stall 2 819643",
+    "type": "Hawker",
+    "number": "EEHK20250000629",
+    "scheme": "Eating Establishment",
+    "id": "5692b15f-3f87-48bf-8792-65010b342b5a",
+    "postal": "819643"
+  },
+  {
+    "name": "Husk Nasi Lemak",
+    "address": "65 AIRPORT BOULEVARD Singapore Food Street, \"S7\" #03-11 CHANGI AIRPORT TERMINAL 3 BUILDING 819663",
+    "type": "Hawker",
+    "number": "EEHK20250000630",
+    "scheme": "Eating Establishment",
+    "id": "5692b15f-3f87-48bf-8792-65010b342b5a",
+    "postal": "819663"
+  },
+  {
     "name": "HUSK NASI LEMAK",
     "address": "470 NORTH BRIDGE ROAD #03-21 BUGIS CUBE 188735",
     "type": "Restaurant",
@@ -16579,30 +16606,21 @@
   },
   {
     "name": "Krispy Kreme Doughnuts",
-    "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #01-20 CHANGI CITY POINT 486038",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20240000006",
-    "scheme": "Eating Establishment",
-    "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
-    "postal": "486038"
-  },
-  {
-    "name": "Krispy Kreme Doughnuts",
-    "address": "230 Pandan Loop #04-01 Lim Chee Guan Food Industries Building 128415",
-    "type": "Central Kitchen",
-    "number": "FPCN21100001601",
-    "scheme": "Food Preparation Area",
-    "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
-    "postal": "128415"
-  },
-  {
-    "name": "Krispy Kreme Doughnuts",
     "address": "1 SENGKANG SQUARE #01-46 COMPASS ONE 545078",
     "type": "Restaurant",
     "number": "EERT20230000102",
     "scheme": "Eating Establishment",
     "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
     "postal": "545078"
+  },
+  {
+    "name": "Krispy Kreme Doughnuts",
+    "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #01-20 CHANGI CITY POINT 486038",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20240000006",
+    "scheme": "Eating Establishment",
+    "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
+    "postal": "486038"
   },
   {
     "name": "Krispy Kreme Doughnuts",
@@ -16729,6 +16747,15 @@
     "scheme": "Eating Establishment",
     "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
     "postal": "188021"
+  },
+  {
+    "name": "Krispy Kreme Doughnuts",
+    "address": "230 Pandan Loop #04-01 Lim Chee Guan Food Industries Building 128415",
+    "type": "Central Kitchen",
+    "number": "FPCN21100001601",
+    "scheme": "Food Preparation Area",
+    "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
+    "postal": "128415"
   },
   {
     "name": "Krispy Kreme Doughnuts",
@@ -34822,15 +34849,6 @@
   },
   {
     "name": "TREATS",
-    "address": "650 DUNEARN ROAD ESSO SERVICE STATION 289630",
-    "type": "Food Kiosk",
-    "number": "EEFK20220001009",
-    "scheme": "Eating Establishment",
-    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
-    "postal": "289630"
-  },
-  {
-    "name": "TREATS",
     "address": "353 UPPER THOMSON ROAD MOBIL SERVICE STATION 574410",
     "type": "Food Kiosk",
     "number": "EEFK20230000637",
@@ -34927,6 +34945,15 @@
     "scheme": "Eating Establishment",
     "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
     "postal": "758452"
+  },
+  {
+    "name": "TREATS",
+    "address": "650 DUNEARN ROAD ESSO SERVICE STATION 289630",
+    "type": "Food Kiosk",
+    "number": "EEFK20220001009",
+    "scheme": "Eating Establishment",
+    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
+    "postal": "289630"
   },
   {
     "name": "TREATS",
