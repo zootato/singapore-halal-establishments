@@ -3187,6 +3187,15 @@
   },
   {
     "name": "BARA PENYET",
+    "address": "1 JURONG WEST CENTRAL 2 STALL NO 5 #B1-42/43/44 JURONG POINT BAGUS 648886",
+    "type": "Hawker",
+    "number": "EEHK26020000116",
+    "scheme": "Eating Establishment",
+    "id": "ab9670ff-f04f-48cf-bf34-cf985dabd0de",
+    "postal": "648886"
+  },
+  {
+    "name": "BARA PENYET",
     "address": "1 WOODLANDS SQUARE #07-03 Cantine Causeway Point, Stall 9 738099",
     "type": "Hawker",
     "number": "EEHK20250000772",
@@ -4636,15 +4645,6 @@
   },
   {
     "name": "BURGER KING",
-    "address": "1 HARBOURFRONT WALK #B2-41/56 VIVOCITY 098585",
-    "type": "Restaurant",
-    "number": "EERT25120000009",
-    "scheme": "Eating Establishment",
-    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
-    "postal": "098585"
-  },
-  {
-    "name": "BURGER KING",
     "address": "460 ALEXANDRA ROAD #01-17/20 ALEXANDRA RETAIL CENTER 119963",
     "type": "Restaurant",
     "number": "EERN20030011327",
@@ -4741,6 +4741,15 @@
     "scheme": "Eating Establishment",
     "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
     "postal": "819663"
+  },
+  {
+    "name": "BURGER KING",
+    "address": "1 HARBOURFRONT WALK #B2-41/56 VIVOCITY 098585",
+    "type": "Restaurant",
+    "number": "EERT25120000009",
+    "scheme": "Eating Establishment",
+    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+    "postal": "098585"
   },
   {
     "name": "BURGER KING",
@@ -5398,6 +5407,15 @@
     "scheme": "Eating Establishment",
     "id": "dc42ca27-88f2-4703-be62-fa8f079daddd",
     "postal": "150002"
+  },
+  {
+    "name": "Carrot Cake",
+    "address": "1 JURONG WEST CENTRAL 2 (S15) @ Bagus Jurong Point B1-42/43/44 JURONG POINT 648886",
+    "type": "Hawker",
+    "number": "EEHK26020000121",
+    "scheme": "Eating Establishment",
+    "id": "2fd37517-e373-404f-846d-422569e055e9",
+    "postal": "648886"
   },
   {
     "name": "Carrot Cake (S3) @ Cantine Greenridge",
@@ -10468,15 +10486,6 @@
   },
   {
     "name": "Fish & Co.",
-    "address": "524A JELAPANG ROAD #01-03 GREENRIDGE SHOPPING CENTRE, STALL 6 671524",
-    "type": "Hawker",
-    "number": "EEHN21110012968",
-    "scheme": "Eating Establishment",
-    "id": "6abb1b61-dc88-42cc-9d64-a8e900a62115",
-    "postal": "671524"
-  },
-  {
-    "name": "Fish & Co.",
     "address": "10 SENGKANG SQUARE #01-54 KOPITIAM SQUARE 544829",
     "type": "Hawker",
     "number": "EEHN21110012970",
@@ -10501,6 +10510,15 @@
     "scheme": "Eating Establishment",
     "id": "631ef2cc-69ac-47ac-ac09-be02a7039f65",
     "postal": "819666"
+  },
+  {
+    "name": "Fish & Co.",
+    "address": "524A JELAPANG ROAD #01-03 GREENRIDGE SHOPPING CENTRE, STALL 6 671524",
+    "type": "Hawker",
+    "number": "EEHN21110012968",
+    "scheme": "Eating Establishment",
+    "id": "6abb1b61-dc88-42cc-9d64-a8e900a62115",
+    "postal": "671524"
   },
   {
     "name": "FISH & CO. RESTAURANTS PTE LTD",
@@ -16471,21 +16489,21 @@
   },
   {
     "name": "KOPI KORNER",
-    "address": "9 SENTUL CRESCENT #03-04 SAFRA CLUBHOUSE (PUNGGOL) 828654",
-    "type": "Restaurant",
-    "number": "EERT25100000031",
-    "scheme": "Eating Establishment",
-    "id": "c091e13f-3dbe-44a1-b12d-78da06d58861",
-    "postal": "828654"
-  },
-  {
-    "name": "KOPI KORNER",
     "address": "1 MARITIME SQUARE #01-#01-K9/#01-K10 HARBOURFRONT CENTRE 099253",
     "type": "Restaurant",
     "number": "EERT20250000692",
     "scheme": "Eating Establishment",
     "id": "c091e13f-3dbe-44a1-b12d-78da06d58861",
     "postal": "099253"
+  },
+  {
+    "name": "KOPI KORNER",
+    "address": "9 SENTUL CRESCENT #03-04 SAFRA CLUBHOUSE (PUNGGOL) 828654",
+    "type": "Restaurant",
+    "number": "EERT25100000031",
+    "scheme": "Eating Establishment",
+    "id": "c091e13f-3dbe-44a1-b12d-78da06d58861",
+    "postal": "828654"
   },
   {
     "name": "Korea Culture",
@@ -16642,6 +16660,15 @@
   },
   {
     "name": "Krispy Kreme Doughnuts",
+    "address": "1 KIM SENG PROMENADE #B1-K110 GREAT WORLD CITY 237994",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN21070012609",
+    "scheme": "Eating Establishment",
+    "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
+    "postal": "237994"
+  },
+  {
+    "name": "Krispy Kreme Doughnuts",
     "address": "290 ORCHARD ROAD #B1-K7 THE PARAGON 238859",
     "type": "Snack Bar / Bakery",
     "number": "EEBN21070012610",
@@ -16756,15 +16783,6 @@
     "scheme": "Food Preparation Area",
     "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
     "postal": "128415"
-  },
-  {
-    "name": "Krispy Kreme Doughnuts",
-    "address": "1 KIM SENG PROMENADE #B1-K110 GREAT WORLD CITY 237994",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN21070012609",
-    "scheme": "Eating Establishment",
-    "id": "812b33ae-63d3-404d-a905-fd4e58ef9953",
-    "postal": "237994"
   },
   {
     "name": "KRYSTON F&B PTE. LTD.",
@@ -21691,7 +21709,7 @@
   },
   {
     "name": "Nene Chicken (S1) @ Yong Li Coffee Station Bedok",
-    "address": "136 BEDOK NORTH AVENUE 3 Stall No. 1 #01-140 NIL 460136",
+    "address": "136 BEDOK NORTH AVENUE 3 Stall No. 1 #01-140 460136",
     "type": "Hawker",
     "number": "EEHK20250000197",
     "scheme": "Eating Establishment",
@@ -23569,15 +23587,6 @@
     "scheme": "Eating Establishment",
     "id": "bf91cea4-c8a3-4ff4-af39-aff110e6efe8",
     "postal": "238863"
-  },
-  {
-    "name": "PARIS VAN JAVA PTE. LTD.",
-    "address": "25 HARPER ROAD #06-03 HARPER POINT 369683",
-    "type": "Central Kitchen",
-    "number": "FPCK20250000218",
-    "scheme": "Food Preparation Area",
-    "id": "28790b19-2cca-4f56-b512-4938420109d5",
-    "postal": "369683"
   },
   {
     "name": "PASIR PANJANG FOOD STATION @ ASIAN MARKET CAFE",
@@ -30904,15 +30913,6 @@
     "scheme": "Eating Establishment",
     "id": "8ca8605b-be4d-48dd-98d0-78c2ed91bffb",
     "postal": "519872"
-  },
-  {
-    "name": "SWEE HENG",
-    "address": "963 JURONG WEST STREET 91 #01-314 640963",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20220000383",
-    "scheme": "Eating Establishment",
-    "id": "8ca8605b-be4d-48dd-98d0-78c2ed91bffb",
-    "postal": "640963"
   },
   {
     "name": "SWEE HENG 1989 BAKERY CAFE",
