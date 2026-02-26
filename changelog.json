@@ -1,5 +1,68 @@
 [
   {
+    "timestamp": "2026-02-26T22:23:02.597496",
+    "date": "2026-02-26",
+    "summary": {
+      "new": 3,
+      "removed": 0,
+      "updated": 1
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Cookhouse @ Thye Hua Kwan Home for Disabled Adults (Mngd By Happy Enterprises Pte Ltd)",
+          "address": "2 CHAI CHEE LANE MORAL HOME FOR DISABLED ADULTS 469030",
+          "type": "Central Kitchen",
+          "number": "FPCK26020000124",
+          "scheme": "Food Preparation Area",
+          "id": "e3dfbd20-f89d-4725-8268-c7ed2c82b4d5",
+          "postal": "469030"
+        },
+        {
+          "name": "THE ORIGINAL VADAI",
+          "address": "Punggol MRT Trade Fair, 70 PUNGGOL CENTRAL PUNGGOL MRT STATION (NE17), 17, 33 828868",
+          "type": "Short Term Stall(Bazaar/Road Shows)",
+          "number": "EEST26020000128",
+          "scheme": "Eating Establishment",
+          "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
+          "postal": "828868"
+        },
+        {
+          "name": "Steam Fish YB Pontian Village",
+          "address": "50 JURONG WEST STREET 61 02-23 #02-23 JURONG WEST HAWKER CENTRE 648202",
+          "type": "Hawker",
+          "number": "EEHK26020000084",
+          "scheme": "Eating Establishment",
+          "id": "2c5847ba-f30a-4e47-8f5a-183606368d4e",
+          "postal": "648202"
+        }
+      ],
+      "removed": [],
+      "updated": [
+        {
+          "previous": {
+            "name": "Pastamania",
+            "address": "1 Fusionopolis Way #01-04 Connexis 138632",
+            "type": "Restaurant",
+            "number": "EERT20250000430",
+            "scheme": "Eating Establishment",
+            "id": "e1eb4468-e706-4f99-bbf2-2603b062790c",
+            "postal": "138632"
+          },
+          "current": {
+            "name": "Wicked WIngs",
+            "address": "1 Fusionopolis Way #01-04 Connexis 138632",
+            "type": "Restaurant",
+            "number": "EERT20250000430",
+            "scheme": "Eating Establishment",
+            "id": "e1eb4468-e706-4f99-bbf2-2603b062790c",
+            "postal": "138632"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-02-25T22:21:51.885164",
     "date": "2026-02-25",
     "summary": {
@@ -12395,57 +12458,6 @@
           "scheme": "Eating Establishment",
           "id": "48f3e571-dfbc-42db-a6fc-ed0d5b59dc37",
           "postal": "199792"
-        }
-      ],
-      "removed": [],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2025-12-23T22:17:02.035693",
-    "date": "2025-12-23",
-    "summary": {
-      "new": 4,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Beradik (S5) @ Boleh Boleh Harbourfront",
-          "address": "1 MARITIME SQUARE #01-103/104/105/106/107/108 HARBOURFRONT CENTRE, STALL 5 099253",
-          "type": "Hawker",
-          "number": "EEHK20240000302",
-          "scheme": "Eating Establishment",
-          "id": "cc7163d1-18db-477e-93f0-fd508229c65e",
-          "postal": "099253"
-        },
-        {
-          "name": "Dignity Kitchen",
-          "address": "69 BOON KENG ROAD 339772",
-          "type": "Restaurant",
-          "number": "EERT20220000637",
-          "scheme": "Eating Establishment",
-          "id": "26b6c6ed-6bef-4e08-bb60-a30b1720199b",
-          "postal": "339772"
-        },
-        {
-          "name": "Monster Western (MR1) @ Food Dynasty Cineleisure",
-          "address": "8 GRANGE ROAD #B1-01/01A CATHAY CINELEISURE ORCHARD, MR1 239695",
-          "type": "Hawker",
-          "number": "EEHK20250000286",
-          "scheme": "Eating Establishment",
-          "id": "2dab0dc7-705d-4e2a-9cfe-74ca85d5866c",
-          "postal": "239695"
-        },
-        {
-          "name": "Selera Kampungku",
-          "address": "306A WOODLANDS STREET 31 Stall MR2 @ Mr Teh Tarik Eating House #01-01 FUCHUN NEIGHBOURHOOD CENTRE 731306",
-          "type": "Hawker",
-          "number": "EEHK25120000063",
-          "scheme": "Eating Establishment",
-          "id": "661b43f3-0525-46db-9add-ca061449939c",
-          "postal": "731306"
         }
       ],
       "removed": [],

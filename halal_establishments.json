@@ -6804,6 +6804,15 @@
     "postal": "108931"
   },
   {
+    "name": "Cookhouse @ Thye Hua Kwan Home for Disabled Adults (Mngd By Happy Enterprises Pte Ltd)",
+    "address": "2 CHAI CHEE LANE MORAL HOME FOR DISABLED ADULTS 469030",
+    "type": "Central Kitchen",
+    "number": "FPCK26020000124",
+    "scheme": "Food Preparation Area",
+    "id": "e3dfbd20-f89d-4725-8268-c7ed2c82b4d5",
+    "postal": "469030"
+  },
+  {
     "name": "Cookhouse @Thye Hua Kwan Nursing Hm-Mngd by Happy Enterprises PL",
     "address": "48 Hougang Avenue 8 Thye Hua Kwan Nursing Home 538793",
     "type": "Central Kitchen",
@@ -23653,15 +23662,6 @@
   },
   {
     "name": "Pastamania",
-    "address": "1 Fusionopolis Way #01-04 Connexis 138632",
-    "type": "Restaurant",
-    "number": "EERT20250000430",
-    "scheme": "Eating Establishment",
-    "id": "e1eb4468-e706-4f99-bbf2-2603b062790c",
-    "postal": "138632"
-  },
-  {
-    "name": "Pastamania",
     "address": "60 PAYA LEBAR ROAD #01-09/10/11 PAYA LEBAR SQUARE 409051",
     "type": "Restaurant",
     "number": "EERT20230000100",
@@ -29196,6 +29196,15 @@
     "postal": "238839"
   },
   {
+    "name": "Steam Fish YB Pontian Village",
+    "address": "50 JURONG WEST STREET 61 02-23 #02-23 JURONG WEST HAWKER CENTRE 648202",
+    "type": "Hawker",
+    "number": "EEHK26020000084",
+    "scheme": "Eating Establishment",
+    "id": "2c5847ba-f30a-4e47-8f5a-183606368d4e",
+    "postal": "648202"
+  },
+  {
     "name": "Streats Cafe",
     "address": "180 KITCHENER ROAD #01-01/03 CITY SQUARE MALL 208539",
     "type": "Restaurant",
@@ -29890,15 +29899,6 @@
   },
   {
     "name": "SUBWAY",
-    "address": "2 JURONG EAST STREET 21 #01-94 IMM BUILDING 609601",
-    "type": "Restaurant",
-    "number": "EERT20240001158",
-    "scheme": "Eating Establishment",
-    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-    "postal": "609601"
-  },
-  {
-    "name": "SUBWAY",
     "address": "21 TAMPINES AVENUE 1 #01-03 TEMASEK POLYTECHNIC,BLK 30B 529757",
     "type": "Restaurant",
     "number": "EERN21110013120",
@@ -30220,6 +30220,15 @@
     "scheme": "Eating Establishment",
     "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
     "postal": "649845"
+  },
+  {
+    "name": "SUBWAY",
+    "address": "2 JURONG EAST STREET 21 #01-94 IMM BUILDING 609601",
+    "type": "Restaurant",
+    "number": "EERT20240001158",
+    "scheme": "Eating Establishment",
+    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+    "postal": "609601"
   },
   {
     "name": "SUBWAY",
@@ -33850,6 +33859,15 @@
   },
   {
     "name": "THE ORIGINAL VADAI",
+    "address": "Punggol MRT Trade Fair, 70 PUNGGOL CENTRAL PUNGGOL MRT STATION (NE17), 17, 33 828868",
+    "type": "Short Term Stall(Bazaar/Road Shows)",
+    "number": "EEST26020000128",
+    "scheme": "Eating Establishment",
+    "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
+    "postal": "828868"
+  },
+  {
+    "name": "THE ORIGINAL VADAI",
     "address": "2 TAMPINES CENTRAL 5 #01-37 CENTURY SQUARE 529509",
     "type": "Snack Bar / Bakery",
     "number": "EEBN22020013082",
@@ -34840,15 +34858,6 @@
   },
   {
     "name": "TREATS",
-    "address": "2991 JALAN BUKIT MERAH MOBIL SERVICE STATION 159458",
-    "type": "Food Kiosk",
-    "number": "EEFK20220001008",
-    "scheme": "Eating Establishment",
-    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
-    "postal": "159458"
-  },
-  {
-    "name": "TREATS",
     "address": "353 UPPER THOMSON ROAD MOBIL SERVICE STATION 574410",
     "type": "Food Kiosk",
     "number": "EEFK20230000637",
@@ -34945,6 +34954,15 @@
     "scheme": "Eating Establishment",
     "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
     "postal": "758452"
+  },
+  {
+    "name": "TREATS",
+    "address": "2991 JALAN BUKIT MERAH MOBIL SERVICE STATION 159458",
+    "type": "Food Kiosk",
+    "number": "EEFK20220001008",
+    "scheme": "Eating Establishment",
+    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
+    "postal": "159458"
   },
   {
     "name": "TREATS",
@@ -36214,6 +36232,15 @@
     "scheme": "Eating Establishment",
     "id": "e1eb4468-e706-4f99-bbf2-2603b062790c",
     "postal": "538692"
+  },
+  {
+    "name": "Wicked WIngs",
+    "address": "1 Fusionopolis Way #01-04 Connexis 138632",
+    "type": "Restaurant",
+    "number": "EERT20250000430",
+    "scheme": "Eating Establishment",
+    "id": "e1eb4468-e706-4f99-bbf2-2603b062790c",
+    "postal": "138632"
   },
   {
     "name": "Wikedo Western (MR6) @ Koufu Tampines Mart",
