@@ -11043,6 +11043,42 @@
     "postal": "038983"
   },
   {
+    "name": "FRIED RICE STORY",
+    "address": "631 BEDOK RESERVOIR ROAD 8 #01-886 EUNOS GROVE 470631",
+    "type": "Hawker",
+    "number": "EEHK26020000118",
+    "scheme": "Eating Establishment",
+    "id": "48328631-8b99-46b2-a131-9b22739109d7",
+    "postal": "470631"
+  },
+  {
+    "name": "FRIED RICE STORY",
+    "address": "420A CLEMENTI AVENUE 1 MR 1, KOPIWU #01-07 CASA CLEMENTI 121420",
+    "type": "Hawker",
+    "number": "EEHK26020000119",
+    "scheme": "Eating Establishment",
+    "id": "48328631-8b99-46b2-a131-9b22739109d7",
+    "postal": "121420"
+  },
+  {
+    "name": "FRIED RICE STORY (S7) @ FOOD PARADISE ANCHORVALE",
+    "address": "330 ANCHORVALE STREET ANCHORVALE HARVEST, Stall 7 540330",
+    "type": "Hawker",
+    "number": "EEHK20230001277",
+    "scheme": "Eating Establishment",
+    "id": "a903d0a6-fc96-41f3-abfc-bbcc1f8c2696",
+    "postal": "540330"
+  },
+  {
+    "name": "FRIED RICE STORY (S7) @ KOPITIAM CORNER HOUGANG",
+    "address": "476D Upper Serangoon View #02-05 Hougang Capeview, Stall 3 537476",
+    "type": "Hawker",
+    "number": "EEHK20240000651",
+    "scheme": "Eating Establishment",
+    "id": "f99dc539-811d-4cd9-a2d8-28287aa93085",
+    "postal": "537476"
+  },
+  {
     "name": "Fried Yong Tau FU (S5) @ Quad Cafe",
     "address": "60 NANYANG DRIVE S OF BIOLOGICAL SCIENCES NTU-B1N-10, BASEMENT 1, Stall 5 637551",
     "type": "Hawker",
@@ -12868,6 +12904,15 @@
     "scheme": "Eating Establishment",
     "id": "cd36d89f-b7ee-484b-8ced-cbcecd381471",
     "postal": "427990"
+  },
+  {
+    "name": "Heavenly Wang",
+    "address": "8 SIMEI STREET 3 SAINT ANDREW's COMMUNITY HOSPITAL 529895",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26020000059",
+    "scheme": "Eating Establishment",
+    "id": "cd36d89f-b7ee-484b-8ced-cbcecd381471",
+    "postal": "529895"
   },
   {
     "name": "Heavenly Wang",
@@ -16048,6 +16093,15 @@
   },
   {
     "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
+    "address": "3155 COMMONWEALTH AVE WEST #B1-32/33 CLEMENTI MALL 129588",
+    "type": "Restaurant",
+    "number": "EERN21110013053",
+    "scheme": "Eating Establishment",
+    "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
+    "postal": "129588"
+  },
+  {
+    "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
     "address": "133 CANBERRA VIEW #01-08/09 750133",
     "type": "Restaurant",
     "number": "EERN21110013047",
@@ -16063,15 +16117,6 @@
     "scheme": "Eating Establishment",
     "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
     "postal": "098585"
-  },
-  {
-    "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
-    "address": "3155 COMMONWEALTH AVE WEST #B1-32/33 CLEMENTI MALL 129588",
-    "type": "Restaurant",
-    "number": "EERN21110013053",
-    "scheme": "Eating Establishment",
-    "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
-    "postal": "129588"
   },
   {
     "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
@@ -16651,16 +16696,7 @@
   },
   {
     "name": "Krispy Kreme Doughnuts",
-    "address": "3 TEMASEK BOULEVARD #01-419/420 SUNTEC CITY MALL, TOWER 5 038983",
-    "type": "Restaurant",
-    "number": "EERN21100012909",
-    "scheme": "Eating Establishment",
-    "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
-    "postal": "038983"
-  },
-  {
-    "name": "Krispy Kreme Doughnuts",
-    "address": "1 NORTHPOINT DRIVE #01-133A NORTHPOINT CITY,(part right) 768019",
+    "address": "1 NORTHPOINT DRIVE #01-133A NORTHPOINT CITY, (part right) 768019",
     "type": "Restaurant",
     "number": "EERN21100012910",
     "scheme": "Eating Establishment",
@@ -18466,6 +18502,24 @@
     "scheme": "Food Preparation Area",
     "id": "e6b00860-9757-4068-9f46-4b10919a2cd4",
     "postal": "757437"
+  },
+  {
+    "name": "MAPLE CATERING",
+    "address": "490 UPPER BUKIT TIMAH ROAD #01 TRINITY THEOLOGICAL COLLEGE 678093",
+    "type": "Staff Canteen",
+    "number": "EESC26020000125",
+    "scheme": "Eating Establishment",
+    "id": "4be24630-b7e1-4a6b-93df-c9cf4a21df46",
+    "postal": "678093"
+  },
+  {
+    "name": "MAPLE CATERING PTE. LTD.",
+    "address": "490 UPPER BUKIT TIMAH ROAD #01-#1-00 TRINITY THEOLOGICAL COLLEGE 678093",
+    "type": "Catering Company",
+    "number": "FPCA26020000126",
+    "scheme": "Food Preparation Area",
+    "id": "4be24630-b7e1-4a6b-93df-c9cf4a21df46",
+    "postal": "678093"
   },
   {
     "name": "MARI MARI",
@@ -22968,6 +23022,15 @@
     "postal": "574623"
   },
   {
+    "name": "OLLELLA",
+    "address": "1 TAMPINES WALK #B1-K16 OUR TAMPINES HUB 528523",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26020000131",
+    "scheme": "Eating Establishment",
+    "id": "a2cca15d-4fea-48c3-bcec-7d057297a36e",
+    "postal": "528523"
+  },
+  {
     "name": "OLLELLA PTE. LTD.",
     "address": "1550 BEDOK NORTH AVENUE 4 #05-03 489950",
     "type": "Central Kitchen",
@@ -23059,21 +23122,21 @@
   },
   {
     "name": "ORCHID THAI",
-    "address": "100 BUKIT TIMAH ROAD #01-17 KK WOMEN'S AND CHILDREN'S HOSPITAL 229899",
-    "type": "Restaurant",
-    "number": "EERN21040012293",
-    "scheme": "Eating Establishment",
-    "id": "5ca5ad88-8e77-4562-9750-ae53714f7ea9",
-    "postal": "229899"
-  },
-  {
-    "name": "ORCHID THAI",
     "address": "1 HOSPITAL CRESCENT #01-01A SINGAPORE GENERAL HOSPITAL, BOWYERS BLK, SINGAPORE EYE CENTRE 169608",
     "type": "Snack Bar / Bakery",
     "number": "EEBN21040012263",
     "scheme": "Eating Establishment",
     "id": "5ca5ad88-8e77-4562-9750-ae53714f7ea9",
     "postal": "169608"
+  },
+  {
+    "name": "ORCHID THAI",
+    "address": "100 BUKIT TIMAH ROAD #01-17 KK WOMEN'S AND CHILDREN'S HOSPITAL 229899",
+    "type": "Restaurant",
+    "number": "EERN21040012293",
+    "scheme": "Eating Establishment",
+    "id": "5ca5ad88-8e77-4562-9750-ae53714f7ea9",
+    "postal": "229899"
   },
   {
     "name": "ORDINARY BURGERS",
@@ -24121,6 +24184,15 @@
   },
   {
     "name": "PEZZO",
+    "address": "1 TAMPINES WALK #B1-42 OUR TAMPINES HUB 528523",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26020000100",
+    "scheme": "Eating Establishment",
+    "id": "49b74e8e-3054-4cf6-ac23-1aa44135302b",
+    "postal": "528523"
+  },
+  {
+    "name": "PEZZO",
     "address": "311 New Upper Changi Road #B2-K1 BEDOK MALL 467360",
     "type": "Snack Bar / Bakery",
     "number": "EEBX21120013041",
@@ -24775,6 +24847,15 @@
     "scheme": "Eating Establishment",
     "id": "54c67cf2-0688-494b-9a57-7dbc4c356f9e",
     "postal": "768019"
+  },
+  {
+    "name": "Please advise if this is the right template or that we should forward using the old template",
+    "address": "3 TEMASEK BOULEVARD #01-419/420 SUNTEC CITY MALL, TOWER 5 038983",
+    "type": "Restaurant",
+    "number": "EERN21100012909",
+    "scheme": "Eating Establishment",
+    "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
+    "postal": "038983"
   },
   {
     "name": "Poke Theory",
@@ -30403,6 +30484,15 @@
   },
   {
     "name": "Sukiya Gyudon • Curry",
+    "address": "3155 COMMONWEALTH AVENUE WEST B1-34/35 THE CLEMENTI MALL 129588",
+    "type": "Restaurant",
+    "number": "EERT26020000052",
+    "scheme": "Eating Establishment",
+    "id": "f25faa72-19a1-4c85-a920-fc1462f72292",
+    "postal": "129588"
+  },
+  {
+    "name": "Sukiya Gyudon • Curry",
     "address": "6 RAFFLES BOULEVARD #02-183A MARINA SQUARE 039594",
     "type": "Restaurant",
     "number": "EERT20230000455",
@@ -30627,6 +30717,33 @@
     "postal": "059413"
   },
   {
+    "name": "Sukiya Gyudon • Curry",
+    "address": "60 AIRPORT BOULEVARD #02-02 CHANGI AIRPORT TERMINAL 2 819643",
+    "type": "Restaurant",
+    "number": "EERT26020000053",
+    "scheme": "Eating Establishment",
+    "id": "f25faa72-19a1-4c85-a920-fc1462f72292",
+    "postal": "819643"
+  },
+  {
+    "name": "Sukiya Gyudon • Curry",
+    "address": "50 JURONG GATEWAY ROAD B1-37/38 JEM 608549",
+    "type": "Restaurant",
+    "number": "EERT26020000054",
+    "scheme": "Eating Establishment",
+    "id": "f25faa72-19a1-4c85-a920-fc1462f72292",
+    "postal": "608549"
+  },
+  {
+    "name": "Sukiya Gyudon • Curry",
+    "address": "90 HOUGANG AVENUE 10 #B1-27 HOUGANG MALL 538766",
+    "type": "Restaurant",
+    "number": "EERT26020000074",
+    "scheme": "Eating Establishment",
+    "id": "f25faa72-19a1-4c85-a920-fc1462f72292",
+    "postal": "538766"
+  },
+  {
     "name": "Sultana Catering Pte Ltd",
     "address": "234 TUAS SOUTH AVENUE 2 WEST POINT BIZHUB 637222",
     "type": "Catering Company",
@@ -30823,15 +30940,6 @@
     "scheme": "Eating Establishment",
     "id": "379c7e48-f182-4cbf-b7e4-45290f00a8f7",
     "postal": "330029"
-  },
-  {
-    "name": "SUPER SUSHI",
-    "address": "4 TAMPINES CENTRAL 5 #B1-K4 TAMPINES MALL 529510",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20240000837",
-    "scheme": "Eating Establishment",
-    "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
-    "postal": "529510"
   },
   {
     "name": "SUPER SUSHI",
@@ -34444,15 +34552,6 @@
   },
   {
     "name": "TIP TOP",
-    "address": "1 PASIR RIS CLOSE #02-109 E!HUB@DOWNTOWN EAST 519599",
-    "type": "Restaurant",
-    "number": "EERT20240000728",
-    "scheme": "Eating Establishment",
-    "id": "87a00d7d-0af0-4000-be56-7b7facc1c180",
-    "postal": "519599"
-  },
-  {
-    "name": "TIP TOP",
     "address": "7 WALLICH STREET #B2-20 GUOCO TOWER 078884",
     "type": "Snack Bar / Bakery",
     "number": "EESB20250000841",
@@ -34621,15 +34720,6 @@
     "scheme": "Eating Establishment",
     "id": "3e75f97a-1f6a-4795-ba6e-a2ba7adf2128",
     "postal": "544692"
-  },
-  {
-    "name": "TOKYO SHOKUDO",
-    "address": "53 ANG MO KIO AVENUE 3 #02-19,#02-20,#02-21 AMK HUB 569933",
-    "type": "Restaurant",
-    "number": "EERT20250000567",
-    "scheme": "Eating Establishment",
-    "id": "3e75f97a-1f6a-4795-ba6e-a2ba7adf2128",
-    "postal": "569933"
   },
   {
     "name": "TOKYO SHOKUDO BISTRO",
