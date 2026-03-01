@@ -16920,6 +16920,15 @@
     "postal": "039593"
   },
   {
+    "name": "LEVENDER GOURMET COLLECTIVE",
+    "address": "21 TAMPINES STREET 92 #01-09/10 HERSING KITCHEN 528891",
+    "type": "Central Kitchen",
+    "number": "FPCK20240000145",
+    "scheme": "Food Preparation Area",
+    "id": "66db2c23-5c14-4f5f-a4e3-2f0fd1bed21d",
+    "postal": "528891"
+  },
+  {
     "name": "Levender Gourmet Pte Ltd",
     "address": "3015 BEDOK NORTH STREET 5 #04-12 SHIMEI EAST KITCHEN 486350",
     "type": "Catering Company",
@@ -32374,15 +32383,6 @@
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "211 HENDERSON ROAD #06-01/02/04 211 HENDERSON 159552",
-    "type": "Central Kitchen",
-    "number": "FPCN21120001631",
-    "scheme": "Food Preparation Area",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "159552"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
     "address": "10 ANSON ROAD #01-32 INTERNATIONAL PLAZA 079903",
     "type": "Restaurant",
     "number": "EERN21120013265",
@@ -33055,6 +33055,15 @@
     "scheme": "Eating Establishment",
     "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
     "postal": "229899"
+  },
+  {
+    "name": "THE COFFEE BEAN & TEA LEAF",
+    "address": "211 HENDERSON ROAD #06-01/02/04 211 HENDERSON 159552",
+    "type": "Central Kitchen",
+    "number": "FPCN21120001631",
+    "scheme": "Food Preparation Area",
+    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+    "postal": "159552"
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF BEANSTRO",

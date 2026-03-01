@@ -1,5 +1,29 @@
 [
   {
+    "timestamp": "2026-03-01T22:17:15.196907",
+    "date": "2026-03-01",
+    "summary": {
+      "new": 1,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "LEVENDER GOURMET COLLECTIVE",
+          "address": "21 TAMPINES STREET 92 #01-09/10 HERSING KITCHEN 528891",
+          "type": "Central Kitchen",
+          "number": "FPCK20240000145",
+          "scheme": "Food Preparation Area",
+          "id": "66db2c23-5c14-4f5f-a4e3-2f0fd1bed21d",
+          "postal": "528891"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-02-28T22:16:04.413299",
     "date": "2026-02-28",
     "summary": {
@@ -13446,39 +13470,6 @@
           "postal": "518457"
         }
       ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2025-12-27T22:16:23.270922",
-    "date": "2025-12-27",
-    "summary": {
-      "new": 2,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "NIKU IKU",
-          "address": "1 WOODLANDS SQUARE #B1-K13 CAUSEWAY POINT 738099",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB25120000069",
-          "scheme": "Eating Establishment",
-          "id": "64a228b0-7d2f-4fd7-8a87-e5df67b09ade",
-          "postal": "738099"
-        },
-        {
-          "name": "NIKU IKU",
-          "address": "302 TIONG BAHRU ROAD #B1-137 TIONG BAHRU PLAZA 168732",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB25120000068",
-          "scheme": "Eating Establishment",
-          "id": "64a228b0-7d2f-4fd7-8a87-e5df67b09ade",
-          "postal": "168732"
-        }
-      ],
-      "removed": [],
       "updated": []
     }
   }
