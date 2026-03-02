@@ -3447,6 +3447,15 @@
     "postal": "690127"
   },
   {
+    "name": "Better Baker",
+    "address": "201B TAMPINES STREET 21 #01-1075 522201",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26020000068",
+    "scheme": "Eating Establishment",
+    "id": "02c2a640-f53c-43c8-bb31-87e0d43fdf64",
+    "postal": "522201"
+  },
+  {
     "name": "BETTER BAKER",
     "address": "253 CHOA CHU KANG AVENUE 1 #B1-01 KEAT HONG SHOPPING CENTRE 680253",
     "type": "Snack Bar / Bakery",
@@ -17730,6 +17739,15 @@
     "postal": "627871"
   },
   {
+    "name": "Malay & Western Kitchen @ KKH (Mngd by Sodexo)",
+    "address": "100 BUKIT TIMAH ROAD KK WOMEN'S AND CHILDREN'S HOSPITAL, Basement 1, Women's Tower 229899",
+    "type": "Central Kitchen",
+    "number": "FPCX21120001638",
+    "scheme": "Food Preparation Area",
+    "id": "69c2dc77-1b3c-4254-b8fa-fceb7b46f2cf",
+    "postal": "229899"
+  },
+  {
     "name": "Malay & Western Section @ StraitsKitchen",
     "address": "10 SCOTTS ROAD #01 GRAND HYATT SINGAPORE, Malay & Western Section 228211",
     "type": "Food Station",
@@ -19276,6 +19294,15 @@
     "scheme": "Eating Establishment",
     "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
     "postal": "757713"
+  },
+  {
+    "name": "McDonald's",
+    "address": "511 CANBERRA ROAD #02-04 SEMBAWANG MART 750511",
+    "type": "Restaurant",
+    "number": "EERT26020000090",
+    "scheme": "Eating Establishment",
+    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+    "postal": "750511"
   },
   {
     "name": "McDonald's",
@@ -24535,15 +24562,6 @@
   },
   {
     "name": "Poke Theory",
-    "address": "68 PHOENIX ROAD #01-21 TEBAN PLACE 668202",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20220000150",
-    "scheme": "Eating Establishment",
-    "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
-    "postal": "668202"
-  },
-  {
-    "name": "Poke Theory",
     "address": "30 RAFFLES PLACE #01-18 CHANGE ALLEY MALL 048622",
     "type": "Restaurant",
     "number": "EERN21020012157",
@@ -24604,6 +24622,15 @@
     "scheme": "Eating Establishment",
     "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
     "postal": "189356"
+  },
+  {
+    "name": "Poke Theory",
+    "address": "68 PHOENIX ROAD #01-21 TEBAN PLACE 668202",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20220000150",
+    "scheme": "Eating Establishment",
+    "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
+    "postal": "668202"
   },
   {
     "name": "POLAR CAFE",

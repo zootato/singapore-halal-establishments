@@ -1,5 +1,47 @@
 [
   {
+    "timestamp": "2026-03-02T22:20:29.995073",
+    "date": "2026-03-02",
+    "summary": {
+      "new": 3,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "McDonald's",
+          "address": "511 CANBERRA ROAD #02-04 SEMBAWANG MART 750511",
+          "type": "Restaurant",
+          "number": "EERT26020000090",
+          "scheme": "Eating Establishment",
+          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+          "postal": "750511"
+        },
+        {
+          "name": "Malay & Western Kitchen @ KKH (Mngd by Sodexo)",
+          "address": "100 BUKIT TIMAH ROAD KK WOMEN'S AND CHILDREN'S HOSPITAL, Basement 1, Women's Tower 229899",
+          "type": "Central Kitchen",
+          "number": "FPCX21120001638",
+          "scheme": "Food Preparation Area",
+          "id": "69c2dc77-1b3c-4254-b8fa-fceb7b46f2cf",
+          "postal": "229899"
+        },
+        {
+          "name": "Better Baker",
+          "address": "201B TAMPINES STREET 21 #01-1075 522201",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26020000068",
+          "scheme": "Eating Establishment",
+          "id": "02c2a640-f53c-43c8-bb31-87e0d43fdf64",
+          "postal": "522201"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-03-01T22:17:15.196907",
     "date": "2026-03-01",
     "summary": {
@@ -13419,58 +13461,6 @@
           }
         }
       ]
-    }
-  },
-  {
-    "timestamp": "2025-12-29T22:17:01.842235",
-    "date": "2025-12-29",
-    "summary": {
-      "new": 3,
-      "removed": 1,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Double K (S7) @ KPT Woodlands",
-          "address": "515A WOODLANDS DRIVE 14 #01-181, STALL 7 731515",
-          "type": "Hawker",
-          "number": "EEHK20220000614",
-          "scheme": "Eating Establishment",
-          "id": "c7c11045-96ac-4082-a3da-19f4e6258415",
-          "postal": "731515"
-        },
-        {
-          "name": "Toast Junction",
-          "address": "1 PASIR PANJANG ROAD #02-07 LABRADOR TOWER, STALL 6, FOOD JUNCTION 118479",
-          "type": "Hawker",
-          "number": "EEHK25120000090",
-          "scheme": "Eating Establishment",
-          "id": "7e922a15-9a6d-476b-aad1-87794c044a35",
-          "postal": "118479"
-        },
-        {
-          "name": "Double K (S6) @ S11 Woodlands",
-          "address": "304 WOODLANDS STREET 31 #01-125 FUCHUN NEIGHBOURHOOD CENTRE, STALL 6 730304",
-          "type": "Hawker",
-          "number": "EEHK20220001019",
-          "scheme": "Eating Establishment",
-          "id": "bbc9d245-8fb2-4c42-a547-0791e51fe2f4",
-          "postal": "730304"
-        }
-      ],
-      "removed": [
-        {
-          "name": "PRIMADELI",
-          "address": "1 PASIR RIS CENTRAL STREET 3 #B1-K15 WHITE SANDS 518457",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20250000751",
-          "scheme": "Eating Establishment",
-          "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
-          "postal": "518457"
-        }
-      ],
-      "updated": []
     }
   }
 ]
