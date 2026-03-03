@@ -1,5 +1,237 @@
 [
   {
+    "timestamp": "2026-03-03T22:19:49.546244",
+    "date": "2026-03-03",
+    "summary": {
+      "new": 21,
+      "removed": 3,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Krispy Kreme Doughnuts",
+          "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #01-20 CHANGI CITY POINT 486038",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000006",
+          "scheme": "Eating Establishment",
+          "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
+          "postal": "486038"
+        },
+        {
+          "name": "Krispy Kreme Doughnuts",
+          "address": "2 TAMPINES CENTRAL 5 #B1-29 CENTURY SQUARE 529509",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21120013013",
+          "scheme": "Eating Establishment",
+          "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
+          "postal": "529509"
+        },
+        {
+          "name": "Krispy Kreme Doughnuts",
+          "address": "2 JURONG EAST STREET 21 #01-K06 IMM BUILDING 609601",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21100012880",
+          "scheme": "Eating Establishment",
+          "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
+          "postal": "609601"
+        },
+        {
+          "name": "Krispy Kreme Doughnuts",
+          "address": "65 AIRPORT BOULEVARD #02-93A CHANGI AIRPORT TERMINAL 3 819663",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220001001",
+          "scheme": "Eating Establishment",
+          "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
+          "postal": "819663"
+        },
+        {
+          "name": "Krispy Kreme Doughnuts",
+          "address": "1 HARBOURFRONT WALK #B2-K26 VIVOCITY 098585",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26020000129",
+          "scheme": "Eating Establishment",
+          "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
+          "postal": "098585"
+        },
+        {
+          "name": "Krispy Kreme Doughnuts",
+          "address": "200 VICTORIA STREET #B1-03B BUGIS JUNCTION 188021",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000132",
+          "scheme": "Eating Establishment",
+          "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
+          "postal": "188021"
+        },
+        {
+          "name": "Jiak Modern Tze Char",
+          "address": "4 HILLVIEW RISE #02-04 HILLV2 667979",
+          "type": "Restaurant",
+          "number": "EERN21110012968",
+          "scheme": "Eating Establishment",
+          "id": "3c079cf3-d658-43fb-a2cb-84bf022670c8",
+          "postal": "667979"
+        },
+        {
+          "name": "THE BLUE TIFFIN",
+          "address": "1 NETHERAVON ROAD #01-01 VILLAGE HOTEL CHANGI 508502",
+          "type": "Restaurant",
+          "number": "EERT20240001297",
+          "scheme": "Eating Establishment",
+          "id": "c6348bf6-3615-40ea-811a-2871553ef73b",
+          "postal": "508502"
+        },
+        {
+          "name": "Tenderbest",
+          "address": "888 WOODLANDS DRIVE 50 #01-733 888 PLAZA, Stall 9 730888",
+          "type": "Hawker",
+          "number": "EEHN21060012452",
+          "scheme": "Eating Establishment",
+          "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
+          "postal": "730888"
+        },
+        {
+          "name": "Krispy Kreme Doughnuts",
+          "address": "78 AIRPORT BOULEVARD #B2-270 JEWEL CHANGI AIRPORT 819666",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26020000130",
+          "scheme": "Eating Establishment",
+          "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
+          "postal": "819666"
+        },
+        {
+          "name": "IndoChili",
+          "address": "54 ZION ROAD 247779",
+          "type": "Restaurant",
+          "number": "EERT26010000133",
+          "scheme": "Eating Establishment",
+          "id": "20382466-0e7d-4a53-9f37-ec7a5fc2fa40",
+          "postal": "247779"
+        },
+        {
+          "name": "Krispy Kreme Doughnuts",
+          "address": "1 SENGKANG SQUARE #01-46 COMPASS ONE 545078",
+          "type": "Restaurant",
+          "number": "EERT20230000102",
+          "scheme": "Eating Establishment",
+          "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
+          "postal": "545078"
+        },
+        {
+          "name": "Krispy Kreme Doughnuts",
+          "address": "23 SERANGOON CENTRAL #03-K13 NEX 556083",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000005",
+          "scheme": "Eating Establishment",
+          "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
+          "postal": "556083"
+        },
+        {
+          "name": "Krispy Kreme Doughnuts",
+          "address": "230 Pandan Loop #04-01 Lim Chee Guan Food Industries Building 128415",
+          "type": "Central Kitchen",
+          "number": "FPCN21100001601",
+          "scheme": "Food Preparation Area",
+          "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
+          "postal": "128415"
+        },
+        {
+          "name": "Krispy Kreme Doughnuts",
+          "address": "1 KIM SENG PROMENADE #B1-K110 GREAT WORLD CITY 237994",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21070012609",
+          "scheme": "Eating Establishment",
+          "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
+          "postal": "237994"
+        },
+        {
+          "name": "Krispy Kreme Doughnuts",
+          "address": "17 PETIR ROAD #b1-45a HILLION MALL 678278",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000007",
+          "scheme": "Eating Establishment",
+          "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
+          "postal": "678278"
+        },
+        {
+          "name": "Krispy Kreme Doughnuts",
+          "address": "290 ORCHARD ROAD #B1-K7 THE PARAGON 238859",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21070012610",
+          "scheme": "Eating Establishment",
+          "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
+          "postal": "238859"
+        },
+        {
+          "name": "ANAS BAKERY",
+          "address": "84 REDHILL LANE #01-358 150084",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26020000092",
+          "scheme": "Eating Establishment",
+          "id": "730fd850-bdfe-44de-b7bd-904c2a1c9fc5",
+          "postal": "150084"
+        },
+        {
+          "name": "Please advise if this is the right template or that we should forward using the old template",
+          "address": "3 TEMASEK BOULEVARD #01-419/420 SUNTEC CITY MALL, TOWER 5 038983",
+          "type": "Restaurant",
+          "number": "EERN21100012909",
+          "scheme": "Eating Establishment",
+          "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
+          "postal": "038983"
+        },
+        {
+          "name": "Krispy Kreme Doughnuts",
+          "address": "1 NORTHPOINT DRIVE #01-133A NORTHPOINT CITY, (part right) 768019",
+          "type": "Restaurant",
+          "number": "EERN21100012910",
+          "scheme": "Eating Establishment",
+          "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
+          "postal": "768019"
+        },
+        {
+          "name": "Krispy Kreme Doughnuts",
+          "address": "53 ANG MO KIO AVENUE 3 #01-35A AMK HUB 569933",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000004",
+          "scheme": "Eating Establishment",
+          "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
+          "postal": "569933"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Indo 6 Express (S2) @ BaoBao Foodcourt Lucky Plaza",
+          "address": "Bazaar Geylang KBRI-SG, 1 ENGKU AMAN TURN PPIS FAMILY SERVICE CENTRE (EAST), 136 408528",
+          "type": "Short Term Stall(Bazaar/Road Shows)",
+          "number": "EEST26020000050",
+          "scheme": "Eating Establishment",
+          "id": "4645832b-2c00-4c86-8bd6-3e54932c7d87",
+          "postal": "408528"
+        },
+        {
+          "name": "PARIS VAN JAVA PTE. LTD.",
+          "address": "25 HARPER ROAD #06-03 HARPER POINT 369683",
+          "type": "Central Kitchen",
+          "number": "FPCK20250000218",
+          "scheme": "Food Preparation Area",
+          "id": "28790b19-2cca-4f56-b512-4938420109d5",
+          "postal": "369683"
+        },
+        {
+          "name": "Srisun Express",
+          "address": "132 BUKIT BATOK WEST AVENUE 6 #01-308, part of 650132",
+          "type": "Restaurant",
+          "number": "EERX21040012272",
+          "scheme": "Eating Establishment",
+          "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
+          "postal": "650132"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-03-02T22:20:29.995073",
     "date": "2026-03-02",
     "summary": {
@@ -13235,229 +13467,6 @@
             "scheme": "Eating Establishment",
             "id": "e1eb4468-e706-4f99-bbf2-2603b062790c",
             "postal": "738099"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2025-12-30T22:17:02.522647",
-    "date": "2025-12-30",
-    "summary": {
-      "new": 11,
-      "removed": 3,
-      "updated": 4
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Sinaran Chicken Rice (S4) @ LW Eating House",
-          "address": "26 TECK WHYE LANE #01-170, STALL 4 680026",
-          "type": "Hawker",
-          "number": "EEHX21050012403",
-          "scheme": "Eating Establishment",
-          "id": "a7f452ae-3460-4fd3-aee2-8a8a54132958",
-          "postal": "680026"
-        },
-        {
-          "name": "Meat Preparation @ dnata Singapore Pte Ltd",
-          "address": "50 AIRPORT BOULEVARD, Meat preparation 819658",
-          "type": "Central Kitchen",
-          "number": "FPCN21070001557",
-          "scheme": "Food Preparation Area",
-          "id": "3c1e9ce7-90d3-4ec1-9aa8-700c67f9b803",
-          "postal": "819658"
-        },
-        {
-          "name": "Boleh! Boleh! Indonesian Nasi Padang",
-          "address": "4 WOODLANDS STREET 12 STALL 70 MARSILING MALL HAWKER CENTRE #01-70 738623",
-          "type": "Hawker",
-          "number": "EEHK25120000103",
-          "scheme": "Eating Establishment",
-          "id": "2847210e-285e-48bc-bfaa-ab984268439b",
-          "postal": "738623"
-        },
-        {
-          "name": "Sinaran Seafood(S3) @ LW Eating House",
-          "address": "26 TECK WHYE LANE #01-170, STALL 3 680026",
-          "type": "Hawker",
-          "number": "EEHN21090012660",
-          "scheme": "Eating Establishment",
-          "id": "7004a968-a678-4a6f-981a-ad2b763ef095",
-          "postal": "680026"
-        },
-        {
-          "name": "Khun Thai",
-          "address": "30 WOODLANDS AVENUE 2 #01-23 WOODLANDS MRT STATION (PART RIGHT) 738343",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB25120000104",
-          "scheme": "Eating Establishment",
-          "id": "ec143ea2-ab7a-4f2f-aaa1-65414d427c97",
-          "postal": "738343"
-        },
-        {
-          "name": "Kin Aroy Thai Food (S6&S7) @Satay By The Bay",
-          "address": "18 MARINA GARDENS DRIVE #01-19 GARDENS BY THE BAY, Stall 6 & 7 018953",
-          "type": "Hawker",
-          "number": "EEHN21120013027",
-          "scheme": "Eating Establishment",
-          "id": "a64a577b-a4c0-401d-9b12-e0bcecb27607",
-          "postal": "018953"
-        },
-        {
-          "name": "Geylang Serai Satay Pte Ltd @ Satay By The Bay",
-          "address": "18 MARINA GARDENS DRIVE #01-19 (Cart 6) GARDENS BY THE BAY 018953",
-          "type": "Hawker",
-          "number": "EEHN21120013032",
-          "scheme": "Eating Establishment",
-          "id": "b81ca58d-10b7-40cc-8972-97593a276076",
-          "postal": "018953"
-        },
-        {
-          "name": "Hot / Cold Kitchen @ dnata Singapore Pte Ltd",
-          "address": "50 AIRPORT BOULEVARD, Hot/Cold Kitchen 819658",
-          "type": "Central Kitchen",
-          "number": "FPCN21070001559",
-          "scheme": "Food Preparation Area",
-          "id": "6eda1419-0770-4be8-96ec-b1a6c296d110",
-          "postal": "819658"
-        },
-        {
-          "name": "Bakery / Pastry @ dnata Singapore Pte Ltd",
-          "address": "50 AIRPORT BOULEVARD 819658",
-          "type": "Central Kitchen",
-          "number": "FPCN21070001560",
-          "scheme": "Food Preparation Area",
-          "id": "f145f26e-cbaa-4592-8414-eae3cedc8497",
-          "postal": "819658"
-        },
-        {
-          "name": "Veg Preparation @ dnata Singapore Pte Ltd",
-          "address": "50 AIRPORT BOULEVARD, Veg Preparation 819658",
-          "type": "Central Kitchen",
-          "number": "FPCN21070001558",
-          "scheme": "Food Preparation Area",
-          "id": "0b0e0dab-5c7f-41a1-bab7-3817e7cec3df",
-          "postal": "819658"
-        },
-        {
-          "name": "Hong Kong Street Live BBQ Seafood (MR6)@Kopitiam Lau Pa Sat",
-          "address": "18 RAFFLES QUAY TELOK AYER FESTIVAL MARKET, Stall 51 to 53 048582",
-          "type": "Hawker",
-          "number": "EEHK20240000548",
-          "scheme": "Eating Establishment",
-          "id": "d7b5f38f-ab08-4f2e-a113-dce2f59b8bd4",
-          "postal": "048582"
-        }
-      ],
-      "removed": [
-        {
-          "name": "McDonald's",
-          "address": "1 KIM SENG PROMENADE #01-124 GREAT WORLD CITY 237994",
-          "type": "Restaurant",
-          "number": "EERN20020011059",
-          "scheme": "Eating Establishment",
-          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-          "postal": "237994"
-        },
-        {
-          "name": "McDonald's",
-          "address": "4 BUKIT BATOK STREET 41 #01-42-45/50-54 LE QUEST 657991",
-          "type": "Restaurant",
-          "number": "EERN21010011971",
-          "scheme": "Eating Establishment",
-          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-          "postal": "657991"
-        },
-        {
-          "name": "Sanook Kitchen",
-          "address": "17 Petir Road #01-17/18 Hillion Mall 678278",
-          "type": "Restaurant",
-          "number": "EERT20230000517",
-          "scheme": "Eating Establishment",
-          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-          "postal": "678278"
-        }
-      ],
-      "updated": [
-        {
-          "previous": {
-            "name": "MR BEAN",
-            "address": "1 HOSPITAL CRESCENT #01 SINGAPORE GENERAL HOSPITAL,Block 4 169608",
-            "type": "Snack Bar / Bakery",
-            "number": "EESB20220000203",
-            "scheme": "Eating Establishment",
-            "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
-            "postal": "169608"
-          },
-          "current": {
-            "name": "MR BEAN",
-            "address": "1 HOSPITAL CRESCENT #01 SINGAPORE GENERAL HOSPITAL, Block 4 169608",
-            "type": "Snack Bar / Bakery",
-            "number": "EESB20220000203",
-            "scheme": "Eating Establishment",
-            "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
-            "postal": "169608"
-          }
-        },
-        {
-          "previous": {
-            "name": "MR BEAN",
-            "address": "30 PAYA LEBAR ROAD #01-09 PAYA LEBAR MRT STATION 409006",
-            "type": "Snack Bar / Bakery",
-            "number": "EESB20220000193",
-            "scheme": "Eating Establishment",
-            "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
-            "postal": "409006"
-          },
-          "current": {
-            "name": "No Virtual Brand at present",
-            "address": "30 PAYA LEBAR ROAD #01-09 PAYA LEBAR MRT STATION 409006",
-            "type": "Snack Bar / Bakery",
-            "number": "EESB20220000193",
-            "scheme": "Eating Establishment",
-            "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
-            "postal": "409006"
-          }
-        },
-        {
-          "previous": {
-            "name": "Pastamania",
-            "address": "1 WOODLANDS SQUARE #B1-20 CAUSEWAY POINT 738099",
-            "type": "Restaurant",
-            "number": "EERN22010013377",
-            "scheme": "Eating Establishment",
-            "id": "e1eb4468-e706-4f99-bbf2-2603b062790c",
-            "postal": "738099"
-          },
-          "current": {
-            "name": "Wicked WIngs",
-            "address": "1 WOODLANDS SQUARE #B1-20 CAUSEWAY POINT 738099",
-            "type": "Restaurant",
-            "number": "EERN22010013377",
-            "scheme": "Eating Establishment",
-            "id": "e1eb4468-e706-4f99-bbf2-2603b062790c",
-            "postal": "738099"
-          }
-        },
-        {
-          "previous": {
-            "name": "MR BEAN",
-            "address": "5 RAFFLES PLACE #B1-10 RAFFLES PLACE MRT STATION 048618",
-            "type": "Snack Bar / Bakery",
-            "number": "EESB20220000199",
-            "scheme": "Eating Establishment",
-            "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
-            "postal": "048618"
-          },
-          "current": {
-            "name": "No Virtual Brand at present",
-            "address": "5 RAFFLES PLACE #B1-10 RAFFLES PLACE MRT STATION 048618",
-            "type": "Snack Bar / Bakery",
-            "number": "EESB20220000199",
-            "scheme": "Eating Establishment",
-            "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
-            "postal": "048618"
           }
         }
       ]
