@@ -1846,6 +1846,15 @@
   },
   {
     "name": "ANNA'S X UNION THESOUPSPOON",
+    "address": "88 PUNGGOL WAY #01-130 PUNGGOL COAST MALL 829913",
+    "type": "Restaurant",
+    "number": "EERT26020000073",
+    "scheme": "Eating Establishment",
+    "id": "5f6d6e58-89ea-408e-bc24-065b966d22ff",
+    "postal": "829913"
+  },
+  {
+    "name": "ANNA'S X UNION THESOUPSPOON",
     "address": "12 KENT RIDGE CRESCENT #01-03 CENTRAL LIBRARY 119275",
     "type": "Restaurant",
     "number": "EERT20240000543",
@@ -4654,15 +4663,6 @@
   },
   {
     "name": "BURGER KING",
-    "address": "1 HARBOURFRONT WALK #B2-41/56 VIVOCITY 098585",
-    "type": "Restaurant",
-    "number": "EERT25120000009",
-    "scheme": "Eating Establishment",
-    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
-    "postal": "098585"
-  },
-  {
-    "name": "BURGER KING",
     "address": "460 ALEXANDRA ROAD #01-17/20 ALEXANDRA RETAIL CENTER 119963",
     "type": "Restaurant",
     "number": "EERN20030011327",
@@ -4759,6 +4759,15 @@
     "scheme": "Eating Establishment",
     "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
     "postal": "819663"
+  },
+  {
+    "name": "BURGER KING",
+    "address": "1 HARBOURFRONT WALK #B2-41/56 VIVOCITY 098585",
+    "type": "Restaurant",
+    "number": "EERT25120000009",
+    "scheme": "Eating Establishment",
+    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+    "postal": "098585"
   },
   {
     "name": "BURGER KING",
@@ -8416,15 +8425,6 @@
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
-    "address": "202 Jurong East Street 21 #01-115 600202",
-    "type": "Restaurant",
-    "number": "EERN21060012530",
-    "scheme": "Eating Establishment",
-    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
-    "postal": "600202"
-  },
-  {
-    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
     "address": "1 HILLVIEW RISE #01-03 667970",
     "type": "Restaurant",
     "number": "EERN21060012528",
@@ -8521,6 +8521,15 @@
     "scheme": "Eating Establishment",
     "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
     "postal": "629117"
+  },
+  {
+    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+    "address": "202 Jurong East Street 21 #01-115 600202",
+    "type": "Restaurant",
+    "number": "EERN21060012530",
+    "scheme": "Eating Establishment",
+    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+    "postal": "600202"
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
@@ -10873,7 +10882,7 @@
   },
   {
     "name": "Fortune Popiah",
-    "address": "1 KADAYANALLUR STREET #101, Stall 2 069184",
+    "address": "1 KADAYANALLUR STREET, STALL 101, MAXWELL FOOD CENTRE 069184",
     "type": "Hawker",
     "number": "EEHK20250000279",
     "scheme": "Eating Establishment",
@@ -16587,6 +16596,15 @@
     "postal": "520820"
   },
   {
+    "name": "Krispy Kreme",
+    "address": "3155 Commonwealth Ave West #B1-K24 The Clementi Mall 129588",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN21120013061",
+    "scheme": "Eating Establishment",
+    "id": "41e28923-da0e-461d-bbe3-b7f0050c2bee",
+    "postal": "129588"
+  },
+  {
     "name": "Krispy Kreme Doughnuts",
     "address": "1 SENGKANG SQUARE #01-46 COMPASS ONE 545078",
     "type": "Restaurant",
@@ -19150,15 +19168,6 @@
     "scheme": "Eating Establishment",
     "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
     "postal": "610399"
-  },
-  {
-    "name": "McDonald's",
-    "address": "17 Petir Road #B1-25-27 Hillion Mall 678278",
-    "type": "Restaurant",
-    "number": "EERN20020010962",
-    "scheme": "Eating Establishment",
-    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-    "postal": "678278"
   },
   {
     "name": "McDonald's",
@@ -24184,15 +24193,6 @@
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
-    "address": "3 YUAN CHING ROAD #01-03 JURONG LEISURE COMPLEX 618642",
-    "type": "Restaurant",
-    "number": "EERN21080012794",
-    "scheme": "Eating Establishment",
-    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
-    "postal": "618642"
-  },
-  {
-    "name": "PIZZA HUT SINGAPORE PTE LTD",
     "address": "1 SENGKANG SQUARE #B1-15 SENGKANG MALL (1SM) 545078",
     "type": "Restaurant",
     "number": "EERN21080012769",
@@ -24415,6 +24415,15 @@
     "scheme": "Eating Establishment",
     "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
     "postal": "677743"
+  },
+  {
+    "name": "PIZZA HUT SINGAPORE PTE LTD",
+    "address": "3 YUAN CHING ROAD #01-03 JURONG LEISURE COMPLEX 618642",
+    "type": "Restaurant",
+    "number": "EERN21080012794",
+    "scheme": "Eating Establishment",
+    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
+    "postal": "618642"
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
@@ -32452,6 +32461,15 @@
     "scheme": "Eating Establishment",
     "id": "ec319ee1-0242-48ef-934d-87f3d6e7e85f",
     "postal": "737913"
+  },
+  {
+    "name": "The Asli Malaysia",
+    "address": "5 CHANGI VILLAGE ROAD #01-2051 500005",
+    "type": "Restaurant",
+    "number": "EERT20250000148",
+    "scheme": "Eating Establishment",
+    "id": "f3391d0d-21f0-40ac-bd7e-bf722ee6074a",
+    "postal": "500005"
   },
   {
     "name": "THE BLUE TIFFIN",
