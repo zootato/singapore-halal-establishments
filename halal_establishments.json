@@ -82,7 +82,7 @@
   },
   {
     "name": "13 Miles",
-    "address": "749/751 NORTH BRIDGE ROAD #01 NIL 198717",
+    "address": "749/751 NORTH BRIDGE ROAD #01 198717",
     "type": "Restaurant",
     "number": "EERT20250000318",
     "scheme": "Eating Establishment",
@@ -14041,7 +14041,7 @@
   },
   {
     "name": "INDOCREATION FOODS PTE LTD",
-    "address": "2 MANDAI LINK #04-06 NIL 728664",
+    "address": "2 MANDAI LINK #04-06 728664",
     "type": "Central Kitchen",
     "number": "FPCK20250000315",
     "scheme": "Food Preparation Area",
@@ -18460,7 +18460,7 @@
   },
   {
     "name": "Master Prata Express",
-    "address": "59 NEW UPPER CHANGI ROAD #01-1272 NIL 461059",
+    "address": "59 NEW UPPER CHANGI ROAD #01-1272 461059",
     "type": "Restaurant",
     "number": "EERT20250000331",
     "scheme": "Eating Establishment",
@@ -24562,6 +24562,15 @@
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
+    "address": "1 ANTHONY ROAD #01-02 CAIRNHILL COMMUNITY CLUB 229944",
+    "type": "Restaurant",
+    "number": "EERT26020000080",
+    "scheme": "Eating Establishment",
+    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
+    "postal": "229944"
+  },
+  {
+    "name": "PIZZA HUT SINGAPORE PTE LTD",
     "address": "529 ANG MO KIO AVENUE 10 #01-2349 CHENG SAN CENTRE 560529",
     "type": "Snack Bar / Bakery",
     "number": "EEBN21080012654",
@@ -24658,6 +24667,15 @@
     "scheme": "Eating Establishment",
     "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
     "postal": "820168"
+  },
+  {
+    "name": "PIZZA HUT SINGAPORE PTE LTD",
+    "address": "829 TAMPINES STREET 81 #01-284 TAMPINES GROVE 520829",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26020000081",
+    "scheme": "Eating Establishment",
+    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
+    "postal": "520829"
   },
   {
     "name": "PIZZA KITA",
@@ -25090,6 +25108,42 @@
     "scheme": "Eating Establishment",
     "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
     "postal": "367803"
+  },
+  {
+    "name": "POLAR PUFFS & CAKES",
+    "address": "31 JURONG WEST STREET 63 #02-07 PIONEER MRT STATION (EW28) 648310",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26020000062",
+    "scheme": "Eating Establishment",
+    "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+    "postal": "648310"
+  },
+  {
+    "name": "POLAR PUFFS & CAKES",
+    "address": "10 PAYA LEBAR ROAD #B2-K6 PAYA LEBAR QUARTER 409057",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26020000063",
+    "scheme": "Eating Establishment",
+    "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+    "postal": "409057"
+  },
+  {
+    "name": "POLAR PUFFS & CAKES",
+    "address": "1 MANDALAY ROAD #01-00 NATIONAL SKIN CENTRE 308205",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26020000064",
+    "scheme": "Eating Establishment",
+    "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+    "postal": "308205"
+  },
+  {
+    "name": "POLAR PUFFS & CAKES",
+    "address": "50 KALLANG ROAD #B1-02 LAVENDER MRT STATION (EW11) 208699",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26020000065",
+    "scheme": "Eating Establishment",
+    "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+    "postal": "208699"
   },
   {
     "name": "POLAR PUFFS & CAKES",
@@ -27118,7 +27172,7 @@
   },
   {
     "name": "Sats Food Services Pte Ltd",
-    "address": "234 PANDAN LOOP NIL 128422",
+    "address": "234 PANDAN LOOP 128422",
     "type": "Catering Company",
     "number": "FPGN21040001532",
     "scheme": "Food Preparation Area",
@@ -31984,6 +32038,15 @@
     "scheme": "Eating Establishment",
     "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
     "postal": "530703"
+  },
+  {
+    "name": "Tenderbest",
+    "address": "110 YISHUN RING ROAD Stall 8 #01-401 KIMLY COFFEESHOP YISHUN RING ROAD 760110",
+    "type": "Hawker",
+    "number": "EEHK26020000072",
+    "scheme": "Eating Establishment",
+    "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
+    "postal": "760110"
   },
   {
     "name": "Tenderbest",

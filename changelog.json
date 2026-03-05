@@ -1,5 +1,164 @@
 [
   {
+    "timestamp": "2026-03-05T22:20:14.089017",
+    "date": "2026-03-05",
+    "summary": {
+      "new": 7,
+      "removed": 0,
+      "updated": 4
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "PIZZA HUT SINGAPORE PTE LTD",
+          "address": "829 TAMPINES STREET 81 #01-284 TAMPINES GROVE 520829",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26020000081",
+          "scheme": "Eating Establishment",
+          "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
+          "postal": "520829"
+        },
+        {
+          "name": "PIZZA HUT SINGAPORE PTE LTD",
+          "address": "1 ANTHONY ROAD #01-02 CAIRNHILL COMMUNITY CLUB 229944",
+          "type": "Restaurant",
+          "number": "EERT26020000080",
+          "scheme": "Eating Establishment",
+          "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
+          "postal": "229944"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "10 PAYA LEBAR ROAD #B2-K6 PAYA LEBAR QUARTER 409057",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26020000063",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "409057"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "1 MANDALAY ROAD #01-00 NATIONAL SKIN CENTRE 308205",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26020000064",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "308205"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "50 KALLANG ROAD #B1-02 LAVENDER MRT STATION (EW11) 208699",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26020000065",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "208699"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "31 JURONG WEST STREET 63 #02-07 PIONEER MRT STATION (EW28) 648310",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26020000062",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "648310"
+        },
+        {
+          "name": "Tenderbest",
+          "address": "110 YISHUN RING ROAD Stall 8 #01-401 KIMLY COFFEESHOP YISHUN RING ROAD 760110",
+          "type": "Hawker",
+          "number": "EEHK26020000072",
+          "scheme": "Eating Establishment",
+          "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
+          "postal": "760110"
+        }
+      ],
+      "removed": [],
+      "updated": [
+        {
+          "previous": {
+            "name": "INDOCREATION FOODS PTE LTD",
+            "address": "2 MANDAI LINK #04-06 NIL 728664",
+            "type": "Central Kitchen",
+            "number": "FPCK20250000315",
+            "scheme": "Food Preparation Area",
+            "id": "888d6463-c4ef-43f5-84ab-8f4ab0ae75ed",
+            "postal": "728664"
+          },
+          "current": {
+            "name": "INDOCREATION FOODS PTE LTD",
+            "address": "2 MANDAI LINK #04-06 728664",
+            "type": "Central Kitchen",
+            "number": "FPCK20250000315",
+            "scheme": "Food Preparation Area",
+            "id": "888d6463-c4ef-43f5-84ab-8f4ab0ae75ed",
+            "postal": "728664"
+          }
+        },
+        {
+          "previous": {
+            "name": "Master Prata Express",
+            "address": "59 NEW UPPER CHANGI ROAD #01-1272 NIL 461059",
+            "type": "Restaurant",
+            "number": "EERT20250000331",
+            "scheme": "Eating Establishment",
+            "id": "24cc02d0-14b0-470f-a5b1-1500fd10d304",
+            "postal": "461059"
+          },
+          "current": {
+            "name": "Master Prata Express",
+            "address": "59 NEW UPPER CHANGI ROAD #01-1272 461059",
+            "type": "Restaurant",
+            "number": "EERT20250000331",
+            "scheme": "Eating Establishment",
+            "id": "24cc02d0-14b0-470f-a5b1-1500fd10d304",
+            "postal": "461059"
+          }
+        },
+        {
+          "previous": {
+            "name": "13 Miles",
+            "address": "749/751 NORTH BRIDGE ROAD #01 NIL 198717",
+            "type": "Restaurant",
+            "number": "EERT20250000318",
+            "scheme": "Eating Establishment",
+            "id": "292c3360-3744-45a1-80e7-6a75a4cda694",
+            "postal": "198717"
+          },
+          "current": {
+            "name": "13 Miles",
+            "address": "749/751 NORTH BRIDGE ROAD #01 198717",
+            "type": "Restaurant",
+            "number": "EERT20250000318",
+            "scheme": "Eating Establishment",
+            "id": "292c3360-3744-45a1-80e7-6a75a4cda694",
+            "postal": "198717"
+          }
+        },
+        {
+          "previous": {
+            "name": "Sats Food Services Pte Ltd",
+            "address": "234 PANDAN LOOP NIL 128422",
+            "type": "Catering Company",
+            "number": "FPGN21040001532",
+            "scheme": "Food Preparation Area",
+            "id": "6a8de3e6-6a5e-40ee-ade4-68626c0e8c6a",
+            "postal": "128422"
+          },
+          "current": {
+            "name": "Sats Food Services Pte Ltd",
+            "address": "234 PANDAN LOOP 128422",
+            "type": "Catering Company",
+            "number": "FPGN21040001532",
+            "scheme": "Food Preparation Area",
+            "id": "6a8de3e6-6a5e-40ee-ade4-68626c0e8c6a",
+            "postal": "128422"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-03-04T22:20:57.031081",
     "date": "2026-03-04",
     "summary": {
@@ -9710,30 +9869,6 @@
           "postal": "828761"
         }
       ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-01-01T22:16:49.005437",
-    "date": "2026-01-01",
-    "summary": {
-      "new": 1,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Beradik (S9) @ Kopitiam AMK HUB",
-          "address": "53 ANG MO KIO AVENUE 3 #03-12 AMK HUB, Stall 9 569933",
-          "type": "Hawker",
-          "number": "EEHK20240000435",
-          "scheme": "Eating Establishment",
-          "id": "ee6b122f-6ab2-4f71-88dc-2aae593db4f4",
-          "postal": "569933"
-        }
-      ],
-      "removed": [],
       "updated": []
     }
   }
