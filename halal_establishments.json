@@ -7290,6 +7290,15 @@
     "postal": "768019"
   },
   {
+    "name": "CRUNCHI PUFF & SNACK",
+    "address": "90 WHAMPOA DRIVE #01-69 WHAMPOA DRIVE MAKAN PLACE 320090",
+    "type": "Hawker",
+    "number": "EEHK26030000006",
+    "scheme": "Eating Establishment",
+    "id": "9a34443e-d495-4852-b3f9-a71a5d3ad073",
+    "postal": "320090"
+  },
+  {
     "name": "Cuisine Lover Fish Soup Ban Mian (S6) @ Koufu KKWCH",
     "address": "100 BUKIT TIMAH ROAD #01-28 KK WOMEN's AND CHILDREN's HOSPITAL, Stall 6 229899",
     "type": "Hawker",
@@ -17944,6 +17953,15 @@
     "scheme": "Eating Establishment",
     "id": "6f03d82f-a803-4c83-b0b4-52a85079cae3",
     "postal": "138613"
+  },
+  {
+    "name": "Malay Cuisine @ Schlumberger (Mngd By The Wok People)",
+    "address": "7 BENOI CRESCENT #First Storey 629971",
+    "type": "Staff Canteen",
+    "number": "EEFN21100012542",
+    "scheme": "Eating Establishment",
+    "id": "8a707f82-ce45-4de1-a0ee-581b90f2ee03",
+    "postal": "629971"
   },
   {
     "name": "Malay Cuisine @ Sky Cafe Infineon (mngd by Wok People)",
@@ -31914,6 +31932,24 @@
     "postal": "198900"
   },
   {
+    "name": "TASTE OF INDIA RESTAURANT PTE. LTD.",
+    "address": "77 RANGOON ROAD #01-01 218365",
+    "type": "Restaurant",
+    "number": "EERN22010013364",
+    "scheme": "Eating Establishment",
+    "id": "adf5877d-aa77-40b7-94fc-c78b66729fa5",
+    "postal": "218365"
+  },
+  {
+    "name": "TASTE OF INDIA RESTAURANT PTE. LTD.",
+    "address": "77 RANGOON ROAD #01-01 218365",
+    "type": "Catering Company",
+    "number": "FPGN22010001637",
+    "scheme": "Food Preparation Area",
+    "id": "adf5877d-aa77-40b7-94fc-c78b66729fa5",
+    "postal": "218365"
+  },
+  {
     "name": "TASTE OF INDONESIA",
     "address": "60 PAYA LEBAR ROAD #B1-29/30/31 PAYA LEBAR SQUARE 409051",
     "type": "Restaurant",
@@ -32644,15 +32680,6 @@
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "11 RESEARCH LINK #01-02,National University Singapore (NUS) COM 3 119391",
-    "type": "Restaurant",
-    "number": "EERT20220001074",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "119391"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
     "address": "10 ANSON ROAD #01-32 INTERNATIONAL PLAZA 079903",
     "type": "Restaurant",
     "number": "EERN21120013265",
@@ -33127,6 +33154,15 @@
     "scheme": "Eating Establishment",
     "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
     "postal": "819665"
+  },
+  {
+    "name": "THE COFFEE BEAN & TEA LEAF",
+    "address": "11 RESEARCH LINK #01-02,National University Singapore (NUS) COM 3 119391",
+    "type": "Restaurant",
+    "number": "EERT20220001074",
+    "scheme": "Eating Establishment",
+    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+    "postal": "119391"
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",

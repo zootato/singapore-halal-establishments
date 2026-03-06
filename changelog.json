@@ -1,5 +1,56 @@
 [
   {
+    "timestamp": "2026-03-06T22:19:18.259619",
+    "date": "2026-03-06",
+    "summary": {
+      "new": 4,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "TASTE OF INDIA RESTAURANT PTE. LTD.",
+          "address": "77 RANGOON ROAD #01-01 218365",
+          "type": "Catering Company",
+          "number": "FPGN22010001637",
+          "scheme": "Food Preparation Area",
+          "id": "adf5877d-aa77-40b7-94fc-c78b66729fa5",
+          "postal": "218365"
+        },
+        {
+          "name": "CRUNCHI PUFF & SNACK",
+          "address": "90 WHAMPOA DRIVE #01-69 WHAMPOA DRIVE MAKAN PLACE 320090",
+          "type": "Hawker",
+          "number": "EEHK26030000006",
+          "scheme": "Eating Establishment",
+          "id": "9a34443e-d495-4852-b3f9-a71a5d3ad073",
+          "postal": "320090"
+        },
+        {
+          "name": "TASTE OF INDIA RESTAURANT PTE. LTD.",
+          "address": "77 RANGOON ROAD #01-01 218365",
+          "type": "Restaurant",
+          "number": "EERN22010013364",
+          "scheme": "Eating Establishment",
+          "id": "adf5877d-aa77-40b7-94fc-c78b66729fa5",
+          "postal": "218365"
+        },
+        {
+          "name": "Malay Cuisine @ Schlumberger (Mngd By The Wok People)",
+          "address": "7 BENOI CRESCENT #First Storey 629971",
+          "type": "Staff Canteen",
+          "number": "EEFN21100012542",
+          "scheme": "Eating Establishment",
+          "id": "8a707f82-ce45-4de1-a0ee-581b90f2ee03",
+          "postal": "629971"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-03-05T22:20:14.089017",
     "date": "2026-03-05",
     "summary": {
@@ -9716,157 +9767,6 @@
           "scheme": "Eating Establishment",
           "id": "e1eb4468-e706-4f99-bbf2-2603b062790c",
           "postal": "658713"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-01-05T22:17:07.714753",
-    "date": "2026-01-05",
-    "summary": {
-      "new": 14,
-      "removed": 1,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "YOSHINOYA",
-          "address": "2 YISHUN WALK #01-07 Hometeam NS Khatib 767944",
-          "type": "Restaurant",
-          "number": "EERT20240001204",
-          "scheme": "Eating Establishment",
-          "id": "b3f7acc2-ed44-4e1d-be2f-ddfd176c2011",
-          "postal": "767944"
-        },
-        {
-          "name": "CAFE SANTAI BY ENAK ENAK",
-          "address": "1110 EAST COAST PARKWAY #01-03, #01-04 Goldkist Beach Resort 449880",
-          "type": "Restaurant",
-          "number": "EERT25120000107",
-          "scheme": "Eating Establishment",
-          "id": "ad7594e5-7560-485e-a754-f0596c4af8ef",
-          "postal": "449880"
-        },
-        {
-          "name": "Geylang Food Corner Pte Ltd",
-          "address": "269 GEYLANG ROAD #1st Storey GEYLANG CONSERVATION AREA 389323",
-          "type": "Restaurant",
-          "number": "EERT25120000109",
-          "scheme": "Eating Establishment",
-          "id": "d0b54507-0782-4532-af1c-2ff1e11944ff",
-          "postal": "389323"
-        },
-        {
-          "name": "YOSHINOYA",
-          "address": "370 ALEXANDRA ROAD #01-01A ANCHORPOINT SHOPPING CENTRE 159953",
-          "type": "Restaurant",
-          "number": "EERT25120000106",
-          "scheme": "Eating Establishment",
-          "id": "b3f7acc2-ed44-4e1d-be2f-ddfd176c2011",
-          "postal": "159953"
-        },
-        {
-          "name": "YOSHINOYA",
-          "address": "1 SENGKANG SQUARE #01-35 COMPASS ONE 545078",
-          "type": "Restaurant",
-          "number": "EERT20240001206",
-          "scheme": "Eating Establishment",
-          "id": "b3f7acc2-ed44-4e1d-be2f-ddfd176c2011",
-          "postal": "545078"
-        },
-        {
-          "name": "YOSHINOYA",
-          "address": "9 RAFFLES BOULEVARD #01-106 MILLENIA WALK 039596",
-          "type": "Restaurant",
-          "number": "EERT20250000169",
-          "scheme": "Eating Establishment",
-          "id": "b3f7acc2-ed44-4e1d-be2f-ddfd176c2011",
-          "postal": "039596"
-        },
-        {
-          "name": "YOSHINOYA",
-          "address": "9 BISHAN PLACE #01-49/50 JUNCTION 8 579837",
-          "type": "Restaurant",
-          "number": "EERT20240001208",
-          "scheme": "Eating Establishment",
-          "id": "b3f7acc2-ed44-4e1d-be2f-ddfd176c2011",
-          "postal": "579837"
-        },
-        {
-          "name": "International Cuisine@Rolls Royce(Mngd by ISS Catering)",
-          "address": "6 Seletar Aerospace Rise Rolls Royce 797575",
-          "type": "Staff Canteen",
-          "number": "EEFN21070012269",
-          "scheme": "Eating Establishment",
-          "id": "34e10f71-d3da-4743-a872-8222e8121e84",
-          "postal": "797575"
-        },
-        {
-          "name": "YOSHINOYA",
-          "address": "1 VISTA EXCHANGE GREEN #02-07 THE STAR VISTA 138617",
-          "type": "Restaurant",
-          "number": "EERT20240001213",
-          "scheme": "Eating Establishment",
-          "id": "b3f7acc2-ed44-4e1d-be2f-ddfd176c2011",
-          "postal": "138617"
-        },
-        {
-          "name": "YOSHINOYA",
-          "address": "2 HANDY ROAD #B1-08 FORMER CATHAY BUILDING 229233",
-          "type": "Restaurant",
-          "number": "EERT20250000635",
-          "scheme": "Eating Establishment",
-          "id": "b3f7acc2-ed44-4e1d-be2f-ddfd176c2011",
-          "postal": "229233"
-        },
-        {
-          "name": "YOSHINOYA",
-          "address": "1 TAMPINES WALK #B1-K1/K22/K2 OUR TAMPINES HUB 528523",
-          "type": "Restaurant",
-          "number": "EERT20240001212",
-          "scheme": "Eating Establishment",
-          "id": "b3f7acc2-ed44-4e1d-be2f-ddfd176c2011",
-          "postal": "528523"
-        },
-        {
-          "name": "YOSHINOYA",
-          "address": "311 NEW UPPER CHANGI ROAD #B2-30 BEDOK MALL 467360",
-          "type": "Restaurant",
-          "number": "EERT20240001203",
-          "scheme": "Eating Establishment",
-          "id": "b3f7acc2-ed44-4e1d-be2f-ddfd176c2011",
-          "postal": "467360"
-        },
-        {
-          "name": "YOSHINOYA",
-          "address": "230 VICTORIA STREET #B1-10 BUGIS JUNCTION TOWERS 188024",
-          "type": "Restaurant",
-          "number": "EERT20240001205",
-          "scheme": "Eating Establishment",
-          "id": "b3f7acc2-ed44-4e1d-be2f-ddfd176c2011",
-          "postal": "188024"
-        },
-        {
-          "name": "Malay/Indian Delights@Rolls Royce (Mngd by ISS Catering)",
-          "address": "6 Seletar Aerospace Rise Rolls Royce 797575",
-          "type": "Staff Canteen",
-          "number": "EEFN21070012270",
-          "scheme": "Eating Establishment",
-          "id": "0151a572-d338-4518-9b9a-160833f5c8c5",
-          "postal": "797575"
-        }
-      ],
-      "removed": [
-        {
-          "name": "So Pho",
-          "address": "83 Punggol Central #01-28 Waterway Point (East Wing) 828761",
-          "type": "Restaurant",
-          "number": "EERN21070012673",
-          "scheme": "Eating Establishment",
-          "id": "eab58cf8-5aa4-4b96-b522-760a4cceded7",
-          "postal": "828761"
         }
       ],
       "updated": []
