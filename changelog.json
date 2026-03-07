@@ -1,5 +1,29 @@
 [
   {
+    "timestamp": "2026-03-07T22:17:14.425620",
+    "date": "2026-03-07",
+    "summary": {
+      "new": 1,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Yumen Hut",
+          "address": "108 ANG MO KIO AVENUE 4 Kedai Kopi SG, Stall No. 5 #01-74 KEBUN BARU HEIGHTS 560108",
+          "type": "Hawker",
+          "number": "EEHK26030000011",
+          "scheme": "Eating Establishment",
+          "id": "4456907f-0dca-4387-b38c-8604c449411d",
+          "postal": "560108"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-03-06T22:19:18.259619",
     "date": "2026-03-06",
     "summary": {
@@ -9688,85 +9712,6 @@
           "scheme": "Eating Establishment",
           "id": "0a24b696-af57-4b5a-af1d-815fe8f04bcb",
           "postal": "678278"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-01-06T22:17:16.735552",
-    "date": "2026-01-06",
-    "summary": {
-      "new": 5,
-      "removed": 2,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Nando's",
-          "address": "1 Vista Exchange Green #B1-09 The Star Vista 138617",
-          "type": "Restaurant",
-          "number": "EERN21110013070",
-          "scheme": "Eating Establishment",
-          "id": "7746181f-53c9-42c3-ab80-7da0470453e0",
-          "postal": "138617"
-        },
-        {
-          "name": "Nando's",
-          "address": "80 Middle Road #01-85&87 Bugis Junction 188966",
-          "type": "Restaurant",
-          "number": "EERN21110013072",
-          "scheme": "Eating Establishment",
-          "id": "7746181f-53c9-42c3-ab80-7da0470453e0",
-          "postal": "188966"
-        },
-        {
-          "name": "Nando's",
-          "address": "4 Tampines Central 5 #01-46 Tampines Mall 529510",
-          "type": "Restaurant",
-          "number": "EERN21110013090",
-          "scheme": "Eating Establishment",
-          "id": "7746181f-53c9-42c3-ab80-7da0470453e0",
-          "postal": "529510"
-        },
-        {
-          "name": "Nando's",
-          "address": "68 Orchard Road #04-10/11 Plaza Singapura 238839",
-          "type": "Restaurant",
-          "number": "EERN21110013069",
-          "scheme": "Eating Establishment",
-          "id": "7746181f-53c9-42c3-ab80-7da0470453e0",
-          "postal": "238839"
-        },
-        {
-          "name": "Nando's",
-          "address": "1 JURONG WEST CENTRAL 2 #02-32/33 JURONG POINT 648886",
-          "type": "Restaurant",
-          "number": "EERN21110013071",
-          "scheme": "Eating Establishment",
-          "id": "7746181f-53c9-42c3-ab80-7da0470453e0",
-          "postal": "648886"
-        }
-      ],
-      "removed": [
-        {
-          "name": "PREMIUM CATERING PRIVATE LTD",
-          "address": "8A ADMIRALTY STREET #01/11 & 01/12 FOOD XCHANGE @ ADMIRALTY 757437",
-          "type": "Catering Company",
-          "number": "FPCA25100000044",
-          "scheme": "Food Preparation Area",
-          "id": "2a5fabf9-a7f1-4fd4-be7f-d318cf02aa32",
-          "postal": "757437"
-        },
-        {
-          "name": "Pastamania",
-          "address": "1 BUKIT BATOK CENTRAL LINK #01-40 WEST MALL 658713",
-          "type": "Restaurant",
-          "number": "EERN22010013365",
-          "scheme": "Eating Establishment",
-          "id": "e1eb4468-e706-4f99-bbf2-2603b062790c",
-          "postal": "658713"
         }
       ],
       "updated": []
