@@ -1,5 +1,156 @@
 [
   {
+    "timestamp": "2026-03-09T22:21:14.496766",
+    "date": "2026-03-09",
+    "summary": {
+      "new": 10,
+      "removed": 5,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "RITZ APPLE STRUDEL",
+          "address": "9 BISHAN PLACE #B1-K3 JUNCTION 8 579837",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26020000133",
+          "scheme": "Eating Establishment",
+          "id": "dc7265a9-393f-4352-b7fc-643c969a5f01",
+          "postal": "579837"
+        },
+        {
+          "name": "RITZ APPLE STRUDEL",
+          "address": "255 EAST COAST ROAD ESSO EAST COAST 428932",
+          "type": "Food Kiosk",
+          "number": "EEFK25100000091",
+          "scheme": "Eating Establishment",
+          "id": "dc7265a9-393f-4352-b7fc-643c969a5f01",
+          "postal": "428932"
+        },
+        {
+          "name": "RITZ APPLE STRUDEL",
+          "address": "150 SENGKANG WEST WAY, within Esso Petrol Station 797622",
+          "type": "Food Kiosk",
+          "number": "EEFK25100000093",
+          "scheme": "Eating Establishment",
+          "id": "dc7265a9-393f-4352-b7fc-643c969a5f01",
+          "postal": "797622"
+        },
+        {
+          "name": "Sanook Kitchen",
+          "address": "154 WEST COAST ROAD #B1-04 WEST COAST PLAZA 127371",
+          "type": "Restaurant",
+          "number": "EERT26030000004",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "127371"
+        },
+        {
+          "name": "LONTONG KITA / GRAIN & PADANG",
+          "address": "26 SENTOSA GATEWAY STALL C10 & C11 #02-202/203 SHOWPLACE (RESORTS WORLD SENTOSA), STALL 10/11, NASI & SPICE 098138",
+          "type": "Hawker",
+          "number": "EEHK26030000013",
+          "scheme": "Eating Establishment",
+          "id": "504674b8-4e87-4f1f-94b4-6ae960ec4b68",
+          "postal": "098138"
+        },
+        {
+          "name": "BatterCatch",
+          "address": "1 KIM SENG PROMENADE #01-106 GREAT WORLD CITY 237994",
+          "type": "Restaurant",
+          "number": "EERT26030000001",
+          "scheme": "Eating Establishment",
+          "id": "b70967a9-4498-4d6e-8a27-904c13179afe",
+          "postal": "237994"
+        },
+        {
+          "name": "RITZ APPLE STRUDEL",
+          "address": "311 New Upper Changi Road #B2-K8 Bedok Mall 467360",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26020000134",
+          "scheme": "Eating Establishment",
+          "id": "dc7265a9-393f-4352-b7fc-643c969a5f01",
+          "postal": "467360"
+        },
+        {
+          "name": "RITZ APPLE STRUDEL",
+          "address": "53 ANG MO KIO AVENUE 3 #B2-30 AMK HUB 569933",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000539",
+          "scheme": "Eating Establishment",
+          "id": "dc7265a9-393f-4352-b7fc-643c969a5f01",
+          "postal": "569933"
+        },
+        {
+          "name": "RITZ APPLE STRUDEL",
+          "address": "1 JURONG EAST STREET 21 #02-29 609606",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000535",
+          "scheme": "Eating Establishment",
+          "id": "dc7265a9-393f-4352-b7fc-643c969a5f01",
+          "postal": "609606"
+        },
+        {
+          "name": "RITZ APPLE STRUDEL",
+          "address": "200 VICTORIA STREET #B1-K12 BUGIS JUNCTION 188021",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000537",
+          "scheme": "Eating Establishment",
+          "id": "dc7265a9-393f-4352-b7fc-643c969a5f01",
+          "postal": "188021"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Srisun Express",
+          "address": "407 ANG MO KIO AVENUE 10 #01-743 TECK GHEE SQUARE 560407",
+          "type": "Restaurant",
+          "number": "EERX21040012271",
+          "scheme": "Eating Establishment",
+          "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
+          "postal": "560407"
+        },
+        {
+          "name": "4FINGERS CRISPY CHICKEN",
+          "address": "159 ROCHOR ROAD #01 188434",
+          "type": "Restaurant",
+          "number": "EERT20240000164",
+          "scheme": "Eating Establishment",
+          "id": "90b83324-363a-4406-9afa-08b19b67522d",
+          "postal": "188434"
+        },
+        {
+          "name": "TOKYO SHOKUDO",
+          "address": "53 ANG MO KIO AVENUE 3 #02-19,#02-20,#02-21 AMK HUB 569933",
+          "type": "Restaurant",
+          "number": "EERT20250000567",
+          "scheme": "Eating Establishment",
+          "id": "3e75f97a-1f6a-4795-ba6e-a2ba7adf2128",
+          "postal": "569933"
+        },
+        {
+          "name": "Srisun Express",
+          "address": "509 BISHAN STREET 11 #01-382 570509",
+          "type": "Restaurant",
+          "number": "EERT20230001058",
+          "scheme": "Eating Establishment",
+          "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
+          "postal": "570509"
+        },
+        {
+          "name": "Tenderbest",
+          "address": "888 WOODLANDS DRIVE 50 #01-733 888 PLAZA, Stall 9 730888",
+          "type": "Hawker",
+          "number": "EEHN21060012452",
+          "scheme": "Eating Establishment",
+          "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
+          "postal": "730888"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-03-07T22:17:14.425620",
     "date": "2026-03-07",
     "summary": {
@@ -9509,211 +9660,6 @@
         }
       ],
       "removed": [],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-01-07T22:17:06.856951",
-    "date": "2026-01-07",
-    "summary": {
-      "new": 11,
-      "removed": 10,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "DOUGH CULTURE",
-          "address": "3155 COMMONWEALTH AVENUE WEST #B1-K14 THE CLEMENTI MALL 129588",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20230000388",
-          "scheme": "Eating Establishment",
-          "id": "d54efa73-ca47-4771-ad30-b27fc4dae026",
-          "postal": "129588"
-        },
-        {
-          "name": "DOUGH CULTURE",
-          "address": "70 COMPASSVALE BOW #01-07 544692",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20230000566",
-          "scheme": "Eating Establishment",
-          "id": "d54efa73-ca47-4771-ad30-b27fc4dae026",
-          "postal": "544692"
-        },
-        {
-          "name": "DOUGH CULTURE",
-          "address": "1 PASIR RIS CENTRAL STREET 3 #01-43 518457",
-          "type": "Snack Bar / Bakery",
-          "number": "EEBN21120013008",
-          "scheme": "Eating Establishment",
-          "id": "d54efa73-ca47-4771-ad30-b27fc4dae026",
-          "postal": "518457"
-        },
-        {
-          "name": "DOUGH CULTURE",
-          "address": "17 PETIR ROAD #B2-43 HILLION MALL 678278",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20220000416",
-          "scheme": "Eating Establishment",
-          "id": "d54efa73-ca47-4771-ad30-b27fc4dae026",
-          "postal": "678278"
-        },
-        {
-          "name": "DOUGH CULTURE",
-          "address": "678A WOODLANDS AVENUE 6 #01-09 ADMIRALTY PLACE 731678",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20230000262",
-          "scheme": "Eating Establishment",
-          "id": "d54efa73-ca47-4771-ad30-b27fc4dae026",
-          "postal": "731678"
-        },
-        {
-          "name": "DOUGH CULTURE",
-          "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #B1-K8 CHANGI CITY POINT 486038",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20250000529",
-          "scheme": "Eating Establishment",
-          "id": "d54efa73-ca47-4771-ad30-b27fc4dae026",
-          "postal": "486038"
-        },
-        {
-          "name": "DOUGH CULTURE",
-          "address": "11 BIDADARI PARK DRIVE #B1-K26 THE WOODLEIGH MALL 367803",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20230000626",
-          "scheme": "Eating Establishment",
-          "id": "d54efa73-ca47-4771-ad30-b27fc4dae026",
-          "postal": "367803"
-        },
-        {
-          "name": "DOUGH CULTURE",
-          "address": "1 WOODLANDS SQUARE #01-K08 CAUSEWAY POINT 738099",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20220000063",
-          "scheme": "Eating Establishment",
-          "id": "d54efa73-ca47-4771-ad30-b27fc4dae026",
-          "postal": "738099"
-        },
-        {
-          "name": "DOUGH CULTURE",
-          "address": "23 SERANGOON CENTRAL #B2-09 NEX 556083",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20240001095",
-          "scheme": "Eating Establishment",
-          "id": "d54efa73-ca47-4771-ad30-b27fc4dae026",
-          "postal": "556083"
-        },
-        {
-          "name": "SHIOK BURGER",
-          "address": "21 CHOA CHU KANG AVENUE 4 #B1-K10 LOT ONE, SHOPPERS' MALL 689812",
-          "type": "Restaurant",
-          "number": "EERT25120000070",
-          "scheme": "Eating Establishment",
-          "id": "4fcad118-8dea-4300-a6a9-f4bf6b4d7efa",
-          "postal": "689812"
-        },
-        {
-          "name": "DOUGH CULTURE",
-          "address": "377 HOUGANG STREET 32 #B1-16 530377",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20230000030",
-          "scheme": "Eating Establishment",
-          "id": "d54efa73-ca47-4771-ad30-b27fc4dae026",
-          "postal": "530377"
-        }
-      ],
-      "removed": [
-        {
-          "name": "DOUGH CULTURE",
-          "address": "678A WOODLANDS AVENUE 6 #01-09 ADMIRALTY PLACE 731678",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20230000262",
-          "scheme": "Eating Establishment",
-          "id": "0246652a-fd3c-4a8e-a0bf-34a376910365",
-          "postal": "731678"
-        },
-        {
-          "name": "DOUGH CULTURE",
-          "address": "377 HOUGANG STREET 32 #B1-16 530377",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20230000030",
-          "scheme": "Eating Establishment",
-          "id": "0a24b696-af57-4b5a-af1d-815fe8f04bcb",
-          "postal": "530377"
-        },
-        {
-          "name": "DOUGH CULTURE",
-          "address": "1 PASIR RIS CENTRAL STREET 3 #01-43 518457",
-          "type": "Snack Bar / Bakery",
-          "number": "EEBN21120013008",
-          "scheme": "Eating Establishment",
-          "id": "0a24b696-af57-4b5a-af1d-815fe8f04bcb",
-          "postal": "518457"
-        },
-        {
-          "name": "DOUGH CULTURE",
-          "address": "23 SERANGOON CENTRAL #B2-09 NEX 556083",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20240001095",
-          "scheme": "Eating Establishment",
-          "id": "0246652a-fd3c-4a8e-a0bf-34a376910365",
-          "postal": "556083"
-        },
-        {
-          "name": "DOUGH CULTURE",
-          "address": "3155 COMMONWEALTH AVENUE WEST #B1-K14 THE CLEMENTI MALL 129588",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20230000388",
-          "scheme": "Eating Establishment",
-          "id": "0246652a-fd3c-4a8e-a0bf-34a376910365",
-          "postal": "129588"
-        },
-        {
-          "name": "DOUGH CULTURE",
-          "address": "11 BIDADARI PARK DRIVE #B1-K26 THE WOODLEIGH MALL 367803",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20230000626",
-          "scheme": "Eating Establishment",
-          "id": "0246652a-fd3c-4a8e-a0bf-34a376910365",
-          "postal": "367803"
-        },
-        {
-          "name": "DOUGH CULTURE",
-          "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #B1-K8 CHANGI CITY POINT 486038",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20250000529",
-          "scheme": "Eating Establishment",
-          "id": "0246652a-fd3c-4a8e-a0bf-34a376910365",
-          "postal": "486038"
-        },
-        {
-          "name": "DOUGH CULTURE",
-          "address": "70 COMPASSVALE BOW #01-07 544692",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20230000566",
-          "scheme": "Eating Establishment",
-          "id": "0246652a-fd3c-4a8e-a0bf-34a376910365",
-          "postal": "544692"
-        },
-        {
-          "name": "DOUGH CULTURE",
-          "address": "1 WOODLANDS SQUARE #01-K08 CAUSEWAY POINT 738099",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20220000063",
-          "scheme": "Eating Establishment",
-          "id": "0a24b696-af57-4b5a-af1d-815fe8f04bcb",
-          "postal": "738099"
-        },
-        {
-          "name": "DOUGH CULTURE",
-          "address": "17 PETIR ROAD #B2-43 HILLION MALL 678278",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20220000416",
-          "scheme": "Eating Establishment",
-          "id": "0a24b696-af57-4b5a-af1d-815fe8f04bcb",
-          "postal": "678278"
-        }
-      ],
       "updated": []
     }
   }
