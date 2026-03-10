@@ -14751,6 +14751,15 @@
     "postal": "415934"
   },
   {
+    "name": "Jubilee's Hainanese Chicken Rice",
+    "address": "1 BUKIT BATOK CENTRAL LINK STALL 08, KOPITIAM #04-01 WEST MALL 658713",
+    "type": "Hawker",
+    "number": "EEHK26030000014",
+    "scheme": "Eating Establishment",
+    "id": "f8a51eae-2c04-4f60-848b-f2e90ba807b9",
+    "postal": "658713"
+  },
+  {
     "name": "Jubilicious",
     "address": "500 Jalan Sultan #04-01 Hotel Boss 199020",
     "type": "Restaurant",
@@ -20763,6 +20772,15 @@
     "postal": "437157"
   },
   {
+    "name": "MUKSHIDONNA",
+    "address": "Geylang Serai Ramadan Bazaar, 1 ENGKU AMAN TURN WISMA GEYLANG SERAI, 107 408528",
+    "type": "Short Term Stall(Bazaar/Road Shows)",
+    "number": "EEST26030000019",
+    "scheme": "Eating Establishment",
+    "id": "f915e579-b9cd-4066-a6e4-ff736d7c7f4d",
+    "postal": "408528"
+  },
+  {
     "name": "Mum's Kitchen Catering Pte Ltd",
     "address": "3015 BEDOK NORTH STREET 5 #02-06 SHIMEI EAST KITCHEN 486350",
     "type": "Catering Company",
@@ -23634,6 +23652,42 @@
     "postal": "168732"
   },
   {
+    "name": "Pastamania",
+    "address": "21 CHOA CHU KANG AVENUE 4 #03-02/A LOT ONE, SHOPPERS' MALL 689812",
+    "type": "Restaurant",
+    "number": "EERN22010013370",
+    "scheme": "Eating Establishment",
+    "id": "e1eb4468-e706-4f99-bbf2-2603b062790c",
+    "postal": "689812"
+  },
+  {
+    "name": "Pastamania",
+    "address": "57 ANCHORVALE ROAD #02-02 Sengkang Sports Complex 544964",
+    "type": "Restaurant",
+    "number": "EERN22010013385",
+    "scheme": "Eating Establishment",
+    "id": "e1eb4468-e706-4f99-bbf2-2603b062790c",
+    "postal": "544964"
+  },
+  {
+    "name": "Pastamania",
+    "address": "60 PAYA LEBAR ROAD #01-09/10/11 PAYA LEBAR SQUARE 409051",
+    "type": "Restaurant",
+    "number": "EERT20230000100",
+    "scheme": "Eating Establishment",
+    "id": "e1eb4468-e706-4f99-bbf2-2603b062790c",
+    "postal": "409051"
+  },
+  {
+    "name": "Pastamania",
+    "address": "4 TAMPINES CENTRAL 5 #04-21/22 TAMPINES MALL 529510",
+    "type": "Restaurant",
+    "number": "EERN22010013384",
+    "scheme": "Eating Establishment",
+    "id": "e1eb4468-e706-4f99-bbf2-2603b062790c",
+    "postal": "529510"
+  },
+  {
     "name": "PASTAMANIA",
     "address": "60 AIRPORT BOULEVARD #03-22 CHANGI AIRPORT TERMINAL 2 819643",
     "type": "Restaurant",
@@ -23641,6 +23695,15 @@
     "scheme": "Eating Establishment",
     "id": "26478959-4ccd-4a37-9848-46a58e89ff2c",
     "postal": "819643"
+  },
+  {
+    "name": "Pastamania",
+    "address": "750 CHAI CHEE ROAD #01-12 ESR BIZPARK @ CHAI CHEE 469000",
+    "type": "Restaurant",
+    "number": "EERN22010013373",
+    "scheme": "Eating Establishment",
+    "id": "e1eb4468-e706-4f99-bbf2-2603b062790c",
+    "postal": "469000"
   },
   {
     "name": "Pastamania Pronto",
@@ -24229,15 +24292,6 @@
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
-    "address": "888 WOODLANDS DRIVE 50 #01-729 888 PLAZA 730888",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000702",
-    "scheme": "Eating Establishment",
-    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
-    "postal": "730888"
-  },
-  {
-    "name": "PIZZA HUT SINGAPORE PTE LTD",
     "address": "3 SIMEI STREET 6 #02-03 EASTPOINT MALL 528833",
     "type": "Restaurant",
     "number": "EERN21080012761",
@@ -24667,6 +24721,15 @@
     "scheme": "Eating Establishment",
     "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
     "postal": "310085"
+  },
+  {
+    "name": "PIZZA HUT SINGAPORE PTE LTD",
+    "address": "888 WOODLANDS DRIVE 50 #01-729 888 PLAZA 730888",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000702",
+    "scheme": "Eating Establishment",
+    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
+    "postal": "730888"
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
@@ -26596,15 +26659,6 @@
   },
   {
     "name": "SAAP SAAP THAI",
-    "address": "1 JOO KOON CIRCLE #01-40/43/46A FAIRPRICE HUB 629117",
-    "type": "Restaurant",
-    "number": "EERN21100012927",
-    "scheme": "Eating Establishment",
-    "id": "9589c31f-fee1-4b1e-925f-755094a68b7a",
-    "postal": "629117"
-  },
-  {
-    "name": "SAAP SAAP THAI",
     "address": "2 JURONG EAST STREET 21 #01-48 IMM BUILDING 609601",
     "type": "Restaurant",
     "number": "EERN21070012635",
@@ -26638,6 +26692,15 @@
     "scheme": "Eating Establishment",
     "id": "9589c31f-fee1-4b1e-925f-755094a68b7a",
     "postal": "819663"
+  },
+  {
+    "name": "SAAP SAAP THAI",
+    "address": "1 JOO KOON CIRCLE #01-40/43/46A FAIRPRICE HUB 629117",
+    "type": "Restaurant",
+    "number": "EERN21100012927",
+    "scheme": "Eating Establishment",
+    "id": "9589c31f-fee1-4b1e-925f-755094a68b7a",
+    "postal": "629117"
   },
   {
     "name": "SAAP SAAP THAI KAFFE & TOAST",
@@ -27208,15 +27271,6 @@
   },
   {
     "name": "Sanook Kitchen",
-    "address": "1 HARBOURFRONT WALK #B2-23C VIVO CITY 098585",
-    "type": "Restaurant",
-    "number": "EERT20220000545",
-    "scheme": "Eating Establishment",
-    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-    "postal": "098585"
-  },
-  {
-    "name": "Sanook Kitchen",
     "address": "10 PAYA LEBAR ROAD #03-28/29 PLQ MALL 409057",
     "type": "Restaurant",
     "number": "EERT20220001029",
@@ -27394,15 +27448,6 @@
     "scheme": "Eating Establishment",
     "id": "2c98fa18-96dc-46e0-b517-0dc26d3bae82",
     "postal": "544835"
-  },
-  {
-    "name": "Seabay Delight Wok Delight (S1)@Cantine Corner Admiralty Place",
-    "address": "678A WOODLANDS AVENUE 6 #02-05 ADMIRALTY PLACE, STALL 1 731678",
-    "type": "Hawker",
-    "number": "EEHK20240000460",
-    "scheme": "Eating Establishment",
-    "id": "f0dc00e5-1368-4f41-b161-fa80429314b2",
-    "postal": "731678"
   },
   {
     "name": "Seabay Delight Wok Delight (S11)@Cantine Jurong Point",
@@ -30879,15 +30924,6 @@
     "postal": "519872"
   },
   {
-    "name": "SWEE HENG",
-    "address": "963 JURONG WEST STREET 91 #01-314 640963",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20220000383",
-    "scheme": "Eating Establishment",
-    "id": "8ca8605b-be4d-48dd-98d0-78c2ed91bffb",
-    "postal": "640963"
-  },
-  {
     "name": "SWEE HENG 1989 BAKERY CAFE",
     "address": "10 EUNOS ROAD 8 #B1-158 SINGAPORE POST CENTRE 408600",
     "type": "Restaurant",
@@ -31741,6 +31777,24 @@
     "scheme": "Eating Establishment",
     "id": "85fd326a-eab5-432f-9ac1-917d8400f3ef",
     "postal": "238859"
+  },
+  {
+    "name": "Swissbake",
+    "address": "585 NORTH BRIDGE ROAD #01-09 RAFFLES HOSPITAL 188770",
+    "type": "Restaurant",
+    "number": "EERT25110000057",
+    "scheme": "Eating Establishment",
+    "id": "5af74926-1d0f-48b0-98da-33060a828772",
+    "postal": "188770"
+  },
+  {
+    "name": "Swissbake",
+    "address": "6 WOODLANDS SQUARE #05-01 WOODS SQUARE 737737",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN21080012647",
+    "scheme": "Eating Establishment",
+    "id": "5af74926-1d0f-48b0-98da-33060a828772",
+    "postal": "737737"
   },
   {
     "name": "Syed Cafe",
@@ -32725,24 +32779,6 @@
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "211 HENDERSON ROAD #01-03 211 HENDERSON 159552",
-    "type": "Restaurant",
-    "number": "EERT20220000228",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "159552"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "11 RESEARCH LINK #01-02,National University Singapore (NUS) COM 3 119391",
-    "type": "Restaurant",
-    "number": "EERT20220001074",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "119391"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
     "address": "10 ANSON ROAD #01-32 INTERNATIONAL PLAZA 079903",
     "type": "Restaurant",
     "number": "EERN21120013265",
@@ -33184,6 +33220,15 @@
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
+    "address": "211 HENDERSON ROAD #01-03 211 HENDERSON 159552",
+    "type": "Restaurant",
+    "number": "EERT20220000228",
+    "scheme": "Eating Establishment",
+    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+    "postal": "159552"
+  },
+  {
+    "name": "THE COFFEE BEAN & TEA LEAF",
     "address": "78 AIRPORT BOULEVARD #01-200 JEWEL CHANGI AIRPORT 819666",
     "type": "Restaurant",
     "number": "EERT20220000446",
@@ -33217,6 +33262,15 @@
     "scheme": "Eating Establishment",
     "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
     "postal": "819665"
+  },
+  {
+    "name": "THE COFFEE BEAN & TEA LEAF",
+    "address": "11 RESEARCH LINK #01-02,National University Singapore (NUS) COM 3 119391",
+    "type": "Restaurant",
+    "number": "EERT20220001074",
+    "scheme": "Eating Establishment",
+    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+    "postal": "119391"
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
@@ -34849,24 +34903,6 @@
   },
   {
     "name": "TREATS",
-    "address": "251 UPPER EAST COAST ROAD MOBIL SERVICE STATION 466404",
-    "type": "Food Kiosk",
-    "number": "EEFK20220001012",
-    "scheme": "Eating Establishment",
-    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
-    "postal": "466404"
-  },
-  {
-    "name": "TREATS",
-    "address": "37 JALAN JURONG KECHIL ESSO SERVICE STATION 598577",
-    "type": "Food Kiosk",
-    "number": "EEFK20220001013",
-    "scheme": "Eating Establishment",
-    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
-    "postal": "598577"
-  },
-  {
-    "name": "TREATS",
     "address": "353 UPPER THOMSON ROAD MOBIL SERVICE STATION 574410",
     "type": "Food Kiosk",
     "number": "EEFK20230000637",
@@ -34963,6 +34999,24 @@
     "scheme": "Eating Establishment",
     "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
     "postal": "758452"
+  },
+  {
+    "name": "TREATS",
+    "address": "251 UPPER EAST COAST ROAD MOBIL SERVICE STATION 466404",
+    "type": "Food Kiosk",
+    "number": "EEFK20220001012",
+    "scheme": "Eating Establishment",
+    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
+    "postal": "466404"
+  },
+  {
+    "name": "TREATS",
+    "address": "37 JALAN JURONG KECHIL ESSO SERVICE STATION 598577",
+    "type": "Food Kiosk",
+    "number": "EEFK20220001013",
+    "scheme": "Eating Establishment",
+    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
+    "postal": "598577"
   },
   {
     "name": "TREATS",
@@ -36099,6 +36153,69 @@
     "postal": "569830"
   },
   {
+    "name": "Wicked WIngs",
+    "address": "50 Jurong Gateway Road #04-26 JEM 608549",
+    "type": "Restaurant",
+    "number": "EERN22010013367",
+    "scheme": "Eating Establishment",
+    "id": "e1eb4468-e706-4f99-bbf2-2603b062790c",
+    "postal": "608549"
+  },
+  {
+    "name": "Wicked WIngs",
+    "address": "1 MARITIME SQUARE #02-05/06 HARBOURFRONT CENTRE 099253",
+    "type": "Restaurant",
+    "number": "EERN22010013372",
+    "scheme": "Eating Establishment",
+    "id": "e1eb4468-e706-4f99-bbf2-2603b062790c",
+    "postal": "099253"
+  },
+  {
+    "name": "Wicked WIngs",
+    "address": "930 YISHUN AVENUE 2 #03-04 NORTHPOINT 769098",
+    "type": "Restaurant",
+    "number": "EERN22010013375",
+    "scheme": "Eating Establishment",
+    "id": "e1eb4468-e706-4f99-bbf2-2603b062790c",
+    "postal": "769098"
+  },
+  {
+    "name": "Wicked WIngs",
+    "address": "180 KITCHENER ROAD #02-21/22 City Square Mall 208539",
+    "type": "Restaurant",
+    "number": "EERN22010013376",
+    "scheme": "Eating Establishment",
+    "id": "e1eb4468-e706-4f99-bbf2-2603b062790c",
+    "postal": "208539"
+  },
+  {
+    "name": "Wicked WIngs",
+    "address": "1 WOODLANDS SQUARE #B1-20 CAUSEWAY POINT 738099",
+    "type": "Restaurant",
+    "number": "EERN22010013377",
+    "scheme": "Eating Establishment",
+    "id": "e1eb4468-e706-4f99-bbf2-2603b062790c",
+    "postal": "738099"
+  },
+  {
+    "name": "Wicked WIngs",
+    "address": "1 HOUGANG STREET 91 #01-22 HOUGANG 1 538692",
+    "type": "Restaurant",
+    "number": "EERT20250000157",
+    "scheme": "Eating Establishment",
+    "id": "e1eb4468-e706-4f99-bbf2-2603b062790c",
+    "postal": "538692"
+  },
+  {
+    "name": "Wicked WIngs",
+    "address": "1 Fusionopolis Way #01-04 Connexis 138632",
+    "type": "Restaurant",
+    "number": "EERT20250000430",
+    "scheme": "Eating Establishment",
+    "id": "e1eb4468-e706-4f99-bbf2-2603b062790c",
+    "postal": "138632"
+  },
+  {
     "name": "Wikedo Western (MR6) @ Koufu Tampines Mart",
     "address": "9 TAMPINES STREET 32 #01-01-14, MR6 529286",
     "type": "Hawker",
@@ -36757,21 +36874,21 @@
   },
   {
     "name": "Yakiniku Shokudo",
-    "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #B1-32/33 CHANGI CITY POINT 486038",
-    "type": "Restaurant",
-    "number": "EERT20230000005",
-    "scheme": "Eating Establishment",
-    "id": "7febb99e-79f2-45a1-9f1b-a2fe974e405a",
-    "postal": "486038"
-  },
-  {
-    "name": "Yakiniku Shokudo",
     "address": "2 JURONG EAST STREET 21 #02-53 IMM BUILDING 609601",
     "type": "Restaurant",
     "number": "EERT20220000119",
     "scheme": "Eating Establishment",
     "id": "7febb99e-79f2-45a1-9f1b-a2fe974e405a",
     "postal": "609601"
+  },
+  {
+    "name": "Yakiniku Shokudo",
+    "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #B1-32/33 CHANGI CITY POINT 486038",
+    "type": "Restaurant",
+    "number": "EERT20230000005",
+    "scheme": "Eating Establishment",
+    "id": "7febb99e-79f2-45a1-9f1b-a2fe974e405a",
+    "postal": "486038"
   },
   {
     "name": "Yaya Bakery",
