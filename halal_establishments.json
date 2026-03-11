@@ -4950,6 +4950,15 @@
     "postal": "499640"
   },
   {
+    "name": "Bytes Cafe (Mngd By The Wok People)",
+    "address": "5 TAMPINES INDUSTRIAL CRESCENT #02-00 529557",
+    "type": "Staff Canteen",
+    "number": "EESC26030000002",
+    "scheme": "Eating Establishment",
+    "id": "f9bd12ce-2cb1-4ee4-beb3-21ce8c64f92f",
+    "postal": "529557"
+  },
+  {
     "name": "Cafe 2b Bistro",
     "address": "30 PAYA LEBAR ROAD #01-05/06 PAYA LEBAR MRT STATION 409006",
     "type": "Restaurant",
@@ -15463,15 +15472,6 @@
   },
   {
     "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
-    "address": "2 BUKIT BATOK WEST AVENUE 7 #01-09A HOME TEAM NS BUKIT BATOK CLUBHOUSE 659003",
-    "type": "Restaurant",
-    "number": "EERN21110013031",
-    "scheme": "Eating Establishment",
-    "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
-    "postal": "659003"
-  },
-  {
-    "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
     "address": "1 SENGKANG SQUARE #B1-15 COMPASS ONE 545078",
     "type": "Restaurant",
     "number": "EERN21110012991",
@@ -15514,6 +15514,15 @@
     "scheme": "Eating Establishment",
     "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
     "postal": "729826"
+  },
+  {
+    "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
+    "address": "2 BUKIT BATOK WEST AVENUE 7 #01-09A HOME TEAM NS BUKIT BATOK CLUBHOUSE 659003",
+    "type": "Restaurant",
+    "number": "EERN21110013031",
+    "scheme": "Eating Establishment",
+    "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
+    "postal": "659003"
   },
   {
     "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
