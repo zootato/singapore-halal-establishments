@@ -33814,15 +33814,6 @@
   },
   {
     "name": "THE ORIGINAL VADAI",
-    "address": "Kampong Gelam Ramadan Bazaar, 3 MUSCAT STREET MASJID SULTAN, K32 198833",
-    "type": "Short Term Stall(Bazaar/Road Shows)",
-    "number": "EEST26020000107",
-    "scheme": "Eating Establishment",
-    "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
-    "postal": "198833"
-  },
-  {
-    "name": "THE ORIGINAL VADAI",
     "address": "Jurong Central Ramadan Bazaar, 496 JURONG WEST STREET 41, 27 640496",
     "type": "Short Term Stall(Bazaar/Road Shows)",
     "number": "EEST26020000108",
@@ -36052,6 +36043,15 @@
     "scheme": "Eating Establishment",
     "id": "cd9074a8-a49e-48e1-8330-48eebce80951",
     "postal": "637616"
+  },
+  {
+    "name": "Western Grillin (S5) @ HTA Cafeteria",
+    "address": "501 OLD CHOA CHU KANG ROAD Home Team Academy (1st Storey), STALL 5 698928",
+    "type": "Hawker",
+    "number": "EEHN22020012564",
+    "scheme": "Eating Establishment",
+    "id": "a2b6a604-fd5e-440e-aa2c-ea8c383b208f",
+    "postal": "698928"
   },
   {
     "name": "Western Kingdom (S4) @ Montfort Junior School",
