@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-03-13T22:20:25.953474",
+    "date": "2026-03-13",
+    "summary": {
+      "new": 2,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
+          "address": "2 ORCHARD LINK #02-19,#02-20 SCAPE 237978",
+          "type": "Restaurant",
+          "number": "EERT26030000003",
+          "scheme": "Eating Establishment",
+          "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
+          "postal": "237978"
+        },
+        {
+          "name": "Staff Canteen Stall@Dormakaba Sg P/L (Mngd By ISS Ctrg Svs P/L)",
+          "address": "12 TUKANG INNOVATION DRIVE 618303",
+          "type": "Staff Canteen",
+          "number": "EEFN21090012540",
+          "scheme": "Eating Establishment",
+          "id": "1d583a22-98df-4f93-8ca8-8db554a576b8",
+          "postal": "618303"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-03-12T22:19:02.630133",
     "date": "2026-03-12",
     "summary": {
@@ -9021,107 +9054,6 @@
         }
       ],
       "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-01-14T22:17:44.562578",
-    "date": "2026-01-14",
-    "summary": {
-      "new": 5,
-      "removed": 0,
-      "updated": 2
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Lai Makan by Orchid Thai",
-          "address": "30 HOSPITAL BOULEVARD #02-04 NATIONAL CANCER CENTRE SINGAPORE 168583",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26010000017",
-          "scheme": "Eating Establishment",
-          "id": "b94b3598-1f9b-4914-9932-4bba53944db0",
-          "postal": "168583"
-        },
-        {
-          "name": "Beradik Western  (S9) @ Kopitiam Food Hall Plaza SIngapura",
-          "address": "68 ORCHARD ROAD #06-15/16/17 PLAZA SINGAPURA, STALL 9 238839",
-          "type": "Hawker",
-          "number": "EEHK20240000582",
-          "scheme": "Eating Establishment",
-          "id": "ead04ea6-3f13-480a-b0f6-d283e3df68cf",
-          "postal": "238839"
-        },
-        {
-          "name": "Beradik (S3) @ Cookhouse Whitesand",
-          "address": "1 PASIR RIS CENTRAL STREET 3 #03-01/02/26, Stall 3 518457",
-          "type": "Hawker",
-          "number": "EEHK20240000547",
-          "scheme": "Eating Establishment",
-          "id": "efe4941a-c110-45ea-83f1-96cb15fb593f",
-          "postal": "518457"
-        },
-        {
-          "name": "Ramnad Ponni Mess",
-          "address": "11 HINDOO ROAD WELLNESS BUILDING 209110",
-          "type": "Restaurant",
-          "number": "EERT26010000002",
-          "scheme": "Eating Establishment",
-          "id": "6ce7ca76-44ed-42c0-8bc1-7a43c981db78",
-          "postal": "209110"
-        },
-        {
-          "name": "MACPHERSON CAFE CORNER",
-          "address": "456 MACPHERSON ROAD #1st storey 368174",
-          "type": "Restaurant",
-          "number": "EERT26010000022",
-          "scheme": "Eating Establishment",
-          "id": "040c9eed-966a-4fa8-954a-ed25ba6b27f9",
-          "postal": "368174"
-        }
-      ],
-      "removed": [],
-      "updated": [
-        {
-          "previous": {
-            "name": "TDR Malay Kitchen @ Marina Bay Sands",
-            "address": "1 BAYFRONT AVENUE #B2 MARINA BAY SANDS,B2 STAFF CANTEEN TEAM DINING RM 018971",
-            "type": "Staff Canteen",
-            "number": "EEFX21120012551",
-            "scheme": "Eating Establishment",
-            "id": "3d777f98-3a42-45b9-920a-df1dee8d5077",
-            "postal": "018971"
-          },
-          "current": {
-            "name": "TDR Malay Kitchen @ Marina Bay Sands",
-            "address": "1 BAYFRONT AVENUE #B2 MARINA BAY SANDS, B2 STAFF CANTEEN TEAM DINING RM 018971",
-            "type": "Staff Canteen",
-            "number": "EEFX21120012551",
-            "scheme": "Eating Establishment",
-            "id": "3d777f98-3a42-45b9-920a-df1dee8d5077",
-            "postal": "018971"
-          }
-        },
-        {
-          "previous": {
-            "name": "Pepper Plus Rice (MR4) @ Cantine Paya Lebar Square",
-            "address": "60 PAYA LEBAR ROAD #B1-51 PAYA LEBAR SQUARE,Stall MR4 409051",
-            "type": "Hawker",
-            "number": "EEHK20250000041",
-            "scheme": "Eating Establishment",
-            "id": "499b8957-6170-46f6-9ad2-07a81d2f4cd9",
-            "postal": "409051"
-          },
-          "current": {
-            "name": "Pepper Plus Rice",
-            "address": "60 PAYA LEBAR ROAD #B1-51 PAYA LEBAR SQUARE, Stall MR4 409051",
-            "type": "Hawker",
-            "number": "EEHK20250000041",
-            "scheme": "Eating Establishment",
-            "id": "499b8957-6170-46f6-9ad2-07a81d2f4cd9",
-            "postal": "409051"
-          }
-        }
-      ]
     }
   }
 ]

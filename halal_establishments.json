@@ -16101,6 +16101,15 @@
     "postal": "693126"
   },
   {
+    "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
+    "address": "2 ORCHARD LINK #02-19,#02-20 SCAPE 237978",
+    "type": "Restaurant",
+    "number": "EERT26030000003",
+    "scheme": "Eating Establishment",
+    "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
+    "postal": "237978"
+  },
+  {
     "name": "Khatib Foodshop",
     "address": "201 YISHUN AVENUE 2 #01-01 KHATIB MRT STATION 769092",
     "type": "Restaurant",
@@ -29059,6 +29068,15 @@
     "scheme": "Eating Establishment",
     "id": "2c17bb6b-3af8-44ba-86ec-b6960ada87d7",
     "postal": "554916"
+  },
+  {
+    "name": "Staff Canteen Stall@Dormakaba Sg P/L (Mngd By ISS Ctrg Svs P/L)",
+    "address": "12 TUKANG INNOVATION DRIVE 618303",
+    "type": "Staff Canteen",
+    "number": "EEFN21090012540",
+    "scheme": "Eating Establishment",
+    "id": "1d583a22-98df-4f93-8ca8-8db554a576b8",
+    "postal": "618303"
   },
   {
     "name": "Staff Canteen Stall@Micron F10W (Mngd by The Wok People)",
