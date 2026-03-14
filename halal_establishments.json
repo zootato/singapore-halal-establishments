@@ -13348,15 +13348,6 @@
   },
   {
     "name": "Home of Seafood / Home of Sushi / Divine by Home of Seafood",
-    "address": "Ramadhan Bazaar @ Woodlands MRT, 30 WOODLANDS AVENUE 2, 73 738343",
-    "type": "Short Term Stall(Bazaar/Road Shows)",
-    "number": "EEST26020000101",
-    "scheme": "Eating Establishment",
-    "id": "066a00a7-fc46-43ee-ad5d-d062e6ea3de0",
-    "postal": "738343"
-  },
-  {
-    "name": "Home of Seafood / Home of Sushi / Divine by Home of Seafood",
     "address": "Bazaar Ramadhan 2026 - Tampines Changkat, 301 TAMPINES STREET 32 #01, 9 520301",
     "type": "Short Term Stall(Bazaar/Road Shows)",
     "number": "EEST26020000102",
@@ -15472,6 +15463,15 @@
   },
   {
     "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
+    "address": "2 BUKIT BATOK WEST AVENUE 7 #01-09A HOME TEAM NS BUKIT BATOK CLUBHOUSE 659003",
+    "type": "Restaurant",
+    "number": "EERN21110013031",
+    "scheme": "Eating Establishment",
+    "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
+    "postal": "659003"
+  },
+  {
+    "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
     "address": "1 SENGKANG SQUARE #B1-15 COMPASS ONE 545078",
     "type": "Restaurant",
     "number": "EERN21110012991",
@@ -15514,15 +15514,6 @@
     "scheme": "Eating Establishment",
     "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
     "postal": "729826"
-  },
-  {
-    "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
-    "address": "2 BUKIT BATOK WEST AVENUE 7 #01-09A HOME TEAM NS BUKIT BATOK CLUBHOUSE 659003",
-    "type": "Restaurant",
-    "number": "EERN21110013031",
-    "scheme": "Eating Establishment",
-    "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
-    "postal": "659003"
   },
   {
     "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
@@ -22456,6 +22447,15 @@
   },
   {
     "name": "OLD CHANG KEE",
+    "address": "678A WOODLANDS AVENUE 6 #01-06 ADMIRALTY PLACE 731678",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20230000261",
+    "scheme": "Eating Establishment",
+    "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
+    "postal": "731678"
+  },
+  {
+    "name": "OLD CHANG KEE",
     "address": "238 THOMSON ROAD #01-70/71 NOVENA SQUARE 307683",
     "type": "Snack Bar / Bakery",
     "number": "EEBN20090011379",
@@ -22552,15 +22552,6 @@
     "scheme": "Eating Establishment",
     "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
     "postal": "238859"
-  },
-  {
-    "name": "OLD CHANG KEE",
-    "address": "678A WOODLANDS AVENUE 6 #01-06 ADMIRALTY PLACE 731678",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20230000261",
-    "scheme": "Eating Establishment",
-    "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
-    "postal": "731678"
   },
   {
     "name": "OLD CHANG KEE",
@@ -24310,6 +24301,15 @@
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
+    "address": "888 WOODLANDS DRIVE 50 #01-729 888 PLAZA 730888",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000702",
+    "scheme": "Eating Establishment",
+    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
+    "postal": "730888"
+  },
+  {
+    "name": "PIZZA HUT SINGAPORE PTE LTD",
     "address": "3 SIMEI STREET 6 #02-03 EASTPOINT MALL 528833",
     "type": "Restaurant",
     "number": "EERN21080012761",
@@ -24739,15 +24739,6 @@
     "scheme": "Eating Establishment",
     "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
     "postal": "310085"
-  },
-  {
-    "name": "PIZZA HUT SINGAPORE PTE LTD",
-    "address": "888 WOODLANDS DRIVE 50 #01-729 888 PLAZA 730888",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000702",
-    "scheme": "Eating Establishment",
-    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
-    "postal": "730888"
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
@@ -30340,15 +30331,6 @@
   },
   {
     "name": "Sugar Mama Lah",
-    "address": "BAZARIA MARSILING (OPEN FIELD OUTSIDE WOODLANDS MRT STATION), 30 WOODLANDS AVENUE 2 WOODLANDS MRT STATION (NS9), BOOTH 50 738343",
-    "type": "Short Term Stall(Bazaar/Road Shows)",
-    "number": "EEST26020000051",
-    "scheme": "Eating Establishment",
-    "id": "48f3e571-dfbc-42db-a6fc-ed0d5b59dc37",
-    "postal": "738343"
-  },
-  {
-    "name": "Sugar Mama Lah",
     "address": "96 ARAB STREET KAMPONG GLAM CONSERVATION AREA (LEVEL 2) KAMPONG GLAM CONSERVATION AREA 199792",
     "type": "Restaurant",
     "number": "EERT25120000092",
@@ -32806,6 +32788,15 @@
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
+    "address": "211 HENDERSON ROAD #01-03 211 HENDERSON 159552",
+    "type": "Restaurant",
+    "number": "EERT20220000228",
+    "scheme": "Eating Establishment",
+    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+    "postal": "159552"
+  },
+  {
+    "name": "THE COFFEE BEAN & TEA LEAF",
     "address": "10 ANSON ROAD #01-32 INTERNATIONAL PLAZA 079903",
     "type": "Restaurant",
     "number": "EERN21120013265",
@@ -33244,15 +33235,6 @@
     "scheme": "Eating Establishment",
     "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
     "postal": "545078"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "211 HENDERSON ROAD #01-03 211 HENDERSON 159552",
-    "type": "Restaurant",
-    "number": "EERT20220000228",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "159552"
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
@@ -33865,15 +33847,6 @@
     "scheme": "Eating Establishment",
     "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
     "postal": "732683"
-  },
-  {
-    "name": "THE ORIGINAL VADAI",
-    "address": "Woodlands MRT Ramadan Bazaar, 1 WOODLANDS SQUARE CAUSEWAY POINT, 22 738099",
-    "type": "Short Term Stall(Bazaar/Road Shows)",
-    "number": "EEST26020000113",
-    "scheme": "Eating Establishment",
-    "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
-    "postal": "738099"
   },
   {
     "name": "THE ORIGINAL VADAI",
@@ -34921,6 +34894,15 @@
   },
   {
     "name": "TREATS",
+    "address": "251 UPPER EAST COAST ROAD MOBIL SERVICE STATION 466404",
+    "type": "Food Kiosk",
+    "number": "EEFK20220001012",
+    "scheme": "Eating Establishment",
+    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
+    "postal": "466404"
+  },
+  {
+    "name": "TREATS",
     "address": "353 UPPER THOMSON ROAD MOBIL SERVICE STATION 574410",
     "type": "Food Kiosk",
     "number": "EEFK20230000637",
@@ -35017,15 +34999,6 @@
     "scheme": "Eating Establishment",
     "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
     "postal": "758452"
-  },
-  {
-    "name": "TREATS",
-    "address": "251 UPPER EAST COAST ROAD MOBIL SERVICE STATION 466404",
-    "type": "Food Kiosk",
-    "number": "EEFK20220001012",
-    "scheme": "Eating Establishment",
-    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
-    "postal": "466404"
   },
   {
     "name": "TREATS",

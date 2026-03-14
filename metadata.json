@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-13T22:20:26.007225",
-  "total_establishments": 4136,
+  "last_updated": "2026-03-14T22:18:54.736567",
+  "total_establishments": 4133,
   "types": {
     "Hawker": 927,
     "Catering Company": 185,
@@ -12,10 +12,10 @@
     "Food Station": 30,
     "Food Kiosk": 73,
     "Halal Section": 25,
-    "Short Term Stall(Bazaar/Road Shows)": 15
+    "Short Term Stall(Bazaar/Road Shows)": 12
   },
   "schemes": {
-    "Eating Establishment": 3720,
+    "Eating Establishment": 3717,
     "Food Preparation Area": 416
   }
 }

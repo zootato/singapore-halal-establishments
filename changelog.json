@@ -1,5 +1,47 @@
 [
   {
+    "timestamp": "2026-03-14T22:18:54.684021",
+    "date": "2026-03-14",
+    "summary": {
+      "new": 0,
+      "removed": 3,
+      "updated": 0
+    },
+    "changes": {
+      "new": [],
+      "removed": [
+        {
+          "name": "Sugar Mama Lah",
+          "address": "BAZARIA MARSILING (OPEN FIELD OUTSIDE WOODLANDS MRT STATION), 30 WOODLANDS AVENUE 2 WOODLANDS MRT STATION (NS9), BOOTH 50 738343",
+          "type": "Short Term Stall(Bazaar/Road Shows)",
+          "number": "EEST26020000051",
+          "scheme": "Eating Establishment",
+          "id": "48f3e571-dfbc-42db-a6fc-ed0d5b59dc37",
+          "postal": "738343"
+        },
+        {
+          "name": "Home of Seafood / Home of Sushi / Divine by Home of Seafood",
+          "address": "Ramadhan Bazaar @ Woodlands MRT, 30 WOODLANDS AVENUE 2, 73 738343",
+          "type": "Short Term Stall(Bazaar/Road Shows)",
+          "number": "EEST26020000101",
+          "scheme": "Eating Establishment",
+          "id": "066a00a7-fc46-43ee-ad5d-d062e6ea3de0",
+          "postal": "738343"
+        },
+        {
+          "name": "THE ORIGINAL VADAI",
+          "address": "Woodlands MRT Ramadan Bazaar, 1 WOODLANDS SQUARE CAUSEWAY POINT, 22 738099",
+          "type": "Short Term Stall(Bazaar/Road Shows)",
+          "number": "EEST26020000113",
+          "scheme": "Eating Establishment",
+          "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
+          "postal": "738099"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-03-13T22:20:25.953474",
     "date": "2026-03-13",
     "summary": {
@@ -8927,130 +8969,6 @@
           "scheme": "Eating Establishment",
           "id": "30abd843-2c8a-42c5-aa10-e511ec3644ba",
           "postal": "098585"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-01-15T22:17:24.753500",
-    "date": "2026-01-15",
-    "summary": {
-      "new": 10,
-      "removed": 2,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "NAMU BULGOGI",
-          "address": "17 PETIR ROAD #B2-55-56 BUKIT PANJANG INTEGRATED TRANSPORT HUB 678278",
-          "type": "Restaurant",
-          "number": "EERT20250000778",
-          "scheme": "Eating Establishment",
-          "id": "d49cd0f6-e81b-4a10-809e-9c9d95552c9e",
-          "postal": "678278"
-        },
-        {
-          "name": "GOGO FRANKS",
-          "address": "63 JURONG WEST CENTRAL 3 #03-89B JURONG POINT 648331",
-          "type": "Snack Bar / Bakery",
-          "number": "EEBN21100012892",
-          "scheme": "Eating Establishment",
-          "id": "46dc3d57-aa01-4556-b871-2900a6a3a796",
-          "postal": "648331"
-        },
-        {
-          "name": "MONSTER PLANET",
-          "address": "50 JURONG GATEWAY ROAD #01-07 JEM 608549",
-          "type": "Restaurant",
-          "number": "EERN21120013344",
-          "scheme": "Eating Establishment",
-          "id": "206ff1ce-bbee-425d-ad7b-5589d2378f5d",
-          "postal": "608549"
-        },
-        {
-          "name": "NAMU BULGOGI",
-          "address": "10 TAMPINES CENTRAL 1 #B1-K18 TAMPINES ONE 529536",
-          "type": "Restaurant",
-          "number": "EERT20240001289",
-          "scheme": "Eating Establishment",
-          "id": "d49cd0f6-e81b-4a10-809e-9c9d95552c9e",
-          "postal": "529536"
-        },
-        {
-          "name": "Firefry Thai Snacks",
-          "address": "3 SIMEI STREET 6 #01-01C EASTPOINT MALL 528833",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26010000040",
-          "scheme": "Eating Establishment",
-          "id": "d4bb77c7-6cf2-4bef-9fd3-4e752c83238e",
-          "postal": "528833"
-        },
-        {
-          "name": "Pratunam",
-          "address": "418 NORTHSHORE DRIVE #02-01 NORTHSHORE PLAZA II 820418",
-          "type": "Restaurant",
-          "number": "EERT26010000039",
-          "scheme": "Eating Establishment",
-          "id": "77c49e4d-695d-41e7-8daf-91f688fd6a0e",
-          "postal": "820418"
-        },
-        {
-          "name": "MONSTER PLANET",
-          "address": "176 ORCHARD ROAD #01-33C/D THE CENTREPOINT 238843",
-          "type": "Restaurant",
-          "number": "EERN21120013345",
-          "scheme": "Eating Establishment",
-          "id": "206ff1ce-bbee-425d-ad7b-5589d2378f5d",
-          "postal": "238843"
-        },
-        {
-          "name": "CHICKATA CAFE",
-          "address": "200 BEDOK NORTH AVENUE 1 #01-7B 469752",
-          "type": "Restaurant",
-          "number": "EERT26010000046",
-          "scheme": "Eating Establishment",
-          "id": "fc5b2678-c40a-4cd5-88bc-370a6e291c11",
-          "postal": "469752"
-        },
-        {
-          "name": "NAMU BULGOGI",
-          "address": "1 NORTHPOINT DRIVE #B1-181 NEE SOON CENTRAL COMMUNITY CLUB 768019",
-          "type": "Restaurant",
-          "number": "EERT26010000019",
-          "scheme": "Eating Establishment",
-          "id": "d49cd0f6-e81b-4a10-809e-9c9d95552c9e",
-          "postal": "768019"
-        },
-        {
-          "name": "Pratunam Plus & Firefry Thai Snacks",
-          "address": "201 VICTORIA STREET #04-09 BUGIS+ 188067",
-          "type": "Restaurant",
-          "number": "EERT26010000038",
-          "scheme": "Eating Establishment",
-          "id": "19ee0c08-5cee-42da-ac70-58a87d1ccb45",
-          "postal": "188067"
-        }
-      ],
-      "removed": [
-        {
-          "name": "TEXAS CHICKEN",
-          "address": "638 JURONG WEST STREET 61 #02-01 PIONEER MALL 640638",
-          "type": "Restaurant",
-          "number": "EERN21120013350",
-          "scheme": "Eating Establishment",
-          "id": "53c88848-1280-4fee-b6dc-b5d1d941c07d",
-          "postal": "640638"
-        },
-        {
-          "name": "QI JI",
-          "address": "107 NORTH BRIDGE ROAD #B2-12 FUNAN 179105",
-          "type": "Restaurant",
-          "number": "EERN21050012345",
-          "scheme": "Eating Establishment",
-          "id": "01cd5d67-3096-4ef7-bc6a-394a937ea753",
-          "postal": "179105"
         }
       ],
       "updated": []
