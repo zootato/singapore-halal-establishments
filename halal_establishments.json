@@ -3412,6 +3412,15 @@
   },
   {
     "name": "BERADIK WESTERN",
+    "address": "1 SENGKANG SQUARE #04-11 KOPITIAM COMPASS ONE, Stall 20 545078",
+    "type": "Hawker",
+    "number": "EEHK26030000033",
+    "scheme": "Eating Establishment",
+    "id": "6ffc5a28-9ba0-4258-bc3d-5ae677b2a41e",
+    "postal": "545078"
+  },
+  {
+    "name": "BERADIK WESTERN",
     "address": "5 LOWER KENT RIDGE ROAD #01-01 NATIONAL UNIVERSITY HOSPITAL, STALL 10, KOPITIAM NUH 119074",
     "type": "Hawker",
     "number": "EEHK25120000087",
@@ -4654,15 +4663,6 @@
   },
   {
     "name": "BURGER KING",
-    "address": "604 SEMBAWANG ROAD #01-24/25/26 SEMBAWANG SHOPPING CENTRE 758459",
-    "type": "Restaurant",
-    "number": "EERT20250000612",
-    "scheme": "Eating Establishment",
-    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
-    "postal": "758459"
-  },
-  {
-    "name": "BURGER KING",
     "address": "460 ALEXANDRA ROAD #01-17/20 ALEXANDRA RETAIL CENTER 119963",
     "type": "Restaurant",
     "number": "EERN20030011327",
@@ -4849,6 +4849,15 @@
     "scheme": "Eating Establishment",
     "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
     "postal": "689964"
+  },
+  {
+    "name": "BURGER KING",
+    "address": "604 SEMBAWANG ROAD #01-24/25/26 SEMBAWANG SHOPPING CENTRE 758459",
+    "type": "Restaurant",
+    "number": "EERT20250000612",
+    "scheme": "Eating Establishment",
+    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+    "postal": "758459"
   },
   {
     "name": "BURGER KING",
@@ -5571,6 +5580,15 @@
     "postal": "618826"
   },
   {
+    "name": "CATERING CULTURE PTE LTD",
+    "address": "3017 BEDOK NORTH STREET 5 Gourmet East Kitchen #01-02 GOURMET EAST KITCHEN 486121",
+    "type": "Central Kitchen",
+    "number": "FPCK26030000020",
+    "scheme": "Food Preparation Area",
+    "id": "3bcdfaa6-bb5e-4922-8683-913a4df96d15",
+    "postal": "486121"
+  },
+  {
     "name": "CATERING CULTURE PTE. LTD.",
     "address": "3017 BEDOK NORTH STREET 5 #01-12 GOURMET EAST KITCHEN 486121",
     "type": "Catering Company",
@@ -5803,6 +5821,15 @@
     "scheme": "Eating Establishment",
     "id": "852c0e37-24a8-4401-8e57-11f808cf0feb",
     "postal": "544692"
+  },
+  {
+    "name": "Chewy Junior",
+    "address": "1 PASIR RIS CENTRAL STREET 3 #B1-K07 WHITE SANDS 518457",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26030000021",
+    "scheme": "Eating Establishment",
+    "id": "e771787a-3073-49e7-946c-d641dbf56153",
+    "postal": "518457"
   },
   {
     "name": "Chewy Junior",
@@ -8362,21 +8389,21 @@
   },
   {
     "name": "Do Qoo",
-    "address": "2 JURONG EAST STREET 21 #01-37 IMM BUILDING 609601",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000018",
-    "scheme": "Eating Establishment",
-    "id": "00ba342f-f509-4c61-b6e9-e6cd94707bb6",
-    "postal": "609601"
-  },
-  {
-    "name": "Do Qoo",
     "address": "676 WOODLANDS DRIVE 71 #01-13 730676",
     "type": "Restaurant",
     "number": "EERT20220000221",
     "scheme": "Eating Establishment",
     "id": "00ba342f-f509-4c61-b6e9-e6cd94707bb6",
     "postal": "730676"
+  },
+  {
+    "name": "Do Qoo",
+    "address": "2 JURONG EAST STREET 21 #01-37 IMM BUILDING 609601",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000018",
+    "scheme": "Eating Establishment",
+    "id": "00ba342f-f509-4c61-b6e9-e6cd94707bb6",
+    "postal": "609601"
   },
   {
     "name": "Do Qoo",
@@ -8431,15 +8458,6 @@
     "scheme": "Eating Establishment",
     "id": "b81b4c0b-5e15-428b-ac30-e7acefae3dcf",
     "postal": "169364"
-  },
-  {
-    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
-    "address": "918 EAST COAST ROAD 918 459111",
-    "type": "Restaurant",
-    "number": "EERN21060012529",
-    "scheme": "Eating Establishment",
-    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
-    "postal": "459111"
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
@@ -8620,6 +8638,15 @@
     "scheme": "Eating Establishment",
     "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
     "postal": "820322"
+  },
+  {
+    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+    "address": "918 EAST COAST ROAD 918 459111",
+    "type": "Restaurant",
+    "number": "EERN21060012529",
+    "scheme": "Eating Establishment",
+    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+    "postal": "459111"
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
@@ -13354,15 +13381,6 @@
     "scheme": "Eating Establishment",
     "id": "066a00a7-fc46-43ee-ad5d-d062e6ea3de0",
     "postal": "520301"
-  },
-  {
-    "name": "Home of Seafood / Home of Sushi / Divine by Home of Seafood",
-    "address": "Gemilang Kampong Gelam, 38 KANDAHAR STREET KAMPONG GLAM CONSERVATION AREA, K30 198894",
-    "type": "Short Term Stall(Bazaar/Road Shows)",
-    "number": "EEST26020000103",
-    "scheme": "Eating Establishment",
-    "id": "066a00a7-fc46-43ee-ad5d-d062e6ea3de0",
-    "postal": "198894"
   },
   {
     "name": "Homemade Italian (S58)@Tiong Bahru Market",
@@ -22447,15 +22465,6 @@
   },
   {
     "name": "OLD CHANG KEE",
-    "address": "678A WOODLANDS AVENUE 6 #01-06 ADMIRALTY PLACE 731678",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20230000261",
-    "scheme": "Eating Establishment",
-    "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
-    "postal": "731678"
-  },
-  {
-    "name": "OLD CHANG KEE",
     "address": "238 THOMSON ROAD #01-70/71 NOVENA SQUARE 307683",
     "type": "Snack Bar / Bakery",
     "number": "EEBN20090011379",
@@ -22552,6 +22561,15 @@
     "scheme": "Eating Establishment",
     "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
     "postal": "238859"
+  },
+  {
+    "name": "OLD CHANG KEE",
+    "address": "678A WOODLANDS AVENUE 6 #01-06 ADMIRALTY PLACE 731678",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20230000261",
+    "scheme": "Eating Establishment",
+    "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
+    "postal": "731678"
   },
   {
     "name": "OLD CHANG KEE",
@@ -24165,15 +24183,6 @@
     "postal": "757713"
   },
   {
-    "name": "PEZZO",
-    "address": "1 NORTHPOINT DRIVE #B2-152 NORTHPOINT CITY 768019",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBX22010013066",
-    "scheme": "Eating Establishment",
-    "id": "49b74e8e-3054-4cf6-ac23-1aa44135302b",
-    "postal": "768019"
-  },
-  {
     "name": "Pho Viet-Nam",
     "address": "1 WOODLANDS SQUARE Stall 2, Cantine #07-03 CAUSEWAY POINT 738099",
     "type": "Hawker",
@@ -24298,15 +24307,6 @@
     "scheme": "Eating Establishment",
     "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
     "postal": "545078"
-  },
-  {
-    "name": "PIZZA HUT SINGAPORE PTE LTD",
-    "address": "888 WOODLANDS DRIVE 50 #01-729 888 PLAZA 730888",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000702",
-    "scheme": "Eating Establishment",
-    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
-    "postal": "730888"
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
@@ -24739,6 +24739,15 @@
     "scheme": "Eating Establishment",
     "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
     "postal": "310085"
+  },
+  {
+    "name": "PIZZA HUT SINGAPORE PTE LTD",
+    "address": "888 WOODLANDS DRIVE 50 #01-729 888 PLAZA 730888",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000702",
+    "scheme": "Eating Establishment",
+    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
+    "postal": "730888"
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
@@ -25903,15 +25912,6 @@
   },
   {
     "name": "QI JI",
-    "address": "3 SIMEI STREET 6 #01-28 EASTPOINT MALL 528833",
-    "type": "Restaurant",
-    "number": "EERN21050012333",
-    "scheme": "Eating Establishment",
-    "id": "01cd5d67-3096-4ef7-bc6a-394a937ea753",
-    "postal": "528833"
-  },
-  {
-    "name": "QI JI",
     "address": "59 JALAN PEMIMPIN Kitchen 5 #01-03 & #01-04 L & Y BUILDING 577218",
     "type": "Hawker",
     "number": "EEHK26010000102",
@@ -25954,6 +25954,15 @@
     "scheme": "Eating Establishment",
     "id": "01cd5d67-3096-4ef7-bc6a-394a937ea753",
     "postal": "768019"
+  },
+  {
+    "name": "QI JI",
+    "address": "3 SIMEI STREET 6 #01-28 EASTPOINT MALL 528833",
+    "type": "Restaurant",
+    "number": "EERN21050012333",
+    "scheme": "Eating Establishment",
+    "id": "01cd5d67-3096-4ef7-bc6a-394a937ea753",
+    "postal": "528833"
   },
   {
     "name": "QUAN FENG FOOD SUPPLY PTE. LTD.",
@@ -27271,21 +27280,21 @@
   },
   {
     "name": "Sanook Kitchen",
-    "address": "2 ORCHARD TURN #B3-19 ION ORCHARD 238801",
-    "type": "Restaurant",
-    "number": "EERT20220000262",
-    "scheme": "Eating Establishment",
-    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-    "postal": "238801"
-  },
-  {
-    "name": "Sanook Kitchen",
     "address": "10 PAYA LEBAR ROAD #03-28/29 PLQ MALL 409057",
     "type": "Restaurant",
     "number": "EERT20220001029",
     "scheme": "Eating Establishment",
     "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
     "postal": "409057"
+  },
+  {
+    "name": "Sanook Kitchen",
+    "address": "2 ORCHARD TURN #B3-19 ION ORCHARD 238801",
+    "type": "Restaurant",
+    "number": "EERT20220000262",
+    "scheme": "Eating Establishment",
+    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+    "postal": "238801"
   },
   {
     "name": "Sanook Kitchen",
@@ -28753,15 +28762,6 @@
     "scheme": "Eating Establishment",
     "id": "3607c36d-40c4-4550-96f4-d4bde8bcf325",
     "postal": "757387"
-  },
-  {
-    "name": "Srisun Express",
-    "address": "681 HOUGANG AVENUE 8 #01-831 HOUGANG VILLAGE 530681",
-    "type": "Restaurant",
-    "number": "EERT20230000895",
-    "scheme": "Eating Establishment",
-    "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
-    "postal": "530681"
   },
   {
     "name": "Srisun Express",
@@ -33805,48 +33805,12 @@
   },
   {
     "name": "THE ORIGINAL VADAI",
-    "address": "Pelita Raya Bazaar, 20 TAMPINES CENTRAL 1 TAMPINES MRT STATION (EW2), F33 529538",
-    "type": "Short Term Stall(Bazaar/Road Shows)",
-    "number": "EEST26020000106",
-    "scheme": "Eating Establishment",
-    "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
-    "postal": "529538"
-  },
-  {
-    "name": "THE ORIGINAL VADAI",
     "address": "Jurong Central Ramadan Bazaar, 496 JURONG WEST STREET 41, 27 640496",
     "type": "Short Term Stall(Bazaar/Road Shows)",
     "number": "EEST26020000108",
     "scheme": "Eating Establishment",
     "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
     "postal": "640496"
-  },
-  {
-    "name": "THE ORIGINAL VADAI",
-    "address": "Bazaar Raya Geylang Serai, 1 ENGKU AMAN TURN WISMA GEYLANG SERAI, 7 408528",
-    "type": "Short Term Stall(Bazaar/Road Shows)",
-    "number": "EEST26020000109",
-    "scheme": "Eating Establishment",
-    "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
-    "postal": "408528"
-  },
-  {
-    "name": "THE ORIGINAL VADAI",
-    "address": "Bazaar Raya Geylang Serai, 1 GEYLANG SERAI SRI GEYLANG SERAI, 37, 38 402001",
-    "type": "Short Term Stall(Bazaar/Road Shows)",
-    "number": "EEST26020000110",
-    "scheme": "Eating Establishment",
-    "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
-    "postal": "402001"
-  },
-  {
-    "name": "THE ORIGINAL VADAI",
-    "address": "Admiralty Ramadan Bazaar, 683B WOODLANDS DRIVE 62, 28 732683",
-    "type": "Short Term Stall(Bazaar/Road Shows)",
-    "number": "EEST26020000112",
-    "scheme": "Eating Establishment",
-    "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
-    "postal": "732683"
   },
   {
     "name": "THE ORIGINAL VADAI",
