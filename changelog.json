@@ -1,5 +1,240 @@
 [
   {
+    "timestamp": "2026-03-16T22:24:26.220633",
+    "date": "2026-03-16",
+    "summary": {
+      "new": 17,
+      "removed": 5,
+      "updated": 1
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "HARYASIN WEDDING BRIYANI",
+          "address": "1009 ALJUNIED AVENUE 4 #01-22 ALJUNIED INDUSTRIAL ESTATE 389910",
+          "type": "Catering Company",
+          "number": "FPCA26030000027",
+          "scheme": "Food Preparation Area",
+          "id": "b95e07ff-21c8-4039-8dda-1c6c1a501d4b",
+          "postal": "389910"
+        },
+        {
+          "name": "L & M FOODHUB SEAFOOD BBQ/CHEF CHICKEN RICE",
+          "address": "413 BUKIT BATOK WEST AVENUE 4 Stall No 1@02 Cafe #01-220 650413",
+          "type": "Hawker",
+          "number": "EEHK26030000043",
+          "scheme": "Eating Establishment",
+          "id": "ca1f5baf-e20a-4fb3-8b99-6525c73b16f1",
+          "postal": "650413"
+        },
+        {
+          "name": "KOPI & TARTS",
+          "address": "53 ANG MO KIO AVENUE 3 #02-58 AMK HUB 569933",
+          "type": "Restaurant",
+          "number": "EERT26030000051",
+          "scheme": "Eating Establishment",
+          "id": "f0c681c2-b4e6-4cba-9de7-9d2e2c9f7515",
+          "postal": "569933"
+        },
+        {
+          "name": "CHEF CHICKEN RICE",
+          "address": "547 SEGAR ROAD Stall No 4@FoodHub #01-01 SEGAR VALE 670547",
+          "type": "Hawker",
+          "number": "EEHK26030000049",
+          "scheme": "Eating Establishment",
+          "id": "12722e93-7eb4-4c75-9181-0eb1606d2ca3",
+          "postal": "670547"
+        },
+        {
+          "name": "ANAS BAKERY",
+          "address": "883 WOODLANDS STREET 82 #01-480 WOODLANDS NORTH PLAZA 730883",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26030000018",
+          "scheme": "Eating Establishment",
+          "id": "346deac2-cd9d-498f-b10e-84013843952d",
+          "postal": "730883"
+        },
+        {
+          "name": "Cinta Hainanese Chicken Rice",
+          "address": "84 PUNGGOL WAY #02-K72 PUNGGOL COAST HAWKER CENTRE 829911",
+          "type": "Hawker",
+          "number": "EEHK26030000053",
+          "scheme": "Eating Establishment",
+          "id": "4f8511ab-2f47-49ce-8fba-6cfcbcb7ae04",
+          "postal": "829911"
+        },
+        {
+          "name": "ANDES",
+          "address": "32 NANYANG CRESCENT (CANTEEN 13) NANYANG TECHNOLOGICAL UNIVERSITY (HALL OF RESIDENCE 13) 637658",
+          "type": "Restaurant",
+          "number": "EERT26030000028",
+          "scheme": "Eating Establishment",
+          "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
+          "postal": "637658"
+        },
+        {
+          "name": "L & M FOODHUB(BB134)SEAFOOD.BBQ",
+          "address": "134 BUKIT BATOK WEST AVENUE 6 Stall No 8@02 Cafe #01-463 650134",
+          "type": "Hawker",
+          "number": "EEHK26030000046",
+          "scheme": "Eating Establishment",
+          "id": "5c7fe627-2afc-45cd-b83e-53b17e56927a",
+          "postal": "650134"
+        },
+        {
+          "name": "Providence Cafe & Bakery",
+          "address": "3 WOODLANDS STREET 81 RIVERSIDE SECONDARY SCHOOL 738524",
+          "type": "Canteen",
+          "number": "EESC26030000052",
+          "scheme": "Eating Establishment",
+          "id": "dbdc613f-701f-4178-b1d5-af65a15b5d9e",
+          "postal": "738524"
+        },
+        {
+          "name": "GYOGYO",
+          "address": "180 KITCHENER ROAD #02-39/40 CITY SQUARE MALL 208539",
+          "type": "Restaurant",
+          "number": "EERT26030000031",
+          "scheme": "Eating Establishment",
+          "id": "298228cd-cc67-483f-b68d-5eef148415a7",
+          "postal": "208539"
+        },
+        {
+          "name": "L & M Seafood",
+          "address": "240 TENGAH GARDEN WALK MR8@Yong Li Coffee Station #01-01 GARDEN VINES @ TENGAH 690240",
+          "type": "Hawker",
+          "number": "EEHK26030000042",
+          "scheme": "Eating Establishment",
+          "id": "a270c4f1-833f-4f1b-9f64-fad74f459d26",
+          "postal": "690240"
+        },
+        {
+          "name": "MOON RIVER CAKE SHOP",
+          "address": "624 CHOA CHU KANG STREET 62 #01-232 YEW TEE SQUARE 680624",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26030000041",
+          "scheme": "Eating Establishment",
+          "id": "b9173614-f492-4762-b2a6-ad4b0ac7045e",
+          "postal": "680624"
+        },
+        {
+          "name": "L & M SEAFOOD SENGKANG",
+          "address": "455 SENGKANG WEST AVENUE Stall No 1@FoodHub #01-#01 FERNVALE WOODS 790455",
+          "type": "Hawker",
+          "number": "EEHK26030000047",
+          "scheme": "Eating Establishment",
+          "id": "400f63bb-a8fb-43fc-a539-f068e8ed83e1",
+          "postal": "790455"
+        },
+        {
+          "name": "Tim Hortons",
+          "address": "65 AIRPORT BOULEVARD #B2-13 CHANGI AIRPORT TERMINAL 3 819663",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26030000023",
+          "scheme": "Eating Establishment",
+          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+          "postal": "819663"
+        },
+        {
+          "name": "L & M SEAFOOD CCK",
+          "address": "803 KEAT HONG CLOSE FOOD HUB, Stall 1 680803",
+          "type": "Hawker",
+          "number": "EEHK26030000044",
+          "scheme": "Eating Establishment",
+          "id": "179542a2-2bce-4453-b261-f3450928aecb",
+          "postal": "680803"
+        },
+        {
+          "name": "L & M Seafood",
+          "address": "150 TOWNER ROAD Stall no 10@FoodHub #01-#01 TOWNER CREST 320150",
+          "type": "Hawker",
+          "number": "EEHK26030000048",
+          "scheme": "Eating Establishment",
+          "id": "a270c4f1-833f-4f1b-9f64-fad74f459d26",
+          "postal": "320150"
+        },
+        {
+          "name": "KOPI & TARTS",
+          "address": "260 ORCHARD ROAD #01-05 THE HEEREN 238855",
+          "type": "Restaurant",
+          "number": "EERT26030000050",
+          "scheme": "Eating Establishment",
+          "id": "f0c681c2-b4e6-4cba-9de7-9d2e2c9f7515",
+          "postal": "238855"
+        }
+      ],
+      "removed": [
+        {
+          "name": "MR BEAN",
+          "address": "1 BUKIT BATOK CENTRAL LINK #01-07A WEST MALL 658713",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000215",
+          "scheme": "Eating Establishment",
+          "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
+          "postal": "658713"
+        },
+        {
+          "name": "TIP TOP",
+          "address": "1 PASIR RIS CLOSE #02-109 E!HUB@DOWNTOWN EAST 519599",
+          "type": "Restaurant",
+          "number": "EERT20240000728",
+          "scheme": "Eating Establishment",
+          "id": "87a00d7d-0af0-4000-be56-7b7facc1c180",
+          "postal": "519599"
+        },
+        {
+          "name": "Sanook Kitchen",
+          "address": "16 LORONG MAMBONG HOLLAND VILLAGE 277677",
+          "type": "Restaurant",
+          "number": "EERN21080012849",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "277677"
+        },
+        {
+          "name": "Telur Thai",
+          "address": "127 PLANTATION CRESCENT #03-02 KOUFU PLANTATION PLAZA, Stall 4 690127",
+          "type": "Hawker",
+          "number": "EEHK20250000775",
+          "scheme": "Eating Establishment",
+          "id": "7001901a-4b95-4a8b-8989-93cb7b0f369a",
+          "postal": "690127"
+        },
+        {
+          "name": "McDonald's",
+          "address": "4 BUKIT BATOK STREET 41 #01-42-45/50-54 LE QUEST 657991",
+          "type": "Restaurant",
+          "number": "EERN21010011971",
+          "scheme": "Eating Establishment",
+          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+          "postal": "657991"
+        }
+      ],
+      "updated": [
+        {
+          "previous": {
+            "name": "Pasta Kaki & Churros Factory",
+            "address": "83 KAMPONG BAHRU ROAD BLAIR PLAIN CONSERVATION AREA 169379",
+            "type": "Restaurant",
+            "number": "EERT25120000072",
+            "scheme": "Eating Establishment",
+            "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
+            "postal": "169379"
+          },
+          "current": {
+            "name": "CANADIAN 2 FOR 1 PIZZA",
+            "address": "83 KAMPONG BAHRU ROAD BLAIR PLAIN CONSERVATION AREA 169379",
+            "type": "Restaurant",
+            "number": "EERT25120000072",
+            "scheme": "Eating Establishment",
+            "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
+            "postal": "169379"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-03-15T22:19:11.097633",
     "date": "2026-03-15",
     "summary": {
@@ -8714,30 +8949,6 @@
           }
         }
       ]
-    }
-  },
-  {
-    "timestamp": "2026-01-17T22:15:54.303792",
-    "date": "2026-01-17",
-    "summary": {
-      "new": 1,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "WESTERN CUISINE (S8) @ MAKAN PLACE NGEE ANN POLYTECHNIC",
-          "address": "535 CLEMENTI ROAD #02-00 NGEE ANN POLYTECHNIC (Blk 51) 599489",
-          "type": "Hawker",
-          "number": "EEHK20220001048",
-          "scheme": "Eating Establishment",
-          "id": "586b5a83-8e81-48db-b9bc-6ea23be8cb65",
-          "postal": "599489"
-        }
-      ],
-      "removed": [],
-      "updated": []
     }
   }
 ]
