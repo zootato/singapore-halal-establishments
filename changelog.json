@@ -1,5 +1,93 @@
 [
   {
+    "timestamp": "2026-03-17T22:24:15.761805",
+    "date": "2026-03-17",
+    "summary": {
+      "new": 6,
+      "removed": 2,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Saute Sushi",
+          "address": "60 PAYA LEBAR ROAD #B1-19 PAYA LEBAR SQUARE 409051",
+          "type": "Restaurant",
+          "number": "EERT20240000009",
+          "scheme": "Eating Establishment",
+          "id": "5f5e7938-d2ca-47d7-aeca-c9779cdae0a3",
+          "postal": "409051"
+        },
+        {
+          "name": "Saute Saranghae",
+          "address": "10 TAMPINES CENTRAL 1 #05-08/09 TAMPINES ONE 529536",
+          "type": "Restaurant",
+          "number": "EERT20240000496",
+          "scheme": "Eating Establishment",
+          "id": "953557b4-8f10-4cef-a959-e0d19f27a842",
+          "postal": "529536"
+        },
+        {
+          "name": "LE MAK'S CHICK / BEVERAGE",
+          "address": "26 SENTOSA GATEWAY #02-202/203 SHOWPLACE (RESORTS WORLD SENTOSA), STALL 12/13, NASI & SPICE 098138",
+          "type": "Hawker",
+          "number": "EEHK26020000127",
+          "scheme": "Eating Establishment",
+          "id": "9b07fdc8-07e4-45b0-a216-94e600e264b8",
+          "postal": "098138"
+        },
+        {
+          "name": "A Tangerine Wok",
+          "address": "21 TAMPINES AVENUE 1 Stall 3 Block 1A Foodgle @ Sprout #02-76 TEMASEK POLYTECHNIC 529757",
+          "type": "Hawker",
+          "number": "EEHK26030000029",
+          "scheme": "Eating Establishment",
+          "id": "fab3ea1f-e9d1-4ff0-bdff-095d6de6324b",
+          "postal": "529757"
+        },
+        {
+          "name": "SAUTE-SAN",
+          "address": "180 KITCHENER ROAD #03-23/24 CITY SQUARE MALL 208539",
+          "type": "Restaurant",
+          "number": "EERT20220000877",
+          "scheme": "Eating Establishment",
+          "id": "c30500d3-8278-48e1-a104-78ce76197359",
+          "postal": "208539"
+        },
+        {
+          "name": "Flavours by Saute",
+          "address": "107 NORTH BRIDGE ROAD #B1-30 FUNAN 179105",
+          "type": "Restaurant",
+          "number": "EERT20240000010",
+          "scheme": "Eating Establishment",
+          "id": "72a580ab-8061-4179-94b8-8eecf41933c8",
+          "postal": "179105"
+        }
+      ],
+      "removed": [
+        {
+          "name": "SUPER SUSHI",
+          "address": "4 TAMPINES CENTRAL 5 #B1-K4 TAMPINES MALL 529510",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000837",
+          "scheme": "Eating Establishment",
+          "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
+          "postal": "529510"
+        },
+        {
+          "name": "Sunbo Express Chicken Rice & BBQ Central Kitchen",
+          "address": "10 TAMPINES NORTH DRIVE 4 #01-05/K6 JTC SPACE @ TAMPINES NORTH 528553",
+          "type": "Central Kitchen",
+          "number": "FPCK25110000037",
+          "scheme": "Food Preparation Area",
+          "id": "9fa9e5c6-5648-4bfa-84a3-a739e96b331e",
+          "postal": "528553"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-03-16T22:24:26.220633",
     "date": "2026-03-16",
     "summary": {
@@ -8782,173 +8870,6 @@
         }
       ],
       "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-01-19T22:18:30.143773",
-    "date": "2026-01-19",
-    "summary": {
-      "new": 8,
-      "removed": 2,
-      "updated": 3
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Pepper Lunch Express",
-          "address": "2 BAYFRONT AVENUE S14 #B2-49,#B2-53 THE SHOPPES AT MARINA BAY SANDS 018972",
-          "type": "Hawker",
-          "number": "EEHK26010000024",
-          "scheme": "Eating Establishment",
-          "id": "98ee1f0a-51fe-43dd-b422-c358e1bdc5a0",
-          "postal": "018972"
-        },
-        {
-          "name": "Pepper Lunch Express",
-          "address": "1 BUKIT BATOK CENTRAL LINK MR3, Kopitiam #04-01 WEST MALL 658713",
-          "type": "Hawker",
-          "number": "EEHK26010000026",
-          "scheme": "Eating Establishment",
-          "id": "98ee1f0a-51fe-43dd-b422-c358e1bdc5a0",
-          "postal": "658713"
-        },
-        {
-          "name": "Papa Cafe",
-          "address": "533 CHOA CHU KANG STREET 51 #01-27 LIMBANG SHOPPING CENTRE 680533",
-          "type": "Restaurant",
-          "number": "EERT20240000607",
-          "scheme": "Eating Establishment",
-          "id": "c320ebaa-36a4-45c6-a2d8-edeafb4c983e",
-          "postal": "680533"
-        },
-        {
-          "name": "ON'LEE CAFE",
-          "address": "11 WOODLANDS SQUARE #B1-08,-#B1-09, #B1-10, #B1-11 WOODLANDS MRT STATION (TE2) 737736",
-          "type": "Restaurant",
-          "number": "EERT26010000036",
-          "scheme": "Eating Establishment",
-          "id": "ebc63ffa-cc82-42b2-94e8-b2dc8dbc62dd",
-          "postal": "737736"
-        },
-        {
-          "name": "Metta Cafe",
-          "address": "32 SIMEI STREET 1 METTA BUILDING 529950",
-          "type": "Restaurant",
-          "number": "EERN21030012180",
-          "scheme": "Eating Establishment",
-          "id": "9869ce0b-96b9-470c-9264-4633fb08e4e1",
-          "postal": "529950"
-        },
-        {
-          "name": "Papa Cafe",
-          "address": "991 BUANGKOK LINK #02-10 530991",
-          "type": "Restaurant",
-          "number": "EERN21110013214",
-          "scheme": "Eating Establishment",
-          "id": "3ec4c454-3ee3-42d6-86b9-0efdaad99ca8",
-          "postal": "530991"
-        },
-        {
-          "name": "Metta Cafe",
-          "address": "32 SIMEI STREET 1 METTA BUILDING 529950",
-          "type": "Catering Company",
-          "number": "FPCA25120000114",
-          "scheme": "Food Preparation Area",
-          "id": "9869ce0b-96b9-470c-9264-4633fb08e4e1",
-          "postal": "529950"
-        },
-        {
-          "name": "Pepper Lunch Express",
-          "address": "9 BISHAN PLACE S11 Food Junction #04-1/2E JUNCTION 8 579837",
-          "type": "Hawker",
-          "number": "EEHK26010000025",
-          "scheme": "Eating Establishment",
-          "id": "98ee1f0a-51fe-43dd-b422-c358e1bdc5a0",
-          "postal": "579837"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Rasa Bagus Restoran",
-          "address": "654A PUNGGOL DRIVE #01-07 821654",
-          "type": "Restaurant",
-          "number": "EERT20250000271",
-          "scheme": "Eating Establishment",
-          "id": "a44e4758-f61a-4ef4-8025-3c0f3416ce72",
-          "postal": "821654"
-        },
-        {
-          "name": "Pondok Selera By Nurul Hidayah",
-          "address": "8A ADMIRALTY STREET #07-38 FOOD XCHANGE @ ADMIRALTY 757437",
-          "type": "Catering Company",
-          "number": "FPCA20240001085",
-          "scheme": "Food Preparation Area",
-          "id": "8f6454b2-602c-4716-9676-b445a534cc6a",
-          "postal": "757437"
-        }
-      ],
-      "updated": [
-        {
-          "previous": {
-            "name": "YES! TOMATO",
-            "address": "431 YISHUN AVENUE 1 #01-01 VISTA SPRING @ YISHUN 760431",
-            "type": "Hawker",
-            "number": "EEHN22020013210",
-            "scheme": "Eating Establishment",
-            "id": "212fd581-990e-4387-add3-bc91466f9375",
-            "postal": "760431"
-          },
-          "current": {
-            "name": "YES! TOMATO",
-            "address": "431 YISHUN AVENUE 1 #01-01 VISTA SPRING @ YISHUN, Stall 2 760431",
-            "type": "Hawker",
-            "number": "EEHN22020013210",
-            "scheme": "Eating Establishment",
-            "id": "212fd581-990e-4387-add3-bc91466f9375",
-            "postal": "760431"
-          }
-        },
-        {
-          "previous": {
-            "name": "HUGABO",
-            "address": "7 WALLICH STREET #B1-23 GUOCO TOWER,(right part of) 078884",
-            "type": "Snack Bar / Bakery",
-            "number": "EESB20240000150",
-            "scheme": "Eating Establishment",
-            "id": "2e6b1f33-8843-4d1c-a0f4-c6e566b81a7d",
-            "postal": "078884"
-          },
-          "current": {
-            "name": "HUGABO",
-            "address": "7 WALLICH STREET #B1-23 GUOCO TOWER, (right part of) 078884",
-            "type": "Snack Bar / Bakery",
-            "number": "EESB20240000150",
-            "scheme": "Eating Establishment",
-            "id": "2e6b1f33-8843-4d1c-a0f4-c6e566b81a7d",
-            "postal": "078884"
-          }
-        },
-        {
-          "previous": {
-            "name": "HUGABO",
-            "address": "1 PASIR RIS CENTRAL STREET 3 #B1-07/08,(Right Part of) 518457",
-            "type": "Snack Bar / Bakery",
-            "number": "EESB20240000036",
-            "scheme": "Eating Establishment",
-            "id": "2e6b1f33-8843-4d1c-a0f4-c6e566b81a7d",
-            "postal": "518457"
-          },
-          "current": {
-            "name": "HUGABO",
-            "address": "1 PASIR RIS CENTRAL STREET 3 #B1-07/08, (Right Part of) 518457",
-            "type": "Snack Bar / Bakery",
-            "number": "EESB20240000036",
-            "scheme": "Eating Establishment",
-            "id": "2e6b1f33-8843-4d1c-a0f4-c6e566b81a7d",
-            "postal": "518457"
-          }
-        }
-      ]
     }
   }
 ]

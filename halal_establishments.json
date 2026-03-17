@@ -576,6 +576,15 @@
     "postal": "540339"
   },
   {
+    "name": "A Tangerine Wok",
+    "address": "21 TAMPINES AVENUE 1 Stall 3 Block 1A Foodgle @ Sprout #02-76 TEMASEK POLYTECHNIC 529757",
+    "type": "Hawker",
+    "number": "EEHK26030000029",
+    "scheme": "Eating Establishment",
+    "id": "fab3ea1f-e9d1-4ff0-bdff-095d6de6324b",
+    "postal": "529757"
+  },
+  {
     "name": "A&W",
     "address": "63 JURONG WEST CENTRAL 3 #03-42-47 /K3-K4, JURONG POINT 648331",
     "type": "Restaurant",
@@ -4663,15 +4672,6 @@
   },
   {
     "name": "BURGER KING",
-    "address": "151 LORONG CHUAN #01-09 NEW TECH PARK 556741",
-    "type": "Restaurant",
-    "number": "EERT20240001020",
-    "scheme": "Eating Establishment",
-    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
-    "postal": "556741"
-  },
-  {
-    "name": "BURGER KING",
     "address": "460 ALEXANDRA ROAD #01-17/20 ALEXANDRA RETAIL CENTER 119963",
     "type": "Restaurant",
     "number": "EERN20030011327",
@@ -4858,6 +4858,15 @@
     "scheme": "Eating Establishment",
     "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
     "postal": "049407"
+  },
+  {
+    "name": "BURGER KING",
+    "address": "151 LORONG CHUAN #01-09 NEW TECH PARK 556741",
+    "type": "Restaurant",
+    "number": "EERT20240001020",
+    "scheme": "Eating Establishment",
+    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+    "postal": "556741"
   },
   {
     "name": "BURGER KING",
@@ -10852,6 +10861,15 @@
     "scheme": "Eating Establishment",
     "id": "858409d2-c899-4b5b-982d-a5f5e3599ddb",
     "postal": "523954"
+  },
+  {
+    "name": "Flavours by Saute",
+    "address": "107 NORTH BRIDGE ROAD #B1-30 FUNAN 179105",
+    "type": "Restaurant",
+    "number": "EERT20240000010",
+    "scheme": "Eating Establishment",
+    "id": "72a580ab-8061-4179-94b8-8eecf41933c8",
+    "postal": "179105"
   },
   {
     "name": "Flavours of M @ M Hotel",
@@ -17134,6 +17152,15 @@
     "scheme": "Food Preparation Area",
     "id": "b10b6c03-320b-4191-aada-ffc49bd665a3",
     "postal": "629819"
+  },
+  {
+    "name": "LE MAK'S CHICK / BEVERAGE",
+    "address": "26 SENTOSA GATEWAY #02-202/203 SHOWPLACE (RESORTS WORLD SENTOSA), STALL 12/13, NASI & SPICE 098138",
+    "type": "Hawker",
+    "number": "EEHK26020000127",
+    "scheme": "Eating Establishment",
+    "id": "9b07fdc8-07e4-45b0-a216-94e600e264b8",
+    "postal": "098138"
   },
   {
     "name": "LE RAINBOW CATERING PTE LTD",
@@ -27477,6 +27504,33 @@
     "postal": "544886"
   },
   {
+    "name": "Saute Saranghae",
+    "address": "10 TAMPINES CENTRAL 1 #05-08/09 TAMPINES ONE 529536",
+    "type": "Restaurant",
+    "number": "EERT20240000496",
+    "scheme": "Eating Establishment",
+    "id": "953557b4-8f10-4cef-a959-e0d19f27a842",
+    "postal": "529536"
+  },
+  {
+    "name": "Saute Sushi",
+    "address": "60 PAYA LEBAR ROAD #B1-19 PAYA LEBAR SQUARE 409051",
+    "type": "Restaurant",
+    "number": "EERT20240000009",
+    "scheme": "Eating Establishment",
+    "id": "5f5e7938-d2ca-47d7-aeca-c9779cdae0a3",
+    "postal": "409051"
+  },
+  {
+    "name": "SAUTE-SAN",
+    "address": "180 KITCHENER ROAD #03-23/24 CITY SQUARE MALL 208539",
+    "type": "Restaurant",
+    "number": "EERT20220000877",
+    "scheme": "Eating Establishment",
+    "id": "c30500d3-8278-48e1-a104-78ce76197359",
+    "postal": "208539"
+  },
+  {
     "name": "SAYBONS",
     "address": "9 BISHAN PLACE #02-43 JUNCTION 8 579837",
     "type": "Restaurant",
@@ -30843,15 +30897,6 @@
     "postal": "529757"
   },
   {
-    "name": "Sunbo Express Chicken Rice & BBQ Central Kitchen",
-    "address": "10 TAMPINES NORTH DRIVE 4 #01-05/K6 JTC SPACE @ TAMPINES NORTH 528553",
-    "type": "Central Kitchen",
-    "number": "FPCK25110000037",
-    "scheme": "Food Preparation Area",
-    "id": "9fa9e5c6-5648-4bfa-84a3-a739e96b331e",
-    "postal": "528553"
-  },
-  {
     "name": "Sunbo Express Chicken Rice + BBQ",
     "address": "180 ANG MO KIO AVENUE 8 Blk E Stall 02 Foodgle Hub North Canteen #02 NANYANG POLYTECHNIC (NYP) 569830",
     "type": "Hawker",
@@ -30949,15 +30994,6 @@
     "scheme": "Eating Establishment",
     "id": "379c7e48-f182-4cbf-b7e4-45290f00a8f7",
     "postal": "330029"
-  },
-  {
-    "name": "SUPER SUSHI",
-    "address": "4 TAMPINES CENTRAL 5 #B1-K4 TAMPINES MALL 529510",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20240000837",
-    "scheme": "Eating Establishment",
-    "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
-    "postal": "529510"
   },
   {
     "name": "SUPER SUSHI",
@@ -32878,15 +32914,6 @@
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "21 CHOA CHU KANG AVENUE 4 #01-01 LOT ONE, SHOPPERS' MALL 689812",
-    "type": "Restaurant",
-    "number": "EERN21120013251",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "689812"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
     "address": "10 ANSON ROAD #01-32 INTERNATIONAL PLAZA 079903",
     "type": "Restaurant",
     "number": "EERN21120013265",
@@ -33073,6 +33100,15 @@
     "scheme": "Eating Establishment",
     "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
     "postal": "738099"
+  },
+  {
+    "name": "THE COFFEE BEAN & TEA LEAF",
+    "address": "21 CHOA CHU KANG AVENUE 4 #01-01 LOT ONE, SHOPPERS' MALL 689812",
+    "type": "Restaurant",
+    "number": "EERN21120013251",
+    "scheme": "Eating Establishment",
+    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+    "postal": "689812"
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
@@ -34948,15 +34984,6 @@
   },
   {
     "name": "TREATS",
-    "address": "299 YIO CHU KANG ROAD MOBIL SERVICE STATION 805909",
-    "type": "Food Kiosk",
-    "number": "EEFK20220001010",
-    "scheme": "Eating Establishment",
-    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
-    "postal": "805909"
-  },
-  {
-    "name": "TREATS",
     "address": "353 UPPER THOMSON ROAD MOBIL SERVICE STATION 574410",
     "type": "Food Kiosk",
     "number": "EEFK20230000637",
@@ -35053,6 +35080,15 @@
     "scheme": "Eating Establishment",
     "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
     "postal": "758452"
+  },
+  {
+    "name": "TREATS",
+    "address": "299 YIO CHU KANG ROAD MOBIL SERVICE STATION 805909",
+    "type": "Food Kiosk",
+    "number": "EEFK20220001010",
+    "scheme": "Eating Establishment",
+    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
+    "postal": "805909"
   },
   {
     "name": "TREATS",
