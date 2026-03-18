@@ -1,5 +1,111 @@
 [
   {
+    "timestamp": "2026-03-18T22:23:06.839310",
+    "date": "2026-03-18",
+    "summary": {
+      "new": 6,
+      "removed": 4,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Sunbo Express Chicken Rice & BBQ Central Kitchen",
+          "address": "10 TAMPINES NORTH DRIVE 4 #01-05/K6 JTC SPACE @ TAMPINES NORTH 528553",
+          "type": "Central Kitchen",
+          "number": "FPCK25110000037",
+          "scheme": "Food Preparation Area",
+          "id": "9fa9e5c6-5648-4bfa-84a3-a739e96b331e",
+          "postal": "528553"
+        },
+        {
+          "name": "SUPER SUSHI",
+          "address": "4 TAMPINES CENTRAL 5 #B1-K4 TAMPINES MALL 529510",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000837",
+          "scheme": "Eating Establishment",
+          "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
+          "postal": "529510"
+        },
+        {
+          "name": "Segar Restaurant",
+          "address": "133 NEW BRIDGE ROAD #B2-39,40,41 CHINATOWN POINT 059413",
+          "type": "Restaurant",
+          "number": "EERT26030000036",
+          "scheme": "Eating Establishment",
+          "id": "6d3fd645-b325-404d-9190-0d63f75df0d0",
+          "postal": "059413"
+        },
+        {
+          "name": "WESTCO'Z CAFE",
+          "address": "154 WEST COAST ROAD #02-23 WEST COAST PLAZA 127371",
+          "type": "Restaurant",
+          "number": "EERT26030000040",
+          "scheme": "Eating Establishment",
+          "id": "03de3854-1cca-4e2e-8979-d24039aabbb0",
+          "postal": "127371"
+        },
+        {
+          "name": "A-POH KITCHEN",
+          "address": "354 CLEMENTI AVENUE 2 #01-223 CLEMENTI AVENUE 2 SHOPPING CENTRE 120354",
+          "type": "Restaurant",
+          "number": "EERT26030000038",
+          "scheme": "Eating Establishment",
+          "id": "731647ee-52d0-4c18-9b0f-307235c935d8",
+          "postal": "120354"
+        },
+        {
+          "name": "L & M STEAMBOAT L& M SEAFOOD",
+          "address": "257 BANGKIT ROAD Stall No 7@FoodHub #01-65 BUKIT PANJANG NEIGHBOURHOOD CENTRE 670257",
+          "type": "Hawker",
+          "number": "EEHK26030000045",
+          "scheme": "Eating Establishment",
+          "id": "9654f029-478a-446e-9e4a-6829049195b9",
+          "postal": "670257"
+        }
+      ],
+      "removed": [
+        {
+          "name": "NO VIRTUAL BRANDS",
+          "address": "10 TAMPINES CENTRAL 1 #B1-09 TAMPINES ONE 529536",
+          "type": "Restaurant",
+          "number": "EERT20250000627",
+          "scheme": "Eating Establishment",
+          "id": "fd47b243-31f5-4a8e-91be-5b83d1f389d4",
+          "postal": "529536"
+        },
+        {
+          "name": "Sanook Kitchen",
+          "address": "1 STADIUM PLACE #01-16/K8 397628",
+          "type": "Restaurant",
+          "number": "EERN21080012848",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "397628"
+        },
+        {
+          "name": "MR BEAN",
+          "address": "1 MARITIME SQUARE #01-K4 HARBOURFRONT CENTRE 099253",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000177",
+          "scheme": "Eating Establishment",
+          "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
+          "postal": "099253"
+        },
+        {
+          "name": "MUKSHIDONNA",
+          "address": "Geylang Serai Ramadan Bazaar, 1 ENGKU AMAN TURN WISMA GEYLANG SERAI, 107 408528",
+          "type": "Short Term Stall(Bazaar/Road Shows)",
+          "number": "EEST26030000019",
+          "scheme": "Eating Establishment",
+          "id": "f915e579-b9cd-4066-a6e4-ff736d7c7f4d",
+          "postal": "408528"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-03-17T22:24:15.761805",
     "date": "2026-03-17",
     "summary": {
@@ -8825,48 +8931,6 @@
           "scheme": "Eating Establishment",
           "id": "5801d955-b96a-4e2d-9286-c9d861873fff",
           "postal": "600132"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-01-20T22:18:34.965522",
-    "date": "2026-01-20",
-    "summary": {
-      "new": 0,
-      "removed": 3,
-      "updated": 0
-    },
-    "changes": {
-      "new": [],
-      "removed": [
-        {
-          "name": "DELIBOWL",
-          "address": "6 CHANGI BUSINESS PARK AVENUE 1 #01-31 ESR BIZPARK @ CHANGI 486017",
-          "type": "Restaurant",
-          "number": "EERT20240001221",
-          "scheme": "Eating Establishment",
-          "id": "e1dfd439-7824-439d-ad94-b2de0bceecd4",
-          "postal": "486017"
-        },
-        {
-          "name": "Kuma-chan Onsen",
-          "address": "181 ORCHARD ROAD #07-10/11 ORCHARD CENTRAL 238896",
-          "type": "Restaurant",
-          "number": "EERT20250000060",
-          "scheme": "Eating Establishment",
-          "id": "115b17c0-9a64-452e-aaa6-b12d6686632f",
-          "postal": "238896"
-        },
-        {
-          "name": "Sugar Mama Lah",
-          "address": "730/732 NORTH BRIDGE ROAD (F&B COUNTER 2) CURBSIDE CRAFTERS 198698",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20250000287",
-          "scheme": "Eating Establishment",
-          "id": "48f3e571-dfbc-42db-a6fc-ed0d5b59dc37",
-          "postal": "198698"
         }
       ],
       "updated": []

@@ -702,6 +702,15 @@
     "postal": "689812"
   },
   {
+    "name": "A-POH KITCHEN",
+    "address": "354 CLEMENTI AVENUE 2 #01-223 CLEMENTI AVENUE 2 SHOPPING CENTRE 120354",
+    "type": "Restaurant",
+    "number": "EERT26030000038",
+    "scheme": "Eating Establishment",
+    "id": "731647ee-52d0-4c18-9b0f-307235c935d8",
+    "postal": "120354"
+  },
+  {
     "name": "AAHA BRIYANI",
     "address": "21 FERNVALE ROAD #01-02,#01-03 HIGH PARK RESIDENCES 797637",
     "type": "Restaurant",
@@ -17082,6 +17091,15 @@
     "postal": "790455"
   },
   {
+    "name": "L & M STEAMBOAT L& M SEAFOOD",
+    "address": "257 BANGKIT ROAD Stall No 7@FoodHub #01-65 BUKIT PANJANG NEIGHBOURHOOD CENTRE 670257",
+    "type": "Hawker",
+    "number": "EEHK26030000045",
+    "scheme": "Eating Establishment",
+    "id": "9654f029-478a-446e-9e4a-6829049195b9",
+    "postal": "670257"
+  },
+  {
     "name": "La-Kopi/Kampong Shiok & Sedap @ SRC (Mngd By Pro*3 Institutional Catering PL)",
     "address": "1 MERLIMAU ROAD 628260",
     "type": "Staff Canteen",
@@ -20467,15 +20485,6 @@
   },
   {
     "name": "MR BEAN",
-    "address": "1 MARITIME SQUARE #01-K4 HARBOURFRONT CENTRE 099253",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20220000177",
-    "scheme": "Eating Establishment",
-    "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
-    "postal": "099253"
-  },
-  {
-    "name": "MR BEAN",
     "address": "151 BOON LAY WAY #01-02 CHINESE GARDEN MRT STATION 609959",
     "type": "Snack Bar / Bakery",
     "number": "EESB20220000167",
@@ -20950,15 +20959,6 @@
     "scheme": "Eating Establishment",
     "id": "f915e579-b9cd-4066-a6e4-ff736d7c7f4d",
     "postal": "437157"
-  },
-  {
-    "name": "MUKSHIDONNA",
-    "address": "Geylang Serai Ramadan Bazaar, 1 ENGKU AMAN TURN WISMA GEYLANG SERAI, 107 408528",
-    "type": "Short Term Stall(Bazaar/Road Shows)",
-    "number": "EEST26030000019",
-    "scheme": "Eating Establishment",
-    "id": "f915e579-b9cd-4066-a6e4-ff736d7c7f4d",
-    "postal": "408528"
   },
   {
     "name": "Mum's Kitchen Catering Pte Ltd",
@@ -22150,15 +22150,6 @@
   },
   {
     "name": "NO VIRTUAL BRANDS",
-    "address": "10 TAMPINES CENTRAL 1 #B1-09 TAMPINES ONE 529536",
-    "type": "Restaurant",
-    "number": "EERT20250000627",
-    "scheme": "Eating Establishment",
-    "id": "fd47b243-31f5-4a8e-91be-5b83d1f389d4",
-    "postal": "529536"
-  },
-  {
-    "name": "NO VIRTUAL BRANDS",
     "address": "920 TIONG BAHRU ROAD #01-05 REDHILL MRT STATION 158792",
     "type": "Snack Bar / Bakery",
     "number": "EEBX21060012387",
@@ -22600,6 +22591,15 @@
   },
   {
     "name": "OLD CHANG KEE",
+    "address": "17 WOODLANDS DRIVE 17 #B2-07/08 737628",
+    "type": "Restaurant",
+    "number": "EERT20250000057",
+    "scheme": "Eating Establishment",
+    "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
+    "postal": "737628"
+  },
+  {
+    "name": "OLD CHANG KEE",
     "address": "238 THOMSON ROAD #01-70/71 NOVENA SQUARE 307683",
     "type": "Snack Bar / Bakery",
     "number": "EEBN20090011379",
@@ -22696,15 +22696,6 @@
     "scheme": "Eating Establishment",
     "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
     "postal": "238859"
-  },
-  {
-    "name": "OLD CHANG KEE",
-    "address": "17 WOODLANDS DRIVE 17 #B2-07/08 737628",
-    "type": "Restaurant",
-    "number": "EERT20250000057",
-    "scheme": "Eating Establishment",
-    "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
-    "postal": "737628"
   },
   {
     "name": "OLD CHANG KEE",
@@ -24328,21 +24319,21 @@
   },
   {
     "name": "Pho Viet-Nam",
-    "address": "1 JURONG WEST CENTRAL 2 Stall 3, Cantine #B1-42,43,44 JURONG POINT 648886",
-    "type": "Hawker",
-    "number": "EEHK26010000089",
-    "scheme": "Eating Establishment",
-    "id": "ef509206-8ab7-42f3-81ce-3194805f8a7a",
-    "postal": "648886"
-  },
-  {
-    "name": "Pho Viet-Nam",
     "address": "1 WOODLANDS SQUARE Stall 2, Cantine #07-03 CAUSEWAY POINT 738099",
     "type": "Hawker",
     "number": "EEHK26010000088",
     "scheme": "Eating Establishment",
     "id": "ef509206-8ab7-42f3-81ce-3194805f8a7a",
     "postal": "738099"
+  },
+  {
+    "name": "Pho Viet-Nam",
+    "address": "1 JURONG WEST CENTRAL 2 Stall 3, Cantine #B1-42,43,44 JURONG POINT 648886",
+    "type": "Hawker",
+    "number": "EEHK26010000089",
+    "scheme": "Eating Establishment",
+    "id": "ef509206-8ab7-42f3-81ce-3194805f8a7a",
+    "postal": "648886"
   },
   {
     "name": "Pineapple @ Aaannngg Pte Ltd",
@@ -27415,15 +27406,6 @@
   },
   {
     "name": "Sanook Kitchen",
-    "address": "1 STADIUM PLACE #01-16/K8 397628",
-    "type": "Restaurant",
-    "number": "EERN21080012848",
-    "scheme": "Eating Establishment",
-    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-    "postal": "397628"
-  },
-  {
-    "name": "Sanook Kitchen",
     "address": "10 PAYA LEBAR ROAD #03-28/29 PLQ MALL 409057",
     "type": "Restaurant",
     "number": "EERT20220001029",
@@ -27871,6 +27853,15 @@
     "scheme": "Eating Establishment",
     "id": "edd0c76a-185c-44c6-892b-1f395ccf8865",
     "postal": "149306"
+  },
+  {
+    "name": "Segar Restaurant",
+    "address": "133 NEW BRIDGE ROAD #B2-39,40,41 CHINATOWN POINT 059413",
+    "type": "Restaurant",
+    "number": "EERT26030000036",
+    "scheme": "Eating Establishment",
+    "id": "6d3fd645-b325-404d-9190-0d63f75df0d0",
+    "postal": "059413"
   },
   {
     "name": "Selemak Pagi",
@@ -30897,6 +30888,15 @@
     "postal": "529757"
   },
   {
+    "name": "Sunbo Express Chicken Rice & BBQ Central Kitchen",
+    "address": "10 TAMPINES NORTH DRIVE 4 #01-05/K6 JTC SPACE @ TAMPINES NORTH 528553",
+    "type": "Central Kitchen",
+    "number": "FPCK25110000037",
+    "scheme": "Food Preparation Area",
+    "id": "9fa9e5c6-5648-4bfa-84a3-a739e96b331e",
+    "postal": "528553"
+  },
+  {
     "name": "Sunbo Express Chicken Rice + BBQ",
     "address": "180 ANG MO KIO AVENUE 8 Blk E Stall 02 Foodgle Hub North Canteen #02 NANYANG POLYTECHNIC (NYP) 569830",
     "type": "Hawker",
@@ -30994,6 +30994,15 @@
     "scheme": "Eating Establishment",
     "id": "379c7e48-f182-4cbf-b7e4-45290f00a8f7",
     "postal": "330029"
+  },
+  {
+    "name": "SUPER SUSHI",
+    "address": "4 TAMPINES CENTRAL 5 #B1-K4 TAMPINES MALL 529510",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20240000837",
+    "scheme": "Eating Establishment",
+    "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
+    "postal": "529510"
   },
   {
     "name": "SUPER SUSHI",
@@ -34678,15 +34687,6 @@
   },
   {
     "name": "Toast Junction",
-    "address": "23 Serangoon Central #04-36/37 Nex Shopping Centre 556083",
-    "type": "Hawker",
-    "number": "EEHN21040012282",
-    "scheme": "Eating Establishment",
-    "id": "dc05df3d-1230-4a60-a1bd-a66a27085389",
-    "postal": "556083"
-  },
-  {
-    "name": "Toast Junction",
     "address": "2 TAMPINES CENTRAL 5 #03-19 CENTURY SQUARE, Stall 1 529509",
     "type": "Hawker",
     "number": "EEHK20220000461",
@@ -34702,6 +34702,15 @@
     "scheme": "Eating Establishment",
     "id": "7e922a15-9a6d-476b-aad1-87794c044a35",
     "postal": "118479"
+  },
+  {
+    "name": "Toast Junction",
+    "address": "23 Serangoon Central #04-36/37 Nex Shopping Centre 556083",
+    "type": "Hawker",
+    "number": "EEHN21040012282",
+    "scheme": "Eating Establishment",
+    "id": "dc05df3d-1230-4a60-a1bd-a66a27085389",
+    "postal": "556083"
   },
   {
     "name": "Toko Ngopi (S3) @ Kedai Kopi",
@@ -35971,6 +35980,15 @@
     "scheme": "Food Preparation Area",
     "id": "2a77edb6-c65e-4f32-b201-c74ca6816015",
     "postal": "169663"
+  },
+  {
+    "name": "WESTCO'Z CAFE",
+    "address": "154 WEST COAST ROAD #02-23 WEST COAST PLAZA 127371",
+    "type": "Restaurant",
+    "number": "EERT26030000040",
+    "scheme": "Eating Establishment",
+    "id": "03de3854-1cca-4e2e-8979-d24039aabbb0",
+    "postal": "127371"
   },
   {
     "name": "Western",
