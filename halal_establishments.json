@@ -10062,6 +10062,24 @@
     "postal": "819642"
   },
   {
+    "name": "EPIKebabs",
+    "address": "91 BENCOOLEN STREET #01-55 SUNSHINE PLAZA 189652",
+    "type": "Restaurant",
+    "number": "EERT26030000057",
+    "scheme": "Eating Establishment",
+    "id": "3aed0ba3-dc90-437a-965e-32338cd00a58",
+    "postal": "189652"
+  },
+  {
+    "name": "EPIKebabs",
+    "address": "12 KALLANG AVENUE #01-42 APERIA 339511",
+    "type": "Restaurant",
+    "number": "EERT26030000056",
+    "scheme": "Eating Establishment",
+    "id": "3aed0ba3-dc90-437a-965e-32338cd00a58",
+    "postal": "339511"
+  },
+  {
     "name": "Erodu Amman Mess",
     "address": "52 UPPER WELD ROAD 1st Storey LITTLE INDIA CONSERVATION AREA 207409",
     "type": "Restaurant",
@@ -13462,15 +13480,6 @@
     "scheme": "Eating Establishment",
     "id": "066a00a7-fc46-43ee-ad5d-d062e6ea3de0",
     "postal": "427739"
-  },
-  {
-    "name": "Home of Seafood / Home of Sushi / Divine by Home of Seafood",
-    "address": "Bazaar Ramadhan 2026 - Tampines Changkat, 301 TAMPINES STREET 32 #01, 9 520301",
-    "type": "Short Term Stall(Bazaar/Road Shows)",
-    "number": "EEST26020000102",
-    "scheme": "Eating Establishment",
-    "id": "066a00a7-fc46-43ee-ad5d-d062e6ea3de0",
-    "postal": "520301"
   },
   {
     "name": "Homemade Italian (S58)@Tiong Bahru Market",
@@ -24922,15 +24931,6 @@
   },
   {
     "name": "PIZZA KITA",
-    "address": "Bazaar Raya Utara Trade Fair 2026, 717 WOODLANDS DRIVE 70 HDB PUBLIC SHELTERS, 08 730717",
-    "type": "Short Term Stall(Bazaar/Road Shows)",
-    "number": "EEST26020000094",
-    "scheme": "Eating Establishment",
-    "id": "d4d617c8-feb5-42d5-9fa3-7da77942c8af",
-    "postal": "730717"
-  },
-  {
-    "name": "PIZZA KITA",
     "address": "6 EU TONG SEN STREET #02-54 THE CENTRAL 059817",
     "type": "Restaurant",
     "number": "EERT26010000059",
@@ -27853,6 +27853,15 @@
     "scheme": "Eating Establishment",
     "id": "edd0c76a-185c-44c6-892b-1f395ccf8865",
     "postal": "149306"
+  },
+  {
+    "name": "SEGAR",
+    "address": "1 PASIR RIS CLOSE #02-317 E!HUB@DOWNTOWN EAST 519599",
+    "type": "Restaurant",
+    "number": "EERT26030000039",
+    "scheme": "Eating Establishment",
+    "id": "c5f1b36b-15e7-4d04-b3cb-c4f0192e2ebb",
+    "postal": "519599"
   },
   {
     "name": "Segar Restaurant",
@@ -32698,15 +32707,6 @@
   },
   {
     "name": "TEXAS CHICKEN",
-    "address": "1 PASIR RIS CLOSE #01-K101/K102/K103/K101A E!HUB@DOWNTOWN EAST 519599",
-    "type": "Restaurant",
-    "number": "EERT20240001301",
-    "scheme": "Eating Establishment",
-    "id": "53c88848-1280-4fee-b6dc-b5d1d941c07d",
-    "postal": "519599"
-  },
-  {
-    "name": "TEXAS CHICKEN",
     "address": "476 Upper Serangoon View #02-17 Multi Storey Car Park 530476",
     "type": "Restaurant",
     "number": "EERN21070012595",
@@ -32923,6 +32923,15 @@
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
+    "address": "21 CHOA CHU KANG AVENUE 4 #01-01 LOT ONE, SHOPPERS' MALL 689812",
+    "type": "Restaurant",
+    "number": "EERN21120013251",
+    "scheme": "Eating Establishment",
+    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+    "postal": "689812"
+  },
+  {
+    "name": "THE COFFEE BEAN & TEA LEAF",
     "address": "10 ANSON ROAD #01-32 INTERNATIONAL PLAZA 079903",
     "type": "Restaurant",
     "number": "EERN21120013265",
@@ -33109,15 +33118,6 @@
     "scheme": "Eating Establishment",
     "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
     "postal": "738099"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "21 CHOA CHU KANG AVENUE 4 #01-01 LOT ONE, SHOPPERS' MALL 689812",
-    "type": "Restaurant",
-    "number": "EERN21120013251",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "689812"
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
@@ -33958,39 +33958,12 @@
   },
   {
     "name": "THE ORIGINAL VADAI",
-    "address": "Jurong Central Ramadan Bazaar, 496 JURONG WEST STREET 41, 27 640496",
-    "type": "Short Term Stall(Bazaar/Road Shows)",
-    "number": "EEST26020000108",
-    "scheme": "Eating Establishment",
-    "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
-    "postal": "640496"
-  },
-  {
-    "name": "THE ORIGINAL VADAI",
-    "address": "Pasir Ris Ramadan Bazaar, 415 PASIR RIS DRIVE 6, 12 510415",
-    "type": "Short Term Stall(Bazaar/Road Shows)",
-    "number": "EEST26020000114",
-    "scheme": "Eating Establishment",
-    "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
-    "postal": "510415"
-  },
-  {
-    "name": "THE ORIGINAL VADAI",
     "address": "Bukit Gombak Ramadan Bazaar, 374 BUKIT BATOK STREET 31, 55 650374",
     "type": "Short Term Stall(Bazaar/Road Shows)",
     "number": "EEST26020000115",
     "scheme": "Eating Establishment",
     "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
     "postal": "650374"
-  },
-  {
-    "name": "THE ORIGINAL VADAI",
-    "address": "Punggol MRT Trade Fair, 70 PUNGGOL CENTRAL PUNGGOL MRT STATION (NE17), 17, 33 828868",
-    "type": "Short Term Stall(Bazaar/Road Shows)",
-    "number": "EEST26020000128",
-    "scheme": "Eating Establishment",
-    "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
-    "postal": "828868"
   },
   {
     "name": "THE ORIGINAL VADAI",
