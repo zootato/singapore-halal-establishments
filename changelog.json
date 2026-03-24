@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-03-24T22:21:40.175222",
+    "date": "2026-03-24",
+    "summary": {
+      "new": 0,
+      "removed": 2,
+      "updated": 0
+    },
+    "changes": {
+      "new": [],
+      "removed": [
+        {
+          "name": "FAME COFFEE",
+          "address": "108 MIDDLE ROAD #01-01 (1st and 2nd floor) BERNHARD SCHULTE HOUSE 188967",
+          "type": "Restaurant",
+          "number": "EERT20250000374",
+          "scheme": "Eating Establishment",
+          "id": "b48c9068-455a-4903-bc7b-70bbd41ef68c",
+          "postal": "188967"
+        },
+        {
+          "name": "TENDONYAN (S50)@ Tanjong Plaza Market & Food Centre",
+          "address": "6 TANJONG PAGAR PLAZA #02-50, STALL 50 081006",
+          "type": "Hawker",
+          "number": "EEHK20240000205",
+          "scheme": "Eating Establishment",
+          "id": "15cf903d-fdc6-451f-bb69-69830e2083df",
+          "postal": "081006"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-03-23T22:21:41.442067",
     "date": "2026-03-23",
     "summary": {
@@ -7447,39 +7480,6 @@
           "postal": "409057"
         }
       ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-01-25T22:16:28.502247",
-    "date": "2026-01-25",
-    "summary": {
-      "new": 2,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Malabar Kitchen",
-          "address": "1 DICKSON ROAD #Level 1 209493",
-          "type": "Restaurant",
-          "number": "EERT26010000114",
-          "scheme": "Eating Establishment",
-          "id": "73c93ac7-c09b-438f-94b4-08d803993c80",
-          "postal": "209493"
-        },
-        {
-          "name": "BOTTLE TREE CAFE RESTAURANT",
-          "address": "510 UPPER JURONG ROAD #01-06-08 SINGAPORE DISCOVERY CENTRE 638365",
-          "type": "Restaurant",
-          "number": "EERT20230001324",
-          "scheme": "Eating Establishment",
-          "id": "77cc7c13-1c6a-41fc-9cbe-aa561e347cff",
-          "postal": "638365"
-        }
-      ],
-      "removed": [],
       "updated": []
     }
   }

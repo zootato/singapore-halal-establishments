@@ -10170,15 +10170,6 @@
     "postal": "728654"
   },
   {
-    "name": "FAME COFFEE",
-    "address": "108 MIDDLE ROAD #01-01 (1st and 2nd floor) BERNHARD SCHULTE HOUSE 188967",
-    "type": "Restaurant",
-    "number": "EERT20250000374",
-    "scheme": "Eating Establishment",
-    "id": "b48c9068-455a-4903-bc7b-70bbd41ef68c",
-    "postal": "188967"
-  },
-  {
     "name": "FAMOUS AMOS",
     "address": "930 YISHUN AVENUE 2 #B1-16 769098",
     "type": "Snack Bar / Bakery",
@@ -16768,21 +16759,21 @@
   },
   {
     "name": "Krispy Kreme Doughnuts",
-    "address": "1 SENGKANG SQUARE #01-46 COMPASS ONE 545078",
-    "type": "Restaurant",
-    "number": "EERT20230000102",
-    "scheme": "Eating Establishment",
-    "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
-    "postal": "545078"
-  },
-  {
-    "name": "Krispy Kreme Doughnuts",
     "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #01-20 CHANGI CITY POINT 486038",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000006",
     "scheme": "Eating Establishment",
     "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
     "postal": "486038"
+  },
+  {
+    "name": "Krispy Kreme Doughnuts",
+    "address": "1 SENGKANG SQUARE #01-46 COMPASS ONE 545078",
+    "type": "Restaurant",
+    "number": "EERT20230000102",
+    "scheme": "Eating Establishment",
+    "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
+    "postal": "545078"
   },
   {
     "name": "Krispy Kreme Doughnuts",
@@ -32776,15 +32767,6 @@
     "scheme": "Eating Establishment",
     "id": "fa23a2c4-12e6-4c0a-aa89-d3552d6d92cb",
     "postal": "689812"
-  },
-  {
-    "name": "TENDONYAN (S50)@ Tanjong Plaza Market & Food Centre",
-    "address": "6 TANJONG PAGAR PLAZA #02-50, STALL 50 081006",
-    "type": "Hawker",
-    "number": "EEHK20240000205",
-    "scheme": "Eating Establishment",
-    "id": "15cf903d-fdc6-451f-bb69-69830e2083df",
-    "postal": "081006"
   },
   {
     "name": "Tenkutei Japanese & Korean Cuisine",
