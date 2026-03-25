@@ -4852,6 +4852,15 @@
   },
   {
     "name": "BURGER KING",
+    "address": "1 LENTOR CENTRAL #01-14/15 LENTOR MODERN 788887",
+    "type": "Restaurant",
+    "number": "EERT26030000015",
+    "scheme": "Eating Establishment",
+    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+    "postal": "788887"
+  },
+  {
+    "name": "BURGER KING",
     "address": "216 ANG MO KIO AVENUE 4 #01-01 KEBUN BARU COMMUNITY CLUB 569897",
     "type": "Restaurant",
     "number": "EERX20040011371",
@@ -5560,6 +5569,15 @@
     "scheme": "Eating Establishment",
     "id": "40ac230f-34a1-45df-8a3e-ef049f3f2e1f",
     "postal": "608532"
+  },
+  {
+    "name": "CAT & THE FIDDLE",
+    "address": "10 TAMPINES CENTRAL 1 01-41/42 TAMPINES ONE 529536",
+    "type": "Restaurant",
+    "number": "EERT26030000065",
+    "scheme": "Eating Establishment",
+    "id": "40ac230f-34a1-45df-8a3e-ef049f3f2e1f",
+    "postal": "529536"
   },
   {
     "name": "CAT & THE FIDDLE",
@@ -7434,6 +7452,15 @@
     "postal": "486350"
   },
   {
+    "name": "CURRY POT CATERING PTE LTD",
+    "address": "18 KIM CHUAN TERRACE #08-01 APEX FOODWORKS 537040",
+    "type": "Catering Company",
+    "number": "FPCA26030000062",
+    "scheme": "Food Preparation Area",
+    "id": "65806f6c-635c-4d89-bfc0-b5dd1ce7e96d",
+    "postal": "537040"
+  },
+  {
     "name": "Curry Times",
     "address": "238 THOMSON ROAD #02-33/34/41/42 VELOCITY, NOVENA SQUARE 307683",
     "type": "Restaurant",
@@ -8965,6 +8992,24 @@
   },
   {
     "name": "Dou",
+    "address": "293 YISHUN STREET 22 (Stall 10) @ BK 293 Yishun #01-261 760293",
+    "type": "Hawker",
+    "number": "EEHK26030000067",
+    "scheme": "Eating Establishment",
+    "id": "3d1c9ed2-5ec2-4ea2-b890-c96fd9387cf7",
+    "postal": "760293"
+  },
+  {
+    "name": "Dou",
+    "address": "419 TAMPINES STREET 41 Stall 6 @ 410 F&B #01-80 SUN PLAZA GARDENS 520419",
+    "type": "Hawker",
+    "number": "EEHK26030000066",
+    "scheme": "Eating Establishment",
+    "id": "b85a4ca2-0213-4b54-a8df-b9864880b361",
+    "postal": "520419"
+  },
+  {
+    "name": "Dou",
     "address": "1 WOODLANDS HEIGHT #04-09 KOUFU GROUP HQ 737859",
     "type": "Central Kitchen",
     "number": "FPCK20220000138",
@@ -9763,6 +9808,24 @@
     "scheme": "Eating Establishment",
     "id": "9f491c8d-1891-4991-972e-8b363a826a11",
     "postal": "148813"
+  },
+  {
+    "name": "El Brasa",
+    "address": "318 JURONG EAST STREET 31 #01-40 (MR3) @ Harmony Cafe @ 318 600318",
+    "type": "Hawker",
+    "number": "EEHK26030000064",
+    "scheme": "Eating Establishment",
+    "id": "c3f0c734-0fd5-46c0-a242-33b6523a90e4",
+    "postal": "600318"
+  },
+  {
+    "name": "El Brasa",
+    "address": "469 BUKIT BATOK WEST AVENUE 9 #01-22 HARMONY VILLAGE @ BUKIT BATOK 650469",
+    "type": "Hawker",
+    "number": "EEHK26030000063",
+    "scheme": "Eating Establishment",
+    "id": "4d44866e-2c7a-40b4-8a45-9584ab88bfce",
+    "postal": "650469"
   },
   {
     "name": "El Carbon",
@@ -10576,15 +10639,6 @@
   },
   {
     "name": "Fish & Co.",
-    "address": "524A JELAPANG ROAD #01-03 GREENRIDGE SHOPPING CENTRE, STALL 6 671524",
-    "type": "Hawker",
-    "number": "EEHN21110012968",
-    "scheme": "Eating Establishment",
-    "id": "6abb1b61-dc88-42cc-9d64-a8e900a62115",
-    "postal": "671524"
-  },
-  {
-    "name": "Fish & Co.",
     "address": "10 SENGKANG SQUARE #01-54 KOPITIAM SQUARE 544829",
     "type": "Hawker",
     "number": "EEHN21110012970",
@@ -10609,6 +10663,15 @@
     "scheme": "Eating Establishment",
     "id": "631ef2cc-69ac-47ac-ac09-be02a7039f65",
     "postal": "819666"
+  },
+  {
+    "name": "Fish & Co.",
+    "address": "524A JELAPANG ROAD #01-03 GREENRIDGE SHOPPING CENTRE, STALL 6 671524",
+    "type": "Hawker",
+    "number": "EEHN21110012968",
+    "scheme": "Eating Establishment",
+    "id": "6abb1b61-dc88-42cc-9d64-a8e900a62115",
+    "postal": "671524"
   },
   {
     "name": "FISH & CO. RESTAURANTS PTE LTD",
@@ -26289,6 +26352,15 @@
     "postal": "757437"
   },
   {
+    "name": "Rindu Rasa Mala Hotpot",
+    "address": "21 TAMPINES NORTH DRIVE 2 Stall 9 #03-00 KOUFU @ GIANT TAMPINES 528765",
+    "type": "Hawker",
+    "number": "EEHK26030000060",
+    "scheme": "Eating Establishment",
+    "id": "866f8979-2796-4c2b-bed6-eb72dcf2fa3c",
+    "postal": "528765"
+  },
+  {
     "name": "Rindu Rasa Western (S7) @ Kopitiam Corner Vista Point",
     "address": "548 WOODLANDS DRIVE 44 #01-21 VISTA POINT, Stall 7 730548",
     "type": "Hawker",
@@ -28123,6 +28195,15 @@
     "scheme": "Eating Establishment",
     "id": "25ddadcc-e566-4aff-a0e1-efe2db5afec9",
     "postal": "528523"
+  },
+  {
+    "name": "Shakey's Pizza Parlor",
+    "address": "304 ORCHARD ROAD #B1-38 LUCKY PLAZA, Stall 16, Asian Foodmall 238863",
+    "type": "Hawker",
+    "number": "EEHK26030000059",
+    "scheme": "Eating Establishment",
+    "id": "7dd1d52f-1b51-48a1-b12f-d249280ca589",
+    "postal": "238863"
   },
   {
     "name": "Shami Banana Leaf Delights",
@@ -32454,15 +32535,6 @@
     "postal": "409051"
   },
   {
-    "name": "Telur Thai (S19) @ Kopitiam Tampines Mall",
-    "address": "4 TAMPINES CENTRAL 5 #04-27 TAMPINES MALL, Stall 19 529510",
-    "type": "Hawker",
-    "number": "EEHK20240000079",
-    "scheme": "Eating Establishment",
-    "id": "135a9f83-f2f4-40b3-8aac-e663ee9034df",
-    "postal": "529510"
-  },
-  {
     "name": "Telur Thai (S7) @ Cantine Greenridge Shopping Centre",
     "address": "524A JELAPANG ROAD #01-03 GREENRIDGE SHOPPING CENTRE, stall 7 671524",
     "type": "Hawker",
@@ -32533,24 +32605,6 @@
     "scheme": "Eating Establishment",
     "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
     "postal": "538719"
-  },
-  {
-    "name": "Tenderbest",
-    "address": "827 TAMPINES STREET 81 #01-128 TAMPINES GROVE, MR2 520827",
-    "type": "Hawker",
-    "number": "EEHK20230000621",
-    "scheme": "Eating Establishment",
-    "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
-    "postal": "520827"
-  },
-  {
-    "name": "Tenderbest",
-    "address": "824 TAMPINES STREET 81 #01-38 TAMPINES GROVE, Stall 9 520824",
-    "type": "Hawker",
-    "number": "EEHN21060012440",
-    "scheme": "Eating Establishment",
-    "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
-    "postal": "520824"
   },
   {
     "name": "Tenderbest",
@@ -34612,15 +34666,6 @@
     "scheme": "Eating Establishment",
     "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
     "postal": "556083"
-  },
-  {
-    "name": "Tim Hortons",
-    "address": "3 TEMASEK BOULEVARD #01-314 SUNTEC CITY MALL 038983",
-    "type": "Restaurant",
-    "number": "EERT26020000003",
-    "scheme": "Eating Establishment",
-    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-    "postal": "038983"
   },
   {
     "name": "Tim Hortons",

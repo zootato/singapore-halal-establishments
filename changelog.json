@@ -1,5 +1,138 @@
 [
   {
+    "timestamp": "2026-03-25T22:24:33.345800",
+    "date": "2026-03-25",
+    "summary": {
+      "new": 9,
+      "removed": 4,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "CURRY POT CATERING PTE LTD",
+          "address": "18 KIM CHUAN TERRACE #08-01 APEX FOODWORKS 537040",
+          "type": "Catering Company",
+          "number": "FPCA26030000062",
+          "scheme": "Food Preparation Area",
+          "id": "65806f6c-635c-4d89-bfc0-b5dd1ce7e96d",
+          "postal": "537040"
+        },
+        {
+          "name": "El Brasa",
+          "address": "469 BUKIT BATOK WEST AVENUE 9 #01-22 HARMONY VILLAGE @ BUKIT BATOK 650469",
+          "type": "Hawker",
+          "number": "EEHK26030000063",
+          "scheme": "Eating Establishment",
+          "id": "4d44866e-2c7a-40b4-8a45-9584ab88bfce",
+          "postal": "650469"
+        },
+        {
+          "name": "Dou",
+          "address": "293 YISHUN STREET 22 (Stall 10) @ BK 293 Yishun #01-261 760293",
+          "type": "Hawker",
+          "number": "EEHK26030000067",
+          "scheme": "Eating Establishment",
+          "id": "3d1c9ed2-5ec2-4ea2-b890-c96fd9387cf7",
+          "postal": "760293"
+        },
+        {
+          "name": "El Brasa",
+          "address": "318 JURONG EAST STREET 31 #01-40 (MR3) @ Harmony Cafe @ 318 600318",
+          "type": "Hawker",
+          "number": "EEHK26030000064",
+          "scheme": "Eating Establishment",
+          "id": "c3f0c734-0fd5-46c0-a242-33b6523a90e4",
+          "postal": "600318"
+        },
+        {
+          "name": "BURGER KING",
+          "address": "1 LENTOR CENTRAL #01-14/15 LENTOR MODERN 788887",
+          "type": "Restaurant",
+          "number": "EERT26030000015",
+          "scheme": "Eating Establishment",
+          "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+          "postal": "788887"
+        },
+        {
+          "name": "Dou",
+          "address": "419 TAMPINES STREET 41 Stall 6 @ 410 F&B #01-80 SUN PLAZA GARDENS 520419",
+          "type": "Hawker",
+          "number": "EEHK26030000066",
+          "scheme": "Eating Establishment",
+          "id": "b85a4ca2-0213-4b54-a8df-b9864880b361",
+          "postal": "520419"
+        },
+        {
+          "name": "Rindu Rasa Mala Hotpot",
+          "address": "21 TAMPINES NORTH DRIVE 2 Stall 9 #03-00 KOUFU @ GIANT TAMPINES 528765",
+          "type": "Hawker",
+          "number": "EEHK26030000060",
+          "scheme": "Eating Establishment",
+          "id": "866f8979-2796-4c2b-bed6-eb72dcf2fa3c",
+          "postal": "528765"
+        },
+        {
+          "name": "CAT & THE FIDDLE",
+          "address": "10 TAMPINES CENTRAL 1 01-41/42 TAMPINES ONE 529536",
+          "type": "Restaurant",
+          "number": "EERT26030000065",
+          "scheme": "Eating Establishment",
+          "id": "40ac230f-34a1-45df-8a3e-ef049f3f2e1f",
+          "postal": "529536"
+        },
+        {
+          "name": "Shakey's Pizza Parlor",
+          "address": "304 ORCHARD ROAD #B1-38 LUCKY PLAZA, Stall 16, Asian Foodmall 238863",
+          "type": "Hawker",
+          "number": "EEHK26030000059",
+          "scheme": "Eating Establishment",
+          "id": "7dd1d52f-1b51-48a1-b12f-d249280ca589",
+          "postal": "238863"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Telur Thai (S19) @ Kopitiam Tampines Mall",
+          "address": "4 TAMPINES CENTRAL 5 #04-27 TAMPINES MALL, Stall 19 529510",
+          "type": "Hawker",
+          "number": "EEHK20240000079",
+          "scheme": "Eating Establishment",
+          "id": "135a9f83-f2f4-40b3-8aac-e663ee9034df",
+          "postal": "529510"
+        },
+        {
+          "name": "Tim Hortons",
+          "address": "3 TEMASEK BOULEVARD #01-314 SUNTEC CITY MALL 038983",
+          "type": "Restaurant",
+          "number": "EERT26020000003",
+          "scheme": "Eating Establishment",
+          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+          "postal": "038983"
+        },
+        {
+          "name": "Tenderbest",
+          "address": "824 TAMPINES STREET 81 #01-38 TAMPINES GROVE, Stall 9 520824",
+          "type": "Hawker",
+          "number": "EEHN21060012440",
+          "scheme": "Eating Establishment",
+          "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
+          "postal": "520824"
+        },
+        {
+          "name": "Tenderbest",
+          "address": "827 TAMPINES STREET 81 #01-128 TAMPINES GROVE, MR2 520827",
+          "type": "Hawker",
+          "number": "EEHK20230000621",
+          "scheme": "Eating Establishment",
+          "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
+          "postal": "520827"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-03-24T22:21:40.175222",
     "date": "2026-03-24",
     "summary": {
@@ -7300,184 +7433,6 @@
           "scheme": "Eating Establishment",
           "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
           "postal": "520827"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-01-26T22:17:16.940058",
-    "date": "2026-01-26",
-    "summary": {
-      "new": 8,
-      "removed": 10,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "McDonald's",
-          "address": "17 Petir Road #B1-25-27 Hillion Mall 678278",
-          "type": "Restaurant",
-          "number": "EERN20020010962",
-          "scheme": "Eating Establishment",
-          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-          "postal": "678278"
-        },
-        {
-          "name": "Flavours of M @ M Hotel",
-          "address": "81 ANSON ROAD #B2-00 M HOTEL 079908",
-          "type": "Staff Canteen",
-          "number": "EEFN21100012546",
-          "scheme": "Eating Establishment",
-          "id": "8a3080ff-27fd-4eef-868a-9c6f1fe84c67",
-          "postal": "079908"
-        },
-        {
-          "name": "EXPRESS TEPPAN-YAKI/ Alley.Wei",
-          "address": "4 TAMPINES CENTRAL 5 #B1-K21, K22 TAMPINES MALL 529510",
-          "type": "Restaurant",
-          "number": "EERT26010000124",
-          "scheme": "Eating Establishment",
-          "id": "a9d8385b-18ae-4689-8e3c-8df270ab04f4",
-          "postal": "529510"
-        },
-        {
-          "name": "Flavours of M @ M Hotel",
-          "address": "81 ANSON ROAD #B2-00 M HOTEL 079908",
-          "type": "Central Kitchen",
-          "number": "FPCN21100001607",
-          "scheme": "Food Preparation Area",
-          "id": "8a3080ff-27fd-4eef-868a-9c6f1fe84c67",
-          "postal": "079908"
-        },
-        {
-          "name": "Express Teppan-yaki",
-          "address": "1 NORTHPOINT DRIVE #B1-200 NORTHPOINT CITY 768019",
-          "type": "Restaurant",
-          "number": "EERT26010000123",
-          "scheme": "Eating Establishment",
-          "id": "3bf1548d-f083-4f8c-893d-2b3152a3460c",
-          "postal": "768019"
-        },
-        {
-          "name": "The Buffet",
-          "address": "81 ANSON ROAD #02-00 M HOTEL 079908",
-          "type": "Restaurant",
-          "number": "EERN21060012545",
-          "scheme": "Eating Establishment",
-          "id": "e9d884ad-f73d-4ddf-a61e-c53b6db70d90",
-          "postal": "079908"
-        },
-        {
-          "name": "Cafe O Singapore Pte Ltd",
-          "address": "28 GAMBAS CRESCENT Kitchen 15 #03-K15 NORDCOM TWO 757012",
-          "type": "Central Kitchen",
-          "number": "FPCK26010000095",
-          "scheme": "Food Preparation Area",
-          "id": "61c18f7f-bf64-4f5a-953b-cf65059558ab",
-          "postal": "757012"
-        },
-        {
-          "name": "OLD CHANG KEE",
-          "address": "133 NEW BRIDGE ROAD #B1-47A CHINATOWN POINT 059413",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26010000071",
-          "scheme": "Eating Establishment",
-          "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
-          "postal": "059413"
-        }
-      ],
-      "removed": [
-        {
-          "name": "DELIFRANCE",
-          "address": "3 TEMASEK BOULEVARD #02-600 SUNTEC CITY MALL 038983",
-          "type": "Restaurant",
-          "number": "EERT20230000173",
-          "scheme": "Eating Establishment",
-          "id": "94f707c0-d13d-48f6-81d0-015c2d3647f8",
-          "postal": "038983"
-        },
-        {
-          "name": "Srisun Express",
-          "address": "681 HOUGANG AVENUE 8 #01-831 HOUGANG VILLAGE 530681",
-          "type": "Restaurant",
-          "number": "EERT20230000895",
-          "scheme": "Eating Establishment",
-          "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
-          "postal": "530681"
-        },
-        {
-          "name": "THE COFFEE BEAN & TEA LEAF",
-          "address": "133 New Bridge Road #02-55 Chinatown Point, 059413",
-          "type": "Restaurant",
-          "number": "EERN21120013261",
-          "scheme": "Eating Establishment",
-          "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-          "postal": "059413"
-        },
-        {
-          "name": "THE COFFEE BEAN & TEA LEAF",
-          "address": "407 NORTHSHORE DRIVE #01-19 820407",
-          "type": "Restaurant",
-          "number": "EERN22020013457",
-          "scheme": "Eating Establishment",
-          "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-          "postal": "820407"
-        },
-        {
-          "name": "TOKYO SHOKUDO",
-          "address": "10 PAYA LEBAR ROAD #B2-17 PLQ MALL 409057",
-          "type": "Restaurant",
-          "number": "EERT25110000055",
-          "scheme": "Eating Establishment",
-          "id": "3e75f97a-1f6a-4795-ba6e-a2ba7adf2128",
-          "postal": "409057"
-        },
-        {
-          "name": "Three's A Crowd",
-          "address": "50 RACE COURSE ROAD 218562",
-          "type": "Restaurant",
-          "number": "EERT20220000767",
-          "scheme": "Eating Establishment",
-          "id": "fffde1b4-44d4-440f-b460-33d87aa224ee",
-          "postal": "218562"
-        },
-        {
-          "name": "Milan Cafeteria",
-          "address": "1 TAMPINES WALK #01-103/103A OUR TAMPINES HUB 528523",
-          "type": "Restaurant",
-          "number": "EERT20240001057",
-          "scheme": "Eating Establishment",
-          "id": "a1ee7547-25ef-4c1b-93b6-a8a0555c0087",
-          "postal": "528523"
-        },
-        {
-          "name": "Srisun Express",
-          "address": "509 BISHAN STREET 11 #01-382 570509",
-          "type": "Restaurant",
-          "number": "EERT20230001058",
-          "scheme": "Eating Establishment",
-          "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
-          "postal": "570509"
-        },
-        {
-          "name": "Sanook Kitchen",
-          "address": "1 HARBOURFRONT WALK #B2-23C VIVO CITY 098585",
-          "type": "Restaurant",
-          "number": "EERT20220000545",
-          "scheme": "Eating Establishment",
-          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-          "postal": "098585"
-        },
-        {
-          "name": "ICHIKOKUDO",
-          "address": "10 PAYA LEBAR ROAD #B1-15/16 PLQ MALL 409057",
-          "type": "Restaurant",
-          "number": "EERN22020013481",
-          "scheme": "Eating Establishment",
-          "id": "61fba834-5357-40ed-b890-73b8a668f34f",
-          "postal": "409057"
         }
       ],
       "updated": []
