@@ -1,5 +1,50 @@
 [
   {
+    "timestamp": "2026-03-26T22:18:20.983571",
+    "date": "2026-03-26",
+    "summary": {
+      "new": 1,
+      "removed": 0,
+      "updated": 1
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "TANG TEA HOUSE",
+          "address": "1 WOODLANDS SQUARE #07-03 CAUSEWAY POINT, MR4, Bagus 738099",
+          "type": "Hawker",
+          "number": "EEHK26030000070",
+          "scheme": "Eating Establishment",
+          "id": "61acf95e-4918-4ae0-bf1e-876ec9de2414",
+          "postal": "738099"
+        }
+      ],
+      "removed": [],
+      "updated": [
+        {
+          "previous": {
+            "name": "THE DIM  SUM PLACE",
+            "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #B1-30/31 CHANGI CITY POINT 486038",
+            "type": "Restaurant",
+            "number": "EERX22010013436",
+            "scheme": "Eating Establishment",
+            "id": "c1d5b08d-002c-4940-9f65-69d50cbf77e3",
+            "postal": "486038"
+          },
+          "current": {
+            "name": "THE DIM  SUM PLACE",
+            "address": "5 Changi Business Park Central 1 #B1-30/31 Changi City Point 486038",
+            "type": "Restaurant",
+            "number": "EERX22010013436",
+            "scheme": "Eating Establishment",
+            "id": "c1d5b08d-002c-4940-9f65-69d50cbf77e3",
+            "postal": "486038"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-03-25T22:24:33.345800",
     "date": "2026-03-25",
     "summary": {
@@ -7336,103 +7381,6 @@
           "scheme": "Eating Establishment",
           "id": "0b39f767-5770-4227-bda3-b802daa6a1b0",
           "postal": "731678"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-01-27T22:17:49.185035",
-    "date": "2026-01-27",
-    "summary": {
-      "new": 8,
-      "removed": 1,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "MR BEAN",
-          "address": "1 TAMPINES WALK #01-83 OUR TAMPINES HUB 528523",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26010000078",
-          "scheme": "Eating Establishment",
-          "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
-          "postal": "528523"
-        },
-        {
-          "name": "MR BEAN",
-          "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #B1-K13 CHANGI CITY POINT 486038",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26010000076",
-          "scheme": "Eating Establishment",
-          "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
-          "postal": "486038"
-        },
-        {
-          "name": "Selemak Pagi",
-          "address": "126 CANBERRA STREET Stall 9, DeTian Coffeeshop #01-01 EASTDELTA @ CANBERRA 750126",
-          "type": "Hawker",
-          "number": "EEHK26010000096",
-          "scheme": "Eating Establishment",
-          "id": "4524d9ba-dc69-4cfb-9233-faeb745d60d7",
-          "postal": "750126"
-        },
-        {
-          "name": "Selemak Pagi",
-          "address": "21 HOUGANG STREET 51 Stall 10, DeTian Coffeeshop #01-51 HOUGANG GREEN SHOPPING MALL 538719",
-          "type": "Hawker",
-          "number": "EEHK26010000097",
-          "scheme": "Eating Establishment",
-          "id": "4524d9ba-dc69-4cfb-9233-faeb745d60d7",
-          "postal": "538719"
-        },
-        {
-          "name": "MR BEAN +PLUS",
-          "address": "690 YISHUN RING ROAD #01-- 769567",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20240001016",
-          "scheme": "Eating Establishment",
-          "id": "e54db45a-addf-433e-b85a-312696c7a8e9",
-          "postal": "769567"
-        },
-        {
-          "name": "Kubis Authentic Korean Food",
-          "address": "50 PASIR PANJANG ROAD Stall 3 Kopitiam Mapletree Business City #03-51 MAPLETREE BUSINESS CITY 117384",
-          "type": "Hawker",
-          "number": "EEHK26010000100",
-          "scheme": "Eating Establishment",
-          "id": "939bf021-94b2-41d0-8d4c-68dfd6708a8c",
-          "postal": "117384"
-        },
-        {
-          "name": "MR BEAN EXPLORE",
-          "address": "200 VICTORIA STREET #B1-K13 BUGIS JUNCTION 188021",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26010000070",
-          "scheme": "Eating Establishment",
-          "id": "5cf2fa87-f189-43d3-affd-9a05bb315860",
-          "postal": "188021"
-        },
-        {
-          "name": "MR BEAN",
-          "address": "17 WOODLANDS DRIVE 17 #B2-14 WOODLANDS HEALTH CAMPUS 737628",
-          "type": "Restaurant",
-          "number": "EERT26010000079",
-          "scheme": "Eating Establishment",
-          "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
-          "postal": "737628"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Tenderbest",
-          "address": "827 TAMPINES STREET 81 #01-128 TAMPINES GROVE, MR2 520827",
-          "type": "Hawker",
-          "number": "EEHK20230000621",
-          "scheme": "Eating Establishment",
-          "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
-          "postal": "520827"
         }
       ],
       "updated": []

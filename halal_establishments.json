@@ -32292,6 +32292,15 @@
     "postal": "799466"
   },
   {
+    "name": "TANG TEA HOUSE",
+    "address": "1 WOODLANDS SQUARE #07-03 CAUSEWAY POINT, MR4, Bagus 738099",
+    "type": "Hawker",
+    "number": "EEHK26030000070",
+    "scheme": "Eating Establishment",
+    "id": "61acf95e-4918-4ae0-bf1e-876ec9de2414",
+    "postal": "738099"
+  },
+  {
     "name": "Tang Tea House",
     "address": "801 TAMPINES AVENUE 4 #01-287 TAMPINES POLYVIEW 520801",
     "type": "Restaurant",
@@ -33877,7 +33886,7 @@
   },
   {
     "name": "THE DIM  SUM PLACE",
-    "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #B1-30/31 CHANGI CITY POINT 486038",
+    "address": "5 Changi Business Park Central 1 #B1-30/31 Changi City Point 486038",
     "type": "Restaurant",
     "number": "EERX22010013436",
     "scheme": "Eating Establishment",
