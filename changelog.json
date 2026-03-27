@@ -1,5 +1,60 @@
 [
   {
+    "timestamp": "2026-03-27T22:20:55.938678",
+    "date": "2026-03-27",
+    "summary": {
+      "new": 0,
+      "removed": 0,
+      "updated": 2
+    },
+    "changes": {
+      "new": [],
+      "removed": [],
+      "updated": [
+        {
+          "previous": {
+            "name": "Puffs  Palace",
+            "address": "30 NORRIS ROAD #01-01 208272",
+            "type": "Restaurant",
+            "number": "EERT20250000345",
+            "scheme": "Eating Establishment",
+            "id": "215d5f12-850a-4f46-9b17-375fa556a892",
+            "postal": "208272"
+          },
+          "current": {
+            "name": "Puffs Palace",
+            "address": "30 NORRIS ROAD #01-01 208272",
+            "type": "Restaurant",
+            "number": "EERT20250000345",
+            "scheme": "Eating Establishment",
+            "id": "215d5f12-850a-4f46-9b17-375fa556a892",
+            "postal": "208272"
+          }
+        },
+        {
+          "previous": {
+            "name": "Puffs  Palace",
+            "address": "30 NORRIS ROAD #01-01 208272",
+            "type": "Catering Company",
+            "number": "FPCA20250000346",
+            "scheme": "Food Preparation Area",
+            "id": "215d5f12-850a-4f46-9b17-375fa556a892",
+            "postal": "208272"
+          },
+          "current": {
+            "name": "Puffs Palace",
+            "address": "30 NORRIS ROAD #01-01 208272",
+            "type": "Catering Company",
+            "number": "FPCA20250000346",
+            "scheme": "Food Preparation Area",
+            "id": "215d5f12-850a-4f46-9b17-375fa556a892",
+            "postal": "208272"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-03-26T22:18:20.983571",
     "date": "2026-03-26",
     "summary": {
@@ -7260,130 +7315,6 @@
           }
         }
       ]
-    }
-  },
-  {
-    "timestamp": "2026-01-28T22:19:52.489381",
-    "date": "2026-01-28",
-    "summary": {
-      "new": 10,
-      "removed": 2,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "HJH MAIMUNAH RESTAURANT",
-          "address": "10 EUNOS ROAD 8 #B1-147,#B1-148,#B1-167 Singapore Post Cente 408600",
-          "type": "Restaurant",
-          "number": "EERT26010000117",
-          "scheme": "Eating Establishment",
-          "id": "c3dc9b6e-328a-43b9-88b9-613edcde3162",
-          "postal": "408600"
-        },
-        {
-          "name": "Padang Lezat Indonesian Nasi Padang",
-          "address": "930 YISHUN AVENUE 2 Kopitiam (MR5) #B2-12 NORTHPOINT CITY (NORTH WING) 769098",
-          "type": "Hawker",
-          "number": "EEHK26010000139",
-          "scheme": "Eating Establishment",
-          "id": "18e41716-d269-4fff-9f72-0e8077e52ce9",
-          "postal": "769098"
-        },
-        {
-          "name": "IndoChili",
-          "address": "54 ZION ROAD 247779",
-          "type": "Restaurant",
-          "number": "EERT26010000133",
-          "scheme": "Eating Establishment",
-          "id": "20382466-0e7d-4a53-9f37-ec7a5fc2fa40",
-          "postal": "247779"
-        },
-        {
-          "name": "Padang Lezat",
-          "address": "21 CHOA CHU KANG AVENUE 4 FOOD JUNCTION MR1 #04-16 LOT ONE, SHOPPERS' MALL, 689812",
-          "type": "Hawker",
-          "number": "EEHK26010000136",
-          "scheme": "Eating Establishment",
-          "id": "e4f29781-2410-48b8-b295-a3ec24b58ac2",
-          "postal": "689812"
-        },
-        {
-          "name": "CHOO CATERING PTE. LTD.",
-          "address": "5 MANDAI LINK #04-07 MANDAI FOODLINK 728654",
-          "type": "Catering Company",
-          "number": "FPCA26010000140",
-          "scheme": "Food Preparation Area",
-          "id": "28a38f1e-b540-4b1c-a727-8a0e16e080e1",
-          "postal": "728654"
-        },
-        {
-          "name": "Padang Lezat",
-          "address": "2 TAMPINES CENTRAL 5 THE FOOD MARKET - Stall 08 #03-19 CENTURY SQUARE 529509",
-          "type": "Hawker",
-          "number": "EEHK26010000137",
-          "scheme": "Eating Establishment",
-          "id": "e4f29781-2410-48b8-b295-a3ec24b58ac2",
-          "postal": "529509"
-        },
-        {
-          "name": "Firstbowl",
-          "address": "1 SENGKANG SQUARE #01-36 COMPASS ONE 545078",
-          "type": "Restaurant",
-          "number": "EERT26010000054",
-          "scheme": "Eating Establishment",
-          "id": "9a2f3a83-cf05-4968-a8b9-35dda56fae8a",
-          "postal": "545078"
-        },
-        {
-          "name": "Padang Lezat",
-          "address": "313 ORCHARD ROAD Food Republic (Stall 13) #05-01 313 @ SOMERSET 238895",
-          "type": "Hawker",
-          "number": "EEHK26010000138",
-          "scheme": "Eating Establishment",
-          "id": "9865f7ce-e4b3-4780-858b-ecfdfd9f4575",
-          "postal": "238895"
-        },
-        {
-          "name": "Indochili Catering and Supply Pte Ltd",
-          "address": "8A ADMIRALTY STREET #03-18 FOOD XCHANGE @ ADMIRALTY 757437",
-          "type": "Central Kitchen",
-          "number": "FPCK26010000134",
-          "scheme": "Food Preparation Area",
-          "id": "677a7144-e76d-4723-bbda-a56962e1d5ce",
-          "postal": "757437"
-        },
-        {
-          "name": "Padang Lezat",
-          "address": "78 AIRPORT BOULEVARD Food Republic - Stall 12 #B2-240 JEWEL CHANGI AIRPORT #B2-238, #B2-239 819666",
-          "type": "Hawker",
-          "number": "EEHK26010000135",
-          "scheme": "Eating Establishment",
-          "id": "e4f29781-2410-48b8-b295-a3ec24b58ac2",
-          "postal": "819666"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Telur Thai (S19) @ Kopitiam Tampines Mall",
-          "address": "4 TAMPINES CENTRAL 5 #04-27 TAMPINES MALL, Stall 19 529510",
-          "type": "Hawker",
-          "number": "EEHK20240000079",
-          "scheme": "Eating Establishment",
-          "id": "135a9f83-f2f4-40b3-8aac-e663ee9034df",
-          "postal": "529510"
-        },
-        {
-          "name": "SPICY EXPRESS",
-          "address": "678A WOODLANDS AVENUE 6 #01-07 ADMIRALTY PLACE 731678",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20240000522",
-          "scheme": "Eating Establishment",
-          "id": "0b39f767-5770-4227-bda3-b802daa6a1b0",
-          "postal": "731678"
-        }
-      ],
-      "updated": []
     }
   }
 ]
