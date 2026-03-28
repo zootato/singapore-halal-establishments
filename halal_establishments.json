@@ -17128,6 +17128,15 @@
   },
   {
     "name": "L & M Seafood",
+    "address": "622D PUNGGOL CENTRAL PUNGGOL SPECTRA, Stall No 1@Happy hawkers 824622",
+    "type": "Hawker",
+    "number": "EEHK26030000069",
+    "scheme": "Eating Establishment",
+    "id": "a270c4f1-833f-4f1b-9f64-fad74f459d26",
+    "postal": "824622"
+  },
+  {
+    "name": "L & M Seafood",
     "address": "150 TOWNER ROAD Stall no 10@FoodHub #01-#01 TOWNER CREST 320150",
     "type": "Hawker",
     "number": "EEHK26030000048",
@@ -33175,15 +33184,6 @@
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "211 HENDERSON ROAD #01-03 211 HENDERSON 159552",
-    "type": "Restaurant",
-    "number": "EERT20220000228",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "159552"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
     "address": "10 ANSON ROAD #01-32 INTERNATIONAL PLAZA 079903",
     "type": "Restaurant",
     "number": "EERN21120013265",
@@ -33622,6 +33622,15 @@
     "scheme": "Eating Establishment",
     "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
     "postal": "545078"
+  },
+  {
+    "name": "THE COFFEE BEAN & TEA LEAF",
+    "address": "211 HENDERSON ROAD #01-03 211 HENDERSON 159552",
+    "type": "Restaurant",
+    "number": "EERT20220000228",
+    "scheme": "Eating Establishment",
+    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+    "postal": "159552"
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
