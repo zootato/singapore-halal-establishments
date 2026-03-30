@@ -1018,12 +1018,57 @@
   },
   {
     "name": "Al Madina Famous Prata Corner",
-    "address": "40 MARGARET DRIVE #01-05, Stall 2 140040",
+    "address": "40 MARGARET DRIVE #01-05, STALL 2, FOODHUB 140040",
     "type": "Hawker",
     "number": "EEHK20240000187",
     "scheme": "Eating Establishment",
     "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
     "postal": "140040"
+  },
+  {
+    "name": "Al Madina Famous Prata Corner",
+    "address": "36 CHAI CHEE AVENUE #01-151 ANSAR GARDEN, stall 6 461036",
+    "type": "Hawker",
+    "number": "EEHK20240000730",
+    "scheme": "Eating Establishment",
+    "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
+    "postal": "461036"
+  },
+  {
+    "name": "Al Madina Famous Prata Corner",
+    "address": "449 CLEMENTI AVENUE 3 #01-211, STALL 1 120449",
+    "type": "Hawker",
+    "number": "EEHK20240001031",
+    "scheme": "Eating Establishment",
+    "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
+    "postal": "120449"
+  },
+  {
+    "name": "Al Madina Famous Prata Corner",
+    "address": "207 BUKIT BATOK STREET 21 #01-118 BUKIT BATOK GREEN, Stall 4 650207",
+    "type": "Hawker",
+    "number": "EEHK20250000035",
+    "scheme": "Eating Establishment",
+    "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
+    "postal": "650207"
+  },
+  {
+    "name": "Al Madina Famous Prata Corner",
+    "address": "803 Keat Hong Close #01-01, Stall 4 680803",
+    "type": "Hawker",
+    "number": "EEHK20250000036",
+    "scheme": "Eating Establishment",
+    "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
+    "postal": "680803"
+  },
+  {
+    "name": "Al Madina Famous Prata Corner",
+    "address": "844 TAMPINES STREET 82 #01-131 TAMPINES VILLE, STALL 7 520844",
+    "type": "Hawker",
+    "number": "EEHK20250000270",
+    "scheme": "Eating Establishment",
+    "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
+    "postal": "520844"
   },
   {
     "name": "Al Madina Famous Prata Corner",
@@ -1036,7 +1081,7 @@
   },
   {
     "name": "Al Madina Famous Prata Corner",
-    "address": "635C SENJA ROAD #01-01,STALL 8 673635",
+    "address": "635C SENJA ROAD #01-01, STALL 8 673635",
     "type": "Hawker",
     "number": "EEHN22010013074",
     "scheme": "Eating Establishment",
@@ -1069,51 +1114,6 @@
     "scheme": "Eating Establishment",
     "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
     "postal": "523494"
-  },
-  {
-    "name": "Al Madina Famous Prata Corner (S1) @ Foodhub 449 Clementi",
-    "address": "449 CLEMENTI AVENUE 3 #01-211, STALL 1 120449",
-    "type": "Hawker",
-    "number": "EEHK20240001031",
-    "scheme": "Eating Establishment",
-    "id": "3228adf4-baa8-4b0f-ab20-3369bf1851a2",
-    "postal": "120449"
-  },
-  {
-    "name": "Al Madina Famous Prata Corner (S4) @ Badaling 207 Bukit Batok",
-    "address": "207 BUKIT BATOK STREET 21 #01-118 BUKIT BATOK GREEN, Stall 4 650207",
-    "type": "Hawker",
-    "number": "EEHK20250000035",
-    "scheme": "Eating Establishment",
-    "id": "229801a5-9d6d-4c0b-97b1-f9406c73ad4a",
-    "postal": "650207"
-  },
-  {
-    "name": "Al Madina Famous Prata Corner (S4) @ FoodHub 803 Keat Hong",
-    "address": "803 Keat Hong Close #01-01, Stall 4 680803",
-    "type": "Hawker",
-    "number": "EEHK20250000036",
-    "scheme": "Eating Establishment",
-    "id": "c9f14a94-f669-483f-9672-c50e77737b4f",
-    "postal": "680803"
-  },
-  {
-    "name": "Al Madina Famous Prata Corner (S6) @ Foodhub 36 Chai Chee",
-    "address": "36 CHAI CHEE AVENUE #01-151 ANSAR GARDEN, stall 6 461036",
-    "type": "Hawker",
-    "number": "EEHK20240000730",
-    "scheme": "Eating Establishment",
-    "id": "abb1ee2c-2ef3-4390-ab40-1ea834603a26",
-    "postal": "461036"
-  },
-  {
-    "name": "Al Madina Famous Prata Corner (S7)@ST82 Coffee House 844 Tampines",
-    "address": "844 TAMPINES STREET 82 #01-131 TAMPINES VILLE 520844",
-    "type": "Hawker",
-    "number": "EEHK20250000270",
-    "scheme": "Eating Establishment",
-    "id": "efcd8c9c-ed45-47fb-b3c6-0cde08b37ae3",
-    "postal": "520844"
   },
   {
     "name": "Al madina famous prata corner(S4) @ Foodhub 801 West Coast",
@@ -2818,15 +2818,6 @@
   },
   {
     "name": "BAKE INC",
-    "address": "960 WOODLANDS ROAD #01-09 KRANJI MRT STATION 738702",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20240000117",
-    "scheme": "Eating Establishment",
-    "id": "da0503ca-1962-4761-9a81-674b82f2b814",
-    "postal": "738702"
-  },
-  {
-    "name": "BAKE INC",
     "address": "1 HOUGANG STREET 91 #01-03/06 HOUGANG 1 538692",
     "type": "Snack Bar / Bakery",
     "number": "EESB20230001110",
@@ -2842,6 +2833,15 @@
     "scheme": "Eating Establishment",
     "id": "da0503ca-1962-4761-9a81-674b82f2b814",
     "postal": "310520"
+  },
+  {
+    "name": "BAKE INC",
+    "address": "960 WOODLANDS ROAD #01-09 KRANJI MRT STATION 738702",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20240000117",
+    "scheme": "Eating Establishment",
+    "id": "da0503ca-1962-4761-9a81-674b82f2b814",
+    "postal": "738702"
   },
   {
     "name": "BAKE INC",
@@ -7552,39 +7552,12 @@
   },
   {
     "name": "D'PENYETZ",
-    "address": "10 EUNOS ROAD 8 #02-142/143 SINGAPORE POST CENTRE 408600",
-    "type": "Hawker",
-    "number": "EEHN21120013034",
-    "scheme": "Eating Establishment",
-    "id": "70e071d9-10d7-4dd6-bcd5-8354b6b269b0",
-    "postal": "408600"
-  },
-  {
-    "name": "D'PENYETZ",
-    "address": "678A WOODLANDS AVENUE 6 #01-31 ADMIRALTY PLACE 731678",
-    "type": "Restaurant",
-    "number": "EERT20230000437",
-    "scheme": "Eating Establishment",
-    "id": "70e071d9-10d7-4dd6-bcd5-8354b6b269b0",
-    "postal": "731678"
-  },
-  {
-    "name": "D'PENYETZ",
     "address": "50 JURONG GATEWAY ROAD #05-02 JEM 608549",
     "type": "Restaurant",
     "number": "EERN22030013542",
     "scheme": "Eating Establishment",
     "id": "70e071d9-10d7-4dd6-bcd5-8354b6b269b0",
     "postal": "608549"
-  },
-  {
-    "name": "D'PENYETZ",
-    "address": "460 ALEXANDRA ROAD #01-02 MTOWER 119963",
-    "type": "Restaurant",
-    "number": "EERT20220000546",
-    "scheme": "Eating Establishment",
-    "id": "70e071d9-10d7-4dd6-bcd5-8354b6b269b0",
-    "postal": "119963"
   },
   {
     "name": "D'PENYETZ",
@@ -14281,6 +14254,15 @@
     "scheme": "Eating Establishment",
     "id": "34e10f71-d3da-4743-a872-8222e8121e84",
     "postal": "797575"
+  },
+  {
+    "name": "International Gourmet / Home Favourites/Grab & Go @ HP DRD (Mngd by Sodexo Singapore PL)",
+    "address": "1150 DEPOT ROAD BLOCK A LEVEL 2, LEVEL 5 109673",
+    "type": "Staff Canteen",
+    "number": "EESC26030000017",
+    "scheme": "Eating Establishment",
+    "id": "7c400aff-8607-4e59-b68b-a08c167936ca",
+    "postal": "109673"
   },
   {
     "name": "Ipoh Hainanese Chicken Rice (S14) @ Kopitiam Lau Pa Sat",
@@ -21564,6 +21546,15 @@
     "postal": "730900"
   },
   {
+    "name": "MY SAAP SAAP THAI",
+    "address": "1 Lower Kent Ridge Road #01-16/17 NUH MEDICAL CENTRE 119082",
+    "type": "Restaurant",
+    "number": "EERN21060012448",
+    "scheme": "Eating Establishment",
+    "id": "9755e0bc-ad15-4b80-a18d-2a61afe5f5c5",
+    "postal": "119082"
+  },
+  {
     "name": "My Spice Affair",
     "address": "12 KALLANG AVENUE #02-11 APERIA 339511",
     "type": "Restaurant",
@@ -24940,21 +24931,21 @@
   },
   {
     "name": "Poke Theory",
-    "address": "238 THOMSON ROAD #01-53 NOVENA SQUARE 307683",
-    "type": "Restaurant",
-    "number": "EERN21020012162",
-    "scheme": "Eating Establishment",
-    "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
-    "postal": "307683"
-  },
-  {
-    "name": "Poke Theory",
     "address": "1 WOODLANDS SQUARE #B1-22 CAUSEWAY POINT 738099",
     "type": "Restaurant",
     "number": "EERT20240000918",
     "scheme": "Eating Establishment",
     "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
     "postal": "738099"
+  },
+  {
+    "name": "Poke Theory",
+    "address": "238 THOMSON ROAD #01-53 NOVENA SQUARE 307683",
+    "type": "Restaurant",
+    "number": "EERN21020012162",
+    "scheme": "Eating Establishment",
+    "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
+    "postal": "307683"
   },
   {
     "name": "Poke Theory",
@@ -27208,6 +27199,15 @@
   },
   {
     "name": "san.wich",
+    "address": "10 EUNOS ROAD 8 #B1-158 SINGAPORE POST CENTRE 408600",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20230000654",
+    "scheme": "Eating Establishment",
+    "id": "3bd9ccb4-3fd0-4719-8ffc-594b877c6cc5",
+    "postal": "408600"
+  },
+  {
+    "name": "san.wich",
     "address": "21 CHOA CHU KANG AVENUE 4 #B1-K21 LOT ONE, SHOPPERS' MALL 689812",
     "type": "Snack Bar / Bakery",
     "number": "EESB20230000435",
@@ -28459,7 +28459,7 @@
   },
   {
     "name": "Siemens Centre Cafeteria (Mngd by SATS Food Services Pte Ltd)",
-    "address": "60 MACPHERSON ROAD #01-07/07A THE SIEMENS CENTRE 348615",
+    "address": "60 MACPHERSON ROAD 01-07/07A THE SIEMENS CENTRE 348615",
     "type": "Staff Canteen",
     "number": "EESC20250000300",
     "scheme": "Eating Establishment",
@@ -28468,7 +28468,7 @@
   },
   {
     "name": "Siemens Centre Cafeteria (Mngd by SATS Food Services Pte Ltd)",
-    "address": "60 MACPHERSON ROAD #01-07/07A THE SIEMENS CENTRE 348615",
+    "address": "60 MACPHERSON ROAD 01-07/07A THE SIEMENS CENTRE 348615",
     "type": "Catering Company",
     "number": "FPCA20250000370",
     "scheme": "Food Preparation Area",
@@ -29026,21 +29026,21 @@
   },
   {
     "name": "SPRINGLEAF PRATA PLACE",
-    "address": "60 YISHUN AVENUE 4 #01-07 SAFRA COUNTRY CLUB (YISHUN) 769027",
-    "type": "Restaurant",
-    "number": "EERN21060012488",
-    "scheme": "Eating Establishment",
-    "id": "97aab0ac-414e-458a-9758-d335f07b1e6b",
-    "postal": "769027"
-  },
-  {
-    "name": "SPRINGLEAF PRATA PLACE",
     "address": "1 WOODLANDS ROAD #01-25 JUNCTION 10 677899",
     "type": "Restaurant",
     "number": "EERN21060012485",
     "scheme": "Eating Establishment",
     "id": "97aab0ac-414e-458a-9758-d335f07b1e6b",
     "postal": "677899"
+  },
+  {
+    "name": "SPRINGLEAF PRATA PLACE",
+    "address": "60 YISHUN AVENUE 4 #01-07 SAFRA COUNTRY CLUB (YISHUN) 769027",
+    "type": "Restaurant",
+    "number": "EERN21060012488",
+    "scheme": "Eating Establishment",
+    "id": "97aab0ac-414e-458a-9758-d335f07b1e6b",
+    "postal": "769027"
   },
   {
     "name": "SPRINGLEAF PRATA PLACE",
@@ -29374,6 +29374,42 @@
     "scheme": "Eating Establishment",
     "id": "66334d9b-70f7-42db-9845-7af103db642e",
     "postal": "569506"
+  },
+  {
+    "name": "Staff Canteen Stall at MSD (Mngd by Sodexo Singapore)",
+    "address": "50 TUAS WEST DRIVE 638408",
+    "type": "Staff Canteen",
+    "number": "EEFX21080012526",
+    "scheme": "Eating Establishment",
+    "id": "1218551f-3ca6-4be5-82af-87d567d0144c",
+    "postal": "638408"
+  },
+  {
+    "name": "Staff Canteen Stall at MSD (Mngd by Sodexo Singapore)",
+    "address": "60 TUAS WEST DRIVE 638413",
+    "type": "Staff Canteen",
+    "number": "EEFX21080012527",
+    "scheme": "Eating Establishment",
+    "id": "1218551f-3ca6-4be5-82af-87d567d0144c",
+    "postal": "638413"
+  },
+  {
+    "name": "Staff Canteen Stall at MSD (Mngd by Sodexo Singapore)",
+    "address": "70 TUAS WEST DRIVE 638414",
+    "type": "Staff Canteen",
+    "number": "EEFX21080012528",
+    "scheme": "Eating Establishment",
+    "id": "1218551f-3ca6-4be5-82af-87d567d0144c",
+    "postal": "638414"
+  },
+  {
+    "name": "Staff Canteen Stall at MSD (Mngd by Sodexo Singapore)",
+    "address": "21 TUAS SOUTH AVENUE 6 637766",
+    "type": "Staff Canteen",
+    "number": "EEFX21080012529",
+    "scheme": "Eating Establishment",
+    "id": "1218551f-3ca6-4be5-82af-87d567d0144c",
+    "postal": "637766"
   },
   {
     "name": "Staff Canteen Stall@ Shell Tuas(Mngd by Catering Solutions Pte Ltd",
@@ -34909,6 +34945,15 @@
     "scheme": "Eating Establishment",
     "id": "ab2807cf-9a9f-4c94-bedf-4a8111810374",
     "postal": "820681"
+  },
+  {
+    "name": "Toast Junction",
+    "address": "9 BISHAN PLACE #04-01/2E JUNCTION 8 SHOPPING CENTRE (MR1) 579837",
+    "type": "Hawker",
+    "number": "EEHN21040012283",
+    "scheme": "Eating Establishment",
+    "id": "7e922a15-9a6d-476b-aad1-87794c044a35",
+    "postal": "579837"
   },
   {
     "name": "Toast Junction",

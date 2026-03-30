@@ -1,5 +1,291 @@
 [
   {
+    "timestamp": "2026-03-30T22:24:21.133915",
+    "date": "2026-03-30",
+    "summary": {
+      "new": 13,
+      "removed": 8,
+      "updated": 4
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "International Gourmet / Home Favourites/Grab & Go @ HP DRD (Mngd by Sodexo Singapore PL)",
+          "address": "1150 DEPOT ROAD BLOCK A LEVEL 2, LEVEL 5 109673",
+          "type": "Staff Canteen",
+          "number": "EESC26030000017",
+          "scheme": "Eating Establishment",
+          "id": "7c400aff-8607-4e59-b68b-a08c167936ca",
+          "postal": "109673"
+        },
+        {
+          "name": "Al Madina Famous Prata Corner",
+          "address": "844 TAMPINES STREET 82 #01-131 TAMPINES VILLE, STALL 7 520844",
+          "type": "Hawker",
+          "number": "EEHK20250000270",
+          "scheme": "Eating Establishment",
+          "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
+          "postal": "520844"
+        },
+        {
+          "name": "Toast Junction",
+          "address": "9 BISHAN PLACE #04-01/2E JUNCTION 8 SHOPPING CENTRE (MR1) 579837",
+          "type": "Hawker",
+          "number": "EEHN21040012283",
+          "scheme": "Eating Establishment",
+          "id": "7e922a15-9a6d-476b-aad1-87794c044a35",
+          "postal": "579837"
+        },
+        {
+          "name": "Al Madina Famous Prata Corner",
+          "address": "803 Keat Hong Close #01-01, Stall 4 680803",
+          "type": "Hawker",
+          "number": "EEHK20250000036",
+          "scheme": "Eating Establishment",
+          "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
+          "postal": "680803"
+        },
+        {
+          "name": "Staff Canteen Stall at MSD (Mngd by Sodexo Singapore)",
+          "address": "21 TUAS SOUTH AVENUE 6 637766",
+          "type": "Staff Canteen",
+          "number": "EEFX21080012529",
+          "scheme": "Eating Establishment",
+          "id": "1218551f-3ca6-4be5-82af-87d567d0144c",
+          "postal": "637766"
+        },
+        {
+          "name": "MY SAAP SAAP THAI",
+          "address": "1 Lower Kent Ridge Road #01-16/17 NUH MEDICAL CENTRE 119082",
+          "type": "Restaurant",
+          "number": "EERN21060012448",
+          "scheme": "Eating Establishment",
+          "id": "9755e0bc-ad15-4b80-a18d-2a61afe5f5c5",
+          "postal": "119082"
+        },
+        {
+          "name": "Al Madina Famous Prata Corner",
+          "address": "36 CHAI CHEE AVENUE #01-151 ANSAR GARDEN, stall 6 461036",
+          "type": "Hawker",
+          "number": "EEHK20240000730",
+          "scheme": "Eating Establishment",
+          "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
+          "postal": "461036"
+        },
+        {
+          "name": "Staff Canteen Stall at MSD (Mngd by Sodexo Singapore)",
+          "address": "70 TUAS WEST DRIVE 638414",
+          "type": "Staff Canteen",
+          "number": "EEFX21080012528",
+          "scheme": "Eating Establishment",
+          "id": "1218551f-3ca6-4be5-82af-87d567d0144c",
+          "postal": "638414"
+        },
+        {
+          "name": "Staff Canteen Stall at MSD (Mngd by Sodexo Singapore)",
+          "address": "60 TUAS WEST DRIVE 638413",
+          "type": "Staff Canteen",
+          "number": "EEFX21080012527",
+          "scheme": "Eating Establishment",
+          "id": "1218551f-3ca6-4be5-82af-87d567d0144c",
+          "postal": "638413"
+        },
+        {
+          "name": "Al Madina Famous Prata Corner",
+          "address": "207 BUKIT BATOK STREET 21 #01-118 BUKIT BATOK GREEN, Stall 4 650207",
+          "type": "Hawker",
+          "number": "EEHK20250000035",
+          "scheme": "Eating Establishment",
+          "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
+          "postal": "650207"
+        },
+        {
+          "name": "Staff Canteen Stall at MSD (Mngd by Sodexo Singapore)",
+          "address": "50 TUAS WEST DRIVE 638408",
+          "type": "Staff Canteen",
+          "number": "EEFX21080012526",
+          "scheme": "Eating Establishment",
+          "id": "1218551f-3ca6-4be5-82af-87d567d0144c",
+          "postal": "638408"
+        },
+        {
+          "name": "san.wich",
+          "address": "10 EUNOS ROAD 8 #B1-158 SINGAPORE POST CENTRE 408600",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000654",
+          "scheme": "Eating Establishment",
+          "id": "3bd9ccb4-3fd0-4719-8ffc-594b877c6cc5",
+          "postal": "408600"
+        },
+        {
+          "name": "Al Madina Famous Prata Corner",
+          "address": "449 CLEMENTI AVENUE 3 #01-211, STALL 1 120449",
+          "type": "Hawker",
+          "number": "EEHK20240001031",
+          "scheme": "Eating Establishment",
+          "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
+          "postal": "120449"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Al Madina Famous Prata Corner (S4) @ Badaling 207 Bukit Batok",
+          "address": "207 BUKIT BATOK STREET 21 #01-118 BUKIT BATOK GREEN, Stall 4 650207",
+          "type": "Hawker",
+          "number": "EEHK20250000035",
+          "scheme": "Eating Establishment",
+          "id": "229801a5-9d6d-4c0b-97b1-f9406c73ad4a",
+          "postal": "650207"
+        },
+        {
+          "name": "Al Madina Famous Prata Corner (S7)@ST82 Coffee House 844 Tampines",
+          "address": "844 TAMPINES STREET 82 #01-131 TAMPINES VILLE 520844",
+          "type": "Hawker",
+          "number": "EEHK20250000270",
+          "scheme": "Eating Establishment",
+          "id": "efcd8c9c-ed45-47fb-b3c6-0cde08b37ae3",
+          "postal": "520844"
+        },
+        {
+          "name": "D'PENYETZ",
+          "address": "460 ALEXANDRA ROAD #01-02 MTOWER 119963",
+          "type": "Restaurant",
+          "number": "EERT20220000546",
+          "scheme": "Eating Establishment",
+          "id": "70e071d9-10d7-4dd6-bcd5-8354b6b269b0",
+          "postal": "119963"
+        },
+        {
+          "name": "Al Madina Famous Prata Corner (S4) @ FoodHub 803 Keat Hong",
+          "address": "803 Keat Hong Close #01-01, Stall 4 680803",
+          "type": "Hawker",
+          "number": "EEHK20250000036",
+          "scheme": "Eating Establishment",
+          "id": "c9f14a94-f669-483f-9672-c50e77737b4f",
+          "postal": "680803"
+        },
+        {
+          "name": "Al Madina Famous Prata Corner (S6) @ Foodhub 36 Chai Chee",
+          "address": "36 CHAI CHEE AVENUE #01-151 ANSAR GARDEN, stall 6 461036",
+          "type": "Hawker",
+          "number": "EEHK20240000730",
+          "scheme": "Eating Establishment",
+          "id": "abb1ee2c-2ef3-4390-ab40-1ea834603a26",
+          "postal": "461036"
+        },
+        {
+          "name": "D'PENYETZ",
+          "address": "678A WOODLANDS AVENUE 6 #01-31 ADMIRALTY PLACE 731678",
+          "type": "Restaurant",
+          "number": "EERT20230000437",
+          "scheme": "Eating Establishment",
+          "id": "70e071d9-10d7-4dd6-bcd5-8354b6b269b0",
+          "postal": "731678"
+        },
+        {
+          "name": "Al Madina Famous Prata Corner (S1) @ Foodhub 449 Clementi",
+          "address": "449 CLEMENTI AVENUE 3 #01-211, STALL 1 120449",
+          "type": "Hawker",
+          "number": "EEHK20240001031",
+          "scheme": "Eating Establishment",
+          "id": "3228adf4-baa8-4b0f-ab20-3369bf1851a2",
+          "postal": "120449"
+        },
+        {
+          "name": "D'PENYETZ",
+          "address": "10 EUNOS ROAD 8 #02-142/143 SINGAPORE POST CENTRE 408600",
+          "type": "Hawker",
+          "number": "EEHN21120013034",
+          "scheme": "Eating Establishment",
+          "id": "70e071d9-10d7-4dd6-bcd5-8354b6b269b0",
+          "postal": "408600"
+        }
+      ],
+      "updated": [
+        {
+          "previous": {
+            "name": "Al Madina Famous Prata Corner",
+            "address": "40 MARGARET DRIVE #01-05, Stall 2 140040",
+            "type": "Hawker",
+            "number": "EEHK20240000187",
+            "scheme": "Eating Establishment",
+            "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
+            "postal": "140040"
+          },
+          "current": {
+            "name": "Al Madina Famous Prata Corner",
+            "address": "40 MARGARET DRIVE #01-05, STALL 2, FOODHUB 140040",
+            "type": "Hawker",
+            "number": "EEHK20240000187",
+            "scheme": "Eating Establishment",
+            "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
+            "postal": "140040"
+          }
+        },
+        {
+          "previous": {
+            "name": "Siemens Centre Cafeteria (Mngd by SATS Food Services Pte Ltd)",
+            "address": "60 MACPHERSON ROAD #01-07/07A THE SIEMENS CENTRE 348615",
+            "type": "Catering Company",
+            "number": "FPCA20250000370",
+            "scheme": "Food Preparation Area",
+            "id": "fc4f6668-e658-402e-bdb1-f6a3687196dc",
+            "postal": "348615"
+          },
+          "current": {
+            "name": "Siemens Centre Cafeteria (Mngd by SATS Food Services Pte Ltd)",
+            "address": "60 MACPHERSON ROAD 01-07/07A THE SIEMENS CENTRE 348615",
+            "type": "Catering Company",
+            "number": "FPCA20250000370",
+            "scheme": "Food Preparation Area",
+            "id": "fc4f6668-e658-402e-bdb1-f6a3687196dc",
+            "postal": "348615"
+          }
+        },
+        {
+          "previous": {
+            "name": "Siemens Centre Cafeteria (Mngd by SATS Food Services Pte Ltd)",
+            "address": "60 MACPHERSON ROAD #01-07/07A THE SIEMENS CENTRE 348615",
+            "type": "Staff Canteen",
+            "number": "EESC20250000300",
+            "scheme": "Eating Establishment",
+            "id": "fc4f6668-e658-402e-bdb1-f6a3687196dc",
+            "postal": "348615"
+          },
+          "current": {
+            "name": "Siemens Centre Cafeteria (Mngd by SATS Food Services Pte Ltd)",
+            "address": "60 MACPHERSON ROAD 01-07/07A THE SIEMENS CENTRE 348615",
+            "type": "Staff Canteen",
+            "number": "EESC20250000300",
+            "scheme": "Eating Establishment",
+            "id": "fc4f6668-e658-402e-bdb1-f6a3687196dc",
+            "postal": "348615"
+          }
+        },
+        {
+          "previous": {
+            "name": "Al Madina Famous Prata Corner",
+            "address": "635C SENJA ROAD #01-01,STALL 8 673635",
+            "type": "Hawker",
+            "number": "EEHN22010013074",
+            "scheme": "Eating Establishment",
+            "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
+            "postal": "673635"
+          },
+          "current": {
+            "name": "Al Madina Famous Prata Corner",
+            "address": "635C SENJA ROAD #01-01, STALL 8 673635",
+            "type": "Hawker",
+            "number": "EEHN22010013074",
+            "scheme": "Eating Establishment",
+            "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
+            "postal": "673635"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-03-28T22:19:05.609286",
     "date": "2026-03-28",
     "summary": {
@@ -7032,30 +7318,6 @@
           }
         }
       ]
-    }
-  },
-  {
-    "timestamp": "2026-01-30T22:17:15.350646",
-    "date": "2026-01-30",
-    "summary": {
-      "new": 1,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Yummy Sedap",
-          "address": "1 WOODLANDS HEIGHT MR 1 #01-01 KOUFU GROUP HQ 737859",
-          "type": "Hawker",
-          "number": "EEHK26010000131",
-          "scheme": "Eating Establishment",
-          "id": "1514de17-1d07-473e-8d13-e4a4646d02a1",
-          "postal": "737859"
-        }
-      ],
-      "removed": [],
-      "updated": []
     }
   }
 ]
