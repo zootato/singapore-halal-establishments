@@ -1,5 +1,132 @@
 [
   {
+    "timestamp": "2026-04-01T22:25:14.439597",
+    "date": "2026-04-01",
+    "summary": {
+      "new": 9,
+      "removed": 1,
+      "updated": 1
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "WINGSTOP",
+          "address": "11 BEDOK NORTH STREET 1 #01-32 HEARTBEAT @ BEDOK 469662",
+          "type": "Restaurant",
+          "number": "EERT26030000078",
+          "scheme": "Eating Establishment",
+          "id": "5078bd18-9cd6-436e-8ff3-0f2e55f795dc",
+          "postal": "469662"
+        },
+        {
+          "name": "D'PENYETZ",
+          "address": "302 TIONG BAHRU ROAD #b1-111 TIONG BAHRU PLAZA 168732",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000249",
+          "scheme": "Eating Establishment",
+          "id": "70e071d9-10d7-4dd6-bcd5-8354b6b269b0",
+          "postal": "168732"
+        },
+        {
+          "name": "D'PENYETZ",
+          "address": "750 CHAI CHEE ROAD #01-13 ESR BIZPARK @ CHAI CHEE 469000",
+          "type": "Restaurant",
+          "number": "EERT20240000248",
+          "scheme": "Eating Establishment",
+          "id": "70e071d9-10d7-4dd6-bcd5-8354b6b269b0",
+          "postal": "469000"
+        },
+        {
+          "name": "D'PENYETZ",
+          "address": "1 PASIR RIS CLOSE #01-104 E!HUB@DOWNTOWN EAST 519599",
+          "type": "Restaurant",
+          "number": "EERT20220000901",
+          "scheme": "Eating Establishment",
+          "id": "70e071d9-10d7-4dd6-bcd5-8354b6b269b0",
+          "postal": "519599"
+        },
+        {
+          "name": "NENE CHICKEN",
+          "address": "628 SENJA ROAD STALL 8, KOPITIAM CORNER #01-07 SENJA CENTRE 670628",
+          "type": "Hawker",
+          "number": "EEHK26030000072",
+          "scheme": "Eating Establishment",
+          "id": "c2a3daa9-ec19-4a9f-8474-752b3cbfb1ff",
+          "postal": "670628"
+        },
+        {
+          "name": "D'PENYETZ",
+          "address": "50 JURONG GATEWAY ROAD #05-02 JEM 608549",
+          "type": "Restaurant",
+          "number": "EERN22030013542",
+          "scheme": "Eating Establishment",
+          "id": "70e071d9-10d7-4dd6-bcd5-8354b6b269b0",
+          "postal": "608549"
+        },
+        {
+          "name": "D'PENYETZ",
+          "address": "1 TAMPINES WALK #02-90,#02-91 OUR TAMPINES HUB 528523",
+          "type": "Restaurant",
+          "number": "EERT20250000294",
+          "scheme": "Eating Establishment",
+          "id": "70e071d9-10d7-4dd6-bcd5-8354b6b269b0",
+          "postal": "528523"
+        },
+        {
+          "name": "NENE CHICKEN",
+          "address": "209B CLEMENTI AVENUE 6 STALL 1, KOPITIAM CORNER #01-10 CLEMENTI NORTHARC 122209",
+          "type": "Hawker",
+          "number": "EEHK26030000073",
+          "scheme": "Eating Establishment",
+          "id": "c2a3daa9-ec19-4a9f-8474-752b3cbfb1ff",
+          "postal": "122209"
+        },
+        {
+          "name": "D'PENYETZ",
+          "address": "151 LORONG CHUAN #01-24 NEW TECH PARK 556741",
+          "type": "Restaurant",
+          "number": "EERN21120013324",
+          "scheme": "Eating Establishment",
+          "id": "70e071d9-10d7-4dd6-bcd5-8354b6b269b0",
+          "postal": "556741"
+        }
+      ],
+      "removed": [
+        {
+          "name": "WOK HEY",
+          "address": "53 ANG MO KIO AVENUE 3 #01-36 AMK HUB, (PART OF) LEFT UNIT 569933",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20090011420",
+          "scheme": "Eating Establishment",
+          "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+          "postal": "569933"
+        }
+      ],
+      "updated": [
+        {
+          "previous": {
+            "name": "Gelare",
+            "address": "8 GRANGE ROAD #02-06A/06B CATHAY CINELEISURE  ORCHARD 239695",
+            "type": "Restaurant",
+            "number": "EERT20240000267",
+            "scheme": "Eating Establishment",
+            "id": "8297f808-92a7-4884-92d8-95daab047e0e",
+            "postal": "239695"
+          },
+          "current": {
+            "name": "Gelare",
+            "address": "8 GRANGE ROAD #02-06A/06B CATHAY CINELEISURE ORCHARD 239695",
+            "type": "Restaurant",
+            "number": "EERT20240000267",
+            "scheme": "Eating Establishment",
+            "id": "8297f808-92a7-4884-92d8-95daab047e0e",
+            "postal": "239695"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-03-31T22:23:39.555807",
     "date": "2026-03-31",
     "summary": {
@@ -7995,30 +8122,6 @@
           "postal": "569933"
         }
       ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-02-01T22:18:08.074472",
-    "date": "2026-02-01",
-    "summary": {
-      "new": 1,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "DRubinah Restaurant @ Towner Road",
-          "address": "102 TOWNER ROAD #01-272 322102",
-          "type": "Restaurant",
-          "number": "EERT20250000463",
-          "scheme": "Eating Establishment",
-          "id": "2dc2c183-fe1a-4553-8430-ce67aa95bc89",
-          "postal": "322102"
-        }
-      ],
-      "removed": [],
       "updated": []
     }
   }

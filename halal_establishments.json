@@ -7236,6 +7236,60 @@
     "postal": "757713"
   },
   {
+    "name": "D'PENYETZ",
+    "address": "1 PASIR RIS CLOSE #01-104 E!HUB@DOWNTOWN EAST 519599",
+    "type": "Restaurant",
+    "number": "EERT20220000901",
+    "scheme": "Eating Establishment",
+    "id": "70e071d9-10d7-4dd6-bcd5-8354b6b269b0",
+    "postal": "519599"
+  },
+  {
+    "name": "D'PENYETZ",
+    "address": "50 JURONG GATEWAY ROAD #05-02 JEM 608549",
+    "type": "Restaurant",
+    "number": "EERN22030013542",
+    "scheme": "Eating Establishment",
+    "id": "70e071d9-10d7-4dd6-bcd5-8354b6b269b0",
+    "postal": "608549"
+  },
+  {
+    "name": "D'PENYETZ",
+    "address": "151 LORONG CHUAN #01-24 NEW TECH PARK 556741",
+    "type": "Restaurant",
+    "number": "EERN21120013324",
+    "scheme": "Eating Establishment",
+    "id": "70e071d9-10d7-4dd6-bcd5-8354b6b269b0",
+    "postal": "556741"
+  },
+  {
+    "name": "D'PENYETZ",
+    "address": "750 CHAI CHEE ROAD #01-13 ESR BIZPARK @ CHAI CHEE 469000",
+    "type": "Restaurant",
+    "number": "EERT20240000248",
+    "scheme": "Eating Establishment",
+    "id": "70e071d9-10d7-4dd6-bcd5-8354b6b269b0",
+    "postal": "469000"
+  },
+  {
+    "name": "D'PENYETZ",
+    "address": "1 TAMPINES WALK #02-90,#02-91 OUR TAMPINES HUB 528523",
+    "type": "Restaurant",
+    "number": "EERT20250000294",
+    "scheme": "Eating Establishment",
+    "id": "70e071d9-10d7-4dd6-bcd5-8354b6b269b0",
+    "postal": "528523"
+  },
+  {
+    "name": "D'PENYETZ",
+    "address": "302 TIONG BAHRU ROAD #b1-111 TIONG BAHRU PLAZA 168732",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20240000249",
+    "scheme": "Eating Establishment",
+    "id": "70e071d9-10d7-4dd6-bcd5-8354b6b269b0",
+    "postal": "168732"
+  },
+  {
     "name": "D'RUBINAH CATERING & RKA FOOD INDUSTRIES PTE LTD.",
     "address": "8A ADMIRALTY STREET #03-31 FOOD XCHANGE @ ADMIRALTY 757437",
     "type": "Catering Company",
@@ -10783,7 +10837,7 @@
   },
   {
     "name": "Gelare",
-    "address": "8 GRANGE ROAD #02-06A/06B CATHAY CINELEISURE  ORCHARD 239695",
+    "address": "8 GRANGE ROAD #02-06A/06B CATHAY CINELEISURE ORCHARD 239695",
     "type": "Restaurant",
     "number": "EERT20240000267",
     "scheme": "Eating Establishment",
@@ -14986,42 +15040,6 @@
   },
   {
     "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
-    "address": "168 PUNGGOL FIELD #B1-02/03 PUNGGOL PLAZA 820168",
-    "type": "Restaurant",
-    "number": "EERN21110012993",
-    "scheme": "Eating Establishment",
-    "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
-    "postal": "820168"
-  },
-  {
-    "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
-    "address": "118 RIVERVALE DRIVE #01-31 RIVERVALE PLAZA 540118",
-    "type": "Restaurant",
-    "number": "EERN21110013001",
-    "scheme": "Eating Establishment",
-    "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
-    "postal": "540118"
-  },
-  {
-    "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
-    "address": "30 SEMBAWANG DRIVE #01-25 SUN PLAZA 757713",
-    "type": "Restaurant",
-    "number": "EERN21110013022",
-    "scheme": "Eating Establishment",
-    "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
-    "postal": "757713"
-  },
-  {
-    "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
-    "address": "1 JELEBU ROAD #02-12/13 BUKIT PANJANG PLAZA 677743",
-    "type": "Restaurant",
-    "number": "EERN21110013034",
-    "scheme": "Eating Establishment",
-    "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
-    "postal": "677743"
-  },
-  {
-    "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
     "address": "11 RIVERVALE CRESCENT #01-36 RIVERVALE MALL 545082",
     "type": "Restaurant",
     "number": "EERN21110012992",
@@ -15112,6 +15130,15 @@
   },
   {
     "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
+    "address": "168 PUNGGOL FIELD #B1-02/03 PUNGGOL PLAZA 820168",
+    "type": "Restaurant",
+    "number": "EERN21110012993",
+    "scheme": "Eating Establishment",
+    "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
+    "postal": "820168"
+  },
+  {
+    "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
     "address": "6 POTONG PASIR AVENUE 2 #01-05 POTONG PASIR COMMUNITY CLUB 358361",
     "type": "Restaurant",
     "number": "EERN21110012995",
@@ -15145,6 +15172,15 @@
     "scheme": "Eating Establishment",
     "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
     "postal": "819666"
+  },
+  {
+    "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
+    "address": "118 RIVERVALE DRIVE #01-31 RIVERVALE PLAZA 540118",
+    "type": "Restaurant",
+    "number": "EERN21110013001",
+    "scheme": "Eating Establishment",
+    "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
+    "postal": "540118"
   },
   {
     "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
@@ -15247,6 +15283,15 @@
   },
   {
     "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
+    "address": "30 SEMBAWANG DRIVE #01-25 SUN PLAZA 757713",
+    "type": "Restaurant",
+    "number": "EERN21110013022",
+    "scheme": "Eating Establishment",
+    "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
+    "postal": "757713"
+  },
+  {
+    "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
     "address": "701A YISHUN AVENUE 5 (PART OF) #01-06 761701",
     "type": "Restaurant",
     "number": "EERN21110013024",
@@ -15289,6 +15334,15 @@
     "scheme": "Eating Establishment",
     "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
     "postal": "629117"
+  },
+  {
+    "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
+    "address": "1 JELEBU ROAD #02-12/13 BUKIT PANJANG PLAZA 677743",
+    "type": "Restaurant",
+    "number": "EERN21110013034",
+    "scheme": "Eating Establishment",
+    "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
+    "postal": "677743"
   },
   {
     "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
@@ -20989,6 +21043,15 @@
   },
   {
     "name": "NENE CHICKEN",
+    "address": "628 SENJA ROAD STALL 8, KOPITIAM CORNER #01-07 SENJA CENTRE 670628",
+    "type": "Hawker",
+    "number": "EEHK26030000072",
+    "scheme": "Eating Establishment",
+    "id": "c2a3daa9-ec19-4a9f-8474-752b3cbfb1ff",
+    "postal": "670628"
+  },
+  {
+    "name": "NENE CHICKEN",
     "address": "1 TAMPINES WALK #01-81 OUR TAMPINES HUB 528523",
     "type": "Restaurant",
     "number": "EERX22010013420",
@@ -21004,6 +21067,15 @@
     "scheme": "Eating Establishment",
     "id": "c2a3daa9-ec19-4a9f-8474-752b3cbfb1ff",
     "postal": "677743"
+  },
+  {
+    "name": "NENE CHICKEN",
+    "address": "209B CLEMENTI AVENUE 6 STALL 1, KOPITIAM CORNER #01-10 CLEMENTI NORTHARC 122209",
+    "type": "Hawker",
+    "number": "EEHK26030000073",
+    "scheme": "Eating Establishment",
+    "id": "c2a3daa9-ec19-4a9f-8474-752b3cbfb1ff",
+    "postal": "122209"
   },
   {
     "name": "Nene Chicken (S1) @ Yong Li Coffee Station Bedok",
@@ -26425,15 +26497,6 @@
   },
   {
     "name": "Sanook Kitchen",
-    "address": "3 SIMEI STREET 6 #01-15 EASTPOINT MALL 528833",
-    "type": "Restaurant",
-    "number": "EERN21040012308",
-    "scheme": "Eating Establishment",
-    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-    "postal": "528833"
-  },
-  {
-    "name": "Sanook Kitchen",
     "address": "930 YISHUN AVENUE 2 #B1-01 NORTHPOINT SHOPPING CENTRE 769098",
     "type": "Restaurant",
     "number": "EERN21040012305",
@@ -26458,6 +26521,15 @@
     "scheme": "Eating Establishment",
     "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
     "postal": "529536"
+  },
+  {
+    "name": "Sanook Kitchen",
+    "address": "3 SIMEI STREET 6 #01-15 EASTPOINT MALL 528833",
+    "type": "Restaurant",
+    "number": "EERN21040012308",
+    "scheme": "Eating Establishment",
+    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+    "postal": "528833"
   },
   {
     "name": "Sanook Kitchen",
@@ -35821,6 +35893,15 @@
   },
   {
     "name": "WINGSTOP",
+    "address": "11 BEDOK NORTH STREET 1 #01-32 HEARTBEAT @ BEDOK 469662",
+    "type": "Restaurant",
+    "number": "EERT26030000078",
+    "scheme": "Eating Establishment",
+    "id": "5078bd18-9cd6-436e-8ff3-0f2e55f795dc",
+    "postal": "469662"
+  },
+  {
+    "name": "WINGSTOP",
     "address": "311 New Upper changi Road #B1-53 Bedok Mall 467360",
     "type": "Restaurant",
     "number": "EERX20070011528",
@@ -35980,15 +36061,6 @@
     "scheme": "Eating Establishment",
     "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
     "postal": "757713"
-  },
-  {
-    "name": "WOK HEY",
-    "address": "53 ANG MO KIO AVENUE 3 #01-36 AMK HUB, (PART OF) LEFT UNIT 569933",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN20090011420",
-    "scheme": "Eating Establishment",
-    "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
-    "postal": "569933"
   },
   {
     "name": "WOK HEY",
