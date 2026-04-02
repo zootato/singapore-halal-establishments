@@ -1,5 +1,96 @@
 [
   {
+    "timestamp": "2026-04-02T22:22:26.092571",
+    "date": "2026-04-02",
+    "summary": {
+      "new": 4,
+      "removed": 2,
+      "updated": 1
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "D'BAKMIE & D'CENDOL",
+          "address": "1 PASIR RIS CLOSE #02-110 E!HUB@DOWNTOWN EAST 519599",
+          "type": "Restaurant",
+          "number": "EERT20230000087",
+          "scheme": "Eating Establishment",
+          "id": "e260d9e1-2d6d-46c2-bdc6-8d3d546f3f48",
+          "postal": "519599"
+        },
+        {
+          "name": "D'PENYETZ & D'CENDOL",
+          "address": "17 PETIR ROAD #01-42 HILLION MALL 678278",
+          "type": "Restaurant",
+          "number": "EERT20240000247",
+          "scheme": "Eating Establishment",
+          "id": "ecd0c6c3-907a-47e4-b44a-55778fdcff4a",
+          "postal": "678278"
+        },
+        {
+          "name": "D'PENYETZ",
+          "address": "33 SENGKANG WEST AVENUE #B1-K7, K8 THE SELETAR MALL 797653",
+          "type": "Restaurant",
+          "number": "EERT26030000077",
+          "scheme": "Eating Establishment",
+          "id": "70e071d9-10d7-4dd6-bcd5-8354b6b269b0",
+          "postal": "797653"
+        },
+        {
+          "name": "Aladdin Lanzhou Beef Noodles",
+          "address": "200 JALAN SULTAN #01-07 JUBILEE ASSEMBLY 199018",
+          "type": "Restaurant",
+          "number": "EERT25120000108",
+          "scheme": "Eating Establishment",
+          "id": "695d10af-ff34-4312-8d8c-605aef6c8ae9",
+          "postal": "199018"
+        }
+      ],
+      "removed": [
+        {
+          "name": "SBY FROZEN FOOD SUPPLY PTE LTD",
+          "address": "5 KAKI BUKIT ROAD 1 #05-02 EUNOS TECHNOLINK 415936",
+          "type": "Catering Company",
+          "number": "FPCA25100000016",
+          "scheme": "Food Preparation Area",
+          "id": "ef5b9e14-64b3-4f00-8852-9835e1be077f",
+          "postal": "415936"
+        },
+        {
+          "name": "So Pho",
+          "address": "83 Punggol Central #01-28 Waterway Point (East Wing) 828761",
+          "type": "Restaurant",
+          "number": "EERN21070012673",
+          "scheme": "Eating Establishment",
+          "id": "eab58cf8-5aa4-4b96-b522-760a4cceded7",
+          "postal": "828761"
+        }
+      ],
+      "updated": [
+        {
+          "previous": {
+            "name": "Fish & Co.",
+            "address": "110 PASIR RIS CENTRAL #01-06 519641",
+            "type": "Hawker",
+            "number": "EEHK20240001279",
+            "scheme": "Eating Establishment",
+            "id": "dcef3017-de5f-439c-9754-8eaecfd88960",
+            "postal": "519641"
+          },
+          "current": {
+            "name": "TEXAS LONE STAR (S6) @ PASIR RIS CENTRAL HAWKER CENTRE",
+            "address": "110 PASIR RIS CENTRAL #01-06 519641",
+            "type": "Hawker",
+            "number": "EEHK20240001279",
+            "scheme": "Eating Establishment",
+            "id": "dcef3017-de5f-439c-9754-8eaecfd88960",
+            "postal": "519641"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-04-01T22:25:14.439597",
     "date": "2026-04-01",
     "summary": {
@@ -7852,274 +7943,6 @@
           "scheme": "Food Preparation Area",
           "id": "8f6454b2-602c-4716-9676-b445a534cc6a",
           "postal": "757437"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-02-03T22:21:49.447692",
-    "date": "2026-02-03",
-    "summary": {
-      "new": 24,
-      "removed": 4,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "KINGS@THE ISTANA",
-          "address": "11 TANJONG KATONG ROAD THE ISTANA #03-38/39 KINEX 437157",
-          "type": "Restaurant",
-          "number": "EERT26010000147",
-          "scheme": "Eating Establishment",
-          "id": "3223fa72-1766-40a9-a55b-511a6c4cebd5",
-          "postal": "437157"
-        },
-        {
-          "name": "TARBOUSH",
-          "address": "1 TANGLIN ROAD #01-09/10 ORCHARD RENDEZVOUS HOTEL, SINGAPORE 247905",
-          "type": "Catering Company",
-          "number": "FPCA20250000868",
-          "scheme": "Food Preparation Area",
-          "id": "fc0ad046-bb7b-4d55-8fee-ffcaf7a4c06e",
-          "postal": "247905"
-        },
-        {
-          "name": "Rasa Sayang Rasa Sayang",
-          "address": "240 TENGAH GARDEN WALK #01-01 GARDEN VINES @ TENGAH YONG LI COFFEE STATION, Stall 5 690240",
-          "type": "Hawker",
-          "number": "EEHK20250000883",
-          "scheme": "Eating Establishment",
-          "id": "67abef24-3c17-442d-ba09-5630ec42f1e1",
-          "postal": "690240"
-        },
-        {
-          "name": "Cinta Chicken Rice (S19) @ Kopitiam Compass One",
-          "address": "1 SENGKANG SQUARE #04-11 COMPASS ONE, Stall 19 545078",
-          "type": "Hawker",
-          "number": "EEHK20240001123",
-          "scheme": "Eating Establishment",
-          "id": "32d1aa66-b6cb-4985-a8e7-0d3cd958c274",
-          "postal": "545078"
-        },
-        {
-          "name": "Ampang Yong Tau Foo (S1) @ Koufu SKGH",
-          "address": "1 ANCHORVALE STREET #01-21 SENGKANG COMMUNITY HOSPITAL, Stall 1 544835",
-          "type": "Hawker",
-          "number": "EEHK20250000210",
-          "scheme": "Eating Establishment",
-          "id": "f58219c7-e751-44cc-9d27-e3680f73cb9f",
-          "postal": "544835"
-        },
-        {
-          "name": "Rasa Rasa Nasi Padang Malay Cuisine",
-          "address": "5036 ANG MO KIO INDUSTRIAL PARK 2 Stall No. 8 #01-401 Yi Jia Food Centre 569539",
-          "type": "Hawker",
-          "number": "EEHK26010000143",
-          "scheme": "Eating Establishment",
-          "id": "2ab111a5-e93b-4019-9716-e83eb434af54",
-          "postal": "569539"
-        },
-        {
-          "name": "Go Tarboush",
-          "address": "123 ARAB STREET #01 KAMPONG GLAM CONSERVATION AREA 199818",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20250000870",
-          "scheme": "Eating Establishment",
-          "id": "012d0483-0275-4154-b550-e4abfcb2dca2",
-          "postal": "199818"
-        },
-        {
-          "name": "TARBOUSH",
-          "address": "390 VICTORIA STREET #03-12A THE GOLDEN LANDMARK 188061",
-          "type": "Catering Company",
-          "number": "FPCA20240000987",
-          "scheme": "Food Preparation Area",
-          "id": "fc0ad046-bb7b-4d55-8fee-ffcaf7a4c06e",
-          "postal": "188061"
-        },
-        {
-          "name": "THE ISTANA",
-          "address": "11 TANJONG KATONG ROAD #03-38/39 KINEX 437157",
-          "type": "Catering Company",
-          "number": "FPCA26010000146",
-          "scheme": "Food Preparation Area",
-          "id": "971bdeb7-66fa-4140-ba77-cdafe2320592",
-          "postal": "437157"
-        },
-        {
-          "name": "TARBOUSH",
-          "address": "390 VICTORIA STREET #03-12A THE GOLDEN LANDMARK 188061",
-          "type": "Restaurant",
-          "number": "EERT20240000986",
-          "scheme": "Eating Establishment",
-          "id": "fc0ad046-bb7b-4d55-8fee-ffcaf7a4c06e",
-          "postal": "188061"
-        },
-        {
-          "name": "Ampang Yong Tau Foo",
-          "address": "418 NORTHSHORE DRIVE Stall 4 #02-07-09 CANTINE NORTHSHORE PLAZA II 820418",
-          "type": "Hawker",
-          "number": "EEHK26010000145",
-          "scheme": "Eating Establishment",
-          "id": "ac004075-5f44-4091-8917-4f36da74b4b7",
-          "postal": "820418"
-        },
-        {
-          "name": "CAT & THE FIDDLE",
-          "address": "3 GATEWAY DRIVE #01-11 WESTGATE 608532",
-          "type": "Restaurant",
-          "number": "EERT26010000110",
-          "scheme": "Eating Establishment",
-          "id": "40ac230f-34a1-45df-8a3e-ef049f3f2e1f",
-          "postal": "608532"
-        },
-        {
-          "name": "Rasa Sayang Rasa Sayang (S11) @ Jurong West Hawker Centre",
-          "address": "50 JURONG WEST STREET 61 #02-11, STALL 11 648202",
-          "type": "Hawker",
-          "number": "EEHK20240000107",
-          "scheme": "Eating Establishment",
-          "id": "91523f69-49a3-4d29-9bcb-10df86ebad95",
-          "postal": "648202"
-        },
-        {
-          "name": "HOUSE OF WHITE BEE HOON",
-          "address": "500 NEW PUNGGOL ROAD #01-10 THE PUNGGOL SETTLEMENT 828617",
-          "type": "Restaurant",
-          "number": "EERT20250000009",
-          "scheme": "Eating Establishment",
-          "id": "ca2b4b04-de01-47f3-b0a4-bef9dc5e9506",
-          "postal": "828617"
-        },
-        {
-          "name": "Halal Section @ NTUC FAIRPRICE",
-          "address": "36 HOLLAND DRIVE #01-03 BUONA VISTA COMMUNITY CLUB 270036",
-          "type": "Central Kitchen",
-          "number": "FPCK26010000043",
-          "scheme": "Food Preparation Area",
-          "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
-          "postal": "270036"
-        },
-        {
-          "name": "TripletS",
-          "address": "1 PUNGGOL COAST ROAD 01-01 DIGIPEN INSTITUTE TECHNOLOGY OF SINGAPORE 828608",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26010000121",
-          "scheme": "Eating Establishment",
-          "id": "93a5a81c-1ecf-48e6-9206-cad8e5504ada",
-          "postal": "828608"
-        },
-        {
-          "name": "TripletS",
-          "address": "110 SENGKANG EAST WAY #02-03 SENGKANG GENERAL HOSPITAL 544886",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26010000120",
-          "scheme": "Eating Establishment",
-          "id": "93a5a81c-1ecf-48e6-9206-cad8e5504ada",
-          "postal": "544886"
-        },
-        {
-          "name": "Halal Section @ NTUC FAIRPRICE",
-          "address": "98 PUNGGOL WAY #01-217,#02-217 PUNGGOL COAST MALL 829857",
-          "type": "Central Kitchen",
-          "number": "FPCK26010000042",
-          "scheme": "Food Preparation Area",
-          "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
-          "postal": "829857"
-        },
-        {
-          "name": "Halal Section @ NTUC FAIRPRICE",
-          "address": "2 JOO CHIAT ROAD #01-1139, #02-1139 JOO CHIAT COMPLEX 420002",
-          "type": "Central Kitchen",
-          "number": "FPCK26010000044",
-          "scheme": "Food Preparation Area",
-          "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
-          "postal": "420002"
-        },
-        {
-          "name": "Rasa Sayang Rasa Sayang (MR3) @Yong Li Coffee Station 105 Canberra",
-          "address": "105 CANBERRA STREET #01-01, (MR3) 750105",
-          "type": "Hawker",
-          "number": "EEHK20250000037",
-          "scheme": "Eating Establishment",
-          "id": "67abef24-3c17-442d-ba09-5630ec42f1e1",
-          "postal": "750105"
-        },
-        {
-          "name": "TARBOUSH",
-          "address": "1 TANGLIN ROAD #01-09/10 ORCHARD RENDEZVOUS HOTEL, SINGAPORE 247905",
-          "type": "Restaurant",
-          "number": "EERT20250000869",
-          "scheme": "Eating Establishment",
-          "id": "fc0ad046-bb7b-4d55-8fee-ffcaf7a4c06e",
-          "postal": "247905"
-        },
-        {
-          "name": "4FINGERS CRISPY CHICKEN",
-          "address": "2 MAJU AVENUE MR2 SERANGOON GARDEN ESTATE 556680",
-          "type": "Hawker",
-          "number": "EEHK26010000034",
-          "scheme": "Eating Establishment",
-          "id": "90b83324-363a-4406-9afa-08b19b67522d",
-          "postal": "556680"
-        },
-        {
-          "name": "House of White Bee Hoon",
-          "address": "1 TAMPINES WALK #01-86 OUR TAMPINES HUB 528523",
-          "type": "Restaurant",
-          "number": "EERT20250000008",
-          "scheme": "Eating Establishment",
-          "id": "27064161-5d33-4fd6-abf9-883f78f22c49",
-          "postal": "528523"
-        },
-        {
-          "name": "STUFF'DMORE",
-          "address": "53 ANG MO KIO AVENUE 3 #01-35 AMK HUB 569933",
-          "type": "Restaurant",
-          "number": "EERT20250000686",
-          "scheme": "Eating Establishment",
-          "id": "64334c6d-f225-43c9-b688-a8804e238a9a",
-          "postal": "569933"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Srisun Express",
-          "address": "132 BUKIT BATOK WEST AVENUE 6 #01-308, part of 650132",
-          "type": "Restaurant",
-          "number": "EERX21040012272",
-          "scheme": "Eating Establishment",
-          "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
-          "postal": "650132"
-        },
-        {
-          "name": "Telur Thai (S19) @ Kopitiam Tampines Mall",
-          "address": "4 TAMPINES CENTRAL 5 #04-27 TAMPINES MALL, Stall 19 529510",
-          "type": "Hawker",
-          "number": "EEHK20240000079",
-          "scheme": "Eating Establishment",
-          "id": "135a9f83-f2f4-40b3-8aac-e663ee9034df",
-          "postal": "529510"
-        },
-        {
-          "name": "POON RESOURCES PTE LTD",
-          "address": "8A ADMIRALTY STREET #05-37 FOODXCHANGE @ ADMIRALTY 757437",
-          "type": "Central Kitchen",
-          "number": "FPCN21060001542",
-          "scheme": "Food Preparation Area",
-          "id": "a8638d93-94be-4376-8b48-c0b78f108f62",
-          "postal": "757437"
-        },
-        {
-          "name": "WOK HEY",
-          "address": "53 ANG MO KIO AVENUE 3 #01-36 AMK HUB, (PART OF) LEFT UNIT 569933",
-          "type": "Snack Bar / Bakery",
-          "number": "EEBN20090011420",
-          "scheme": "Eating Establishment",
-          "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
-          "postal": "569933"
         }
       ],
       "updated": []

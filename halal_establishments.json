@@ -972,6 +972,15 @@
     "postal": "599736"
   },
   {
+    "name": "Aladdin Lanzhou Beef Noodles",
+    "address": "200 JALAN SULTAN #01-07 JUBILEE ASSEMBLY 199018",
+    "type": "Restaurant",
+    "number": "EERT25120000108",
+    "scheme": "Eating Establishment",
+    "id": "695d10af-ff34-4312-8d8c-605aef6c8ae9",
+    "postal": "199018"
+  },
+  {
     "name": "ALBERT CAFE & RESTAURANT",
     "address": "180 ALBERT STREET #02-01 VILLAGE HOTEL ALBERT COURT 189971",
     "type": "Restaurant",
@@ -1783,21 +1792,21 @@
   },
   {
     "name": "ARNOLD'S",
-    "address": "215 BEDOK NORTH STREET 1 #01-83 460215",
-    "type": "Restaurant",
-    "number": "EERN21060012495",
-    "scheme": "Eating Establishment",
-    "id": "571266fe-a5d4-499d-9f7c-fd6edf1a9f34",
-    "postal": "460215"
-  },
-  {
-    "name": "ARNOLD'S",
     "address": "51 TELOK BLANGAH CRESCENT #01-02 RADIN MAS COMMUNITY CLUB 098917",
     "type": "Restaurant",
     "number": "EERT25100000112",
     "scheme": "Eating Establishment",
     "id": "571266fe-a5d4-499d-9f7c-fd6edf1a9f34",
     "postal": "098917"
+  },
+  {
+    "name": "ARNOLD'S",
+    "address": "215 BEDOK NORTH STREET 1 #01-83 460215",
+    "type": "Restaurant",
+    "number": "EERN21060012495",
+    "scheme": "Eating Establishment",
+    "id": "571266fe-a5d4-499d-9f7c-fd6edf1a9f34",
+    "postal": "460215"
   },
   {
     "name": "ARNOLD'S",
@@ -7200,6 +7209,15 @@
     "postal": "608532"
   },
   {
+    "name": "D'BAKMIE & D'CENDOL",
+    "address": "1 PASIR RIS CLOSE #02-110 E!HUB@DOWNTOWN EAST 519599",
+    "type": "Restaurant",
+    "number": "EERT20230000087",
+    "scheme": "Eating Establishment",
+    "id": "e260d9e1-2d6d-46c2-bdc6-8d3d546f3f48",
+    "postal": "519599"
+  },
+  {
     "name": "D'Cuisines Pte Ltd",
     "address": "726 UPPER CHANGI ROAD EAST 00 486046",
     "type": "Catering Company",
@@ -7246,6 +7264,15 @@
   },
   {
     "name": "D'PENYETZ",
+    "address": "33 SENGKANG WEST AVENUE #B1-K7, K8 THE SELETAR MALL 797653",
+    "type": "Restaurant",
+    "number": "EERT26030000077",
+    "scheme": "Eating Establishment",
+    "id": "70e071d9-10d7-4dd6-bcd5-8354b6b269b0",
+    "postal": "797653"
+  },
+  {
+    "name": "D'PENYETZ",
     "address": "50 JURONG GATEWAY ROAD #05-02 JEM 608549",
     "type": "Restaurant",
     "number": "EERN22030013542",
@@ -7288,6 +7315,15 @@
     "scheme": "Eating Establishment",
     "id": "70e071d9-10d7-4dd6-bcd5-8354b6b269b0",
     "postal": "168732"
+  },
+  {
+    "name": "D'PENYETZ & D'CENDOL",
+    "address": "17 PETIR ROAD #01-42 HILLION MALL 678278",
+    "type": "Restaurant",
+    "number": "EERT20240000247",
+    "scheme": "Eating Establishment",
+    "id": "ecd0c6c3-907a-47e4-b44a-55778fdcff4a",
+    "postal": "678278"
   },
   {
     "name": "D'RUBINAH CATERING & RKA FOOD INDUSTRIES PTE LTD.",
@@ -10000,15 +10036,6 @@
   },
   {
     "name": "Fish & Co.",
-    "address": "110 PASIR RIS CENTRAL #01-06 519641",
-    "type": "Hawker",
-    "number": "EEHK20240001279",
-    "scheme": "Eating Establishment",
-    "id": "dcef3017-de5f-439c-9754-8eaecfd88960",
-    "postal": "519641"
-  },
-  {
-    "name": "Fish & Co.",
     "address": "524A JELAPANG ROAD #01-03 GREENRIDGE SHOPPING CENTRE, STALL 6 671524",
     "type": "Hawker",
     "number": "EEHN21110012968",
@@ -11367,15 +11394,6 @@
     "postal": "048619"
   },
   {
-    "name": "HA-JUN KOREAN",
-    "address": "1 NORTH BUONA VISTA LINK #01-02 139691",
-    "type": "Restaurant",
-    "number": "EERT20250000298",
-    "scheme": "Eating Establishment",
-    "id": "58f3214a-f3a1-4632-bef7-22dda2c530a2",
-    "postal": "139691"
-  },
-  {
     "name": "Ha-Jun Korean",
     "address": "90 BRAS BASAH ROAD #B1-29/29A ESPLANADE MRT STATION 189562",
     "type": "Restaurant",
@@ -11392,6 +11410,15 @@
     "scheme": "Eating Establishment",
     "id": "dabbc0a8-0df4-448e-9faa-f69f855d7b55",
     "postal": "048622"
+  },
+  {
+    "name": "HA-JUN KOREAN",
+    "address": "1 NORTH BUONA VISTA LINK #01-02 139691",
+    "type": "Restaurant",
+    "number": "EERT20250000298",
+    "scheme": "Eating Establishment",
+    "id": "58f3214a-f3a1-4632-bef7-22dda2c530a2",
+    "postal": "139691"
   },
   {
     "name": "HA... JUN",
@@ -15022,24 +15049,6 @@
   },
   {
     "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
-    "address": "68 ORCHARD ROAD #B1-21/22 PLAZA SINGAPURA 238839",
-    "type": "Restaurant",
-    "number": "EERN21110012978",
-    "scheme": "Eating Establishment",
-    "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
-    "postal": "238839"
-  },
-  {
-    "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
-    "address": "302 TIONG BAHRU ROAD #B1-133/134 TIONG BAHRU PLAZA 168732",
-    "type": "Restaurant",
-    "number": "EERN21110012983",
-    "scheme": "Eating Establishment",
-    "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
-    "postal": "168732"
-  },
-  {
-    "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
     "address": "11 RIVERVALE CRESCENT #01-36 RIVERVALE MALL 545082",
     "type": "Restaurant",
     "number": "EERN21110012992",
@@ -15076,12 +15085,30 @@
   },
   {
     "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
+    "address": "68 ORCHARD ROAD #B1-21/22 PLAZA SINGAPURA 238839",
+    "type": "Restaurant",
+    "number": "EERN21110012978",
+    "scheme": "Eating Establishment",
+    "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
+    "postal": "238839"
+  },
+  {
+    "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
     "address": "230 VICTORIA STREET #B1-09 BUGIS JUNCTION 188024",
     "type": "Restaurant",
     "number": "EERN21110012981",
     "scheme": "Eating Establishment",
     "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
     "postal": "188024"
+  },
+  {
+    "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
+    "address": "302 TIONG BAHRU ROAD #B1-133/134 TIONG BAHRU PLAZA 168732",
+    "type": "Restaurant",
+    "number": "EERN21110012983",
+    "scheme": "Eating Establishment",
+    "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
+    "postal": "168732"
   },
   {
     "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
@@ -26748,15 +26775,6 @@
     "postal": "658080"
   },
   {
-    "name": "SBY FROZEN FOOD SUPPLY PTE LTD",
-    "address": "5 KAKI BUKIT ROAD 1 #05-02 EUNOS TECHNOLINK 415936",
-    "type": "Catering Company",
-    "number": "FPCA25100000016",
-    "scheme": "Food Preparation Area",
-    "id": "ef5b9e14-64b3-4f00-8852-9835e1be077f",
-    "postal": "415936"
-  },
-  {
     "name": "Scrumptious Pte Ltd",
     "address": "25 HARPER ROAD #09-03 HARPER POINT 369683",
     "type": "Catering Company",
@@ -27889,15 +27907,6 @@
     "scheme": "Eating Establishment",
     "id": "eab58cf8-5aa4-4b96-b522-760a4cceded7",
     "postal": "018972"
-  },
-  {
-    "name": "So Pho",
-    "address": "83 Punggol Central #01-28 Waterway Point (East Wing) 828761",
-    "type": "Restaurant",
-    "number": "EERN21070012673",
-    "scheme": "Eating Establishment",
-    "id": "eab58cf8-5aa4-4b96-b522-760a4cceded7",
-    "postal": "828761"
   },
   {
     "name": "So Pho",
@@ -32200,6 +32209,15 @@
     "scheme": "Eating Establishment",
     "id": "53c88848-1280-4fee-b6dc-b5d1d941c07d",
     "postal": "819643"
+  },
+  {
+    "name": "TEXAS LONE STAR (S6) @ PASIR RIS CENTRAL HAWKER CENTRE",
+    "address": "110 PASIR RIS CENTRAL #01-06 519641",
+    "type": "Hawker",
+    "number": "EEHK20240001279",
+    "scheme": "Eating Establishment",
+    "id": "dcef3017-de5f-439c-9754-8eaecfd88960",
+    "postal": "519641"
   },
   {
     "name": "TF TENDERFRESH PASTA & BROILER (S4) @ Kopitiam Corner Pasir Ris St 51",
