@@ -603,6 +603,15 @@
     "postal": "098585"
   },
   {
+    "name": "A&W",
+    "address": "300 TAMPINES AVENUE 5 #01-07 INCOME AT TAMPINES JUNCTION 529653",
+    "type": "Restaurant",
+    "number": "EERT26030000022",
+    "scheme": "Eating Establishment",
+    "id": "6582f2a0-3687-45a5-8822-fe3666534ec0",
+    "postal": "529653"
+  },
+  {
     "name": "A-Po Hokkien Mee (MR1) @ The Food Market Century Square",
     "address": "2 TAMPINES CENTRAL 5 #03-19 CENTURY SQUARE, MR1 529509",
     "type": "Hawker",
@@ -1783,21 +1792,21 @@
   },
   {
     "name": "ARNOLD'S",
-    "address": "21 HOUGANG STREET 51 #01-49 HOUGANG GREEN SHOPPING MALL 538719",
-    "type": "Restaurant",
-    "number": "EERN21060012494",
-    "scheme": "Eating Establishment",
-    "id": "571266fe-a5d4-499d-9f7c-fd6edf1a9f34",
-    "postal": "538719"
-  },
-  {
-    "name": "ARNOLD'S",
     "address": "51 TELOK BLANGAH CRESCENT #01-02 RADIN MAS COMMUNITY CLUB 098917",
     "type": "Restaurant",
     "number": "EERT25100000112",
     "scheme": "Eating Establishment",
     "id": "571266fe-a5d4-499d-9f7c-fd6edf1a9f34",
     "postal": "098917"
+  },
+  {
+    "name": "ARNOLD'S",
+    "address": "21 HOUGANG STREET 51 #01-49 HOUGANG GREEN SHOPPING MALL 538719",
+    "type": "Restaurant",
+    "number": "EERN21060012494",
+    "scheme": "Eating Establishment",
+    "id": "571266fe-a5d4-499d-9f7c-fd6edf1a9f34",
+    "postal": "538719"
   },
   {
     "name": "ARNOLD'S",
@@ -5203,21 +5212,21 @@
   },
   {
     "name": "Captain Kim Korean BBQ & Hotpot",
-    "address": "300 TAMPINES AVENUE 5 #01-06, 01D NTUC INCOME AT TAMPINES JUNCTION 529653",
-    "type": "Restaurant",
-    "number": "EERX21080012731",
-    "scheme": "Eating Establishment",
-    "id": "9d4cb9e6-2004-49c6-9aed-a8cf5e013a32",
-    "postal": "529653"
-  },
-  {
-    "name": "Captain Kim Korean BBQ & Hotpot",
     "address": "1 WOODLANDS ROAD #01-24 JUNCTION 10 677899",
     "type": "Restaurant",
     "number": "EERX21110013080",
     "scheme": "Eating Establishment",
     "id": "17afee8c-89a8-4752-b834-092827f2b4ae",
     "postal": "677899"
+  },
+  {
+    "name": "Captain Kim Korean BBQ & Hotpot",
+    "address": "300 TAMPINES AVENUE 5 #01-06, 01D NTUC INCOME AT TAMPINES JUNCTION 529653",
+    "type": "Restaurant",
+    "number": "EERX21080012731",
+    "scheme": "Eating Establishment",
+    "id": "9d4cb9e6-2004-49c6-9aed-a8cf5e013a32",
+    "postal": "529653"
   },
   {
     "name": "Carnival Bakery",
@@ -11791,15 +11800,6 @@
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
-    "address": "17 Petir Road #B2-67 Hillion Mall 678278",
-    "type": "Halal Section",
-    "number": "EECN21070000441",
-    "scheme": "Eating Establishment",
-    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
-    "postal": "678278"
-  },
-  {
-    "name": "Halal Section @ NTUC FAIRPRICE",
     "address": "80 MARINE PARADE ROAD #03-28 PARKWAY PARADE 449269",
     "type": "Central Kitchen",
     "number": "FPCN21050001520",
@@ -11833,6 +11833,15 @@
     "scheme": "Food Preparation Area",
     "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
     "postal": "671524"
+  },
+  {
+    "name": "Halal Section @ NTUC FAIRPRICE",
+    "address": "17 Petir Road #B2-67 Hillion Mall 678278",
+    "type": "Halal Section",
+    "number": "EECN21070000441",
+    "scheme": "Eating Establishment",
+    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
+    "postal": "678278"
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
@@ -14983,6 +14992,15 @@
     "scheme": "Eating Establishment",
     "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
     "postal": "307683"
+  },
+  {
+    "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
+    "address": "301 UPPER THOMSON ROAD #01-115 THOMSON PLAZA 574408",
+    "type": "Restaurant",
+    "number": "EERT26030000058",
+    "scheme": "Eating Establishment",
+    "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
+    "postal": "574408"
   },
   {
     "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
@@ -20923,6 +20941,15 @@
     "scheme": "Eating Establishment",
     "id": "86f283f4-0978-4e25-979c-1894cdb5d792",
     "postal": "819666"
+  },
+  {
+    "name": "Nasi Lada House of Pepper Rice",
+    "address": "380 CLEMENTI AVENUE 5 Stall 5 #01-376 Kedai Kopi 120380",
+    "type": "Hawker",
+    "number": "EEHK26030000061",
+    "scheme": "Eating Establishment",
+    "id": "5622f06a-08ad-4e9b-968c-7cad4c72a27a",
+    "postal": "120380"
   },
   {
     "name": "Nasi Lada House Of Pepper Rice(Stall 5)@Kedai Kopi 108 Ang Mo Kio",
@@ -27765,6 +27792,15 @@
     "postal": "629821"
   },
   {
+    "name": "Singapore Nutri-Diet Industries Pte Ltd",
+    "address": "3017 BEDOK NORTH STREET 5 #06-03 GOURMET EAST KITCHEN 486121",
+    "type": "Catering Company",
+    "number": "FPGN22020001661",
+    "scheme": "Food Preparation Area",
+    "id": "4fb25bae-473f-4159-9d32-2975587cc0cd",
+    "postal": "486121"
+  },
+  {
     "name": "Singfood Hub",
     "address": "318 JURONG EAST STREET 31 #01-40 Singfood Hub, Stall 3 @Harmony 318 Cafe 600318",
     "type": "Hawker",
@@ -32065,15 +32101,6 @@
     "scheme": "Eating Establishment",
     "id": "fa23a2c4-12e6-4c0a-aa89-d3552d6d92cb",
     "postal": "689812"
-  },
-  {
-    "name": "TENDERFRESH Xpress",
-    "address": "118 RIVERVALE DRIVE #01-K18/k19 Rivervale Plaza 540118",
-    "type": "Restaurant",
-    "number": "EERN21060012467",
-    "scheme": "Eating Establishment",
-    "id": "fa23a2c4-12e6-4c0a-aa89-d3552d6d92cb",
-    "postal": "540118"
   },
   {
     "name": "Tenkutei Japanese & Korean Cuisine",

@@ -1,5 +1,66 @@
 [
   {
+    "timestamp": "2026-04-03T22:21:39.018619",
+    "date": "2026-04-03",
+    "summary": {
+      "new": 4,
+      "removed": 1,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Nasi Lada House of Pepper Rice",
+          "address": "380 CLEMENTI AVENUE 5 Stall 5 #01-376 Kedai Kopi 120380",
+          "type": "Hawker",
+          "number": "EEHK26030000061",
+          "scheme": "Eating Establishment",
+          "id": "5622f06a-08ad-4e9b-968c-7cad4c72a27a",
+          "postal": "120380"
+        },
+        {
+          "name": "Singapore Nutri-Diet Industries Pte Ltd",
+          "address": "3017 BEDOK NORTH STREET 5 #06-03 GOURMET EAST KITCHEN 486121",
+          "type": "Catering Company",
+          "number": "FPGN22020001661",
+          "scheme": "Food Preparation Area",
+          "id": "4fb25bae-473f-4159-9d32-2975587cc0cd",
+          "postal": "486121"
+        },
+        {
+          "name": "A&W",
+          "address": "300 TAMPINES AVENUE 5 #01-07 INCOME AT TAMPINES JUNCTION 529653",
+          "type": "Restaurant",
+          "number": "EERT26030000022",
+          "scheme": "Eating Establishment",
+          "id": "6582f2a0-3687-45a5-8822-fe3666534ec0",
+          "postal": "529653"
+        },
+        {
+          "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
+          "address": "301 UPPER THOMSON ROAD #01-115 THOMSON PLAZA 574408",
+          "type": "Restaurant",
+          "number": "EERT26030000058",
+          "scheme": "Eating Establishment",
+          "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
+          "postal": "574408"
+        }
+      ],
+      "removed": [
+        {
+          "name": "TENDERFRESH Xpress",
+          "address": "118 RIVERVALE DRIVE #01-K18/k19 Rivervale Plaza 540118",
+          "type": "Restaurant",
+          "number": "EERN21060012467",
+          "scheme": "Eating Establishment",
+          "id": "fa23a2c4-12e6-4c0a-aa89-d3552d6d92cb",
+          "postal": "540118"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-04-02T22:22:26.092571",
     "date": "2026-04-02",
     "summary": {
@@ -7876,76 +7937,6 @@
           }
         }
       ]
-    }
-  },
-  {
-    "timestamp": "2026-02-04T22:20:13.937161",
-    "date": "2026-02-04",
-    "summary": {
-      "new": 5,
-      "removed": 1,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "PAPPARICH",
-          "address": "8A ADMIRALTY STREET #06-17 FOOD XCHANGE @ ADMIRALTY 757437",
-          "type": "Central Kitchen",
-          "number": "FPCK20230001339",
-          "scheme": "Food Preparation Area",
-          "id": "b32ab7dd-3428-41f5-b01a-8dec875e9864",
-          "postal": "757437"
-        },
-        {
-          "name": "PAPPARICH",
-          "address": "10 AIRPORT BOULEVARD #02-203A CHANGI AIRPORT TERMINAL 4 819665",
-          "type": "Restaurant",
-          "number": "EERT20240000731",
-          "scheme": "Eating Establishment",
-          "id": "b32ab7dd-3428-41f5-b01a-8dec875e9864",
-          "postal": "819665"
-        },
-        {
-          "name": "PAPPARICH",
-          "address": "60 AIRPORT BOULEVARD #03-24/25 CHANGI AIRPORT TERMINAL 2 819643",
-          "type": "Restaurant",
-          "number": "EERT20230001342",
-          "scheme": "Eating Establishment",
-          "id": "b32ab7dd-3428-41f5-b01a-8dec875e9864",
-          "postal": "819643"
-        },
-        {
-          "name": "SOYO-SOYO (JAPANESE CASUAL DINING)",
-          "address": "21 LOWER KENT RIDGE ROAD NATIONAL UNIVERSITY OF SINGAPORE, STALL 6, FRONTIER CANTEEN 119077",
-          "type": "Hawker",
-          "number": "EEHK25120000079",
-          "scheme": "Eating Establishment",
-          "id": "788e57cb-554e-425d-92bd-d04bbe468b27",
-          "postal": "119077"
-        },
-        {
-          "name": "PAPPARICH",
-          "address": "80 MARINE PARADE ROAD #01-35B PARKWAY PARADE 449269",
-          "type": "Restaurant",
-          "number": "EERT20250000464",
-          "scheme": "Eating Establishment",
-          "id": "f554f0c7-e57b-4e99-8623-45cd958c4b2d",
-          "postal": "449269"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Pondok Selera By Nurul Hidayah",
-          "address": "8A ADMIRALTY STREET #07-38 FOOD XCHANGE @ ADMIRALTY 757437",
-          "type": "Catering Company",
-          "number": "FPCA20240001085",
-          "scheme": "Food Preparation Area",
-          "id": "8f6454b2-602c-4716-9676-b445a534cc6a",
-          "postal": "757437"
-        }
-      ],
-      "updated": []
     }
   }
 ]
