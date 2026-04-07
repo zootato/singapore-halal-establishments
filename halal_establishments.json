@@ -3609,6 +3609,15 @@
     "postal": "574408"
   },
   {
+    "name": "Bizlink F&B",
+    "address": "10 BUANGKOK VIEW Blk 1 11-513 & 11-514 BUANGKOK GREEN MEDICAL PARK (BLOCK 1) 539747",
+    "type": "Catering Company",
+    "number": "FPCA26040000001",
+    "scheme": "Food Preparation Area",
+    "id": "d3467859-54af-4fb1-9ead-a8d512092354",
+    "postal": "539747"
+  },
+  {
     "name": "Blue Ocean Kopi & Toast",
     "address": "76 NANYANG DRIVE #01-05 NANYANG TECHNOLOGICAL UNIVERSITY (N2.1) 637331",
     "type": "Hawker",
@@ -4528,15 +4537,6 @@
   },
   {
     "name": "BURGER KING",
-    "address": "3 Northpoint Drive #01-03 768020",
-    "type": "Restaurant",
-    "number": "EERN20040011362",
-    "scheme": "Eating Establishment",
-    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
-    "postal": "768020"
-  },
-  {
-    "name": "BURGER KING",
     "address": "80 MARINE PARADE ROAD #01-11 PARKWAY PARADE 449269",
     "type": "Restaurant",
     "number": "EERN20030011335",
@@ -4669,6 +4669,15 @@
     "scheme": "Eating Establishment",
     "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
     "postal": "469662"
+  },
+  {
+    "name": "BURGER KING",
+    "address": "3 Northpoint Drive #01-03 768020",
+    "type": "Restaurant",
+    "number": "EERN20040011362",
+    "scheme": "Eating Establishment",
+    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+    "postal": "768020"
   },
   {
     "name": "BURGER KING",
@@ -4957,15 +4966,6 @@
     "scheme": "Food Preparation Area",
     "id": "61c18f7f-bf64-4f5a-953b-cf65059558ab",
     "postal": "757012"
-  },
-  {
-    "name": "Cafe O Singapore Pte Ltd",
-    "address": "20 MACTAGGART ROAD #05-03 MACTAGGART FOODLINK 368079",
-    "type": "Central Kitchen",
-    "number": "FPCK20240000481",
-    "scheme": "Food Preparation Area",
-    "id": "61c18f7f-bf64-4f5a-953b-cf65059558ab",
-    "postal": "368079"
   },
   {
     "name": "CAFE SANTAI BY ENAK ENAK",
@@ -10737,15 +10737,6 @@
     "postal": "199593"
   },
   {
-    "name": "FRUIT PARADISE",
-    "address": "50 JURONG GATEWAY ROAD JEM 608549",
-    "type": "Restaurant",
-    "number": "EERT20250000386",
-    "scheme": "Eating Establishment",
-    "id": "30abd843-2c8a-42c5-aa10-e511ec3644ba",
-    "postal": "608549"
-  },
-  {
     "name": "FU-MEN",
     "address": "16 RAFFLES QUAY #B1-17/18 HONG LEONG BUILDING 048581",
     "type": "Restaurant",
@@ -13725,6 +13716,15 @@
     "postal": "178882"
   },
   {
+    "name": "Jap & Korean Cuisine",
+    "address": "470 LORONG 6 TOA PAYOH #02-70 (S8) @ FORK & SPOON HDB HUB 310470",
+    "type": "Hawker",
+    "number": "EEHK26040000016",
+    "scheme": "Eating Establishment",
+    "id": "2d7e6d9d-8c1b-4421-9634-7caed40e7a9c",
+    "postal": "310470"
+  },
+  {
     "name": "JAPAN FOODS ENTERPRISES PTE. LTD.",
     "address": "171 KAMPONG AMPAT #03-09/10 KA FOODLINK 368330",
     "type": "Central Kitchen",
@@ -14086,15 +14086,6 @@
   },
   {
     "name": "Jollibee",
-    "address": "304 ORCHARD ROAD #B1-19-25, 43-46 LUCKY PLAZA 238863",
-    "type": "Restaurant",
-    "number": "EERT20250000452",
-    "scheme": "Eating Establishment",
-    "id": "141beb81-0153-470b-a8bb-09c539ee8ae1",
-    "postal": "238863"
-  },
-  {
-    "name": "Jollibee",
     "address": "25 PANDAN CRESCENT #B1-01 TO 07 Tic Tech Centre Kitchen 3 128477",
     "type": "Hawker",
     "number": "EEHK20220000251",
@@ -14173,6 +14164,15 @@
     "scheme": "Eating Establishment",
     "id": "141beb81-0153-470b-a8bb-09c539ee8ae1",
     "postal": "648886"
+  },
+  {
+    "name": "Jollibee",
+    "address": "304 ORCHARD ROAD #B1-19-25, 43-46 LUCKY PLAZA 238863",
+    "type": "Restaurant",
+    "number": "EERT20250000452",
+    "scheme": "Eating Establishment",
+    "id": "141beb81-0153-470b-a8bb-09c539ee8ae1",
+    "postal": "238863"
   },
   {
     "name": "Jollibee",
@@ -15274,15 +15274,6 @@
   },
   {
     "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
-    "address": "80 MARINE PARADE ROAD #01-11A PARKWAY PARADE 449269",
-    "type": "Restaurant",
-    "number": "EERN21110012998",
-    "scheme": "Eating Establishment",
-    "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
-    "postal": "449269"
-  },
-  {
-    "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
     "address": "11 TANJONG KATONG ROAD #01-50/51 ONE KM 437157",
     "type": "Restaurant",
     "number": "EERN21110012999",
@@ -15379,15 +15370,6 @@
     "scheme": "Eating Establishment",
     "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
     "postal": "397800"
-  },
-  {
-    "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
-    "address": "1 JURONG WEST STREET 74 #01-02 GEK POH VILLE COMMUNITY CLUB 649149",
-    "type": "Restaurant",
-    "number": "EERN21110013018",
-    "scheme": "Eating Establishment",
-    "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
-    "postal": "649149"
   },
   {
     "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
@@ -23779,15 +23761,6 @@
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
-    "address": "3 SIMEI STREET 6 #02-03 EASTPOINT MALL 528833",
-    "type": "Restaurant",
-    "number": "EERN21080012761",
-    "scheme": "Eating Establishment",
-    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
-    "postal": "528833"
-  },
-  {
-    "name": "PIZZA HUT SINGAPORE PTE LTD",
     "address": "430 UPPER CHANGI ROAD #01-62 EAST VILLAGE 487048",
     "type": "Snack Bar / Bakery",
     "number": "EEBN21070012600",
@@ -23812,15 +23785,6 @@
     "scheme": "Eating Establishment",
     "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
     "postal": "329853"
-  },
-  {
-    "name": "PIZZA HUT SINGAPORE PTE LTD",
-    "address": "1 JURONG WEST CENTRAL 2 #01-33 JURONG POINT SHOPPING CENTRE 648886",
-    "type": "Restaurant",
-    "number": "EERN21080012786",
-    "scheme": "Eating Establishment",
-    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
-    "postal": "648886"
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
@@ -24814,15 +24778,6 @@
   },
   {
     "name": "Popeyes Famous Louisiana Chicken",
-    "address": "10 SINARAN DRIVE #01-04/05 SQUARE 2 307506",
-    "type": "Restaurant",
-    "number": "EERT20240000374",
-    "scheme": "Eating Establishment",
-    "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
-    "postal": "307506"
-  },
-  {
-    "name": "Popeyes Famous Louisiana Chicken",
     "address": "10 TAMPINES CENTRAL 1 #03-16B TAMPINES ONE 529536",
     "type": "Restaurant",
     "number": "EERT20240000375",
@@ -25585,6 +25540,24 @@
     "scheme": "Eating Establishment",
     "id": "0b83d176-08d6-49ed-b332-20fc571d1e88",
     "postal": "141085"
+  },
+  {
+    "name": "Rasel Catering Singapore Pte Ltd",
+    "address": "253 PANDAN LOOP 128432",
+    "type": "Catering Company",
+    "number": "FPGN21020001494",
+    "scheme": "Food Preparation Area",
+    "id": "ccbcda18-63ed-43d5-af63-b6e1d7d1fe78",
+    "postal": "128432"
+  },
+  {
+    "name": "RASEL CATERING SINGAPORE PTE. LTD.",
+    "address": "157 PANDAN LOOP 128355",
+    "type": "Catering Company",
+    "number": "FPCA20230000443",
+    "scheme": "Food Preparation Area",
+    "id": "ccbcda18-63ed-43d5-af63-b6e1d7d1fe78",
+    "postal": "128355"
   },
   {
     "name": "ReadyMeals@Sheng Siong ITE College Central",
@@ -30508,6 +30481,24 @@
     "scheme": "Eating Establishment",
     "id": "379c7e48-f182-4cbf-b7e4-45290f00a8f7",
     "postal": "330029"
+  },
+  {
+    "name": "SUPER SUSHI",
+    "address": "33 SENGKANG WEST AVENUE #B2-K6 THE SELETAR MALL 797653",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26040000004",
+    "scheme": "Eating Establishment",
+    "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
+    "postal": "797653"
+  },
+  {
+    "name": "SUPER SUSHI",
+    "address": "70 COMPASSVALE BOW #B1-03 SENGKANG GRAND MALL 544692",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26040000003",
+    "scheme": "Eating Establishment",
+    "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
+    "postal": "544692"
   },
   {
     "name": "SUPER SUSHI",

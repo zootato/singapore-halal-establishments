@@ -1,5 +1,138 @@
 [
   {
+    "timestamp": "2026-04-07T22:26:08.359593",
+    "date": "2026-04-07",
+    "summary": {
+      "new": 6,
+      "removed": 7,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "SUPER SUSHI",
+          "address": "70 COMPASSVALE BOW #B1-03 SENGKANG GRAND MALL 544692",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26040000003",
+          "scheme": "Eating Establishment",
+          "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
+          "postal": "544692"
+        },
+        {
+          "name": "Rasel Catering Singapore Pte Ltd",
+          "address": "253 PANDAN LOOP 128432",
+          "type": "Catering Company",
+          "number": "FPGN21020001494",
+          "scheme": "Food Preparation Area",
+          "id": "ccbcda18-63ed-43d5-af63-b6e1d7d1fe78",
+          "postal": "128432"
+        },
+        {
+          "name": "Jap & Korean Cuisine",
+          "address": "470 LORONG 6 TOA PAYOH #02-70 (S8) @ FORK & SPOON HDB HUB 310470",
+          "type": "Hawker",
+          "number": "EEHK26040000016",
+          "scheme": "Eating Establishment",
+          "id": "2d7e6d9d-8c1b-4421-9634-7caed40e7a9c",
+          "postal": "310470"
+        },
+        {
+          "name": "RASEL CATERING SINGAPORE PTE. LTD.",
+          "address": "157 PANDAN LOOP 128355",
+          "type": "Catering Company",
+          "number": "FPCA20230000443",
+          "scheme": "Food Preparation Area",
+          "id": "ccbcda18-63ed-43d5-af63-b6e1d7d1fe78",
+          "postal": "128355"
+        },
+        {
+          "name": "Bizlink F&B",
+          "address": "10 BUANGKOK VIEW Blk 1 11-513 & 11-514 BUANGKOK GREEN MEDICAL PARK (BLOCK 1) 539747",
+          "type": "Catering Company",
+          "number": "FPCA26040000001",
+          "scheme": "Food Preparation Area",
+          "id": "d3467859-54af-4fb1-9ead-a8d512092354",
+          "postal": "539747"
+        },
+        {
+          "name": "SUPER SUSHI",
+          "address": "33 SENGKANG WEST AVENUE #B2-K6 THE SELETAR MALL 797653",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26040000004",
+          "scheme": "Eating Establishment",
+          "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
+          "postal": "797653"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
+          "address": "1 JURONG WEST STREET 74 #01-02 GEK POH VILLE COMMUNITY CLUB 649149",
+          "type": "Restaurant",
+          "number": "EERN21110013018",
+          "scheme": "Eating Establishment",
+          "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
+          "postal": "649149"
+        },
+        {
+          "name": "FRUIT PARADISE",
+          "address": "50 JURONG GATEWAY ROAD JEM 608549",
+          "type": "Restaurant",
+          "number": "EERT20250000386",
+          "scheme": "Eating Establishment",
+          "id": "30abd843-2c8a-42c5-aa10-e511ec3644ba",
+          "postal": "608549"
+        },
+        {
+          "name": "PIZZA HUT SINGAPORE PTE LTD",
+          "address": "1 JURONG WEST CENTRAL 2 #01-33 JURONG POINT SHOPPING CENTRE 648886",
+          "type": "Restaurant",
+          "number": "EERN21080012786",
+          "scheme": "Eating Establishment",
+          "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
+          "postal": "648886"
+        },
+        {
+          "name": "Popeyes Famous Louisiana Chicken",
+          "address": "10 SINARAN DRIVE #01-04/05 SQUARE 2 307506",
+          "type": "Restaurant",
+          "number": "EERT20240000374",
+          "scheme": "Eating Establishment",
+          "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+          "postal": "307506"
+        },
+        {
+          "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
+          "address": "80 MARINE PARADE ROAD #01-11A PARKWAY PARADE 449269",
+          "type": "Restaurant",
+          "number": "EERN21110012998",
+          "scheme": "Eating Establishment",
+          "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
+          "postal": "449269"
+        },
+        {
+          "name": "PIZZA HUT SINGAPORE PTE LTD",
+          "address": "3 SIMEI STREET 6 #02-03 EASTPOINT MALL 528833",
+          "type": "Restaurant",
+          "number": "EERN21080012761",
+          "scheme": "Eating Establishment",
+          "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
+          "postal": "528833"
+        },
+        {
+          "name": "Cafe O Singapore Pte Ltd",
+          "address": "20 MACTAGGART ROAD #05-03 MACTAGGART FOODLINK 368079",
+          "type": "Central Kitchen",
+          "number": "FPCK20240000481",
+          "scheme": "Food Preparation Area",
+          "id": "61c18f7f-bf64-4f5a-953b-cf65059558ab",
+          "postal": "368079"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-04-06T22:23:10.832859",
     "date": "2026-04-06",
     "summary": {
@@ -7505,40 +7638,6 @@
         }
       ],
       "removed": [],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-02-07T22:18:53.879915",
-    "date": "2026-02-07",
-    "summary": {
-      "new": 1,
-      "removed": 1,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Sugar Mama Lah",
-          "address": "BAZARIA MARSILING (OPEN FIELD OUTSIDE WOODLANDS MRT STATION), 30 WOODLANDS AVENUE 2 WOODLANDS MRT STATION (NS9), BOOTH 50 738343",
-          "type": "Short Term Stall(Bazaar/Road Shows)",
-          "number": "EEST26020000051",
-          "scheme": "Eating Establishment",
-          "id": "48f3e571-dfbc-42db-a6fc-ed0d5b59dc37",
-          "postal": "738343"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Tim Hortons",
-          "address": "1 HARBOURFRONT WALK #01-207 VIVOCITY 098585",
-          "type": "Restaurant",
-          "number": "EERT26020000001",
-          "scheme": "Eating Establishment",
-          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-          "postal": "098585"
-        }
-      ],
       "updated": []
     }
   }
