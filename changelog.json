@@ -1,5 +1,147 @@
 [
   {
+    "timestamp": "2026-04-09T22:26:57.586135",
+    "date": "2026-04-09",
+    "summary": {
+      "new": 13,
+      "removed": 1,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Kazo",
+          "address": "70 COMPASSVALE BOW #01-11 544692",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000055",
+          "scheme": "Eating Establishment",
+          "id": "911cb7f7-438a-4583-a323-1e96bb9071a4",
+          "postal": "544692"
+        },
+        {
+          "name": "Kazo",
+          "address": "7 PASIR RIS CENTRAL #B1-42 519612",
+          "type": "Restaurant",
+          "number": "EERT20250000073",
+          "scheme": "Eating Establishment",
+          "id": "911cb7f7-438a-4583-a323-1e96bb9071a4",
+          "postal": "519612"
+        },
+        {
+          "name": "BAKERS CORNER",
+          "address": "8A ADMIRALTY STREET #01-09, 01-08 FOOD XCHANGE @ ADMIRALTY 757437",
+          "type": "Central Kitchen",
+          "number": "FPCK20240000050",
+          "scheme": "Food Preparation Area",
+          "id": "a7131d23-caa1-4c92-910e-5490514c5740",
+          "postal": "757437"
+        },
+        {
+          "name": "Shinfuni",
+          "address": "200 VICTORIA STREET #B1-K04 BUGIS JUNCTION 188021",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000062",
+          "scheme": "Eating Establishment",
+          "id": "d4914eaa-03ef-4646-b762-3221f02be310",
+          "postal": "188021"
+        },
+        {
+          "name": "Kazo",
+          "address": "63 JURONG WEST CENTRAL 3 #01-59/79/80 JURONG POINT 648331",
+          "type": "Restaurant",
+          "number": "EERT20240000060",
+          "scheme": "Eating Establishment",
+          "id": "911cb7f7-438a-4583-a323-1e96bb9071a4",
+          "postal": "648331"
+        },
+        {
+          "name": "Kazo",
+          "address": "2 TAMPINES CENTRAL 5 #B1-39 CENTURY SQUARE 529509",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000080",
+          "scheme": "Eating Establishment",
+          "id": "766847d6-38ea-4363-818a-36bafdf12534",
+          "postal": "529509"
+        },
+        {
+          "name": "Kazo",
+          "address": "17 PETIR ROAD #B2-11 HILLION MALL 678278",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000052",
+          "scheme": "Eating Establishment",
+          "id": "911cb7f7-438a-4583-a323-1e96bb9071a4",
+          "postal": "678278"
+        },
+        {
+          "name": "Kazo",
+          "address": "3 TEMASEK BOULEVARD #01-K7 SUNTEC CITY MALL, TOWER 4 038983",
+          "type": "Restaurant",
+          "number": "EERT20240000056",
+          "scheme": "Eating Establishment",
+          "id": "911cb7f7-438a-4583-a323-1e96bb9071a4",
+          "postal": "038983"
+        },
+        {
+          "name": "Kazo",
+          "address": "53 ANG MO KIO AVENUE 3 #01-17/18 AMK HUB 569933",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000051",
+          "scheme": "Eating Establishment",
+          "id": "911cb7f7-438a-4583-a323-1e96bb9071a4",
+          "postal": "569933"
+        },
+        {
+          "name": "Kazo",
+          "address": "107 NORTH BRIDGE ROAD #B2-K02 FUNAN 179105",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000059",
+          "scheme": "Eating Establishment",
+          "id": "911cb7f7-438a-4583-a323-1e96bb9071a4",
+          "postal": "179105"
+        },
+        {
+          "name": "Kazo",
+          "address": "50 JURONG GATEWAY ROAD #B1-K26 JEM 608549",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB25100000006",
+          "scheme": "Eating Establishment",
+          "id": "766847d6-38ea-4363-818a-36bafdf12534",
+          "postal": "608549"
+        },
+        {
+          "name": "SAMPANMAN",
+          "address": "1 JURONG WEST CENTRAL 2 #01-16G/H/J JURONG POINT 648886",
+          "type": "Restaurant",
+          "number": "EERT25100000042",
+          "scheme": "Eating Establishment",
+          "id": "14b58073-00b2-4a59-a0fd-70a10e3123ea",
+          "postal": "648886"
+        },
+        {
+          "name": "Kazo",
+          "address": "1 NORTHPOINT DRIVE #B2-146 NORTHPOINT CITY 768019",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000469",
+          "scheme": "Eating Establishment",
+          "id": "766847d6-38ea-4363-818a-36bafdf12534",
+          "postal": "768019"
+        }
+      ],
+      "removed": [
+        {
+          "name": "TOKYO SHOKUDO",
+          "address": "53 ANG MO KIO AVENUE 3 #02-19,#02-20,#02-21 AMK HUB 569933",
+          "type": "Restaurant",
+          "number": "EERT20250000567",
+          "scheme": "Eating Establishment",
+          "id": "3e75f97a-1f6a-4795-ba6e-a2ba7adf2128",
+          "postal": "569933"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-04-07T22:26:08.359593",
     "date": "2026-04-07",
     "summary": {
@@ -7615,30 +7757,6 @@
           }
         }
       ]
-    }
-  },
-  {
-    "timestamp": "2026-02-08T22:20:28.714351",
-    "date": "2026-02-08",
-    "summary": {
-      "new": 1,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Mini Wok",
-          "address": "180 ANG MO KIO AVENUE 8 MR3, NORTH CANTEEN #02 NANYANG POLYTECHNIC BLOCK E 569830",
-          "type": "Hawker",
-          "number": "EEHK26010000141",
-          "scheme": "Eating Establishment",
-          "id": "0df43f2f-4801-463a-bb15-4396e71d3ef4",
-          "postal": "569830"
-        }
-      ],
-      "removed": [],
-      "updated": []
     }
   }
 ]
