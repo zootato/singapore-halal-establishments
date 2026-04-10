@@ -9990,6 +9990,15 @@
     "postal": "528833"
   },
   {
+    "name": "Firefry Thai Snacks",
+    "address": "90 HOUGANG AVENUE 10 #01-18C HOUGANG MALL 538766",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26040000019",
+    "scheme": "Eating Establishment",
+    "id": "d4bb77c7-6cf2-4bef-9fd3-4e752c83238e",
+    "postal": "538766"
+  },
+  {
     "name": "First Cuisine Food Industries Pte Ltd",
     "address": "15 SENOKO DRIVE #05-10 JTC FOOD HUB @ SENOKO 758202",
     "type": "Catering Company",
@@ -23155,6 +23164,15 @@
     "scheme": "Eating Establishment",
     "id": "5c5afd38-ebd6-422b-babb-46f8944c0e6a",
     "postal": "138617"
+  },
+  {
+    "name": "PASTAGO",
+    "address": "33 SENGKANG WEST AVENUE #B1-K17 THE SELETAR MALL 797653",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26040000015",
+    "scheme": "Eating Establishment",
+    "id": "5c5afd38-ebd6-422b-babb-46f8944c0e6a",
+    "postal": "797653"
   },
   {
     "name": "PASTAGO",
