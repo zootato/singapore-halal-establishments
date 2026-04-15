@@ -6003,15 +6003,6 @@
     "postal": "807011"
   },
   {
-    "name": "Chicky Fun Chicken Rice (S3) @ Food Junction GWC",
-    "address": "1 KIM SENG PROMENADE #03-116 GREAT WORLD CITY, Stall 3 237994",
-    "type": "Hawker",
-    "number": "EEHK20240000123",
-    "scheme": "Eating Establishment",
-    "id": "82e0c580-d16f-4bc4-b26b-416d01f46e60",
-    "postal": "237994"
-  },
-  {
     "name": "Chicky Fun Chicken Rice (S6) @ One Two Eat Heartbeat Bedok",
     "address": "11 BEDOK NORTH STREET 1 #01-28/29 HEARTBEAT @ BEDOK, stall 6 469662",
     "type": "Hawker",
@@ -14634,24 +14625,6 @@
     "postal": "540339"
   },
   {
-    "name": "Kawan Bowl Scrambled Egg Rice (S3) @ Cantine Pasir Ris Mall",
-    "address": "7 PASIR RIS CENTRAL #b2-17, Stall 3 519612",
-    "type": "Hawker",
-    "number": "EEHK20240001021",
-    "scheme": "Eating Establishment",
-    "id": "c3bea4c5-6e66-4be5-9aa8-a0276b1c3479",
-    "postal": "519612"
-  },
-  {
-    "name": "Kawan Bowl Scrambled Egg Rice (S5) @ Cantine Jurong Point.",
-    "address": "1 JURONG WEST CENTRAL 2 #B1-42/43/44 JURONG POINT, Stall 5 648886",
-    "type": "Hawker",
-    "number": "EEHK20240001023",
-    "scheme": "Eating Establishment",
-    "id": "b3e0f2dd-a6b8-403b-979e-549996673b68",
-    "postal": "648886"
-  },
-  {
     "name": "KAWAN KAWAN CHICKEN RICE (S11) @ FOOD MALL MARSILING",
     "address": "10 MARSILING IND ESTATE ROAD 1 #01-01 MARSILING INDUSTRIAL ESTATE, Stall 11 739276",
     "type": "Hawker",
@@ -15388,15 +15361,6 @@
     "scheme": "Eating Establishment",
     "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
     "postal": "358361"
-  },
-  {
-    "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
-    "address": "11 TANJONG KATONG ROAD #01-50/51 ONE KM 437157",
-    "type": "Restaurant",
-    "number": "EERN21110012999",
-    "scheme": "Eating Establishment",
-    "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
-    "postal": "437157"
   },
   {
     "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
@@ -26604,15 +26568,6 @@
     "postal": "819666"
   },
   {
-    "name": "San Chon (S9)@Foodgle Hub 60 NTU",
-    "address": "60 NANYANG CRESCENT #02-02 NANYANG TECHNOLOGY UNIVERSITY, STALL 9 636957",
-    "type": "Hawker",
-    "number": "EEHK20240000179",
-    "scheme": "Eating Establishment",
-    "id": "66f4bd69-f38d-481e-bcc1-52b3ccd3a3c8",
-    "postal": "636957"
-  },
-  {
     "name": "San Chon Korean & Japanese Cuisine (S7)@Koufu Republic Polytechnic",
     "address": "31 WOODLANDS AVENUE 9 #01-01 REPUBLIC POLYTECHNIC,Stall 7 737907",
     "type": "Hawker",
@@ -27703,24 +27658,6 @@
   },
   {
     "name": "SHIOK BURGER",
-    "address": "21 CHOA CHU KANG AVENUE 4 #B1-K10 LOT ONE, SHOPPERS' MALL 689812",
-    "type": "Restaurant",
-    "number": "EERT25120000070",
-    "scheme": "Eating Establishment",
-    "id": "4fcad118-8dea-4300-a6a9-f4bf6b4d7efa",
-    "postal": "689812"
-  },
-  {
-    "name": "SHIOK BURGER",
-    "address": "535 CLEMENTI ROAD #01-12 NGEE ANN POLYTECHNIC (ATRIUM CHEERS) 599489",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000801",
-    "scheme": "Eating Establishment",
-    "id": "4fcad118-8dea-4300-a6a9-f4bf6b4d7efa",
-    "postal": "599489"
-  },
-  {
-    "name": "SHIOK BURGER",
     "address": "988 UPPER SERANGOON ROAD #01-02 STARS OF KOVAN 534733",
     "type": "Snack Bar / Bakery",
     "number": "EESB20250000802",
@@ -27739,15 +27676,6 @@
   },
   {
     "name": "SHIOK BURGER",
-    "address": "6 CHANGI BUSINESS PARK AVENUE 1 #01-31 ESR BIZPARK @ CHANGI 486017",
-    "type": "Restaurant",
-    "number": "EERT20240001222",
-    "scheme": "Eating Establishment",
-    "id": "4fcad118-8dea-4300-a6a9-f4bf6b4d7efa",
-    "postal": "486017"
-  },
-  {
-    "name": "SHIOK BURGER",
     "address": "70 COMPASSVALE BOW #01-83 544692",
     "type": "Restaurant",
     "number": "EERT20250000006",
@@ -27763,24 +27691,6 @@
     "scheme": "Eating Establishment",
     "id": "4fcad118-8dea-4300-a6a9-f4bf6b4d7efa",
     "postal": "797653"
-  },
-  {
-    "name": "SHIOK BURGER",
-    "address": "5 STRAITS VIEW #B2-41/42 THE HEART 018935",
-    "type": "Restaurant",
-    "number": "EERT20250000803",
-    "scheme": "Eating Establishment",
-    "id": "4fcad118-8dea-4300-a6a9-f4bf6b4d7efa",
-    "postal": "018935"
-  },
-  {
-    "name": "SHIOK BURGER",
-    "address": "11 BIDADARI PARK DRIVE #B1-K3 THE WOODLEIGH MALL 367803",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000804",
-    "scheme": "Eating Establishment",
-    "id": "4fcad118-8dea-4300-a6a9-f4bf6b4d7efa",
-    "postal": "367803"
   },
   {
     "name": "SHIOK BURGER",
@@ -27808,24 +27718,6 @@
     "scheme": "Eating Establishment",
     "id": "4fcad118-8dea-4300-a6a9-f4bf6b4d7efa",
     "postal": "528523"
-  },
-  {
-    "name": "SHIOK BURGER",
-    "address": "1 HARBOURFRONT WALK #B2-K19 VIVOCITY 098585",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000805",
-    "scheme": "Eating Establishment",
-    "id": "4fcad118-8dea-4300-a6a9-f4bf6b4d7efa",
-    "postal": "098585"
-  },
-  {
-    "name": "SHIOK BURGER",
-    "address": "180 ANG MO KIO AVENUE 8 #NANYANG POLYTECHNIC BLK A (UNIT278A/B) LEARNING VISION @ WORK PTE .LTD. 569830",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000806",
-    "scheme": "Eating Establishment",
-    "id": "4fcad118-8dea-4300-a6a9-f4bf6b4d7efa",
-    "postal": "569830"
   },
   {
     "name": "Shiok Kitchen Catering",
@@ -32653,6 +32545,33 @@
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
+    "address": "211 HENDERSON ROAD #01-03 211 HENDERSON 159552",
+    "type": "Restaurant",
+    "number": "EERT20220000228",
+    "scheme": "Eating Establishment",
+    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+    "postal": "159552"
+  },
+  {
+    "name": "THE COFFEE BEAN & TEA LEAF",
+    "address": "11 RESEARCH LINK #01-02,National University Singapore (NUS) COM 3 119391",
+    "type": "Restaurant",
+    "number": "EERT20220001074",
+    "scheme": "Eating Establishment",
+    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+    "postal": "119391"
+  },
+  {
+    "name": "THE COFFEE BEAN & TEA LEAF",
+    "address": "211 HENDERSON ROAD #06-01/02/04 211 HENDERSON 159552",
+    "type": "Central Kitchen",
+    "number": "FPCN21120001631",
+    "scheme": "Food Preparation Area",
+    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+    "postal": "159552"
+  },
+  {
+    "name": "THE COFFEE BEAN & TEA LEAF",
     "address": "10 ANSON ROAD #01-32 INTERNATIONAL PLAZA 079903",
     "type": "Restaurant",
     "number": "EERN21120013265",
@@ -33094,15 +33013,6 @@
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "211 HENDERSON ROAD #01-03 211 HENDERSON 159552",
-    "type": "Restaurant",
-    "number": "EERT20220000228",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "159552"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
     "address": "78 AIRPORT BOULEVARD #01-200 JEWEL CHANGI AIRPORT 819666",
     "type": "Restaurant",
     "number": "EERT20220000446",
@@ -33136,15 +33046,6 @@
     "scheme": "Eating Establishment",
     "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
     "postal": "819665"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "11 RESEARCH LINK #01-02,National University Singapore (NUS) COM 3 119391",
-    "type": "Restaurant",
-    "number": "EERT20220001074",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "119391"
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
@@ -33343,15 +33244,6 @@
     "scheme": "Eating Establishment",
     "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
     "postal": "229899"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "211 HENDERSON ROAD #06-01/02/04 211 HENDERSON 159552",
-    "type": "Central Kitchen",
-    "number": "FPCN21120001631",
-    "scheme": "Food Preparation Area",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "159552"
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF BEANSTRO",
@@ -34407,6 +34299,15 @@
     "postal": "544692"
   },
   {
+    "name": "TOKYO SHOKUDO",
+    "address": "53 ANG MO KIO AVENUE 3 #02-19,#02-20,#02-21 AMK HUB 569933",
+    "type": "Restaurant",
+    "number": "EERT20250000567",
+    "scheme": "Eating Establishment",
+    "id": "3e75f97a-1f6a-4795-ba6e-a2ba7adf2128",
+    "postal": "569933"
+  },
+  {
     "name": "TOKYO SHOKUDO BISTRO",
     "address": "68 ORCHARD ROAD #02-35 PLAZA SINGAPURA 238839",
     "type": "Restaurant",
@@ -34678,6 +34579,15 @@
   },
   {
     "name": "TREATS",
+    "address": "649 CHANGI ROAD Esso Service Stations 419946",
+    "type": "Food Kiosk",
+    "number": "EEFK20220001014",
+    "scheme": "Eating Establishment",
+    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
+    "postal": "419946"
+  },
+  {
+    "name": "TREATS",
     "address": "353 UPPER THOMSON ROAD MOBIL SERVICE STATION 574410",
     "type": "Food Kiosk",
     "number": "EEFK20230000637",
@@ -34774,15 +34684,6 @@
     "scheme": "Eating Establishment",
     "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
     "postal": "758452"
-  },
-  {
-    "name": "TREATS",
-    "address": "649 CHANGI ROAD Esso Service Stations 419946",
-    "type": "Food Kiosk",
-    "number": "EEFK20220001014",
-    "scheme": "Eating Establishment",
-    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
-    "postal": "419946"
   },
   {
     "name": "TREATS",
