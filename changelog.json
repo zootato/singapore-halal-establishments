@@ -1,5 +1,56 @@
 [
   {
+    "timestamp": "2026-04-16T22:28:02.825011",
+    "date": "2026-04-16",
+    "summary": {
+      "new": 0,
+      "removed": 4,
+      "updated": 0
+    },
+    "changes": {
+      "new": [],
+      "removed": [
+        {
+          "name": "Streats Hongkong Cafe",
+          "address": "2 JURONG EAST STREET 21 #02-17 /17A, IMM BUILDING 609601",
+          "type": "Restaurant",
+          "number": "EERN21080012718",
+          "scheme": "Eating Establishment",
+          "id": "6ef7e435-d071-45bf-bbbe-f04a007b0ced",
+          "postal": "609601"
+        },
+        {
+          "name": "THE COFFEE BEAN & TEA LEAF",
+          "address": "1 KIM SENG PROMENADE #02-K101 GREAT WORLD CITY 237994",
+          "type": "Restaurant",
+          "number": "EERN21120013239",
+          "scheme": "Eating Establishment",
+          "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+          "postal": "237994"
+        },
+        {
+          "name": "Godaime",
+          "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #01-48 CHANGI CITY POINT 486038",
+          "type": "Restaurant",
+          "number": "EERT20230001057",
+          "scheme": "Eating Establishment",
+          "id": "5c586d68-a0a7-4b4d-89d4-03e10c25f06c",
+          "postal": "486038"
+        },
+        {
+          "name": "Bali Thai Restaurant",
+          "address": "23 Serangoon Central #02-13 NEX 556083",
+          "type": "Catering Company",
+          "number": "FPGN21070001574",
+          "scheme": "Food Preparation Area",
+          "id": "9a364ce4-e56d-44ac-b375-786f51bdbbab",
+          "postal": "556083"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-04-15T22:28:16.935465",
     "date": "2026-04-15",
     "summary": {
@@ -7616,30 +7667,6 @@
           "postal": "238873"
         }
       ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-02-12T22:22:04.041443",
-    "date": "2026-02-12",
-    "summary": {
-      "new": 1,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Makan Mate Catering By Pan Seas Enterprises",
-          "address": "35B Fishery Port Road 619744",
-          "type": "Catering Company",
-          "number": "FPGX22010001641",
-          "scheme": "Food Preparation Area",
-          "id": "e9e1754f-ae62-49fd-93a8-ffc4cd4b4f79",
-          "postal": "619744"
-        }
-      ],
-      "removed": [],
       "updated": []
     }
   }

@@ -3015,15 +3015,6 @@
     "postal": "556083"
   },
   {
-    "name": "Bali Thai Restaurant",
-    "address": "23 Serangoon Central #02-13 NEX 556083",
-    "type": "Catering Company",
-    "number": "FPGN21070001574",
-    "scheme": "Food Preparation Area",
-    "id": "9a364ce4-e56d-44ac-b375-786f51bdbbab",
-    "postal": "556083"
-  },
-  {
     "name": "Ballroom Level 1 kitchen @ Mount Faber Peak",
     "address": "109 MOUNT FABER ROAD #01 CABLE CAR SINGAPORE & MOUNT FABER 099203",
     "type": "Catering Company",
@@ -5293,21 +5284,21 @@
   },
   {
     "name": "Captain Kim Korean BBQ & Hotpot",
-    "address": "1 WOODLANDS ROAD #01-24 JUNCTION 10 677899",
-    "type": "Restaurant",
-    "number": "EERX21110013080",
-    "scheme": "Eating Establishment",
-    "id": "17afee8c-89a8-4752-b834-092827f2b4ae",
-    "postal": "677899"
-  },
-  {
-    "name": "Captain Kim Korean BBQ & Hotpot",
     "address": "300 TAMPINES AVENUE 5 #01-06, 01D NTUC INCOME AT TAMPINES JUNCTION 529653",
     "type": "Restaurant",
     "number": "EERX21080012731",
     "scheme": "Eating Establishment",
     "id": "9d4cb9e6-2004-49c6-9aed-a8cf5e013a32",
     "postal": "529653"
+  },
+  {
+    "name": "Captain Kim Korean BBQ & Hotpot",
+    "address": "1 WOODLANDS ROAD #01-24 JUNCTION 10 677899",
+    "type": "Restaurant",
+    "number": "EERX21110013080",
+    "scheme": "Eating Establishment",
+    "id": "17afee8c-89a8-4752-b834-092827f2b4ae",
+    "postal": "677899"
   },
   {
     "name": "Carnival Bakery",
@@ -11104,15 +11095,6 @@
     "scheme": "Eating Establishment",
     "id": "825dda24-e8f5-4381-ac0b-8b2ff9fd9c36",
     "postal": "098585"
-  },
-  {
-    "name": "Godaime",
-    "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #01-48 CHANGI CITY POINT 486038",
-    "type": "Restaurant",
-    "number": "EERT20230001057",
-    "scheme": "Eating Establishment",
-    "id": "5c586d68-a0a7-4b4d-89d4-03e10c25f06c",
-    "postal": "486038"
   },
   {
     "name": "GOGO FRANKS",
@@ -24328,6 +24310,15 @@
   },
   {
     "name": "Poke Theory",
+    "address": "68 PHOENIX ROAD #01-21 TEBAN PLACE 668202",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20220000150",
+    "scheme": "Eating Establishment",
+    "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
+    "postal": "668202"
+  },
+  {
+    "name": "Poke Theory",
     "address": "30 RAFFLES PLACE #01-18 CHANGE ALLEY MALL 048622",
     "type": "Restaurant",
     "number": "EERN21020012157",
@@ -24379,15 +24370,6 @@
     "scheme": "Eating Establishment",
     "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
     "postal": "189356"
-  },
-  {
-    "name": "Poke Theory",
-    "address": "68 PHOENIX ROAD #01-21 TEBAN PLACE 668202",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20220000150",
-    "scheme": "Eating Establishment",
-    "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
-    "postal": "668202"
   },
   {
     "name": "POLAR CAFE",
@@ -28854,15 +28836,6 @@
     "postal": "208539"
   },
   {
-    "name": "Streats Hongkong Cafe",
-    "address": "2 JURONG EAST STREET 21 #02-17 /17A, IMM BUILDING 609601",
-    "type": "Restaurant",
-    "number": "EERN21080012718",
-    "scheme": "Eating Establishment",
-    "id": "6ef7e435-d071-45bf-bbbe-f04a007b0ced",
-    "postal": "609601"
-  },
-  {
     "name": "STT Restaurant Pte Ltd (MR2) @ 326 Woodlands",
     "address": "326 WOODLANDS STREET 32 #01-103, MR2 730326",
     "type": "Hawker",
@@ -32662,15 +32635,6 @@
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "1 KIM SENG PROMENADE #02-K101 GREAT WORLD CITY 237994",
-    "type": "Restaurant",
-    "number": "EERN21120013239",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "237994"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
     "address": "583 Orchard Road #01-45/46 Forum Shopping Mall 238884",
     "type": "Restaurant",
     "number": "EERN21120013240",
@@ -34588,6 +34552,15 @@
   },
   {
     "name": "TREATS",
+    "address": "638 GEYLANG ROAD ESSO PETROL STATION 389569",
+    "type": "Food Kiosk",
+    "number": "EEFK20220001015",
+    "scheme": "Eating Establishment",
+    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
+    "postal": "389569"
+  },
+  {
+    "name": "TREATS",
     "address": "353 UPPER THOMSON ROAD MOBIL SERVICE STATION 574410",
     "type": "Food Kiosk",
     "number": "EEFK20230000637",
@@ -34684,15 +34657,6 @@
     "scheme": "Eating Establishment",
     "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
     "postal": "758452"
-  },
-  {
-    "name": "TREATS",
-    "address": "638 GEYLANG ROAD ESSO PETROL STATION 389569",
-    "type": "Food Kiosk",
-    "number": "EEFK20220001015",
-    "scheme": "Eating Establishment",
-    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
-    "postal": "389569"
   },
   {
     "name": "TREATS",
