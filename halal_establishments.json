@@ -27873,6 +27873,15 @@
     "postal": "629821"
   },
   {
+    "name": "Singapore Nasi Kandar (S8) Kopitiam Changi Airport T4",
+    "address": "10 AIRPORT BOULEVARD #02-205 CHANGI AIRPORT TERMINAL 4, Stall 8 819665",
+    "type": "Hawker",
+    "number": "EEHK20250000151",
+    "scheme": "Eating Establishment",
+    "id": "be14546b-88bf-44b9-b8a3-960e0d5b4046",
+    "postal": "819665"
+  },
+  {
     "name": "Singapore Nutri-Diet Industries Pte Ltd",
     "address": "3017 BEDOK NORTH STREET 5 #06-03 GOURMET EAST KITCHEN 486121",
     "type": "Catering Company",
