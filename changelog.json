@@ -1,5 +1,29 @@
 [
   {
+    "timestamp": "2026-04-18T22:22:13.393443",
+    "date": "2026-04-18",
+    "summary": {
+      "new": 0,
+      "removed": 1,
+      "updated": 0
+    },
+    "changes": {
+      "new": [],
+      "removed": [
+        {
+          "name": "CROLO BY SWEE HENG",
+          "address": "33 SENGKANG WEST AVENUE #B1-24 THE SELETAR MALL 797653",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000607",
+          "scheme": "Eating Establishment",
+          "id": "2bd1ef47-dec3-44a2-b0d0-b11418553544",
+          "postal": "797653"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-04-17T22:25:53.922961",
     "date": "2026-04-17",
     "summary": {
@@ -7633,41 +7657,6 @@
         }
       ],
       "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-02-16T22:19:51.288815",
-    "date": "2026-02-16",
-    "summary": {
-      "new": 0,
-      "removed": 0,
-      "updated": 1
-    },
-    "changes": {
-      "new": [],
-      "removed": [],
-      "updated": [
-        {
-          "previous": {
-            "name": "Japanese Food & Food Western Food (S10) @ Tao Nan School",
-            "address": "49 MARINE CRESCENT TAO NAN SCHOOL 449761",
-            "type": "Canteen",
-            "number": "EESC20250000100",
-            "scheme": "Eating Establishment",
-            "id": "1bce145c-f7b9-41b2-89d6-39c8b8f1a566",
-            "postal": "449761"
-          },
-          "current": {
-            "name": "Japanese Food & Western Food (S10) @ Tao Nan School",
-            "address": "49 MARINE CRESCENT TAO NAN SCHOOL 449761",
-            "type": "Canteen",
-            "number": "EESC20250000100",
-            "scheme": "Eating Establishment",
-            "id": "1bce145c-f7b9-41b2-89d6-39c8b8f1a566",
-            "postal": "449761"
-          }
-        }
-      ]
     }
   }
 ]
