@@ -10782,6 +10782,33 @@
     "postal": "640456"
   },
   {
+    "name": "FUSION SPOON",
+    "address": "102 YUAN CHING ROAD 618663",
+    "type": "Restaurant",
+    "number": "EERT20220001022",
+    "scheme": "Eating Establishment",
+    "id": "4602e3bf-8af7-4974-9e5c-de6b1208db50",
+    "postal": "618663"
+  },
+  {
+    "name": "FUSION SPOON",
+    "address": "1 CLUNY ROAD #B1-00 NATIONAL PARKS BOARD, Main Restaurant 259569",
+    "type": "Restaurant",
+    "number": "EERT20220001024",
+    "scheme": "Eating Establishment",
+    "id": "4602e3bf-8af7-4974-9e5c-de6b1208db50",
+    "postal": "259569"
+  },
+  {
+    "name": "FUSION SPOON",
+    "address": "1 CLUNY ROAD #B1-00 NATIONAL PARKS BOARD, Main Restaurant 259569",
+    "type": "Catering Company",
+    "number": "FPCA20220001025",
+    "scheme": "Food Preparation Area",
+    "id": "4602e3bf-8af7-4974-9e5c-de6b1208db50",
+    "postal": "259569"
+  },
+  {
     "name": "Fusion Western (S3) @ FoodHub Clementi",
     "address": "449 CLEMENTI AVENUE 3 #01-211, Stall 3 120449",
     "type": "Hawker",
@@ -11845,15 +11872,6 @@
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
-    "address": "4 Tampines central 5 #B1-12 tampines mall 529510",
-    "type": "Halal Section",
-    "number": "EECN21070000432",
-    "scheme": "Eating Establishment",
-    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
-    "postal": "529510"
-  },
-  {
-    "name": "Halal Section @ NTUC FAIRPRICE",
     "address": "80 MARINE PARADE ROAD #03-28 PARKWAY PARADE 449269",
     "type": "Central Kitchen",
     "number": "FPCN21050001520",
@@ -11896,6 +11914,15 @@
     "scheme": "Food Preparation Area",
     "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
     "postal": "671524"
+  },
+  {
+    "name": "Halal Section @ NTUC FAIRPRICE",
+    "address": "4 Tampines central 5 #B1-12 tampines mall 529510",
+    "type": "Halal Section",
+    "number": "EECN21070000432",
+    "scheme": "Eating Establishment",
+    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
+    "postal": "529510"
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
@@ -14932,6 +14959,15 @@
   },
   {
     "name": "KENJINN",
+    "address": "5 SENGKANG SQUARE #01-04 SENGKANG MRT STATION (NE16) 545062",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26040000021",
+    "scheme": "Eating Establishment",
+    "id": "8f4aa454-c904-4a6a-9117-b9c0d6e34e0e",
+    "postal": "545062"
+  },
+  {
+    "name": "KENJINN",
     "address": "1 TAMPINES WALK HAWKER CENTRE @ OUR TAMPINES HUB 528523",
     "type": "Snack Bar / Bakery",
     "number": "EESB20250000757",
@@ -16461,6 +16497,15 @@
     "postal": "738702"
   },
   {
+    "name": "KWAZY KORNDOG",
+    "address": "114 LAVENDER STREET #01-13 CT HUB 2 338729",
+    "type": "Restaurant",
+    "number": "EERT26040000029",
+    "scheme": "Eating Establishment",
+    "id": "2605610f-8580-4af5-8005-93433e211c24",
+    "postal": "338729"
+  },
+  {
     "name": "Kwong Seng International Pte Ltd",
     "address": "239 Pandan Loop #08-03 FOOD CONCEPT @ PANDAN 128425",
     "type": "Central Kitchen",
@@ -16963,15 +17008,6 @@
     "scheme": "Eating Establishment",
     "id": "04a22cc8-410f-41ad-977c-224cb8a85e4c",
     "postal": "678278"
-  },
-  {
-    "name": "Long John Silver's",
-    "address": "4 Tampines Central 5 #04-23/24 Tampines Mall 529510",
-    "type": "Restaurant",
-    "number": "EERN22020013518",
-    "scheme": "Eating Establishment",
-    "id": "04a22cc8-410f-41ad-977c-224cb8a85e4c",
-    "postal": "529510"
   },
   {
     "name": "Long John Silver's",
@@ -18874,6 +18910,15 @@
   },
   {
     "name": "McDonald's",
+    "address": "4 TAMPINES CENTRAL 5 #01-33 TAMPINES MALL 529510",
+    "type": "Restaurant",
+    "number": "EERN20020011044",
+    "scheme": "Eating Establishment",
+    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+    "postal": "529510"
+  },
+  {
+    "name": "McDonald's",
     "address": "1 JOO KOON CIRCLE #01-27-31 Fairprice Hub 629117",
     "type": "Restaurant",
     "number": "EERN20020011025",
@@ -18961,15 +19006,6 @@
     "scheme": "Eating Establishment",
     "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
     "postal": "529284"
-  },
-  {
-    "name": "McDonald's",
-    "address": "4 TAMPINES CENTRAL 5 #01-33 TAMPINES MALL 529510",
-    "type": "Restaurant",
-    "number": "EERN20020011044",
-    "scheme": "Eating Establishment",
-    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-    "postal": "529510"
   },
   {
     "name": "McDonald's",
@@ -20934,6 +20970,15 @@
     "postal": "768019"
   },
   {
+    "name": "NaNa Thai Restaurant",
+    "address": "14 SCOTTS ROAD #04-22/24 FAR EAST PLAZA 228213",
+    "type": "Restaurant",
+    "number": "EERN21120013348",
+    "scheme": "Eating Establishment",
+    "id": "698b4f8e-75e2-4f79-9f90-f88e9c2047be",
+    "postal": "228213"
+  },
+  {
     "name": "NANDHANA'S",
     "address": "601 MACPHERSON ROAD #01-31/32/33/44/45/46/47/48/49, MR5 368242",
     "type": "Hawker",
@@ -21139,6 +21184,15 @@
     "scheme": "Eating Establishment",
     "id": "0bd9e70b-d129-4002-bd34-8fc73c72db2d",
     "postal": "310530"
+  },
+  {
+    "name": "NASI LEMAK / CHICKEN RICE (S1) @ CCK LOCAL DELIGHTS FOODSHOP",
+    "address": "70 CHOA CHU KANG LOOP #01-05 689688",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN21120013014",
+    "scheme": "Eating Establishment",
+    "id": "1aab5a59-d8f0-48da-baa6-c5eb70088c3d",
+    "postal": "689688"
   },
   {
     "name": "NASI LEMAK/CHICKEN RICE @ SMART COOK WOODLANDS",
@@ -21526,6 +21580,15 @@
     "scheme": "Food Preparation Area",
     "id": "d5414966-de7d-43e8-a7a6-850d9b511da9",
     "postal": "368330"
+  },
+  {
+    "name": "Nourish Table @ Fusion Spoon",
+    "address": "1 CLUNY ROAD #B1-00 NATIONAL PARKS BOARD 259569",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000231",
+    "scheme": "Eating Establishment",
+    "id": "f29991b7-6504-4942-9e7e-c443e913129b",
+    "postal": "259569"
   },
   {
     "name": "Now Pizza",
@@ -27799,6 +27862,15 @@
     "scheme": "Eating Establishment",
     "id": "608b7298-df59-4864-a6da-429a04a2a073",
     "postal": "640456"
+  },
+  {
+    "name": "Sinar Seafood",
+    "address": "170A SENGKANG EAST DRIVE #01-10 RIVERVALE SHORES, The Coffeehood & Tea Hall, Stall 7 541170",
+    "type": "Hawker",
+    "number": "EEHK26040000027",
+    "scheme": "Eating Establishment",
+    "id": "19c3c285-1f89-4f67-a25c-dbf95ad537ef",
+    "postal": "541170"
   },
   {
     "name": "Sinar Seafood (S12) @ Kedai Kopi 376 BUkit Batok",
@@ -34263,15 +34335,6 @@
     "postal": "544692"
   },
   {
-    "name": "TOKYO SHOKUDO",
-    "address": "53 ANG MO KIO AVENUE 3 #02-19,#02-20,#02-21 AMK HUB 569933",
-    "type": "Restaurant",
-    "number": "EERT20250000567",
-    "scheme": "Eating Establishment",
-    "id": "3e75f97a-1f6a-4795-ba6e-a2ba7adf2128",
-    "postal": "569933"
-  },
-  {
     "name": "TOKYO SHOKUDO BISTRO",
     "address": "68 ORCHARD ROAD #02-35 PLAZA SINGAPURA 238839",
     "type": "Restaurant",
@@ -34543,24 +34606,6 @@
   },
   {
     "name": "TREATS",
-    "address": "649 CHANGI ROAD Esso Service Stations 419946",
-    "type": "Food Kiosk",
-    "number": "EEFK20220001014",
-    "scheme": "Eating Establishment",
-    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
-    "postal": "419946"
-  },
-  {
-    "name": "TREATS",
-    "address": "638 GEYLANG ROAD ESSO PETROL STATION 389569",
-    "type": "Food Kiosk",
-    "number": "EEFK20220001015",
-    "scheme": "Eating Establishment",
-    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
-    "postal": "389569"
-  },
-  {
-    "name": "TREATS",
     "address": "353 UPPER THOMSON ROAD MOBIL SERVICE STATION 574410",
     "type": "Food Kiosk",
     "number": "EEFK20230000637",
@@ -34657,6 +34702,24 @@
     "scheme": "Eating Establishment",
     "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
     "postal": "758452"
+  },
+  {
+    "name": "TREATS",
+    "address": "649 CHANGI ROAD Esso Service Stations 419946",
+    "type": "Food Kiosk",
+    "number": "EEFK20220001014",
+    "scheme": "Eating Establishment",
+    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
+    "postal": "419946"
+  },
+  {
+    "name": "TREATS",
+    "address": "638 GEYLANG ROAD ESSO PETROL STATION 389569",
+    "type": "Food Kiosk",
+    "number": "EEFK20220001015",
+    "scheme": "Eating Establishment",
+    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
+    "postal": "389569"
   },
   {
     "name": "TREATS",
