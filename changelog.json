@@ -1,5 +1,57 @@
 [
   {
+    "timestamp": "2026-04-22T22:29:14.622876",
+    "date": "2026-04-22",
+    "summary": {
+      "new": 2,
+      "removed": 2,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "DELI ASIA (S) PTE. LTD.",
+          "address": "1 WOODLANDS HEIGHT #01-03 KOUFU GROUP HQ 737859",
+          "type": "Central Kitchen",
+          "number": "FPCK20240000419",
+          "scheme": "Food Preparation Area",
+          "id": "5f27aa0a-7ccf-478b-b5cd-26aa0cecd305",
+          "postal": "737859"
+        },
+        {
+          "name": "DELI ASIA (S) PTE. LTD.",
+          "address": "1 WOODLANDS HEIGHT #06-02 KOUFU GROUP HQ 737859",
+          "type": "Central Kitchen",
+          "number": "FPCK20220000059",
+          "scheme": "Food Preparation Area",
+          "id": "5f27aa0a-7ccf-478b-b5cd-26aa0cecd305",
+          "postal": "737859"
+        }
+      ],
+      "removed": [
+        {
+          "name": "SUBWAY",
+          "address": "548 WOODLANDS DRIVE 44 #01-23 VISTA POINT 730548",
+          "type": "Restaurant",
+          "number": "EERN21110013101",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "730548"
+        },
+        {
+          "name": "SUBWAY",
+          "address": "9 WOODLANDS AVENUE 9 #01-02/03 REPUBLIC POLYTECHNIC 738964",
+          "type": "Restaurant",
+          "number": "EERN21110013109",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "738964"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-04-20T22:29:01.837633",
     "date": "2026-04-20",
     "summary": {
@@ -7575,160 +7627,6 @@
         }
       ],
       "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-02-20T22:18:02.318456",
-    "date": "2026-02-20",
-    "summary": {
-      "new": 11,
-      "removed": 2,
-      "updated": 1
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "ES Fresh",
-          "address": "294 YISHUN STREET 22 #01-335 MARKET 760294",
-          "type": "Hawker",
-          "number": "EEHK26020000058",
-          "scheme": "Eating Establishment",
-          "id": "44af078c-bc19-4a35-a024-73823b55a4c4",
-          "postal": "760294"
-        },
-        {
-          "name": "Home of Seafood / Home of Sushi / Divine by Home of Seafood",
-          "address": "Gemilang Kampong Gelam, 38 KANDAHAR STREET KAMPONG GLAM CONSERVATION AREA, K30 198894",
-          "type": "Short Term Stall(Bazaar/Road Shows)",
-          "number": "EEST26020000103",
-          "scheme": "Eating Establishment",
-          "id": "066a00a7-fc46-43ee-ad5d-d062e6ea3de0",
-          "postal": "198894"
-        },
-        {
-          "name": "Home of Seafood / Home of Sushi / Divine by Home of Seafood",
-          "address": "Bazaar Ramadhan 2026 - Tampines Changkat, 301 TAMPINES STREET 32 #01, 9 520301",
-          "type": "Short Term Stall(Bazaar/Road Shows)",
-          "number": "EEST26020000102",
-          "scheme": "Eating Establishment",
-          "id": "066a00a7-fc46-43ee-ad5d-d062e6ea3de0",
-          "postal": "520301"
-        },
-        {
-          "name": "Red Ginger Coffeehouse",
-          "address": "83 PUNGGOL CENTRAL #B1-17 WATERWAY POINT 828761",
-          "type": "Restaurant",
-          "number": "EERT26020000069",
-          "scheme": "Eating Establishment",
-          "id": "ba8897d3-8a63-4044-a886-719f727d2a99",
-          "postal": "828761"
-        },
-        {
-          "name": "SUBWAY",
-          "address": "282 BISHAN STREET 22 #01-145 BISHAN NORTH SHOPPING MALL 570282",
-          "type": "Restaurant",
-          "number": "EERT26020000070",
-          "scheme": "Eating Establishment",
-          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-          "postal": "570282"
-        },
-        {
-          "name": "DAILY CHICKEN",
-          "address": "83 PUNGGOL CENTRAL #01-66 WATERWAY POINT 828761",
-          "type": "Restaurant",
-          "number": "EERT26020000086",
-          "scheme": "Eating Establishment",
-          "id": "197e57c8-07f0-475b-8fba-154c40bb0bf0",
-          "postal": "828761"
-        },
-        {
-          "name": "DOMINO'S PIZZA SINGAPORE PTE LTD",
-          "address": "961 UPPER SERANGOON ROAD #1ST 534719",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26020000067",
-          "scheme": "Eating Establishment",
-          "id": "61621304-0866-48eb-957f-d6a9c8339fc4",
-          "postal": "534719"
-        },
-        {
-          "name": "Home of Seafood / Home of Sushi / Divine by Home of Seafood",
-          "address": "Ramadhan Bazaar @ Woodlands MRT, 30 WOODLANDS AVENUE 2, 73 738343",
-          "type": "Short Term Stall(Bazaar/Road Shows)",
-          "number": "EEST26020000101",
-          "scheme": "Eating Establishment",
-          "id": "066a00a7-fc46-43ee-ad5d-d062e6ea3de0",
-          "postal": "738343"
-        },
-        {
-          "name": "DAILY CHICKEN",
-          "address": "200 VICTORIA STREET #B1-06 BUGIS JUNCTION 188021",
-          "type": "Restaurant",
-          "number": "EERT26020000087",
-          "scheme": "Eating Establishment",
-          "id": "197e57c8-07f0-475b-8fba-154c40bb0bf0",
-          "postal": "188021"
-        },
-        {
-          "name": "Flakyhaus",
-          "address": "150 TOWNER ROAD #01-04 TOWNER CREST 320150",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26020000099",
-          "scheme": "Eating Establishment",
-          "id": "b9460c58-db22-4903-a0e4-0bdeb7344c77",
-          "postal": "320150"
-        },
-        {
-          "name": "Ann & Kalsri Chicken Rice F&B",
-          "address": "8 CLUB STREET MR2 #B2-34 FOODELIC 069472",
-          "type": "Hawker",
-          "number": "EEHK26020000082",
-          "scheme": "Eating Establishment",
-          "id": "0e05d7b0-dabb-4c30-b7f4-3c76a376539c",
-          "postal": "069472"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Seabay Delight Wok Delight (S1)@Cantine Corner Admiralty Place",
-          "address": "678A WOODLANDS AVENUE 6 #02-05 ADMIRALTY PLACE, STALL 1 731678",
-          "type": "Hawker",
-          "number": "EEHK20240000460",
-          "scheme": "Eating Establishment",
-          "id": "f0dc00e5-1368-4f41-b161-fa80429314b2",
-          "postal": "731678"
-        },
-        {
-          "name": "IndoChili",
-          "address": "54 ZION ROAD 247779",
-          "type": "Restaurant",
-          "number": "EERT26010000133",
-          "scheme": "Eating Establishment",
-          "id": "20382466-0e7d-4a53-9f37-ec7a5fc2fa40",
-          "postal": "247779"
-        }
-      ],
-      "updated": [
-        {
-          "previous": {
-            "name": "FORTUNE POPIAH (S2) @ MAXWELL FOOD CENTRE",
-            "address": "1 KADAYANALLUR STREET #101, Stall 2 069184",
-            "type": "Hawker",
-            "number": "EEHK20250000279",
-            "scheme": "Eating Establishment",
-            "id": "a3ce1246-be4e-4206-b98b-3adc4fd1d256",
-            "postal": "069184"
-          },
-          "current": {
-            "name": "Fortune Popiah",
-            "address": "1 KADAYANALLUR STREET #101, Stall 2 069184",
-            "type": "Hawker",
-            "number": "EEHK20250000279",
-            "scheme": "Eating Establishment",
-            "id": "a3ce1246-be4e-4206-b98b-3adc4fd1d256",
-            "postal": "069184"
-          }
-        }
-      ]
     }
   }
 ]
