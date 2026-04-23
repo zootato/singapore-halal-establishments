@@ -1,5 +1,84 @@
 [
   {
+    "timestamp": "2026-04-23T22:28:43.018123",
+    "date": "2026-04-23",
+    "summary": {
+      "new": 6,
+      "removed": 1,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Al Madina Famous Prata Corner",
+          "address": "449 CLEMENTI AVENUE 3 #01-211, STALL 1 120449",
+          "type": "Hawker",
+          "number": "EEHK20240001031",
+          "scheme": "Eating Establishment",
+          "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
+          "postal": "120449"
+        },
+        {
+          "name": "Al Madina Famous Prata Corner",
+          "address": "803 Keat Hong Close #01-01, Stall 4 680803",
+          "type": "Hawker",
+          "number": "EEHK20250000036",
+          "scheme": "Eating Establishment",
+          "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
+          "postal": "680803"
+        },
+        {
+          "name": "Al Madina Famous Prata Corner",
+          "address": "844 TAMPINES STREET 82 #01-131 TAMPINES VILLE, STALL 7 520844",
+          "type": "Hawker",
+          "number": "EEHK20250000270",
+          "scheme": "Eating Establishment",
+          "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
+          "postal": "520844"
+        },
+        {
+          "name": "Al Madina Famous Prata Corner",
+          "address": "59 NEW UPPER CHANGI ROAD #01-1248 461059",
+          "type": "Hawker",
+          "number": "EEHK26030000075",
+          "scheme": "Eating Establishment",
+          "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
+          "postal": "461059"
+        },
+        {
+          "name": "Al Madina Famous Prata Corner",
+          "address": "36 CHAI CHEE AVENUE #01-151 ANSAR GARDEN, stall 6 461036",
+          "type": "Hawker",
+          "number": "EEHK20240000730",
+          "scheme": "Eating Establishment",
+          "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
+          "postal": "461036"
+        },
+        {
+          "name": "Al Madina Famous Prata Corner",
+          "address": "207 BUKIT BATOK STREET 21 #01-118 BUKIT BATOK GREEN, Stall 4 650207",
+          "type": "Hawker",
+          "number": "EEHK20250000035",
+          "scheme": "Eating Establishment",
+          "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
+          "postal": "650207"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Tim Hortons",
+          "address": "17 WOODLANDS DRIVE 17 #01-03 WOODLANDS HEALTH CAMPUS 737628",
+          "type": "Restaurant",
+          "number": "EERT26020000012",
+          "scheme": "Eating Establishment",
+          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+          "postal": "737628"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-04-22T22:29:14.622876",
     "date": "2026-04-22",
     "summary": {
@@ -7556,76 +7635,6 @@
         }
       ],
       "removed": [],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-02-21T22:17:05.200672",
-    "date": "2026-02-21",
-    "summary": {
-      "new": 5,
-      "removed": 1,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "DABBA STREET CLOUD KITCHEN",
-          "address": "10 TAMPINES NORTH DRIVE 4 K11 #01-05 JTC SPACE @ TAMPINES NORTH 528553",
-          "type": "Central Kitchen",
-          "number": "FPCK26020000055",
-          "scheme": "Food Preparation Area",
-          "id": "e0ed18bb-646b-474c-ae62-28ca62960145",
-          "postal": "528553"
-        },
-        {
-          "name": "INDO EXPRESS PUNGGOL",
-          "address": "40 STAMFORD ROAD #01-02 SMU CONNEXION 178908",
-          "type": "Hawker",
-          "number": "EEHK26020000079",
-          "scheme": "Eating Establishment",
-          "id": "0f9c3ca7-254e-4c75-b194-2e3c0cc1562f",
-          "postal": "178908"
-        },
-        {
-          "name": "Swish Rolls / Ollella",
-          "address": "290 ORCHARD ROAD #B1-K4 THE PARAGON 238859",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26020000105",
-          "scheme": "Eating Establishment",
-          "id": "85fd326a-eab5-432f-9ac1-917d8400f3ef",
-          "postal": "238859"
-        },
-        {
-          "name": "HATSUMI DONBURI | SOBA",
-          "address": "12 MARINA VIEW #02-04 Asia Square Food Garden, TOWER 2 018961",
-          "type": "Hawker",
-          "number": "EEHK26020000078",
-          "scheme": "Eating Establishment",
-          "id": "972c0884-3175-4f94-9f08-387ef8aca633",
-          "postal": "018961"
-        },
-        {
-          "name": "DABBA STREET",
-          "address": "53 ANG MO KIO AVENUE 3 PART RIGHT #01-36 AMK HUB 569933",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26020000056",
-          "scheme": "Eating Establishment",
-          "id": "073efe61-4460-4497-b8e9-8add21a2ca8e",
-          "postal": "569933"
-        }
-      ],
-      "removed": [
-        {
-          "name": "McDonald's",
-          "address": "4 BUKIT BATOK STREET 41 #01-42-45/50-54 LE QUEST 657991",
-          "type": "Restaurant",
-          "number": "EERN21010011971",
-          "scheme": "Eating Establishment",
-          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-          "postal": "657991"
-        }
-      ],
       "updated": []
     }
   }

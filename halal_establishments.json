@@ -1008,6 +1008,60 @@
     "postal": "489950"
   },
   {
+    "name": "Al Madina Famous Prata Corner",
+    "address": "36 CHAI CHEE AVENUE #01-151 ANSAR GARDEN, stall 6 461036",
+    "type": "Hawker",
+    "number": "EEHK20240000730",
+    "scheme": "Eating Establishment",
+    "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
+    "postal": "461036"
+  },
+  {
+    "name": "Al Madina Famous Prata Corner",
+    "address": "449 CLEMENTI AVENUE 3 #01-211, STALL 1 120449",
+    "type": "Hawker",
+    "number": "EEHK20240001031",
+    "scheme": "Eating Establishment",
+    "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
+    "postal": "120449"
+  },
+  {
+    "name": "Al Madina Famous Prata Corner",
+    "address": "207 BUKIT BATOK STREET 21 #01-118 BUKIT BATOK GREEN, Stall 4 650207",
+    "type": "Hawker",
+    "number": "EEHK20250000035",
+    "scheme": "Eating Establishment",
+    "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
+    "postal": "650207"
+  },
+  {
+    "name": "Al Madina Famous Prata Corner",
+    "address": "803 Keat Hong Close #01-01, Stall 4 680803",
+    "type": "Hawker",
+    "number": "EEHK20250000036",
+    "scheme": "Eating Establishment",
+    "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
+    "postal": "680803"
+  },
+  {
+    "name": "Al Madina Famous Prata Corner",
+    "address": "844 TAMPINES STREET 82 #01-131 TAMPINES VILLE, STALL 7 520844",
+    "type": "Hawker",
+    "number": "EEHK20250000270",
+    "scheme": "Eating Establishment",
+    "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
+    "postal": "520844"
+  },
+  {
+    "name": "Al Madina Famous Prata Corner",
+    "address": "59 NEW UPPER CHANGI ROAD #01-1248 461059",
+    "type": "Hawker",
+    "number": "EEHK26030000075",
+    "scheme": "Eating Establishment",
+    "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
+    "postal": "461059"
+  },
+  {
     "name": "AL MAKAN",
     "address": "201D TAMPINES STREET 21 #01-1155 524201",
     "type": "Restaurant",
@@ -1756,21 +1810,21 @@
   },
   {
     "name": "ANNA'S X UNION THESOUPSPOON",
-    "address": "12 KENT RIDGE CRESCENT #01-03 CENTRAL LIBRARY 119275",
-    "type": "Restaurant",
-    "number": "EERT20240000543",
-    "scheme": "Eating Establishment",
-    "id": "5f6d6e58-89ea-408e-bc24-065b966d22ff",
-    "postal": "119275"
-  },
-  {
-    "name": "ANNA'S X UNION THESOUPSPOON",
     "address": "88 PUNGGOL WAY #01-130 PUNGGOL COAST MALL 829913",
     "type": "Restaurant",
     "number": "EERT26020000073",
     "scheme": "Eating Establishment",
     "id": "5f6d6e58-89ea-408e-bc24-065b966d22ff",
     "postal": "829913"
+  },
+  {
+    "name": "ANNA'S X UNION THESOUPSPOON",
+    "address": "12 KENT RIDGE CRESCENT #01-03 CENTRAL LIBRARY 119275",
+    "type": "Restaurant",
+    "number": "EERT20240000543",
+    "scheme": "Eating Establishment",
+    "id": "5f6d6e58-89ea-408e-bc24-065b966d22ff",
+    "postal": "119275"
   },
   {
     "name": "ANNABELLA PATISSERIE",
@@ -1873,24 +1927,6 @@
   },
   {
     "name": "ARNOLD'S",
-    "address": "810 GEYLANG ROAD #02-99/10 CITY PLAZA 409286",
-    "type": "Restaurant",
-    "number": "EERN21060012493",
-    "scheme": "Eating Establishment",
-    "id": "571266fe-a5d4-499d-9f7c-fd6edf1a9f34",
-    "postal": "409286"
-  },
-  {
-    "name": "ARNOLD'S",
-    "address": "21 HOUGANG STREET 51 #01-49 HOUGANG GREEN SHOPPING MALL 538719",
-    "type": "Restaurant",
-    "number": "EERN21060012494",
-    "scheme": "Eating Establishment",
-    "id": "571266fe-a5d4-499d-9f7c-fd6edf1a9f34",
-    "postal": "538719"
-  },
-  {
-    "name": "ARNOLD'S",
     "address": "51 YISHUN CENTRAL 1 #01-04 YISHUN 10 CINEMA CINEPLEX 768794",
     "type": "Restaurant",
     "number": "EERN21060012555",
@@ -1900,12 +1936,12 @@
   },
   {
     "name": "ARNOLD'S",
-    "address": "215 BEDOK NORTH STREET 1 #01-83 460215",
+    "address": "21 HOUGANG STREET 51 #01-49 HOUGANG GREEN SHOPPING MALL 538719",
     "type": "Restaurant",
-    "number": "EERN21060012495",
+    "number": "EERN21060012494",
     "scheme": "Eating Establishment",
     "id": "571266fe-a5d4-499d-9f7c-fd6edf1a9f34",
-    "postal": "460215"
+    "postal": "538719"
   },
   {
     "name": "ARNOLD'S",
@@ -1924,6 +1960,24 @@
     "scheme": "Eating Establishment",
     "id": "571266fe-a5d4-499d-9f7c-fd6edf1a9f34",
     "postal": "575738"
+  },
+  {
+    "name": "ARNOLD'S",
+    "address": "810 GEYLANG ROAD #02-99/10 CITY PLAZA 409286",
+    "type": "Restaurant",
+    "number": "EERN21060012493",
+    "scheme": "Eating Establishment",
+    "id": "571266fe-a5d4-499d-9f7c-fd6edf1a9f34",
+    "postal": "409286"
+  },
+  {
+    "name": "ARNOLD'S",
+    "address": "215 BEDOK NORTH STREET 1 #01-83 460215",
+    "type": "Restaurant",
+    "number": "EERN21060012495",
+    "scheme": "Eating Establishment",
+    "id": "571266fe-a5d4-499d-9f7c-fd6edf1a9f34",
+    "postal": "460215"
   },
   {
     "name": "ARTEASE CAFE",
@@ -4465,24 +4519,6 @@
   },
   {
     "name": "BURGER KING",
-    "address": "1 HARBOURFRONT WALK #B2-41/56 VIVOCITY 098585",
-    "type": "Restaurant",
-    "number": "EERT25120000009",
-    "scheme": "Eating Establishment",
-    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
-    "postal": "098585"
-  },
-  {
-    "name": "BURGER KING",
-    "address": "809 French Road #01-31 Kitchener Complex 200809",
-    "type": "Restaurant",
-    "number": "EERX20030011314",
-    "scheme": "Eating Establishment",
-    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
-    "postal": "200809"
-  },
-  {
-    "name": "BURGER KING",
     "address": "1 JELEBU ROAD #01-28/29 BUKIT PANJANG PLAZA 677743",
     "type": "Restaurant",
     "number": "EERN20030011313",
@@ -4609,6 +4645,15 @@
   },
   {
     "name": "BURGER KING",
+    "address": "1 HARBOURFRONT WALK #B2-41/56 VIVOCITY 098585",
+    "type": "Restaurant",
+    "number": "EERT25120000009",
+    "scheme": "Eating Establishment",
+    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+    "postal": "098585"
+  },
+  {
+    "name": "BURGER KING",
     "address": "1 LOWER KENT RIDGE ROAD #03-09/10/11 119082",
     "type": "Restaurant",
     "number": "EERX20030011324",
@@ -4642,6 +4687,15 @@
     "scheme": "Eating Establishment",
     "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
     "postal": "556083"
+  },
+  {
+    "name": "BURGER KING",
+    "address": "809 French Road #01-31 Kitchener Complex 200809",
+    "type": "Restaurant",
+    "number": "EERX20030011314",
+    "scheme": "Eating Establishment",
+    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+    "postal": "200809"
   },
   {
     "name": "BURGER KING",
@@ -5284,21 +5338,21 @@
   },
   {
     "name": "Captain Kim Korean BBQ & Hotpot",
-    "address": "300 TAMPINES AVENUE 5 #01-06, 01D NTUC INCOME AT TAMPINES JUNCTION 529653",
-    "type": "Restaurant",
-    "number": "EERX21080012731",
-    "scheme": "Eating Establishment",
-    "id": "9d4cb9e6-2004-49c6-9aed-a8cf5e013a32",
-    "postal": "529653"
-  },
-  {
-    "name": "Captain Kim Korean BBQ & Hotpot",
     "address": "1 WOODLANDS ROAD #01-24 JUNCTION 10 677899",
     "type": "Restaurant",
     "number": "EERX21110013080",
     "scheme": "Eating Establishment",
     "id": "17afee8c-89a8-4752-b834-092827f2b4ae",
     "postal": "677899"
+  },
+  {
+    "name": "Captain Kim Korean BBQ & Hotpot",
+    "address": "300 TAMPINES AVENUE 5 #01-06, 01D NTUC INCOME AT TAMPINES JUNCTION 529653",
+    "type": "Restaurant",
+    "number": "EERX21080012731",
+    "scheme": "Eating Establishment",
+    "id": "9d4cb9e6-2004-49c6-9aed-a8cf5e013a32",
+    "postal": "529653"
   },
   {
     "name": "Carnival Bakery",
@@ -9550,21 +9604,21 @@
   },
   {
     "name": "Encik Tan",
-    "address": "1 Tampines Walk #01-12 Our Tampines Hub 528523",
-    "type": "Restaurant",
-    "number": "EERN22010013412",
-    "scheme": "Eating Establishment",
-    "id": "008ded89-78a7-4d68-8a1e-8fdc67f56423",
-    "postal": "528523"
-  },
-  {
-    "name": "Encik Tan",
     "address": "1 BUKIT BATOK CENTRAL LINK #01-01/36 WEST MALL 658713",
     "type": "Restaurant",
     "number": "EERN22010013409",
     "scheme": "Eating Establishment",
     "id": "008ded89-78a7-4d68-8a1e-8fdc67f56423",
     "postal": "658713"
+  },
+  {
+    "name": "Encik Tan",
+    "address": "1 Tampines Walk #01-12 Our Tampines Hub 528523",
+    "type": "Restaurant",
+    "number": "EERN22010013412",
+    "scheme": "Eating Establishment",
+    "id": "008ded89-78a7-4d68-8a1e-8fdc67f56423",
+    "postal": "528523"
   },
   {
     "name": "Encik Tan",
@@ -34036,15 +34090,6 @@
     "scheme": "Eating Establishment",
     "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
     "postal": "428802"
-  },
-  {
-    "name": "Tim Hortons",
-    "address": "17 WOODLANDS DRIVE 17 #01-03 WOODLANDS HEALTH CAMPUS 737628",
-    "type": "Restaurant",
-    "number": "EERT26020000012",
-    "scheme": "Eating Establishment",
-    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-    "postal": "737628"
   },
   {
     "name": "Tim Hortons",
