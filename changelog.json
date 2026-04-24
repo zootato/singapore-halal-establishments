@@ -1,5 +1,56 @@
 [
   {
+    "timestamp": "2026-04-24T22:28:33.654273",
+    "date": "2026-04-24",
+    "summary": {
+      "new": 4,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Staff Cafeteria @ Pfizer Asia Mnfg (Mngd by The Wok People)",
+          "address": "31 TUAS SOUTH AVENUE 6 1ST STOREY 637578",
+          "type": "Staff Canteen",
+          "number": "EESC20230001079",
+          "scheme": "Eating Establishment",
+          "id": "77a2b0dd-9a0c-4df0-9eee-120d54041cc9",
+          "postal": "637578"
+        },
+        {
+          "name": "BUTTER PEOPLE GROUP PTE LTD",
+          "address": "9 CHIN BEE DRIVE #04-05 INNOVATE 360 619860",
+          "type": "Central Kitchen",
+          "number": "FPCK26040000035",
+          "scheme": "Food Preparation Area",
+          "id": "2e353b03-fe60-4380-9709-9777a0989aaa",
+          "postal": "619860"
+        },
+        {
+          "name": "OLD CHANG KEE",
+          "address": "33 SENGKANG WEST AVENUE #B1-K20 THE SELETAR MALL 797653",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26040000010",
+          "scheme": "Eating Establishment",
+          "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
+          "postal": "797653"
+        },
+        {
+          "name": "Staff Canteen Stall @ Pfizer Asia Mnfg (Mngd by The Wok People)",
+          "address": "31 TUAS SOUTH AVENUE 6 1ST STOREY 637578",
+          "type": "Staff Canteen",
+          "number": "EEFX22020012569",
+          "scheme": "Eating Establishment",
+          "id": "c6b4fe0e-b854-464d-a65e-2f43fb249e4e",
+          "postal": "637578"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-04-23T22:28:43.018123",
     "date": "2026-04-23",
     "summary": {
@@ -7611,30 +7662,6 @@
           "postal": "768019"
         }
       ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-02-22T22:17:12.874494",
-    "date": "2026-02-22",
-    "summary": {
-      "new": 1,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "786 Banana Leaf",
-          "address": "306A WOODLANDS STREET 31 Stall MR3 @ Mr Teh Tarik Eating House #01-01 FUCHUN NEIGHBOURHOOD CENTRE 731306",
-          "type": "Hawker",
-          "number": "EEHK26020000085",
-          "scheme": "Eating Establishment",
-          "id": "08793a12-d4b2-4e71-a113-9c43a52433e0",
-          "postal": "731306"
-        }
-      ],
-      "removed": [],
       "updated": []
     }
   }

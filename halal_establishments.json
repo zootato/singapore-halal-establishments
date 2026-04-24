@@ -4860,6 +4860,15 @@
     "postal": "308433"
   },
   {
+    "name": "BUTTER PEOPLE GROUP PTE LTD",
+    "address": "9 CHIN BEE DRIVE #04-05 INNOVATE 360 619860",
+    "type": "Central Kitchen",
+    "number": "FPCK26040000035",
+    "scheme": "Food Preparation Area",
+    "id": "2e353b03-fe60-4380-9709-9777a0989aaa",
+    "postal": "619860"
+  },
+  {
     "name": "Butter Studio",
     "address": "147 JALAN BESAR 208865",
     "type": "Restaurant",
@@ -21997,6 +22006,15 @@
   },
   {
     "name": "OLD CHANG KEE",
+    "address": "33 SENGKANG WEST AVENUE #B1-K20 THE SELETAR MALL 797653",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26040000010",
+    "scheme": "Eating Establishment",
+    "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
+    "postal": "797653"
+  },
+  {
+    "name": "OLD CHANG KEE",
     "address": "10 AIRPORT BOULEVARD #02-81 CHANGI AIRPORT TERMINAL 4 Departure/ Transit Lounge North Level 2 819665",
     "type": "Snack Bar / Bakery",
     "number": "EESB20230000310",
@@ -28584,6 +28602,15 @@
     "postal": "486056"
   },
   {
+    "name": "Staff Cafeteria @ Pfizer Asia Mnfg (Mngd by The Wok People)",
+    "address": "31 TUAS SOUTH AVENUE 6 1ST STOREY 637578",
+    "type": "Staff Canteen",
+    "number": "EESC20230001079",
+    "scheme": "Eating Establishment",
+    "id": "77a2b0dd-9a0c-4df0-9eee-120d54041cc9",
+    "postal": "637578"
+  },
+  {
     "name": "Staff Cafeteria @ Wyeth Nutritionals (S) Pte Ltd (Managed By The Wok People)",
     "address": "1 TUAS SOUTH AVENUE 4 TUAS BIOMEDICAL PARK I 637609",
     "type": "Staff Canteen",
@@ -28735,6 +28762,15 @@
     "scheme": "Eating Establishment",
     "id": "ce9c9714-ee0c-46fc-a05b-bd64549cbf2c",
     "postal": "619625"
+  },
+  {
+    "name": "Staff Canteen Stall @ Pfizer Asia Mnfg (Mngd by The Wok People)",
+    "address": "31 TUAS SOUTH AVENUE 6 1ST STOREY 637578",
+    "type": "Staff Canteen",
+    "number": "EEFX22020012569",
+    "scheme": "Eating Establishment",
+    "id": "c6b4fe0e-b854-464d-a65e-2f43fb249e4e",
+    "postal": "637578"
   },
   {
     "name": "Staff Canteen Stall @ PPHG Beach Road (Mngd by The Wok People)",
