@@ -1,5 +1,56 @@
 [
   {
+    "timestamp": "2026-04-25T22:23:00.218857",
+    "date": "2026-04-25",
+    "summary": {
+      "new": 4,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "CASUARINA CURRY",
+          "address": "187 MACPHERSON ROAD SENNETT ESTATE 348545",
+          "type": "Restaurant",
+          "number": "EERN22010013383",
+          "scheme": "Eating Establishment",
+          "id": "975cae12-ee4f-4f69-bb3d-0801c6f0ae79",
+          "postal": "348545"
+        },
+        {
+          "name": "Casuarina Curry / Best Food Caterer",
+          "address": "187 MACPHERSON ROAD SENNETT ESTATE 348545",
+          "type": "Catering Company",
+          "number": "FPGN22010001640",
+          "scheme": "Food Preparation Area",
+          "id": "4fe542f3-df66-476c-b978-1bb05b27a709",
+          "postal": "348545"
+        },
+        {
+          "name": "CASUARINA CURRY",
+          "address": "138 CASUARINA ROAD SEMBAWANG HILLS ESTATE 579526",
+          "type": "Restaurant",
+          "number": "EERN22010013382",
+          "scheme": "Eating Establishment",
+          "id": "975cae12-ee4f-4f69-bb3d-0801c6f0ae79",
+          "postal": "579526"
+        },
+        {
+          "name": "CASUARINA CURRY",
+          "address": "138 CASUARINA ROAD SEMBAWANG HILLS ESTATE 579526",
+          "type": "Catering Company",
+          "number": "FPGN22010001639",
+          "scheme": "Food Preparation Area",
+          "id": "975cae12-ee4f-4f69-bb3d-0801c6f0ae79",
+          "postal": "579526"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-04-24T22:28:33.654273",
     "date": "2026-04-24",
     "summary": {
@@ -7529,139 +7580,6 @@
         }
       ],
       "removed": [],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-02-23T22:29:51.078442",
-    "date": "2026-02-23",
-    "summary": {
-      "new": 12,
-      "removed": 1,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "THE ORIGINAL VADAI",
-          "address": "Pelita Raya Bazaar, 20 TAMPINES CENTRAL 1 TAMPINES MRT STATION (EW2), F33 529538",
-          "type": "Short Term Stall(Bazaar/Road Shows)",
-          "number": "EEST26020000106",
-          "scheme": "Eating Establishment",
-          "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
-          "postal": "529538"
-        },
-        {
-          "name": "Soldier Chicken",
-          "address": "623 ELIAS ROAD STALL 1 #01-02 Coffee United Elias Mall 510623",
-          "type": "Hawker",
-          "number": "EEHK26020000083",
-          "scheme": "Eating Establishment",
-          "id": "405105ab-965c-4bf6-8223-295fecba43e8",
-          "postal": "510623"
-        },
-        {
-          "name": "THE ORIGINAL VADAI",
-          "address": "Bazaar Raya Geylang Serai, 1 ENGKU AMAN TURN WISMA GEYLANG SERAI, 7 408528",
-          "type": "Short Term Stall(Bazaar/Road Shows)",
-          "number": "EEST26020000109",
-          "scheme": "Eating Establishment",
-          "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
-          "postal": "408528"
-        },
-        {
-          "name": "THE ORIGINAL VADAI",
-          "address": "Woodlands MRT Ramadan Bazaar, 1 WOODLANDS SQUARE CAUSEWAY POINT, 22 738099",
-          "type": "Short Term Stall(Bazaar/Road Shows)",
-          "number": "EEST26020000113",
-          "scheme": "Eating Establishment",
-          "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
-          "postal": "738099"
-        },
-        {
-          "name": "THE ORIGINAL VADAI",
-          "address": "Pasir Ris Ramadan Bazaar, 415 PASIR RIS DRIVE 6, 12 510415",
-          "type": "Short Term Stall(Bazaar/Road Shows)",
-          "number": "EEST26020000114",
-          "scheme": "Eating Establishment",
-          "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
-          "postal": "510415"
-        },
-        {
-          "name": "THE ORIGINAL VADAI",
-          "address": "Jurong Central Ramadan Bazaar, 496 JURONG WEST STREET 41, 27 640496",
-          "type": "Short Term Stall(Bazaar/Road Shows)",
-          "number": "EEST26020000108",
-          "scheme": "Eating Establishment",
-          "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
-          "postal": "640496"
-        },
-        {
-          "name": "THE ORIGINAL VADAI",
-          "address": "Kampong Gelam Ramadan Bazaar, 3 MUSCAT STREET MASJID SULTAN, K32 198833",
-          "type": "Short Term Stall(Bazaar/Road Shows)",
-          "number": "EEST26020000107",
-          "scheme": "Eating Establishment",
-          "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
-          "postal": "198833"
-        },
-        {
-          "name": "Cinta Hainanese Chicken Rice",
-          "address": "1 ANCHORVALE STREET #01-21 SENGKANG COMMUNITY HOSPITAL 544835",
-          "type": "Restaurant",
-          "number": "EERT26020000066",
-          "scheme": "Eating Establishment",
-          "id": "4f8511ab-2f47-49ce-8fba-6cfcbcb7ae04",
-          "postal": "544835"
-        },
-        {
-          "name": "CHILLI API CATERING PTE. LTD.",
-          "address": "3015 BEDOK NORTH STREET 5 #05-27 SHIMEI EAST KITCHEN 486350",
-          "type": "Catering Company",
-          "number": "FPCA26020000077",
-          "scheme": "Food Preparation Area",
-          "id": "20a47308-6f44-4fe1-8812-df6ec64b9bdb",
-          "postal": "486350"
-        },
-        {
-          "name": "THE ORIGINAL VADAI",
-          "address": "Admiralty Ramadan Bazaar, 683B WOODLANDS DRIVE 62, 28 732683",
-          "type": "Short Term Stall(Bazaar/Road Shows)",
-          "number": "EEST26020000112",
-          "scheme": "Eating Establishment",
-          "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
-          "postal": "732683"
-        },
-        {
-          "name": "THE ORIGINAL VADAI",
-          "address": "Bukit Gombak Ramadan Bazaar, 374 BUKIT BATOK STREET 31, 55 650374",
-          "type": "Short Term Stall(Bazaar/Road Shows)",
-          "number": "EEST26020000115",
-          "scheme": "Eating Establishment",
-          "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
-          "postal": "650374"
-        },
-        {
-          "name": "THE ORIGINAL VADAI",
-          "address": "Bazaar Raya Geylang Serai, 1 GEYLANG SERAI SRI GEYLANG SERAI, 37, 38 402001",
-          "type": "Short Term Stall(Bazaar/Road Shows)",
-          "number": "EEST26020000110",
-          "scheme": "Eating Establishment",
-          "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
-          "postal": "402001"
-        }
-      ],
-      "removed": [
-        {
-          "name": "PEZZO",
-          "address": "1 NORTHPOINT DRIVE #B2-152 NORTHPOINT CITY 768019",
-          "type": "Snack Bar / Bakery",
-          "number": "EEBX22010013066",
-          "scheme": "Eating Establishment",
-          "id": "49b74e8e-3054-4cf6-ac23-1aa44135302b",
-          "postal": "768019"
-        }
-      ],
       "updated": []
     }
   }

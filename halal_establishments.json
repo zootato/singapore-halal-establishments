@@ -5409,6 +5409,42 @@
     "postal": "619898"
   },
   {
+    "name": "CASUARINA CURRY",
+    "address": "138 CASUARINA ROAD SEMBAWANG HILLS ESTATE 579526",
+    "type": "Restaurant",
+    "number": "EERN22010013382",
+    "scheme": "Eating Establishment",
+    "id": "975cae12-ee4f-4f69-bb3d-0801c6f0ae79",
+    "postal": "579526"
+  },
+  {
+    "name": "CASUARINA CURRY",
+    "address": "187 MACPHERSON ROAD SENNETT ESTATE 348545",
+    "type": "Restaurant",
+    "number": "EERN22010013383",
+    "scheme": "Eating Establishment",
+    "id": "975cae12-ee4f-4f69-bb3d-0801c6f0ae79",
+    "postal": "348545"
+  },
+  {
+    "name": "CASUARINA CURRY",
+    "address": "138 CASUARINA ROAD SEMBAWANG HILLS ESTATE 579526",
+    "type": "Catering Company",
+    "number": "FPGN22010001639",
+    "scheme": "Food Preparation Area",
+    "id": "975cae12-ee4f-4f69-bb3d-0801c6f0ae79",
+    "postal": "579526"
+  },
+  {
+    "name": "Casuarina Curry / Best Food Caterer",
+    "address": "187 MACPHERSON ROAD SENNETT ESTATE 348545",
+    "type": "Catering Company",
+    "number": "FPGN22010001640",
+    "scheme": "Food Preparation Area",
+    "id": "4fe542f3-df66-476c-b978-1bb05b27a709",
+    "postal": "348545"
+  },
+  {
     "name": "CAT & THE FIDDLE",
     "address": "60 PUNGGOL EAST #01-09 828825",
     "type": "Restaurant",
@@ -8299,33 +8335,6 @@
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
-    "address": "918 EAST COAST ROAD 918 459111",
-    "type": "Restaurant",
-    "number": "EERN21060012529",
-    "scheme": "Eating Establishment",
-    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
-    "postal": "459111"
-  },
-  {
-    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
-    "address": "202 Jurong East Street 21 #01-115 600202",
-    "type": "Restaurant",
-    "number": "EERN21060012530",
-    "scheme": "Eating Establishment",
-    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
-    "postal": "600202"
-  },
-  {
-    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
-    "address": "625 ELIAS ROAD #01-312 ELIAS MALL 510625",
-    "type": "Restaurant",
-    "number": "EERN21060012540",
-    "scheme": "Eating Establishment",
-    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
-    "postal": "510625"
-  },
-  {
-    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
     "address": "1 HILLVIEW RISE #01-03 667970",
     "type": "Restaurant",
     "number": "EERN21060012528",
@@ -8425,6 +8434,15 @@
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+    "address": "202 Jurong East Street 21 #01-115 600202",
+    "type": "Restaurant",
+    "number": "EERN21060012530",
+    "scheme": "Eating Establishment",
+    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+    "postal": "600202"
+  },
+  {
+    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
     "address": "6 JURONG WEST AVENUE 1 #01-03 JURONG GREEN COMMUNITY CLUB 649520",
     "type": "Restaurant",
     "number": "EERN21060012537",
@@ -8497,6 +8515,15 @@
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+    "address": "918 EAST COAST ROAD 918 459111",
+    "type": "Restaurant",
+    "number": "EERN21060012529",
+    "scheme": "Eating Establishment",
+    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+    "postal": "459111"
+  },
+  {
+    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
     "address": "169 UPPER PAYA LEBAR ROAD 534860",
     "type": "Restaurant",
     "number": "EERN21060012533",
@@ -8530,6 +8557,15 @@
     "scheme": "Eating Establishment",
     "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
     "postal": "520462"
+  },
+  {
+    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+    "address": "625 ELIAS ROAD #01-312 ELIAS MALL 510625",
+    "type": "Restaurant",
+    "number": "EERN21060012540",
+    "scheme": "Eating Establishment",
+    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+    "postal": "510625"
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
@@ -32689,24 +32725,6 @@
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "11 RESEARCH LINK #01-02,National University Singapore (NUS) COM 3 119391",
-    "type": "Restaurant",
-    "number": "EERT20220001074",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "119391"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "211 HENDERSON ROAD #06-01/02/04 211 HENDERSON 159552",
-    "type": "Central Kitchen",
-    "number": "FPCN21120001631",
-    "scheme": "Food Preparation Area",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "159552"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
     "address": "10 ANSON ROAD #01-32 INTERNATIONAL PLAZA 079903",
     "type": "Restaurant",
     "number": "EERN21120013265",
@@ -33175,6 +33193,15 @@
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
+    "address": "11 RESEARCH LINK #01-02,National University Singapore (NUS) COM 3 119391",
+    "type": "Restaurant",
+    "number": "EERT20220001074",
+    "scheme": "Eating Establishment",
+    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+    "postal": "119391"
+  },
+  {
+    "name": "THE COFFEE BEAN & TEA LEAF",
     "address": "3 TEMASEK BOULEVARD #01-341/342 SUNTEC CITY MALL 038983",
     "type": "Restaurant",
     "number": "EERT20230000127",
@@ -33370,6 +33397,15 @@
     "scheme": "Eating Establishment",
     "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
     "postal": "229899"
+  },
+  {
+    "name": "THE COFFEE BEAN & TEA LEAF",
+    "address": "211 HENDERSON ROAD #06-01/02/04 211 HENDERSON 159552",
+    "type": "Central Kitchen",
+    "number": "FPCN21120001631",
+    "scheme": "Food Preparation Area",
+    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+    "postal": "159552"
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF BEANSTRO",
