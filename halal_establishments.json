@@ -415,6 +415,24 @@
   },
   {
     "name": "4FINGERS CRISPY CHICKEN",
+    "address": "4 BUKIT BATOK STREET 41 #01-14/15 LE QUEST 657991",
+    "type": "Restaurant",
+    "number": "EERT26040000039",
+    "scheme": "Eating Establishment",
+    "id": "90b83324-363a-4406-9afa-08b19b67522d",
+    "postal": "657991"
+  },
+  {
+    "name": "4FINGERS CRISPY CHICKEN",
+    "address": "23 SERANGOON CENTRAL #B2-50/51 NEX 556083",
+    "type": "Restaurant",
+    "number": "EERT26040000040",
+    "scheme": "Eating Establishment",
+    "id": "90b83324-363a-4406-9afa-08b19b67522d",
+    "postal": "556083"
+  },
+  {
+    "name": "4FINGERS CRISPY CHICKEN",
     "address": "65 AIRPORT BOULEVARD #B2-02 CHANGI AIRPORT TERMINAL 3 819663",
     "type": "Restaurant",
     "number": "EERX21070012609",
@@ -4501,24 +4519,6 @@
   },
   {
     "name": "BURGER KING",
-    "address": "28 CHOA CHU KANG DRIVE #01-01 SAFRA 689964",
-    "type": "Restaurant",
-    "number": "EERT20230000841",
-    "scheme": "Eating Establishment",
-    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
-    "postal": "689964"
-  },
-  {
-    "name": "BURGER KING",
-    "address": "1 JOO KOON CIRCLE #01-49/50 FAIRPRICE HUB 629117",
-    "type": "Restaurant",
-    "number": "EERT20240001191",
-    "scheme": "Eating Establishment",
-    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
-    "postal": "629117"
-  },
-  {
-    "name": "BURGER KING",
     "address": "1 JELEBU ROAD #01-28/29 BUKIT PANJANG PLAZA 677743",
     "type": "Restaurant",
     "number": "EERN20030011313",
@@ -4534,6 +4534,15 @@
     "scheme": "Eating Establishment",
     "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
     "postal": "437157"
+  },
+  {
+    "name": "BURGER KING",
+    "address": "1 JOO KOON CIRCLE #01-49/50 FAIRPRICE HUB 629117",
+    "type": "Restaurant",
+    "number": "EERT20240001191",
+    "scheme": "Eating Establishment",
+    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+    "postal": "629117"
   },
   {
     "name": "BURGER KING",
@@ -4840,6 +4849,15 @@
     "scheme": "Eating Establishment",
     "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
     "postal": "049407"
+  },
+  {
+    "name": "BURGER KING",
+    "address": "28 CHOA CHU KANG DRIVE #01-01 SAFRA 689964",
+    "type": "Restaurant",
+    "number": "EERT20230000841",
+    "scheme": "Eating Establishment",
+    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+    "postal": "689964"
   },
   {
     "name": "Butcher Kitchen @ Hotel Jen Singapore Tanglin by Shangri-La",
@@ -5338,15 +5356,6 @@
   },
   {
     "name": "Captain Kim Korean BBQ & Hotpot",
-    "address": "3151 COMMONWEALTH AVENUE WEST #02-05/06/07 GRANTRAL MALL @ CLEMENTI 129581",
-    "type": "Restaurant",
-    "number": "EERT20230000092",
-    "scheme": "Eating Establishment",
-    "id": "17afee8c-89a8-4752-b834-092827f2b4ae",
-    "postal": "129581"
-  },
-  {
-    "name": "Captain Kim Korean BBQ & Hotpot",
     "address": "1 WOODLANDS ROAD #01-24 JUNCTION 10 677899",
     "type": "Restaurant",
     "number": "EERX21110013080",
@@ -5362,6 +5371,15 @@
     "scheme": "Eating Establishment",
     "id": "9d4cb9e6-2004-49c6-9aed-a8cf5e013a32",
     "postal": "529653"
+  },
+  {
+    "name": "Captain Kim Korean BBQ & Hotpot",
+    "address": "3151 COMMONWEALTH AVENUE WEST #02-05/06/07 GRANTRAL MALL @ CLEMENTI 129581",
+    "type": "Restaurant",
+    "number": "EERT20230000092",
+    "scheme": "Eating Establishment",
+    "id": "17afee8c-89a8-4752-b834-092827f2b4ae",
+    "postal": "129581"
   },
   {
     "name": "Carnival Bakery",
@@ -13924,7 +13942,7 @@
   },
   {
     "name": "Japanese Food (S6) @ Kopitiam NUH Main Building",
-    "address": "5 LOWER KENT RIDGE ROAD #01-01 NUH MAIN BUILDING LOBBY,Stall 6 119074",
+    "address": "5 LOWER KENT RIDGE ROAD #01-01 NUH MAIN BUILDING LOBBY, Stall 6 119074",
     "type": "Hawker",
     "number": "EEH20220000034",
     "scheme": "Eating Establishment",
@@ -14443,6 +14461,15 @@
     "scheme": "Eating Establishment",
     "id": "aa43199e-00e8-4ad3-95bb-6d718ea27b2a",
     "postal": "467360"
+  },
+  {
+    "name": "Just BrewIN",
+    "address": "452 RACE COURSE ROAD #01 RACE COURSE ROAD 218696",
+    "type": "Restaurant",
+    "number": "EERT26040000037",
+    "scheme": "Eating Establishment",
+    "id": "b1f036a2-8e23-4ad2-8f90-b1be94ee26f2",
+    "postal": "218696"
   },
   {
     "name": "JUST BREWIN",
@@ -15757,6 +15784,15 @@
     "scheme": "Eating Establishment",
     "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
     "postal": "768897"
+  },
+  {
+    "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
+    "address": "1 LENTOR CENTRAL #01-21/22 LENTOR MODERN 788887",
+    "type": "Restaurant",
+    "number": "EERT26040000017",
+    "scheme": "Eating Establishment",
+    "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
+    "postal": "788887"
   },
   {
     "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
@@ -17676,6 +17712,15 @@
     "postal": "538692"
   },
   {
+    "name": "Mala (S5) @ Koufu Republic Polytechnic",
+    "address": "31 WOODLANDS AVENUE 9 REPUBLIC POLYTECHNIC, Stall 5 737907",
+    "type": "Hawker",
+    "number": "EEHK20250000275",
+    "scheme": "Eating Establishment",
+    "id": "440c2a2b-1e32-4f7e-8f67-70980221751a",
+    "postal": "737907"
+  },
+  {
     "name": "Mala Hotpot (S5) @ My Kampung Kallang Wave Mall",
     "address": "1 STADIUM PLACE #02-16/k6, stall 5 397628",
     "type": "Hawker",
@@ -18619,15 +18664,6 @@
     "scheme": "Eating Establishment",
     "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
     "postal": "099253"
-  },
-  {
-    "name": "McDonald's",
-    "address": "4 BUKIT BATOK STREET 41 #01-42-45/50-54 LE QUEST 657991",
-    "type": "Restaurant",
-    "number": "EERN21010011971",
-    "scheme": "Eating Establishment",
-    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-    "postal": "657991"
   },
   {
     "name": "McDonald's",
@@ -24490,15 +24526,6 @@
   },
   {
     "name": "Poke Theory",
-    "address": "68 PHOENIX ROAD #01-21 TEBAN PLACE 668202",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20220000150",
-    "scheme": "Eating Establishment",
-    "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
-    "postal": "668202"
-  },
-  {
-    "name": "Poke Theory",
     "address": "30 RAFFLES PLACE #01-18 CHANGE ALLEY MALL 048622",
     "type": "Restaurant",
     "number": "EERN21020012157",
@@ -24550,6 +24577,15 @@
     "scheme": "Eating Establishment",
     "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
     "postal": "189356"
+  },
+  {
+    "name": "Poke Theory",
+    "address": "68 PHOENIX ROAD #01-21 TEBAN PLACE 668202",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20220000150",
+    "scheme": "Eating Establishment",
+    "id": "6150b633-6c02-4bba-bccc-6977ce9f2f3c",
+    "postal": "668202"
   },
   {
     "name": "POLAR CAFE",
@@ -28927,7 +28963,7 @@
   },
   {
     "name": "Staff Canteen Stall@Micron F10W (Mngd by The Wok People)",
-    "address": "1 WOODLANDS IND PARK D STREET 1 #02-00 MICRON SEMICONDUCTOR ASI 738799",
+    "address": "1 WOODLANDS IND PARK D STREET 1 #05-00 MICRON SEMICONDUCTOR ASI 738799",
     "type": "Staff Canteen",
     "number": "EEFN22010012563",
     "scheme": "Eating Establishment",
@@ -29230,15 +29266,6 @@
     "scheme": "Eating Establishment",
     "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
     "postal": "467360"
-  },
-  {
-    "name": "STUFF'D",
-    "address": "1 WOODLANDS SQUARE #B1-K17 CAUSEWAY POINT 738099",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN21110012929",
-    "scheme": "Eating Establishment",
-    "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
-    "postal": "738099"
   },
   {
     "name": "STUFF'D",
@@ -32698,33 +32725,6 @@
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "21 CHOA CHU KANG AVENUE 4 #01-01 LOT ONE, SHOPPERS' MALL 689812",
-    "type": "Restaurant",
-    "number": "EERN21120013251",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "689812"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "5 LOWER KENT RIDGE ROAD #01-10 NATIONAL UNIVERSITY HOSPITAL MAIN BLDG (LOBBY) 119074",
-    "type": "Restaurant",
-    "number": "EERN21120013270",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "119074"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "211 HENDERSON ROAD #01-03 211 HENDERSON 159552",
-    "type": "Restaurant",
-    "number": "EERT20220000228",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "159552"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
     "address": "10 ANSON ROAD #01-32 INTERNATIONAL PLAZA 079903",
     "type": "Restaurant",
     "number": "EERN21120013265",
@@ -32905,6 +32905,15 @@
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
+    "address": "21 CHOA CHU KANG AVENUE 4 #01-01 LOT ONE, SHOPPERS' MALL 689812",
+    "type": "Restaurant",
+    "number": "EERN21120013251",
+    "scheme": "Eating Establishment",
+    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+    "postal": "689812"
+  },
+  {
+    "name": "THE COFFEE BEAN & TEA LEAF",
     "address": "11 TAMPINES STREET 32 #01-05 TAMPINES MART 529287",
     "type": "Restaurant",
     "number": "EERN21120013252",
@@ -33010,6 +33019,15 @@
     "scheme": "Eating Establishment",
     "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
     "postal": "486038"
+  },
+  {
+    "name": "THE COFFEE BEAN & TEA LEAF",
+    "address": "5 LOWER KENT RIDGE ROAD #01-10 NATIONAL UNIVERSITY HOSPITAL MAIN BLDG (LOBBY) 119074",
+    "type": "Restaurant",
+    "number": "EERN21120013270",
+    "scheme": "Eating Establishment",
+    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+    "postal": "119074"
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
@@ -33154,6 +33172,15 @@
     "scheme": "Eating Establishment",
     "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
     "postal": "545078"
+  },
+  {
+    "name": "THE COFFEE BEAN & TEA LEAF",
+    "address": "211 HENDERSON ROAD #01-03 211 HENDERSON 159552",
+    "type": "Restaurant",
+    "number": "EERT20220000228",
+    "scheme": "Eating Establishment",
+    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+    "postal": "159552"
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
@@ -35749,7 +35776,7 @@
   },
   {
     "name": "Western Cuisine (S6) @ Central Delights",
-    "address": "2 ANG MO KIO DRIVE #04-01 BLK C ITE COLLEGE CENTRAL (Stall 8) 567720",
+    "address": "2 ANG MO KIO DRIVE #04-01 BLK C ITE COLLEGE CENTRAL (Stall 6) 567720",
     "type": "Hawker",
     "number": "EEHN22010013078",
     "scheme": "Eating Establishment",

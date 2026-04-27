@@ -1,5 +1,145 @@
 [
   {
+    "timestamp": "2026-04-27T22:30:58.613656",
+    "date": "2026-04-27",
+    "summary": {
+      "new": 5,
+      "removed": 2,
+      "updated": 3
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
+          "address": "1 LENTOR CENTRAL #01-21/22 LENTOR MODERN 788887",
+          "type": "Restaurant",
+          "number": "EERT26040000017",
+          "scheme": "Eating Establishment",
+          "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
+          "postal": "788887"
+        },
+        {
+          "name": "4FINGERS CRISPY CHICKEN",
+          "address": "23 SERANGOON CENTRAL #B2-50/51 NEX 556083",
+          "type": "Restaurant",
+          "number": "EERT26040000040",
+          "scheme": "Eating Establishment",
+          "id": "90b83324-363a-4406-9afa-08b19b67522d",
+          "postal": "556083"
+        },
+        {
+          "name": "Just BrewIN",
+          "address": "452 RACE COURSE ROAD #01 RACE COURSE ROAD 218696",
+          "type": "Restaurant",
+          "number": "EERT26040000037",
+          "scheme": "Eating Establishment",
+          "id": "b1f036a2-8e23-4ad2-8f90-b1be94ee26f2",
+          "postal": "218696"
+        },
+        {
+          "name": "Mala (S5) @ Koufu Republic Polytechnic",
+          "address": "31 WOODLANDS AVENUE 9 REPUBLIC POLYTECHNIC, Stall 5 737907",
+          "type": "Hawker",
+          "number": "EEHK20250000275",
+          "scheme": "Eating Establishment",
+          "id": "440c2a2b-1e32-4f7e-8f67-70980221751a",
+          "postal": "737907"
+        },
+        {
+          "name": "4FINGERS CRISPY CHICKEN",
+          "address": "4 BUKIT BATOK STREET 41 #01-14/15 LE QUEST 657991",
+          "type": "Restaurant",
+          "number": "EERT26040000039",
+          "scheme": "Eating Establishment",
+          "id": "90b83324-363a-4406-9afa-08b19b67522d",
+          "postal": "657991"
+        }
+      ],
+      "removed": [
+        {
+          "name": "STUFF'D",
+          "address": "1 WOODLANDS SQUARE #B1-K17 CAUSEWAY POINT 738099",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21110012929",
+          "scheme": "Eating Establishment",
+          "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
+          "postal": "738099"
+        },
+        {
+          "name": "McDonald's",
+          "address": "4 BUKIT BATOK STREET 41 #01-42-45/50-54 LE QUEST 657991",
+          "type": "Restaurant",
+          "number": "EERN21010011971",
+          "scheme": "Eating Establishment",
+          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+          "postal": "657991"
+        }
+      ],
+      "updated": [
+        {
+          "previous": {
+            "name": "Western Cuisine (S6) @ Central Delights",
+            "address": "2 ANG MO KIO DRIVE #04-01 BLK C ITE COLLEGE CENTRAL (Stall 8) 567720",
+            "type": "Hawker",
+            "number": "EEHN22010013078",
+            "scheme": "Eating Establishment",
+            "id": "117954d3-4e48-41e1-900f-76f3ec7bab78",
+            "postal": "567720"
+          },
+          "current": {
+            "name": "Western Cuisine (S6) @ Central Delights",
+            "address": "2 ANG MO KIO DRIVE #04-01 BLK C ITE COLLEGE CENTRAL (Stall 6) 567720",
+            "type": "Hawker",
+            "number": "EEHN22010013078",
+            "scheme": "Eating Establishment",
+            "id": "117954d3-4e48-41e1-900f-76f3ec7bab78",
+            "postal": "567720"
+          }
+        },
+        {
+          "previous": {
+            "name": "Staff Canteen Stall@Micron F10W (Mngd by The Wok People)",
+            "address": "1 WOODLANDS IND PARK D STREET 1 #02-00 MICRON SEMICONDUCTOR ASI 738799",
+            "type": "Staff Canteen",
+            "number": "EEFN22010012563",
+            "scheme": "Eating Establishment",
+            "id": "3887b65c-7441-494b-bb98-4bd753b15db9",
+            "postal": "738799"
+          },
+          "current": {
+            "name": "Staff Canteen Stall@Micron F10W (Mngd by The Wok People)",
+            "address": "1 WOODLANDS IND PARK D STREET 1 #05-00 MICRON SEMICONDUCTOR ASI 738799",
+            "type": "Staff Canteen",
+            "number": "EEFN22010012563",
+            "scheme": "Eating Establishment",
+            "id": "3887b65c-7441-494b-bb98-4bd753b15db9",
+            "postal": "738799"
+          }
+        },
+        {
+          "previous": {
+            "name": "Japanese Food (S6) @ Kopitiam NUH Main Building",
+            "address": "5 LOWER KENT RIDGE ROAD #01-01 NUH MAIN BUILDING LOBBY,Stall 6 119074",
+            "type": "Hawker",
+            "number": "EEH20220000034",
+            "scheme": "Eating Establishment",
+            "id": "eb066172-ac43-4db5-b258-e45521f5c0c2",
+            "postal": "119074"
+          },
+          "current": {
+            "name": "Japanese Food (S6) @ Kopitiam NUH Main Building",
+            "address": "5 LOWER KENT RIDGE ROAD #01-01 NUH MAIN BUILDING LOBBY, Stall 6 119074",
+            "type": "Hawker",
+            "number": "EEH20220000034",
+            "scheme": "Eating Establishment",
+            "id": "eb066172-ac43-4db5-b258-e45521f5c0c2",
+            "postal": "119074"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-04-25T22:23:00.218857",
     "date": "2026-04-25",
     "summary": {
@@ -7539,48 +7679,6 @@
           }
         }
       ]
-    }
-  },
-  {
-    "timestamp": "2026-02-24T22:22:45.219392",
-    "date": "2026-02-24",
-    "summary": {
-      "new": 3,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Husk Nasi Lemak",
-          "address": "65 AIRPORT BOULEVARD Singapore Food Street, \"S7\" #03-11 CHANGI AIRPORT TERMINAL 3 BUILDING 819663",
-          "type": "Hawker",
-          "number": "EEHK20250000630",
-          "scheme": "Eating Establishment",
-          "id": "5692b15f-3f87-48bf-8792-65010b342b5a",
-          "postal": "819663"
-        },
-        {
-          "name": "Husk Nasi Lemak",
-          "address": "60 AIRPORT BOULEVARD #036-141 Changi Airport T2 - Departure Transit Lounge Centre Straits Food Village @ CHANGI AIRPORT TERMINAL 2 BUILDING, Stall 2 819643",
-          "type": "Hawker",
-          "number": "EEHK20250000629",
-          "scheme": "Eating Establishment",
-          "id": "5692b15f-3f87-48bf-8792-65010b342b5a",
-          "postal": "819643"
-        },
-        {
-          "name": "Chops & Sear",
-          "address": "21 HOUGANG STREET 51 (S7) @ De Tian 21 Hougang #01-51 HOUGANG GREEN SHOPPING MALL 538719",
-          "type": "Hawker",
-          "number": "EEHK26020000071",
-          "scheme": "Eating Establishment",
-          "id": "ad27eda0-2724-4574-92b5-b234959d8d90",
-          "postal": "538719"
-        }
-      ],
-      "removed": [],
-      "updated": []
     }
   }
 ]
