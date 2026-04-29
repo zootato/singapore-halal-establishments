@@ -4879,7 +4879,7 @@
   },
   {
     "name": "Butcher Kitchen @ Hotel Jen Singapore Tanglin by Shangri-La",
-    "address": "1A CUSCADEN ROAD #02 JEN SINGAPORE TANGLIN BY SHANGRI-LA 249716",
+    "address": "1A CUSCADEN ROAD BUTCHER KITCHEN JEN SINGAPORE TANGLIN BY SHANGRI-LA, LEVEL 2 249716",
     "type": "Central Kitchen",
     "number": "FPCK20250000322",
     "scheme": "Food Preparation Area",
@@ -6769,7 +6769,7 @@
   },
   {
     "name": "Cold Kitchen @ Hotel Jen Singapore Tanglin By Shangri-La",
-    "address": "1A CUSCADEN ROAD #02 JEN SINGAPORE TANGLIN BY SHANGRI-LA, COLD KITCHEN 249716",
+    "address": "1A CUSCADEN ROAD COLD KITCHEN JEN SINGAPORE TANGLIN BY SHANGRI-LA, LEVEL 2 249716",
     "type": "Central Kitchen",
     "number": "FPCN21020001488",
     "scheme": "Food Preparation Area",
@@ -13690,7 +13690,7 @@
   },
   {
     "name": "Indian Kitchen @ Hotel Jen Singapore Tanglin By Shangri-La",
-    "address": "1A CUSCADEN ROAD #02 JEN SINGAPORE TANGLIN BY SHANGRI-LA, INDIAN KITCHEN 249716",
+    "address": "1A CUSCADEN ROAD INDIAN KITCHEN JEN SINGAPORE TANGLIN BY SHANGRI-LA, LEVEL 2 249716",
     "type": "Central Kitchen",
     "number": "FPCN21020001490",
     "scheme": "Food Preparation Area",
@@ -17533,7 +17533,7 @@
   },
   {
     "name": "Main Kitchen @ Hotel Jen Singapore Tanglin By Shangri-La",
-    "address": "1A CUSCADEN ROAD #02 JEN SINGAPORE TANGLIN BY SHANGRI-LA, MAIN KITCHEN 249716",
+    "address": "1A CUSCADEN ROAD MAIN KITCHEN JEN SINGAPORE TANGLIN BY SHANGRI-LA, LEVEL 2 249716",
     "type": "Central Kitchen",
     "number": "FPCX21020001491",
     "scheme": "Food Preparation Area",
@@ -22959,6 +22959,33 @@
     "postal": "437795"
   },
   {
+    "name": "Overscoop",
+    "address": "181 ORCHARD ROAD #02-12 ORCHARD CENTRAL 238896",
+    "type": "Restaurant",
+    "number": "EERT26040000041",
+    "scheme": "Eating Establishment",
+    "id": "08342c7c-a358-486d-be78-01e9978c5287",
+    "postal": "238896"
+  },
+  {
+    "name": "Overscoop",
+    "address": "3A RIVER VALLEY ROAD #01-01 CQ @ CLARKE QUAY 179020",
+    "type": "Restaurant",
+    "number": "EERT26040000043",
+    "scheme": "Eating Establishment",
+    "id": "20346072-3cdd-4b23-8445-f7dc27c2b224",
+    "postal": "179020"
+  },
+  {
+    "name": "Overscoop",
+    "address": "55 TANJONG PAGAR ROAD TANJONG PAGAR CONSERVATION AREA, (1ST STOREY) 088476",
+    "type": "Restaurant",
+    "number": "EERT26040000042",
+    "scheme": "Eating Establishment",
+    "id": "7bbfe47d-a09c-4f45-a0cf-fe7a71799838",
+    "postal": "088476"
+  },
+  {
     "name": "Paad Paad Thai",
     "address": "2 JURONG EAST STREET 21 #01-#K07 IMM BUILDING 609601",
     "type": "Snack Bar / Bakery",
@@ -23626,7 +23653,7 @@
   },
   {
     "name": "Pastry Kitchen @ Hotel Jen Singapore Tanglin By Shangri-La",
-    "address": "1A CUSCADEN ROAD #02 JEN SINGAPORE TANGLIN BY SHANGRI-LA, PASTRY KITCHEN 249716",
+    "address": "1A CUSCADEN ROAD PASTRY KITCHEN JEN SINGAPORE TANGLIN BY SHANGRI-LA, LEVEL 2 249716",
     "type": "Central Kitchen",
     "number": "FPCN21020001489",
     "scheme": "Food Preparation Area",
@@ -24066,7 +24093,7 @@
     "postal": "229495"
   },
   {
-    "name": "PITA BAKERY PTE LTD",
+    "name": "PITA BAKERY",
     "address": "29 Bali Lane #1st & 2nd Storey 189865",
     "type": "Restaurant",
     "number": "EERN22020013526",
@@ -28773,6 +28800,15 @@
     "postal": "555952"
   },
   {
+    "name": "Srisun Express",
+    "address": "SINGAPORE HERITAGE FEST 2026, 1 EMPRESS PLACE ASIAN CIVILISATIONS MUSEUM, 5 179555",
+    "type": "Short Term Stall(Bazaar/Road Shows)",
+    "number": "EEST26040000072",
+    "scheme": "Eating Establishment",
+    "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
+    "postal": "179555"
+  },
+  {
     "name": "Srisun Prata.com",
     "address": "651 JURONG WEST STREET 61 #01-02, Stall 9 640651",
     "type": "Hawker",
@@ -29188,6 +29224,24 @@
   },
   {
     "name": "Steak 99",
+    "address": "21 CHOA CHU KANG AVENUE 4 #B1-12, #B1-12/13 LOT ONE, SHOPPERS' MALL 689812",
+    "type": "Restaurant",
+    "number": "EERT26040000051",
+    "scheme": "Eating Establishment",
+    "id": "825193a3-1a1e-4d2b-abb6-b7fd6ee11dce",
+    "postal": "689812"
+  },
+  {
+    "name": "Steak 99",
+    "address": "10 PAYA LEBAR ROAD #B2-17 PAYA LEBAR QUARTER 409057",
+    "type": "Restaurant",
+    "number": "EERT26040000050",
+    "scheme": "Eating Establishment",
+    "id": "825193a3-1a1e-4d2b-abb6-b7fd6ee11dce",
+    "postal": "409057"
+  },
+  {
+    "name": "Steak 99",
     "address": "23 SERANGOON CENTRAL #03-06 NEX 556083",
     "type": "Restaurant",
     "number": "EERT26010000084",
@@ -29212,6 +29266,24 @@
     "scheme": "Eating Establishment",
     "id": "825193a3-1a1e-4d2b-abb6-b7fd6ee11dce",
     "postal": "238839"
+  },
+  {
+    "name": "Steak 99",
+    "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #01-48 CHANGI CITY POINT 486038",
+    "type": "Restaurant",
+    "number": "EERT26040000049",
+    "scheme": "Eating Establishment",
+    "id": "825193a3-1a1e-4d2b-abb6-b7fd6ee11dce",
+    "postal": "486038"
+  },
+  {
+    "name": "Steak 99",
+    "address": "302 TIONG BAHRU ROAD #02-109, #02-110 TIONG BAHRU PLAZA 168732",
+    "type": "Restaurant",
+    "number": "EERT26040000052",
+    "scheme": "Eating Establishment",
+    "id": "825193a3-1a1e-4d2b-abb6-b7fd6ee11dce",
+    "postal": "168732"
   },
   {
     "name": "Steam Fish YB Pontian Village",
@@ -32383,15 +32455,6 @@
   },
   {
     "name": "Tenderbest",
-    "address": "888 WOODLANDS DRIVE 50 #01-733 888 PLAZA, Stall 9 730888",
-    "type": "Hawker",
-    "number": "EEHN21060012452",
-    "scheme": "Eating Establishment",
-    "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
-    "postal": "730888"
-  },
-  {
-    "name": "Tenderbest",
     "address": "106 BIDADARI PARK DRIVE #01-05, MR02 340106",
     "type": "Hawker",
     "number": "EEHN21060012445",
@@ -34318,15 +34381,6 @@
   },
   {
     "name": "Tim Hortons",
-    "address": "80 MARINE PARADE ROAD #01-02 PARKWAY PARADE 449269",
-    "type": "Restaurant",
-    "number": "EERT26020000009",
-    "scheme": "Eating Establishment",
-    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-    "postal": "449269"
-  },
-  {
-    "name": "Tim Hortons",
     "address": "9 RAFFLES BOULEVARD #01-87 #01-86 MILLENIA WALK 039596",
     "type": "Restaurant",
     "number": "EERT26020000014",
@@ -34342,6 +34396,15 @@
     "scheme": "Eating Establishment",
     "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
     "postal": "238839"
+  },
+  {
+    "name": "Tim Hortons",
+    "address": "80 MARINE PARADE ROAD #01-02 PARKWAY PARADE 449269",
+    "type": "Restaurant",
+    "number": "EERT26020000009",
+    "scheme": "Eating Establishment",
+    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+    "postal": "449269"
   },
   {
     "name": "Tim Hortons",
@@ -36532,15 +36595,6 @@
   },
   {
     "name": "WOK HEY",
-    "address": "9 BISHAN PLACE #B1-11 JUNCTION 8 SHOPPING CENTRE 579837",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN20090011421",
-    "scheme": "Eating Establishment",
-    "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
-    "postal": "579837"
-  },
-  {
-    "name": "WOK HEY",
     "address": "60 PAYA LEBAR ROAD #01-62 PAYA LEBAR SQUARE 409051",
     "type": "Snack Bar / Bakery",
     "number": "EEBN20090011417",
@@ -36592,6 +36646,15 @@
     "scheme": "Eating Establishment",
     "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
     "postal": "757713"
+  },
+  {
+    "name": "WOK HEY",
+    "address": "9 BISHAN PLACE #B1-11 JUNCTION 8 SHOPPING CENTRE 579837",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN20090011421",
+    "scheme": "Eating Establishment",
+    "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+    "postal": "579837"
   },
   {
     "name": "WOK HEY",

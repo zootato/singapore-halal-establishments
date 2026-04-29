@@ -1,5 +1,223 @@
 [
   {
+    "timestamp": "2026-04-29T22:33:58.938612",
+    "date": "2026-04-29",
+    "summary": {
+      "new": 8,
+      "removed": 1,
+      "updated": 6
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Steak 99",
+          "address": "302 TIONG BAHRU ROAD #02-109, #02-110 TIONG BAHRU PLAZA 168732",
+          "type": "Restaurant",
+          "number": "EERT26040000052",
+          "scheme": "Eating Establishment",
+          "id": "825193a3-1a1e-4d2b-abb6-b7fd6ee11dce",
+          "postal": "168732"
+        },
+        {
+          "name": "Overscoop",
+          "address": "3A RIVER VALLEY ROAD #01-01 CQ @ CLARKE QUAY 179020",
+          "type": "Restaurant",
+          "number": "EERT26040000043",
+          "scheme": "Eating Establishment",
+          "id": "20346072-3cdd-4b23-8445-f7dc27c2b224",
+          "postal": "179020"
+        },
+        {
+          "name": "Overscoop",
+          "address": "181 ORCHARD ROAD #02-12 ORCHARD CENTRAL 238896",
+          "type": "Restaurant",
+          "number": "EERT26040000041",
+          "scheme": "Eating Establishment",
+          "id": "08342c7c-a358-486d-be78-01e9978c5287",
+          "postal": "238896"
+        },
+        {
+          "name": "Overscoop",
+          "address": "55 TANJONG PAGAR ROAD TANJONG PAGAR CONSERVATION AREA, (1ST STOREY) 088476",
+          "type": "Restaurant",
+          "number": "EERT26040000042",
+          "scheme": "Eating Establishment",
+          "id": "7bbfe47d-a09c-4f45-a0cf-fe7a71799838",
+          "postal": "088476"
+        },
+        {
+          "name": "Srisun Express",
+          "address": "SINGAPORE HERITAGE FEST 2026, 1 EMPRESS PLACE ASIAN CIVILISATIONS MUSEUM, 5 179555",
+          "type": "Short Term Stall(Bazaar/Road Shows)",
+          "number": "EEST26040000072",
+          "scheme": "Eating Establishment",
+          "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
+          "postal": "179555"
+        },
+        {
+          "name": "Steak 99",
+          "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #01-48 CHANGI CITY POINT 486038",
+          "type": "Restaurant",
+          "number": "EERT26040000049",
+          "scheme": "Eating Establishment",
+          "id": "825193a3-1a1e-4d2b-abb6-b7fd6ee11dce",
+          "postal": "486038"
+        },
+        {
+          "name": "Steak 99",
+          "address": "21 CHOA CHU KANG AVENUE 4 #B1-12, #B1-12/13 LOT ONE, SHOPPERS' MALL 689812",
+          "type": "Restaurant",
+          "number": "EERT26040000051",
+          "scheme": "Eating Establishment",
+          "id": "825193a3-1a1e-4d2b-abb6-b7fd6ee11dce",
+          "postal": "689812"
+        },
+        {
+          "name": "Steak 99",
+          "address": "10 PAYA LEBAR ROAD #B2-17 PAYA LEBAR QUARTER 409057",
+          "type": "Restaurant",
+          "number": "EERT26040000050",
+          "scheme": "Eating Establishment",
+          "id": "825193a3-1a1e-4d2b-abb6-b7fd6ee11dce",
+          "postal": "409057"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Tenderbest",
+          "address": "888 WOODLANDS DRIVE 50 #01-733 888 PLAZA, Stall 9 730888",
+          "type": "Hawker",
+          "number": "EEHN21060012452",
+          "scheme": "Eating Establishment",
+          "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
+          "postal": "730888"
+        }
+      ],
+      "updated": [
+        {
+          "previous": {
+            "name": "Main Kitchen @ Hotel Jen Singapore Tanglin By Shangri-La",
+            "address": "1A CUSCADEN ROAD #02 JEN SINGAPORE TANGLIN BY SHANGRI-LA, MAIN KITCHEN 249716",
+            "type": "Central Kitchen",
+            "number": "FPCX21020001491",
+            "scheme": "Food Preparation Area",
+            "id": "4ae242d1-466a-45b8-98c9-3eeb415c4deb",
+            "postal": "249716"
+          },
+          "current": {
+            "name": "Main Kitchen @ Hotel Jen Singapore Tanglin By Shangri-La",
+            "address": "1A CUSCADEN ROAD MAIN KITCHEN JEN SINGAPORE TANGLIN BY SHANGRI-LA, LEVEL 2 249716",
+            "type": "Central Kitchen",
+            "number": "FPCX21020001491",
+            "scheme": "Food Preparation Area",
+            "id": "4ae242d1-466a-45b8-98c9-3eeb415c4deb",
+            "postal": "249716"
+          }
+        },
+        {
+          "previous": {
+            "name": "Butcher Kitchen @ Hotel Jen Singapore Tanglin by Shangri-La",
+            "address": "1A CUSCADEN ROAD #02 JEN SINGAPORE TANGLIN BY SHANGRI-LA 249716",
+            "type": "Central Kitchen",
+            "number": "FPCK20250000322",
+            "scheme": "Food Preparation Area",
+            "id": "f344993a-df28-4657-b8c7-ebddaf1a46ff",
+            "postal": "249716"
+          },
+          "current": {
+            "name": "Butcher Kitchen @ Hotel Jen Singapore Tanglin by Shangri-La",
+            "address": "1A CUSCADEN ROAD BUTCHER KITCHEN JEN SINGAPORE TANGLIN BY SHANGRI-LA, LEVEL 2 249716",
+            "type": "Central Kitchen",
+            "number": "FPCK20250000322",
+            "scheme": "Food Preparation Area",
+            "id": "f344993a-df28-4657-b8c7-ebddaf1a46ff",
+            "postal": "249716"
+          }
+        },
+        {
+          "previous": {
+            "name": "Cold Kitchen @ Hotel Jen Singapore Tanglin By Shangri-La",
+            "address": "1A CUSCADEN ROAD #02 JEN SINGAPORE TANGLIN BY SHANGRI-LA, COLD KITCHEN 249716",
+            "type": "Central Kitchen",
+            "number": "FPCN21020001488",
+            "scheme": "Food Preparation Area",
+            "id": "69df7f9b-989e-4c0d-89b2-0e79cc62a9ab",
+            "postal": "249716"
+          },
+          "current": {
+            "name": "Cold Kitchen @ Hotel Jen Singapore Tanglin By Shangri-La",
+            "address": "1A CUSCADEN ROAD COLD KITCHEN JEN SINGAPORE TANGLIN BY SHANGRI-LA, LEVEL 2 249716",
+            "type": "Central Kitchen",
+            "number": "FPCN21020001488",
+            "scheme": "Food Preparation Area",
+            "id": "69df7f9b-989e-4c0d-89b2-0e79cc62a9ab",
+            "postal": "249716"
+          }
+        },
+        {
+          "previous": {
+            "name": "PITA BAKERY PTE LTD",
+            "address": "29 Bali Lane #1st & 2nd Storey 189865",
+            "type": "Restaurant",
+            "number": "EERN22020013526",
+            "scheme": "Eating Establishment",
+            "id": "14bacdbf-1673-4386-a6e1-a7e95debb0e6",
+            "postal": "189865"
+          },
+          "current": {
+            "name": "PITA BAKERY",
+            "address": "29 Bali Lane #1st & 2nd Storey 189865",
+            "type": "Restaurant",
+            "number": "EERN22020013526",
+            "scheme": "Eating Establishment",
+            "id": "14bacdbf-1673-4386-a6e1-a7e95debb0e6",
+            "postal": "189865"
+          }
+        },
+        {
+          "previous": {
+            "name": "Indian Kitchen @ Hotel Jen Singapore Tanglin By Shangri-La",
+            "address": "1A CUSCADEN ROAD #02 JEN SINGAPORE TANGLIN BY SHANGRI-LA, INDIAN KITCHEN 249716",
+            "type": "Central Kitchen",
+            "number": "FPCN21020001490",
+            "scheme": "Food Preparation Area",
+            "id": "9e2033af-cb7a-4096-a558-2c3c5b635dfb",
+            "postal": "249716"
+          },
+          "current": {
+            "name": "Indian Kitchen @ Hotel Jen Singapore Tanglin By Shangri-La",
+            "address": "1A CUSCADEN ROAD INDIAN KITCHEN JEN SINGAPORE TANGLIN BY SHANGRI-LA, LEVEL 2 249716",
+            "type": "Central Kitchen",
+            "number": "FPCN21020001490",
+            "scheme": "Food Preparation Area",
+            "id": "9e2033af-cb7a-4096-a558-2c3c5b635dfb",
+            "postal": "249716"
+          }
+        },
+        {
+          "previous": {
+            "name": "Pastry Kitchen @ Hotel Jen Singapore Tanglin By Shangri-La",
+            "address": "1A CUSCADEN ROAD #02 JEN SINGAPORE TANGLIN BY SHANGRI-LA, PASTRY KITCHEN 249716",
+            "type": "Central Kitchen",
+            "number": "FPCN21020001489",
+            "scheme": "Food Preparation Area",
+            "id": "1e73c45a-0a23-4252-b2a4-70701e450475",
+            "postal": "249716"
+          },
+          "current": {
+            "name": "Pastry Kitchen @ Hotel Jen Singapore Tanglin By Shangri-La",
+            "address": "1A CUSCADEN ROAD PASTRY KITCHEN JEN SINGAPORE TANGLIN BY SHANGRI-LA, LEVEL 2 249716",
+            "type": "Central Kitchen",
+            "number": "FPCN21020001489",
+            "scheme": "Food Preparation Area",
+            "id": "1e73c45a-0a23-4252-b2a4-70701e450475",
+            "postal": "249716"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-04-28T22:33:25.370269",
     "date": "2026-04-28",
     "summary": {
@@ -7781,69 +7999,6 @@
             "scheme": "Eating Establishment",
             "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
             "postal": "768019"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-02-26T22:23:02.597496",
-    "date": "2026-02-26",
-    "summary": {
-      "new": 3,
-      "removed": 0,
-      "updated": 1
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Cookhouse @ Thye Hua Kwan Home for Disabled Adults (Mngd By Happy Enterprises Pte Ltd)",
-          "address": "2 CHAI CHEE LANE MORAL HOME FOR DISABLED ADULTS 469030",
-          "type": "Central Kitchen",
-          "number": "FPCK26020000124",
-          "scheme": "Food Preparation Area",
-          "id": "e3dfbd20-f89d-4725-8268-c7ed2c82b4d5",
-          "postal": "469030"
-        },
-        {
-          "name": "THE ORIGINAL VADAI",
-          "address": "Punggol MRT Trade Fair, 70 PUNGGOL CENTRAL PUNGGOL MRT STATION (NE17), 17, 33 828868",
-          "type": "Short Term Stall(Bazaar/Road Shows)",
-          "number": "EEST26020000128",
-          "scheme": "Eating Establishment",
-          "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
-          "postal": "828868"
-        },
-        {
-          "name": "Steam Fish YB Pontian Village",
-          "address": "50 JURONG WEST STREET 61 02-23 #02-23 JURONG WEST HAWKER CENTRE 648202",
-          "type": "Hawker",
-          "number": "EEHK26020000084",
-          "scheme": "Eating Establishment",
-          "id": "2c5847ba-f30a-4e47-8f5a-183606368d4e",
-          "postal": "648202"
-        }
-      ],
-      "removed": [],
-      "updated": [
-        {
-          "previous": {
-            "name": "Pastamania",
-            "address": "1 Fusionopolis Way #01-04 Connexis 138632",
-            "type": "Restaurant",
-            "number": "EERT20250000430",
-            "scheme": "Eating Establishment",
-            "id": "e1eb4468-e706-4f99-bbf2-2603b062790c",
-            "postal": "138632"
-          },
-          "current": {
-            "name": "Wicked WIngs",
-            "address": "1 Fusionopolis Way #01-04 Connexis 138632",
-            "type": "Restaurant",
-            "number": "EERT20250000430",
-            "scheme": "Eating Establishment",
-            "id": "e1eb4468-e706-4f99-bbf2-2603b062790c",
-            "postal": "138632"
           }
         }
       ]
