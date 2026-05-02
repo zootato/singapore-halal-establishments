@@ -28314,15 +28314,6 @@
     "postal": "555952"
   },
   {
-    "name": "Srisun Express",
-    "address": "SINGAPORE HERITAGE FEST 2026, 1 EMPRESS PLACE ASIAN CIVILISATIONS MUSEUM, 5 179555",
-    "type": "Short Term Stall(Bazaar/Road Shows)",
-    "number": "EEST26040000072",
-    "scheme": "Eating Establishment",
-    "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
-    "postal": "179555"
-  },
-  {
     "name": "Srisun Prata.com",
     "address": "651 JURONG WEST STREET 61 #01-02, Stall 9 640651",
     "type": "Hawker",
@@ -33775,6 +33766,15 @@
     "scheme": "Eating Establishment",
     "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
     "postal": "428802"
+  },
+  {
+    "name": "Tim Hortons",
+    "address": "17 WOODLANDS DRIVE 17 #01-03 WOODLANDS HEALTH CAMPUS 737628",
+    "type": "Restaurant",
+    "number": "EERT26020000012",
+    "scheme": "Eating Establishment",
+    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+    "postal": "737628"
   },
   {
     "name": "Tim Hortons",
