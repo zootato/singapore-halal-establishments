@@ -1,5 +1,93 @@
 [
   {
+    "timestamp": "2026-05-04T22:35:15.214566",
+    "date": "2026-05-04",
+    "summary": {
+      "new": 7,
+      "removed": 1,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "EZB Pte Ltd",
+          "address": "105 SIMS AVENUE #10-04 CHANCERLODGE COMPLEX 387429",
+          "type": "Catering Company",
+          "number": "FPCA26050000001",
+          "scheme": "Food Preparation Area",
+          "id": "2456e221-1248-44fa-a8f9-cce2ed0721c8",
+          "postal": "387429"
+        },
+        {
+          "name": "Staff Tuckshop",
+          "address": "9 LOWER KENT RIDGE ROAD #01-01 NATIONAL UNIVERSITY CENTRE FOR ORAL HEALTH 119085",
+          "type": "Restaurant",
+          "number": "EERT20230000352",
+          "scheme": "Eating Establishment",
+          "id": "6afa9898-6953-4fa3-9d73-b57cf01ccbda",
+          "postal": "119085"
+        },
+        {
+          "name": "L & M Seafood",
+          "address": "630A WOODLANDS RING ROAD #01-01, Stall No 3@S11 731630",
+          "type": "Hawker",
+          "number": "EEHK26040000076",
+          "scheme": "Eating Establishment",
+          "id": "a270c4f1-833f-4f1b-9f64-fad74f459d26",
+          "postal": "731630"
+        },
+        {
+          "name": "WATAA BAKERY",
+          "address": "19 MARSILING LANE #01-299, Left part of 730019",
+          "type": "Central Kitchen",
+          "number": "FPCK20230000948",
+          "scheme": "Food Preparation Area",
+          "id": "4b2a42b1-eeec-440e-a47c-4f5236a0885d",
+          "postal": "730019"
+        },
+        {
+          "name": "WATAA BAKERY",
+          "address": "303 WOODLANDS STREET 31 #01-199, part of left 730303",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBX22030013164",
+          "scheme": "Eating Establishment",
+          "id": "4b2a42b1-eeec-440e-a47c-4f5236a0885d",
+          "postal": "730303"
+        },
+        {
+          "name": "WATAA BAKERY",
+          "address": "19 MARSILING LANE #01-299, Left part of 730019",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBX22030013163",
+          "scheme": "Eating Establishment",
+          "id": "4b2a42b1-eeec-440e-a47c-4f5236a0885d",
+          "postal": "730019"
+        },
+        {
+          "name": "WATAA BAKERY",
+          "address": "826 TAMPINES STREET 81 #01-98 TAMPINES GROVE 520826",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBX22030013165",
+          "scheme": "Eating Establishment",
+          "id": "4b2a42b1-eeec-440e-a47c-4f5236a0885d",
+          "postal": "520826"
+        }
+      ],
+      "removed": [
+        {
+          "name": "WOK HEY",
+          "address": "1 TAMPINES WALK #01-82A OUR TAMPINES HUB 528523",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013109",
+          "scheme": "Eating Establishment",
+          "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+          "postal": "528523"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-05-02T22:27:01.865593",
     "date": "2026-05-02",
     "summary": {
@@ -8385,30 +8473,6 @@
           "scheme": "Eating Establishment",
           "id": "02c2a640-f53c-43c8-bb31-87e0d43fdf64",
           "postal": "522201"
-        }
-      ],
-      "removed": [],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-03-01T22:17:15.196907",
-    "date": "2026-03-01",
-    "summary": {
-      "new": 1,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "LEVENDER GOURMET COLLECTIVE",
-          "address": "21 TAMPINES STREET 92 #01-09/10 HERSING KITCHEN 528891",
-          "type": "Central Kitchen",
-          "number": "FPCK20240000145",
-          "scheme": "Food Preparation Area",
-          "id": "66db2c23-5c14-4f5f-a4e3-2f0fd1bed21d",
-          "postal": "528891"
         }
       ],
       "removed": [],

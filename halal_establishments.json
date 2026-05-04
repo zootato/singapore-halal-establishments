@@ -9819,6 +9819,15 @@
     "postal": "529510"
   },
   {
+    "name": "EZB Pte Ltd",
+    "address": "105 SIMS AVENUE #10-04 CHANCERLODGE COMPLEX 387429",
+    "type": "Catering Company",
+    "number": "FPCA26050000001",
+    "scheme": "Food Preparation Area",
+    "id": "2456e221-1248-44fa-a8f9-cce2ed0721c8",
+    "postal": "387429"
+  },
+  {
     "name": "F&B Concepts Singapore Pte Ltd",
     "address": "5 MANDAI LINK #07-03 MANDAI FOODLINK 728654",
     "type": "Central Kitchen",
@@ -14572,15 +14581,6 @@
   },
   {
     "name": "Kazo",
-    "address": "53 ANG MO KIO AVENUE 3 #01-17/18 AMK HUB 569933",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20240000051",
-    "scheme": "Eating Establishment",
-    "id": "911cb7f7-438a-4583-a323-1e96bb9071a4",
-    "postal": "569933"
-  },
-  {
-    "name": "Kazo",
     "address": "17 PETIR ROAD #B2-11 HILLION MALL 678278",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000052",
@@ -14596,6 +14596,15 @@
     "scheme": "Eating Establishment",
     "id": "766847d6-38ea-4363-818a-36bafdf12534",
     "postal": "608549"
+  },
+  {
+    "name": "Kazo",
+    "address": "53 ANG MO KIO AVENUE 3 #01-17/18 AMK HUB 569933",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20240000051",
+    "scheme": "Eating Establishment",
+    "id": "911cb7f7-438a-4583-a323-1e96bb9071a4",
+    "postal": "569933"
   },
   {
     "name": "Kazo",
@@ -16432,6 +16441,15 @@
     "scheme": "Eating Establishment",
     "id": "a270c4f1-833f-4f1b-9f64-fad74f459d26",
     "postal": "824622"
+  },
+  {
+    "name": "L & M Seafood",
+    "address": "630A WOODLANDS RING ROAD #01-01, Stall No 3@S11 731630",
+    "type": "Hawker",
+    "number": "EEHK26040000076",
+    "scheme": "Eating Establishment",
+    "id": "a270c4f1-833f-4f1b-9f64-fad74f459d26",
+    "postal": "731630"
   },
   {
     "name": "L & M Seafood",
@@ -23734,15 +23752,6 @@
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
-    "address": "3 YUAN CHING ROAD #01-03 JURONG LEISURE COMPLEX 618642",
-    "type": "Restaurant",
-    "number": "EERN21080012794",
-    "scheme": "Eating Establishment",
-    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
-    "postal": "618642"
-  },
-  {
-    "name": "PIZZA HUT SINGAPORE PTE LTD",
     "address": "1 SENGKANG SQUARE #B1-15 SENGKANG MALL (1SM) 545078",
     "type": "Restaurant",
     "number": "EERN21080012769",
@@ -23929,6 +23938,15 @@
     "scheme": "Eating Establishment",
     "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
     "postal": "677743"
+  },
+  {
+    "name": "PIZZA HUT SINGAPORE PTE LTD",
+    "address": "3 YUAN CHING ROAD #01-03 JURONG LEISURE COMPLEX 618642",
+    "type": "Restaurant",
+    "number": "EERN21080012794",
+    "scheme": "Eating Establishment",
+    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
+    "postal": "618642"
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
@@ -28647,6 +28665,15 @@
     "postal": "618303"
   },
   {
+    "name": "Staff Tuckshop",
+    "address": "9 LOWER KENT RIDGE ROAD #01-01 NATIONAL UNIVERSITY CENTRE FOR ORAL HEALTH 119085",
+    "type": "Restaurant",
+    "number": "EERT20230000352",
+    "scheme": "Eating Establishment",
+    "id": "6afa9898-6953-4fa3-9d73-b57cf01ccbda",
+    "postal": "119085"
+  },
+  {
     "name": "Stall 1 @Pulau Seraya Power Stn Cafeteria-Mngd by Thomson Ctrg",
     "address": "3 SERAYA AVENUE PULAU SERAYA POWER STATION 628209",
     "type": "Staff Canteen",
@@ -32419,15 +32446,6 @@
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "211 HENDERSON ROAD #01-03 211 HENDERSON 159552",
-    "type": "Restaurant",
-    "number": "EERT20220000228",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "159552"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
     "address": "10 ANSON ROAD #01-32 INTERNATIONAL PLAZA 079903",
     "type": "Restaurant",
     "number": "EERN21120013265",
@@ -32857,6 +32875,15 @@
     "scheme": "Eating Establishment",
     "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
     "postal": "545078"
+  },
+  {
+    "name": "THE COFFEE BEAN & TEA LEAF",
+    "address": "211 HENDERSON ROAD #01-03 211 HENDERSON 159552",
+    "type": "Restaurant",
+    "number": "EERT20220000228",
+    "scheme": "Eating Establishment",
+    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+    "postal": "159552"
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
@@ -35262,6 +35289,42 @@
     "postal": "544835"
   },
   {
+    "name": "WATAA BAKERY",
+    "address": "19 MARSILING LANE #01-299, Left part of 730019",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBX22030013163",
+    "scheme": "Eating Establishment",
+    "id": "4b2a42b1-eeec-440e-a47c-4f5236a0885d",
+    "postal": "730019"
+  },
+  {
+    "name": "WATAA BAKERY",
+    "address": "19 MARSILING LANE #01-299, Left part of 730019",
+    "type": "Central Kitchen",
+    "number": "FPCK20230000948",
+    "scheme": "Food Preparation Area",
+    "id": "4b2a42b1-eeec-440e-a47c-4f5236a0885d",
+    "postal": "730019"
+  },
+  {
+    "name": "WATAA BAKERY",
+    "address": "303 WOODLANDS STREET 31 #01-199, part of left 730303",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBX22030013164",
+    "scheme": "Eating Establishment",
+    "id": "4b2a42b1-eeec-440e-a47c-4f5236a0885d",
+    "postal": "730303"
+  },
+  {
+    "name": "WATAA BAKERY",
+    "address": "826 TAMPINES STREET 81 #01-98 TAMPINES GROVE 520826",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBX22030013165",
+    "scheme": "Eating Establishment",
+    "id": "4b2a42b1-eeec-440e-a47c-4f5236a0885d",
+    "postal": "520826"
+  },
+  {
     "name": "Waterfront Convention Centre (WCC) Kitchen @ Grand Copthorne Waterfront",
     "address": "392 HAVELOCK ROAD GRAND COPTHORNE WATERFRONT HOTEL, LEVEL 2 169663",
     "type": "Catering Company",
@@ -35998,15 +36061,6 @@
     "scheme": "Eating Establishment",
     "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
     "postal": "569933"
-  },
-  {
-    "name": "WOK HEY",
-    "address": "1 TAMPINES WALK #01-82A OUR TAMPINES HUB 528523",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN22020013109",
-    "scheme": "Eating Establishment",
-    "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
-    "postal": "528523"
   },
   {
     "name": "WOK HEY",
