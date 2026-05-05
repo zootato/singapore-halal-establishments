@@ -1,5 +1,291 @@
 [
   {
+    "timestamp": "2026-05-05T22:34:09.791259",
+    "date": "2026-05-05",
+    "summary": {
+      "new": 24,
+      "removed": 6,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Main Kitchen Area @ Aster Rasa Bukom(mngd by The Wok People)",
+          "address": "1908 PULAU BUKOM, LEVEL 1 903808",
+          "type": "Central Kitchen",
+          "number": "FPCK26040000063",
+          "scheme": "Food Preparation Area",
+          "id": "cccda024-d1b3-4415-9f28-1542b87aefa2",
+          "postal": "903808"
+        },
+        {
+          "name": "THE ORIGINAL VADAI",
+          "address": "339 ANCHORVALE ROAD #01-02 540339",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000292",
+          "scheme": "Eating Establishment",
+          "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
+          "postal": "540339"
+        },
+        {
+          "name": "THE ORIGINAL VADAI",
+          "address": "1 GEYLANG SERAI #02-166 SRI GEYLANG SERAI 402001",
+          "type": "Hawker",
+          "number": "EEHK20220000859",
+          "scheme": "Eating Establishment",
+          "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
+          "postal": "402001"
+        },
+        {
+          "name": "THE ORIGINAL VADAI",
+          "address": "505 BEACH ROAD #B1-32 GOLDEN MILE FOOD CENTRE 199583",
+          "type": "Hawker",
+          "number": "EEHN22020013144",
+          "scheme": "Eating Establishment",
+          "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
+          "postal": "199583"
+        },
+        {
+          "name": "Indian Cuisine",
+          "address": "1908 PULAU BUKOM Level 1, STALL 2, Aster Rasa Bukom 903808",
+          "type": "Hawker",
+          "number": "EEHK26040000064",
+          "scheme": "Eating Establishment",
+          "id": "dc5ba22c-b069-413c-b408-882f61960fbe",
+          "postal": "903808"
+        },
+        {
+          "name": "THE ORIGINAL VADAI",
+          "address": "2 TAMPINES CENTRAL 5 #01-37 CENTURY SQUARE 529509",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013082",
+          "scheme": "Eating Establishment",
+          "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
+          "postal": "529509"
+        },
+        {
+          "name": "Indian Vegetarian Cuisine",
+          "address": "1908 PULAU BUKOM LEVEL 1, STALL 3, Aster Rasa Bukom 903808",
+          "type": "Hawker",
+          "number": "EEHK26040000065",
+          "scheme": "Eating Establishment",
+          "id": "af888ea9-472e-4082-b8b7-d0c4d62d8b5d",
+          "postal": "903808"
+        },
+        {
+          "name": "Al Madina Famous Prata Corner",
+          "address": "413 BUKIT BATOK WEST AVENUE 4 #01-220, Stall 2 650413",
+          "type": "Hawker",
+          "number": "EEHN22010013072",
+          "scheme": "Eating Establishment",
+          "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
+          "postal": "650413"
+        },
+        {
+          "name": "Al Madina Famous Prata Corner",
+          "address": "635C SENJA ROAD #01-01, STALL 8 673635",
+          "type": "Hawker",
+          "number": "EEHN22010013074",
+          "scheme": "Eating Establishment",
+          "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
+          "postal": "673635"
+        },
+        {
+          "name": "Western Food",
+          "address": "1908 PULAU BUKOM LEVEL 1, STALL 4, Aster Rasa Bukom 903808",
+          "type": "Hawker",
+          "number": "EEHK26040000066",
+          "scheme": "Eating Establishment",
+          "id": "db9321c0-cb41-4440-8df9-3d687858c5ab",
+          "postal": "903808"
+        },
+        {
+          "name": "Al Madina Famous Prata Corner",
+          "address": "257 BANGKIT ROAD #01-61 BUKIT PANJANG NEW TOWN, STALL 4 670257",
+          "type": "Hawker",
+          "number": "EEHN22010013075",
+          "scheme": "Eating Establishment",
+          "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
+          "postal": "670257"
+        },
+        {
+          "name": "Malay Noodle Delight/Ayam Penyet/Malay Cuisine",
+          "address": "1908 PULAU BUKOM LEVEL 1, Stall 1, Aster Rasa Bukom 903808",
+          "type": "Hawker",
+          "number": "EEHK26040000062",
+          "scheme": "Eating Establishment",
+          "id": "2babc0d6-5105-45c6-ab54-7ee3074dd0f3",
+          "postal": "903808"
+        },
+        {
+          "name": "Staff Canteen Stall @ MIWORLD Building (Mngd by Heng Kitchen & Catering)",
+          "address": "9 INTERNATIONAL BUSINESS PARK MIWORLD 609915",
+          "type": "Staff Canteen",
+          "number": "EESC20250000126",
+          "scheme": "Eating Establishment",
+          "id": "ce40f7dd-35c1-47c7-9d63-432db1339185",
+          "postal": "609915"
+        },
+        {
+          "name": "Beverages",
+          "address": "1908 PULAU BUKOM LEVEL 1, STALL 5, Aster Rasa Bukom 903808",
+          "type": "Hawker",
+          "number": "EEHK26040000061",
+          "scheme": "Eating Establishment",
+          "id": "108dad56-de7c-4dd3-8373-7dc0c7ac139c",
+          "postal": "903808"
+        },
+        {
+          "name": "THE ORIGINAL VADAI",
+          "address": "1 NORTHPOINT DRIVE #B2-129 NORTHPOINT CITY 768019",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000451",
+          "scheme": "Eating Establishment",
+          "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
+          "postal": "768019"
+        },
+        {
+          "name": "Al Madina Famous Prata Corner",
+          "address": "233 LORONG 8 TOA PAYOH #01-268 TOA PAYOH EIGHT, Stall 3 310233",
+          "type": "Hawker",
+          "number": "EEHK20240000186",
+          "scheme": "Eating Establishment",
+          "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
+          "postal": "310233"
+        },
+        {
+          "name": "KENJINN",
+          "address": "30 EUNOS CRESCENT #01-06-07 EUNOS MRT STATION (EW7) 409423",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26050000002",
+          "scheme": "Eating Establishment",
+          "id": "08b602bf-4ce9-4837-9591-3ef5b7a17026",
+          "postal": "409423"
+        },
+        {
+          "name": "THE ORIGINAL VADAI",
+          "address": "82 JOO CHIAT ROAD #01-01 427379",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000452",
+          "scheme": "Eating Establishment",
+          "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
+          "postal": "427379"
+        },
+        {
+          "name": "Al Madina Famous Prata Corner",
+          "address": "40 MARGARET DRIVE #01-05, STALL 2, FOODHUB 140040",
+          "type": "Hawker",
+          "number": "EEHK20240000187",
+          "scheme": "Eating Establishment",
+          "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
+          "postal": "140040"
+        },
+        {
+          "name": "THE ORIGINAL VADAI",
+          "address": "30 WOODLANDS AVENUE 2 #01-28 WOODLANDS MRT STATION 738343",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000416",
+          "scheme": "Eating Establishment",
+          "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
+          "postal": "738343"
+        },
+        {
+          "name": "Al Madina Famous Prata Corner",
+          "address": "494 TAMPINES STREET 45 #01-06, Stall 5 523494",
+          "type": "Hawker",
+          "number": "EEHN22010013077",
+          "scheme": "Eating Establishment",
+          "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
+          "postal": "523494"
+        },
+        {
+          "name": "THE ORIGINAL VADAI",
+          "address": "7 MAXWELL ROAD #02-84 MND BUILDING ANNEXE B 069111",
+          "type": "Hawker",
+          "number": "EEHK20220000247",
+          "scheme": "Eating Establishment",
+          "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
+          "postal": "069111"
+        },
+        {
+          "name": "Staff Canteen Stall@Micron F10W (Mngd by The Wok People)",
+          "address": "1 WOODLANDS IND PARK D STREET 1 #05-00 MICRON SEMICONDUCTOR ASI 738799",
+          "type": "Staff Canteen",
+          "number": "EEFN22010012563",
+          "scheme": "Eating Establishment",
+          "id": "3887b65c-7441-494b-bb98-4bd753b15db9",
+          "postal": "738799"
+        },
+        {
+          "name": "Sats Food Services Pte Ltd",
+          "address": "234 PANDAN LOOP 128422",
+          "type": "Catering Company",
+          "number": "FPGN21040001532",
+          "scheme": "Food Preparation Area",
+          "id": "6a8de3e6-6a5e-40ee-ade4-68626c0e8c6a",
+          "postal": "128422"
+        }
+      ],
+      "removed": [
+        {
+          "name": "NASTY COOKIE",
+          "address": "3 GATEWAY DRIVE #01-09 WESTGATE 608532",
+          "type": "Restaurant",
+          "number": "EERT20230000980",
+          "scheme": "Eating Establishment",
+          "id": "11a08e54-d670-488c-ad60-23bcd6e1184c",
+          "postal": "608532"
+        },
+        {
+          "name": "Sedap Yong Tau Foo (S8) @ One Two Eat Heartbeat Bedok",
+          "address": "11 BEDOK NORTH STREET 1 #01-28/29/08 HEARTBEAT @ BEDOK, Stall 8 469662",
+          "type": "Hawker",
+          "number": "EEHK20240000551",
+          "scheme": "Eating Establishment",
+          "id": "986a1bc2-545f-4528-bde6-87030c98b406",
+          "postal": "469662"
+        },
+        {
+          "name": "WOK HEY",
+          "address": "53 ANG MO KIO AVENUE 3 #01-36 AMK HUB, (PART OF) LEFT UNIT 569933",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20090011420",
+          "scheme": "Eating Establishment",
+          "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+          "postal": "569933"
+        },
+        {
+          "name": "Sanook Kitchen",
+          "address": "1 HARBOURFRONT WALK #B2-23C VIVO CITY 098585",
+          "type": "Restaurant",
+          "number": "EERT20220000545",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "098585"
+        },
+        {
+          "name": "san.wich",
+          "address": "10 EUNOS ROAD 8 #B1-158 SINGAPORE POST CENTRE 408600",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000654",
+          "scheme": "Eating Establishment",
+          "id": "3bd9ccb4-3fd0-4719-8ffc-594b877c6cc5",
+          "postal": "408600"
+        },
+        {
+          "name": "Sunbo Chicken Rice (S6)@Koufu Woodlands Health",
+          "address": "17 WOODLANDS DRIVE 17 #B1-03/04, Stall 6 737628",
+          "type": "Hawker",
+          "number": "EEHK20240001043",
+          "scheme": "Eating Establishment",
+          "id": "6aa0197a-5a40-4f4c-81b5-4d05fe5602a9",
+          "postal": "737628"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-05-04T22:35:15.214566",
     "date": "2026-05-04",
     "summary": {
@@ -8434,48 +8720,6 @@
           "postal": "650132"
         }
       ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-03-02T22:20:29.995073",
-    "date": "2026-03-02",
-    "summary": {
-      "new": 3,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "McDonald's",
-          "address": "511 CANBERRA ROAD #02-04 SEMBAWANG MART 750511",
-          "type": "Restaurant",
-          "number": "EERT26020000090",
-          "scheme": "Eating Establishment",
-          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-          "postal": "750511"
-        },
-        {
-          "name": "Malay & Western Kitchen @ KKH (Mngd by Sodexo)",
-          "address": "100 BUKIT TIMAH ROAD KK WOMEN'S AND CHILDREN'S HOSPITAL, Basement 1, Women's Tower 229899",
-          "type": "Central Kitchen",
-          "number": "FPCX21120001638",
-          "scheme": "Food Preparation Area",
-          "id": "69c2dc77-1b3c-4254-b8fa-fceb7b46f2cf",
-          "postal": "229899"
-        },
-        {
-          "name": "Better Baker",
-          "address": "201B TAMPINES STREET 21 #01-1075 522201",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26020000068",
-          "scheme": "Eating Establishment",
-          "id": "02c2a640-f53c-43c8-bb31-87e0d43fdf64",
-          "postal": "522201"
-        }
-      ],
-      "removed": [],
       "updated": []
     }
   }
