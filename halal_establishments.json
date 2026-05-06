@@ -26181,6 +26181,24 @@
     "postal": "677743"
   },
   {
+    "name": "RUMAH MAKAN MINANG",
+    "address": "1 TAMPINES WALK #B1-47A OUR TAMPINES HUB 528523",
+    "type": "Restaurant",
+    "number": "EERN21120013332",
+    "scheme": "Eating Establishment",
+    "id": "e5f9acc4-e3b6-4de7-9726-a7ee15c9f6e9",
+    "postal": "528523"
+  },
+  {
+    "name": "Rumah Makan Minang",
+    "address": "1550 BEDOK NORTH AVENUE 4 #02-09 BEDOK FOOD CITY 489950",
+    "type": "Catering Company",
+    "number": "FPGN21120001629",
+    "scheme": "Food Preparation Area",
+    "id": "e5f9acc4-e3b6-4de7-9726-a7ee15c9f6e9",
+    "postal": "489950"
+  },
+  {
     "name": "Rumah Sayang",
     "address": "50 JURONG GATEWAY ROAD #B1-41/42 JEM 608549",
     "type": "Restaurant",
