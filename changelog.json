@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-05-09T22:28:14.784564",
+    "date": "2026-05-09",
+    "summary": {
+      "new": 2,
+      "removed": 1,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "RASEL CATERING SINGAPORE PTE. LTD.",
+          "address": "157 PANDAN LOOP 128355",
+          "type": "Catering Company",
+          "number": "FPCA20230000443",
+          "scheme": "Food Preparation Area",
+          "id": "ccbcda18-63ed-43d5-af63-b6e1d7d1fe78",
+          "postal": "128355"
+        },
+        {
+          "name": "san.wich",
+          "address": "10 EUNOS ROAD 8 #B1-158 SINGAPORE POST CENTRE 408600",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000654",
+          "scheme": "Eating Establishment",
+          "id": "3bd9ccb4-3fd0-4719-8ffc-594b877c6cc5",
+          "postal": "408600"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Korea Culture",
+          "address": "EXPO HALL 7, 9 SOMAPAH ROAD SINGAPORE EXPO (HALL 10), HALL 7 KIOSK 1 487370",
+          "type": "Short Term Stall(Bazaar/Road Shows)",
+          "number": "EEST26040000074",
+          "scheme": "Eating Establishment",
+          "id": "3cdc1589-a08d-43fc-a5cd-793d1ace3f28",
+          "postal": "487370"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-05-08T22:34:12.287190",
     "date": "2026-05-08",
     "summary": {
@@ -8311,57 +8354,6 @@
           "scheme": "Eating Establishment",
           "id": "4456907f-0dca-4387-b38c-8604c449411d",
           "postal": "560108"
-        }
-      ],
-      "removed": [],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-03-06T22:19:18.259619",
-    "date": "2026-03-06",
-    "summary": {
-      "new": 4,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "TASTE OF INDIA RESTAURANT PTE. LTD.",
-          "address": "77 RANGOON ROAD #01-01 218365",
-          "type": "Catering Company",
-          "number": "FPGN22010001637",
-          "scheme": "Food Preparation Area",
-          "id": "adf5877d-aa77-40b7-94fc-c78b66729fa5",
-          "postal": "218365"
-        },
-        {
-          "name": "CRUNCHI PUFF & SNACK",
-          "address": "90 WHAMPOA DRIVE #01-69 WHAMPOA DRIVE MAKAN PLACE 320090",
-          "type": "Hawker",
-          "number": "EEHK26030000006",
-          "scheme": "Eating Establishment",
-          "id": "9a34443e-d495-4852-b3f9-a71a5d3ad073",
-          "postal": "320090"
-        },
-        {
-          "name": "TASTE OF INDIA RESTAURANT PTE. LTD.",
-          "address": "77 RANGOON ROAD #01-01 218365",
-          "type": "Restaurant",
-          "number": "EERN22010013364",
-          "scheme": "Eating Establishment",
-          "id": "adf5877d-aa77-40b7-94fc-c78b66729fa5",
-          "postal": "218365"
-        },
-        {
-          "name": "Malay Cuisine @ Schlumberger (Mngd By The Wok People)",
-          "address": "7 BENOI CRESCENT #First Storey 629971",
-          "type": "Staff Canteen",
-          "number": "EEFN21100012542",
-          "scheme": "Eating Establishment",
-          "id": "8a707f82-ce45-4de1-a0ee-581b90f2ee03",
-          "postal": "629971"
         }
       ],
       "removed": [],

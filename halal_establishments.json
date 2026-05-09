@@ -16111,15 +16111,6 @@
   },
   {
     "name": "Korea Culture",
-    "address": "EXPO HALL 7, 9 SOMAPAH ROAD SINGAPORE EXPO (HALL 10), HALL 7 KIOSK 1 487370",
-    "type": "Short Term Stall(Bazaar/Road Shows)",
-    "number": "EEST26040000074",
-    "scheme": "Eating Establishment",
-    "id": "3cdc1589-a08d-43fc-a5cd-793d1ace3f28",
-    "postal": "487370"
-  },
-  {
-    "name": "Korea Culture",
     "address": "65 AIRPORT BOULEVARD #03-33 CHANGI AIRPORT TERMINAL 3 819663",
     "type": "Restaurant",
     "number": "EERT20250000816",
@@ -25686,6 +25677,15 @@
     "postal": "128432"
   },
   {
+    "name": "RASEL CATERING SINGAPORE PTE. LTD.",
+    "address": "157 PANDAN LOOP 128355",
+    "type": "Catering Company",
+    "number": "FPCA20230000443",
+    "scheme": "Food Preparation Area",
+    "id": "ccbcda18-63ed-43d5-af63-b6e1d7d1fe78",
+    "postal": "128355"
+  },
+  {
     "name": "ReadyMeals@Sheng Siong ITE College Central",
     "address": "2 Ang Mo Kio Drive #01-12 (Kiosk 1) ITE College Central (Blk A) 567720",
     "type": "Snack Bar / Bakery",
@@ -26602,6 +26602,15 @@
     "scheme": "Eating Establishment",
     "id": "66790145-d572-4e22-9329-5815012816ba",
     "postal": "737907"
+  },
+  {
+    "name": "san.wich",
+    "address": "10 EUNOS ROAD 8 #B1-158 SINGAPORE POST CENTRE 408600",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20230000654",
+    "scheme": "Eating Establishment",
+    "id": "3bd9ccb4-3fd0-4719-8ffc-594b877c6cc5",
+    "postal": "408600"
   },
   {
     "name": "san.wich",
