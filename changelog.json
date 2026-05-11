@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-05-11T22:36:52.479762",
+    "date": "2026-05-11",
+    "summary": {
+      "new": 2,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Jom! Chicken Rice (S8) @ Kopitiam Corner Vista Point",
+          "address": "548 WOODLANDS DRIVE 44 #01-21 VISTA POINT, Stall 8 730548",
+          "type": "Hawker",
+          "number": "EEHK20250000201",
+          "scheme": "Eating Establishment",
+          "id": "ecbd899d-1f5e-4d3a-981f-e0e707401aec",
+          "postal": "730548"
+        },
+        {
+          "name": "CAFE LODGE PTE LTD",
+          "address": "8A ADMIRALTY STREET #07-15 FOOD XCHANGE @ ADMIRALTY 757437",
+          "type": "Central Kitchen",
+          "number": "FPCK26050000006",
+          "scheme": "Food Preparation Area",
+          "id": "e6dece77-e961-4353-b02b-c3216e063a21",
+          "postal": "757437"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-05-09T22:28:14.784564",
     "date": "2026-05-09",
     "summary": {
@@ -8333,30 +8366,6 @@
           "postal": "730888"
         }
       ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-03-07T22:17:14.425620",
-    "date": "2026-03-07",
-    "summary": {
-      "new": 1,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Yumen Hut",
-          "address": "108 ANG MO KIO AVENUE 4 Kedai Kopi SG, Stall No. 5 #01-74 KEBUN BARU HEIGHTS 560108",
-          "type": "Hawker",
-          "number": "EEHK26030000011",
-          "scheme": "Eating Establishment",
-          "id": "4456907f-0dca-4387-b38c-8604c449411d",
-          "postal": "560108"
-        }
-      ],
-      "removed": [],
       "updated": []
     }
   }

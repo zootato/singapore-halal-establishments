@@ -4995,6 +4995,15 @@
     "postal": "188476"
   },
   {
+    "name": "CAFE LODGE PTE LTD",
+    "address": "8A ADMIRALTY STREET #07-15 FOOD XCHANGE @ ADMIRALTY 757437",
+    "type": "Central Kitchen",
+    "number": "FPCK26050000006",
+    "scheme": "Food Preparation Area",
+    "id": "e6dece77-e961-4353-b02b-c3216e063a21",
+    "postal": "757437"
+  },
+  {
     "name": "CAFE O",
     "address": "118 HOLLAND AVENUE #01-01 RAFFLES HOLLAND V 278997",
     "type": "Restaurant",
@@ -14191,6 +14200,15 @@
     "scheme": "Eating Establishment",
     "id": "14c6df16-00dd-4b58-b20c-a4b1228c090c",
     "postal": "659578"
+  },
+  {
+    "name": "Jom! Chicken Rice (S8) @ Kopitiam Corner Vista Point",
+    "address": "548 WOODLANDS DRIVE 44 #01-21 VISTA POINT, Stall 8 730548",
+    "type": "Hawker",
+    "number": "EEHK20250000201",
+    "scheme": "Eating Establishment",
+    "id": "ecbd899d-1f5e-4d3a-981f-e0e707401aec",
+    "postal": "730548"
   },
   {
     "name": "JOO CHIAT FOOD STATION @ ASIAN MARKET CAFE",
@@ -25966,21 +25984,21 @@
   },
   {
     "name": "ROCKY MASTER",
-    "address": "6 WOODLANDS SQUARE #01-11 WOODS SQUARE 737737",
-    "type": "Restaurant",
-    "number": "EERN21050012379",
-    "scheme": "Eating Establishment",
-    "id": "33632e00-5112-411c-92d5-7748c166de2b",
-    "postal": "737737"
-  },
-  {
-    "name": "ROCKY MASTER",
     "address": "301 UPPER THOMSON ROAD #01-38/39 THOMSON PLAZA 574408",
     "type": "Restaurant",
     "number": "EERN21050012380",
     "scheme": "Eating Establishment",
     "id": "33632e00-5112-411c-92d5-7748c166de2b",
     "postal": "574408"
+  },
+  {
+    "name": "ROCKY MASTER",
+    "address": "6 WOODLANDS SQUARE #01-11 WOODS SQUARE 737737",
+    "type": "Restaurant",
+    "number": "EERN21050012379",
+    "scheme": "Eating Establishment",
+    "id": "33632e00-5112-411c-92d5-7748c166de2b",
+    "postal": "737737"
   },
   {
     "name": "ROCKY MASTER",
