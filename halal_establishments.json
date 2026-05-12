@@ -25893,6 +25893,24 @@
     "postal": "569933"
   },
   {
+    "name": "RITZ'S KITCHEN",
+    "address": "338 JURONG EAST AVENUE 1 #01-1646 600338",
+    "type": "Restaurant",
+    "number": "EERN21020012166",
+    "scheme": "Eating Establishment",
+    "id": "73d27efa-b586-4639-baa6-7f96812efbad",
+    "postal": "600338"
+  },
+  {
+    "name": "Ritz's Kitchen (Kitchen 14) @ Supply Chain City",
+    "address": "8 BULIM AVENUE #02-04 648166",
+    "type": "Hawker",
+    "number": "EEHK20250000314",
+    "scheme": "Eating Establishment",
+    "id": "c1458d5f-5bf5-4b2a-bd7d-c118c9735ae7",
+    "postal": "648166"
+  },
+  {
     "name": "RIVE GAUCHE PATISSERIE",
     "address": "20 TAN QUEE LAN STREET #01-05 GUOCO MIDTOWN II 188107",
     "type": "Restaurant",
@@ -26884,21 +26902,21 @@
   },
   {
     "name": "Sanook Kitchen",
-    "address": "2 ORCHARD TURN #B3-19 ION ORCHARD 238801",
-    "type": "Restaurant",
-    "number": "EERT20220000262",
-    "scheme": "Eating Establishment",
-    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-    "postal": "238801"
-  },
-  {
-    "name": "Sanook Kitchen",
     "address": "10 PAYA LEBAR ROAD #03-28/29 PLQ MALL 409057",
     "type": "Restaurant",
     "number": "EERT20220001029",
     "scheme": "Eating Establishment",
     "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
     "postal": "409057"
+  },
+  {
+    "name": "Sanook Kitchen",
+    "address": "2 ORCHARD TURN #B3-19 ION ORCHARD 238801",
+    "type": "Restaurant",
+    "number": "EERT20220000262",
+    "scheme": "Eating Establishment",
+    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+    "postal": "238801"
   },
   {
     "name": "Sanook Kitchen",
