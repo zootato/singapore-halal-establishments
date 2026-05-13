@@ -8100,6 +8100,15 @@
     "postal": "737859"
   },
   {
+    "name": "DELIZIO CATERING PTE. LTD.",
+    "address": "30 ORANGE GROVE ROAD #04-03 RELC BUILDING 258352",
+    "type": "Catering Company",
+    "number": "FPCA20240001176",
+    "scheme": "Food Preparation Area",
+    "id": "ca0e9367-2314-4812-a41e-4f2e8554d78a",
+    "postal": "258352"
+  },
+  {
     "name": "Delta Cafe (Mngd By Happy Kitchen Mighty Chef)",
     "address": "80 AIRPORT BOULEVARD #13-15 CHANGI AIRPORT BUS TERMINAL 1 819642",
     "type": "Staff Canteen",
@@ -14689,15 +14698,6 @@
   },
   {
     "name": "Kazo",
-    "address": "7 PASIR RIS CENTRAL #B1-42 519612",
-    "type": "Restaurant",
-    "number": "EERT20250000073",
-    "scheme": "Eating Establishment",
-    "id": "911cb7f7-438a-4583-a323-1e96bb9071a4",
-    "postal": "519612"
-  },
-  {
-    "name": "Kazo",
     "address": "17 PETIR ROAD #B2-11 HILLION MALL 678278",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000052",
@@ -14731,6 +14731,15 @@
     "scheme": "Eating Establishment",
     "id": "766847d6-38ea-4363-818a-36bafdf12534",
     "postal": "768019"
+  },
+  {
+    "name": "Kazo",
+    "address": "7 PASIR RIS CENTRAL #B1-42 519612",
+    "type": "Restaurant",
+    "number": "EERT20250000073",
+    "scheme": "Eating Establishment",
+    "id": "911cb7f7-438a-4583-a323-1e96bb9071a4",
+    "postal": "519612"
   },
   {
     "name": "Kazo",
@@ -19609,6 +19618,123 @@
     "scheme": "Eating Establishment",
     "id": "0147257b-9597-49d0-a47c-9af9f71c8a8a",
     "postal": "098585"
+  },
+  {
+    "name": "MONSTER CHILI GRILLED FISH & BBQ SEAFOOD",
+    "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #01-43 CHANGI CITY POINT 486038",
+    "type": "Restaurant",
+    "number": "EERT26050000007",
+    "scheme": "Eating Establishment",
+    "id": "154ad9d2-e19d-4d5b-8ca8-dd149803c327",
+    "postal": "486038"
+  },
+  {
+    "name": "Monster Chili Mala Hot Pot",
+    "address": "11 JALAN TAN TOCK SENG #01-13/14/15 TAN TOCK SENG HOSPOTAL, Stall 15, Kopitiam 308433",
+    "type": "Hawker",
+    "number": "EEHK26050000020",
+    "scheme": "Eating Establishment",
+    "id": "b52f532a-5db0-49bc-b623-9081fda1fafd",
+    "postal": "308433"
+  },
+  {
+    "name": "Monster Chili Mala Hot Pot",
+    "address": "21 CHOA CHU KANG AVENUE 4 #04-16 LOT ONE, SHOPPERS' MALL, Stall 17, Food Junction 689812",
+    "type": "Hawker",
+    "number": "EEHK26050000012",
+    "scheme": "Eating Establishment",
+    "id": "b52f532a-5db0-49bc-b623-9081fda1fafd",
+    "postal": "689812"
+  },
+  {
+    "name": "Monster Chili Mala Hot Pot",
+    "address": "2 TAMPINES CENTRAL 5 Stall 6, The Food Market #03-19 CENTURY SQUARE 529509",
+    "type": "Hawker",
+    "number": "EEHK26050000008",
+    "scheme": "Eating Establishment",
+    "id": "b52f532a-5db0-49bc-b623-9081fda1fafd",
+    "postal": "529509"
+  },
+  {
+    "name": "Monster Chili Mala Hot Pot",
+    "address": "60 PAYA LEBAR ROAD Stall 7 , Cantine #B1-51 PAYA LEBAR SQUARE 409051",
+    "type": "Hawker",
+    "number": "EEHK26050000009",
+    "scheme": "Eating Establishment",
+    "id": "b52f532a-5db0-49bc-b623-9081fda1fafd",
+    "postal": "409051"
+  },
+  {
+    "name": "Monster Chili Mala Hot Pot",
+    "address": "1 WOODLANDS SQUARE #07-03 CAUSEWAY POINT, MR3, Bagus 738099",
+    "type": "Hawker",
+    "number": "EEHK26050000010",
+    "scheme": "Eating Establishment",
+    "id": "b52f532a-5db0-49bc-b623-9081fda1fafd",
+    "postal": "738099"
+  },
+  {
+    "name": "Monster Chili Mala Hot Pot",
+    "address": "418 NORTHSHORE DRIVE #02-07/08/09 NORTHSHORE PLAZA II, Stall 6, Bagus 820418",
+    "type": "Hawker",
+    "number": "EEHK26050000011",
+    "scheme": "Eating Establishment",
+    "id": "b52f532a-5db0-49bc-b623-9081fda1fafd",
+    "postal": "820418"
+  },
+  {
+    "name": "Monster Chili Mala Hot Pot",
+    "address": "1 KIM SENG PROMENADE #03-116 GREAT WORLD CITY, Stall 4 / Food Junction 237994",
+    "type": "Hawker",
+    "number": "EEHK26050000013",
+    "scheme": "Eating Establishment",
+    "id": "b52f532a-5db0-49bc-b623-9081fda1fafd",
+    "postal": "237994"
+  },
+  {
+    "name": "Monster Chili Mala Hot Pot",
+    "address": "7 PASIR RIS CENTRAL #B2-17 PASIR RIS MALL, Stall 2, Bagus 519612",
+    "type": "Hawker",
+    "number": "EEHK26050000014",
+    "scheme": "Eating Establishment",
+    "id": "b52f532a-5db0-49bc-b623-9081fda1fafd",
+    "postal": "519612"
+  },
+  {
+    "name": "Monster Chili Mala Hot Pot",
+    "address": "10 AIRPORT BOULEVARD #02-205 CHANGI AIRPORT TERMINAL 4, MR3 / Kopitiam 819665",
+    "type": "Hawker",
+    "number": "EEHK26050000015",
+    "scheme": "Eating Establishment",
+    "id": "b52f532a-5db0-49bc-b623-9081fda1fafd",
+    "postal": "819665"
+  },
+  {
+    "name": "Monster Chili Mala Hot Pot",
+    "address": "65 AIRPORT BOULEVARD MR3, Kopitiam #B2-03 CHANGI AIRPORT TERMINAL 3 819663",
+    "type": "Hawker",
+    "number": "EEHK26050000016",
+    "scheme": "Eating Establishment",
+    "id": "b52f532a-5db0-49bc-b623-9081fda1fafd",
+    "postal": "819663"
+  },
+  {
+    "name": "Monster Chili Mala Hot Pot",
+    "address": "1 HARBOURFRONT WALK MR 28, KOPITIAM FOOD HALL #B2-40 VIVO CITY 098585",
+    "type": "Hawker",
+    "number": "EEHK26050000018",
+    "scheme": "Eating Establishment",
+    "id": "b52f532a-5db0-49bc-b623-9081fda1fafd",
+    "postal": "098585"
+  },
+  {
+    "name": "Monster Chili Mala Hot Pot . Mala Soup",
+    "address": "84 PUNGGOL WAY #02-K63 PUNGGOL COAST HAWKER CENTRE 829911",
+    "type": "Hawker",
+    "number": "EEHK26050000019",
+    "scheme": "Eating Establishment",
+    "id": "09a618f7-166e-410e-ab16-d725394d6853",
+    "postal": "829911"
   },
   {
     "name": "MONSTER PLANET",
@@ -26641,15 +26767,6 @@
   },
   {
     "name": "san.wich",
-    "address": "10 EUNOS ROAD 8 #B1-158 SINGAPORE POST CENTRE 408600",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20230000654",
-    "scheme": "Eating Establishment",
-    "id": "3bd9ccb4-3fd0-4719-8ffc-594b877c6cc5",
-    "postal": "408600"
-  },
-  {
-    "name": "san.wich",
     "address": "21 CHOA CHU KANG AVENUE 4 #B1-K21 LOT ONE, SHOPPERS' MALL 689812",
     "type": "Snack Bar / Bakery",
     "number": "EESB20230000435",
@@ -29818,15 +29935,6 @@
   },
   {
     "name": "SUBWAY",
-    "address": "678A WOODLANDS AVENUE 6 #01-29 ADMIRALTY PLACE 731678",
-    "type": "Restaurant",
-    "number": "EERT20230000257",
-    "scheme": "Eating Establishment",
-    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-    "postal": "731678"
-  },
-  {
-    "name": "SUBWAY",
     "address": "930 YISHUN AVENUE 2 #B2-03 NORTHPOINT 769098",
     "type": "Restaurant",
     "number": "EERN21110013117",
@@ -32410,15 +32518,6 @@
   },
   {
     "name": "TEXAS CHICKEN",
-    "address": "2 TAMPINES CENTRAL 5 #05-03 CENTURY SQUARE 529509",
-    "type": "Restaurant",
-    "number": "EERN21070012596",
-    "scheme": "Eating Establishment",
-    "id": "53c88848-1280-4fee-b6dc-b5d1d941c07d",
-    "postal": "529509"
-  },
-  {
-    "name": "TEXAS CHICKEN",
     "address": "190 LORONG 6 TOA PAYOH #02-516 310190",
     "type": "Restaurant",
     "number": "EERT20240001140",
@@ -32578,15 +32677,6 @@
     "scheme": "Food Preparation Area",
     "id": "8f724474-a195-453c-9eae-362d066db543",
     "postal": "389910"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "21 CHOA CHU KANG AVENUE 4 #01-01 LOT ONE, SHOPPERS' MALL 689812",
-    "type": "Restaurant",
-    "number": "EERN21120013251",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "689812"
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
@@ -32767,6 +32857,15 @@
     "scheme": "Eating Establishment",
     "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
     "postal": "738099"
+  },
+  {
+    "name": "THE COFFEE BEAN & TEA LEAF",
+    "address": "21 CHOA CHU KANG AVENUE 4 #01-01 LOT ONE, SHOPPERS' MALL 689812",
+    "type": "Restaurant",
+    "number": "EERN21120013251",
+    "scheme": "Eating Establishment",
+    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+    "postal": "689812"
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
@@ -33922,30 +34021,12 @@
   },
   {
     "name": "Tim Hortons",
-    "address": "1 HARBOURFRONT WALK #01-207 VIVOCITY 098585",
+    "address": "313 ORCHARD ROAD #01-29 313 @ SOMERSET 238895",
     "type": "Restaurant",
-    "number": "EERT26020000001",
+    "number": "EERT26020000008",
     "scheme": "Eating Establishment",
     "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-    "postal": "098585"
-  },
-  {
-    "name": "Tim Hortons",
-    "address": "23 SERANGOON CENTRAL #01-10 NEX 556083",
-    "type": "Restaurant",
-    "number": "EERT26020000002",
-    "scheme": "Eating Establishment",
-    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-    "postal": "556083"
-  },
-  {
-    "name": "Tim Hortons",
-    "address": "3 TEMASEK BOULEVARD #01-314 SUNTEC CITY MALL 038983",
-    "type": "Restaurant",
-    "number": "EERT26020000003",
-    "scheme": "Eating Establishment",
-    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-    "postal": "038983"
+    "postal": "238895"
   },
   {
     "name": "Tim Hortons",
@@ -33958,48 +34039,12 @@
   },
   {
     "name": "Tim Hortons",
-    "address": "1 JURONG WEST CENTRAL 2 #01-26F/26G JURONG POINT 648886",
+    "address": "9 RAFFLES BOULEVARD #01-87 #01-86 MILLENIA WALK 039596",
     "type": "Restaurant",
-    "number": "EERT26020000005",
+    "number": "EERT26020000014",
     "scheme": "Eating Establishment",
     "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-    "postal": "648886"
-  },
-  {
-    "name": "Tim Hortons",
-    "address": "50 JURONG GATEWAY ROAD #01-47 JEM 608549",
-    "type": "Restaurant",
-    "number": "EERT26020000006",
-    "scheme": "Eating Establishment",
-    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-    "postal": "608549"
-  },
-  {
-    "name": "Tim Hortons",
-    "address": "7 PASIR RIS CENTRAL #02-64 PASIR RIS MALL 519612",
-    "type": "Restaurant",
-    "number": "EERT26020000007",
-    "scheme": "Eating Establishment",
-    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-    "postal": "519612"
-  },
-  {
-    "name": "Tim Hortons",
-    "address": "313 ORCHARD ROAD #01-29 313 @ SOMERSET 238895",
-    "type": "Restaurant",
-    "number": "EERT26020000008",
-    "scheme": "Eating Establishment",
-    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-    "postal": "238895"
-  },
-  {
-    "name": "Tim Hortons",
-    "address": "80 MARINE PARADE ROAD #01-02 PARKWAY PARADE 449269",
-    "type": "Restaurant",
-    "number": "EERT26020000009",
-    "scheme": "Eating Establishment",
-    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-    "postal": "449269"
+    "postal": "039596"
   },
   {
     "name": "Tim Hortons",
@@ -34012,30 +34057,12 @@
   },
   {
     "name": "Tim Hortons",
-    "address": "112 EAST COAST ROAD #01-28 112 KATONG 428802",
+    "address": "80 MARINE PARADE ROAD #01-02 PARKWAY PARADE 449269",
     "type": "Restaurant",
-    "number": "EERT26020000011",
+    "number": "EERT26020000009",
     "scheme": "Eating Establishment",
     "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-    "postal": "428802"
-  },
-  {
-    "name": "Tim Hortons",
-    "address": "17 WOODLANDS DRIVE 17 #01-03 WOODLANDS HEALTH CAMPUS 737628",
-    "type": "Restaurant",
-    "number": "EERT26020000012",
-    "scheme": "Eating Establishment",
-    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-    "postal": "737628"
-  },
-  {
-    "name": "Tim Hortons",
-    "address": "9 RAFFLES BOULEVARD #01-87 #01-86 MILLENIA WALK 039596",
-    "type": "Restaurant",
-    "number": "EERT26020000014",
-    "scheme": "Eating Establishment",
-    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-    "postal": "039596"
+    "postal": "449269"
   },
   {
     "name": "Tim Hortons",
