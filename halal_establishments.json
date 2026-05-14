@@ -11700,6 +11700,15 @@
     "postal": "178882"
   },
   {
+    "name": "HAJI M.N. SHAHUL HAMEED MARKETING",
+    "address": "665 BUFFALO ROAD #01-126/127 ZHUJIAO CENTRE (TEKKA MARKET) 210665",
+    "type": "Hawker",
+    "number": "EEHK20230000036",
+    "scheme": "Eating Establishment",
+    "id": "85e4a3fd-d83a-4eb9-b421-aea67d64f888",
+    "postal": "210665"
+  },
+  {
     "name": "Halal Section @ NTUC FAIRPRICE",
     "address": "642 SENJA CLOSE #01-01 670642",
     "type": "Halal Section",
@@ -14689,21 +14698,21 @@
   },
   {
     "name": "Kazo",
-    "address": "63 JURONG WEST CENTRAL 3 #01-59/79/80 JURONG POINT 648331",
-    "type": "Restaurant",
-    "number": "EERT20240000060",
-    "scheme": "Eating Establishment",
-    "id": "911cb7f7-438a-4583-a323-1e96bb9071a4",
-    "postal": "648331"
-  },
-  {
-    "name": "Kazo",
     "address": "17 PETIR ROAD #B2-11 HILLION MALL 678278",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000052",
     "scheme": "Eating Establishment",
     "id": "911cb7f7-438a-4583-a323-1e96bb9071a4",
     "postal": "678278"
+  },
+  {
+    "name": "Kazo",
+    "address": "63 JURONG WEST CENTRAL 3 #01-59/79/80 JURONG POINT 648331",
+    "type": "Restaurant",
+    "number": "EERT20240000060",
+    "scheme": "Eating Establishment",
+    "id": "911cb7f7-438a-4583-a323-1e96bb9071a4",
+    "postal": "648331"
   },
   {
     "name": "Kazo",
@@ -20601,6 +20610,15 @@
     "postal": "437157"
   },
   {
+    "name": "MULAN YIPIN LANZHOU BEEF NOODLE",
+    "address": "283/283A SOUTH BRIDGE ROAD 058832",
+    "type": "Restaurant",
+    "number": "EERT26050000005",
+    "scheme": "Eating Establishment",
+    "id": "2d17f5a9-e0f3-4144-a3dc-4a7c09b9ff6a",
+    "postal": "058832"
+  },
+  {
     "name": "Mum's Kitchen Catering Pte Ltd",
     "address": "3015 BEDOK NORTH STREET 5 #02-06 SHIMEI EAST KITCHEN 486350",
     "type": "Catering Company",
@@ -21436,15 +21454,6 @@
     "scheme": "Eating Establishment",
     "id": "c2a3daa9-ec19-4a9f-8474-752b3cbfb1ff",
     "postal": "556083"
-  },
-  {
-    "name": "NENE CHICKEN",
-    "address": "628 SENJA ROAD STALL 8, KOPITIAM CORNER #01-07 SENJA CENTRE 670628",
-    "type": "Hawker",
-    "number": "EEHK26030000072",
-    "scheme": "Eating Establishment",
-    "id": "c2a3daa9-ec19-4a9f-8474-752b3cbfb1ff",
-    "postal": "670628"
   },
   {
     "name": "NENE CHICKEN",

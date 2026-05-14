@@ -1,5 +1,48 @@
 [
   {
+    "timestamp": "2026-05-14T22:37:10.466427",
+    "date": "2026-05-14",
+    "summary": {
+      "new": 2,
+      "removed": 1,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "HAJI M.N. SHAHUL HAMEED MARKETING",
+          "address": "665 BUFFALO ROAD #01-126/127 ZHUJIAO CENTRE (TEKKA MARKET) 210665",
+          "type": "Hawker",
+          "number": "EEHK20230000036",
+          "scheme": "Eating Establishment",
+          "id": "85e4a3fd-d83a-4eb9-b421-aea67d64f888",
+          "postal": "210665"
+        },
+        {
+          "name": "MULAN YIPIN LANZHOU BEEF NOODLE",
+          "address": "283/283A SOUTH BRIDGE ROAD 058832",
+          "type": "Restaurant",
+          "number": "EERT26050000005",
+          "scheme": "Eating Establishment",
+          "id": "2d17f5a9-e0f3-4144-a3dc-4a7c09b9ff6a",
+          "postal": "058832"
+        }
+      ],
+      "removed": [
+        {
+          "name": "NENE CHICKEN",
+          "address": "628 SENJA ROAD STALL 8, KOPITIAM CORNER #01-07 SENJA CENTRE 670628",
+          "type": "Hawker",
+          "number": "EEHK26030000072",
+          "scheme": "Eating Establishment",
+          "id": "c2a3daa9-ec19-4a9f-8474-752b3cbfb1ff",
+          "postal": "670628"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-05-13T22:41:40.714902",
     "date": "2026-05-13",
     "summary": {
@@ -8278,30 +8321,6 @@
           "postal": "198833"
         }
       ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-03-11T22:20:11.351946",
-    "date": "2026-03-11",
-    "summary": {
-      "new": 1,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Bytes Cafe (Mngd By The Wok People)",
-          "address": "5 TAMPINES INDUSTRIAL CRESCENT #02-00 529557",
-          "type": "Staff Canteen",
-          "number": "EESC26030000002",
-          "scheme": "Eating Establishment",
-          "id": "f9bd12ce-2cb1-4ee4-beb3-21ce8c64f92f",
-          "postal": "529557"
-        }
-      ],
-      "removed": [],
       "updated": []
     }
   }
