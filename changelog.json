@@ -1,5 +1,192 @@
 [
   {
+    "timestamp": "2026-05-15T22:34:09.576962",
+    "date": "2026-05-15",
+    "summary": {
+      "new": 12,
+      "removed": 7,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "GELARE",
+          "address": "1 PASIR RIS CENTRAL STREET 3 #02-K5/K6/K7 WHITE SANDS 518457",
+          "type": "Restaurant",
+          "number": "EERT20250000358",
+          "scheme": "Eating Establishment",
+          "id": "8297f808-92a7-4884-92d8-95daab047e0e",
+          "postal": "518457"
+        },
+        {
+          "name": "HIGH SCHOOL CANTEEN KITCHEN @ SAS (Managed by Sodexo Singapore)",
+          "address": "40 WOODLANDS STREET 41 #01-00 SINGAPORE AMERICAN SCHOOL, Canteen 1, Level 1, Block 5 738547",
+          "type": "Central Kitchen",
+          "number": "FPCK20240000198",
+          "scheme": "Food Preparation Area",
+          "id": "135171eb-3e4c-4919-a2e4-6f942cd1f423",
+          "postal": "738547"
+        },
+        {
+          "name": "GELARE",
+          "address": "1 WOODLANDS SQUARE #03-K06/K07/K08 CAUSEWAY POINT 738099",
+          "type": "Restaurant",
+          "number": "EERT20250000359",
+          "scheme": "Eating Establishment",
+          "id": "8297f808-92a7-4884-92d8-95daab047e0e",
+          "postal": "738099"
+        },
+        {
+          "name": "JAPANESE & KOREAN CUISINE(S3) @ GRAINS & HOPS FOOD COURT",
+          "address": "573 WOODLANDS DRIVE 16 #01-01, Stall 3 730573",
+          "type": "Hawker",
+          "number": "EEHN21030012177",
+          "scheme": "Eating Establishment",
+          "id": "46e98788-d6ec-444a-8f6b-03c3bc781441",
+          "postal": "730573"
+        },
+        {
+          "name": "Korea Culture",
+          "address": "EXPO HALL 7, 9 SOMAPAH ROAD SINGAPORE EXPO (HALL 7), HALL 7 KIOSK 1 487370",
+          "type": "Short Term Stall(Bazaar/Road Shows)",
+          "number": "EEST26050000040",
+          "scheme": "Eating Establishment",
+          "id": "3cdc1589-a08d-43fc-a5cd-793d1ace3f28",
+          "postal": "487370"
+        },
+        {
+          "name": "Gelare",
+          "address": "50 NANYANG AVENUE #01-19 NANYANG TECHNOLOGICAL UNIVERSITY 639798",
+          "type": "Restaurant",
+          "number": "EERT20240001093",
+          "scheme": "Eating Establishment",
+          "id": "8297f808-92a7-4884-92d8-95daab047e0e",
+          "postal": "639798"
+        },
+        {
+          "name": "Kowboy UFO Burger & Milkshake",
+          "address": "25 BALI LANE #01 KAMPONG GLAM CONSERVATION AREA 189861",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000299",
+          "scheme": "Eating Establishment",
+          "id": "81a9d8cc-aa88-4f0a-b82f-d45cc9e63f64",
+          "postal": "189861"
+        },
+        {
+          "name": "GELARE",
+          "address": "1 NORTHPOINT DRIVE #02-114 NORTHPOINT CITY 768019",
+          "type": "Restaurant",
+          "number": "EERN21020012129",
+          "scheme": "Eating Establishment",
+          "id": "8297f808-92a7-4884-92d8-95daab047e0e",
+          "postal": "768019"
+        },
+        {
+          "name": "De Sinn Hainanese Chicken Rice",
+          "address": "461 YISHUN AVENUE 6 #01-16 BLOSSOM SPRING @ YISHUN 760461",
+          "type": "Hawker",
+          "number": "EEHK26050000003",
+          "scheme": "Eating Establishment",
+          "id": "5dab648c-825f-4778-a50a-20dee5a712c7",
+          "postal": "760461"
+        },
+        {
+          "name": "Gelare",
+          "address": "201 VICTORIA STREET #05-10 BUGIS+ 188067",
+          "type": "Restaurant",
+          "number": "EERT20230001042",
+          "scheme": "Eating Establishment",
+          "id": "8297f808-92a7-4884-92d8-95daab047e0e",
+          "postal": "188067"
+        },
+        {
+          "name": "PIZZA HUT SINGAPORE PTE LTD",
+          "address": "50 SERANGOON AVENUE 2 #01-03 BRADDELL HEIGHTS COMMUNITY CLUB 556129",
+          "type": "Restaurant",
+          "number": "EERT26040000006",
+          "scheme": "Eating Establishment",
+          "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
+          "postal": "556129"
+        },
+        {
+          "name": "Gelare",
+          "address": "8 GRANGE ROAD #02-06A/06B CATHAY CINELEISURE ORCHARD 239695",
+          "type": "Restaurant",
+          "number": "EERT20240000267",
+          "scheme": "Eating Establishment",
+          "id": "8297f808-92a7-4884-92d8-95daab047e0e",
+          "postal": "239695"
+        }
+      ],
+      "removed": [
+        {
+          "name": "RASEL CATERING SINGAPORE PTE. LTD.",
+          "address": "157 PANDAN LOOP 128355",
+          "type": "Catering Company",
+          "number": "FPCA20230000443",
+          "scheme": "Food Preparation Area",
+          "id": "ccbcda18-63ed-43d5-af63-b6e1d7d1fe78",
+          "postal": "128355"
+        },
+        {
+          "name": "SALMON WARRIOR",
+          "address": "10 EUNOS ROAD 8 #B1-165/166 SINGAPORE POST CENTRE 408600",
+          "type": "Restaurant",
+          "number": "EERT20220000671",
+          "scheme": "Eating Establishment",
+          "id": "552d459f-80f2-4527-a23e-56e82ec08b64",
+          "postal": "408600"
+        },
+        {
+          "name": "Srisun Express",
+          "address": "56 SERANGOON GARDEN WAY SERANGOON GARDEN ESTATE 555952",
+          "type": "Restaurant",
+          "number": "EERX21040012274",
+          "scheme": "Eating Establishment",
+          "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
+          "postal": "555952"
+        },
+        {
+          "name": "Sanook Kitchen",
+          "address": "16 LORONG MAMBONG HOLLAND VILLAGE 277677",
+          "type": "Restaurant",
+          "number": "EERN21080012849",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "277677"
+        },
+        {
+          "name": "Rasel Catering Singapore Pte Ltd",
+          "address": "253 PANDAN LOOP 128432",
+          "type": "Catering Company",
+          "number": "FPGN21020001494",
+          "scheme": "Food Preparation Area",
+          "id": "ccbcda18-63ed-43d5-af63-b6e1d7d1fe78",
+          "postal": "128432"
+        },
+        {
+          "name": "SUBWAY",
+          "address": "9 WOODLANDS AVENUE 9 #01-02/03 REPUBLIC POLYTECHNIC 738964",
+          "type": "Restaurant",
+          "number": "EERN21110013109",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "738964"
+        },
+        {
+          "name": "SUBWAY",
+          "address": "31 WOODLANDS AVENUE 6 #01-02 WOODLANDS GALAXY COMMUNITY CLUB 738991",
+          "type": "Restaurant",
+          "number": "EERN21120013223",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "738991"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-05-14T22:37:10.466427",
     "date": "2026-05-14",
     "summary": {
@@ -8287,40 +8474,6 @@
         }
       ],
       "removed": [],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-03-12T22:19:02.630133",
-    "date": "2026-03-12",
-    "summary": {
-      "new": 1,
-      "removed": 1,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Western Grillin (S5) @ HTA Cafeteria",
-          "address": "501 OLD CHOA CHU KANG ROAD Home Team Academy (1st Storey), STALL 5 698928",
-          "type": "Hawker",
-          "number": "EEHN22020012564",
-          "scheme": "Eating Establishment",
-          "id": "a2b6a604-fd5e-440e-aa2c-ea8c383b208f",
-          "postal": "698928"
-        }
-      ],
-      "removed": [
-        {
-          "name": "THE ORIGINAL VADAI",
-          "address": "Kampong Gelam Ramadan Bazaar, 3 MUSCAT STREET MASJID SULTAN, K32 198833",
-          "type": "Short Term Stall(Bazaar/Road Shows)",
-          "number": "EEST26020000107",
-          "scheme": "Eating Establishment",
-          "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
-          "postal": "198833"
-        }
-      ],
       "updated": []
     }
   }
