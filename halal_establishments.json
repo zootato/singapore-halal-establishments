@@ -4131,6 +4131,24 @@
     "postal": "389908"
   },
   {
+    "name": "Bumbu Restaurant",
+    "address": "4 QUEEN'S ROAD #02-101 260004",
+    "type": "Restaurant",
+    "number": "EERN22030013535",
+    "scheme": "Eating Establishment",
+    "id": "876c7f52-6654-4378-a665-e787ca288b56",
+    "postal": "260004"
+  },
+  {
+    "name": "Bumbu Restaurant",
+    "address": "44 KANDAHAR STREET 198897",
+    "type": "Restaurant",
+    "number": "EERN22030013536",
+    "scheme": "Eating Establishment",
+    "id": "876c7f52-6654-4378-a665-e787ca288b56",
+    "postal": "198897"
+  },
+  {
     "name": "BURGER KING",
     "address": "120 PASIR RIS CENTRAL #01-11 PASIR RIS SPORTS & RECREATION CENTRE 519640",
     "type": "Restaurant",
