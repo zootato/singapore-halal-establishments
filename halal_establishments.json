@@ -5148,6 +5148,33 @@
     "postal": "489950"
   },
   {
+    "name": "Campur Nasi Padang",
+    "address": "1 ENGKU AMAN TURN #01-03 GEYLANG SERAI COMMUNITY CLUB 408528",
+    "type": "Restaurant",
+    "number": "EERT26050000029",
+    "scheme": "Eating Establishment",
+    "id": "0eb02ea3-7025-4a7a-9d29-f868e064261c",
+    "postal": "408528"
+  },
+  {
+    "name": "Campur Nasi Padang",
+    "address": "1 PASIR RIS CLOSE #02-306 E!HUB @ DOWNTOWN EAST 519599",
+    "type": "Restaurant",
+    "number": "EERT26050000030",
+    "scheme": "Eating Establishment",
+    "id": "0eb02ea3-7025-4a7a-9d29-f868e064261c",
+    "postal": "519599"
+  },
+  {
+    "name": "Campur Nasi Padang",
+    "address": "1 ENGKU AMAN TURN #01-03 WISMA GEYLANG SERAI 408528",
+    "type": "Catering Company",
+    "number": "FPCA26050000028",
+    "scheme": "Food Preparation Area",
+    "id": "0eb02ea3-7025-4a7a-9d29-f868e064261c",
+    "postal": "408528"
+  },
+  {
     "name": "CANADIAN 2 FOR 1 PIZZA",
     "address": "242 JURONG EAST STREET 24 #01-627 600242",
     "type": "Restaurant",
@@ -7191,15 +7218,6 @@
     "postal": "828761"
   },
   {
-    "name": "CRAVE",
-    "address": "1 LOWER KENT RIDGE ROAD #01-09/19/20 ONE @ KENTRIDGE 119082",
-    "type": "Restaurant",
-    "number": "EERN21050012353",
-    "scheme": "Eating Establishment",
-    "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
-    "postal": "119082"
-  },
-  {
     "name": "Cravy For Crispy Chicken",
     "address": "1 JELEBU ROAD #01-40 BUKIT PANJANG PLAZA 677743",
     "type": "Snack Bar / Bakery",
@@ -7786,6 +7804,15 @@
   },
   {
     "name": "DAPUR PENYET",
+    "address": "176 ORCHARD ROAD #01-59/60/61/62 THE CENTREPOINT 238843",
+    "type": "Restaurant",
+    "number": "EERT26050000033",
+    "scheme": "Eating Establishment",
+    "id": "4bd8f8c1-67ec-4477-b6c1-389fa3d7526c",
+    "postal": "238843"
+  },
+  {
+    "name": "DAPUR PENYET",
     "address": "78 AIRPORT BOULEVARD #B2-241 / 242 JEWEL CHANGI AIRPORT 819666",
     "type": "Restaurant",
     "number": "EERT20220000118",
@@ -8272,21 +8299,21 @@
   },
   {
     "name": "Do Qoo",
-    "address": "2 JURONG EAST STREET 21 #01-37 IMM BUILDING 609601",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000018",
-    "scheme": "Eating Establishment",
-    "id": "00ba342f-f509-4c61-b6e9-e6cd94707bb6",
-    "postal": "609601"
-  },
-  {
-    "name": "Do Qoo",
     "address": "676 WOODLANDS DRIVE 71 #01-13 730676",
     "type": "Restaurant",
     "number": "EERT20220000221",
     "scheme": "Eating Establishment",
     "id": "00ba342f-f509-4c61-b6e9-e6cd94707bb6",
     "postal": "730676"
+  },
+  {
+    "name": "Do Qoo",
+    "address": "2 JURONG EAST STREET 21 #01-37 IMM BUILDING 609601",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000018",
+    "scheme": "Eating Establishment",
+    "id": "00ba342f-f509-4c61-b6e9-e6cd94707bb6",
+    "postal": "609601"
   },
   {
     "name": "Do Qoo",
@@ -8341,15 +8368,6 @@
     "scheme": "Eating Establishment",
     "id": "b81b4c0b-5e15-428b-ac30-e7acefae3dcf",
     "postal": "169364"
-  },
-  {
-    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
-    "address": "918 EAST COAST ROAD 918 459111",
-    "type": "Restaurant",
-    "number": "EERN21060012529",
-    "scheme": "Eating Establishment",
-    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
-    "postal": "459111"
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
@@ -8530,6 +8548,15 @@
     "scheme": "Eating Establishment",
     "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
     "postal": "820322"
+  },
+  {
+    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+    "address": "918 EAST COAST ROAD 918 459111",
+    "type": "Restaurant",
+    "number": "EERN21060012529",
+    "scheme": "Eating Establishment",
+    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+    "postal": "459111"
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
@@ -10440,15 +10467,6 @@
     "postal": "648886"
   },
   {
-    "name": "FISH & CO.",
-    "address": "11 BIDADARI PARK DRIVE #01-37 THE WOODLEIGH MALL 367803",
-    "type": "Restaurant",
-    "number": "EERT20240001259",
-    "scheme": "Eating Establishment",
-    "id": "df22ebcd-10f7-43a7-8143-8eaecd612a7a",
-    "postal": "367803"
-  },
-  {
     "name": "Fish & Co.",
     "address": "524A JELAPANG ROAD #01-03 GREENRIDGE SHOPPING CENTRE, STALL 6 671524",
     "type": "Hawker",
@@ -10474,6 +10492,15 @@
     "scheme": "Eating Establishment",
     "id": "6abb1b61-dc88-42cc-9d64-a8e900a62115",
     "postal": "544829"
+  },
+  {
+    "name": "FISH & CO.",
+    "address": "11 BIDADARI PARK DRIVE #01-37 THE WOODLEIGH MALL 367803",
+    "type": "Restaurant",
+    "number": "EERT20240001259",
+    "scheme": "Eating Establishment",
+    "id": "df22ebcd-10f7-43a7-8143-8eaecd612a7a",
+    "postal": "367803"
   },
   {
     "name": "FISH & CO. RESTAURANTS PTE LTD",

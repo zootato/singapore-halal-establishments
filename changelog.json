@@ -1,5 +1,66 @@
 [
   {
+    "timestamp": "2026-05-19T22:41:57.469257",
+    "date": "2026-05-19",
+    "summary": {
+      "new": 4,
+      "removed": 1,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Campur Nasi Padang",
+          "address": "1 ENGKU AMAN TURN #01-03 GEYLANG SERAI COMMUNITY CLUB 408528",
+          "type": "Restaurant",
+          "number": "EERT26050000029",
+          "scheme": "Eating Establishment",
+          "id": "0eb02ea3-7025-4a7a-9d29-f868e064261c",
+          "postal": "408528"
+        },
+        {
+          "name": "Campur Nasi Padang",
+          "address": "1 ENGKU AMAN TURN #01-03 WISMA GEYLANG SERAI 408528",
+          "type": "Catering Company",
+          "number": "FPCA26050000028",
+          "scheme": "Food Preparation Area",
+          "id": "0eb02ea3-7025-4a7a-9d29-f868e064261c",
+          "postal": "408528"
+        },
+        {
+          "name": "DAPUR PENYET",
+          "address": "176 ORCHARD ROAD #01-59/60/61/62 THE CENTREPOINT 238843",
+          "type": "Restaurant",
+          "number": "EERT26050000033",
+          "scheme": "Eating Establishment",
+          "id": "4bd8f8c1-67ec-4477-b6c1-389fa3d7526c",
+          "postal": "238843"
+        },
+        {
+          "name": "Campur Nasi Padang",
+          "address": "1 PASIR RIS CLOSE #02-306 E!HUB @ DOWNTOWN EAST 519599",
+          "type": "Restaurant",
+          "number": "EERT26050000030",
+          "scheme": "Eating Establishment",
+          "id": "0eb02ea3-7025-4a7a-9d29-f868e064261c",
+          "postal": "519599"
+        }
+      ],
+      "removed": [
+        {
+          "name": "CRAVE",
+          "address": "1 LOWER KENT RIDGE ROAD #01-09/19/20 ONE @ KENTRIDGE 119082",
+          "type": "Restaurant",
+          "number": "EERN21050012353",
+          "scheme": "Eating Establishment",
+          "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
+          "postal": "119082"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-05-18T22:34:58.922808",
     "date": "2026-05-18",
     "summary": {
@@ -8607,112 +8668,6 @@
           }
         }
       ]
-    }
-  },
-  {
-    "timestamp": "2026-03-15T22:19:11.097633",
-    "date": "2026-03-15",
-    "summary": {
-      "new": 3,
-      "removed": 7,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "CATERING CULTURE PTE LTD",
-          "address": "3017 BEDOK NORTH STREET 5 Gourmet East Kitchen #01-02 GOURMET EAST KITCHEN 486121",
-          "type": "Central Kitchen",
-          "number": "FPCK26030000020",
-          "scheme": "Food Preparation Area",
-          "id": "3bcdfaa6-bb5e-4922-8683-913a4df96d15",
-          "postal": "486121"
-        },
-        {
-          "name": "Chewy Junior",
-          "address": "1 PASIR RIS CENTRAL STREET 3 #B1-K07 WHITE SANDS 518457",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26030000021",
-          "scheme": "Eating Establishment",
-          "id": "e771787a-3073-49e7-946c-d641dbf56153",
-          "postal": "518457"
-        },
-        {
-          "name": "BERADIK WESTERN",
-          "address": "1 SENGKANG SQUARE #04-11 KOPITIAM COMPASS ONE, Stall 20 545078",
-          "type": "Hawker",
-          "number": "EEHK26030000033",
-          "scheme": "Eating Establishment",
-          "id": "6ffc5a28-9ba0-4258-bc3d-5ae677b2a41e",
-          "postal": "545078"
-        }
-      ],
-      "removed": [
-        {
-          "name": "THE ORIGINAL VADAI",
-          "address": "Admiralty Ramadan Bazaar, 683B WOODLANDS DRIVE 62, 28 732683",
-          "type": "Short Term Stall(Bazaar/Road Shows)",
-          "number": "EEST26020000112",
-          "scheme": "Eating Establishment",
-          "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
-          "postal": "732683"
-        },
-        {
-          "name": "THE ORIGINAL VADAI",
-          "address": "Bazaar Raya Geylang Serai, 1 GEYLANG SERAI SRI GEYLANG SERAI, 37, 38 402001",
-          "type": "Short Term Stall(Bazaar/Road Shows)",
-          "number": "EEST26020000110",
-          "scheme": "Eating Establishment",
-          "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
-          "postal": "402001"
-        },
-        {
-          "name": "THE ORIGINAL VADAI",
-          "address": "Bazaar Raya Geylang Serai, 1 ENGKU AMAN TURN WISMA GEYLANG SERAI, 7 408528",
-          "type": "Short Term Stall(Bazaar/Road Shows)",
-          "number": "EEST26020000109",
-          "scheme": "Eating Establishment",
-          "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
-          "postal": "408528"
-        },
-        {
-          "name": "THE ORIGINAL VADAI",
-          "address": "Pelita Raya Bazaar, 20 TAMPINES CENTRAL 1 TAMPINES MRT STATION (EW2), F33 529538",
-          "type": "Short Term Stall(Bazaar/Road Shows)",
-          "number": "EEST26020000106",
-          "scheme": "Eating Establishment",
-          "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
-          "postal": "529538"
-        },
-        {
-          "name": "PEZZO",
-          "address": "1 NORTHPOINT DRIVE #B2-152 NORTHPOINT CITY 768019",
-          "type": "Snack Bar / Bakery",
-          "number": "EEBX22010013066",
-          "scheme": "Eating Establishment",
-          "id": "49b74e8e-3054-4cf6-ac23-1aa44135302b",
-          "postal": "768019"
-        },
-        {
-          "name": "Home of Seafood / Home of Sushi / Divine by Home of Seafood",
-          "address": "Gemilang Kampong Gelam, 38 KANDAHAR STREET KAMPONG GLAM CONSERVATION AREA, K30 198894",
-          "type": "Short Term Stall(Bazaar/Road Shows)",
-          "number": "EEST26020000103",
-          "scheme": "Eating Establishment",
-          "id": "066a00a7-fc46-43ee-ad5d-d062e6ea3de0",
-          "postal": "198894"
-        },
-        {
-          "name": "Srisun Express",
-          "address": "681 HOUGANG AVENUE 8 #01-831 HOUGANG VILLAGE 530681",
-          "type": "Restaurant",
-          "number": "EERT20230000895",
-          "scheme": "Eating Establishment",
-          "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
-          "postal": "530681"
-        }
-      ],
-      "updated": []
     }
   }
 ]
