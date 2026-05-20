@@ -12447,6 +12447,15 @@
     "postal": "530678"
   },
   {
+    "name": "HARA HONG KONG TIM SUM PTE LTD",
+    "address": "30 SENOKO DRIVE #02-02 SENOKO INDUSTRIAL ESTATE 758215",
+    "type": "Central Kitchen",
+    "number": "FPCK26050000049",
+    "scheme": "Food Preparation Area",
+    "id": "0b33d0c5-213c-487a-bf99-914ccc44f4a4",
+    "postal": "758215"
+  },
+  {
     "name": "HARYASIN WEDDING BIRYANI",
     "address": "14 CUFF ROAD #1st Storey LITTLE INDIA CONSERVATION AREA 209725",
     "type": "Restaurant",
@@ -32740,6 +32749,24 @@
     "scheme": "Eating Establishment",
     "id": "6cedb673-9bc6-456c-b64b-d1f67203ea48",
     "postal": "486038"
+  },
+  {
+    "name": "THAI MAKAN",
+    "address": "456 JURONG WEST STREET 41 Mr Teh Tarik Eating House (Stall 4) #01-750 640456",
+    "type": "Hawker",
+    "number": "EEHK25120000065",
+    "scheme": "Eating Establishment",
+    "id": "f8a553df-8b21-4c61-881f-cfef28b2854d",
+    "postal": "640456"
+  },
+  {
+    "name": "Thai Makan (S2) @ Kopitiam NUH Main Building",
+    "address": "5 LOWER KENT RIDGE ROAD #01-01 NATIONAL UNIVERSITY HOSPITAL, STALL 2 119074",
+    "type": "Hawker",
+    "number": "EEHK20230000899",
+    "scheme": "Eating Establishment",
+    "id": "6f4a763a-68c2-4036-9486-f7872189ff88",
+    "postal": "119074"
   },
   {
     "name": "Thaksin Beef Noodle",
