@@ -4968,6 +4968,15 @@
     "postal": "409006"
   },
   {
+    "name": "CAFE 85 @HOLIDAY INN (MNGD BY PRO*3 INSTITUTIONAL CATERING PL)",
+    "address": "317 OUTRAM ROAD #B2-00 HOLIDAY INN SINGAPORE ATRIUM 169075",
+    "type": "Staff Canteen",
+    "number": "EESC20240000160",
+    "scheme": "Eating Establishment",
+    "id": "642f5b42-567b-4906-a40a-7919d0cc3bc6",
+    "postal": "169075"
+  },
+  {
     "name": "CAFE @ TMUC (Mngd By Thomson Catering)",
     "address": "20 TEMBUSU CRESCENT 627610",
     "type": "Staff Canteen",
@@ -8161,6 +8170,15 @@
     "scheme": "Food Preparation Area",
     "id": "161e4c4a-fc23-45fd-9c8d-4e9b30bfbb0b",
     "postal": "737859"
+  },
+  {
+    "name": "DELIZIO CATERING PTE. LTD.",
+    "address": "5 BURN ROAD #03-01/02 TEE YIH JIA FOOD BUILDING 369972",
+    "type": "Catering Company",
+    "number": "FPCA26050000022",
+    "scheme": "Food Preparation Area",
+    "id": "ca0e9367-2314-4812-a41e-4f2e8554d78a",
+    "postal": "369972"
   },
   {
     "name": "DELIZIO CATERING PTE. LTD.",
@@ -11413,15 +11431,6 @@
   },
   {
     "name": "Go-Ang Pratunam Chicken Rice",
-    "address": "50 JURONG GATEWAY ROAD #B1-08 JEM 608549",
-    "type": "Restaurant",
-    "number": "EERN21100012904",
-    "scheme": "Eating Establishment",
-    "id": "825dda24-e8f5-4381-ac0b-8b2ff9fd9c36",
-    "postal": "608549"
-  },
-  {
-    "name": "Go-Ang Pratunam Chicken Rice",
     "address": "134 AMOY STREET #01-01 Far East Square 049963",
     "type": "Restaurant",
     "number": "EERT20240001026",
@@ -11464,6 +11473,15 @@
     "scheme": "Eating Establishment",
     "id": "825dda24-e8f5-4381-ac0b-8b2ff9fd9c36",
     "postal": "038983"
+  },
+  {
+    "name": "Go-Ang Pratunam Chicken Rice",
+    "address": "50 JURONG GATEWAY ROAD #B1-08 JEM 608549",
+    "type": "Restaurant",
+    "number": "EERN21100012904",
+    "scheme": "Eating Establishment",
+    "id": "825dda24-e8f5-4381-ac0b-8b2ff9fd9c36",
+    "postal": "608549"
   },
   {
     "name": "Go-Ang Pratunam Chicken Rice",
@@ -27406,6 +27424,15 @@
   },
   {
     "name": "Seabay Delight Wok Delight",
+    "address": "638A JURONG WEST STREET 61 STALL 03,KOUFU #01-22 MULTI STOREY CAR PARK 641638",
+    "type": "Hawker",
+    "number": "EEHK26050000046",
+    "scheme": "Eating Establishment",
+    "id": "4d0916a0-8297-448b-9957-fde39e356c77",
+    "postal": "641638"
+  },
+  {
+    "name": "Seabay Delight Wok Delight",
     "address": "9 TAMPINES STREET 32 MR4 Koufu #01-01/02/14 TAMPINES MART 529286",
     "type": "Hawker",
     "number": "EEHK25100000114",
@@ -32878,15 +32905,6 @@
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "65 AIRPORT BOULEVARD #02-K4 CHANGI AIRPORT TERMINAL 3 (DEPARTURE / TRANSIT LOUNGE SOUTH) 819642",
-    "type": "Restaurant",
-    "number": "EERN21120013290",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "819642"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
     "address": "604 SEMBAWANG ROAD #01-10/11 SEMBAWANG SHOPPING CENTRE 758459",
     "type": "Restaurant",
     "number": "EERN21120013229",
@@ -33199,6 +33217,15 @@
     "scheme": "Eating Establishment",
     "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
     "postal": "538766"
+  },
+  {
+    "name": "THE COFFEE BEAN & TEA LEAF",
+    "address": "65 AIRPORT BOULEVARD #02-K4 CHANGI AIRPORT TERMINAL 3 (DEPARTURE / TRANSIT LOUNGE SOUTH) 819642",
+    "type": "Restaurant",
+    "number": "EERN21120013290",
+    "scheme": "Eating Establishment",
+    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+    "postal": "819642"
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
@@ -36946,7 +36973,7 @@
   },
   {
     "name": "YES! NASI KUKUS & NASI LEMAK (S3)@ HZB CANTEEN WAVE 9",
-    "address": "71 WOODLANDS INDUSTRIAL PARK E9 #01-04 WAVE9,(Stall 3) 757048",
+    "address": "71 WOODLANDS INDUSTRIAL PARK E9 #01-04 WAVE9, (Stall 3) 757048",
     "type": "Hawker",
     "number": "EEHK20240000933",
     "scheme": "Eating Establishment",
@@ -36955,7 +36982,7 @@
   },
   {
     "name": "YES! STEAM RICE FRIED CHICKEN (S4) @ GRAINS & HOPS FOODCOURT",
-    "address": "573 WOODLANDS DRIVE 16 #01-01,Stall 4 730573",
+    "address": "573 WOODLANDS DRIVE 16 #01-01, Stall 4 730573",
     "type": "Hawker",
     "number": "EEHN22010013055",
     "scheme": "Eating Establishment",
@@ -36964,7 +36991,7 @@
   },
   {
     "name": "YES! STEAM RICE FRIED CHICKEN(S3) @FOOD HUB",
-    "address": "48 Toh Guan Road East #01-124/129 Enterprise Hub,Stall 3 608586",
+    "address": "48 Toh Guan Road East #01-124/129 Enterprise Hub, Stall 3 608586",
     "type": "Hawker",
     "number": "EEHN21100012708",
     "scheme": "Eating Establishment",

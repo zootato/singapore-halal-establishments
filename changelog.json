@@ -1,5 +1,108 @@
 [
   {
+    "timestamp": "2026-05-21T22:41:52.164203",
+    "date": "2026-05-21",
+    "summary": {
+      "new": 3,
+      "removed": 0,
+      "updated": 3
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "CAFE 85 @HOLIDAY INN (MNGD BY PRO*3 INSTITUTIONAL CATERING PL)",
+          "address": "317 OUTRAM ROAD #B2-00 HOLIDAY INN SINGAPORE ATRIUM 169075",
+          "type": "Staff Canteen",
+          "number": "EESC20240000160",
+          "scheme": "Eating Establishment",
+          "id": "642f5b42-567b-4906-a40a-7919d0cc3bc6",
+          "postal": "169075"
+        },
+        {
+          "name": "DELIZIO CATERING PTE. LTD.",
+          "address": "5 BURN ROAD #03-01/02 TEE YIH JIA FOOD BUILDING 369972",
+          "type": "Catering Company",
+          "number": "FPCA26050000022",
+          "scheme": "Food Preparation Area",
+          "id": "ca0e9367-2314-4812-a41e-4f2e8554d78a",
+          "postal": "369972"
+        },
+        {
+          "name": "Seabay Delight Wok Delight",
+          "address": "638A JURONG WEST STREET 61 STALL 03,KOUFU #01-22 MULTI STOREY CAR PARK 641638",
+          "type": "Hawker",
+          "number": "EEHK26050000046",
+          "scheme": "Eating Establishment",
+          "id": "4d0916a0-8297-448b-9957-fde39e356c77",
+          "postal": "641638"
+        }
+      ],
+      "removed": [],
+      "updated": [
+        {
+          "previous": {
+            "name": "YES! NASI KUKUS & NASI LEMAK (S3)@ HZB CANTEEN WAVE 9",
+            "address": "71 WOODLANDS INDUSTRIAL PARK E9 #01-04 WAVE9,(Stall 3) 757048",
+            "type": "Hawker",
+            "number": "EEHK20240000933",
+            "scheme": "Eating Establishment",
+            "id": "082c2c47-c65f-44ee-bbc6-72a89bc9c738",
+            "postal": "757048"
+          },
+          "current": {
+            "name": "YES! NASI KUKUS & NASI LEMAK (S3)@ HZB CANTEEN WAVE 9",
+            "address": "71 WOODLANDS INDUSTRIAL PARK E9 #01-04 WAVE9, (Stall 3) 757048",
+            "type": "Hawker",
+            "number": "EEHK20240000933",
+            "scheme": "Eating Establishment",
+            "id": "082c2c47-c65f-44ee-bbc6-72a89bc9c738",
+            "postal": "757048"
+          }
+        },
+        {
+          "previous": {
+            "name": "YES! STEAM RICE FRIED CHICKEN (S4) @ GRAINS & HOPS FOODCOURT",
+            "address": "573 WOODLANDS DRIVE 16 #01-01,Stall 4 730573",
+            "type": "Hawker",
+            "number": "EEHN22010013055",
+            "scheme": "Eating Establishment",
+            "id": "f6679522-de89-41b2-965e-dd27d953ab98",
+            "postal": "730573"
+          },
+          "current": {
+            "name": "YES! STEAM RICE FRIED CHICKEN (S4) @ GRAINS & HOPS FOODCOURT",
+            "address": "573 WOODLANDS DRIVE 16 #01-01, Stall 4 730573",
+            "type": "Hawker",
+            "number": "EEHN22010013055",
+            "scheme": "Eating Establishment",
+            "id": "f6679522-de89-41b2-965e-dd27d953ab98",
+            "postal": "730573"
+          }
+        },
+        {
+          "previous": {
+            "name": "YES! STEAM RICE FRIED CHICKEN(S3) @FOOD HUB",
+            "address": "48 Toh Guan Road East #01-124/129 Enterprise Hub,Stall 3 608586",
+            "type": "Hawker",
+            "number": "EEHN21100012708",
+            "scheme": "Eating Establishment",
+            "id": "c834e4a2-71ca-4f7f-afeb-e1631e789f10",
+            "postal": "608586"
+          },
+          "current": {
+            "name": "YES! STEAM RICE FRIED CHICKEN(S3) @FOOD HUB",
+            "address": "48 Toh Guan Road East #01-124/129 Enterprise Hub, Stall 3 608586",
+            "type": "Hawker",
+            "number": "EEHN21100012708",
+            "scheme": "Eating Establishment",
+            "id": "c834e4a2-71ca-4f7f-afeb-e1631e789f10",
+            "postal": "608586"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-05-20T22:44:44.876805",
     "date": "2026-05-20",
     "summary": {
@@ -8384,94 +8487,6 @@
           "scheme": "Eating Establishment",
           "id": "f915e579-b9cd-4066-a6e4-ff736d7c7f4d",
           "postal": "408528"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-03-17T22:24:15.761805",
-    "date": "2026-03-17",
-    "summary": {
-      "new": 6,
-      "removed": 2,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Saute Sushi",
-          "address": "60 PAYA LEBAR ROAD #B1-19 PAYA LEBAR SQUARE 409051",
-          "type": "Restaurant",
-          "number": "EERT20240000009",
-          "scheme": "Eating Establishment",
-          "id": "5f5e7938-d2ca-47d7-aeca-c9779cdae0a3",
-          "postal": "409051"
-        },
-        {
-          "name": "Saute Saranghae",
-          "address": "10 TAMPINES CENTRAL 1 #05-08/09 TAMPINES ONE 529536",
-          "type": "Restaurant",
-          "number": "EERT20240000496",
-          "scheme": "Eating Establishment",
-          "id": "953557b4-8f10-4cef-a959-e0d19f27a842",
-          "postal": "529536"
-        },
-        {
-          "name": "LE MAK'S CHICK / BEVERAGE",
-          "address": "26 SENTOSA GATEWAY #02-202/203 SHOWPLACE (RESORTS WORLD SENTOSA), STALL 12/13, NASI & SPICE 098138",
-          "type": "Hawker",
-          "number": "EEHK26020000127",
-          "scheme": "Eating Establishment",
-          "id": "9b07fdc8-07e4-45b0-a216-94e600e264b8",
-          "postal": "098138"
-        },
-        {
-          "name": "A Tangerine Wok",
-          "address": "21 TAMPINES AVENUE 1 Stall 3 Block 1A Foodgle @ Sprout #02-76 TEMASEK POLYTECHNIC 529757",
-          "type": "Hawker",
-          "number": "EEHK26030000029",
-          "scheme": "Eating Establishment",
-          "id": "fab3ea1f-e9d1-4ff0-bdff-095d6de6324b",
-          "postal": "529757"
-        },
-        {
-          "name": "SAUTE-SAN",
-          "address": "180 KITCHENER ROAD #03-23/24 CITY SQUARE MALL 208539",
-          "type": "Restaurant",
-          "number": "EERT20220000877",
-          "scheme": "Eating Establishment",
-          "id": "c30500d3-8278-48e1-a104-78ce76197359",
-          "postal": "208539"
-        },
-        {
-          "name": "Flavours by Saute",
-          "address": "107 NORTH BRIDGE ROAD #B1-30 FUNAN 179105",
-          "type": "Restaurant",
-          "number": "EERT20240000010",
-          "scheme": "Eating Establishment",
-          "id": "72a580ab-8061-4179-94b8-8eecf41933c8",
-          "postal": "179105"
-        }
-      ],
-      "removed": [
-        {
-          "name": "SUPER SUSHI",
-          "address": "4 TAMPINES CENTRAL 5 #B1-K4 TAMPINES MALL 529510",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20240000837",
-          "scheme": "Eating Establishment",
-          "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
-          "postal": "529510"
-        },
-        {
-          "name": "Sunbo Express Chicken Rice & BBQ Central Kitchen",
-          "address": "10 TAMPINES NORTH DRIVE 4 #01-05/K6 JTC SPACE @ TAMPINES NORTH 528553",
-          "type": "Central Kitchen",
-          "number": "FPCK25110000037",
-          "scheme": "Food Preparation Area",
-          "id": "9fa9e5c6-5648-4bfa-84a3-a739e96b331e",
-          "postal": "528553"
         }
       ],
       "updated": []
