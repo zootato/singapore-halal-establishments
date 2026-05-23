@@ -30151,6 +30151,15 @@
   },
   {
     "name": "SUBWAY",
+    "address": "15 TAMPINES CENTRAL 1 #B1-07 TAMPINES MRT STATION (DT32) 529544",
+    "type": "Restaurant",
+    "number": "EERT26040000059",
+    "scheme": "Eating Establishment",
+    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+    "postal": "529544"
+  },
+  {
+    "name": "SUBWAY",
     "address": "68 ORCHARD ROAD #B2-33/34 PLAZA SINGAPURA 238839",
     "type": "Restaurant",
     "number": "EERT20220000916",
