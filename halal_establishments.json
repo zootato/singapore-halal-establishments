@@ -13167,6 +13167,15 @@
     "postal": "427739"
   },
   {
+    "name": "Home's Favourite Bakes / Andy's Pie",
+    "address": "310 ORCHARD ROAD #B1-03 TANG PLAZA 238864",
+    "type": "Restaurant",
+    "number": "EERT26050000038",
+    "scheme": "Eating Establishment",
+    "id": "40092bff-9bf0-449d-bee9-e14ac0c88752",
+    "postal": "238864"
+  },
+  {
     "name": "Homemade Italian (S58)@Tiong Bahru Market",
     "address": "30 SENG POH ROAD #02-58, STALL 58 168898",
     "type": "Hawker",
@@ -14329,15 +14338,6 @@
   },
   {
     "name": "Jollibee",
-    "address": "304 ORCHARD ROAD #B1-19-25, 43-46 LUCKY PLAZA 238863",
-    "type": "Restaurant",
-    "number": "EERT20250000452",
-    "scheme": "Eating Establishment",
-    "id": "141beb81-0153-470b-a8bb-09c539ee8ae1",
-    "postal": "238863"
-  },
-  {
-    "name": "Jollibee",
     "address": "25 PANDAN CRESCENT #B1-01 TO 07 Tic Tech Centre Kitchen 3 128477",
     "type": "Hawker",
     "number": "EEHK20220000251",
@@ -14416,6 +14416,15 @@
     "scheme": "Eating Establishment",
     "id": "141beb81-0153-470b-a8bb-09c539ee8ae1",
     "postal": "648886"
+  },
+  {
+    "name": "Jollibee",
+    "address": "304 ORCHARD ROAD #B1-19-25, 43-46 LUCKY PLAZA 238863",
+    "type": "Restaurant",
+    "number": "EERT20250000452",
+    "scheme": "Eating Establishment",
+    "id": "141beb81-0153-470b-a8bb-09c539ee8ae1",
+    "postal": "238863"
   },
   {
     "name": "Jollibee",
