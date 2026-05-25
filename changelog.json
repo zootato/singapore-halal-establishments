@@ -1,5 +1,60 @@
 [
   {
+    "timestamp": "2026-05-25T22:37:13.518120",
+    "date": "2026-05-25",
+    "summary": {
+      "new": 0,
+      "removed": 0,
+      "updated": 2
+    },
+    "changes": {
+      "new": [],
+      "removed": [],
+      "updated": [
+        {
+          "previous": {
+            "name": "Dapur Flora Chicken Rice (S5) @ Kopitiam Northpoint",
+            "address": "930 YISHUN AVENUE 2 #B2-12 NORTHPOINT,Stall 5 769098",
+            "type": "Hawker",
+            "number": "EEHK20240000295",
+            "scheme": "Eating Establishment",
+            "id": "25ea13eb-1eac-4c0d-a5d3-d7f2041d22e9",
+            "postal": "769098"
+          },
+          "current": {
+            "name": "Dapur Flora Chicken Rice (S5) @ Kopitiam Northpoint",
+            "address": "930 YISHUN AVENUE 2 #B2-12 NORTHPOINT, Stall 5 769098",
+            "type": "Hawker",
+            "number": "EEHK20240000295",
+            "scheme": "Eating Establishment",
+            "id": "25ea13eb-1eac-4c0d-a5d3-d7f2041d22e9",
+            "postal": "769098"
+          }
+        },
+        {
+          "previous": {
+            "name": "The Tree Cafe",
+            "address": "3 SIMEI STREET 6 EASTPOINT MALL 528833",
+            "type": "Restaurant",
+            "number": "EERT20250000382",
+            "scheme": "Eating Establishment",
+            "id": "c46acb89-ff04-470c-8633-cd33b3081fbc",
+            "postal": "528833"
+          },
+          "current": {
+            "name": "The Tree Cafe",
+            "address": "3 SIMEI STREET 6 #02-K1 EASTPOINT MALL 528833",
+            "type": "Restaurant",
+            "number": "EERT20250000382",
+            "scheme": "Eating Establishment",
+            "id": "c46acb89-ff04-470c-8633-cd33b3081fbc",
+            "postal": "528833"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-05-24T22:33:11.093032",
     "date": "2026-05-24",
     "summary": {
@@ -7636,336 +7691,6 @@
         }
       ],
       "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-03-23T22:21:41.442067",
-    "date": "2026-03-23",
-    "summary": {
-      "new": 14,
-      "removed": 3,
-      "updated": 8
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "SALMON WARRIOR",
-          "address": "10 EUNOS ROAD 8 #B1-165/166 SINGAPORE POST CENTRE 408600",
-          "type": "Restaurant",
-          "number": "EERT20220000671",
-          "scheme": "Eating Establishment",
-          "id": "552d459f-80f2-4527-a23e-56e82ec08b64",
-          "postal": "408600"
-        },
-        {
-          "name": "MR BEAN",
-          "address": "1 BUKIT BATOK CENTRAL LINK #01-07A WEST MALL 658713",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20220000215",
-          "scheme": "Eating Establishment",
-          "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
-          "postal": "658713"
-        },
-        {
-          "name": "Tim Hortons",
-          "address": "23 SERANGOON CENTRAL #01-10 NEX 556083",
-          "type": "Restaurant",
-          "number": "EERT26020000002",
-          "scheme": "Eating Establishment",
-          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-          "postal": "556083"
-        },
-        {
-          "name": "MUHIBAH RESTAURANT",
-          "address": "54 JALAN KEMBANGAN 419119",
-          "type": "Restaurant",
-          "number": "EERT26030000035",
-          "scheme": "Eating Establishment",
-          "id": "da2f7b38-3e13-4567-b254-f4c9d5d3d257",
-          "postal": "419119"
-        },
-        {
-          "name": "McDonald's",
-          "address": "4 BUKIT BATOK STREET 41 #01-42-45/50-54 LE QUEST 657991",
-          "type": "Restaurant",
-          "number": "EERN21010011971",
-          "scheme": "Eating Establishment",
-          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-          "postal": "657991"
-        },
-        {
-          "name": "Tenderbest",
-          "address": "824 TAMPINES STREET 81 #01-38 TAMPINES GROVE, Stall 9 520824",
-          "type": "Hawker",
-          "number": "EEHN21060012440",
-          "scheme": "Eating Establishment",
-          "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
-          "postal": "520824"
-        },
-        {
-          "name": "Tim Hortons",
-          "address": "3 TEMASEK BOULEVARD #01-314 SUNTEC CITY MALL 038983",
-          "type": "Restaurant",
-          "number": "EERT26020000003",
-          "scheme": "Eating Establishment",
-          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-          "postal": "038983"
-        },
-        {
-          "name": "Tenderbest",
-          "address": "888 WOODLANDS DRIVE 50 #01-733 888 PLAZA, Stall 9 730888",
-          "type": "Hawker",
-          "number": "EEHN21060012452",
-          "scheme": "Eating Establishment",
-          "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
-          "postal": "730888"
-        },
-        {
-          "name": "Telur Thai (S19) @ Kopitiam Tampines Mall",
-          "address": "4 TAMPINES CENTRAL 5 #04-27 TAMPINES MALL, Stall 19 529510",
-          "type": "Hawker",
-          "number": "EEHK20240000079",
-          "scheme": "Eating Establishment",
-          "id": "135a9f83-f2f4-40b3-8aac-e663ee9034df",
-          "postal": "529510"
-        },
-        {
-          "name": "Srisun Express",
-          "address": "407 ANG MO KIO AVENUE 10 #01-743 TECK GHEE SQUARE 560407",
-          "type": "Restaurant",
-          "number": "EERX21040012271",
-          "scheme": "Eating Establishment",
-          "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
-          "postal": "560407"
-        },
-        {
-          "name": "McDonald's",
-          "address": "17 Petir Road #B1-25-27 Hillion Mall 678278",
-          "type": "Restaurant",
-          "number": "EERN20020010962",
-          "scheme": "Eating Establishment",
-          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-          "postal": "678278"
-        },
-        {
-          "name": "Srisun Express",
-          "address": "509 BISHAN STREET 11 #01-382 570509",
-          "type": "Restaurant",
-          "number": "EERT20230001058",
-          "scheme": "Eating Establishment",
-          "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
-          "postal": "570509"
-        },
-        {
-          "name": "MR BEAN",
-          "address": "1 MARITIME SQUARE #01-K4 HARBOURFRONT CENTRE 099253",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20220000177",
-          "scheme": "Eating Establishment",
-          "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
-          "postal": "099253"
-        },
-        {
-          "name": "Tenderbest",
-          "address": "827 TAMPINES STREET 81 #01-128 TAMPINES GROVE, MR2 520827",
-          "type": "Hawker",
-          "number": "EEHK20230000621",
-          "scheme": "Eating Establishment",
-          "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
-          "postal": "520827"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Milan Shokudo",
-          "address": "21 CHOA CHU KANG AVENUE 4 #B1-12/13 LOT ONE, SHOPPERS' MALL 689812",
-          "type": "Restaurant",
-          "number": "EERT20240000252",
-          "scheme": "Eating Establishment",
-          "id": "854a8501-0a00-4df3-a9ff-7c928fc3ade2",
-          "postal": "689812"
-        },
-        {
-          "name": "Milan Shokudo",
-          "address": "302 TIONG BAHRU ROAD #02-109/110 TIONG BAHRU PLAZA 168732",
-          "type": "Restaurant",
-          "number": "EERT20240000517",
-          "scheme": "Eating Establishment",
-          "id": "854a8501-0a00-4df3-a9ff-7c928fc3ade2",
-          "postal": "168732"
-        },
-        {
-          "name": "Milan Shokudo",
-          "address": "3 GATEWAY DRIVE #02-07 WESTGATE 608532",
-          "type": "Restaurant",
-          "number": "EERT20240000043",
-          "scheme": "Eating Establishment",
-          "id": "854a8501-0a00-4df3-a9ff-7c928fc3ade2",
-          "postal": "608532"
-        }
-      ],
-      "updated": [
-        {
-          "previous": {
-            "name": "Dapur Flora",
-            "address": "930 YISHUN AVENUE 2 #B2-12 NORTHPOINT,Stall 5 769098",
-            "type": "Hawker",
-            "number": "EEHK20240000295",
-            "scheme": "Eating Establishment",
-            "id": "25ea13eb-1eac-4c0d-a5d3-d7f2041d22e9",
-            "postal": "769098"
-          },
-          "current": {
-            "name": "Dapur Flora Chicken Rice (S5) @ Kopitiam Northpoint",
-            "address": "930 YISHUN AVENUE 2 #B2-12 NORTHPOINT,Stall 5 769098",
-            "type": "Hawker",
-            "number": "EEHK20240000295",
-            "scheme": "Eating Establishment",
-            "id": "25ea13eb-1eac-4c0d-a5d3-d7f2041d22e9",
-            "postal": "769098"
-          }
-        },
-        {
-          "previous": {
-            "name": "UNCLE PENYET",
-            "address": "233 BUKIT BATOK EAST AVENUE 5 #01-53 Kimly Coffeeshop GOMBAK GARDENS, Stall 5 650233",
-            "type": "Hawker",
-            "number": "EEHK20230001189",
-            "scheme": "Eating Establishment",
-            "id": "79bfe816-a7ec-46a9-8687-c6e511cfc222",
-            "postal": "650233"
-          },
-          "current": {
-            "name": "UNCLE PENYET (S5) @ Kimly Coffeeshop 233 Bukit Batok",
-            "address": "233 BUKIT BATOK EAST AVENUE 5 #01-53 Kimly Coffeeshop GOMBAK GARDENS, Stall 5 650233",
-            "type": "Hawker",
-            "number": "EEHK20230001189",
-            "scheme": "Eating Establishment",
-            "id": "79bfe816-a7ec-46a9-8687-c6e511cfc222",
-            "postal": "650233"
-          }
-        },
-        {
-          "previous": {
-            "name": "Cravy for Crispy Chicken",
-            "address": "1 BUKIT BATOK CENTRAL LINK #02-10A WEST MALL 658713",
-            "type": "Restaurant",
-            "number": "EERT26020000045",
-            "scheme": "Eating Establishment",
-            "id": "c091e13f-3dbe-44a1-b12d-78da06d58861",
-            "postal": "658713"
-          },
-          "current": {
-            "name": "KOPI KORNER",
-            "address": "1 BUKIT BATOK CENTRAL LINK #02-10A WEST MALL 658713",
-            "type": "Restaurant",
-            "number": "EERT26020000045",
-            "scheme": "Eating Establishment",
-            "id": "c091e13f-3dbe-44a1-b12d-78da06d58861",
-            "postal": "658713"
-          }
-        },
-        {
-          "previous": {
-            "name": "Al Madina Famous Prata Corner",
-            "address": "844 TAMPINES STREET 82 #01-131 TAMPINES VILLE 520844",
-            "type": "Hawker",
-            "number": "EEHK20250000270",
-            "scheme": "Eating Establishment",
-            "id": "efcd8c9c-ed45-47fb-b3c6-0cde08b37ae3",
-            "postal": "520844"
-          },
-          "current": {
-            "name": "Al Madina Famous Prata Corner (S7)@ST82 Coffee House 844 Tampines",
-            "address": "844 TAMPINES STREET 82 #01-131 TAMPINES VILLE 520844",
-            "type": "Hawker",
-            "number": "EEHK20250000270",
-            "scheme": "Eating Establishment",
-            "id": "efcd8c9c-ed45-47fb-b3c6-0cde08b37ae3",
-            "postal": "520844"
-          }
-        },
-        {
-          "previous": {
-            "name": "Easy Gourmet",
-            "address": "42 IMBIAH ROAD #01-K1 099701",
-            "type": "Restaurant",
-            "number": "EERT20250000823",
-            "scheme": "Eating Establishment",
-            "id": "5965b877-26d4-4e8e-9076-d0dbf88530c4",
-            "postal": "099701"
-          },
-          "current": {
-            "name": "Roost",
-            "address": "42 IMBIAH ROAD #01-K1 099701",
-            "type": "Restaurant",
-            "number": "EERT20250000823",
-            "scheme": "Eating Establishment",
-            "id": "5965b877-26d4-4e8e-9076-d0dbf88530c4",
-            "postal": "099701"
-          }
-        },
-        {
-          "previous": {
-            "name": "NO VIRTUAL BRANDS FOR SUBWAY",
-            "address": "84 PUNGGOL WAY #01-84 PUNGGOL COAST HAWKER CENTRE 829911",
-            "type": "Restaurant",
-            "number": "EERT25100000050",
-            "scheme": "Eating Establishment",
-            "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-            "postal": "829911"
-          },
-          "current": {
-            "name": "SUBWAY",
-            "address": "84 PUNGGOL WAY #01-84 PUNGGOL COAST HAWKER CENTRE 829911",
-            "type": "Restaurant",
-            "number": "EERT25100000050",
-            "scheme": "Eating Establishment",
-            "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-            "postal": "829911"
-          }
-        },
-        {
-          "previous": {
-            "name": "Cravy for Crispy Chicken",
-            "address": "1 EXPO DRIVE #01-112 SINGAPORE EXPO 486150",
-            "type": "Hawker",
-            "number": "EEHK20240000579",
-            "scheme": "Eating Establishment",
-            "id": "76f89adb-557e-4460-b7e9-b0491164c2a1",
-            "postal": "486150"
-          },
-          "current": {
-            "name": "CRAVY FOR CRISPY CHICKEN (S112) @MARKETPLACE EXPO",
-            "address": "1 EXPO DRIVE #01-112 SINGAPORE EXPO 486150",
-            "type": "Hawker",
-            "number": "EEHK20240000579",
-            "scheme": "Eating Establishment",
-            "id": "76f89adb-557e-4460-b7e9-b0491164c2a1",
-            "postal": "486150"
-          }
-        },
-        {
-          "previous": {
-            "name": "1 Pasir Ris Close #02-K3/K4 E!Hub@Downtown East S(519599)",
-            "address": "10 EUNOS ROAD 8 #B1-164 SINGAPORE POST CENTRE 408600",
-            "type": "Snack Bar / Bakery",
-            "number": "EESB20250000742",
-            "scheme": "Eating Establishment",
-            "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
-            "postal": "408600"
-          },
-          "current": {
-            "name": "PRIMADELI",
-            "address": "10 EUNOS ROAD 8 #B1-164 SINGAPORE POST CENTRE 408600",
-            "type": "Snack Bar / Bakery",
-            "number": "EESB20250000742",
-            "scheme": "Eating Establishment",
-            "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
-            "postal": "408600"
-          }
-        }
-      ]
     }
   }
 ]
