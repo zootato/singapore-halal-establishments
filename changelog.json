@@ -1,5 +1,29 @@
 [
   {
+    "timestamp": "2026-05-26T22:42:38.040993",
+    "date": "2026-05-26",
+    "summary": {
+      "new": 1,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "13 Miles",
+          "address": "749/751 NORTH BRIDGE ROAD #01 198717",
+          "type": "Restaurant",
+          "number": "EERT20250000318",
+          "scheme": "Eating Establishment",
+          "id": "292c3360-3744-45a1-80e7-6a75a4cda694",
+          "postal": "198717"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-05-25T22:37:13.518120",
     "date": "2026-05-25",
     "summary": {
@@ -7655,39 +7679,6 @@
           "scheme": "Eating Establishment",
           "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
           "postal": "520827"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-03-24T22:21:40.175222",
-    "date": "2026-03-24",
-    "summary": {
-      "new": 0,
-      "removed": 2,
-      "updated": 0
-    },
-    "changes": {
-      "new": [],
-      "removed": [
-        {
-          "name": "FAME COFFEE",
-          "address": "108 MIDDLE ROAD #01-01 (1st and 2nd floor) BERNHARD SCHULTE HOUSE 188967",
-          "type": "Restaurant",
-          "number": "EERT20250000374",
-          "scheme": "Eating Establishment",
-          "id": "b48c9068-455a-4903-bc7b-70bbd41ef68c",
-          "postal": "188967"
-        },
-        {
-          "name": "TENDONYAN (S50)@ Tanjong Plaza Market & Food Centre",
-          "address": "6 TANJONG PAGAR PLAZA #02-50, STALL 50 081006",
-          "type": "Hawker",
-          "number": "EEHK20240000205",
-          "scheme": "Eating Establishment",
-          "id": "15cf903d-fdc6-451f-bb69-69830e2083df",
-          "postal": "081006"
         }
       ],
       "updated": []
