@@ -26389,6 +26389,15 @@
   },
   {
     "name": "RITZ'S KITCHEN",
+    "address": "395A BUKIT BATOK WEST AVENUE 5 Stall 1, EIGHTWAYS #03-01 Goodview Gardens, STALL 1 651395",
+    "type": "Hawker",
+    "number": "EEHK25100000063",
+    "scheme": "Eating Establishment",
+    "id": "58b076bb-f279-4221-8f81-52260ef3aa12",
+    "postal": "651395"
+  },
+  {
+    "name": "RITZ'S KITCHEN",
     "address": "338 JURONG EAST AVENUE 1 #01-1646 600338",
     "type": "Restaurant",
     "number": "EERN21020012166",
@@ -27349,15 +27358,6 @@
     "scheme": "Eating Establishment",
     "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
     "postal": "648331"
-  },
-  {
-    "name": "Sanook Kitchen",
-    "address": "1 STADIUM PLACE #01-16/K8 397628",
-    "type": "Restaurant",
-    "number": "EERN21080012848",
-    "scheme": "Eating Establishment",
-    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-    "postal": "397628"
   },
   {
     "name": "Sanook Kitchen",
@@ -33004,15 +33004,6 @@
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "10 ANSON ROAD #01-32 INTERNATIONAL PLAZA 079903",
-    "type": "Restaurant",
-    "number": "EERN21120013265",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "079903"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
     "address": "604 SEMBAWANG ROAD #01-10/11 SEMBAWANG SHOPPING CENTRE 758459",
     "type": "Restaurant",
     "number": "EERN21120013229",
@@ -33253,6 +33244,15 @@
     "scheme": "Eating Establishment",
     "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
     "postal": "048622"
+  },
+  {
+    "name": "THE COFFEE BEAN & TEA LEAF",
+    "address": "10 ANSON ROAD #01-32 INTERNATIONAL PLAZA 079903",
+    "type": "Restaurant",
+    "number": "EERN21120013265",
+    "scheme": "Eating Establishment",
+    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+    "postal": "079903"
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
