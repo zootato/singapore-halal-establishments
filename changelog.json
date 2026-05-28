@@ -1,5 +1,93 @@
 [
   {
+    "timestamp": "2026-05-28T22:45:34.194399",
+    "date": "2026-05-28",
+    "summary": {
+      "new": 4,
+      "removed": 4,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Dickson Nasi Lemak",
+          "address": "12 GOPENG STREET #01-89/90/K1/K2/K3/K4 078877",
+          "type": "Restaurant",
+          "number": "EERT20250000066",
+          "scheme": "Eating Establishment",
+          "id": "c6c59929-b79d-48ce-b641-1fbcc46a6c35",
+          "postal": "078877"
+        },
+        {
+          "name": "Kumar Mess",
+          "address": "321 CLEMENTI AVENUE 3 #01-01 321 CLEMENTI 129905",
+          "type": "Restaurant",
+          "number": "EERT26050000058",
+          "scheme": "Eating Establishment",
+          "id": "7cd8d883-e555-4a05-afc0-a2b7885f34a7",
+          "postal": "129905"
+        },
+        {
+          "name": "KENNY ROGERS ROASTERS EXPRESS",
+          "address": "1 PASIR RIS CLOSE #01-335, #01-336 E!HUB@DOWNTOWN EAST, Singapura Heritage STALL 8 519599",
+          "type": "Hawker",
+          "number": "EEHK26040000012",
+          "scheme": "Eating Establishment",
+          "id": "0a5b3246-fc06-4ab0-988f-ddf0d2d723d1",
+          "postal": "519599"
+        },
+        {
+          "name": "Kumar Mess",
+          "address": "6 VERDUN ROAD VERDUN HOUSE 207275",
+          "type": "Restaurant",
+          "number": "EERT26050000060",
+          "scheme": "Eating Establishment",
+          "id": "fc96ff1f-67a8-423d-998e-0c4031a2cd78",
+          "postal": "207275"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Bali Thai Restaurant",
+          "address": "23 Serangoon Central #02-13 NEX 556083",
+          "type": "Restaurant",
+          "number": "EERN21070012699",
+          "scheme": "Eating Establishment",
+          "id": "9a364ce4-e56d-44ac-b375-786f51bdbbab",
+          "postal": "556083"
+        },
+        {
+          "name": "So Pho",
+          "address": "78 AIRPORT BOULEVARD #B1-248 JEWEL CHANGI AIRPORT 819666",
+          "type": "Restaurant",
+          "number": "EERN21070012663",
+          "scheme": "Eating Establishment",
+          "id": "eab58cf8-5aa4-4b96-b522-760a4cceded7",
+          "postal": "819666"
+        },
+        {
+          "name": "Srisun Express",
+          "address": "407 ANG MO KIO AVENUE 10 #01-743 TECK GHEE SQUARE 560407",
+          "type": "Restaurant",
+          "number": "EERX21040012271",
+          "scheme": "Eating Establishment",
+          "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
+          "postal": "560407"
+        },
+        {
+          "name": "Srisun Express",
+          "address": "132 BUKIT BATOK WEST AVENUE 6 #01-308, part of 650132",
+          "type": "Restaurant",
+          "number": "EERX21040012272",
+          "scheme": "Eating Establishment",
+          "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
+          "postal": "650132"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-05-27T22:45:14.722181",
     "date": "2026-05-27",
     "summary": {
@@ -7535,51 +7623,6 @@
             "scheme": "Food Preparation Area",
             "id": "215d5f12-850a-4f46-9b17-375fa556a892",
             "postal": "208272"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-03-26T22:18:20.983571",
-    "date": "2026-03-26",
-    "summary": {
-      "new": 1,
-      "removed": 0,
-      "updated": 1
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "TANG TEA HOUSE",
-          "address": "1 WOODLANDS SQUARE #07-03 CAUSEWAY POINT, MR4, Bagus 738099",
-          "type": "Hawker",
-          "number": "EEHK26030000070",
-          "scheme": "Eating Establishment",
-          "id": "61acf95e-4918-4ae0-bf1e-876ec9de2414",
-          "postal": "738099"
-        }
-      ],
-      "removed": [],
-      "updated": [
-        {
-          "previous": {
-            "name": "THE DIM  SUM PLACE",
-            "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #B1-30/31 CHANGI CITY POINT 486038",
-            "type": "Restaurant",
-            "number": "EERX22010013436",
-            "scheme": "Eating Establishment",
-            "id": "c1d5b08d-002c-4940-9f65-69d50cbf77e3",
-            "postal": "486038"
-          },
-          "current": {
-            "name": "THE DIM  SUM PLACE",
-            "address": "5 Changi Business Park Central 1 #B1-30/31 Changi City Point 486038",
-            "type": "Restaurant",
-            "number": "EERX22010013436",
-            "scheme": "Eating Establishment",
-            "id": "c1d5b08d-002c-4940-9f65-69d50cbf77e3",
-            "postal": "486038"
           }
         }
       ]

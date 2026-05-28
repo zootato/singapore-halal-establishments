@@ -3105,15 +3105,6 @@
     "postal": "738099"
   },
   {
-    "name": "Bali Thai Restaurant",
-    "address": "23 Serangoon Central #02-13 NEX 556083",
-    "type": "Restaurant",
-    "number": "EERN21070012699",
-    "scheme": "Eating Establishment",
-    "id": "9a364ce4-e56d-44ac-b375-786f51bdbbab",
-    "postal": "556083"
-  },
-  {
     "name": "Ballroom Level 1 kitchen @ Mount Faber Peak",
     "address": "109 MOUNT FABER ROAD #01 CABLE CAR SINGAPORE & MOUNT FABER 099203",
     "type": "Catering Company",
@@ -8269,6 +8260,15 @@
     "scheme": "Eating Establishment",
     "id": "85e29fc1-d3f7-4d03-97d6-9991c9eaaf95",
     "postal": "109841"
+  },
+  {
+    "name": "Dickson Nasi Lemak",
+    "address": "12 GOPENG STREET #01-89/90/K1/K2/K3/K4 078877",
+    "type": "Restaurant",
+    "number": "EERT20250000066",
+    "scheme": "Eating Establishment",
+    "id": "c6c59929-b79d-48ce-b641-1fbcc46a6c35",
+    "postal": "078877"
   },
   {
     "name": "Dignity Kitchen",
@@ -15283,6 +15283,15 @@
   },
   {
     "name": "KENNY ROGERS ROASTERS EXPRESS",
+    "address": "1 PASIR RIS CLOSE #01-335, #01-336 E!HUB@DOWNTOWN EAST, Singapura Heritage STALL 8 519599",
+    "type": "Hawker",
+    "number": "EEHK26040000012",
+    "scheme": "Eating Establishment",
+    "id": "0a5b3246-fc06-4ab0-988f-ddf0d2d723d1",
+    "postal": "519599"
+  },
+  {
+    "name": "KENNY ROGERS ROASTERS EXPRESS",
     "address": "3155 COMMONWEALTH AVENUE WEST #04-33a THE CLEMENTI MALL 129588",
     "type": "Restaurant",
     "number": "EERT20230000600",
@@ -16792,6 +16801,24 @@
     "scheme": "Eating Establishment",
     "id": "a01773f6-f5b6-4e7a-b8fa-7b24c2ee3cce",
     "postal": "218067"
+  },
+  {
+    "name": "Kumar Mess",
+    "address": "6 VERDUN ROAD VERDUN HOUSE 207275",
+    "type": "Restaurant",
+    "number": "EERT26050000060",
+    "scheme": "Eating Establishment",
+    "id": "fc96ff1f-67a8-423d-998e-0c4031a2cd78",
+    "postal": "207275"
+  },
+  {
+    "name": "Kumar Mess",
+    "address": "321 CLEMENTI AVENUE 3 #01-01 321 CLEMENTI 129905",
+    "type": "Restaurant",
+    "number": "EERT26050000058",
+    "scheme": "Eating Establishment",
+    "id": "7cd8d883-e555-4a05-afc0-a2b7885f34a7",
+    "postal": "129905"
   },
   {
     "name": "KUNYIT KEDAI",
@@ -28593,15 +28620,6 @@
     "postal": "018972"
   },
   {
-    "name": "So Pho",
-    "address": "78 AIRPORT BOULEVARD #B1-248 JEWEL CHANGI AIRPORT 819666",
-    "type": "Restaurant",
-    "number": "EERN21070012663",
-    "scheme": "Eating Establishment",
-    "id": "eab58cf8-5aa4-4b96-b522-760a4cceded7",
-    "postal": "819666"
-  },
-  {
     "name": "Social Cafe",
     "address": "3 CHANGI BUSINESS PARK CRESCENT #01-01 486026",
     "type": "Restaurant",
@@ -28915,24 +28933,6 @@
     "scheme": "Eating Establishment",
     "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
     "postal": "570509"
-  },
-  {
-    "name": "Srisun Express",
-    "address": "407 ANG MO KIO AVENUE 10 #01-743 TECK GHEE SQUARE 560407",
-    "type": "Restaurant",
-    "number": "EERX21040012271",
-    "scheme": "Eating Establishment",
-    "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
-    "postal": "560407"
-  },
-  {
-    "name": "Srisun Express",
-    "address": "132 BUKIT BATOK WEST AVENUE 6 #01-308, part of 650132",
-    "type": "Restaurant",
-    "number": "EERX21040012272",
-    "scheme": "Eating Establishment",
-    "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
-    "postal": "650132"
   },
   {
     "name": "Srisun Express",
