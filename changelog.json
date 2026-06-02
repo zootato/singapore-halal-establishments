@@ -1,5 +1,39 @@
 [
   {
+    "timestamp": "2026-06-02T22:55:56.164869",
+    "date": "2026-06-02",
+    "summary": {
+      "new": 1,
+      "removed": 1,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "GOPIZZA",
+          "address": "9 KING ALBERT PARK #01-27 KAP 598332",
+          "type": "Restaurant",
+          "number": "EERT26050000066",
+          "scheme": "Eating Establishment",
+          "id": "6ad41353-6cd6-4d5d-b66e-a2b1403dc446",
+          "postal": "598332"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Kazo",
+          "address": "51 BRAS BASAH ROAD #01-09 LAZADA ONE 189554",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000053",
+          "scheme": "Eating Establishment",
+          "id": "911cb7f7-438a-4583-a323-1e96bb9071a4",
+          "postal": "189554"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-05-31T22:35:40.618565",
     "date": "2026-05-31",
     "summary": {
@@ -9141,30 +9175,6 @@
           }
         }
       ]
-    }
-  },
-  {
-    "timestamp": "2026-03-28T22:19:05.609286",
-    "date": "2026-03-28",
-    "summary": {
-      "new": 1,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "L & M Seafood",
-          "address": "622D PUNGGOL CENTRAL PUNGGOL SPECTRA, Stall No 1@Happy hawkers 824622",
-          "type": "Hawker",
-          "number": "EEHK26030000069",
-          "scheme": "Eating Establishment",
-          "id": "a270c4f1-833f-4f1b-9f64-fad74f459d26",
-          "postal": "824622"
-        }
-      ],
-      "removed": [],
-      "updated": []
     }
   }
 ]

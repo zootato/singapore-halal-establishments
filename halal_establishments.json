@@ -11205,6 +11205,15 @@
     "postal": "599489"
   },
   {
+    "name": "GOPIZZA",
+    "address": "9 KING ALBERT PARK #01-27 KAP 598332",
+    "type": "Restaurant",
+    "number": "EERT26050000066",
+    "scheme": "Eating Establishment",
+    "id": "6ad41353-6cd6-4d5d-b66e-a2b1403dc446",
+    "postal": "598332"
+  },
+  {
     "name": "Goreng Pisang",
     "address": "306A WOODLANDS STREET 31 Stall 6 @ Mr Teh Tarik Eating House #01-01 FUCHUN NEIGHBOURHOOD CENTRE 731306",
     "type": "Hawker",
@@ -14434,15 +14443,6 @@
     "scheme": "Eating Establishment",
     "id": "911cb7f7-438a-4583-a323-1e96bb9071a4",
     "postal": "678278"
-  },
-  {
-    "name": "Kazo",
-    "address": "51 BRAS BASAH ROAD #01-09 LAZADA ONE 189554",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20240000053",
-    "scheme": "Eating Establishment",
-    "id": "911cb7f7-438a-4583-a323-1e96bb9071a4",
-    "postal": "189554"
   },
   {
     "name": "Kazo",
