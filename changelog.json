@@ -1,5 +1,120 @@
 [
   {
+    "timestamp": "2026-06-05T22:40:01.256774",
+    "date": "2026-06-05",
+    "summary": {
+      "new": 8,
+      "removed": 3,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Sunbo Express Penyet + BBQ",
+          "address": "1 BUKIT BATOK CENTRAL LINK STALL 10, KOPITIAM #04-01 WEST MALL 658713",
+          "type": "Hawker",
+          "number": "EEHK26050000068",
+          "scheme": "Eating Establishment",
+          "id": "651dc2a9-617c-4720-9db6-68b89d6b445b",
+          "postal": "658713"
+        },
+        {
+          "name": "Maxwell Chicken Rice (Stall 39) @ Bukit Canberra Hawker Centre",
+          "address": "21 CANBERRA LINK #01-39 756973",
+          "type": "Hawker",
+          "number": "EEHK20240000019",
+          "scheme": "Eating Establishment",
+          "id": "f548c690-86bb-4e0b-8387-0bdd94013739",
+          "postal": "756973"
+        },
+        {
+          "name": "STUFF'D EXPRESS",
+          "address": "1 HARBOURFRONT PLACE #01-01 HARBOURFRONT TOWER ONE 098633",
+          "type": "Restaurant",
+          "number": "EERT26060000019",
+          "scheme": "Eating Establishment",
+          "id": "2011caf3-debc-4194-a084-f880219d175f",
+          "postal": "098633"
+        },
+        {
+          "name": "AMETHYST PASTRY & CAKES",
+          "address": "573 WOODLANDS DRIVE 16 #01-05 730573",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26060000018",
+          "scheme": "Eating Establishment",
+          "id": "baea5a87-d5d7-4b6a-8c22-b088eaa19b68",
+          "postal": "730573"
+        },
+        {
+          "name": "EPIKebabs",
+          "address": "30 RAFFLES PLACE #B1-07 CIMB PLAZA 048622",
+          "type": "Restaurant",
+          "number": "EERT25100000100",
+          "scheme": "Eating Establishment",
+          "id": "3aed0ba3-dc90-437a-965e-32338cd00a58",
+          "postal": "048622"
+        },
+        {
+          "name": "Maru Japanese Korean Cuisine",
+          "address": "1 WOODLANDS HEIGHT Stall 3 Koufu Group HQ #01-01 KOUFU GROUP HQ 737859",
+          "type": "Hawker",
+          "number": "EEHK26060000021",
+          "scheme": "Eating Establishment",
+          "id": "a1b8fbb7-7adf-4f55-ae67-9d6c5184e17b",
+          "postal": "737859"
+        },
+        {
+          "name": "Haus Ban Mian & Fish Soup",
+          "address": "1 WOODLANDS HEIGHT Stall 2 Koufu Group HQ #01-01 KOUFU GROUP HQ 737859",
+          "type": "Hawker",
+          "number": "EEHK26060000020",
+          "scheme": "Eating Establishment",
+          "id": "df2a4532-4928-4247-ad4d-af0fc4e03ea4",
+          "postal": "737859"
+        },
+        {
+          "name": "Kumar Mess",
+          "address": "7/9 UPPER DICKSON ROAD 207467",
+          "type": "Restaurant",
+          "number": "EERT26050000059",
+          "scheme": "Eating Establishment",
+          "id": "927d1513-aaab-41e6-9002-7ade2a5cb435",
+          "postal": "207467"
+        }
+      ],
+      "removed": [
+        {
+          "name": "SUBWAY",
+          "address": "548 WOODLANDS DRIVE 44 #01-23 VISTA POINT 730548",
+          "type": "Restaurant",
+          "number": "EERN21110013101",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "730548"
+        },
+        {
+          "name": "TENDERFRESH Xpress",
+          "address": "118 RIVERVALE DRIVE #01-K18/k19 Rivervale Plaza 540118",
+          "type": "Restaurant",
+          "number": "EERN21060012467",
+          "scheme": "Eating Establishment",
+          "id": "fa23a2c4-12e6-4c0a-aa89-d3552d6d92cb",
+          "postal": "540118"
+        },
+        {
+          "name": "STUFF'D",
+          "address": "1 WOODLANDS SQUARE #B1-K17 CAUSEWAY POINT 738099",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21110012929",
+          "scheme": "Eating Establishment",
+          "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
+          "postal": "738099"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-06-04T22:43:52.438517",
     "date": "2026-06-04",
     "summary": {
@@ -7989,133 +8104,6 @@
             "scheme": "Eating Establishment",
             "id": "dcef3017-de5f-439c-9754-8eaecfd88960",
             "postal": "519641"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-01T22:25:14.439597",
-    "date": "2026-04-01",
-    "summary": {
-      "new": 9,
-      "removed": 1,
-      "updated": 1
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "WINGSTOP",
-          "address": "11 BEDOK NORTH STREET 1 #01-32 HEARTBEAT @ BEDOK 469662",
-          "type": "Restaurant",
-          "number": "EERT26030000078",
-          "scheme": "Eating Establishment",
-          "id": "5078bd18-9cd6-436e-8ff3-0f2e55f795dc",
-          "postal": "469662"
-        },
-        {
-          "name": "D'PENYETZ",
-          "address": "302 TIONG BAHRU ROAD #b1-111 TIONG BAHRU PLAZA 168732",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20240000249",
-          "scheme": "Eating Establishment",
-          "id": "70e071d9-10d7-4dd6-bcd5-8354b6b269b0",
-          "postal": "168732"
-        },
-        {
-          "name": "D'PENYETZ",
-          "address": "750 CHAI CHEE ROAD #01-13 ESR BIZPARK @ CHAI CHEE 469000",
-          "type": "Restaurant",
-          "number": "EERT20240000248",
-          "scheme": "Eating Establishment",
-          "id": "70e071d9-10d7-4dd6-bcd5-8354b6b269b0",
-          "postal": "469000"
-        },
-        {
-          "name": "D'PENYETZ",
-          "address": "1 PASIR RIS CLOSE #01-104 E!HUB@DOWNTOWN EAST 519599",
-          "type": "Restaurant",
-          "number": "EERT20220000901",
-          "scheme": "Eating Establishment",
-          "id": "70e071d9-10d7-4dd6-bcd5-8354b6b269b0",
-          "postal": "519599"
-        },
-        {
-          "name": "NENE CHICKEN",
-          "address": "628 SENJA ROAD STALL 8, KOPITIAM CORNER #01-07 SENJA CENTRE 670628",
-          "type": "Hawker",
-          "number": "EEHK26030000072",
-          "scheme": "Eating Establishment",
-          "id": "c2a3daa9-ec19-4a9f-8474-752b3cbfb1ff",
-          "postal": "670628"
-        },
-        {
-          "name": "D'PENYETZ",
-          "address": "50 JURONG GATEWAY ROAD #05-02 JEM 608549",
-          "type": "Restaurant",
-          "number": "EERN22030013542",
-          "scheme": "Eating Establishment",
-          "id": "70e071d9-10d7-4dd6-bcd5-8354b6b269b0",
-          "postal": "608549"
-        },
-        {
-          "name": "D'PENYETZ",
-          "address": "1 TAMPINES WALK #02-90,#02-91 OUR TAMPINES HUB 528523",
-          "type": "Restaurant",
-          "number": "EERT20250000294",
-          "scheme": "Eating Establishment",
-          "id": "70e071d9-10d7-4dd6-bcd5-8354b6b269b0",
-          "postal": "528523"
-        },
-        {
-          "name": "NENE CHICKEN",
-          "address": "209B CLEMENTI AVENUE 6 STALL 1, KOPITIAM CORNER #01-10 CLEMENTI NORTHARC 122209",
-          "type": "Hawker",
-          "number": "EEHK26030000073",
-          "scheme": "Eating Establishment",
-          "id": "c2a3daa9-ec19-4a9f-8474-752b3cbfb1ff",
-          "postal": "122209"
-        },
-        {
-          "name": "D'PENYETZ",
-          "address": "151 LORONG CHUAN #01-24 NEW TECH PARK 556741",
-          "type": "Restaurant",
-          "number": "EERN21120013324",
-          "scheme": "Eating Establishment",
-          "id": "70e071d9-10d7-4dd6-bcd5-8354b6b269b0",
-          "postal": "556741"
-        }
-      ],
-      "removed": [
-        {
-          "name": "WOK HEY",
-          "address": "53 ANG MO KIO AVENUE 3 #01-36 AMK HUB, (PART OF) LEFT UNIT 569933",
-          "type": "Snack Bar / Bakery",
-          "number": "EEBN20090011420",
-          "scheme": "Eating Establishment",
-          "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
-          "postal": "569933"
-        }
-      ],
-      "updated": [
-        {
-          "previous": {
-            "name": "Gelare",
-            "address": "8 GRANGE ROAD #02-06A/06B CATHAY CINELEISURE  ORCHARD 239695",
-            "type": "Restaurant",
-            "number": "EERT20240000267",
-            "scheme": "Eating Establishment",
-            "id": "8297f808-92a7-4884-92d8-95daab047e0e",
-            "postal": "239695"
-          },
-          "current": {
-            "name": "Gelare",
-            "address": "8 GRANGE ROAD #02-06A/06B CATHAY CINELEISURE ORCHARD 239695",
-            "type": "Restaurant",
-            "number": "EERT20240000267",
-            "scheme": "Eating Establishment",
-            "id": "8297f808-92a7-4884-92d8-95daab047e0e",
-            "postal": "239695"
           }
         }
       ]

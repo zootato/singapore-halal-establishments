@@ -1314,6 +1314,15 @@
     "postal": "730306"
   },
   {
+    "name": "AMETHYST PASTRY & CAKES",
+    "address": "573 WOODLANDS DRIVE 16 #01-05 730573",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26060000018",
+    "scheme": "Eating Establishment",
+    "id": "baea5a87-d5d7-4b6a-8c22-b088eaa19b68",
+    "postal": "730573"
+  },
+  {
     "name": "AMGD Global",
     "address": "20 LENGKOK BAHRU #01-10 ENABLING VILLAGE 159053",
     "type": "Restaurant",
@@ -8029,15 +8038,6 @@
   },
   {
     "name": "DELIFRANCE",
-    "address": "1 JURONG EAST STREET 21 #02-33 609606",
-    "type": "Restaurant",
-    "number": "EERT20240000576",
-    "scheme": "Eating Establishment",
-    "id": "94f707c0-d13d-48f6-81d0-015c2d3647f8",
-    "postal": "609606"
-  },
-  {
-    "name": "DELIFRANCE",
     "address": "100 BUKIT TIMAH ROAD #01-09 KK WOMEN'S AND CHILDREN HOSPITAL 229835",
     "type": "Restaurant",
     "number": "EERN21050012393",
@@ -8071,6 +8071,15 @@
     "scheme": "Eating Establishment",
     "id": "94f707c0-d13d-48f6-81d0-015c2d3647f8",
     "postal": "738099"
+  },
+  {
+    "name": "DELIFRANCE",
+    "address": "1 JURONG EAST STREET 21 #02-33 609606",
+    "type": "Restaurant",
+    "number": "EERT20240000576",
+    "scheme": "Eating Establishment",
+    "id": "94f707c0-d13d-48f6-81d0-015c2d3647f8",
+    "postal": "609606"
   },
   {
     "name": "DELIFRANCE",
@@ -9925,6 +9934,15 @@
     "scheme": "Eating Establishment",
     "id": "3aed0ba3-dc90-437a-965e-32338cd00a58",
     "postal": "189652"
+  },
+  {
+    "name": "EPIKebabs",
+    "address": "30 RAFFLES PLACE #B1-07 CIMB PLAZA 048622",
+    "type": "Restaurant",
+    "number": "EERT25100000100",
+    "scheme": "Eating Establishment",
+    "id": "3aed0ba3-dc90-437a-965e-32338cd00a58",
+    "postal": "048622"
   },
   {
     "name": "EPIKebabs",
@@ -12429,6 +12447,15 @@
     "postal": "048618"
   },
   {
+    "name": "Haus Ban Mian & Fish Soup",
+    "address": "1 WOODLANDS HEIGHT Stall 2 Koufu Group HQ #01-01 KOUFU GROUP HQ 737859",
+    "type": "Hawker",
+    "number": "EEHK26060000020",
+    "scheme": "Eating Establishment",
+    "id": "df2a4532-4928-4247-ad4d-af0fc4e03ea4",
+    "postal": "737859"
+  },
+  {
     "name": "Haus Ban Mian & Spinach",
     "address": "604 SEMBAWANG ROAD (S5)@Kopitiam Food Hall SSC #B1-25 #B1-25A, Stall 5 758459",
     "type": "Hawker",
@@ -14797,15 +14824,6 @@
   },
   {
     "name": "Kazo",
-    "address": "7 PASIR RIS CENTRAL #B1-42 519612",
-    "type": "Restaurant",
-    "number": "EERT20250000073",
-    "scheme": "Eating Establishment",
-    "id": "911cb7f7-438a-4583-a323-1e96bb9071a4",
-    "postal": "519612"
-  },
-  {
-    "name": "Kazo",
     "address": "17 PETIR ROAD #B2-11 HILLION MALL 678278",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000052",
@@ -14839,6 +14857,15 @@
     "scheme": "Eating Establishment",
     "id": "766847d6-38ea-4363-818a-36bafdf12534",
     "postal": "768019"
+  },
+  {
+    "name": "Kazo",
+    "address": "7 PASIR RIS CENTRAL #B1-42 519612",
+    "type": "Restaurant",
+    "number": "EERT20250000073",
+    "scheme": "Eating Establishment",
+    "id": "911cb7f7-438a-4583-a323-1e96bb9071a4",
+    "postal": "519612"
   },
   {
     "name": "Kazo",
@@ -16597,6 +16624,15 @@
   },
   {
     "name": "Kumar Mess",
+    "address": "7/9 UPPER DICKSON ROAD 207467",
+    "type": "Restaurant",
+    "number": "EERT26050000059",
+    "scheme": "Eating Establishment",
+    "id": "927d1513-aaab-41e6-9002-7ade2a5cb435",
+    "postal": "207467"
+  },
+  {
+    "name": "Kumar Mess",
     "address": "321 CLEMENTI AVENUE 3 #01-01 321 CLEMENTI 129905",
     "type": "Restaurant",
     "number": "EERT26050000058",
@@ -18315,6 +18351,15 @@
     "postal": "099010"
   },
   {
+    "name": "Maru Japanese Korean Cuisine",
+    "address": "1 WOODLANDS HEIGHT Stall 3 Koufu Group HQ #01-01 KOUFU GROUP HQ 737859",
+    "type": "Hawker",
+    "number": "EEHK26060000021",
+    "scheme": "Eating Establishment",
+    "id": "a1b8fbb7-7adf-4f55-ae67-9d6c5184e17b",
+    "postal": "737859"
+  },
+  {
     "name": "Master Prata",
     "address": "321 ALEXANDRA ROAD #01-02/29 ALEXANDRA CENTRAL 159971",
     "type": "Restaurant",
@@ -18349,6 +18394,15 @@
     "scheme": "Eating Establishment",
     "id": "f4cd6864-bb19-41e6-8497-44ed8ab04e9b",
     "postal": "750105"
+  },
+  {
+    "name": "Maxwell Chicken Rice (Stall 39) @ Bukit Canberra Hawker Centre",
+    "address": "21 CANBERRA LINK #01-39 756973",
+    "type": "Hawker",
+    "number": "EEHK20240000019",
+    "scheme": "Eating Establishment",
+    "id": "f548c690-86bb-4e0b-8387-0bdd94013739",
+    "postal": "756973"
   },
   {
     "name": "MAYSON BAKERY PTE LTD",
@@ -29206,15 +29260,6 @@
   },
   {
     "name": "STUFF'D",
-    "address": "1 WOODLANDS SQUARE #B1-K17 CAUSEWAY POINT 738099",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN21110012929",
-    "scheme": "Eating Establishment",
-    "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
-    "postal": "738099"
-  },
-  {
-    "name": "STUFF'D",
     "address": "930 YISHUN AVENUE 2 #B1-43 NORTHPOINT 769098",
     "type": "Snack Bar / Bakery",
     "number": "EEBN21110012912",
@@ -29266,6 +29311,15 @@
     "scheme": "Eating Establishment",
     "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
     "postal": "059413"
+  },
+  {
+    "name": "STUFF'D EXPRESS",
+    "address": "1 HARBOURFRONT PLACE #01-01 HARBOURFRONT TOWER ONE 098633",
+    "type": "Restaurant",
+    "number": "EERT26060000019",
+    "scheme": "Eating Establishment",
+    "id": "2011caf3-debc-4194-a084-f880219d175f",
+    "postal": "098633"
   },
   {
     "name": "STUFF'DMORE",
@@ -29860,15 +29914,6 @@
     "scheme": "Eating Establishment",
     "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
     "postal": "470744"
-  },
-  {
-    "name": "SUBWAY",
-    "address": "548 WOODLANDS DRIVE 44 #01-23 VISTA POINT 730548",
-    "type": "Restaurant",
-    "number": "EERN21110013101",
-    "scheme": "Eating Establishment",
-    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-    "postal": "730548"
   },
   {
     "name": "SUBWAY",
@@ -30625,6 +30670,15 @@
     "scheme": "Eating Establishment",
     "id": "651dc2a9-617c-4720-9db6-68b89d6b445b",
     "postal": "738964"
+  },
+  {
+    "name": "Sunbo Express Penyet + BBQ",
+    "address": "1 BUKIT BATOK CENTRAL LINK STALL 10, KOPITIAM #04-01 WEST MALL 658713",
+    "type": "Hawker",
+    "number": "EEHK26050000068",
+    "scheme": "Eating Establishment",
+    "id": "651dc2a9-617c-4720-9db6-68b89d6b445b",
+    "postal": "658713"
   },
   {
     "name": "Sunbo Express Penyet + BBQ",
@@ -32398,15 +32452,6 @@
     "scheme": "Eating Establishment",
     "id": "fa23a2c4-12e6-4c0a-aa89-d3552d6d92cb",
     "postal": "689812"
-  },
-  {
-    "name": "TENDERFRESH Xpress",
-    "address": "118 RIVERVALE DRIVE #01-K18/k19 Rivervale Plaza 540118",
-    "type": "Restaurant",
-    "number": "EERN21060012467",
-    "scheme": "Eating Establishment",
-    "id": "fa23a2c4-12e6-4c0a-aa89-d3552d6d92cb",
-    "postal": "540118"
   },
   {
     "name": "Terbaik Ban Mian Congee (S4) @ Kopitiam KTPH",
