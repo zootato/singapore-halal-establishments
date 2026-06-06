@@ -1,5 +1,39 @@
 [
   {
+    "timestamp": "2026-06-06T22:36:36.489433",
+    "date": "2026-06-06",
+    "summary": {
+      "new": 1,
+      "removed": 1,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "LYE HENG FOOD SUPPLIES PTE. LTD.",
+          "address": "15 WOODLANDS LOOP #04-22 738322",
+          "type": "Catering Company",
+          "number": "FPGN22020001657",
+          "scheme": "Food Preparation Area",
+          "id": "abe6ac6a-5a7e-42a6-9006-6aef7c533735",
+          "postal": "738322"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Korea Culture",
+          "address": "EXPO HALL 7, 9 SOMAPAH ROAD SINGAPORE EXPO (HALL 7), HALL 7 KIOSK 1 487370",
+          "type": "Short Term Stall(Bazaar/Road Shows)",
+          "number": "EEST26050000040",
+          "scheme": "Eating Establishment",
+          "id": "3cdc1589-a08d-43fc-a5cd-793d1ace3f28",
+          "postal": "487370"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-06-05T22:40:01.256774",
     "date": "2026-06-05",
     "summary": {
@@ -8016,97 +8050,6 @@
         }
       ],
       "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-04-02T22:22:26.092571",
-    "date": "2026-04-02",
-    "summary": {
-      "new": 4,
-      "removed": 2,
-      "updated": 1
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "D'BAKMIE & D'CENDOL",
-          "address": "1 PASIR RIS CLOSE #02-110 E!HUB@DOWNTOWN EAST 519599",
-          "type": "Restaurant",
-          "number": "EERT20230000087",
-          "scheme": "Eating Establishment",
-          "id": "e260d9e1-2d6d-46c2-bdc6-8d3d546f3f48",
-          "postal": "519599"
-        },
-        {
-          "name": "D'PENYETZ & D'CENDOL",
-          "address": "17 PETIR ROAD #01-42 HILLION MALL 678278",
-          "type": "Restaurant",
-          "number": "EERT20240000247",
-          "scheme": "Eating Establishment",
-          "id": "ecd0c6c3-907a-47e4-b44a-55778fdcff4a",
-          "postal": "678278"
-        },
-        {
-          "name": "D'PENYETZ",
-          "address": "33 SENGKANG WEST AVENUE #B1-K7, K8 THE SELETAR MALL 797653",
-          "type": "Restaurant",
-          "number": "EERT26030000077",
-          "scheme": "Eating Establishment",
-          "id": "70e071d9-10d7-4dd6-bcd5-8354b6b269b0",
-          "postal": "797653"
-        },
-        {
-          "name": "Aladdin Lanzhou Beef Noodles",
-          "address": "200 JALAN SULTAN #01-07 JUBILEE ASSEMBLY 199018",
-          "type": "Restaurant",
-          "number": "EERT25120000108",
-          "scheme": "Eating Establishment",
-          "id": "695d10af-ff34-4312-8d8c-605aef6c8ae9",
-          "postal": "199018"
-        }
-      ],
-      "removed": [
-        {
-          "name": "SBY FROZEN FOOD SUPPLY PTE LTD",
-          "address": "5 KAKI BUKIT ROAD 1 #05-02 EUNOS TECHNOLINK 415936",
-          "type": "Catering Company",
-          "number": "FPCA25100000016",
-          "scheme": "Food Preparation Area",
-          "id": "ef5b9e14-64b3-4f00-8852-9835e1be077f",
-          "postal": "415936"
-        },
-        {
-          "name": "So Pho",
-          "address": "83 Punggol Central #01-28 Waterway Point (East Wing) 828761",
-          "type": "Restaurant",
-          "number": "EERN21070012673",
-          "scheme": "Eating Establishment",
-          "id": "eab58cf8-5aa4-4b96-b522-760a4cceded7",
-          "postal": "828761"
-        }
-      ],
-      "updated": [
-        {
-          "previous": {
-            "name": "Fish & Co.",
-            "address": "110 PASIR RIS CENTRAL #01-06 519641",
-            "type": "Hawker",
-            "number": "EEHK20240001279",
-            "scheme": "Eating Establishment",
-            "id": "dcef3017-de5f-439c-9754-8eaecfd88960",
-            "postal": "519641"
-          },
-          "current": {
-            "name": "TEXAS LONE STAR (S6) @ PASIR RIS CENTRAL HAWKER CENTRE",
-            "address": "110 PASIR RIS CENTRAL #01-06 519641",
-            "type": "Hawker",
-            "number": "EEHK20240001279",
-            "scheme": "Eating Establishment",
-            "id": "dcef3017-de5f-439c-9754-8eaecfd88960",
-            "postal": "519641"
-          }
-        }
-      ]
     }
   }
 ]

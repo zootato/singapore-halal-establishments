@@ -16228,15 +16228,6 @@
   },
   {
     "name": "Korea Culture",
-    "address": "EXPO HALL 7, 9 SOMAPAH ROAD SINGAPORE EXPO (HALL 7), HALL 7 KIOSK 1 487370",
-    "type": "Short Term Stall(Bazaar/Road Shows)",
-    "number": "EEST26050000040",
-    "scheme": "Eating Establishment",
-    "id": "3cdc1589-a08d-43fc-a5cd-793d1ace3f28",
-    "postal": "487370"
-  },
-  {
-    "name": "Korea Culture",
     "address": "65 AIRPORT BOULEVARD #03-33 CHANGI AIRPORT TERMINAL 3 819663",
     "type": "Restaurant",
     "number": "EERT20250000816",
@@ -17269,6 +17260,15 @@
     "scheme": "Eating Establishment",
     "id": "6e8bbe4e-0c3c-4473-9fc2-90b999497c05",
     "postal": "769100"
+  },
+  {
+    "name": "LYE HENG FOOD SUPPLIES PTE. LTD.",
+    "address": "15 WOODLANDS LOOP #04-22 738322",
+    "type": "Catering Company",
+    "number": "FPGN22020001657",
+    "scheme": "Food Preparation Area",
+    "id": "abe6ac6a-5a7e-42a6-9006-6aef7c533735",
+    "postal": "738322"
   },
   {
     "name": "M.Raffick Mutton & Chicken Supplier",
@@ -26416,15 +26416,6 @@
   },
   {
     "name": "SAAP SAAP THAI",
-    "address": "1 PASIR RIS CENTRAL STREET 3 #02-24,#02-K01 WHITE SANDS 518457",
-    "type": "Restaurant",
-    "number": "EERT26020000076",
-    "scheme": "Eating Establishment",
-    "id": "9589c31f-fee1-4b1e-925f-755094a68b7a",
-    "postal": "518457"
-  },
-  {
-    "name": "SAAP SAAP THAI",
     "address": "1 JOO KOON CIRCLE #01-40/43/46A FAIRPRICE HUB 629117",
     "type": "Restaurant",
     "number": "EERN21100012927",
@@ -26467,6 +26458,15 @@
     "scheme": "Eating Establishment",
     "id": "9589c31f-fee1-4b1e-925f-755094a68b7a",
     "postal": "819663"
+  },
+  {
+    "name": "SAAP SAAP THAI",
+    "address": "1 PASIR RIS CENTRAL STREET 3 #02-24,#02-K01 WHITE SANDS 518457",
+    "type": "Restaurant",
+    "number": "EERT26020000076",
+    "scheme": "Eating Establishment",
+    "id": "9589c31f-fee1-4b1e-925f-755094a68b7a",
+    "postal": "518457"
   },
   {
     "name": "SAAP SAAP THAI KAFFE & TOAST",
