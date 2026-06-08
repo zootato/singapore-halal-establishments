@@ -1,5 +1,93 @@
 [
   {
+    "timestamp": "2026-06-08T22:44:48.354680",
+    "date": "2026-06-08",
+    "summary": {
+      "new": 3,
+      "removed": 5,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Tenkutei Japanese & Korean Cuisine",
+          "address": "21 CHOA CHU KANG AVENUE 4 #04-14/15/16 FOOD JUNCTION LOT ONE, SHOPPERS' MALL, Stall 8 689812",
+          "type": "Hawker",
+          "number": "EEHK20250000767",
+          "scheme": "Eating Establishment",
+          "id": "25b974c3-7e0b-4b62-8ba0-d0a7a39d0f59",
+          "postal": "689812"
+        },
+        {
+          "name": "The Tree Cafe",
+          "address": "100 TRAS STREET #01-01 100 AM 079027",
+          "type": "Restaurant",
+          "number": "EERT26050000057",
+          "scheme": "Eating Establishment",
+          "id": "c46acb89-ff04-470c-8633-cd33b3081fbc",
+          "postal": "079027"
+        },
+        {
+          "name": "Namtown",
+          "address": "678A WOODLANDS AVENUE 6 #01-03 ADMIRALTY WET MARKET & FOOD CENTRE 731678",
+          "type": "Restaurant",
+          "number": "EERT26060000017",
+          "scheme": "Eating Establishment",
+          "id": "bbbdedc5-bef4-4f58-968c-286a553ce4ba",
+          "postal": "731678"
+        }
+      ],
+      "removed": [
+        {
+          "name": "CINNABON",
+          "address": "252 NORTH BRIDGE ROAD #B1-60 RAFFLES CITY SHOPPING CENTRE 179103",
+          "type": "Restaurant",
+          "number": "EERT20240000428",
+          "scheme": "Eating Establishment",
+          "id": "41a48d25-48b0-4e13-aa53-38806f2ecdbf",
+          "postal": "179103"
+        },
+        {
+          "name": "TOKYO SHOKUDO BISTRO",
+          "address": "68 ORCHARD ROAD #02-35 PLAZA SINGAPURA 238839",
+          "type": "Restaurant",
+          "number": "EERT20240000549",
+          "scheme": "Eating Establishment",
+          "id": "b86b0e9f-023d-44fd-ba2b-d495297d389f",
+          "postal": "238839"
+        },
+        {
+          "name": "CINNABON",
+          "address": "78 AIRPORT BOULEVARD #B2-266 JEWEL CHANGI AIRPORT 819666",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240001170",
+          "scheme": "Eating Establishment",
+          "id": "41a48d25-48b0-4e13-aa53-38806f2ecdbf",
+          "postal": "819666"
+        },
+        {
+          "name": "SAAP SAAP THAI",
+          "address": "1 PASIR RIS CENTRAL STREET 3 #02-24,#02-K01 WHITE SANDS 518457",
+          "type": "Restaurant",
+          "number": "EERT26020000076",
+          "scheme": "Eating Establishment",
+          "id": "9589c31f-fee1-4b1e-925f-755094a68b7a",
+          "postal": "518457"
+        },
+        {
+          "name": "PRIMADELI",
+          "address": "351 ANCHORVALE ROAD #01-04 ANCHORVALE FIELDS 540351",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000727",
+          "scheme": "Eating Establishment",
+          "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+          "postal": "540351"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-06-06T22:36:36.489433",
     "date": "2026-06-06",
     "summary": {
@@ -7988,67 +8076,6 @@
         }
       ],
       "removed": [],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-04-03T22:21:39.018619",
-    "date": "2026-04-03",
-    "summary": {
-      "new": 4,
-      "removed": 1,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Nasi Lada House of Pepper Rice",
-          "address": "380 CLEMENTI AVENUE 5 Stall 5 #01-376 Kedai Kopi 120380",
-          "type": "Hawker",
-          "number": "EEHK26030000061",
-          "scheme": "Eating Establishment",
-          "id": "5622f06a-08ad-4e9b-968c-7cad4c72a27a",
-          "postal": "120380"
-        },
-        {
-          "name": "Singapore Nutri-Diet Industries Pte Ltd",
-          "address": "3017 BEDOK NORTH STREET 5 #06-03 GOURMET EAST KITCHEN 486121",
-          "type": "Catering Company",
-          "number": "FPGN22020001661",
-          "scheme": "Food Preparation Area",
-          "id": "4fb25bae-473f-4159-9d32-2975587cc0cd",
-          "postal": "486121"
-        },
-        {
-          "name": "A&W",
-          "address": "300 TAMPINES AVENUE 5 #01-07 INCOME AT TAMPINES JUNCTION 529653",
-          "type": "Restaurant",
-          "number": "EERT26030000022",
-          "scheme": "Eating Establishment",
-          "id": "6582f2a0-3687-45a5-8822-fe3666534ec0",
-          "postal": "529653"
-        },
-        {
-          "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
-          "address": "301 UPPER THOMSON ROAD #01-115 THOMSON PLAZA 574408",
-          "type": "Restaurant",
-          "number": "EERT26030000058",
-          "scheme": "Eating Establishment",
-          "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
-          "postal": "574408"
-        }
-      ],
-      "removed": [
-        {
-          "name": "TENDERFRESH Xpress",
-          "address": "118 RIVERVALE DRIVE #01-K18/k19 Rivervale Plaza 540118",
-          "type": "Restaurant",
-          "number": "EERN21060012467",
-          "scheme": "Eating Establishment",
-          "id": "fa23a2c4-12e6-4c0a-aa89-d3552d6d92cb",
-          "postal": "540118"
-        }
-      ],
       "updated": []
     }
   }
