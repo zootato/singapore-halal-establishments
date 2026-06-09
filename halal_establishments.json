@@ -5823,6 +5823,15 @@
     "postal": "608532"
   },
   {
+    "name": "Chef's Specials @ Ginger (ParkRoyal on Beach Road)",
+    "address": "7500C BEACH ROAD #01 PARKROYAL ON BEACH ROAD, Central Kitchen 199593",
+    "type": "Food Station",
+    "number": "EEDN21050000176",
+    "scheme": "Eating Establishment",
+    "id": "e17a7cf2-9e99-462e-bf55-52257e5e983f",
+    "postal": "199593"
+  },
+  {
     "name": "CHEFS CATERING",
     "address": "1 WOODLANDS HEIGHT #05-K10 KOUFU GROUP HQ, Kitchen B03 737859",
     "type": "Catering Company",
@@ -11025,6 +11034,15 @@
     "postal": "637551"
   },
   {
+    "name": "From The West @ Ginger (ParkRoyal on Beach Road)",
+    "address": "7500C BEACH ROAD #01 PARKROYAL ON BEACH ROAD, Central Kitchen 199593",
+    "type": "Food Station",
+    "number": "EEDN21050000175",
+    "scheme": "Eating Establishment",
+    "id": "94b436ca-060f-4863-873d-214ddf70e278",
+    "postal": "199593"
+  },
+  {
     "name": "FU-MEN",
     "address": "16 RAFFLES QUAY #B1-17/18 HONG LEONG BUILDING 048581",
     "type": "Restaurant",
@@ -11032,6 +11050,33 @@
     "scheme": "Eating Establishment",
     "id": "0db09c5f-ff70-4ac0-ac81-b48215aa4073",
     "postal": "048581"
+  },
+  {
+    "name": "Full Bowl",
+    "address": "2 TAMPINES CENTRAL 5 #01-42 CENTURY SQUARE 529509",
+    "type": "Restaurant",
+    "number": "EERN21110012966",
+    "scheme": "Eating Establishment",
+    "id": "2dce1ae1-5e33-4749-952e-c14abd6ebf2b",
+    "postal": "529509"
+  },
+  {
+    "name": "Full Bowl",
+    "address": "302 TIONG BAHRU ROAD #02-107/108 TIONG BAHRU PLAZA 168732",
+    "type": "Restaurant",
+    "number": "EERN21040012245",
+    "scheme": "Eating Establishment",
+    "id": "2dce1ae1-5e33-4749-952e-c14abd6ebf2b",
+    "postal": "168732"
+  },
+  {
+    "name": "Full Bowl",
+    "address": "133 NEW BRIDGE ROAD #01-43 CHINATOWN POINT 059413",
+    "type": "Restaurant",
+    "number": "EERN21040012244",
+    "scheme": "Eating Establishment",
+    "id": "2dce1ae1-5e33-4749-952e-c14abd6ebf2b",
+    "postal": "059413"
   },
   {
     "name": "FuneatayampenyetxWesterncuisine(MR3)@koufusunplaza",
@@ -11338,6 +11383,15 @@
     "scheme": "Eating Establishment",
     "id": "b81ca58d-10b7-40cc-8972-97593a276076",
     "postal": "018953"
+  },
+  {
+    "name": "Ginger @ PARKROYAL on Beach Road",
+    "address": "7500C BEACH ROAD #01 PARKROYAL ON BEACH ROAD, Central Kitchen 199593",
+    "type": "Central Kitchen",
+    "number": "FPCX21050001541",
+    "scheme": "Food Preparation Area",
+    "id": "7e357d86-7a3b-4272-bdbd-f3509efcfae4",
+    "postal": "199593"
   },
   {
     "name": "Go Tarboush",
@@ -13059,6 +13113,15 @@
     "postal": "238864"
   },
   {
+    "name": "Home's Favourite Pte Ltd",
+    "address": "15 JALAN TEPONG #01-04 JURONG FOOD HUB 619336",
+    "type": "Central Kitchen",
+    "number": "FPCK26050000037",
+    "scheme": "Food Preparation Area",
+    "id": "ff8937ee-ee8c-41de-a16d-30b7bf556fce",
+    "postal": "619336"
+  },
+  {
     "name": "Homemade Italian (S58)@Tiong Bahru Market",
     "address": "30 SENG POH ROAD #02-58, STALL 58 168898",
     "type": "Hawker",
@@ -13075,6 +13138,15 @@
     "scheme": "Eating Establishment",
     "id": "dbd01d11-4f9f-43e1-95cd-1a526d1dd405",
     "postal": "117275"
+  },
+  {
+    "name": "Hong Kong Roast & Noodles @ Ginger (ParkRoyal on Beach Road)",
+    "address": "7500C BEACH ROAD #01 PARKROYAL ON BEACH ROAD, Central Kitchen 199593",
+    "type": "Food Station",
+    "number": "EEDN21050000174",
+    "scheme": "Eating Establishment",
+    "id": "08c48d54-e997-448b-b150-3e60db917993",
+    "postal": "199593"
   },
   {
     "name": "Hong Kong Street Live BBQ Seafood (MR6)@Kopitiam Lau Pa Sat",
@@ -13147,6 +13219,15 @@
     "scheme": "Food Preparation Area",
     "id": "6eda1419-0770-4be8-96ec-b1a6c296d110",
     "postal": "819658"
+  },
+  {
+    "name": "Hot BBQ! @ Ginger (ParkRoyal on Beach Road)",
+    "address": "7500C BEACH ROAD #01 PARKROYAL ON BEACH ROAD, Central Kitchen 199593",
+    "type": "Food Station",
+    "number": "EEDN21050000173",
+    "scheme": "Eating Establishment",
+    "id": "78c8dd44-c958-486e-b246-c6880b5441cd",
+    "postal": "199593"
   },
   {
     "name": "Hot Bites (S5) @Teck Whye Primary School",
@@ -14797,21 +14878,21 @@
   },
   {
     "name": "Kazo",
-    "address": "63 JURONG WEST CENTRAL 3 #01-59/79/80 JURONG POINT 648331",
-    "type": "Restaurant",
-    "number": "EERT20240000060",
-    "scheme": "Eating Establishment",
-    "id": "911cb7f7-438a-4583-a323-1e96bb9071a4",
-    "postal": "648331"
-  },
-  {
-    "name": "Kazo",
     "address": "17 PETIR ROAD #B2-11 HILLION MALL 678278",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000052",
     "scheme": "Eating Establishment",
     "id": "911cb7f7-438a-4583-a323-1e96bb9071a4",
     "postal": "678278"
+  },
+  {
+    "name": "Kazo",
+    "address": "63 JURONG WEST CENTRAL 3 #01-59/79/80 JURONG POINT 648331",
+    "type": "Restaurant",
+    "number": "EERT20240000060",
+    "scheme": "Eating Establishment",
+    "id": "911cb7f7-438a-4583-a323-1e96bb9071a4",
+    "postal": "648331"
   },
   {
     "name": "Kazo",
@@ -18703,15 +18784,6 @@
   },
   {
     "name": "McDonald's",
-    "address": "180 KITCHENER ROAD #01-19/20-23 CITY SQUARE MALL 208539",
-    "type": "Restaurant",
-    "number": "EERT20240000910",
-    "scheme": "Eating Establishment",
-    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-    "postal": "208539"
-  },
-  {
-    "name": "McDonald's",
     "address": "11 BIDADARI PARK DRIVE #B1-11/12 THE WOODLEIGH MALL 367803",
     "type": "Restaurant",
     "number": "EERT20230000678",
@@ -18925,6 +18997,15 @@
     "scheme": "Eating Establishment",
     "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
     "postal": "819643"
+  },
+  {
+    "name": "McDonald's",
+    "address": "180 KITCHENER ROAD #01-19/20-23 CITY SQUARE MALL 208539",
+    "type": "Restaurant",
+    "number": "EERT20240000910",
+    "scheme": "Eating Establishment",
+    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+    "postal": "208539"
   },
   {
     "name": "McDonald's",
@@ -19456,15 +19537,6 @@
     "scheme": "Eating Establishment",
     "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
     "postal": "650632"
-  },
-  {
-    "name": "McDonald's",
-    "address": "7 PASIR RIS CENTRAL #B1-41 519612",
-    "type": "Restaurant",
-    "number": "EERT20240000909",
-    "scheme": "Eating Establishment",
-    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-    "postal": "519612"
   },
   {
     "name": "McDonald's",
@@ -27010,33 +27082,6 @@
   },
   {
     "name": "Sanook Kitchen",
-    "address": "83 PUNGGOL CENTRAL #B1-13 WATERWAY POINT 828761",
-    "type": "Restaurant",
-    "number": "EERT20230000516",
-    "scheme": "Eating Establishment",
-    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-    "postal": "828761"
-  },
-  {
-    "name": "Sanook Kitchen",
-    "address": "17 Petir Road #01-17/18 Hillion Mall 678278",
-    "type": "Restaurant",
-    "number": "EERT20230000517",
-    "scheme": "Eating Establishment",
-    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-    "postal": "678278"
-  },
-  {
-    "name": "Sanook Kitchen",
-    "address": "10 SINARAN DRIVE #02-65/66/67 SQUARE 2 307506",
-    "type": "Restaurant",
-    "number": "EERT20230000878",
-    "scheme": "Eating Establishment",
-    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-    "postal": "307506"
-  },
-  {
-    "name": "Sanook Kitchen",
     "address": "154 WEST COAST ROAD #B1-04 WEST COAST PLAZA 127371",
     "type": "Restaurant",
     "number": "EERT26030000004",
@@ -27070,6 +27115,15 @@
     "scheme": "Eating Establishment",
     "id": "7b5b4a83-60c2-4579-8f5c-de4d5ddfe46d",
     "postal": "299551"
+  },
+  {
+    "name": "Sashimi & Seafood Bar @ Ginger (ParkRoyal on Beach Road)",
+    "address": "7500C BEACH ROAD #01 PARKROYAL ON BEACH ROAD, Central Kitchen 199593",
+    "type": "Food Station",
+    "number": "EEDN21050000172",
+    "scheme": "Eating Establishment",
+    "id": "92234dba-8532-4589-950a-732f45ca238b",
+    "postal": "199593"
   },
   {
     "name": "Sats Food Services Pte Ltd",
@@ -28807,6 +28861,15 @@
     "scheme": "Eating Establishment",
     "id": "ee4dc241-8cef-404a-b69d-58f28f77e2b7",
     "postal": "199593"
+  },
+  {
+    "name": "Staff Canteen Stall @ West Pharm (Mngd by The Wok People)",
+    "address": "15 JOO KOON CIRCLE #02-00 629046",
+    "type": "Staff Canteen",
+    "number": "EESC20250000393",
+    "scheme": "Eating Establishment",
+    "id": "3bab7631-4269-4fc7-88a5-0745e2808a70",
+    "postal": "629046"
   },
   {
     "name": "Staff Canteen Stall @ABBVIE Operations Sg PL(Mngd by Compass Grp)",
@@ -33247,15 +33310,6 @@
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "101 THOMSON ROAD #01-62/63 UNITED SQUARE 307591",
-    "type": "Restaurant",
-    "number": "EERT20230000949",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "307591"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
     "address": "4 BUKIT BATOK STREET 41 #01-73/74 LE QUEST 657991",
     "type": "Restaurant",
     "number": "EERT20230001216",
@@ -34470,15 +34524,6 @@
     "postal": "544692"
   },
   {
-    "name": "TOKYO SHOKUDO",
-    "address": "53 ANG MO KIO AVENUE 3 #02-19,#02-20,#02-21 AMK HUB 569933",
-    "type": "Restaurant",
-    "number": "EERT20250000567",
-    "scheme": "Eating Establishment",
-    "id": "3e75f97a-1f6a-4795-ba6e-a2ba7adf2128",
-    "postal": "569933"
-  },
-  {
     "name": "TOKYO SHOKUDO BISTRO",
     "address": "200 VICTORIA STREET #B1-07 BUGIS JUNCTION 188021",
     "type": "Restaurant",
@@ -34534,39 +34579,12 @@
   },
   {
     "name": "Tongue Tip Lanzhou Beef Noodles",
-    "address": "133 NEW BRIDGE ROAD #01-43 CHINATOWN POINT 059413",
-    "type": "Restaurant",
-    "number": "EERN21040012244",
-    "scheme": "Eating Establishment",
-    "id": "2dce1ae1-5e33-4749-952e-c14abd6ebf2b",
-    "postal": "059413"
-  },
-  {
-    "name": "Tongue Tip Lanzhou Beef Noodles",
-    "address": "302 TIONG BAHRU ROAD #02-107/108 TIONG BAHRU PLAZA 168732",
-    "type": "Restaurant",
-    "number": "EERN21040012245",
-    "scheme": "Eating Establishment",
-    "id": "2dce1ae1-5e33-4749-952e-c14abd6ebf2b",
-    "postal": "168732"
-  },
-  {
-    "name": "Tongue Tip Lanzhou Beef Noodles",
     "address": "1 PASIR RIS CLOSE #02-322 E!HUB@DOWNTOWN EAST 519599",
     "type": "Restaurant",
     "number": "EERN21070012601",
     "scheme": "Eating Establishment",
     "id": "2dce1ae1-5e33-4749-952e-c14abd6ebf2b",
     "postal": "519599"
-  },
-  {
-    "name": "Tongue Tip Lanzhou Beef Noodles",
-    "address": "2 TAMPINES CENTRAL 5 #01-42 CENTURY SQUARE 529509",
-    "type": "Restaurant",
-    "number": "EERN21110012966",
-    "scheme": "Eating Establishment",
-    "id": "2dce1ae1-5e33-4749-952e-c14abd6ebf2b",
-    "postal": "529509"
   },
   {
     "name": "Tongue Tip Lanzhou Beef Noodles",
@@ -35602,6 +35620,15 @@
     "scheme": "Eating Establishment",
     "id": "bfa6e164-071b-40fc-bc8e-6bd35b947465",
     "postal": "486029"
+  },
+  {
+    "name": "Warrior",
+    "address": "15 TAMPINES CENTRAL 1 #B1-13 TAMPINES MRT STATION (DT32) 529544",
+    "type": "Restaurant",
+    "number": "EERT26050000035",
+    "scheme": "Eating Establishment",
+    "id": "4bcfa287-688d-4031-a7ca-dc59f8925979",
+    "postal": "529544"
   },
   {
     "name": "Warung Leko",
