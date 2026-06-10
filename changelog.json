@@ -1,5 +1,174 @@
 [
   {
+    "timestamp": "2026-06-10T22:48:30.594055",
+    "date": "2026-06-10",
+    "summary": {
+      "new": 12,
+      "removed": 5,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Kitchen @ NTUC Health Nursing Homes (Mngd by NTUC Foodfare)",
+          "address": "50 JURONG WEST STREET 93 #09 648967",
+          "type": "Central Kitchen",
+          "number": "FPCN21040001507",
+          "scheme": "Food Preparation Area",
+          "id": "4bcd96cc-5c4a-43b2-8d41-cbf1c1735b64",
+          "postal": "648967"
+        },
+        {
+          "name": "COOKHOUSE 1 @ SCDF - CDA (MNGD BY NTUC FOODFARE)",
+          "address": "101 JALAN BAHAR #01-01 CIVIL DEFENCE ACADEMY 649734",
+          "type": "Catering Company",
+          "number": "FPCA26060000013",
+          "scheme": "Food Preparation Area",
+          "id": "969e755f-6756-4072-94c9-e2e6b3480e38",
+          "postal": "649734"
+        },
+        {
+          "name": "COOKHOUSE 1 @ SCDF - CDA (MNGD BY NTUC FOODFARE)",
+          "address": "101 JALAN BAHAR #01-01 CIVIL DEFENCE ACADEMY 649734",
+          "type": "Staff Canteen",
+          "number": "EEFN21120012555",
+          "scheme": "Eating Establishment",
+          "id": "969e755f-6756-4072-94c9-e2e6b3480e38",
+          "postal": "649734"
+        },
+        {
+          "name": "Kitchen @ NTUC Health Nursing Homes (Mngd by NTUC Foodfare)",
+          "address": "35 Chai Chee Street 468984",
+          "type": "Central Kitchen",
+          "number": "FPCN21040001514",
+          "scheme": "Food Preparation Area",
+          "id": "4bcd96cc-5c4a-43b2-8d41-cbf1c1735b64",
+          "postal": "468984"
+        },
+        {
+          "name": "Kitchen @ NTUC Health Nursing Homes (Mngd by NTUC Foodfare)",
+          "address": "1 TAMPINES STREET 22 #02-01 NTUC HEALTH (TAMPINES) 529367",
+          "type": "Central Kitchen",
+          "number": "FPCK20230000486",
+          "scheme": "Food Preparation Area",
+          "id": "4bcd96cc-5c4a-43b2-8d41-cbf1c1735b64",
+          "postal": "529367"
+        },
+        {
+          "name": "GOPIZZA",
+          "address": "60 AIRPORT BOULEVARD #02-K15 CHANGI AIRPORT TERMINAL 2 Departure Hall 819643",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26050000067",
+          "scheme": "Eating Establishment",
+          "id": "6ad41353-6cd6-4d5d-b66e-a2b1403dc446",
+          "postal": "819643"
+        },
+        {
+          "name": "Al Afrose Restaurant",
+          "address": "421 RIVER VALLEY ROAD 248320",
+          "type": "Restaurant",
+          "number": "EERT26050000036",
+          "scheme": "Eating Establishment",
+          "id": "1113c91c-fe5c-4e94-9650-c4f1e1f4cabc",
+          "postal": "248320"
+        },
+        {
+          "name": "Kitchen @ NTUC Health Nursing Homes (Mngd by NTUC Foodfare)",
+          "address": "12 PASIR RIS WALK #02-229 NTUC HEALTH (PASIR RIS) 518063",
+          "type": "Central Kitchen",
+          "number": "FPCK20230000487",
+          "scheme": "Food Preparation Area",
+          "id": "4bcd96cc-5c4a-43b2-8d41-cbf1c1735b64",
+          "postal": "518063"
+        },
+        {
+          "name": "GOPIZZA",
+          "address": "3 TEMASEK BOULEVARD #01-366, #01-374, #01-373 #01-365 SUNTEC CITY MALL 038983",
+          "type": "Restaurant",
+          "number": "EERT26050000065",
+          "scheme": "Eating Establishment",
+          "id": "6ad41353-6cd6-4d5d-b66e-a2b1403dc446",
+          "postal": "038983"
+        },
+        {
+          "name": "Rasa Together",
+          "address": "4 WOODLANDS STREET 12 #01-67 STALL 67 MARSILING MALL HAWKER CENTRE 738623",
+          "type": "Hawker",
+          "number": "EEHK26060000028",
+          "scheme": "Eating Establishment",
+          "id": "dc849aa0-c5ad-4f91-9c8e-eec03655cb86",
+          "postal": "738623"
+        },
+        {
+          "name": "Kitchen @ NTUC Health Nursing Homes (Mngd by NTUC Foodfare)",
+          "address": "25 GEYLANG EAST CENTRAL 389708",
+          "type": "Central Kitchen",
+          "number": "FPCN21040001510",
+          "scheme": "Food Preparation Area",
+          "id": "4bcd96cc-5c4a-43b2-8d41-cbf1c1735b64",
+          "postal": "389708"
+        },
+        {
+          "name": "Kitchen @ NTUC Health Nursing Homes (Mngd by NTUC Foodfare)",
+          "address": "6B JURONG WEST STREET 52 #08-01 NTUC HEALTH (JURONG SPRING) 649298",
+          "type": "Central Kitchen",
+          "number": "FPCK20230000485",
+          "scheme": "Food Preparation Area",
+          "id": "4bcd96cc-5c4a-43b2-8d41-cbf1c1735b64",
+          "postal": "649298"
+        }
+      ],
+      "removed": [
+        {
+          "name": "CRAVE",
+          "address": "1 LOWER KENT RIDGE ROAD #01-09/19/20 ONE @ KENTRIDGE 119082",
+          "type": "Restaurant",
+          "number": "EERN21050012353",
+          "scheme": "Eating Establishment",
+          "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
+          "postal": "119082"
+        },
+        {
+          "name": "Sanook Kitchen",
+          "address": "1 HARBOURFRONT WALK #B2-23C VIVO CITY 098585",
+          "type": "Restaurant",
+          "number": "EERT20220000545",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "098585"
+        },
+        {
+          "name": "Sanook Kitchen",
+          "address": "16 LORONG MAMBONG HOLLAND VILLAGE 277677",
+          "type": "Restaurant",
+          "number": "EERN21080012849",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "277677"
+        },
+        {
+          "name": "Three's A Crowd",
+          "address": "50 RACE COURSE ROAD 218562",
+          "type": "Restaurant",
+          "number": "EERT20220000767",
+          "scheme": "Eating Establishment",
+          "id": "fffde1b4-44d4-440f-b460-33d87aa224ee",
+          "postal": "218562"
+        },
+        {
+          "name": "TEXAS CHICKEN",
+          "address": "2 TAMPINES CENTRAL 5 #05-03 CENTURY SQUARE 529509",
+          "type": "Restaurant",
+          "number": "EERN21070012596",
+          "scheme": "Eating Establishment",
+          "id": "53c88848-1280-4fee-b6dc-b5d1d941c07d",
+          "postal": "529509"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-06-09T22:45:32.474195",
     "date": "2026-06-09",
     "summary": {
@@ -8021,250 +8190,6 @@
         }
       ],
       "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-04-06T22:23:10.832859",
-    "date": "2026-04-06",
-    "summary": {
-      "new": 18,
-      "removed": 5,
-      "updated": 1
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "1A Heritage",
-          "address": "167 WOODLANDS STREET 11 #01-07 Foodhub, Stall 12 730167",
-          "type": "Hawker",
-          "number": "EEHK20250000681",
-          "scheme": "Eating Establishment",
-          "id": "2ba76be5-c2e7-447b-9283-8bf51d1a60e0",
-          "postal": "730167"
-        },
-        {
-          "name": "DAPUR PENYET",
-          "address": "176 ORCHARD ROAD #01-59 THE CENTREPOINT 238843",
-          "type": "Restaurant",
-          "number": "EERN21030012204",
-          "scheme": "Eating Establishment",
-          "id": "4bd8f8c1-67ec-4477-b6c1-389fa3d7526c",
-          "postal": "238843"
-        },
-        {
-          "name": "SWEE HENG 1989 CLASSIC",
-          "address": "601 MACPHERSON ROAD #01-15 GRANTRAL MALL @ MACPHERSON 368242",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26040000009",
-          "scheme": "Eating Establishment",
-          "id": "92f90956-de91-43bc-915e-12b8de4ff829",
-          "postal": "368242"
-        },
-        {
-          "name": "NIKU IKU",
-          "address": "238 THOMSON ROAD #01-24 NOVENA SQUARE 307683",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26040000011",
-          "scheme": "Eating Establishment",
-          "id": "64a228b0-7d2f-4fd7-8a87-e5df67b09ade",
-          "postal": "307683"
-        },
-        {
-          "name": "1A CRISPY PUFFS",
-          "address": "3015 BEDOK NORTH STREET 5 #02-09 SHIMEI EAST KITCHEN 486350",
-          "type": "Central Kitchen",
-          "number": "FPCN22020001663",
-          "scheme": "Food Preparation Area",
-          "id": "1f05c413-3119-4ee7-b3b3-dfc4aebf420e",
-          "postal": "486350"
-        },
-        {
-          "name": "APS BAKE KITCHEN",
-          "address": "30 CASHEW ROAD 01-CR3 ASSUMPTION PATHWAY SCHOOL 679697",
-          "type": "Central Kitchen",
-          "number": "FPCK20250000142",
-          "scheme": "Food Preparation Area",
-          "id": "a4acab3e-66ca-43b1-91b7-68585bfbe288",
-          "postal": "679697"
-        },
-        {
-          "name": "1A Heritage",
-          "address": "209 NEW UPPER CHANGI ROAD #01-633, Stall 12 460209",
-          "type": "Hawker",
-          "number": "EEHN22020013189",
-          "scheme": "Eating Establishment",
-          "id": "2ba76be5-c2e7-447b-9283-8bf51d1a60e0",
-          "postal": "460209"
-        },
-        {
-          "name": "D'Penyetz Heritage",
-          "address": "5 KADAYANALLUR STREET #01-06 069183",
-          "type": "Restaurant",
-          "number": "EERT20250000295",
-          "scheme": "Eating Establishment",
-          "id": "e1a75dfa-9f57-4e38-b593-5e3a41ffbb3f",
-          "postal": "069183"
-        },
-        {
-          "name": "DAPUR PENYET",
-          "address": "78 AIRPORT BOULEVARD #B2-241 / 242 JEWEL CHANGI AIRPORT 819666",
-          "type": "Restaurant",
-          "number": "EERT20220000118",
-          "scheme": "Eating Establishment",
-          "id": "4bd8f8c1-67ec-4477-b6c1-389fa3d7526c",
-          "postal": "819666"
-        },
-        {
-          "name": "DAPUR PENYET",
-          "address": "810 GEYLANG ROAD #01-43/44/60/61 CITY PLAZA 409286",
-          "type": "Restaurant",
-          "number": "EERN21030012205",
-          "scheme": "Eating Establishment",
-          "id": "4bd8f8c1-67ec-4477-b6c1-389fa3d7526c",
-          "postal": "409286"
-        },
-        {
-          "name": "1A Heritage",
-          "address": "53 ANG MO KIO AVENUE 3 #B2-34 AMK HUB 569933",
-          "type": "Snack Bar / Bakery",
-          "number": "EEBN22020013106",
-          "scheme": "Eating Establishment",
-          "id": "2ba76be5-c2e7-447b-9283-8bf51d1a60e0",
-          "postal": "569933"
-        },
-        {
-          "name": "1A Heritage",
-          "address": "449 CLEMENTI AVENUE 3 #01-211, Stall 11 120449",
-          "type": "Hawker",
-          "number": "EEHK20240000218",
-          "scheme": "Eating Establishment",
-          "id": "2ba76be5-c2e7-447b-9283-8bf51d1a60e0",
-          "postal": "120449"
-        },
-        {
-          "name": "Ark Hot Kitchen @ Assumption Pathway School",
-          "address": "30 CASHEW ROAD ASSUMPTION PATHWAY SCHOOL 679697",
-          "type": "Catering Company",
-          "number": "FPCA20220000058",
-          "scheme": "Food Preparation Area",
-          "id": "bab15e5f-a3fe-406e-b7bd-6dacad0b77e4",
-          "postal": "679697"
-        },
-        {
-          "name": "TOAST & ROLL",
-          "address": "3 TEMASEK BOULEVARD #02-471 SUNTEC CITY MALL 038983",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26040000013",
-          "scheme": "Eating Establishment",
-          "id": "78f7c4f0-2461-4fb2-93b8-e473ce650491",
-          "postal": "038983"
-        },
-        {
-          "name": "1A Heritage",
-          "address": "391 ORCHARD ROAD TAKASHIMAYA SHOPPING CENTRE 238872",
-          "type": "Snack Bar / Bakery",
-          "number": "EEBX22020013105",
-          "scheme": "Eating Establishment",
-          "id": "2ba76be5-c2e7-447b-9283-8bf51d1a60e0",
-          "postal": "238872"
-        },
-        {
-          "name": "Western Wonders",
-          "address": "50 ANCHORVALE LINK Stall 8: Western Wonders #01 NAN CHIAU PRIMARY SCHOOL, Stall 8 545080",
-          "type": "Canteen",
-          "number": "EESC26040000007",
-          "scheme": "Eating Establishment",
-          "id": "aac199db-98fb-44d7-9409-298f5f3e3bf9",
-          "postal": "545080"
-        },
-        {
-          "name": "NIKU IKU",
-          "address": "1 NORTHPOINT DRIVE #B2-159 NORTHPOINT CITY 768019",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26040000014",
-          "scheme": "Eating Establishment",
-          "id": "64a228b0-7d2f-4fd7-8a87-e5df67b09ade",
-          "postal": "768019"
-        },
-        {
-          "name": "TKY Food Enterprise Central Kitchen",
-          "address": "8A ADMIRALTY STREET #01-29 FOOD XCHANGE @ ADMIRALTY 757437",
-          "type": "Central Kitchen",
-          "number": "FPCK26040000018",
-          "scheme": "Food Preparation Area",
-          "id": "7afa7461-01d9-45e4-aa61-4c40ee7306db",
-          "postal": "757437"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Sanook Kitchen",
-          "address": "1 STADIUM PLACE #01-16/K8 397628",
-          "type": "Restaurant",
-          "number": "EERN21080012848",
-          "scheme": "Eating Establishment",
-          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-          "postal": "397628"
-        },
-        {
-          "name": "DAPUR PENYET",
-          "address": "810 GEYLANG ROAD #01-43/44/60/61 CITY PLAZA 409286",
-          "type": "Restaurant",
-          "number": "EERN21030012205",
-          "scheme": "Eating Establishment",
-          "id": "33040039-4fb8-4b48-91a0-dfde74a45e7b",
-          "postal": "409286"
-        },
-        {
-          "name": "DAPUR PENYET",
-          "address": "78 AIRPORT BOULEVARD #B2-241 / 242 JEWEL CHANGI AIRPORT 819666",
-          "type": "Restaurant",
-          "number": "EERT20220000118",
-          "scheme": "Eating Establishment",
-          "id": "33040039-4fb8-4b48-91a0-dfde74a45e7b",
-          "postal": "819666"
-        },
-        {
-          "name": "DAPUR PENYET",
-          "address": "176 ORCHARD ROAD #01-59 THE CENTREPOINT 238843",
-          "type": "Restaurant",
-          "number": "EERN21030012204",
-          "scheme": "Eating Establishment",
-          "id": "33040039-4fb8-4b48-91a0-dfde74a45e7b",
-          "postal": "238843"
-        },
-        {
-          "name": "Sanook Kitchen",
-          "address": "16 LORONG MAMBONG HOLLAND VILLAGE 277677",
-          "type": "Restaurant",
-          "number": "EERN21080012849",
-          "scheme": "Eating Establishment",
-          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-          "postal": "277677"
-        }
-      ],
-      "updated": [
-        {
-          "previous": {
-            "name": "Paris Baguette",
-            "address": "7 HOLLAND VILLAGE WAY #01-46/47 ONE HOLLAND VILLAGE 275758",
-            "type": "Restaurant",
-            "number": "EERT26020000033",
-            "scheme": "Eating Establishment",
-            "id": "8426b1a6-b4b6-41da-9f87-117a4cf314e5",
-            "postal": "275758"
-          },
-          "current": {
-            "name": "Paris Baguette",
-            "address": "7 HOLLAND VILLAGE WAY #01-46/47 ONE HOLLAND VILLAGE 275748",
-            "type": "Restaurant",
-            "number": "EERT26020000033",
-            "scheme": "Eating Establishment",
-            "id": "8426b1a6-b4b6-41da-9f87-117a4cf314e5",
-            "postal": "275748"
-          }
-        }
-      ]
     }
   }
 ]
