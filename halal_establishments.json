@@ -11098,6 +11098,15 @@
   },
   {
     "name": "Full Bowl",
+    "address": "30 WOODLANDS AVENUE 1 #01-09A THE WOODGROVE 739065",
+    "type": "Restaurant",
+    "number": "EERT20250000117",
+    "scheme": "Eating Establishment",
+    "id": "2dce1ae1-5e33-4749-952e-c14abd6ebf2b",
+    "postal": "739065"
+  },
+  {
+    "name": "Full Bowl",
     "address": "2 TAMPINES CENTRAL 5 #01-42 CENTURY SQUARE 529509",
     "type": "Restaurant",
     "number": "EERN21110012966",
@@ -12043,21 +12052,21 @@
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
-    "address": "212 BEDOK NORTH STREET 1 #01-147 460212",
-    "type": "Halal Section",
-    "number": "EECX21070000444",
-    "scheme": "Eating Establishment",
-    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
-    "postal": "460212"
-  },
-  {
-    "name": "Halal Section @ NTUC FAIRPRICE",
     "address": "11 RIVERVALE CRESCENT #03-01 RIVERVALE MALL 545082",
     "type": "Central Kitchen",
     "number": "FPCK20240000663",
     "scheme": "Food Preparation Area",
     "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
     "postal": "545082"
+  },
+  {
+    "name": "Halal Section @ NTUC FAIRPRICE",
+    "address": "212 BEDOK NORTH STREET 1 #01-147 460212",
+    "type": "Halal Section",
+    "number": "EECX21070000444",
+    "scheme": "Eating Establishment",
+    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
+    "postal": "460212"
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
@@ -16351,6 +16360,15 @@
     "scheme": "Eating Establishment",
     "id": "f0c681c2-b4e6-4cba-9de7-9d2e2c9f7515",
     "postal": "569933"
+  },
+  {
+    "name": "KOPI & TARTS",
+    "address": "1 LENTOR CENTRAL #01-24 LENTOR MODERN 788887",
+    "type": "Restaurant",
+    "number": "EERT26060000033",
+    "scheme": "Eating Establishment",
+    "id": "f0c681c2-b4e6-4cba-9de7-9d2e2c9f7515",
+    "postal": "788887"
   },
   {
     "name": "KOPI & TARTS",
@@ -21790,21 +21808,21 @@
   },
   {
     "name": "NASTY COOKIE",
-    "address": "78 AIRPORT BOULEVARD #03-207 JEWEL CHANGI AIRPORT 819666",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000480",
-    "scheme": "Eating Establishment",
-    "id": "00bb8d74-a1c6-4dd1-adad-d89a87a0083f",
-    "postal": "819666"
-  },
-  {
-    "name": "NASTY COOKIE",
     "address": "277 ORCHARD ROAD #B2-10 ORCHARD GATEWAY 238858",
     "type": "Restaurant",
     "number": "EERT20230000983",
     "scheme": "Eating Establishment",
     "id": "00bb8d74-a1c6-4dd1-adad-d89a87a0083f",
     "postal": "238858"
+  },
+  {
+    "name": "NASTY COOKIE",
+    "address": "78 AIRPORT BOULEVARD #03-207 JEWEL CHANGI AIRPORT 819666",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000480",
+    "scheme": "Eating Establishment",
+    "id": "00bb8d74-a1c6-4dd1-adad-d89a87a0083f",
+    "postal": "819666"
   },
   {
     "name": "NASTY COOKIE",
@@ -26344,15 +26362,6 @@
   },
   {
     "name": "ROCKY MASTER",
-    "address": "6 WOODLANDS SQUARE #01-11 WOODS SQUARE 737737",
-    "type": "Restaurant",
-    "number": "EERN21050012379",
-    "scheme": "Eating Establishment",
-    "id": "33632e00-5112-411c-92d5-7748c166de2b",
-    "postal": "737737"
-  },
-  {
-    "name": "ROCKY MASTER",
     "address": "1 HOUGANG STREET 91 #01-40 HOUGANG FESTIVAL MARKET 538692",
     "type": "Restaurant",
     "number": "EERN21050012373",
@@ -26377,6 +26386,15 @@
     "scheme": "Eating Establishment",
     "id": "33632e00-5112-411c-92d5-7748c166de2b",
     "postal": "238876"
+  },
+  {
+    "name": "ROCKY MASTER",
+    "address": "6 WOODLANDS SQUARE #01-11 WOODS SQUARE 737737",
+    "type": "Restaurant",
+    "number": "EERN21050012379",
+    "scheme": "Eating Establishment",
+    "id": "33632e00-5112-411c-92d5-7748c166de2b",
+    "postal": "737737"
   },
   {
     "name": "ROCKY MASTER",
@@ -34615,15 +34633,6 @@
   },
   {
     "name": "Tongue Tip Lanzhou Beef Noodles",
-    "address": "30 WOODLANDS AVENUE 1 #01-09A THE WOODGROVE 739065",
-    "type": "Restaurant",
-    "number": "EERT20250000117",
-    "scheme": "Eating Establishment",
-    "id": "2dce1ae1-5e33-4749-952e-c14abd6ebf2b",
-    "postal": "739065"
-  },
-  {
-    "name": "Tongue Tip Lanzhou Beef Noodles",
     "address": "601 MACPHERSON ROAD #01-48 GRANTRAL MALL 368242",
     "type": "Restaurant",
     "number": "EERT26010000119",
@@ -34840,15 +34849,6 @@
   },
   {
     "name": "TREATS",
-    "address": "1027 UPPER SERANGOON ROAD MOBIL SERVICE STATION 534765",
-    "type": "Food Kiosk",
-    "number": "EEFK20220001016",
-    "scheme": "Eating Establishment",
-    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
-    "postal": "534765"
-  },
-  {
-    "name": "TREATS",
     "address": "353 UPPER THOMSON ROAD MOBIL SERVICE STATION 574410",
     "type": "Food Kiosk",
     "number": "EEFK20230000637",
@@ -34945,6 +34945,15 @@
     "scheme": "Eating Establishment",
     "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
     "postal": "758452"
+  },
+  {
+    "name": "TREATS",
+    "address": "1027 UPPER SERANGOON ROAD MOBIL SERVICE STATION 534765",
+    "type": "Food Kiosk",
+    "number": "EEFK20220001016",
+    "scheme": "Eating Establishment",
+    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
+    "postal": "534765"
   },
   {
     "name": "TREATS",
