@@ -1,5 +1,282 @@
 [
   {
+    "timestamp": "2026-06-15T22:55:13.429075",
+    "date": "2026-06-15",
+    "summary": {
+      "new": 23,
+      "removed": 6,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Popeyes Famous Louisiana Chicken",
+          "address": "30 WOODLANDS AVENUE 2 #01-07, 08, 15 WOODLANDS MRT STATION 738343",
+          "type": "Restaurant",
+          "number": "EERT20250000446",
+          "scheme": "Eating Establishment",
+          "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+          "postal": "738343"
+        },
+        {
+          "name": "Popeyes Famous Louisiana Chicken",
+          "address": "11 TANJONG KATONG ROAD #01-50/51 KINEX 437157",
+          "type": "Restaurant",
+          "number": "EERT20250000586",
+          "scheme": "Eating Establishment",
+          "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+          "postal": "437157"
+        },
+        {
+          "name": "Popeyes Famous Louisiana Chicken",
+          "address": "10 TAMPINES CENTRAL 1 #03-16B TAMPINES ONE 529536",
+          "type": "Restaurant",
+          "number": "EERT20240000375",
+          "scheme": "Eating Establishment",
+          "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+          "postal": "529536"
+        },
+        {
+          "name": "Popeyes Famous Louisiana Chicken",
+          "address": "930 YISHUN AVENUE 2 #01-15 769098",
+          "type": "Restaurant",
+          "number": "EERT20240000371",
+          "scheme": "Eating Establishment",
+          "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+          "postal": "769098"
+        },
+        {
+          "name": "Popeyes Famous Louisiana Chicken",
+          "address": "1 Joo Koon Circle #01-42/47/48 FAIRPRICE HUB 629117",
+          "type": "Restaurant",
+          "number": "EERT20240000380",
+          "scheme": "Eating Establishment",
+          "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+          "postal": "629117"
+        },
+        {
+          "name": "Popeyes Famous Louisiana Chicken",
+          "address": "53 ANG MO KIO AVENUE 3 #B1-64 AMK HUB 569933",
+          "type": "Restaurant",
+          "number": "EERT20240000367",
+          "scheme": "Eating Establishment",
+          "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+          "postal": "569933"
+        },
+        {
+          "name": "Popeyes Famous Louisiana Chicken",
+          "address": "6 Raffles Boulevard #02-275/276 Marina Square 039594",
+          "type": "Restaurant",
+          "number": "EERT20240000379",
+          "scheme": "Eating Establishment",
+          "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+          "postal": "039594"
+        },
+        {
+          "name": "Popeyes Famous Louisiana Chicken",
+          "address": "63 JURONG WEST CENTRAL 3 #03-48 TO 51 JURONG POINT 648331",
+          "type": "Restaurant",
+          "number": "EERT20240000369",
+          "scheme": "Eating Establishment",
+          "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+          "postal": "648331"
+        },
+        {
+          "name": "Popeyes Famous Louisiana Chicken",
+          "address": "437 ORCHARD ROAD #B1-19/20/22/23 ORCHARD MRT STATION 238878",
+          "type": "Restaurant",
+          "number": "EERT20240000373",
+          "scheme": "Eating Establishment",
+          "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+          "postal": "238878"
+        },
+        {
+          "name": "Popeyes Famous Louisiana Chicken",
+          "address": "1 STADIUM PLACE #02-02 397628",
+          "type": "Restaurant",
+          "number": "EERT20240000370",
+          "scheme": "Eating Establishment",
+          "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+          "postal": "397628"
+        },
+        {
+          "name": "Popeyes Famous Louisiana Chicken (S2) @ North Spine Plaza NTU",
+          "address": "76 NANYANG DRIVE #01-04 N2.1, STALL 2 637331",
+          "type": "Hawker",
+          "number": "EEHK20240000378",
+          "scheme": "Eating Establishment",
+          "id": "374f6510-6fbe-4775-bf50-e590d9730151",
+          "postal": "637331"
+        },
+        {
+          "name": "Popeyes Famous Louisiana Chicken",
+          "address": "557 BUKIT TIMAH ROAD 01-14/15/16 CROWN CENTRE 269694",
+          "type": "Restaurant",
+          "number": "EERT20250000587",
+          "scheme": "Eating Establishment",
+          "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+          "postal": "269694"
+        },
+        {
+          "name": "Popeyes Famous Louisiana Chicken",
+          "address": "1 SENGKANG SQUARE #02-29 COMPASS ONE, MR1 545078",
+          "type": "Restaurant",
+          "number": "EERT20240000381",
+          "scheme": "Eating Establishment",
+          "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+          "postal": "545078"
+        },
+        {
+          "name": "Popeyes Famous Louisiana Chicken (S9) @ SG Hawker Terminal 1",
+          "address": "80 Airport Boulevard #03-47 Changi Airport Terminal 1, Stall 9 819642",
+          "type": "Hawker",
+          "number": "EEHK20240000377",
+          "scheme": "Eating Establishment",
+          "id": "9db707fc-bfcc-4b23-a968-ccf4f367cc3c",
+          "postal": "819642"
+        },
+        {
+          "name": "Popeyes Famous Louisiana Chicken",
+          "address": "154 WEST COAST ROAD #B1-48 WEST COAST PLAZA 127371",
+          "type": "Restaurant",
+          "number": "EERT26060000012",
+          "scheme": "Eating Establishment",
+          "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+          "postal": "127371"
+        },
+        {
+          "name": "Popeyes Famous Louisiana Chicken",
+          "address": "430 UPPER CHANGI ROAD #01-01, #01-02 EAST VILLAGE 487048",
+          "type": "Restaurant",
+          "number": "EERT26060000010",
+          "scheme": "Eating Establishment",
+          "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+          "postal": "487048"
+        },
+        {
+          "name": "Popeyes Famous Louisiana Chicken",
+          "address": "205 HOUGANG STREET 21 #01-133/5 HEARTLAND MALL-KOVAN, (UNIT #01-06) 530205",
+          "type": "Restaurant",
+          "number": "EERT26060000011",
+          "scheme": "Eating Establishment",
+          "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+          "postal": "530205"
+        },
+        {
+          "name": "Popeyes Famous Louisiana Chicken",
+          "address": "33 Sengkang West Avenue #01-31/32/33 The Seletar Mall 797653",
+          "type": "Restaurant",
+          "number": "EERT20240000656",
+          "scheme": "Eating Establishment",
+          "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+          "postal": "797653"
+        },
+        {
+          "name": "Popeyes Famous Louisiana Chicken",
+          "address": "96 SOMERSET ROAD #01-01/04 Pan Pacific Serviced Suites Orchard 238163",
+          "type": "Restaurant",
+          "number": "EERT20250000445",
+          "scheme": "Eating Establishment",
+          "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+          "postal": "238163"
+        },
+        {
+          "name": "Popeyes Famous Louisiana Chicken",
+          "address": "750 CHAI CHEE ROAD #01-17 ESR BIZPARK @ CHAI CHEE 469000",
+          "type": "Restaurant",
+          "number": "EERT20240000376",
+          "scheme": "Eating Establishment",
+          "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+          "postal": "469000"
+        },
+        {
+          "name": "Popeyes Famous Louisiana Chicken",
+          "address": "458 UPPER BUKIT TIMAH ROAD The Rail Mall 678073",
+          "type": "Restaurant",
+          "number": "EERT20250000447",
+          "scheme": "Eating Establishment",
+          "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+          "postal": "678073"
+        },
+        {
+          "name": "Popeyes Famous Louisiana Chicken",
+          "address": "2 JURONG EAST STREET 21 #01-89 IMM BUILDING 609601",
+          "type": "Restaurant",
+          "number": "EERT20250000029",
+          "scheme": "Eating Establishment",
+          "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+          "postal": "609601"
+        },
+        {
+          "name": "Popeyes Famous Louisiana Chicken (MR1) @ North Spine Plaza NTU",
+          "address": "76 NANYANG DRIVE #01-04, MR 1 637331",
+          "type": "Hawker",
+          "number": "EEHK20240000372",
+          "scheme": "Eating Establishment",
+          "id": "543eac92-1e2a-42d5-a096-4edf6add7263",
+          "postal": "637331"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Srisun Express",
+          "address": "132 BUKIT BATOK WEST AVENUE 6 #01-308, part of 650132",
+          "type": "Restaurant",
+          "number": "EERX21040012272",
+          "scheme": "Eating Establishment",
+          "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
+          "postal": "650132"
+        },
+        {
+          "name": "Tenderbest",
+          "address": "827 TAMPINES STREET 81 #01-128 TAMPINES GROVE, MR2 520827",
+          "type": "Hawker",
+          "number": "EEHK20230000621",
+          "scheme": "Eating Establishment",
+          "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
+          "postal": "520827"
+        },
+        {
+          "name": "TIP TOP",
+          "address": "1 PASIR RIS CLOSE #02-109 E!HUB@DOWNTOWN EAST 519599",
+          "type": "Restaurant",
+          "number": "EERT20240000728",
+          "scheme": "Eating Establishment",
+          "id": "87a00d7d-0af0-4000-be56-7b7facc1c180",
+          "postal": "519599"
+        },
+        {
+          "name": "Telur Thai",
+          "address": "127 PLANTATION CRESCENT #03-02 KOUFU PLANTATION PLAZA, Stall 4 690127",
+          "type": "Hawker",
+          "number": "EEHK20250000775",
+          "scheme": "Eating Establishment",
+          "id": "7001901a-4b95-4a8b-8989-93cb7b0f369a",
+          "postal": "690127"
+        },
+        {
+          "name": "Tenderbest",
+          "address": "888 WOODLANDS DRIVE 50 #01-733 888 PLAZA, Stall 9 730888",
+          "type": "Hawker",
+          "number": "EEHN21060012452",
+          "scheme": "Eating Establishment",
+          "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
+          "postal": "730888"
+        },
+        {
+          "name": "SUPER SUSHI",
+          "address": "1 JURONG WEST CENTRAL 2 #B1-03A JURONG POINT 648886",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26030000032",
+          "scheme": "Eating Establishment",
+          "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
+          "postal": "648886"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-06-12T22:46:39.637416",
     "date": "2026-06-12",
     "summary": {
@@ -8210,39 +8487,6 @@
           "scheme": "Eating Establishment",
           "id": "20b54a68-fd91-40e1-b320-30cb121c6965",
           "postal": "537643"
-        }
-      ],
-      "removed": [],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-04-10T22:24:57.091592",
-    "date": "2026-04-10",
-    "summary": {
-      "new": 2,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Firefry Thai Snacks",
-          "address": "90 HOUGANG AVENUE 10 #01-18C HOUGANG MALL 538766",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26040000019",
-          "scheme": "Eating Establishment",
-          "id": "d4bb77c7-6cf2-4bef-9fd3-4e752c83238e",
-          "postal": "538766"
-        },
-        {
-          "name": "PASTAGO",
-          "address": "33 SENGKANG WEST AVENUE #B1-K17 THE SELETAR MALL 797653",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26040000015",
-          "scheme": "Eating Establishment",
-          "id": "5c5afd38-ebd6-422b-babb-46f8944c0e6a",
-          "postal": "797653"
         }
       ],
       "removed": [],
