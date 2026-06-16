@@ -478,15 +478,6 @@
   },
   {
     "name": "4FINGERS CRISPY CHICKEN",
-    "address": "4 BUKIT BATOK STREET 41 #01-14/15 LE QUEST 657991",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20220000860",
-    "scheme": "Eating Establishment",
-    "id": "90b83324-363a-4406-9afa-08b19b67522d",
-    "postal": "657991"
-  },
-  {
-    "name": "4FINGERS CRISPY CHICKEN",
     "address": "988 UPPER SERANGOON ROAD #01-35 STARS OF KOVAN 534733",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000025",
@@ -4555,6 +4546,15 @@
   },
   {
     "name": "BURGER KING",
+    "address": "65 AIRPORT BOULEVARD #03-AF11 CHANGI AIRPORT TERMINAL 3 819663",
+    "type": "Restaurant",
+    "number": "EERN20030011308",
+    "scheme": "Eating Establishment",
+    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+    "postal": "819663"
+  },
+  {
+    "name": "BURGER KING",
     "address": "1 JELEBU ROAD #01-28/29 BUKIT PANJANG PLAZA 677743",
     "type": "Restaurant",
     "number": "EERN20030011313",
@@ -4813,15 +4813,6 @@
     "scheme": "Eating Establishment",
     "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
     "postal": "819665"
-  },
-  {
-    "name": "BURGER KING",
-    "address": "65 AIRPORT BOULEVARD #03-AF11 CHANGI AIRPORT TERMINAL 3 819663",
-    "type": "Restaurant",
-    "number": "EERN20030011308",
-    "scheme": "Eating Establishment",
-    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
-    "postal": "819663"
   },
   {
     "name": "BURGER KING",
@@ -5272,6 +5263,15 @@
     "scheme": "Eating Establishment",
     "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
     "postal": "520445"
+  },
+  {
+    "name": "CANADIAN 2 FOR 1 PIZZA",
+    "address": "67 BRIGHTON CRESCENT 559212",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26060000032",
+    "scheme": "Eating Establishment",
+    "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
+    "postal": "559212"
   },
   {
     "name": "CANADIAN 2 FOR 1 PIZZA",
@@ -6507,6 +6507,15 @@
     "postal": "419709"
   },
   {
+    "name": "Churros Factory",
+    "address": "206 TOA PAYOH NORTH #01-1207 TOA PAYOH NORTH 310206",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26060000031",
+    "scheme": "Eating Establishment",
+    "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
+    "postal": "310206"
+  },
+  {
     "name": "CHWM PTE LTD",
     "address": "3015 BEDOK NORTH STREET 5 #04-01 SHIMEI EAST KITCHEN 486350",
     "type": "Central Kitchen",
@@ -7000,6 +7009,15 @@
     "scheme": "Eating Establishment",
     "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
     "postal": "519612"
+  },
+  {
+    "name": "CRAVE",
+    "address": "182 CECIL STREET #02-16, #02-17 FRASERS TOWER 069547",
+    "type": "Restaurant",
+    "number": "EERT26060000026",
+    "scheme": "Eating Establishment",
+    "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
+    "postal": "069547"
   },
   {
     "name": "CRAVE",
@@ -8038,15 +8056,6 @@
   },
   {
     "name": "DELIFRANCE",
-    "address": "50 Jurong Gateway Road #B1-K15/16 Jurong East Mall (JEM) 608549",
-    "type": "Restaurant",
-    "number": "EERN21050012395",
-    "scheme": "Eating Establishment",
-    "id": "94f707c0-d13d-48f6-81d0-015c2d3647f8",
-    "postal": "608549"
-  },
-  {
-    "name": "DELIFRANCE",
     "address": "1 PASIR RIS CLOSE #02-321 E!HUB@DOWNTOWN EAST 519599",
     "type": "Restaurant",
     "number": "EERT20240000575",
@@ -8098,6 +8107,15 @@
     "scheme": "Eating Establishment",
     "id": "94f707c0-d13d-48f6-81d0-015c2d3647f8",
     "postal": "738099"
+  },
+  {
+    "name": "DELIFRANCE",
+    "address": "50 Jurong Gateway Road #B1-K15/16 Jurong East Mall (JEM) 608549",
+    "type": "Restaurant",
+    "number": "EERN21050012395",
+    "scheme": "Eating Establishment",
+    "id": "94f707c0-d13d-48f6-81d0-015c2d3647f8",
+    "postal": "608549"
   },
   {
     "name": "DELIFRANCE",
@@ -10366,24 +10384,6 @@
     "scheme": "Eating Establishment",
     "id": "4251ef98-f7b6-45c9-9014-d9b71a496442",
     "postal": "689812"
-  },
-  {
-    "name": "Firefry Thai Snacks",
-    "address": "3 SIMEI STREET 6 #01-01C EASTPOINT MALL 528833",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB26010000040",
-    "scheme": "Eating Establishment",
-    "id": "d4bb77c7-6cf2-4bef-9fd3-4e752c83238e",
-    "postal": "528833"
-  },
-  {
-    "name": "Firefry Thai Snacks",
-    "address": "90 HOUGANG AVENUE 10 #01-18C HOUGANG MALL 538766",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB26040000019",
-    "scheme": "Eating Establishment",
-    "id": "d4bb77c7-6cf2-4bef-9fd3-4e752c83238e",
-    "postal": "538766"
   },
   {
     "name": "First Cuisine Food Industries Pte Ltd",
@@ -14365,15 +14365,6 @@
   },
   {
     "name": "Jollibee",
-    "address": "304 ORCHARD ROAD #B1-19-25, 43-46 LUCKY PLAZA 238863",
-    "type": "Restaurant",
-    "number": "EERT20250000452",
-    "scheme": "Eating Establishment",
-    "id": "141beb81-0153-470b-a8bb-09c539ee8ae1",
-    "postal": "238863"
-  },
-  {
-    "name": "Jollibee",
     "address": "25 PANDAN CRESCENT #B1-01 TO 07 Tic Tech Centre Kitchen 3 128477",
     "type": "Hawker",
     "number": "EEHK20220000251",
@@ -14452,6 +14443,15 @@
     "scheme": "Eating Establishment",
     "id": "141beb81-0153-470b-a8bb-09c539ee8ae1",
     "postal": "648886"
+  },
+  {
+    "name": "Jollibee",
+    "address": "304 ORCHARD ROAD #B1-19-25, 43-46 LUCKY PLAZA 238863",
+    "type": "Restaurant",
+    "number": "EERT20250000452",
+    "scheme": "Eating Establishment",
+    "id": "141beb81-0153-470b-a8bb-09c539ee8ae1",
+    "postal": "238863"
   },
   {
     "name": "Jollibee",
@@ -18928,6 +18928,15 @@
   },
   {
     "name": "McDonald's",
+    "address": "180 KITCHENER ROAD #01-19/20-23 CITY SQUARE MALL 208539",
+    "type": "Restaurant",
+    "number": "EERT20240000910",
+    "scheme": "Eating Establishment",
+    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+    "postal": "208539"
+  },
+  {
+    "name": "McDonald's",
     "address": "11 BIDADARI PARK DRIVE #B1-11/12 THE WOODLEIGH MALL 367803",
     "type": "Restaurant",
     "number": "EERT20230000678",
@@ -19144,15 +19153,6 @@
   },
   {
     "name": "McDonald's",
-    "address": "180 KITCHENER ROAD #01-19/20-23 CITY SQUARE MALL 208539",
-    "type": "Restaurant",
-    "number": "EERT20240000910",
-    "scheme": "Eating Establishment",
-    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-    "postal": "208539"
-  },
-  {
-    "name": "McDonald's",
     "address": "633 TAMPINES NORTH DRIVE 2 #02-03 TAMPINES GREENCOURT 520633",
     "type": "Restaurant",
     "number": "EERT25100000143",
@@ -19324,6 +19324,15 @@
   },
   {
     "name": "McDonald's",
+    "address": "4 TAMPINES CENTRAL 5 #01-33 TAMPINES MALL 529510",
+    "type": "Restaurant",
+    "number": "EERN20020011044",
+    "scheme": "Eating Establishment",
+    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+    "postal": "529510"
+  },
+  {
+    "name": "McDonald's",
     "address": "1 JOO KOON CIRCLE #01-27-31 Fairprice Hub 629117",
     "type": "Restaurant",
     "number": "EERN20020011025",
@@ -19411,15 +19420,6 @@
     "scheme": "Eating Establishment",
     "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
     "postal": "529284"
-  },
-  {
-    "name": "McDonald's",
-    "address": "4 TAMPINES CENTRAL 5 #01-33 TAMPINES MALL 529510",
-    "type": "Restaurant",
-    "number": "EERN20020011044",
-    "scheme": "Eating Establishment",
-    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-    "postal": "529510"
   },
   {
     "name": "McDonald's",
@@ -26281,21 +26281,21 @@
   },
   {
     "name": "Red Ginger",
-    "address": "10 PAYA LEBAR ROAD #B2-31 409057",
-    "type": "Restaurant",
-    "number": "EERX20090011842",
-    "scheme": "Eating Establishment",
-    "id": "b820e61a-e25d-40fe-b177-121aedf7df68",
-    "postal": "409057"
-  },
-  {
-    "name": "Red Ginger",
     "address": "2 JURONG EAST STREET 21 #01-46 IMM BUILDING 609601",
     "type": "Restaurant",
     "number": "EERN20090011843",
     "scheme": "Eating Establishment",
     "id": "b820e61a-e25d-40fe-b177-121aedf7df68",
     "postal": "609601"
+  },
+  {
+    "name": "Red Ginger",
+    "address": "10 PAYA LEBAR ROAD #B2-31 409057",
+    "type": "Restaurant",
+    "number": "EERX20090011842",
+    "scheme": "Eating Establishment",
+    "id": "b820e61a-e25d-40fe-b177-121aedf7df68",
+    "postal": "409057"
   },
   {
     "name": "Red Ginger",

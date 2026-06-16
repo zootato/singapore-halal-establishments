@@ -1,5 +1,75 @@
 [
   {
+    "timestamp": "2026-06-16T22:50:23.335161",
+    "date": "2026-06-16",
+    "summary": {
+      "new": 3,
+      "removed": 3,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "CANADIAN 2 FOR 1 PIZZA",
+          "address": "67 BRIGHTON CRESCENT 559212",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26060000032",
+          "scheme": "Eating Establishment",
+          "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
+          "postal": "559212"
+        },
+        {
+          "name": "CRAVE",
+          "address": "182 CECIL STREET #02-16, #02-17 FRASERS TOWER 069547",
+          "type": "Restaurant",
+          "number": "EERT26060000026",
+          "scheme": "Eating Establishment",
+          "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
+          "postal": "069547"
+        },
+        {
+          "name": "Churros Factory",
+          "address": "206 TOA PAYOH NORTH #01-1207 TOA PAYOH NORTH 310206",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26060000031",
+          "scheme": "Eating Establishment",
+          "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
+          "postal": "310206"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Firefry Thai Snacks",
+          "address": "3 SIMEI STREET 6 #01-01C EASTPOINT MALL 528833",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26010000040",
+          "scheme": "Eating Establishment",
+          "id": "d4bb77c7-6cf2-4bef-9fd3-4e752c83238e",
+          "postal": "528833"
+        },
+        {
+          "name": "Firefry Thai Snacks",
+          "address": "90 HOUGANG AVENUE 10 #01-18C HOUGANG MALL 538766",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26040000019",
+          "scheme": "Eating Establishment",
+          "id": "d4bb77c7-6cf2-4bef-9fd3-4e752c83238e",
+          "postal": "538766"
+        },
+        {
+          "name": "4FINGERS CRISPY CHICKEN",
+          "address": "4 BUKIT BATOK STREET 41 #01-14/15 LE QUEST 657991",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000860",
+          "scheme": "Eating Establishment",
+          "id": "90b83324-363a-4406-9afa-08b19b67522d",
+          "postal": "657991"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-06-15T22:55:13.429075",
     "date": "2026-06-15",
     "summary": {
@@ -8466,30 +8536,6 @@
           "postal": "689812"
         }
       ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-04-14T22:29:20.644050",
-    "date": "2026-04-14",
-    "summary": {
-      "new": 1,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "CUPPACAKES.COM.SG",
-          "address": "183 JALAN PELIKAT #01-05 THE PROMENADE@PELIKAT 537643",
-          "type": "Snack Bar / Bakery",
-          "number": "EEBN22020013142",
-          "scheme": "Eating Establishment",
-          "id": "20b54a68-fd91-40e1-b320-30cb121c6965",
-          "postal": "537643"
-        }
-      ],
-      "removed": [],
       "updated": []
     }
   }
