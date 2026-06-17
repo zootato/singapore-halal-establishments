@@ -1,23 +1,5 @@
 [
   {
-    "name": "$5 FRIED RICE",
-    "address": "371 BEACH ROAD stall (MR1) #B1-15 CITY GATE, FOOD HQ KOPITIAM & BAR 199597",
-    "type": "Hawker",
-    "number": "EEHK25100000137",
-    "scheme": "Eating Establishment",
-    "id": "fd4774fc-2a74-49bf-94d1-acb34f56740a",
-    "postal": "199597"
-  },
-  {
-    "name": "$5 JAPANESE & KOREAN CUISINE",
-    "address": "371 BEACH ROAD Stall (S1) #B1-15 CITY GATE, FOOD HQ KOPITIAM & BAR 199597",
-    "type": "Hawker",
-    "number": "EEHK25100000136",
-    "scheme": "Eating Establishment",
-    "id": "96829bc1-103a-4edb-8141-c571383add6d",
-    "postal": "199597"
-  },
-  {
     "name": "$5 WESTERN",
     "address": "354 CLEMENTI AVENUE 2 MR 2, Chang Cheng Mee Wah. Wufu #01-157 CLEMENTI AVENUE 2 SHOPPING CENTRE 120354",
     "type": "Hawker",
@@ -2548,21 +2530,21 @@
   },
   {
     "name": "Ayam Penyet Ria",
-    "address": "23 SERANGOON CENTRAL #01-57 NEX 556083",
-    "type": "Restaurant",
-    "number": "EERT20220001058",
-    "scheme": "Eating Establishment",
-    "id": "eb1e3e82-e6d9-4f05-854f-be19d5f5031e",
-    "postal": "556083"
-  },
-  {
-    "name": "Ayam Penyet Ria",
     "address": "304 ORCHARD ROAD #04-25/26/27 LUCKY PLAZA 238863",
     "type": "Restaurant",
     "number": "EERN21030012197",
     "scheme": "Eating Establishment",
     "id": "eb1e3e82-e6d9-4f05-854f-be19d5f5031e",
     "postal": "238863"
+  },
+  {
+    "name": "Ayam Penyet Ria",
+    "address": "23 SERANGOON CENTRAL #01-57 NEX 556083",
+    "type": "Restaurant",
+    "number": "EERT20220001058",
+    "scheme": "Eating Establishment",
+    "id": "eb1e3e82-e6d9-4f05-854f-be19d5f5031e",
+    "postal": "556083"
   },
   {
     "name": "Ayam Penyet YB (S9) @ Jurong West Hawker Centre.",
@@ -4555,6 +4537,15 @@
   },
   {
     "name": "BURGER KING",
+    "address": "1 HARBOURFRONT WALK #02-80/81 VIVO CITY 098585",
+    "type": "Restaurant",
+    "number": "EERN20030011322",
+    "scheme": "Eating Establishment",
+    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+    "postal": "098585"
+  },
+  {
+    "name": "BURGER KING",
     "address": "1 JELEBU ROAD #01-28/29 BUKIT PANJANG PLAZA 677743",
     "type": "Restaurant",
     "number": "EERN20030011313",
@@ -4615,15 +4606,6 @@
     "scheme": "Eating Establishment",
     "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
     "postal": "409051"
-  },
-  {
-    "name": "BURGER KING",
-    "address": "1 HARBOURFRONT WALK #02-80/81 VIVO CITY 098585",
-    "type": "Restaurant",
-    "number": "EERN20030011322",
-    "scheme": "Eating Establishment",
-    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
-    "postal": "098585"
   },
   {
     "name": "BURGER KING",
@@ -12337,24 +12319,6 @@
     "scheme": "Food Preparation Area",
     "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
     "postal": "528523"
-  },
-  {
-    "name": "HALIA PANTRY",
-    "address": "1 CLUNY ROAD NATIONAL PARKS BOARD, At THE VILLA 259569",
-    "type": "Restaurant",
-    "number": "EERT20230001038",
-    "scheme": "Eating Establishment",
-    "id": "4e70f349-090a-42fa-950a-111c1762dead",
-    "postal": "259569"
-  },
-  {
-    "name": "HALIA PANTRY",
-    "address": "1 CLUNY ROAD NATIONAL PARKS BOARD, At THE VILLA 259569",
-    "type": "Catering Company",
-    "number": "FPCA20230001039",
-    "scheme": "Food Preparation Area",
-    "id": "4e70f349-090a-42fa-950a-111c1762dead",
-    "postal": "259569"
   },
   {
     "name": "HANIS",
@@ -30664,15 +30628,6 @@
   },
   {
     "name": "Sukiya Gyudon • Curry",
-    "address": "68 ORCHARD ROAD #B1-07 PLAZA SINGAPURA 238839",
-    "type": "Restaurant",
-    "number": "EERT20230000619",
-    "scheme": "Eating Establishment",
-    "id": "f25faa72-19a1-4c85-a920-fc1462f72292",
-    "postal": "238839"
-  },
-  {
-    "name": "Sukiya Gyudon • Curry",
     "address": "180 KITCHENER ROAD #B1-31/32 CITY SQUARE MALL 208539",
     "type": "Restaurant",
     "number": "EERT20230001008",
@@ -32443,6 +32398,15 @@
     "scheme": "Food Preparation Area",
     "id": "36c5f862-0aca-4331-8b89-b47a857dedba",
     "postal": "486350"
+  },
+  {
+    "name": "Telur Thai",
+    "address": "127 PLANTATION CRESCENT #03-02 KOUFU PLANTATION PLAZA, Stall 4 690127",
+    "type": "Hawker",
+    "number": "EEHK20250000775",
+    "scheme": "Eating Establishment",
+    "id": "7001901a-4b95-4a8b-8989-93cb7b0f369a",
+    "postal": "690127"
   },
   {
     "name": "Telur Thai (S10) @ Cantine Paya Lebar Square",
@@ -35530,15 +35494,6 @@
     "scheme": "Eating Establishment",
     "id": "2b421cd1-a8a1-4d47-a983-d25fc5a6f434",
     "postal": "408600"
-  },
-  {
-    "name": "twyst",
-    "address": "2 TAMPINES CENTRAL 5 #B1-11 CENTURY SQUARE 529509",
-    "type": "Restaurant",
-    "number": "EERT20250000093",
-    "scheme": "Eating Establishment",
-    "id": "2b421cd1-a8a1-4d47-a983-d25fc5a6f434",
-    "postal": "529509"
   },
   {
     "name": "twyst",

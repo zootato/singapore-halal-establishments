@@ -1,5 +1,84 @@
 [
   {
+    "timestamp": "2026-06-17T22:46:28.008341",
+    "date": "2026-06-17",
+    "summary": {
+      "new": 1,
+      "removed": 6,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Telur Thai",
+          "address": "127 PLANTATION CRESCENT #03-02 KOUFU PLANTATION PLAZA, Stall 4 690127",
+          "type": "Hawker",
+          "number": "EEHK20250000775",
+          "scheme": "Eating Establishment",
+          "id": "7001901a-4b95-4a8b-8989-93cb7b0f369a",
+          "postal": "690127"
+        }
+      ],
+      "removed": [
+        {
+          "name": "HALIA PANTRY",
+          "address": "1 CLUNY ROAD NATIONAL PARKS BOARD, At THE VILLA 259569",
+          "type": "Catering Company",
+          "number": "FPCA20230001039",
+          "scheme": "Food Preparation Area",
+          "id": "4e70f349-090a-42fa-950a-111c1762dead",
+          "postal": "259569"
+        },
+        {
+          "name": "twyst",
+          "address": "2 TAMPINES CENTRAL 5 #B1-11 CENTURY SQUARE 529509",
+          "type": "Restaurant",
+          "number": "EERT20250000093",
+          "scheme": "Eating Establishment",
+          "id": "2b421cd1-a8a1-4d47-a983-d25fc5a6f434",
+          "postal": "529509"
+        },
+        {
+          "name": "$5 JAPANESE & KOREAN CUISINE",
+          "address": "371 BEACH ROAD Stall (S1) #B1-15 CITY GATE, FOOD HQ KOPITIAM & BAR 199597",
+          "type": "Hawker",
+          "number": "EEHK25100000136",
+          "scheme": "Eating Establishment",
+          "id": "96829bc1-103a-4edb-8141-c571383add6d",
+          "postal": "199597"
+        },
+        {
+          "name": "HALIA PANTRY",
+          "address": "1 CLUNY ROAD NATIONAL PARKS BOARD, At THE VILLA 259569",
+          "type": "Restaurant",
+          "number": "EERT20230001038",
+          "scheme": "Eating Establishment",
+          "id": "4e70f349-090a-42fa-950a-111c1762dead",
+          "postal": "259569"
+        },
+        {
+          "name": "Sukiya Gyudon • Curry",
+          "address": "68 ORCHARD ROAD #B1-07 PLAZA SINGAPURA 238839",
+          "type": "Restaurant",
+          "number": "EERT20230000619",
+          "scheme": "Eating Establishment",
+          "id": "f25faa72-19a1-4c85-a920-fc1462f72292",
+          "postal": "238839"
+        },
+        {
+          "name": "$5 FRIED RICE",
+          "address": "371 BEACH ROAD stall (MR1) #B1-15 CITY GATE, FOOD HQ KOPITIAM & BAR 199597",
+          "type": "Hawker",
+          "number": "EEHK25100000137",
+          "scheme": "Eating Establishment",
+          "id": "fd4774fc-2a74-49bf-94d1-acb34f56740a",
+          "postal": "199597"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-06-16T22:50:23.335161",
     "date": "2026-06-16",
     "summary": {
@@ -8401,139 +8480,6 @@
           "scheme": "Food Preparation Area",
           "id": "9a364ce4-e56d-44ac-b375-786f51bdbbab",
           "postal": "556083"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-04-15T22:28:16.935465",
-    "date": "2026-04-15",
-    "summary": {
-      "new": 1,
-      "removed": 12,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "TOKYO SHOKUDO",
-          "address": "53 ANG MO KIO AVENUE 3 #02-19,#02-20,#02-21 AMK HUB 569933",
-          "type": "Restaurant",
-          "number": "EERT20250000567",
-          "scheme": "Eating Establishment",
-          "id": "3e75f97a-1f6a-4795-ba6e-a2ba7adf2128",
-          "postal": "569933"
-        }
-      ],
-      "removed": [
-        {
-          "name": "SHIOK BURGER",
-          "address": "535 CLEMENTI ROAD #01-12 NGEE ANN POLYTECHNIC (ATRIUM CHEERS) 599489",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20250000801",
-          "scheme": "Eating Establishment",
-          "id": "4fcad118-8dea-4300-a6a9-f4bf6b4d7efa",
-          "postal": "599489"
-        },
-        {
-          "name": "SHIOK BURGER",
-          "address": "6 CHANGI BUSINESS PARK AVENUE 1 #01-31 ESR BIZPARK @ CHANGI 486017",
-          "type": "Restaurant",
-          "number": "EERT20240001222",
-          "scheme": "Eating Establishment",
-          "id": "4fcad118-8dea-4300-a6a9-f4bf6b4d7efa",
-          "postal": "486017"
-        },
-        {
-          "name": "SHIOK BURGER",
-          "address": "5 STRAITS VIEW #B2-41/42 THE HEART 018935",
-          "type": "Restaurant",
-          "number": "EERT20250000803",
-          "scheme": "Eating Establishment",
-          "id": "4fcad118-8dea-4300-a6a9-f4bf6b4d7efa",
-          "postal": "018935"
-        },
-        {
-          "name": "Kawan Bowl Scrambled Egg Rice (S5) @ Cantine Jurong Point.",
-          "address": "1 JURONG WEST CENTRAL 2 #B1-42/43/44 JURONG POINT, Stall 5 648886",
-          "type": "Hawker",
-          "number": "EEHK20240001023",
-          "scheme": "Eating Establishment",
-          "id": "b3e0f2dd-a6b8-403b-979e-549996673b68",
-          "postal": "648886"
-        },
-        {
-          "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
-          "address": "11 TANJONG KATONG ROAD #01-50/51 ONE KM 437157",
-          "type": "Restaurant",
-          "number": "EERN21110012999",
-          "scheme": "Eating Establishment",
-          "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
-          "postal": "437157"
-        },
-        {
-          "name": "Chicky Fun Chicken Rice (S3) @ Food Junction GWC",
-          "address": "1 KIM SENG PROMENADE #03-116 GREAT WORLD CITY, Stall 3 237994",
-          "type": "Hawker",
-          "number": "EEHK20240000123",
-          "scheme": "Eating Establishment",
-          "id": "82e0c580-d16f-4bc4-b26b-416d01f46e60",
-          "postal": "237994"
-        },
-        {
-          "name": "SHIOK BURGER",
-          "address": "1 HARBOURFRONT WALK #B2-K19 VIVOCITY 098585",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20250000805",
-          "scheme": "Eating Establishment",
-          "id": "4fcad118-8dea-4300-a6a9-f4bf6b4d7efa",
-          "postal": "098585"
-        },
-        {
-          "name": "San Chon (S9)@Foodgle Hub 60 NTU",
-          "address": "60 NANYANG CRESCENT #02-02 NANYANG TECHNOLOGY UNIVERSITY, STALL 9 636957",
-          "type": "Hawker",
-          "number": "EEHK20240000179",
-          "scheme": "Eating Establishment",
-          "id": "66f4bd69-f38d-481e-bcc1-52b3ccd3a3c8",
-          "postal": "636957"
-        },
-        {
-          "name": "Kawan Bowl Scrambled Egg Rice (S3) @ Cantine Pasir Ris Mall",
-          "address": "7 PASIR RIS CENTRAL #b2-17, Stall 3 519612",
-          "type": "Hawker",
-          "number": "EEHK20240001021",
-          "scheme": "Eating Establishment",
-          "id": "c3bea4c5-6e66-4be5-9aa8-a0276b1c3479",
-          "postal": "519612"
-        },
-        {
-          "name": "SHIOK BURGER",
-          "address": "180 ANG MO KIO AVENUE 8 #NANYANG POLYTECHNIC BLK A (UNIT278A/B) LEARNING VISION @ WORK PTE .LTD. 569830",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20250000806",
-          "scheme": "Eating Establishment",
-          "id": "4fcad118-8dea-4300-a6a9-f4bf6b4d7efa",
-          "postal": "569830"
-        },
-        {
-          "name": "SHIOK BURGER",
-          "address": "11 BIDADARI PARK DRIVE #B1-K3 THE WOODLEIGH MALL 367803",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20250000804",
-          "scheme": "Eating Establishment",
-          "id": "4fcad118-8dea-4300-a6a9-f4bf6b4d7efa",
-          "postal": "367803"
-        },
-        {
-          "name": "SHIOK BURGER",
-          "address": "21 CHOA CHU KANG AVENUE 4 #B1-K10 LOT ONE, SHOPPERS' MALL 689812",
-          "type": "Restaurant",
-          "number": "EERT25120000070",
-          "scheme": "Eating Establishment",
-          "id": "4fcad118-8dea-4300-a6a9-f4bf6b4d7efa",
-          "postal": "689812"
         }
       ],
       "updated": []
