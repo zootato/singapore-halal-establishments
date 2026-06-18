@@ -243,6 +243,15 @@
     "postal": "420002"
   },
   {
+    "name": "3 Embers Culinary Craft Pte Ltd",
+    "address": "2 SENOKO SOUTH ROAD #06-01 758096",
+    "type": "Catering Company",
+    "number": "FPCA26060000037",
+    "scheme": "Food Preparation Area",
+    "id": "089bca27-991d-4e11-84e7-c281fbb71436",
+    "postal": "758096"
+  },
+  {
     "name": "3 EMBERS CULINARY CRAFT PTE. LTD.",
     "address": "1 TURF CLUB AVENUE #2M SINGAPORE RACECOURSE 738078",
     "type": "Catering Company",
@@ -4537,15 +4546,6 @@
   },
   {
     "name": "BURGER KING",
-    "address": "1 HARBOURFRONT WALK #02-80/81 VIVO CITY 098585",
-    "type": "Restaurant",
-    "number": "EERN20030011322",
-    "scheme": "Eating Establishment",
-    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
-    "postal": "098585"
-  },
-  {
-    "name": "BURGER KING",
     "address": "1 JELEBU ROAD #01-28/29 BUKIT PANJANG PLAZA 677743",
     "type": "Restaurant",
     "number": "EERN20030011313",
@@ -4606,6 +4606,15 @@
     "scheme": "Eating Establishment",
     "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
     "postal": "409051"
+  },
+  {
+    "name": "BURGER KING",
+    "address": "1 HARBOURFRONT WALK #02-80/81 VIVO CITY 098585",
+    "type": "Restaurant",
+    "number": "EERN20030011322",
+    "scheme": "Eating Establishment",
+    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+    "postal": "098585"
   },
   {
     "name": "BURGER KING",

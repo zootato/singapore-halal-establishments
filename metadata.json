@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-06-17T22:46:28.061352",
-  "total_establishments": 4140,
+  "last_updated": "2026-06-18T22:52:14.508738",
+  "total_establishments": 4141,
   "types": {
     "Hawker": 928,
-    "Catering Company": 187,
+    "Catering Company": 188,
     "Restaurant": 1729,
     "Staff Canteen": 95,
     "Central Kitchen": 234,
@@ -15,6 +15,6 @@
   },
   "schemes": {
     "Eating Establishment": 3719,
-    "Food Preparation Area": 421
+    "Food Preparation Area": 422
   }
 }
