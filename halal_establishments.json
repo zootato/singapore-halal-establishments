@@ -18000,6 +18000,15 @@
     "postal": "609606"
   },
   {
+    "name": "Malay Cuisine @ Brani Terminal Building Canteen (mngd by Arya Bhavan Restaurant Pte Ltd)",
+    "address": "200 BRANI TERMINAL AVENUE, Stall 2 098675",
+    "type": "Staff Canteen",
+    "number": "EESC26060000034",
+    "scheme": "Eating Establishment",
+    "id": "86599531-1ac0-4553-a2f2-4457d006624d",
+    "postal": "098675"
+  },
+  {
     "name": "Malay cuisine @ CAPT/RC (Mngd By SMORGASBORD Int Pte Ltd)",
     "address": "4 COLLEGE AVENUE EAST University Town, NUS, Malay Cuisine Stall 138613",
     "type": "Hawker",
@@ -20149,6 +20158,15 @@
     "scheme": "Eating Establishment",
     "id": "b9173614-f492-4762-b2a6-ad4b0ac7045e",
     "postal": "680624"
+  },
+  {
+    "name": "MR BARKER",
+    "address": "7 ENTERPRISE ROAD 629819",
+    "type": "Catering Company",
+    "number": "FPCA26060000039",
+    "scheme": "Food Preparation Area",
+    "id": "db1a91bf-606b-473b-8590-68a17ca712a3",
+    "postal": "629819"
   },
   {
     "name": "MR BEAN",

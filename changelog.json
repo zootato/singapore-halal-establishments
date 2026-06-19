@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-06-19T22:35:11.630044",
+    "date": "2026-06-19",
+    "summary": {
+      "new": 2,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "MR BARKER",
+          "address": "7 ENTERPRISE ROAD 629819",
+          "type": "Catering Company",
+          "number": "FPCA26060000039",
+          "scheme": "Food Preparation Area",
+          "id": "db1a91bf-606b-473b-8590-68a17ca712a3",
+          "postal": "629819"
+        },
+        {
+          "name": "Malay Cuisine @ Brani Terminal Building Canteen (mngd by Arya Bhavan Restaurant Pte Ltd)",
+          "address": "200 BRANI TERMINAL AVENUE, Stall 2 098675",
+          "type": "Staff Canteen",
+          "number": "EESC26060000034",
+          "scheme": "Eating Establishment",
+          "id": "86599531-1ac0-4553-a2f2-4457d006624d",
+          "postal": "098675"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-06-18T22:52:14.458214",
     "date": "2026-06-18",
     "summary": {
@@ -8431,30 +8464,6 @@
           "postal": "797653"
         }
       ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-04-17T22:25:53.922961",
-    "date": "2026-04-17",
-    "summary": {
-      "new": 1,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Singapore Nasi Kandar (S8) Kopitiam Changi Airport T4",
-          "address": "10 AIRPORT BOULEVARD #02-205 CHANGI AIRPORT TERMINAL 4, Stall 8 819665",
-          "type": "Hawker",
-          "number": "EEHK20250000151",
-          "scheme": "Eating Establishment",
-          "id": "be14546b-88bf-44b9-b8a3-960e0d5b4046",
-          "postal": "819665"
-        }
-      ],
-      "removed": [],
       "updated": []
     }
   }
