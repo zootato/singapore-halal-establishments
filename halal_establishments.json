@@ -17910,6 +17910,15 @@
     "postal": "737907"
   },
   {
+    "name": "MALA HOT POT (STALL 4) @ TECHNO EDGE CANTEEN",
+    "address": "3A ENGINEERING DRIVE 2 Techno Edge Canteen, stall 4 117275",
+    "type": "Hawker",
+    "number": "EEHK20240000722",
+    "scheme": "Eating Establishment",
+    "id": "fe2e55a6-3f35-4fe4-af5d-fc506d843eab",
+    "postal": "117275"
+  },
+  {
     "name": "Mala Hotpot (S5) @ My Kampung Kallang Wave Mall",
     "address": "1 STADIUM PLACE #02-16/k6, stall 5 397628",
     "type": "Hawker",
@@ -20086,15 +20095,6 @@
     "scheme": "Eating Establishment",
     "id": "206ff1ce-bbee-425d-ad7b-5589d2378f5d",
     "postal": "608549"
-  },
-  {
-    "name": "MONSTER PLANET",
-    "address": "176 ORCHARD ROAD #01-33C/D THE CENTREPOINT 238843",
-    "type": "Restaurant",
-    "number": "EERN21120013345",
-    "scheme": "Eating Establishment",
-    "id": "206ff1ce-bbee-425d-ad7b-5589d2378f5d",
-    "postal": "238843"
   },
   {
     "name": "MONSTER PLANET & CAFE",
@@ -32995,6 +32995,15 @@
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
+    "address": "65 AIRPORT BOULEVARD #02-K4 CHANGI AIRPORT TERMINAL 3 (DEPARTURE / TRANSIT LOUNGE SOUTH) 819642",
+    "type": "Restaurant",
+    "number": "EERN21120013290",
+    "scheme": "Eating Establishment",
+    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+    "postal": "819642"
+  },
+  {
+    "name": "THE COFFEE BEAN & TEA LEAF",
     "address": "604 SEMBAWANG ROAD #01-10/11 SEMBAWANG SHOPPING CENTRE 758459",
     "type": "Restaurant",
     "number": "EERN21120013229",
@@ -33307,15 +33316,6 @@
     "scheme": "Eating Establishment",
     "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
     "postal": "538766"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "65 AIRPORT BOULEVARD #02-K4 CHANGI AIRPORT TERMINAL 3 (DEPARTURE / TRANSIT LOUNGE SOUTH) 819642",
-    "type": "Restaurant",
-    "number": "EERN21120013290",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "819642"
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",

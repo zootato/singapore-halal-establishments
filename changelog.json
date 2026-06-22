@@ -1,5 +1,39 @@
 [
   {
+    "timestamp": "2026-06-22T22:46:43.546286",
+    "date": "2026-06-22",
+    "summary": {
+      "new": 1,
+      "removed": 1,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "MALA HOT POT (STALL 4) @ TECHNO EDGE CANTEEN",
+          "address": "3A ENGINEERING DRIVE 2 Techno Edge Canteen, stall 4 117275",
+          "type": "Hawker",
+          "number": "EEHK20240000722",
+          "scheme": "Eating Establishment",
+          "id": "fe2e55a6-3f35-4fe4-af5d-fc506d843eab",
+          "postal": "117275"
+        }
+      ],
+      "removed": [
+        {
+          "name": "MONSTER PLANET",
+          "address": "176 ORCHARD ROAD #01-33C/D THE CENTREPOINT 238843",
+          "type": "Restaurant",
+          "number": "EERN21120013345",
+          "scheme": "Eating Establishment",
+          "id": "206ff1ce-bbee-425d-ad7b-5589d2378f5d",
+          "postal": "238843"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-06-19T22:35:11.630044",
     "date": "2026-06-19",
     "summary": {
@@ -8438,30 +8472,6 @@
           "scheme": "Eating Establishment",
           "id": "04a22cc8-410f-41ad-977c-224cb8a85e4c",
           "postal": "529510"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-04-18T22:22:13.393443",
-    "date": "2026-04-18",
-    "summary": {
-      "new": 0,
-      "removed": 1,
-      "updated": 0
-    },
-    "changes": {
-      "new": [],
-      "removed": [
-        {
-          "name": "CROLO BY SWEE HENG",
-          "address": "33 SENGKANG WEST AVENUE #B1-24 THE SELETAR MALL 797653",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20230000607",
-          "scheme": "Eating Establishment",
-          "id": "2bd1ef47-dec3-44a2-b0d0-b11418553544",
-          "postal": "797653"
         }
       ],
       "updated": []
