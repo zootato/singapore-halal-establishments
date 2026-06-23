@@ -13410,6 +13410,33 @@
     "postal": "468960"
   },
   {
+    "name": "Hudsons",
+    "address": "60 AIRPORT BOULEVARD #02-178 CHANGI AIRPORT TERMINAL 2 819643",
+    "type": "Restaurant",
+    "number": "EERT20240000232",
+    "scheme": "Eating Establishment",
+    "id": "9a03675d-cecd-4e9f-af83-d7ec9b6ad8bf",
+    "postal": "819643"
+  },
+  {
+    "name": "HUDSONS COFFEE",
+    "address": "65 AIRPORT BOULEVARD #02-60 CHANGI AIRPORT TERMINAL 3 819663",
+    "type": "Restaurant",
+    "number": "EERX21100012925",
+    "scheme": "Eating Establishment",
+    "id": "7b2bad34-08e9-4f8b-9502-9ffa8ae2a542",
+    "postal": "819663"
+  },
+  {
+    "name": "HUDSONS COFFEE",
+    "address": "65 AIRPORT BOULEVARD 02-60 CHANGI AIRPORT TERMINAL 3 819663",
+    "type": "Central Kitchen",
+    "number": "FPCK20240000233",
+    "scheme": "Food Preparation Area",
+    "id": "7b2bad34-08e9-4f8b-9502-9ffa8ae2a542",
+    "postal": "819663"
+  },
+  {
     "name": "HUGABO",
     "address": "1 WOODLANDS SQUARE #B1-K11 CAUSEWAY POINT 738099",
     "type": "Snack Bar / Bakery",
@@ -25084,33 +25111,6 @@
   },
   {
     "name": "POLAR PUFFS & CAKES",
-    "address": "1 PASIR RIS CENTRAL STREET 3 #B1-K01 WHITE SANDS 518457",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN20040010693",
-    "scheme": "Eating Establishment",
-    "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
-    "postal": "518457"
-  },
-  {
-    "name": "POLAR PUFFS & CAKES",
-    "address": "1 WOODLANDS SQUARE #B1-K07 CAUSEWAY POINT 738099",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBX20040011257",
-    "scheme": "Eating Establishment",
-    "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
-    "postal": "738099"
-  },
-  {
-    "name": "POLAR PUFFS & CAKES",
-    "address": "15 Woodlands Link 738726",
-    "type": "Central Kitchen",
-    "number": "FPCN20040001359",
-    "scheme": "Food Preparation Area",
-    "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
-    "postal": "738726"
-  },
-  {
-    "name": "POLAR PUFFS & CAKES",
     "address": "23 SERANGOON CENTRAL #03-K3/K4 NEX 556083",
     "type": "Snack Bar / Bakery",
     "number": "EEBN20030010669",
@@ -25171,6 +25171,15 @@
     "scheme": "Eating Establishment",
     "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
     "postal": "538766"
+  },
+  {
+    "name": "POLAR PUFFS & CAKES",
+    "address": "1 PASIR RIS CENTRAL STREET 3 #B1-K01 WHITE SANDS 518457",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN20040010693",
+    "scheme": "Eating Establishment",
+    "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+    "postal": "518457"
   },
   {
     "name": "POLAR PUFFS & CAKES",
@@ -25264,6 +25273,15 @@
   },
   {
     "name": "POLAR PUFFS & CAKES",
+    "address": "1 WOODLANDS SQUARE #B1-K07 CAUSEWAY POINT 738099",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBX20040011257",
+    "scheme": "Eating Establishment",
+    "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+    "postal": "738099"
+  },
+  {
+    "name": "POLAR PUFFS & CAKES",
     "address": "802 BUKIT BATOK WEST AVENUE 5 #01-05 BUKIT GOMBAK MRT STATION 659083",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000681",
@@ -25324,6 +25342,15 @@
     "scheme": "Eating Establishment",
     "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
     "postal": "208699"
+  },
+  {
+    "name": "POLAR PUFFS & CAKES",
+    "address": "15 Woodlands Link 738726",
+    "type": "Central Kitchen",
+    "number": "FPCN20040001359",
+    "scheme": "Food Preparation Area",
+    "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+    "postal": "738726"
   },
   {
     "name": "Polar Puffs & Cakes",
@@ -32986,24 +33013,6 @@
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "10 ANSON ROAD #01-32 INTERNATIONAL PLAZA 079903",
-    "type": "Restaurant",
-    "number": "EERN21120013265",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "079903"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "65 AIRPORT BOULEVARD #02-K4 CHANGI AIRPORT TERMINAL 3 (DEPARTURE / TRANSIT LOUNGE SOUTH) 819642",
-    "type": "Restaurant",
-    "number": "EERN21120013290",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "819642"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
     "address": "604 SEMBAWANG ROAD #01-10/11 SEMBAWANG SHOPPING CENTRE 758459",
     "type": "Restaurant",
     "number": "EERN21120013229",
@@ -33247,6 +33256,15 @@
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
+    "address": "10 ANSON ROAD #01-32 INTERNATIONAL PLAZA 079903",
+    "type": "Restaurant",
+    "number": "EERN21120013265",
+    "scheme": "Eating Establishment",
+    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+    "postal": "079903"
+  },
+  {
+    "name": "THE COFFEE BEAN & TEA LEAF",
     "address": "10 EUNOS ROAD 8 #01-144/145 SINGAPORE POST CENTRE 408600",
     "type": "Restaurant",
     "number": "EERN21120013266",
@@ -33316,6 +33334,15 @@
     "scheme": "Eating Establishment",
     "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
     "postal": "538766"
+  },
+  {
+    "name": "THE COFFEE BEAN & TEA LEAF",
+    "address": "65 AIRPORT BOULEVARD #02-K4 CHANGI AIRPORT TERMINAL 3 (DEPARTURE / TRANSIT LOUNGE SOUTH) 819642",
+    "type": "Restaurant",
+    "number": "EERN21120013290",
+    "scheme": "Eating Establishment",
+    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+    "postal": "819642"
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
