@@ -1,5 +1,69 @@
 [
   {
+    "timestamp": "2026-06-24T22:41:17.683702",
+    "date": "2026-06-24",
+    "summary": {
+      "new": 2,
+      "removed": 1,
+      "updated": 1
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Heritage Yong Tau Foo",
+          "address": "335 SMITH STREET #02-004 CHINATOWN COMPLEX 050335",
+          "type": "Hawker",
+          "number": "EEHK26050000070",
+          "scheme": "Eating Establishment",
+          "id": "bc3caea3-cf3b-4154-b110-d90f4325734f",
+          "postal": "050335"
+        },
+        {
+          "name": "OLD TIMES",
+          "address": "676 Woodlands Drive 71 #02-38 Kampung Admiralty 730676",
+          "type": "Hawker",
+          "number": "EEHN22020013148",
+          "scheme": "Eating Establishment",
+          "id": "2d05e174-a995-438d-9385-07285141becd",
+          "postal": "730676"
+        }
+      ],
+      "removed": [
+        {
+          "name": "NASTY COOKIE",
+          "address": "3 GATEWAY DRIVE #01-09 WESTGATE 608532",
+          "type": "Restaurant",
+          "number": "EERT20230000980",
+          "scheme": "Eating Establishment",
+          "id": "11a08e54-d670-488c-ad60-23bcd6e1184c",
+          "postal": "608532"
+        }
+      ],
+      "updated": [
+        {
+          "previous": {
+            "name": "Tongue Tip Lanzhou Beef Noodles",
+            "address": "63 JURONG WEST CENTRAL 3 #03-105, 106, 107, 108, 109, 110, 111, 112 JURONG POINT SHOPPING CENTRE 648331",
+            "type": "Restaurant",
+            "number": "EERN21040012243",
+            "scheme": "Eating Establishment",
+            "id": "2dce1ae1-5e33-4749-952e-c14abd6ebf2b",
+            "postal": "648331"
+          },
+          "current": {
+            "name": "Full Bowl",
+            "address": "63 JURONG WEST CENTRAL 3 #03-105, 106, 107, 108, 109, 110, 111, 112 JURONG POINT SHOPPING CENTRE 648331",
+            "type": "Restaurant",
+            "number": "EERN21040012243",
+            "scheme": "Eating Establishment",
+            "id": "2dce1ae1-5e33-4749-952e-c14abd6ebf2b",
+            "postal": "648331"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-06-23T22:42:03.728824",
     "date": "2026-06-23",
     "summary": {
@@ -8347,58 +8411,6 @@
           "scheme": "Eating Establishment",
           "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
           "postal": "737628"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-04-22T22:29:14.622876",
-    "date": "2026-04-22",
-    "summary": {
-      "new": 2,
-      "removed": 2,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "DELI ASIA (S) PTE. LTD.",
-          "address": "1 WOODLANDS HEIGHT #01-03 KOUFU GROUP HQ 737859",
-          "type": "Central Kitchen",
-          "number": "FPCK20240000419",
-          "scheme": "Food Preparation Area",
-          "id": "5f27aa0a-7ccf-478b-b5cd-26aa0cecd305",
-          "postal": "737859"
-        },
-        {
-          "name": "DELI ASIA (S) PTE. LTD.",
-          "address": "1 WOODLANDS HEIGHT #06-02 KOUFU GROUP HQ 737859",
-          "type": "Central Kitchen",
-          "number": "FPCK20220000059",
-          "scheme": "Food Preparation Area",
-          "id": "5f27aa0a-7ccf-478b-b5cd-26aa0cecd305",
-          "postal": "737859"
-        }
-      ],
-      "removed": [
-        {
-          "name": "SUBWAY",
-          "address": "548 WOODLANDS DRIVE 44 #01-23 VISTA POINT 730548",
-          "type": "Restaurant",
-          "number": "EERN21110013101",
-          "scheme": "Eating Establishment",
-          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-          "postal": "730548"
-        },
-        {
-          "name": "SUBWAY",
-          "address": "9 WOODLANDS AVENUE 9 #01-02/03 REPUBLIC POLYTECHNIC 738964",
-          "type": "Restaurant",
-          "number": "EERN21110013109",
-          "scheme": "Eating Establishment",
-          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-          "postal": "738964"
         }
       ],
       "updated": []

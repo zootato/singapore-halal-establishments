@@ -11098,6 +11098,15 @@
   },
   {
     "name": "Full Bowl",
+    "address": "63 JURONG WEST CENTRAL 3 #03-105, 106, 107, 108, 109, 110, 111, 112 JURONG POINT SHOPPING CENTRE 648331",
+    "type": "Restaurant",
+    "number": "EERN21040012243",
+    "scheme": "Eating Establishment",
+    "id": "2dce1ae1-5e33-4749-952e-c14abd6ebf2b",
+    "postal": "648331"
+  },
+  {
+    "name": "Full Bowl",
     "address": "2 TAMPINES CENTRAL 5 #01-42 CENTURY SQUARE 529509",
     "type": "Restaurant",
     "number": "EERN21110012966",
@@ -12931,6 +12940,15 @@
     "scheme": "Eating Establishment",
     "id": "8998102f-b8ec-4917-b7b9-789f7804e05b",
     "postal": "737628"
+  },
+  {
+    "name": "Heritage Yong Tau Foo",
+    "address": "335 SMITH STREET #02-004 CHINATOWN COMPLEX 050335",
+    "type": "Hawker",
+    "number": "EEHK26050000070",
+    "scheme": "Eating Establishment",
+    "id": "bc3caea3-cf3b-4154-b110-d90f4325734f",
+    "postal": "050335"
   },
   {
     "name": "High Kee BBQ Seafood (S11) @ East Coast Lagoon Food Village",
@@ -21070,15 +21088,6 @@
   },
   {
     "name": "MUNCHI PANCAKES",
-    "address": "78 AIRPORT BOULEVARD #B2-273 JEWEL CHANGI AIRPORT 819666",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB25100000122",
-    "scheme": "Eating Establishment",
-    "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
-    "postal": "819666"
-  },
-  {
-    "name": "MUNCHI PANCAKES",
     "address": "180 KITCHENER ROAD #B2-K8 CITY SQUARE MALL 208539",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000329",
@@ -21148,6 +21157,15 @@
     "scheme": "Eating Establishment",
     "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
     "postal": "678278"
+  },
+  {
+    "name": "MUNCHI PANCAKES",
+    "address": "78 AIRPORT BOULEVARD #B2-273 JEWEL CHANGI AIRPORT 819666",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB25100000122",
+    "scheme": "Eating Establishment",
+    "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
+    "postal": "819666"
   },
   {
     "name": "MUNCHI PANCAKES",
@@ -21841,15 +21859,6 @@
     "scheme": "Eating Establishment",
     "id": "00bb8d74-a1c6-4dd1-adad-d89a87a0083f",
     "postal": "819666"
-  },
-  {
-    "name": "NASTY COOKIE",
-    "address": "3 GATEWAY DRIVE #01-09 WESTGATE 608532",
-    "type": "Restaurant",
-    "number": "EERT20230000980",
-    "scheme": "Eating Establishment",
-    "id": "11a08e54-d670-488c-ad60-23bcd6e1184c",
-    "postal": "608532"
   },
   {
     "name": "NASTY COOKIE PTE. LTD.",
@@ -23047,6 +23056,15 @@
     "scheme": "Eating Establishment",
     "id": "d2471bbf-a620-4325-944f-6febb0d282d4",
     "postal": "018982"
+  },
+  {
+    "name": "OLD TIMES",
+    "address": "676 Woodlands Drive 71 #02-38 Kampung Admiralty 730676",
+    "type": "Hawker",
+    "number": "EEHN22020013148",
+    "scheme": "Eating Establishment",
+    "id": "2d05e174-a995-438d-9385-07285141becd",
+    "postal": "730676"
   },
   {
     "name": "Old Town White Coffee",
@@ -26290,15 +26308,6 @@
   },
   {
     "name": "Red Ginger",
-    "address": "1 WOODLANDS SQUARE #02-05 CAUSEWAY POINT 738099",
-    "type": "Restaurant",
-    "number": "EERT20220000640",
-    "scheme": "Eating Establishment",
-    "id": "b820e61a-e25d-40fe-b177-121aedf7df68",
-    "postal": "738099"
-  },
-  {
-    "name": "Red Ginger",
     "address": "2 JURONG EAST STREET 21 #01-46 IMM BUILDING 609601",
     "type": "Restaurant",
     "number": "EERN20090011843",
@@ -26323,6 +26332,15 @@
     "scheme": "Eating Establishment",
     "id": "b820e61a-e25d-40fe-b177-121aedf7df68",
     "postal": "648331"
+  },
+  {
+    "name": "Red Ginger",
+    "address": "1 WOODLANDS SQUARE #02-05 CAUSEWAY POINT 738099",
+    "type": "Restaurant",
+    "number": "EERT20220000640",
+    "scheme": "Eating Establishment",
+    "id": "b820e61a-e25d-40fe-b177-121aedf7df68",
+    "postal": "738099"
   },
   {
     "name": "Red Ginger Coffeehouse",
@@ -28882,21 +28900,21 @@
   },
   {
     "name": "SPRINGLEAF PRATA PLACE",
-    "address": "1 WOODLANDS ROAD #01-25 JUNCTION 10 677899",
-    "type": "Restaurant",
-    "number": "EERN21060012485",
-    "scheme": "Eating Establishment",
-    "id": "97aab0ac-414e-458a-9758-d335f07b1e6b",
-    "postal": "677899"
-  },
-  {
-    "name": "SPRINGLEAF PRATA PLACE",
     "address": "60 YISHUN AVENUE 4 #01-07 SAFRA COUNTRY CLUB (YISHUN) 769027",
     "type": "Restaurant",
     "number": "EERN21060012488",
     "scheme": "Eating Establishment",
     "id": "97aab0ac-414e-458a-9758-d335f07b1e6b",
     "postal": "769027"
+  },
+  {
+    "name": "SPRINGLEAF PRATA PLACE",
+    "address": "1 WOODLANDS ROAD #01-25 JUNCTION 10 677899",
+    "type": "Restaurant",
+    "number": "EERN21060012485",
+    "scheme": "Eating Establishment",
+    "id": "97aab0ac-414e-458a-9758-d335f07b1e6b",
+    "postal": "677899"
   },
   {
     "name": "SPRINGLEAF PRATA PLACE",
@@ -34813,15 +34831,6 @@
   },
   {
     "name": "Tongue Tip Lanzhou Beef Noodles",
-    "address": "63 JURONG WEST CENTRAL 3 #03-105, 106, 107, 108, 109, 110, 111, 112 JURONG POINT SHOPPING CENTRE 648331",
-    "type": "Restaurant",
-    "number": "EERN21040012243",
-    "scheme": "Eating Establishment",
-    "id": "2dce1ae1-5e33-4749-952e-c14abd6ebf2b",
-    "postal": "648331"
-  },
-  {
-    "name": "Tongue Tip Lanzhou Beef Noodles",
     "address": "1 PASIR RIS CLOSE #02-322 E!HUB@DOWNTOWN EAST 519599",
     "type": "Restaurant",
     "number": "EERN21070012601",
@@ -36631,15 +36640,6 @@
   },
   {
     "name": "WOK HEY",
-    "address": "9 BISHAN PLACE #B1-11 JUNCTION 8 SHOPPING CENTRE 579837",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN20090011421",
-    "scheme": "Eating Establishment",
-    "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
-    "postal": "579837"
-  },
-  {
-    "name": "WOK HEY",
     "address": "60 PAYA LEBAR ROAD #01-62 PAYA LEBAR SQUARE 409051",
     "type": "Snack Bar / Bakery",
     "number": "EEBN20090011417",
@@ -36691,6 +36691,15 @@
     "scheme": "Eating Establishment",
     "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
     "postal": "757713"
+  },
+  {
+    "name": "WOK HEY",
+    "address": "9 BISHAN PLACE #B1-11 JUNCTION 8 SHOPPING CENTRE 579837",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN20090011421",
+    "scheme": "Eating Establishment",
+    "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+    "postal": "579837"
   },
   {
     "name": "WOK HEY",
