@@ -1,5 +1,93 @@
 [
   {
+    "timestamp": "2026-06-25T22:45:19.931758",
+    "date": "2026-06-25",
+    "summary": {
+      "new": 2,
+      "removed": 6,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Malay cuisine@ Brani Terminal Yard Canteen (mngd by Arya Bhavan Restaurant Pte Ltd)",
+          "address": "200 BRANI TERMINAL AVENUE BRANI TERMINAL BLDG 098675",
+          "type": "Staff Canteen",
+          "number": "EESC26060000035",
+          "scheme": "Eating Establishment",
+          "id": "d63d53db-2d40-44ba-90a1-4e937a17ba07",
+          "postal": "098675"
+        },
+        {
+          "name": "JINJJA KITCHEN",
+          "address": "1 JELEBU ROAD #02-10 BUKIT PANJANG PLAZA 677743",
+          "type": "Restaurant",
+          "number": "EERT26060000058",
+          "scheme": "Eating Establishment",
+          "id": "be28eb68-4cc1-4791-a42c-e2b8737ceae3",
+          "postal": "677743"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Seeds Springleaf Prata Place",
+          "address": "501 MARGARET DRIVE #01-02 RAINBOW CENTRE (MARGARET DRIVE SCH) 149306",
+          "type": "Restaurant",
+          "number": "EERT20240000827",
+          "scheme": "Eating Establishment",
+          "id": "edd0c76a-185c-44c6-892b-1f395ccf8865",
+          "postal": "149306"
+        },
+        {
+          "name": "Red Ginger",
+          "address": "10 PAYA LEBAR ROAD #B2-31 409057",
+          "type": "Restaurant",
+          "number": "EERX20090011842",
+          "scheme": "Eating Establishment",
+          "id": "b820e61a-e25d-40fe-b177-121aedf7df68",
+          "postal": "409057"
+        },
+        {
+          "name": "So Pho",
+          "address": "2 BAYFRONT AVENUE #01-03, #01-04 MARINA BAY SANDS 018972",
+          "type": "Restaurant",
+          "number": "EERN21070012668",
+          "scheme": "Eating Establishment",
+          "id": "eab58cf8-5aa4-4b96-b522-760a4cceded7",
+          "postal": "018972"
+        },
+        {
+          "name": "Telur Thai",
+          "address": "127 PLANTATION CRESCENT #03-02 KOUFU PLANTATION PLAZA, Stall 4 690127",
+          "type": "Hawker",
+          "number": "EEHK20250000775",
+          "scheme": "Eating Establishment",
+          "id": "7001901a-4b95-4a8b-8989-93cb7b0f369a",
+          "postal": "690127"
+        },
+        {
+          "name": "Sanook Kitchen",
+          "address": "1 STADIUM PLACE #01-16/K8 397628",
+          "type": "Restaurant",
+          "number": "EERN21080012848",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "397628"
+        },
+        {
+          "name": "Kintamani Indonesian Restaurant",
+          "address": "405 HAVELOCK ROAD #03-00 FURAMA RIVERFRONT HOTEL 169633",
+          "type": "Restaurant",
+          "number": "EERN21060012463",
+          "scheme": "Eating Establishment",
+          "id": "b8175854-2480-4a5c-85f7-e18d4a00cc3f",
+          "postal": "169633"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-06-24T22:41:17.683702",
     "date": "2026-06-24",
     "summary": {
@@ -8334,85 +8422,6 @@
         }
       ],
       "removed": [],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-04-23T22:28:43.018123",
-    "date": "2026-04-23",
-    "summary": {
-      "new": 6,
-      "removed": 1,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Al Madina Famous Prata Corner",
-          "address": "449 CLEMENTI AVENUE 3 #01-211, STALL 1 120449",
-          "type": "Hawker",
-          "number": "EEHK20240001031",
-          "scheme": "Eating Establishment",
-          "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
-          "postal": "120449"
-        },
-        {
-          "name": "Al Madina Famous Prata Corner",
-          "address": "803 Keat Hong Close #01-01, Stall 4 680803",
-          "type": "Hawker",
-          "number": "EEHK20250000036",
-          "scheme": "Eating Establishment",
-          "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
-          "postal": "680803"
-        },
-        {
-          "name": "Al Madina Famous Prata Corner",
-          "address": "844 TAMPINES STREET 82 #01-131 TAMPINES VILLE, STALL 7 520844",
-          "type": "Hawker",
-          "number": "EEHK20250000270",
-          "scheme": "Eating Establishment",
-          "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
-          "postal": "520844"
-        },
-        {
-          "name": "Al Madina Famous Prata Corner",
-          "address": "59 NEW UPPER CHANGI ROAD #01-1248 461059",
-          "type": "Hawker",
-          "number": "EEHK26030000075",
-          "scheme": "Eating Establishment",
-          "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
-          "postal": "461059"
-        },
-        {
-          "name": "Al Madina Famous Prata Corner",
-          "address": "36 CHAI CHEE AVENUE #01-151 ANSAR GARDEN, stall 6 461036",
-          "type": "Hawker",
-          "number": "EEHK20240000730",
-          "scheme": "Eating Establishment",
-          "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
-          "postal": "461036"
-        },
-        {
-          "name": "Al Madina Famous Prata Corner",
-          "address": "207 BUKIT BATOK STREET 21 #01-118 BUKIT BATOK GREEN, Stall 4 650207",
-          "type": "Hawker",
-          "number": "EEHK20250000035",
-          "scheme": "Eating Establishment",
-          "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
-          "postal": "650207"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Tim Hortons",
-          "address": "17 WOODLANDS DRIVE 17 #01-03 WOODLANDS HEALTH CAMPUS 737628",
-          "type": "Restaurant",
-          "number": "EERT26020000012",
-          "scheme": "Eating Establishment",
-          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-          "postal": "737628"
-        }
-      ],
       "updated": []
     }
   }

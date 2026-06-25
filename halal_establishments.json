@@ -14301,6 +14301,15 @@
     "postal": "648886"
   },
   {
+    "name": "JINJJA KITCHEN",
+    "address": "1 JELEBU ROAD #02-10 BUKIT PANJANG PLAZA 677743",
+    "type": "Restaurant",
+    "number": "EERT26060000058",
+    "scheme": "Eating Establishment",
+    "id": "be28eb68-4cc1-4791-a42c-e2b8737ceae3",
+    "postal": "677743"
+  },
+  {
     "name": "JK EXCELLENT FOOD PTE. LTD.",
     "address": "8A ADMIRALTY STREET #03-37 FOOD XCHANGE @ ADMIRALTY 757437",
     "type": "Central Kitchen",
@@ -16054,15 +16063,6 @@
     "scheme": "Eating Establishment",
     "id": "3223fa72-1766-40a9-a55b-511a6c4cebd5",
     "postal": "437157"
-  },
-  {
-    "name": "Kintamani Indonesian Restaurant",
-    "address": "405 HAVELOCK ROAD #03-00 FURAMA RIVERFRONT HOTEL 169633",
-    "type": "Restaurant",
-    "number": "EERN21060012463",
-    "scheme": "Eating Establishment",
-    "id": "b8175854-2480-4a5c-85f7-e18d4a00cc3f",
-    "postal": "169633"
   },
   {
     "name": "Kitchen 1@Lentor Health NH WC(Mngd by the Lentor Residence PL)",
@@ -18097,6 +18097,15 @@
     "scheme": "Eating Establishment",
     "id": "fd386199-451a-42ca-96bf-565c6557900a",
     "postal": "628553"
+  },
+  {
+    "name": "Malay cuisine@ Brani Terminal Yard Canteen (mngd by Arya Bhavan Restaurant Pte Ltd)",
+    "address": "200 BRANI TERMINAL AVENUE BRANI TERMINAL BLDG 098675",
+    "type": "Staff Canteen",
+    "number": "EESC26060000035",
+    "scheme": "Eating Establishment",
+    "id": "d63d53db-2d40-44ba-90a1-4e937a17ba07",
+    "postal": "098675"
   },
   {
     "name": "MALAY CUISINE@ COLLEGE OF CT (MNGD BY SMORGASBORD INT PTE LTD)",
@@ -26317,15 +26326,6 @@
   },
   {
     "name": "Red Ginger",
-    "address": "10 PAYA LEBAR ROAD #B2-31 409057",
-    "type": "Restaurant",
-    "number": "EERX20090011842",
-    "scheme": "Eating Establishment",
-    "id": "b820e61a-e25d-40fe-b177-121aedf7df68",
-    "postal": "409057"
-  },
-  {
-    "name": "Red Ginger",
     "address": "63 JURONG WEST CENTRAL 3 01-71/72/73/74 JURONG POINT 648331",
     "type": "Restaurant",
     "number": "EERT26010000111",
@@ -27406,15 +27406,6 @@
   },
   {
     "name": "Sanook Kitchen",
-    "address": "1 STADIUM PLACE #01-16/K8 397628",
-    "type": "Restaurant",
-    "number": "EERN21080012848",
-    "scheme": "Eating Establishment",
-    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-    "postal": "397628"
-  },
-  {
-    "name": "Sanook Kitchen",
     "address": "10 PAYA LEBAR ROAD #03-28/29 PLQ MALL 409057",
     "type": "Restaurant",
     "number": "EERT20220001029",
@@ -27907,15 +27898,6 @@
     "scheme": "Eating Establishment",
     "id": "e8530be1-d0cc-4f8f-88cf-ae7a5a9e48d9",
     "postal": "208877"
-  },
-  {
-    "name": "Seeds Springleaf Prata Place",
-    "address": "501 MARGARET DRIVE #01-02 RAINBOW CENTRE (MARGARET DRIVE SCH) 149306",
-    "type": "Restaurant",
-    "number": "EERT20240000827",
-    "scheme": "Eating Establishment",
-    "id": "edd0c76a-185c-44c6-892b-1f395ccf8865",
-    "postal": "149306"
   },
   {
     "name": "SEGAR",
@@ -28627,15 +28609,6 @@
     "scheme": "Eating Establishment",
     "id": "eab58cf8-5aa4-4b96-b522-760a4cceded7",
     "postal": "529510"
-  },
-  {
-    "name": "So Pho",
-    "address": "2 BAYFRONT AVENUE #01-03, #01-04 MARINA BAY SANDS 018972",
-    "type": "Restaurant",
-    "number": "EERN21070012668",
-    "scheme": "Eating Establishment",
-    "id": "eab58cf8-5aa4-4b96-b522-760a4cceded7",
-    "postal": "018972"
   },
   {
     "name": "Social Cafe",
@@ -32470,15 +32443,6 @@
     "scheme": "Food Preparation Area",
     "id": "36c5f862-0aca-4331-8b89-b47a857dedba",
     "postal": "486350"
-  },
-  {
-    "name": "Telur Thai",
-    "address": "127 PLANTATION CRESCENT #03-02 KOUFU PLANTATION PLAZA, Stall 4 690127",
-    "type": "Hawker",
-    "number": "EEHK20250000775",
-    "scheme": "Eating Establishment",
-    "id": "7001901a-4b95-4a8b-8989-93cb7b0f369a",
-    "postal": "690127"
   },
   {
     "name": "Telur Thai (S10) @ Cantine Paya Lebar Square",
