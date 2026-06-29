@@ -1,5 +1,29 @@
 [
   {
+    "timestamp": "2026-06-29T22:36:12.378378",
+    "date": "2026-06-29",
+    "summary": {
+      "new": 1,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Yong Tau Foo",
+          "address": "21 CHOA CHU KANG AVENUE 4 Stall 13 @ Food Junction Lot One #04-16 LOT ONE, SHOPPERS' MALL 689812",
+          "type": "Hawker",
+          "number": "EEHK26060000060",
+          "scheme": "Eating Establishment",
+          "id": "06739909-6db9-4b99-b230-f3cf4a72e8e1",
+          "postal": "689812"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-06-25T22:45:19.931758",
     "date": "2026-06-25",
     "summary": {
@@ -8368,57 +8392,6 @@
           "scheme": "Food Preparation Area",
           "id": "975cae12-ee4f-4f69-bb3d-0801c6f0ae79",
           "postal": "579526"
-        }
-      ],
-      "removed": [],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-04-24T22:28:33.654273",
-    "date": "2026-04-24",
-    "summary": {
-      "new": 4,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Staff Cafeteria @ Pfizer Asia Mnfg (Mngd by The Wok People)",
-          "address": "31 TUAS SOUTH AVENUE 6 1ST STOREY 637578",
-          "type": "Staff Canteen",
-          "number": "EESC20230001079",
-          "scheme": "Eating Establishment",
-          "id": "77a2b0dd-9a0c-4df0-9eee-120d54041cc9",
-          "postal": "637578"
-        },
-        {
-          "name": "BUTTER PEOPLE GROUP PTE LTD",
-          "address": "9 CHIN BEE DRIVE #04-05 INNOVATE 360 619860",
-          "type": "Central Kitchen",
-          "number": "FPCK26040000035",
-          "scheme": "Food Preparation Area",
-          "id": "2e353b03-fe60-4380-9709-9777a0989aaa",
-          "postal": "619860"
-        },
-        {
-          "name": "OLD CHANG KEE",
-          "address": "33 SENGKANG WEST AVENUE #B1-K20 THE SELETAR MALL 797653",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26040000010",
-          "scheme": "Eating Establishment",
-          "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
-          "postal": "797653"
-        },
-        {
-          "name": "Staff Canteen Stall @ Pfizer Asia Mnfg (Mngd by The Wok People)",
-          "address": "31 TUAS SOUTH AVENUE 6 1ST STOREY 637578",
-          "type": "Staff Canteen",
-          "number": "EEFX22020012569",
-          "scheme": "Eating Establishment",
-          "id": "c6b4fe0e-b854-464d-a65e-2f43fb249e4e",
-          "postal": "637578"
         }
       ],
       "removed": [],

@@ -37090,6 +37090,15 @@
   },
   {
     "name": "Yong Tau Foo",
+    "address": "21 CHOA CHU KANG AVENUE 4 Stall 13 @ Food Junction Lot One #04-16 LOT ONE, SHOPPERS' MALL 689812",
+    "type": "Hawker",
+    "number": "EEHK26060000060",
+    "scheme": "Eating Establishment",
+    "id": "06739909-6db9-4b99-b230-f3cf4a72e8e1",
+    "postal": "689812"
+  },
+  {
+    "name": "Yong Tau Foo",
     "address": "524A JELAPANG ROAD Stall 1, Cantine #01-03 GREENRIDGE SHOPPING CENTRE 671524",
     "type": "Hawker",
     "number": "EEHK20250000753",
