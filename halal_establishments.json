@@ -17361,6 +17361,15 @@
     "postal": "159964"
   },
   {
+    "name": "Malay Kitchen @ C2+",
+    "address": "30 CHANGI NORTH CRESCENT SATS INFLIGHT CATERING CENTRE 2 499612",
+    "type": "Catering Company",
+    "number": "FPGX21030001515",
+    "scheme": "Food Preparation Area",
+    "id": "69eebf7a-42ac-4581-9fde-25762225f557",
+    "postal": "499612"
+  },
+  {
     "name": "MALAY KITCHEN @ FAIRMONT HOTEL SINGAPORE",
     "address": "2 STAMFORD ROAD #04-00 178882",
     "type": "Central Kitchen",
@@ -18963,6 +18972,24 @@
     "postal": "228220"
   },
   {
+    "name": "Mee Bagus",
+    "address": "170A SENGKANG EAST DRIVE Stall 3, The Coffeehood and Tea Hall #01-10 RIVERVALE SHORES 541170",
+    "type": "Hawker",
+    "number": "EEHK26060000052",
+    "scheme": "Eating Establishment",
+    "id": "cd2b1a60-2b11-4a39-95b0-a904e73d1612",
+    "postal": "541170"
+  },
+  {
+    "name": "Mee Bagus",
+    "address": "925 YISHUN CENTRAL 1 Stall 5 #01-211 Kedai Kopi 760925",
+    "type": "Hawker",
+    "number": "EEHK20250000465",
+    "scheme": "Eating Establishment",
+    "id": "cd2b1a60-2b11-4a39-95b0-a904e73d1612",
+    "postal": "760925"
+  },
+  {
     "name": "Mee Hoon & Nasi Padang",
     "address": "11 CANBERRA ROAD Stall 5, Nom's Bistro #01-01 SEMBAWANG MRT STATION (NS11) 759775",
     "type": "Hawker",
@@ -19477,12 +19504,30 @@
   },
   {
     "name": "MR BEAN",
+    "address": "33 SENGKANG WEST AVENUE #B1-K6 THE SELETAR MALL 797653",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26060000041",
+    "scheme": "Eating Establishment",
+    "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
+    "postal": "797653"
+  },
+  {
+    "name": "MR BEAN",
     "address": "1 TAN TOCK SENG LINK #01-02 TTSH INTEGRATED CARE HUB 307382",
     "type": "Restaurant",
     "number": "EERT20240001293",
     "scheme": "Eating Establishment",
     "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
     "postal": "307382"
+  },
+  {
+    "name": "MR BEAN",
+    "address": "168 ROBINSON ROAD #01-03 CAPITAL TOWER 068912",
+    "type": "Restaurant",
+    "number": "EERT20230000414",
+    "scheme": "Eating Establishment",
+    "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
+    "postal": "068912"
   },
   {
     "name": "MR BEAN",
@@ -20059,6 +20104,15 @@
     "scheme": "Eating Establishment",
     "id": "ca82a0fe-a79a-4003-a63a-9471d9fca5bf",
     "postal": "207218"
+  },
+  {
+    "name": "Mr Teh Tarik Express",
+    "address": "30 WOODLANDS AVENUE 2 #01-04/05 WOODLANDS MRT STATION (NS9) 738343",
+    "type": "Restaurant",
+    "number": "EERT26070000008",
+    "scheme": "Eating Establishment",
+    "id": "ca82a0fe-a79a-4003-a63a-9471d9fca5bf",
+    "postal": "738343"
   },
   {
     "name": "Mr Teh Tarik Express",
@@ -21844,15 +21898,6 @@
   },
   {
     "name": "OLD CHANG KEE",
-    "address": "1 MARITIME SQUARE #02-20B HARBOURFRONT CENTRE 099253",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20220000439",
-    "scheme": "Eating Establishment",
-    "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
-    "postal": "099253"
-  },
-  {
-    "name": "OLD CHANG KEE",
     "address": "1 PASIR RIS CENTRAL STREET 3 #01-42 WHITE SAND SHOPPING MALL 518457",
     "type": "Snack Bar / Bakery",
     "number": "EEBN20090011448",
@@ -22831,6 +22876,60 @@
     "scheme": "Eating Establishment",
     "id": "3d7e40b3-2a5e-4cee-864a-3127ff7acf6e",
     "postal": "178882"
+  },
+  {
+    "name": "PASTAGO",
+    "address": "1 SENGKANG SQUARE #B1-50 COMPASS ONE 545078",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20240000972",
+    "scheme": "Eating Establishment",
+    "id": "5c5afd38-ebd6-422b-babb-46f8944c0e6a",
+    "postal": "545078"
+  },
+  {
+    "name": "PASTAGO",
+    "address": "1 VISTA EXCHANGE GREEN #B1-37D THE STAR VISTA 138617",
+    "type": "Restaurant",
+    "number": "EERT20250000455",
+    "scheme": "Eating Establishment",
+    "id": "5c5afd38-ebd6-422b-babb-46f8944c0e6a",
+    "postal": "138617"
+  },
+  {
+    "name": "PASTAGO",
+    "address": "33 SENGKANG WEST AVENUE #B1-K17 THE SELETAR MALL 797653",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26040000015",
+    "scheme": "Eating Establishment",
+    "id": "5c5afd38-ebd6-422b-babb-46f8944c0e6a",
+    "postal": "797653"
+  },
+  {
+    "name": "PASTAGO",
+    "address": "10 TAMPINES CENTRAL 1 #B1-K1 TAMPINES ONE 529536",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20240001002",
+    "scheme": "Eating Establishment",
+    "id": "5c5afd38-ebd6-422b-babb-46f8944c0e6a",
+    "postal": "529536"
+  },
+  {
+    "name": "PASTAGO",
+    "address": "30 SEMBAWANG DRIVE #B1-29 SUN PLAZA 757713",
+    "type": "Restaurant",
+    "number": "EERT26060000070",
+    "scheme": "Eating Establishment",
+    "id": "5c5afd38-ebd6-422b-babb-46f8944c0e6a",
+    "postal": "757713"
+  },
+  {
+    "name": "PASTAGO",
+    "address": "302 TIONG BAHRU ROAD #B1-123 TIONG BAHRU PLAZA 168732",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20230000413",
+    "scheme": "Eating Establishment",
+    "id": "5c5afd38-ebd6-422b-babb-46f8944c0e6a",
+    "postal": "168732"
   },
   {
     "name": "Pastamania",
@@ -25705,15 +25804,6 @@
   },
   {
     "name": "ROTIKEK",
-    "address": "30 WOODLANDS AVENUE 2 #01-45 WOODLANDS MRT STATION 738343",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20230000990",
-    "scheme": "Eating Establishment",
-    "id": "7285c504-2c8b-496a-adeb-e0ed766bb652",
-    "postal": "738343"
-  },
-  {
-    "name": "ROTIKEK",
     "address": "354 CLEMENTI AVENUE 2 STALL 9, CHANG CHENG MEE WAH.WUFU #01-157 CLEMENTI AVENUE 2 SHOPPING CENTRE 120354",
     "type": "Hawker",
     "number": "EEHK26010000082",
@@ -25729,6 +25819,15 @@
     "scheme": "Eating Establishment",
     "id": "42d34450-5869-4fe6-94cb-107c37145b50",
     "postal": "470632"
+  },
+  {
+    "name": "ROTIKEK",
+    "address": "30 WOODLANDS AVENUE 2 #01-45 WOODLANDS MRT STATION 738343",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20230000990",
+    "scheme": "Eating Establishment",
+    "id": "7285c504-2c8b-496a-adeb-e0ed766bb652",
+    "postal": "738343"
   },
   {
     "name": "ROYAL CATERING SERVICES PTE LTD",
@@ -26416,21 +26515,21 @@
   },
   {
     "name": "Sanook Kitchen",
-    "address": "2 ORCHARD TURN #B3-19 ION ORCHARD 238801",
-    "type": "Restaurant",
-    "number": "EERT20220000262",
-    "scheme": "Eating Establishment",
-    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-    "postal": "238801"
-  },
-  {
-    "name": "Sanook Kitchen",
     "address": "10 PAYA LEBAR ROAD #03-28/29 PLQ MALL 409057",
     "type": "Restaurant",
     "number": "EERT20220001029",
     "scheme": "Eating Establishment",
     "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
     "postal": "409057"
+  },
+  {
+    "name": "Sanook Kitchen",
+    "address": "2 ORCHARD TURN #B3-19 ION ORCHARD 238801",
+    "type": "Restaurant",
+    "number": "EERT20220000262",
+    "scheme": "Eating Establishment",
+    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+    "postal": "238801"
   },
   {
     "name": "Sanook Kitchen",
@@ -26587,21 +26686,21 @@
   },
   {
     "name": "Seabay Delight Wok Delight",
-    "address": "1 JURONG EAST STREET 21 (Stall 6) @ Fork & Spoon Ng Teng Fong General Hospital (Tower B) #02-01A, #02-01B NG TENG FONG GENERAL HOSPITAL (TOWER B) 609606",
-    "type": "Hawker",
-    "number": "EEHK25120000041",
-    "scheme": "Eating Establishment",
-    "id": "2035b70c-c1f0-49ab-a004-a9576849a2b6",
-    "postal": "609606"
-  },
-  {
-    "name": "Seabay Delight Wok Delight",
     "address": "377 HOUGANG STREET 32 (S4)@Koufu Hougang Rivercourt #01-30 HOUGANG RIVERCOURT 530377",
     "type": "Hawker",
     "number": "EEHK25100000115",
     "scheme": "Eating Establishment",
     "id": "e1abbb85-65b8-4be0-bba7-ded689a7e489",
     "postal": "530377"
+  },
+  {
+    "name": "Seabay Delight Wok Delight",
+    "address": "1 JURONG EAST STREET 21 (Stall 6) @ Fork & Spoon Ng Teng Fong General Hospital (Tower B) #02-01A, #02-01B NG TENG FONG GENERAL HOSPITAL (TOWER B) 609606",
+    "type": "Hawker",
+    "number": "EEHK25120000041",
+    "scheme": "Eating Establishment",
+    "id": "2035b70c-c1f0-49ab-a004-a9576849a2b6",
+    "postal": "609606"
   },
   {
     "name": "Seabay Delight Wok Delight",
@@ -33472,24 +33571,6 @@
   },
   {
     "name": "Tim Hortons",
-    "address": "1 HARBOURFRONT WALK #01-207 VIVOCITY 098585",
-    "type": "Restaurant",
-    "number": "EERT26020000001",
-    "scheme": "Eating Establishment",
-    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-    "postal": "098585"
-  },
-  {
-    "name": "Tim Hortons",
-    "address": "23 SERANGOON CENTRAL #01-10 NEX 556083",
-    "type": "Restaurant",
-    "number": "EERT26020000002",
-    "scheme": "Eating Establishment",
-    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-    "postal": "556083"
-  },
-  {
-    "name": "Tim Hortons",
     "address": "313 ORCHARD ROAD #01-29 313 @ SOMERSET 238895",
     "type": "Restaurant",
     "number": "EERT26020000008",
@@ -34066,15 +34147,6 @@
   },
   {
     "name": "TREATS",
-    "address": "1027 UPPER SERANGOON ROAD MOBIL SERVICE STATION 534765",
-    "type": "Food Kiosk",
-    "number": "EEFK20220001016",
-    "scheme": "Eating Establishment",
-    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
-    "postal": "534765"
-  },
-  {
-    "name": "TREATS",
     "address": "353 UPPER THOMSON ROAD MOBIL SERVICE STATION 574410",
     "type": "Food Kiosk",
     "number": "EEFK20230000637",
@@ -34171,6 +34243,15 @@
     "scheme": "Eating Establishment",
     "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
     "postal": "758452"
+  },
+  {
+    "name": "TREATS",
+    "address": "1027 UPPER SERANGOON ROAD MOBIL SERVICE STATION 534765",
+    "type": "Food Kiosk",
+    "number": "EEFK20220001016",
+    "scheme": "Eating Establishment",
+    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
+    "postal": "534765"
   },
   {
     "name": "TREATS",

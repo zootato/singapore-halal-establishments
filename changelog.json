@@ -1,5 +1,156 @@
 [
   {
+    "timestamp": "2026-07-03T23:19:17.432403",
+    "date": "2026-07-03",
+    "summary": {
+      "new": 12,
+      "removed": 3,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Mee Bagus",
+          "address": "925 YISHUN CENTRAL 1 Stall 5 #01-211 Kedai Kopi 760925",
+          "type": "Hawker",
+          "number": "EEHK20250000465",
+          "scheme": "Eating Establishment",
+          "id": "cd2b1a60-2b11-4a39-95b0-a904e73d1612",
+          "postal": "760925"
+        },
+        {
+          "name": "MR BEAN",
+          "address": "168 ROBINSON ROAD #01-03 CAPITAL TOWER 068912",
+          "type": "Restaurant",
+          "number": "EERT20230000414",
+          "scheme": "Eating Establishment",
+          "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
+          "postal": "068912"
+        },
+        {
+          "name": "MR BEAN",
+          "address": "33 SENGKANG WEST AVENUE #B1-K6 THE SELETAR MALL 797653",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26060000041",
+          "scheme": "Eating Establishment",
+          "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
+          "postal": "797653"
+        },
+        {
+          "name": "Mr Teh Tarik Express",
+          "address": "30 WOODLANDS AVENUE 2 #01-04/05 WOODLANDS MRT STATION (NS9) 738343",
+          "type": "Restaurant",
+          "number": "EERT26070000008",
+          "scheme": "Eating Establishment",
+          "id": "ca82a0fe-a79a-4003-a63a-9471d9fca5bf",
+          "postal": "738343"
+        },
+        {
+          "name": "PASTAGO",
+          "address": "30 SEMBAWANG DRIVE #B1-29 SUN PLAZA 757713",
+          "type": "Restaurant",
+          "number": "EERT26060000070",
+          "scheme": "Eating Establishment",
+          "id": "5c5afd38-ebd6-422b-babb-46f8944c0e6a",
+          "postal": "757713"
+        },
+        {
+          "name": "Mee Bagus",
+          "address": "170A SENGKANG EAST DRIVE Stall 3, The Coffeehood and Tea Hall #01-10 RIVERVALE SHORES 541170",
+          "type": "Hawker",
+          "number": "EEHK26060000052",
+          "scheme": "Eating Establishment",
+          "id": "cd2b1a60-2b11-4a39-95b0-a904e73d1612",
+          "postal": "541170"
+        },
+        {
+          "name": "PASTAGO",
+          "address": "1 VISTA EXCHANGE GREEN #B1-37D THE STAR VISTA 138617",
+          "type": "Restaurant",
+          "number": "EERT20250000455",
+          "scheme": "Eating Establishment",
+          "id": "5c5afd38-ebd6-422b-babb-46f8944c0e6a",
+          "postal": "138617"
+        },
+        {
+          "name": "PASTAGO",
+          "address": "1 SENGKANG SQUARE #B1-50 COMPASS ONE 545078",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000972",
+          "scheme": "Eating Establishment",
+          "id": "5c5afd38-ebd6-422b-babb-46f8944c0e6a",
+          "postal": "545078"
+        },
+        {
+          "name": "PASTAGO",
+          "address": "10 TAMPINES CENTRAL 1 #B1-K1 TAMPINES ONE 529536",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240001002",
+          "scheme": "Eating Establishment",
+          "id": "5c5afd38-ebd6-422b-babb-46f8944c0e6a",
+          "postal": "529536"
+        },
+        {
+          "name": "PASTAGO",
+          "address": "302 TIONG BAHRU ROAD #B1-123 TIONG BAHRU PLAZA 168732",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000413",
+          "scheme": "Eating Establishment",
+          "id": "5c5afd38-ebd6-422b-babb-46f8944c0e6a",
+          "postal": "168732"
+        },
+        {
+          "name": "PASTAGO",
+          "address": "33 SENGKANG WEST AVENUE #B1-K17 THE SELETAR MALL 797653",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26040000015",
+          "scheme": "Eating Establishment",
+          "id": "5c5afd38-ebd6-422b-babb-46f8944c0e6a",
+          "postal": "797653"
+        },
+        {
+          "name": "Malay Kitchen @ C2+",
+          "address": "30 CHANGI NORTH CRESCENT SATS INFLIGHT CATERING CENTRE 2 499612",
+          "type": "Catering Company",
+          "number": "FPGX21030001515",
+          "scheme": "Food Preparation Area",
+          "id": "69eebf7a-42ac-4581-9fde-25762225f557",
+          "postal": "499612"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Tim Hortons",
+          "address": "23 SERANGOON CENTRAL #01-10 NEX 556083",
+          "type": "Restaurant",
+          "number": "EERT26020000002",
+          "scheme": "Eating Establishment",
+          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+          "postal": "556083"
+        },
+        {
+          "name": "Tim Hortons",
+          "address": "1 HARBOURFRONT WALK #01-207 VIVOCITY 098585",
+          "type": "Restaurant",
+          "number": "EERT26020000001",
+          "scheme": "Eating Establishment",
+          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+          "postal": "098585"
+        },
+        {
+          "name": "OLD CHANG KEE",
+          "address": "1 MARITIME SQUARE #02-20B HARBOURFRONT CENTRE 099253",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000439",
+          "scheme": "Eating Establishment",
+          "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
+          "postal": "099253"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-07-02T22:35:40.530327",
     "date": "2026-07-02",
     "summary": {
@@ -10270,224 +10421,6 @@
             "number": "EERT20230000442",
             "scheme": "Eating Establishment",
             "id": "7bb01ffe-feac-4339-afbf-4980c7ada0c0",
-            "postal": "249716"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-04-29T22:33:58.938612",
-    "date": "2026-04-29",
-    "summary": {
-      "new": 8,
-      "removed": 1,
-      "updated": 6
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Steak 99",
-          "address": "302 TIONG BAHRU ROAD #02-109, #02-110 TIONG BAHRU PLAZA 168732",
-          "type": "Restaurant",
-          "number": "EERT26040000052",
-          "scheme": "Eating Establishment",
-          "id": "825193a3-1a1e-4d2b-abb6-b7fd6ee11dce",
-          "postal": "168732"
-        },
-        {
-          "name": "Overscoop",
-          "address": "3A RIVER VALLEY ROAD #01-01 CQ @ CLARKE QUAY 179020",
-          "type": "Restaurant",
-          "number": "EERT26040000043",
-          "scheme": "Eating Establishment",
-          "id": "20346072-3cdd-4b23-8445-f7dc27c2b224",
-          "postal": "179020"
-        },
-        {
-          "name": "Overscoop",
-          "address": "181 ORCHARD ROAD #02-12 ORCHARD CENTRAL 238896",
-          "type": "Restaurant",
-          "number": "EERT26040000041",
-          "scheme": "Eating Establishment",
-          "id": "08342c7c-a358-486d-be78-01e9978c5287",
-          "postal": "238896"
-        },
-        {
-          "name": "Overscoop",
-          "address": "55 TANJONG PAGAR ROAD TANJONG PAGAR CONSERVATION AREA, (1ST STOREY) 088476",
-          "type": "Restaurant",
-          "number": "EERT26040000042",
-          "scheme": "Eating Establishment",
-          "id": "7bbfe47d-a09c-4f45-a0cf-fe7a71799838",
-          "postal": "088476"
-        },
-        {
-          "name": "Srisun Express",
-          "address": "SINGAPORE HERITAGE FEST 2026, 1 EMPRESS PLACE ASIAN CIVILISATIONS MUSEUM, 5 179555",
-          "type": "Short Term Stall(Bazaar/Road Shows)",
-          "number": "EEST26040000072",
-          "scheme": "Eating Establishment",
-          "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
-          "postal": "179555"
-        },
-        {
-          "name": "Steak 99",
-          "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #01-48 CHANGI CITY POINT 486038",
-          "type": "Restaurant",
-          "number": "EERT26040000049",
-          "scheme": "Eating Establishment",
-          "id": "825193a3-1a1e-4d2b-abb6-b7fd6ee11dce",
-          "postal": "486038"
-        },
-        {
-          "name": "Steak 99",
-          "address": "21 CHOA CHU KANG AVENUE 4 #B1-12, #B1-12/13 LOT ONE, SHOPPERS' MALL 689812",
-          "type": "Restaurant",
-          "number": "EERT26040000051",
-          "scheme": "Eating Establishment",
-          "id": "825193a3-1a1e-4d2b-abb6-b7fd6ee11dce",
-          "postal": "689812"
-        },
-        {
-          "name": "Steak 99",
-          "address": "10 PAYA LEBAR ROAD #B2-17 PAYA LEBAR QUARTER 409057",
-          "type": "Restaurant",
-          "number": "EERT26040000050",
-          "scheme": "Eating Establishment",
-          "id": "825193a3-1a1e-4d2b-abb6-b7fd6ee11dce",
-          "postal": "409057"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Tenderbest",
-          "address": "888 WOODLANDS DRIVE 50 #01-733 888 PLAZA, Stall 9 730888",
-          "type": "Hawker",
-          "number": "EEHN21060012452",
-          "scheme": "Eating Establishment",
-          "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
-          "postal": "730888"
-        }
-      ],
-      "updated": [
-        {
-          "previous": {
-            "name": "Main Kitchen @ Hotel Jen Singapore Tanglin By Shangri-La",
-            "address": "1A CUSCADEN ROAD #02 JEN SINGAPORE TANGLIN BY SHANGRI-LA, MAIN KITCHEN 249716",
-            "type": "Central Kitchen",
-            "number": "FPCX21020001491",
-            "scheme": "Food Preparation Area",
-            "id": "4ae242d1-466a-45b8-98c9-3eeb415c4deb",
-            "postal": "249716"
-          },
-          "current": {
-            "name": "Main Kitchen @ Hotel Jen Singapore Tanglin By Shangri-La",
-            "address": "1A CUSCADEN ROAD MAIN KITCHEN JEN SINGAPORE TANGLIN BY SHANGRI-LA, LEVEL 2 249716",
-            "type": "Central Kitchen",
-            "number": "FPCX21020001491",
-            "scheme": "Food Preparation Area",
-            "id": "4ae242d1-466a-45b8-98c9-3eeb415c4deb",
-            "postal": "249716"
-          }
-        },
-        {
-          "previous": {
-            "name": "Butcher Kitchen @ Hotel Jen Singapore Tanglin by Shangri-La",
-            "address": "1A CUSCADEN ROAD #02 JEN SINGAPORE TANGLIN BY SHANGRI-LA 249716",
-            "type": "Central Kitchen",
-            "number": "FPCK20250000322",
-            "scheme": "Food Preparation Area",
-            "id": "f344993a-df28-4657-b8c7-ebddaf1a46ff",
-            "postal": "249716"
-          },
-          "current": {
-            "name": "Butcher Kitchen @ Hotel Jen Singapore Tanglin by Shangri-La",
-            "address": "1A CUSCADEN ROAD BUTCHER KITCHEN JEN SINGAPORE TANGLIN BY SHANGRI-LA, LEVEL 2 249716",
-            "type": "Central Kitchen",
-            "number": "FPCK20250000322",
-            "scheme": "Food Preparation Area",
-            "id": "f344993a-df28-4657-b8c7-ebddaf1a46ff",
-            "postal": "249716"
-          }
-        },
-        {
-          "previous": {
-            "name": "Cold Kitchen @ Hotel Jen Singapore Tanglin By Shangri-La",
-            "address": "1A CUSCADEN ROAD #02 JEN SINGAPORE TANGLIN BY SHANGRI-LA, COLD KITCHEN 249716",
-            "type": "Central Kitchen",
-            "number": "FPCN21020001488",
-            "scheme": "Food Preparation Area",
-            "id": "69df7f9b-989e-4c0d-89b2-0e79cc62a9ab",
-            "postal": "249716"
-          },
-          "current": {
-            "name": "Cold Kitchen @ Hotel Jen Singapore Tanglin By Shangri-La",
-            "address": "1A CUSCADEN ROAD COLD KITCHEN JEN SINGAPORE TANGLIN BY SHANGRI-LA, LEVEL 2 249716",
-            "type": "Central Kitchen",
-            "number": "FPCN21020001488",
-            "scheme": "Food Preparation Area",
-            "id": "69df7f9b-989e-4c0d-89b2-0e79cc62a9ab",
-            "postal": "249716"
-          }
-        },
-        {
-          "previous": {
-            "name": "PITA BAKERY PTE LTD",
-            "address": "29 Bali Lane #1st & 2nd Storey 189865",
-            "type": "Restaurant",
-            "number": "EERN22020013526",
-            "scheme": "Eating Establishment",
-            "id": "14bacdbf-1673-4386-a6e1-a7e95debb0e6",
-            "postal": "189865"
-          },
-          "current": {
-            "name": "PITA BAKERY",
-            "address": "29 Bali Lane #1st & 2nd Storey 189865",
-            "type": "Restaurant",
-            "number": "EERN22020013526",
-            "scheme": "Eating Establishment",
-            "id": "14bacdbf-1673-4386-a6e1-a7e95debb0e6",
-            "postal": "189865"
-          }
-        },
-        {
-          "previous": {
-            "name": "Indian Kitchen @ Hotel Jen Singapore Tanglin By Shangri-La",
-            "address": "1A CUSCADEN ROAD #02 JEN SINGAPORE TANGLIN BY SHANGRI-LA, INDIAN KITCHEN 249716",
-            "type": "Central Kitchen",
-            "number": "FPCN21020001490",
-            "scheme": "Food Preparation Area",
-            "id": "9e2033af-cb7a-4096-a558-2c3c5b635dfb",
-            "postal": "249716"
-          },
-          "current": {
-            "name": "Indian Kitchen @ Hotel Jen Singapore Tanglin By Shangri-La",
-            "address": "1A CUSCADEN ROAD INDIAN KITCHEN JEN SINGAPORE TANGLIN BY SHANGRI-LA, LEVEL 2 249716",
-            "type": "Central Kitchen",
-            "number": "FPCN21020001490",
-            "scheme": "Food Preparation Area",
-            "id": "9e2033af-cb7a-4096-a558-2c3c5b635dfb",
-            "postal": "249716"
-          }
-        },
-        {
-          "previous": {
-            "name": "Pastry Kitchen @ Hotel Jen Singapore Tanglin By Shangri-La",
-            "address": "1A CUSCADEN ROAD #02 JEN SINGAPORE TANGLIN BY SHANGRI-LA, PASTRY KITCHEN 249716",
-            "type": "Central Kitchen",
-            "number": "FPCN21020001489",
-            "scheme": "Food Preparation Area",
-            "id": "1e73c45a-0a23-4252-b2a4-70701e450475",
-            "postal": "249716"
-          },
-          "current": {
-            "name": "Pastry Kitchen @ Hotel Jen Singapore Tanglin By Shangri-La",
-            "address": "1A CUSCADEN ROAD PASTRY KITCHEN JEN SINGAPORE TANGLIN BY SHANGRI-LA, LEVEL 2 249716",
-            "type": "Central Kitchen",
-            "number": "FPCN21020001489",
-            "scheme": "Food Preparation Area",
-            "id": "1e73c45a-0a23-4252-b2a4-70701e450475",
             "postal": "249716"
           }
         }
