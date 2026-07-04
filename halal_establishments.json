@@ -20781,6 +20781,51 @@
     "postal": "228213"
   },
   {
+    "name": "NANDHANA'S",
+    "address": "3A INTERNATIONAL BUSINESS PARK #01-09/09A ICON @ IBP 609935",
+    "type": "Restaurant",
+    "number": "EERT20250000472",
+    "scheme": "Eating Establishment",
+    "id": "05e1d8f3-8f02-462c-b33f-e6fbd6e4b5c8",
+    "postal": "609935"
+  },
+  {
+    "name": "NANDHANA'S",
+    "address": "3 SIMEI STREET 6 #02-05 EASTPOINT MALL 528833",
+    "type": "Restaurant",
+    "number": "EERT20230000383",
+    "scheme": "Eating Establishment",
+    "id": "05e1d8f3-8f02-462c-b33f-e6fbd6e4b5c8",
+    "postal": "528833"
+  },
+  {
+    "name": "NANDHANA'S",
+    "address": "1 JOO KOON CIRCLE #01-32/34/38 FAIRPRICE HUB 629117",
+    "type": "Restaurant",
+    "number": "EERT20230000384",
+    "scheme": "Eating Establishment",
+    "id": "05e1d8f3-8f02-462c-b33f-e6fbd6e4b5c8",
+    "postal": "629117"
+  },
+  {
+    "name": "NANDHANA'S",
+    "address": "441 SEMBAWANG ROAD SEMBAWANG PARK 758401",
+    "type": "Restaurant",
+    "number": "EERT20230000903",
+    "scheme": "Eating Establishment",
+    "id": "05e1d8f3-8f02-462c-b33f-e6fbd6e4b5c8",
+    "postal": "758401"
+  },
+  {
+    "name": "NANDHANA'S RESTAURANT",
+    "address": "22 BELILIOS LANE #01-01 AQUEEN HERITAGE HOTEL - LITTLE INDIA 219962",
+    "type": "Restaurant",
+    "number": "EERT20230000952",
+    "scheme": "Eating Establishment",
+    "id": "c2fede60-88f0-429b-bc58-c9301e8ad5bb",
+    "postal": "219962"
+  },
+  {
     "name": "Nando's",
     "address": "1 Vista Exchange Green #B1-09 The Star Vista 138617",
     "type": "Restaurant",
@@ -27702,15 +27747,6 @@
     "postal": "529510"
   },
   {
-    "name": "So Pho",
-    "address": "83 Punggol Central #01-28 Waterway Point (East Wing) 828761",
-    "type": "Restaurant",
-    "number": "EERN21070012673",
-    "scheme": "Eating Establishment",
-    "id": "eab58cf8-5aa4-4b96-b522-760a4cceded7",
-    "postal": "828761"
-  },
-  {
     "name": "Social Cafe",
     "address": "3 CHANGI BUSINESS PARK CRESCENT #01-01 486026",
     "type": "Restaurant",
@@ -29950,15 +29986,6 @@
     "scheme": "Food Preparation Area",
     "id": "92cc58e5-a264-413b-970c-0ad81bace4f7",
     "postal": "588406"
-  },
-  {
-    "name": "Sumber Ayam Chicken Rice (S5)@Food Republic City Square Mall",
-    "address": "180 KITCHENER ROAD #B3-04 CITY SQUARE MALL, Stall 5 208539",
-    "type": "Hawker",
-    "number": "EEHK20240000913",
-    "scheme": "Eating Establishment",
-    "id": "6898b05f-3ffe-41b3-af30-8aea1bf8c6a3",
-    "postal": "208539"
   },
   {
     "name": "Sumber Ayam Hainanese Chicken Rice (MR3)@Kopitiam AMK Hub",
@@ -35809,15 +35836,6 @@
     "scheme": "Eating Establishment",
     "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
     "postal": "569933"
-  },
-  {
-    "name": "WOK HEY",
-    "address": "1 TAMPINES WALK #01-82A OUR TAMPINES HUB 528523",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN22020013109",
-    "scheme": "Eating Establishment",
-    "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
-    "postal": "528523"
   },
   {
     "name": "WOK HEY",
