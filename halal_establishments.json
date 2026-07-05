@@ -15273,15 +15273,6 @@
     "postal": "408896"
   },
   {
-    "name": "KINGS CATERING PTE. LTD.",
-    "address": "THE GREAT FOOD ASSEMBLY, 1 RAFFLES BOULEVARD SUNTEC SINGAPORE CONVENTION & EXHIBITION CENTRE, 013 039593",
-    "type": "Short Term Stall(Bazaar/Road Shows)",
-    "number": "EEST26070000013",
-    "scheme": "Eating Establishment",
-    "id": "3aebba9a-10df-4696-a991-541ce5afb408",
-    "postal": "039593"
-  },
-  {
     "name": "KINGS@THE ISTANA",
     "address": "11 TANJONG KATONG ROAD THE ISTANA #03-38/39 KINEX 437157",
     "type": "Restaurant",
@@ -21940,6 +21931,15 @@
     "scheme": "Eating Establishment",
     "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
     "postal": "579837"
+  },
+  {
+    "name": "OLD CHANG KEE",
+    "address": "1 MARITIME SQUARE #02-20B HARBOURFRONT CENTRE 099253",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20220000439",
+    "scheme": "Eating Establishment",
+    "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
+    "postal": "099253"
   },
   {
     "name": "OLD CHANG KEE",

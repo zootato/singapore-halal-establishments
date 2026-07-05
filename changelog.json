@@ -1,5 +1,39 @@
 [
   {
+    "timestamp": "2026-07-05T23:15:01.004126",
+    "date": "2026-07-05",
+    "summary": {
+      "new": 1,
+      "removed": 1,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "OLD CHANG KEE",
+          "address": "1 MARITIME SQUARE #02-20B HARBOURFRONT CENTRE 099253",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000439",
+          "scheme": "Eating Establishment",
+          "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
+          "postal": "099253"
+        }
+      ],
+      "removed": [
+        {
+          "name": "KINGS CATERING PTE. LTD.",
+          "address": "THE GREAT FOOD ASSEMBLY, 1 RAFFLES BOULEVARD SUNTEC SINGAPORE CONVENTION & EXHIBITION CENTRE, 013 039593",
+          "type": "Short Term Stall(Bazaar/Road Shows)",
+          "number": "EEST26070000013",
+          "scheme": "Eating Establishment",
+          "id": "3aebba9a-10df-4696-a991-541ce5afb408",
+          "postal": "039593"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-07-04T23:11:05.145838",
     "date": "2026-07-04",
     "summary": {
@@ -8997,40 +9031,6 @@
           "scheme": "Eating Establishment",
           "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
           "postal": "528523"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-05-02T22:27:01.865593",
-    "date": "2026-05-02",
-    "summary": {
-      "new": 1,
-      "removed": 1,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Tim Hortons",
-          "address": "17 WOODLANDS DRIVE 17 #01-03 WOODLANDS HEALTH CAMPUS 737628",
-          "type": "Restaurant",
-          "number": "EERT26020000012",
-          "scheme": "Eating Establishment",
-          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-          "postal": "737628"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Srisun Express",
-          "address": "SINGAPORE HERITAGE FEST 2026, 1 EMPRESS PLACE ASIAN CIVILISATIONS MUSEUM, 5 179555",
-          "type": "Short Term Stall(Bazaar/Road Shows)",
-          "number": "EEST26040000072",
-          "scheme": "Eating Establishment",
-          "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
-          "postal": "179555"
         }
       ],
       "updated": []
