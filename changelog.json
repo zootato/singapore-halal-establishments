@@ -1,5 +1,132 @@
 [
   {
+    "timestamp": "2026-07-06T23:22:04.912662",
+    "date": "2026-07-06",
+    "summary": {
+      "new": 8,
+      "removed": 2,
+      "updated": 1
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Korean Cuisine (S2) @ Big Appetite Funan",
+          "address": "107 NORTH BRIDGE ROAD #B2-24 FUNAN, Stall 2 179105",
+          "type": "Hawker",
+          "number": "EEHK20240000276",
+          "scheme": "Eating Establishment",
+          "id": "e8aaa136-1cbe-45c3-9ae9-864f3dde676c",
+          "postal": "179105"
+        },
+        {
+          "name": "S. Bistari Changi Village Ayam Penyet (S5)@Swee Sian Yuen E.H",
+          "address": "101 YISHUN AVENUE 5 #01-03, Stall 5 760101",
+          "type": "Hawker",
+          "number": "EEHN22020013194",
+          "scheme": "Eating Establishment",
+          "id": "02bc8d44-b3b5-46e6-8b73-d8ba83a3881f",
+          "postal": "760101"
+        },
+        {
+          "name": "ISLAMIC RESTAURANT",
+          "address": "735 NORTH BRIDGE ROAD 01-01, 02-01 198703",
+          "type": "Restaurant",
+          "number": "EERT26050000069",
+          "scheme": "Eating Establishment",
+          "id": "5c0567ea-daf3-45fd-8d8d-3e7c079933a1",
+          "postal": "198703"
+        },
+        {
+          "name": "Japanese/Korean",
+          "address": "10 HOSPITAL BOULEVARD #02-03 KOUFU OUTRAM COMMUNITY HOSPITAL, Stall 3 168582",
+          "type": "Hawker",
+          "number": "EEHK26070000018",
+          "scheme": "Eating Establishment",
+          "id": "3adf643d-38f0-4551-b84c-e25287c142c4",
+          "postal": "168582"
+        },
+        {
+          "name": "Emogi Yong Tao Foo",
+          "address": "548 WOODLANDS DRIVE 44 #01-21 Kopitiam Corner Vista Point, MR 2 730548",
+          "type": "Hawker",
+          "number": "EEHK25100000001",
+          "scheme": "Eating Establishment",
+          "id": "f2dfe035-107f-4667-a653-6556dc4be2e6",
+          "postal": "730548"
+        },
+        {
+          "name": "Sri Bistari Seafood (S1) @ SSDC Food Hub",
+          "address": "2 WOODLANDS INDUSTRIAL PARK E4 #01-00, Stall 1 757387",
+          "type": "Hawker",
+          "number": "EEHK20230001293",
+          "scheme": "Eating Establishment",
+          "id": "3607c36d-40c4-4550-96f4-d4bde8bcf325",
+          "postal": "757387"
+        },
+        {
+          "name": "Emogi Japanese & Korean Cuisine",
+          "address": "1 JURONG EAST STREET 21 Stall 3, Fork & Spoon @ Ng Teng Fong General Hospital #02-01A/B JURONG COMMUNITY HOSPITAL 609606",
+          "type": "Hawker",
+          "number": "EEHK25120000001",
+          "scheme": "Eating Establishment",
+          "id": "de9f6984-02bd-42db-bd53-629090a2253c",
+          "postal": "609606"
+        },
+        {
+          "name": "Hot & Cold Drink stall (S6) @ SSDC Food Hub",
+          "address": "2 WOODLANDS INDUSTRIAL PARK E4 #01-00, Stall 6 757387",
+          "type": "Hawker",
+          "number": "EEHK20230001294",
+          "scheme": "Eating Establishment",
+          "id": "37a57b69-eb31-44ce-b304-611a6db94a39",
+          "postal": "757387"
+        }
+      ],
+      "removed": [
+        {
+          "name": "QI JI",
+          "address": "107 NORTH BRIDGE ROAD #B2-12 FUNAN 179105",
+          "type": "Restaurant",
+          "number": "EERN21050012345",
+          "scheme": "Eating Establishment",
+          "id": "01cd5d67-3096-4ef7-bc6a-394a937ea753",
+          "postal": "179105"
+        },
+        {
+          "name": "WOK HEY",
+          "address": "53 ANG MO KIO AVENUE 3 #01-36 AMK HUB, (PART OF) LEFT UNIT 569933",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20090011420",
+          "scheme": "Eating Establishment",
+          "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+          "postal": "569933"
+        }
+      ],
+      "updated": [
+        {
+          "previous": {
+            "name": "Roost",
+            "address": "42 IMBIAH ROAD #01-K1 099701",
+            "type": "Restaurant",
+            "number": "EERT20250000823",
+            "scheme": "Eating Establishment",
+            "id": "5965b877-26d4-4e8e-9076-d0dbf88530c4",
+            "postal": "099701"
+          },
+          "current": {
+            "name": "Easy Gourmet",
+            "address": "42 IMBIAH ROAD #01-K1 099701",
+            "type": "Restaurant",
+            "number": "EERT20250000823",
+            "scheme": "Eating Establishment",
+            "id": "5965b877-26d4-4e8e-9076-d0dbf88530c4",
+            "postal": "099701"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-07-05T23:15:01.004126",
     "date": "2026-07-05",
     "summary": {
@@ -8943,94 +9070,6 @@
           "scheme": "Eating Establishment",
           "id": "6aa0197a-5a40-4f4c-81b5-4d05fe5602a9",
           "postal": "737628"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-05-04T22:35:15.214566",
-    "date": "2026-05-04",
-    "summary": {
-      "new": 7,
-      "removed": 1,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "EZB Pte Ltd",
-          "address": "105 SIMS AVENUE #10-04 CHANCERLODGE COMPLEX 387429",
-          "type": "Catering Company",
-          "number": "FPCA26050000001",
-          "scheme": "Food Preparation Area",
-          "id": "2456e221-1248-44fa-a8f9-cce2ed0721c8",
-          "postal": "387429"
-        },
-        {
-          "name": "Staff Tuckshop",
-          "address": "9 LOWER KENT RIDGE ROAD #01-01 NATIONAL UNIVERSITY CENTRE FOR ORAL HEALTH 119085",
-          "type": "Restaurant",
-          "number": "EERT20230000352",
-          "scheme": "Eating Establishment",
-          "id": "6afa9898-6953-4fa3-9d73-b57cf01ccbda",
-          "postal": "119085"
-        },
-        {
-          "name": "L & M Seafood",
-          "address": "630A WOODLANDS RING ROAD #01-01, Stall No 3@S11 731630",
-          "type": "Hawker",
-          "number": "EEHK26040000076",
-          "scheme": "Eating Establishment",
-          "id": "a270c4f1-833f-4f1b-9f64-fad74f459d26",
-          "postal": "731630"
-        },
-        {
-          "name": "WATAA BAKERY",
-          "address": "19 MARSILING LANE #01-299, Left part of 730019",
-          "type": "Central Kitchen",
-          "number": "FPCK20230000948",
-          "scheme": "Food Preparation Area",
-          "id": "4b2a42b1-eeec-440e-a47c-4f5236a0885d",
-          "postal": "730019"
-        },
-        {
-          "name": "WATAA BAKERY",
-          "address": "303 WOODLANDS STREET 31 #01-199, part of left 730303",
-          "type": "Snack Bar / Bakery",
-          "number": "EEBX22030013164",
-          "scheme": "Eating Establishment",
-          "id": "4b2a42b1-eeec-440e-a47c-4f5236a0885d",
-          "postal": "730303"
-        },
-        {
-          "name": "WATAA BAKERY",
-          "address": "19 MARSILING LANE #01-299, Left part of 730019",
-          "type": "Snack Bar / Bakery",
-          "number": "EEBX22030013163",
-          "scheme": "Eating Establishment",
-          "id": "4b2a42b1-eeec-440e-a47c-4f5236a0885d",
-          "postal": "730019"
-        },
-        {
-          "name": "WATAA BAKERY",
-          "address": "826 TAMPINES STREET 81 #01-98 TAMPINES GROVE 520826",
-          "type": "Snack Bar / Bakery",
-          "number": "EEBX22030013165",
-          "scheme": "Eating Establishment",
-          "id": "4b2a42b1-eeec-440e-a47c-4f5236a0885d",
-          "postal": "520826"
-        }
-      ],
-      "removed": [
-        {
-          "name": "WOK HEY",
-          "address": "1 TAMPINES WALK #01-82A OUR TAMPINES HUB 528523",
-          "type": "Snack Bar / Bakery",
-          "number": "EEBN22020013109",
-          "scheme": "Eating Establishment",
-          "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
-          "postal": "528523"
         }
       ],
       "updated": []

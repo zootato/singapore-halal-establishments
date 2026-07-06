@@ -8829,6 +8829,15 @@
     "postal": "618823"
   },
   {
+    "name": "Easy Gourmet",
+    "address": "42 IMBIAH ROAD #01-K1 099701",
+    "type": "Restaurant",
+    "number": "EERT20250000823",
+    "scheme": "Eating Establishment",
+    "id": "5965b877-26d4-4e8e-9076-d0dbf88530c4",
+    "postal": "099701"
+  },
+  {
     "name": "Eat Taste Enterprise Pte Ltd",
     "address": "8A ADMIRALTY STREET #02-37 FOOD XCHANGE @ ADMIRALTY 757437",
     "type": "Central Kitchen",
@@ -9025,6 +9034,24 @@
     "scheme": "Food Preparation Area",
     "id": "309bfbd8-4591-4539-9659-cd1b914d8b6f",
     "postal": "618780"
+  },
+  {
+    "name": "Emogi Japanese & Korean Cuisine",
+    "address": "1 JURONG EAST STREET 21 Stall 3, Fork & Spoon @ Ng Teng Fong General Hospital #02-01A/B JURONG COMMUNITY HOSPITAL 609606",
+    "type": "Hawker",
+    "number": "EEHK25120000001",
+    "scheme": "Eating Establishment",
+    "id": "de9f6984-02bd-42db-bd53-629090a2253c",
+    "postal": "609606"
+  },
+  {
+    "name": "Emogi Yong Tao Foo",
+    "address": "548 WOODLANDS DRIVE 44 #01-21 Kopitiam Corner Vista Point, MR 2 730548",
+    "type": "Hawker",
+    "number": "EEHK25100000001",
+    "scheme": "Eating Establishment",
+    "id": "f2dfe035-107f-4667-a653-6556dc4be2e6",
+    "postal": "730548"
   },
   {
     "name": "ENAKSEDAP F&B PTE. LTD.",
@@ -12537,6 +12564,15 @@
     "postal": "217562"
   },
   {
+    "name": "Hot & Cold Drink stall (S6) @ SSDC Food Hub",
+    "address": "2 WOODLANDS INDUSTRIAL PARK E4 #01-00, Stall 6 757387",
+    "type": "Hawker",
+    "number": "EEHK20230001294",
+    "scheme": "Eating Establishment",
+    "id": "37a57b69-eb31-44ce-b304-611a6db94a39",
+    "postal": "757387"
+  },
+  {
     "name": "Hot / Cold Kitchen @ dnata Singapore Pte Ltd",
     "address": "50 AIRPORT BOULEVARD, Hot/Cold Kitchen 819658",
     "type": "Central Kitchen",
@@ -13194,6 +13230,15 @@
     "postal": "048582"
   },
   {
+    "name": "ISLAMIC RESTAURANT",
+    "address": "735 NORTH BRIDGE ROAD 01-01, 02-01 198703",
+    "type": "Restaurant",
+    "number": "EERT26050000069",
+    "scheme": "Eating Establishment",
+    "id": "5c0567ea-daf3-45fd-8d8d-3e7c079933a1",
+    "postal": "198703"
+  },
+  {
     "name": "ISLAND CATERING SERVICES PTE. LTD.",
     "address": "1 KAKI BUKIT ROAD 1 #05-26 ENTERPRISE ONE 415934",
     "type": "Catering Company",
@@ -13336,6 +13381,15 @@
     "scheme": "Eating Establishment",
     "id": "2e910266-7542-4d4d-84a0-a10b7cc015eb",
     "postal": "039594"
+  },
+  {
+    "name": "Japanese/Korean",
+    "address": "10 HOSPITAL BOULEVARD #02-03 KOUFU OUTRAM COMMUNITY HOSPITAL, Stall 3 168582",
+    "type": "Hawker",
+    "number": "EEHK26070000018",
+    "scheme": "Eating Establishment",
+    "id": "3adf643d-38f0-4551-b84c-e25287c142c4",
+    "postal": "168582"
   },
   {
     "name": "Jason Niang Dou Fu",
@@ -15703,6 +15757,15 @@
     "scheme": "Eating Establishment",
     "id": "314ec35b-5088-439f-a8f4-b0447e2d238a",
     "postal": "730768"
+  },
+  {
+    "name": "Korean Cuisine (S2) @ Big Appetite Funan",
+    "address": "107 NORTH BRIDGE ROAD #B2-24 FUNAN, Stall 2 179105",
+    "type": "Hawker",
+    "number": "EEHK20240000276",
+    "scheme": "Eating Establishment",
+    "id": "e8aaa136-1cbe-45c3-9ae9-864f3dde676c",
+    "postal": "179105"
   },
   {
     "name": "Korean Cuisine (S6) @ Cantine Northpoint City",
@@ -24337,24 +24400,6 @@
   },
   {
     "name": "POLAR PUFFS & CAKES",
-    "address": "1 WOODLANDS SQUARE #B1-K07 CAUSEWAY POINT 738099",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBX20040011257",
-    "scheme": "Eating Establishment",
-    "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
-    "postal": "738099"
-  },
-  {
-    "name": "POLAR PUFFS & CAKES",
-    "address": "15 Woodlands Link 738726",
-    "type": "Central Kitchen",
-    "number": "FPCN20040001359",
-    "scheme": "Food Preparation Area",
-    "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
-    "postal": "738726"
-  },
-  {
-    "name": "POLAR PUFFS & CAKES",
     "address": "23 SERANGOON CENTRAL #03-K3/K4 NEX 556083",
     "type": "Snack Bar / Bakery",
     "number": "EEBN20030010669",
@@ -24508,6 +24553,15 @@
   },
   {
     "name": "POLAR PUFFS & CAKES",
+    "address": "1 WOODLANDS SQUARE #B1-K07 CAUSEWAY POINT 738099",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBX20040011257",
+    "scheme": "Eating Establishment",
+    "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+    "postal": "738099"
+  },
+  {
+    "name": "POLAR PUFFS & CAKES",
     "address": "802 BUKIT BATOK WEST AVENUE 5 #01-05 BUKIT GOMBAK MRT STATION 659083",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000681",
@@ -24568,6 +24622,15 @@
     "scheme": "Eating Establishment",
     "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
     "postal": "208699"
+  },
+  {
+    "name": "POLAR PUFFS & CAKES",
+    "address": "15 Woodlands Link 738726",
+    "type": "Central Kitchen",
+    "number": "FPCN20040001359",
+    "scheme": "Food Preparation Area",
+    "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+    "postal": "738726"
   },
   {
     "name": "Polar Puffs & Cakes",
@@ -25290,15 +25353,6 @@
     "postal": "768019"
   },
   {
-    "name": "QI JI",
-    "address": "107 NORTH BRIDGE ROAD #B2-12 FUNAN 179105",
-    "type": "Restaurant",
-    "number": "EERN21050012345",
-    "scheme": "Eating Establishment",
-    "id": "01cd5d67-3096-4ef7-bc6a-394a937ea753",
-    "postal": "179105"
-  },
-  {
     "name": "QUAN FENG FOOD SUPPLY PTE. LTD.",
     "address": "3017 BEDOK NORTH STREET 5 #04-28 GOURMET EAST KITCHEN 486121",
     "type": "Catering Company",
@@ -25795,15 +25849,6 @@
   },
   {
     "name": "Roost",
-    "address": "42 IMBIAH ROAD #01-K1 099701",
-    "type": "Restaurant",
-    "number": "EERT20250000823",
-    "scheme": "Eating Establishment",
-    "id": "5965b877-26d4-4e8e-9076-d0dbf88530c4",
-    "postal": "099701"
-  },
-  {
-    "name": "Roost",
     "address": "65 AIRPORT BOULEVARD #B2-34 CHANGI AIRPORT TERMINAL 3 BUILDING 819663",
     "type": "Restaurant",
     "number": "EERT20250000824",
@@ -25840,15 +25885,6 @@
   },
   {
     "name": "ROTIKEK",
-    "address": "1 WOODLANDS ROAD #01-20 JUNCTION 10 677899",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN21050012330",
-    "scheme": "Eating Establishment",
-    "id": "07605b17-1023-441c-9d39-32c0daf78246",
-    "postal": "677899"
-  },
-  {
-    "name": "ROTIKEK",
     "address": "354 CLEMENTI AVENUE 2 STALL 9, CHANG CHENG MEE WAH.WUFU #01-157 CLEMENTI AVENUE 2 SHOPPING CENTRE 120354",
     "type": "Hawker",
     "number": "EEHK26010000082",
@@ -25864,6 +25900,15 @@
     "scheme": "Eating Establishment",
     "id": "42d34450-5869-4fe6-94cb-107c37145b50",
     "postal": "470632"
+  },
+  {
+    "name": "ROTIKEK",
+    "address": "1 WOODLANDS ROAD #01-20 JUNCTION 10 677899",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN21050012330",
+    "scheme": "Eating Establishment",
+    "id": "07605b17-1023-441c-9d39-32c0daf78246",
+    "postal": "677899"
   },
   {
     "name": "ROTIKEK",
@@ -25945,6 +25990,15 @@
     "scheme": "Eating Establishment",
     "id": "170bda55-0f2f-44c3-bf65-a158370b71e8",
     "postal": "608549"
+  },
+  {
+    "name": "S. Bistari Changi Village Ayam Penyet (S5)@Swee Sian Yuen E.H",
+    "address": "101 YISHUN AVENUE 5 #01-03, Stall 5 760101",
+    "type": "Hawker",
+    "number": "EEHN22020013194",
+    "scheme": "Eating Establishment",
+    "id": "02bc8d44-b3b5-46e6-8b73-d8ba83a3881f",
+    "postal": "760101"
   },
   {
     "name": "SAAP SAAP THAI",
@@ -28042,6 +28096,15 @@
     "scheme": "Eating Establishment",
     "id": "97aab0ac-414e-458a-9758-d335f07b1e6b",
     "postal": "128020"
+  },
+  {
+    "name": "Sri Bistari Seafood (S1) @ SSDC Food Hub",
+    "address": "2 WOODLANDS INDUSTRIAL PARK E4 #01-00, Stall 1 757387",
+    "type": "Hawker",
+    "number": "EEHK20230001293",
+    "scheme": "Eating Establishment",
+    "id": "3607c36d-40c4-4550-96f4-d4bde8bcf325",
+    "postal": "757387"
   },
   {
     "name": "Staff Cafeteria @ Chevron (mngd by PRO*3 Institutional Catering)",
@@ -35827,15 +35890,6 @@
     "scheme": "Eating Establishment",
     "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
     "postal": "757713"
-  },
-  {
-    "name": "WOK HEY",
-    "address": "53 ANG MO KIO AVENUE 3 #01-36 AMK HUB, (PART OF) LEFT UNIT 569933",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN20090011420",
-    "scheme": "Eating Establishment",
-    "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
-    "postal": "569933"
   },
   {
     "name": "WOK HEY",
