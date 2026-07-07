@@ -5679,6 +5679,15 @@
     "postal": "670547"
   },
   {
+    "name": "CHEF IBU",
+    "address": "70 JELLICOE ROAD #01-11 V HOTEL 208767",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN21050012279",
+    "scheme": "Eating Establishment",
+    "id": "3371c597-0520-45fe-8482-1682eda55224",
+    "postal": "208767"
+  },
+  {
     "name": "Chef Leslie Western Cuisine (MR3) @ Kopitiam Northpoint City",
     "address": "930 YISHUN AVENUE 2 #B2-12, MR2 769098",
     "type": "Hawker",
@@ -11287,15 +11296,6 @@
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
-    "address": "524A JELAPANG ROAD #03-13 GREENRIDGE SHOPPING CENTRE 671524",
-    "type": "Halal Section",
-    "number": "EEHS20250000111",
-    "scheme": "Eating Establishment",
-    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
-    "postal": "671524"
-  },
-  {
-    "name": "Halal Section @ NTUC FAIRPRICE",
     "address": "23 Serangoon Central #03-42 Nex Mall 556083",
     "type": "Halal Section",
     "number": "EECN21070000454",
@@ -11482,6 +11482,15 @@
     "scheme": "Food Preparation Area",
     "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
     "postal": "150166"
+  },
+  {
+    "name": "Halal Section @ NTUC FAIRPRICE",
+    "address": "524A JELAPANG ROAD #03-13 GREENRIDGE SHOPPING CENTRE 671524",
+    "type": "Halal Section",
+    "number": "EEHS20250000111",
+    "scheme": "Eating Establishment",
+    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
+    "postal": "671524"
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
