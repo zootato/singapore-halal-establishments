@@ -19134,24 +19134,6 @@
     "postal": "510442"
   },
   {
-    "name": "Milan Shokudo",
-    "address": "1 SENGKANG SQUARE #02-39 COMPASS ONE 545078",
-    "type": "Restaurant",
-    "number": "EERT20240000515",
-    "scheme": "Eating Establishment",
-    "id": "854a8501-0a00-4df3-a9ff-7c928fc3ade2",
-    "postal": "545078"
-  },
-  {
-    "name": "Milan Shokudo",
-    "address": "9 BISHAN PLACE #02-34/35/35A JUNCTION 8 579837",
-    "type": "Restaurant",
-    "number": "EERT20230001051",
-    "scheme": "Eating Establishment",
-    "id": "854a8501-0a00-4df3-a9ff-7c928fc3ade2",
-    "postal": "579837"
-  },
-  {
     "name": "Ming Yen BBQ & Seafood (S67 & S68) @ Kopitiam Lau Pa Sat",
     "address": "18 RAFFLES QUAY LAU PA SAT FESTIVAL MARKET, Stall 67 & Stall 68 048582",
     "type": "Hawker",
@@ -31599,6 +31581,33 @@
     "postal": "218365"
   },
   {
+    "name": "TASTE OF INDONESIA",
+    "address": "60 PAYA LEBAR ROAD #B1-29/30/31 PAYA LEBAR SQUARE 409051",
+    "type": "Restaurant",
+    "number": "EERT20220000519",
+    "scheme": "Eating Establishment",
+    "id": "c0371ec6-358d-428b-ad8f-762c01f88af3",
+    "postal": "409051"
+  },
+  {
+    "name": "TASTE OF INDONESIA EXPRESS",
+    "address": "1 TAMPINES WALK #B1-K4 OUR TAMPINES HUB 528523",
+    "type": "Restaurant",
+    "number": "EERT26060000025",
+    "scheme": "Eating Establishment",
+    "id": "2e83be17-2d14-440a-9f79-7847e26d9ec1",
+    "postal": "528523"
+  },
+  {
+    "name": "TASTE OF INDONESIA EXPRESS",
+    "address": "1 JELEBU ROAD #01-42 BUKIT PANJANG PLAZA 677743",
+    "type": "Restaurant",
+    "number": "EERT26060000029",
+    "scheme": "Eating Establishment",
+    "id": "2e83be17-2d14-440a-9f79-7847e26d9ec1",
+    "postal": "677743"
+  },
+  {
     "name": "Tasty Wok",
     "address": "71 PASIR RIS DRIVE 3 PASIR RIS INTEGRATED TRANSPORT HUB NTWU CANTEEN, Stall 3 519872",
     "type": "Hawker",
@@ -32026,15 +32035,6 @@
     "address": "118 RIVERVALE DRIVE #01-K18/k19 Rivervale Plaza 540118",
     "type": "Restaurant",
     "number": "EERN21060012467",
-    "scheme": "Eating Establishment",
-    "id": "fa23a2c4-12e6-4c0a-aa89-d3552d6d92cb",
-    "postal": "540118"
-  },
-  {
-    "name": "TENDERFRESH XPRESS",
-    "address": "118 RIVERVALE DRIVE #01-K18/k19 Rivervale Plaza 540118",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB26040000057",
     "scheme": "Eating Establishment",
     "id": "fa23a2c4-12e6-4c0a-aa89-d3552d6d92cb",
     "postal": "540118"
@@ -33991,15 +33991,6 @@
     "scheme": "Eating Establishment",
     "id": "3e75f97a-1f6a-4795-ba6e-a2ba7adf2128",
     "postal": "689812"
-  },
-  {
-    "name": "TOKYO SHOKUDO",
-    "address": "70 COMPASSVALE BOW #01-38/39 544692",
-    "type": "Restaurant",
-    "number": "EERT20230000313",
-    "scheme": "Eating Establishment",
-    "id": "3e75f97a-1f6a-4795-ba6e-a2ba7adf2128",
-    "postal": "544692"
   },
   {
     "name": "TOKYO SHOKUDO BISTRO",
