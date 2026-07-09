@@ -5805,6 +5805,15 @@
     "postal": "738099"
   },
   {
+    "name": "Chicken Ka Kee",
+    "address": "83 PUNGGOL CENTRAL #01-29 WATERWAY POINT 828761",
+    "type": "Restaurant",
+    "number": "EERT26070000023",
+    "scheme": "Eating Establishment",
+    "id": "9908a17f-6e52-4e6d-bc05-76b6b53fe2cf",
+    "postal": "828761"
+  },
+  {
     "name": "Chicken Rice",
     "address": "348 YISHUN AVENUE 11 Stall 2 @ Rasa Rasa Yishun #01-04 ADORA GREEN 760348",
     "type": "Hawker",
@@ -5893,6 +5902,24 @@
     "scheme": "Eating Establishment",
     "id": "b2c554a6-3fc8-4bfc-863a-5abdd7724483",
     "postal": "500005"
+  },
+  {
+    "name": "Chicken Rice (S3) @ Fork & Spoon Toa Payoh",
+    "address": "470 LORONG 6 TOA PAYOH #02-70 HDB HUB, Stall 3, Fork & Spoon 310470",
+    "type": "Hawker",
+    "number": "EEHN21120013035",
+    "scheme": "Eating Establishment",
+    "id": "b1e44b50-559c-4913-9d61-ac4c71aefd95",
+    "postal": "310470"
+  },
+  {
+    "name": "Chicken Rice (S3) @ Koufu Buangkok Link",
+    "address": "991 BUANGKOK LINK #02-21, Stall 3 530991",
+    "type": "Hawker",
+    "number": "EEHN21080012642",
+    "scheme": "Eating Establishment",
+    "id": "c416dc91-1a65-4cd7-9e33-8012da022aa2",
+    "postal": "530991"
   },
   {
     "name": "Chicken Rice (S3) @ Quad Cafe",
@@ -7162,15 +7189,6 @@
     "scheme": "Eating Establishment",
     "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
     "postal": "828761"
-  },
-  {
-    "name": "CRAVE",
-    "address": "1 LOWER KENT RIDGE ROAD #01-09/19/20 ONE @ KENTRIDGE 119082",
-    "type": "Restaurant",
-    "number": "EERN21050012353",
-    "scheme": "Eating Establishment",
-    "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
-    "postal": "119082"
   },
   {
     "name": "Cravy For Crispy Chicken",
@@ -13608,6 +13626,15 @@
     "postal": "310051"
   },
   {
+    "name": "JM x Krave",
+    "address": "2 PAYA LEBAR ROAD #01-10 PARK PLACE RESIDENCES AT PLQ 409053",
+    "type": "Restaurant",
+    "number": "EERT26070000021",
+    "scheme": "Eating Establishment",
+    "id": "69318299-8d68-4dc9-a34b-062ced2414ad",
+    "postal": "409053"
+  },
+  {
     "name": "Jollibee",
     "address": "30 Woodlands Avenue 2 #01-19/20/21/24/25 Woodlands MRT Station 738343",
     "type": "Restaurant",
@@ -18190,15 +18217,6 @@
   },
   {
     "name": "McDonald's",
-    "address": "180 KITCHENER ROAD #01-19/20-23 CITY SQUARE MALL 208539",
-    "type": "Restaurant",
-    "number": "EERT20240000910",
-    "scheme": "Eating Establishment",
-    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-    "postal": "208539"
-  },
-  {
-    "name": "McDonald's",
     "address": "11 BIDADARI PARK DRIVE #B1-11/12 THE WOODLEIGH MALL 367803",
     "type": "Restaurant",
     "number": "EERT20230000678",
@@ -18475,6 +18493,15 @@
     "scheme": "Eating Establishment",
     "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
     "postal": "819643"
+  },
+  {
+    "name": "McDonald's",
+    "address": "180 KITCHENER ROAD #01-19/20-23 CITY SQUARE MALL 208539",
+    "type": "Restaurant",
+    "number": "EERT20240000910",
+    "scheme": "Eating Establishment",
+    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+    "postal": "208539"
   },
   {
     "name": "McDonald's",
@@ -27153,6 +27180,24 @@
     "postal": "228677"
   },
   {
+    "name": "Selesa Enak Chicken Rice",
+    "address": "70 STAMFORD ROAD #B1-26-28 KOUFU SINGAPORE MANAGEMENT UNIVERSITY, MR3 178901",
+    "type": "Hawker",
+    "number": "EEHK26070000026",
+    "scheme": "Eating Establishment",
+    "id": "628579e6-987f-409f-bf23-c573304c1cea",
+    "postal": "178901"
+  },
+  {
+    "name": "Selesa Enak Chicken Rice",
+    "address": "21 TAMPINES NORTH DRIVE 2 #03-00 MR1 KOUFU @ GIANT TAMPINES 528765",
+    "type": "Hawker",
+    "number": "EEHK26070000025",
+    "scheme": "Eating Establishment",
+    "id": "5739622a-8892-4b96-b914-940ac630286a",
+    "postal": "528765"
+  },
+  {
     "name": "SEMBAWANG EATING HOUSE (SEAFOOD RESTAURANT) PTE. LTD.",
     "address": "510 UPPER JURONG ROAD #01-06-08 SINGAPORE DISCOVERY CENTRE 638365",
     "type": "Catering Company",
@@ -27880,15 +27925,6 @@
     "scheme": "Eating Establishment",
     "id": "d2bdf387-5391-4527-81f8-0e63665cf874",
     "postal": "307591"
-  },
-  {
-    "name": "Soso Hainanese Chicken Rice",
-    "address": "1 MARITIME SQUARE #01-103/104/105/106/107/108 HARBOURFRONT CENTRE, Stall 04, Boleh Boleh! 099253",
-    "type": "Hawker",
-    "number": "EEHK26040000030",
-    "scheme": "Eating Establishment",
-    "id": "8dd7f718-761b-454e-86fb-ffc09009fc2d",
-    "postal": "099253"
   },
   {
     "name": "SOYO-SOYO (JAPANESE CASUAL DINING)",
@@ -29215,15 +29251,6 @@
   },
   {
     "name": "SUBWAY",
-    "address": "1 JOO KOON CIRCLE #01-52PT/58 FAIRPRICE HUB 629117",
-    "type": "Restaurant",
-    "number": "EERT20240001152",
-    "scheme": "Eating Establishment",
-    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-    "postal": "629117"
-  },
-  {
-    "name": "SUBWAY",
     "address": "30 Tai Seng Street #02-02 BreadTalk IHQ 534013",
     "type": "Restaurant",
     "number": "EERN21110013147",
@@ -29554,6 +29581,15 @@
     "scheme": "Eating Establishment",
     "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
     "postal": "569933"
+  },
+  {
+    "name": "SUBWAY",
+    "address": "1 JOO KOON CIRCLE #01-52PT/58 FAIRPRICE HUB 629117",
+    "type": "Restaurant",
+    "number": "EERT20240001152",
+    "scheme": "Eating Establishment",
+    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+    "postal": "629117"
   },
   {
     "name": "SUBWAY",
@@ -32320,15 +32356,6 @@
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "5 LOWER KENT RIDGE ROAD #01-10 NATIONAL UNIVERSITY HOSPITAL MAIN BLDG (LOBBY) 119074",
-    "type": "Restaurant",
-    "number": "EERN21120013270",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "119074"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
     "address": "10 ANSON ROAD #01-32 INTERNATIONAL PLAZA 079903",
     "type": "Restaurant",
     "number": "EERN21120013265",
@@ -32614,6 +32641,15 @@
     "scheme": "Eating Establishment",
     "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
     "postal": "486038"
+  },
+  {
+    "name": "THE COFFEE BEAN & TEA LEAF",
+    "address": "5 LOWER KENT RIDGE ROAD #01-10 NATIONAL UNIVERSITY HOSPITAL MAIN BLDG (LOBBY) 119074",
+    "type": "Restaurant",
+    "number": "EERN21120013270",
+    "scheme": "Eating Establishment",
+    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+    "postal": "119074"
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",

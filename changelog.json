@@ -1,5 +1,93 @@
 [
   {
+    "timestamp": "2026-07-09T23:26:57.113221",
+    "date": "2026-07-09",
+    "summary": {
+      "new": 6,
+      "removed": 2,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Chicken Rice (S3) @ Koufu Buangkok Link",
+          "address": "991 BUANGKOK LINK #02-21, Stall 3 530991",
+          "type": "Hawker",
+          "number": "EEHN21080012642",
+          "scheme": "Eating Establishment",
+          "id": "c416dc91-1a65-4cd7-9e33-8012da022aa2",
+          "postal": "530991"
+        },
+        {
+          "name": "Selesa Enak Chicken Rice",
+          "address": "21 TAMPINES NORTH DRIVE 2 #03-00 MR1 KOUFU @ GIANT TAMPINES 528765",
+          "type": "Hawker",
+          "number": "EEHK26070000025",
+          "scheme": "Eating Establishment",
+          "id": "5739622a-8892-4b96-b914-940ac630286a",
+          "postal": "528765"
+        },
+        {
+          "name": "Selesa Enak Chicken Rice",
+          "address": "70 STAMFORD ROAD #B1-26-28 KOUFU SINGAPORE MANAGEMENT UNIVERSITY, MR3 178901",
+          "type": "Hawker",
+          "number": "EEHK26070000026",
+          "scheme": "Eating Establishment",
+          "id": "628579e6-987f-409f-bf23-c573304c1cea",
+          "postal": "178901"
+        },
+        {
+          "name": "JM x Krave",
+          "address": "2 PAYA LEBAR ROAD #01-10 PARK PLACE RESIDENCES AT PLQ 409053",
+          "type": "Restaurant",
+          "number": "EERT26070000021",
+          "scheme": "Eating Establishment",
+          "id": "69318299-8d68-4dc9-a34b-062ced2414ad",
+          "postal": "409053"
+        },
+        {
+          "name": "Chicken Rice (S3) @ Fork & Spoon Toa Payoh",
+          "address": "470 LORONG 6 TOA PAYOH #02-70 HDB HUB, Stall 3, Fork & Spoon 310470",
+          "type": "Hawker",
+          "number": "EEHN21120013035",
+          "scheme": "Eating Establishment",
+          "id": "b1e44b50-559c-4913-9d61-ac4c71aefd95",
+          "postal": "310470"
+        },
+        {
+          "name": "Chicken Ka Kee",
+          "address": "83 PUNGGOL CENTRAL #01-29 WATERWAY POINT 828761",
+          "type": "Restaurant",
+          "number": "EERT26070000023",
+          "scheme": "Eating Establishment",
+          "id": "9908a17f-6e52-4e6d-bc05-76b6b53fe2cf",
+          "postal": "828761"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Soso Hainanese Chicken Rice",
+          "address": "1 MARITIME SQUARE #01-103/104/105/106/107/108 HARBOURFRONT CENTRE, Stall 04, Boleh Boleh! 099253",
+          "type": "Hawker",
+          "number": "EEHK26040000030",
+          "scheme": "Eating Establishment",
+          "id": "8dd7f718-761b-454e-86fb-ffc09009fc2d",
+          "postal": "099253"
+        },
+        {
+          "name": "CRAVE",
+          "address": "1 LOWER KENT RIDGE ROAD #01-09/19/20 ONE @ KENTRIDGE 119082",
+          "type": "Restaurant",
+          "number": "EERN21050012353",
+          "scheme": "Eating Establishment",
+          "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
+          "postal": "119082"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-07-08T23:22:56.490577",
     "date": "2026-07-08",
     "summary": {
@@ -8832,30 +8920,6 @@
           "postal": "128355"
         }
       ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-05-07T22:35:49.507006",
-    "date": "2026-05-07",
-    "summary": {
-      "new": 1,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Al Madina Prata Corner",
-          "address": "155 BUKIT BATOK STREET 11 #01-324, Stall 12 650155",
-          "type": "Hawker",
-          "number": "EEHN22010013071",
-          "scheme": "Eating Establishment",
-          "id": "18ce2f76-9e97-448b-a1a1-362b68565920",
-          "postal": "650155"
-        }
-      ],
-      "removed": [],
       "updated": []
     }
   }
