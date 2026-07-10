@@ -1,5 +1,75 @@
 [
   {
+    "timestamp": "2026-07-10T23:11:31.380312",
+    "date": "2026-07-10",
+    "summary": {
+      "new": 5,
+      "removed": 1,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "WINGSTOP",
+          "address": "53 ANG MO KIO AVENUE 3 #01-04/05 AMK HUB 569933",
+          "type": "Restaurant",
+          "number": "EERT26070000038",
+          "scheme": "Eating Establishment",
+          "id": "5078bd18-9cd6-436e-8ff3-0f2e55f795dc",
+          "postal": "569933"
+        },
+        {
+          "name": "WINGSTOP",
+          "address": "4 TAMPINES CENTRAL 5 #04-23/24/25 TAMPINES MALL 529510",
+          "type": "Restaurant",
+          "number": "EERT26070000039",
+          "scheme": "Eating Establishment",
+          "id": "5078bd18-9cd6-436e-8ff3-0f2e55f795dc",
+          "postal": "529510"
+        },
+        {
+          "name": "ALL GOOD GOURMET",
+          "address": "23 SERANGOON CENTRAL #B2-49 NEX 556083",
+          "type": "Restaurant",
+          "number": "EERN21010011992",
+          "scheme": "Eating Establishment",
+          "id": "73d3b7e4-57ac-401d-93fc-eadb59302b5d",
+          "postal": "556083"
+        },
+        {
+          "name": "WINGSTOP",
+          "address": "11 BIDADARI PARK DRIVE #01-57 THE WOODLEIGH MALL 367803",
+          "type": "Restaurant",
+          "number": "EERT26070000037",
+          "scheme": "Eating Establishment",
+          "id": "5078bd18-9cd6-436e-8ff3-0f2e55f795dc",
+          "postal": "367803"
+        },
+        {
+          "name": "Modern Grill Seafood (S36) @ Newton Food Centre",
+          "address": "500 CLEMENCEAU AVENUE NORTH #01-36, Stall 36 229495",
+          "type": "Hawker",
+          "number": "EEHN21030012194",
+          "scheme": "Eating Establishment",
+          "id": "0dc08607-85f9-4347-bb00-98fc570c5a16",
+          "postal": "229495"
+        }
+      ],
+      "removed": [
+        {
+          "name": "OLD CHANG KEE",
+          "address": "1 MARITIME SQUARE #02-20B HARBOURFRONT CENTRE 099253",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000439",
+          "scheme": "Eating Establishment",
+          "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
+          "postal": "099253"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-07-09T23:26:57.113221",
     "date": "2026-07-09",
     "summary": {
@@ -8866,58 +8936,6 @@
           "scheme": "Eating Establishment",
           "id": "3cdc1589-a08d-43fc-a5cd-793d1ace3f28",
           "postal": "487370"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-05-08T22:34:12.287190",
-    "date": "2026-05-08",
-    "summary": {
-      "new": 2,
-      "removed": 2,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Western Cuisine (S9) @ South Foodcourt Republic Polytechnic",
-          "address": "31 WOODLANDS AVENUE 9 #01-01 REPUBLIC POLYTECHNIC, Stall 9 737907",
-          "type": "Hawker",
-          "number": "EEHX22020013167",
-          "scheme": "Eating Establishment",
-          "id": "4683bdc8-c17d-4dff-ba33-f6fb676afb3f",
-          "postal": "737907"
-        },
-        {
-          "name": "CATERSAGE",
-          "address": "1 EXPO DRIVE #01-06A SINGAPORE EXPO 486150",
-          "type": "Catering Company",
-          "number": "FPCA26050000004",
-          "scheme": "Food Preparation Area",
-          "id": "76d24203-ee02-415e-bf2b-1024cbad837c",
-          "postal": "486150"
-        }
-      ],
-      "removed": [
-        {
-          "name": "SWEE HENG 1989 CLASSIC",
-          "address": "11 BIDADARI PARK DRIVE #B1-K41 THE WOODLEIGH MALL 367803",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20230000797",
-          "scheme": "Eating Establishment",
-          "id": "92f90956-de91-43bc-915e-12b8de4ff829",
-          "postal": "367803"
-        },
-        {
-          "name": "RASEL CATERING SINGAPORE PTE. LTD.",
-          "address": "157 PANDAN LOOP 128355",
-          "type": "Catering Company",
-          "number": "FPCA20230000443",
-          "scheme": "Food Preparation Area",
-          "id": "ccbcda18-63ed-43d5-af63-b6e1d7d1fe78",
-          "postal": "128355"
         }
       ],
       "updated": []

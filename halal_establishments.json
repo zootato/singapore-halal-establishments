@@ -1197,6 +1197,15 @@
     "postal": "528881"
   },
   {
+    "name": "ALL GOOD GOURMET",
+    "address": "23 SERANGOON CENTRAL #B2-49 NEX 556083",
+    "type": "Restaurant",
+    "number": "EERN21010011992",
+    "scheme": "Eating Establishment",
+    "id": "73d3b7e4-57ac-401d-93fc-eadb59302b5d",
+    "postal": "556083"
+  },
+  {
     "name": "ALPINE SPRING CATERING PTE. LTD.",
     "address": "8A ADMIRALTY STREET #06-19 FOOD XCHANGE @ ADMIRALTY 757437",
     "type": "Catering Company",
@@ -19224,6 +19233,15 @@
     "postal": "533971"
   },
   {
+    "name": "Modern Grill Seafood (S36) @ Newton Food Centre",
+    "address": "500 CLEMENCEAU AVENUE NORTH #01-36, Stall 36 229495",
+    "type": "Hawker",
+    "number": "EEHN21030012194",
+    "scheme": "Eating Establishment",
+    "id": "0dc08607-85f9-4347-bb00-98fc570c5a16",
+    "postal": "229495"
+  },
+  {
     "name": "Moji Bakery",
     "address": "11 CANBERRA ROAD right part of #01-03 SEMBAWANG MRT STATION (NS11) 759775",
     "type": "Snack Bar / Bakery",
@@ -22015,15 +22033,6 @@
   },
   {
     "name": "OLD CHANG KEE",
-    "address": "1 MARITIME SQUARE #02-20B HARBOURFRONT CENTRE 099253",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20220000439",
-    "scheme": "Eating Establishment",
-    "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
-    "postal": "099253"
-  },
-  {
-    "name": "OLD CHANG KEE",
     "address": "1 PASIR RIS CENTRAL STREET 3 #01-42 WHITE SAND SHOPPING MALL 518457",
     "type": "Snack Bar / Bakery",
     "number": "EEBN20090011448",
@@ -23725,15 +23734,6 @@
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
-    "address": "3 YUAN CHING ROAD #01-03 JURONG LEISURE COMPLEX 618642",
-    "type": "Restaurant",
-    "number": "EERN21080012794",
-    "scheme": "Eating Establishment",
-    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
-    "postal": "618642"
-  },
-  {
-    "name": "PIZZA HUT SINGAPORE PTE LTD",
     "address": "1 SENGKANG SQUARE #B1-15 SENGKANG MALL (1SM) 545078",
     "type": "Restaurant",
     "number": "EERN21080012769",
@@ -23920,6 +23920,15 @@
     "scheme": "Eating Establishment",
     "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
     "postal": "677743"
+  },
+  {
+    "name": "PIZZA HUT SINGAPORE PTE LTD",
+    "address": "3 YUAN CHING ROAD #01-03 JURONG LEISURE COMPLEX 618642",
+    "type": "Restaurant",
+    "number": "EERN21080012794",
+    "scheme": "Eating Establishment",
+    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
+    "postal": "618642"
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
@@ -35755,6 +35764,33 @@
     "scheme": "Eating Establishment",
     "id": "5078bd18-9cd6-436e-8ff3-0f2e55f795dc",
     "postal": "469662"
+  },
+  {
+    "name": "WINGSTOP",
+    "address": "11 BIDADARI PARK DRIVE #01-57 THE WOODLEIGH MALL 367803",
+    "type": "Restaurant",
+    "number": "EERT26070000037",
+    "scheme": "Eating Establishment",
+    "id": "5078bd18-9cd6-436e-8ff3-0f2e55f795dc",
+    "postal": "367803"
+  },
+  {
+    "name": "WINGSTOP",
+    "address": "53 ANG MO KIO AVENUE 3 #01-04/05 AMK HUB 569933",
+    "type": "Restaurant",
+    "number": "EERT26070000038",
+    "scheme": "Eating Establishment",
+    "id": "5078bd18-9cd6-436e-8ff3-0f2e55f795dc",
+    "postal": "569933"
+  },
+  {
+    "name": "WINGSTOP",
+    "address": "4 TAMPINES CENTRAL 5 #04-23/24/25 TAMPINES MALL 529510",
+    "type": "Restaurant",
+    "number": "EERT26070000039",
+    "scheme": "Eating Establishment",
+    "id": "5078bd18-9cd6-436e-8ff3-0f2e55f795dc",
+    "postal": "529510"
   },
   {
     "name": "WINGSTOP",
