@@ -1,5 +1,29 @@
 [
   {
+    "timestamp": "2026-07-12T23:05:21.343402",
+    "date": "2026-07-12",
+    "summary": {
+      "new": 1,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Cakeglace.com",
+          "address": "20 CHAI CHEE ROAD #01-416 PING-AN GARDENS 461020",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000373",
+          "scheme": "Eating Establishment",
+          "id": "d0fbbfa0-c891-49bf-afb7-a78dd45d2942",
+          "postal": "461020"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-07-10T23:11:31.380312",
     "date": "2026-07-10",
     "summary": {
@@ -8895,49 +8919,6 @@
         }
       ],
       "removed": [],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-05-09T22:28:14.784564",
-    "date": "2026-05-09",
-    "summary": {
-      "new": 2,
-      "removed": 1,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "RASEL CATERING SINGAPORE PTE. LTD.",
-          "address": "157 PANDAN LOOP 128355",
-          "type": "Catering Company",
-          "number": "FPCA20230000443",
-          "scheme": "Food Preparation Area",
-          "id": "ccbcda18-63ed-43d5-af63-b6e1d7d1fe78",
-          "postal": "128355"
-        },
-        {
-          "name": "san.wich",
-          "address": "10 EUNOS ROAD 8 #B1-158 SINGAPORE POST CENTRE 408600",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20230000654",
-          "scheme": "Eating Establishment",
-          "id": "3bd9ccb4-3fd0-4719-8ffc-594b877c6cc5",
-          "postal": "408600"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Korea Culture",
-          "address": "EXPO HALL 7, 9 SOMAPAH ROAD SINGAPORE EXPO (HALL 10), HALL 7 KIOSK 1 487370",
-          "type": "Short Term Stall(Bazaar/Road Shows)",
-          "number": "EEST26040000074",
-          "scheme": "Eating Establishment",
-          "id": "3cdc1589-a08d-43fc-a5cd-793d1ace3f28",
-          "postal": "487370"
-        }
-      ],
       "updated": []
     }
   }
