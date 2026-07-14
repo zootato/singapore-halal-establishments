@@ -468,6 +468,15 @@
     "postal": "519634"
   },
   {
+    "name": "71 Ariff's Restaurant",
+    "address": "71 KALLANG BAHRU #01-529B 330071",
+    "type": "Restaurant",
+    "number": "EERT26060000049",
+    "scheme": "Eating Establishment",
+    "id": "401fd18c-8d5f-4e5b-97e4-b6aabe69af34",
+    "postal": "330071"
+  },
+  {
     "name": "786 Banana Leaf",
     "address": "306A WOODLANDS STREET 31 Stall MR3 @ Mr Teh Tarik Eating House #01-01 FUCHUN NEIGHBOURHOOD CENTRE 731306",
     "type": "Hawker",
@@ -1990,21 +1999,21 @@
   },
   {
     "name": "ARNOLD'S",
-    "address": "810 GEYLANG ROAD #02-99/10 CITY PLAZA 409286",
-    "type": "Restaurant",
-    "number": "EERN21060012493",
-    "scheme": "Eating Establishment",
-    "id": "571266fe-a5d4-499d-9f7c-fd6edf1a9f34",
-    "postal": "409286"
-  },
-  {
-    "name": "ARNOLD'S",
     "address": "215 BEDOK NORTH STREET 1 #01-83 460215",
     "type": "Restaurant",
     "number": "EERN21060012495",
     "scheme": "Eating Establishment",
     "id": "571266fe-a5d4-499d-9f7c-fd6edf1a9f34",
     "postal": "460215"
+  },
+  {
+    "name": "ARNOLD'S",
+    "address": "810 GEYLANG ROAD #02-99/10 CITY PLAZA 409286",
+    "type": "Restaurant",
+    "number": "EERN21060012493",
+    "scheme": "Eating Establishment",
+    "id": "571266fe-a5d4-499d-9f7c-fd6edf1a9f34",
+    "postal": "409286"
   },
   {
     "name": "ARTEASE CAFE",
@@ -24993,6 +25002,15 @@
     "postal": "820418"
   },
   {
+    "name": "Pratunam",
+    "address": "50 JURONG GATEWAY ROAD #03-21 JEM 608549",
+    "type": "Restaurant",
+    "number": "EERT26070000047",
+    "scheme": "Eating Establishment",
+    "id": "77c49e4d-695d-41e7-8daf-91f688fd6a0e",
+    "postal": "608549"
+  },
+  {
     "name": "Pratunam Plus & Firefry Thai Snacks",
     "address": "201 VICTORIA STREET #04-09 BUGIS+ 188067",
     "type": "Restaurant",
@@ -26305,6 +26323,15 @@
     "scheme": "Food Preparation Area",
     "id": "7bc77553-2f6f-4917-affa-fea075357088",
     "postal": "209466"
+  },
+  {
+    "name": "sakura asian cuisine",
+    "address": "6 CHANGI BUSINESS PARK AVENUE 1 #01-28 ESR BIZPARK @ CHANGI 486017",
+    "type": "Restaurant",
+    "number": "EERT26070000033",
+    "scheme": "Eating Establishment",
+    "id": "22ec2f07-9ab0-4a10-a965-a4cc7b69643f",
+    "postal": "486017"
   },
   {
     "name": "SAKURA FAMILY THAI CHINESE CUISINE",

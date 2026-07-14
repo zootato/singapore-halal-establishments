@@ -1,5 +1,47 @@
 [
   {
+    "timestamp": "2026-07-14T23:08:38.349834",
+    "date": "2026-07-14",
+    "summary": {
+      "new": 3,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "71 Ariff's Restaurant",
+          "address": "71 KALLANG BAHRU #01-529B 330071",
+          "type": "Restaurant",
+          "number": "EERT26060000049",
+          "scheme": "Eating Establishment",
+          "id": "401fd18c-8d5f-4e5b-97e4-b6aabe69af34",
+          "postal": "330071"
+        },
+        {
+          "name": "sakura asian cuisine",
+          "address": "6 CHANGI BUSINESS PARK AVENUE 1 #01-28 ESR BIZPARK @ CHANGI 486017",
+          "type": "Restaurant",
+          "number": "EERT26070000033",
+          "scheme": "Eating Establishment",
+          "id": "22ec2f07-9ab0-4a10-a965-a4cc7b69643f",
+          "postal": "486017"
+        },
+        {
+          "name": "Pratunam",
+          "address": "50 JURONG GATEWAY ROAD #03-21 JEM 608549",
+          "type": "Restaurant",
+          "number": "EERT26070000047",
+          "scheme": "Eating Establishment",
+          "id": "77c49e4d-695d-41e7-8daf-91f688fd6a0e",
+          "postal": "608549"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-07-13T23:09:10.815901",
     "date": "2026-07-13",
     "summary": {
@@ -9319,39 +9361,6 @@
           "postal": "608549"
         }
       ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-05-12T22:41:06.509960",
-    "date": "2026-05-12",
-    "summary": {
-      "new": 2,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Ritz's Kitchen (Kitchen 14) @ Supply Chain City",
-          "address": "8 BULIM AVENUE #02-04 648166",
-          "type": "Hawker",
-          "number": "EEHK20250000314",
-          "scheme": "Eating Establishment",
-          "id": "c1458d5f-5bf5-4b2a-bd7d-c118c9735ae7",
-          "postal": "648166"
-        },
-        {
-          "name": "RITZ'S KITCHEN",
-          "address": "338 JURONG EAST AVENUE 1 #01-1646 600338",
-          "type": "Restaurant",
-          "number": "EERN21020012166",
-          "scheme": "Eating Establishment",
-          "id": "73d27efa-b586-4639-baa6-7f96812efbad",
-          "postal": "600338"
-        }
-      ],
-      "removed": [],
       "updated": []
     }
   }
