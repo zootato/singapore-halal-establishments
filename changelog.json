@@ -1,5 +1,102 @@
 [
   {
+    "timestamp": "2026-07-15T23:09:53.685434",
+    "date": "2026-07-15",
+    "summary": {
+      "new": 8,
+      "removed": 1,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "18C",
+          "address": "1 VISTA EXCHANGE GREEN #02-12/13/14/15 THE STAR VISTA 138617",
+          "type": "Restaurant",
+          "number": "EERT20250000495",
+          "scheme": "Eating Establishment",
+          "id": "b5863466-c1d5-4d52-ac58-34adbab3195b",
+          "postal": "138617"
+        },
+        {
+          "name": "18C",
+          "address": "3155 COMMONWEALTH AVENUE WEST #05-16/17 THE CLEMENTI MALL 129588",
+          "type": "Restaurant",
+          "number": "EERT20250000496",
+          "scheme": "Eating Establishment",
+          "id": "6b9646c5-4bda-4fcd-ba54-48da3d5451f3",
+          "postal": "129588"
+        },
+        {
+          "name": "LUCINE",
+          "address": "111 SOMERSET ROAD #01-06 / 37 / 38 111 SOMERSET 238164",
+          "type": "Restaurant",
+          "number": "EERT20250000439",
+          "scheme": "Eating Establishment",
+          "id": "fe3d9dbf-4d4a-4839-a47f-47bd60a1440c",
+          "postal": "238164"
+        },
+        {
+          "name": "BAKE INC",
+          "address": "345 JURONG EAST STREET 31 #01-27 YUHUA PLACE 600345",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26070000045",
+          "scheme": "Eating Establishment",
+          "id": "da0503ca-1962-4761-9a81-674b82f2b814",
+          "postal": "600345"
+        },
+        {
+          "name": "STT Restaurant Pte Ltd (MR2) @ 326 Woodlands",
+          "address": "326 WOODLANDS STREET 32 #01-103, MR2 730326",
+          "type": "Hawker",
+          "number": "EEHK20240000189",
+          "scheme": "Eating Establishment",
+          "id": "910e1570-d79e-49a1-8428-c8511bb664fb",
+          "postal": "730326"
+        },
+        {
+          "name": "Preparation Kitchen @ Precious Homes Bukit Panjang Pte Ltd",
+          "address": "21 SENJA ROAD #01 NUH WARD @ SENJA 677736",
+          "type": "Central Kitchen",
+          "number": "FPCK20250000438",
+          "scheme": "Food Preparation Area",
+          "id": "35088a5f-b171-4cdd-b556-786ee8f6c30c",
+          "postal": "677736"
+        },
+        {
+          "name": "Haus Ban Mian & Fish Soup",
+          "address": "70 STAMFORD ROAD Stall 04, Koufu #B1-26/27/28 SINGAPORE MANAGEMENT UNIVERSITY (LI KA SHING LIBRARY) 178901",
+          "type": "Hawker",
+          "number": "EEHK26070000020",
+          "scheme": "Eating Establishment",
+          "id": "01900427-7c6b-438a-9000-940fc8e676c3",
+          "postal": "178901"
+        },
+        {
+          "name": "BAKE INC",
+          "address": "154 SERANGOON NORTH AVENUE 1 #01-404 550154",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26070000044",
+          "scheme": "Eating Establishment",
+          "id": "da0503ca-1962-4761-9a81-674b82f2b814",
+          "postal": "550154"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Sanook Kitchen",
+          "address": "16 LORONG MAMBONG HOLLAND VILLAGE 277677",
+          "type": "Restaurant",
+          "number": "EERN21080012849",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "277677"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-07-14T23:08:38.349834",
     "date": "2026-07-14",
     "summary": {
@@ -9118,247 +9215,6 @@
           "scheme": "Eating Establishment",
           "id": "c2a3daa9-ec19-4a9f-8474-752b3cbfb1ff",
           "postal": "670628"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-05-13T22:41:40.714902",
-    "date": "2026-05-13",
-    "summary": {
-      "new": 14,
-      "removed": 11,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Monster Chili Mala Hot Pot",
-          "address": "1 WOODLANDS SQUARE #07-03 CAUSEWAY POINT, MR3, Bagus 738099",
-          "type": "Hawker",
-          "number": "EEHK26050000010",
-          "scheme": "Eating Establishment",
-          "id": "b52f532a-5db0-49bc-b623-9081fda1fafd",
-          "postal": "738099"
-        },
-        {
-          "name": "Monster Chili Mala Hot Pot",
-          "address": "7 PASIR RIS CENTRAL #B2-17 PASIR RIS MALL, Stall 2, Bagus 519612",
-          "type": "Hawker",
-          "number": "EEHK26050000014",
-          "scheme": "Eating Establishment",
-          "id": "b52f532a-5db0-49bc-b623-9081fda1fafd",
-          "postal": "519612"
-        },
-        {
-          "name": "Monster Chili Mala Hot Pot",
-          "address": "1 KIM SENG PROMENADE #03-116 GREAT WORLD CITY, Stall 4 / Food Junction 237994",
-          "type": "Hawker",
-          "number": "EEHK26050000013",
-          "scheme": "Eating Establishment",
-          "id": "b52f532a-5db0-49bc-b623-9081fda1fafd",
-          "postal": "237994"
-        },
-        {
-          "name": "Monster Chili Mala Hot Pot",
-          "address": "10 AIRPORT BOULEVARD #02-205 CHANGI AIRPORT TERMINAL 4, MR3 / Kopitiam 819665",
-          "type": "Hawker",
-          "number": "EEHK26050000015",
-          "scheme": "Eating Establishment",
-          "id": "b52f532a-5db0-49bc-b623-9081fda1fafd",
-          "postal": "819665"
-        },
-        {
-          "name": "DELIZIO CATERING PTE. LTD.",
-          "address": "30 ORANGE GROVE ROAD #04-03 RELC BUILDING 258352",
-          "type": "Catering Company",
-          "number": "FPCA20240001176",
-          "scheme": "Food Preparation Area",
-          "id": "ca0e9367-2314-4812-a41e-4f2e8554d78a",
-          "postal": "258352"
-        },
-        {
-          "name": "Monster Chili Mala Hot Pot",
-          "address": "11 JALAN TAN TOCK SENG #01-13/14/15 TAN TOCK SENG HOSPOTAL, Stall 15, Kopitiam 308433",
-          "type": "Hawker",
-          "number": "EEHK26050000020",
-          "scheme": "Eating Establishment",
-          "id": "b52f532a-5db0-49bc-b623-9081fda1fafd",
-          "postal": "308433"
-        },
-        {
-          "name": "Monster Chili Mala Hot Pot",
-          "address": "65 AIRPORT BOULEVARD MR3, Kopitiam #B2-03 CHANGI AIRPORT TERMINAL 3 819663",
-          "type": "Hawker",
-          "number": "EEHK26050000016",
-          "scheme": "Eating Establishment",
-          "id": "b52f532a-5db0-49bc-b623-9081fda1fafd",
-          "postal": "819663"
-        },
-        {
-          "name": "Monster Chili Mala Hot Pot . Mala Soup",
-          "address": "84 PUNGGOL WAY #02-K63 PUNGGOL COAST HAWKER CENTRE 829911",
-          "type": "Hawker",
-          "number": "EEHK26050000019",
-          "scheme": "Eating Establishment",
-          "id": "09a618f7-166e-410e-ab16-d725394d6853",
-          "postal": "829911"
-        },
-        {
-          "name": "Monster Chili Mala Hot Pot",
-          "address": "418 NORTHSHORE DRIVE #02-07/08/09 NORTHSHORE PLAZA II, Stall 6, Bagus 820418",
-          "type": "Hawker",
-          "number": "EEHK26050000011",
-          "scheme": "Eating Establishment",
-          "id": "b52f532a-5db0-49bc-b623-9081fda1fafd",
-          "postal": "820418"
-        },
-        {
-          "name": "Monster Chili Mala Hot Pot",
-          "address": "1 HARBOURFRONT WALK MR 28, KOPITIAM FOOD HALL #B2-40 VIVO CITY 098585",
-          "type": "Hawker",
-          "number": "EEHK26050000018",
-          "scheme": "Eating Establishment",
-          "id": "b52f532a-5db0-49bc-b623-9081fda1fafd",
-          "postal": "098585"
-        },
-        {
-          "name": "Monster Chili Mala Hot Pot",
-          "address": "2 TAMPINES CENTRAL 5 Stall 6, The Food Market #03-19 CENTURY SQUARE 529509",
-          "type": "Hawker",
-          "number": "EEHK26050000008",
-          "scheme": "Eating Establishment",
-          "id": "b52f532a-5db0-49bc-b623-9081fda1fafd",
-          "postal": "529509"
-        },
-        {
-          "name": "Monster Chili Mala Hot Pot",
-          "address": "60 PAYA LEBAR ROAD Stall 7 , Cantine #B1-51 PAYA LEBAR SQUARE 409051",
-          "type": "Hawker",
-          "number": "EEHK26050000009",
-          "scheme": "Eating Establishment",
-          "id": "b52f532a-5db0-49bc-b623-9081fda1fafd",
-          "postal": "409051"
-        },
-        {
-          "name": "MONSTER CHILI GRILLED FISH & BBQ SEAFOOD",
-          "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #01-43 CHANGI CITY POINT 486038",
-          "type": "Restaurant",
-          "number": "EERT26050000007",
-          "scheme": "Eating Establishment",
-          "id": "154ad9d2-e19d-4d5b-8ca8-dd149803c327",
-          "postal": "486038"
-        },
-        {
-          "name": "Monster Chili Mala Hot Pot",
-          "address": "21 CHOA CHU KANG AVENUE 4 #04-16 LOT ONE, SHOPPERS' MALL, Stall 17, Food Junction 689812",
-          "type": "Hawker",
-          "number": "EEHK26050000012",
-          "scheme": "Eating Establishment",
-          "id": "b52f532a-5db0-49bc-b623-9081fda1fafd",
-          "postal": "689812"
-        }
-      ],
-      "removed": [
-        {
-          "name": "SUBWAY",
-          "address": "678A WOODLANDS AVENUE 6 #01-29 ADMIRALTY PLACE 731678",
-          "type": "Restaurant",
-          "number": "EERT20230000257",
-          "scheme": "Eating Establishment",
-          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-          "postal": "731678"
-        },
-        {
-          "name": "Tim Hortons",
-          "address": "112 EAST COAST ROAD #01-28 112 KATONG 428802",
-          "type": "Restaurant",
-          "number": "EERT26020000011",
-          "scheme": "Eating Establishment",
-          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-          "postal": "428802"
-        },
-        {
-          "name": "Tim Hortons",
-          "address": "1 HARBOURFRONT WALK #01-207 VIVOCITY 098585",
-          "type": "Restaurant",
-          "number": "EERT26020000001",
-          "scheme": "Eating Establishment",
-          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-          "postal": "098585"
-        },
-        {
-          "name": "san.wich",
-          "address": "10 EUNOS ROAD 8 #B1-158 SINGAPORE POST CENTRE 408600",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20230000654",
-          "scheme": "Eating Establishment",
-          "id": "3bd9ccb4-3fd0-4719-8ffc-594b877c6cc5",
-          "postal": "408600"
-        },
-        {
-          "name": "Tim Hortons",
-          "address": "17 WOODLANDS DRIVE 17 #01-03 WOODLANDS HEALTH CAMPUS 737628",
-          "type": "Restaurant",
-          "number": "EERT26020000012",
-          "scheme": "Eating Establishment",
-          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-          "postal": "737628"
-        },
-        {
-          "name": "Tim Hortons",
-          "address": "7 PASIR RIS CENTRAL #02-64 PASIR RIS MALL 519612",
-          "type": "Restaurant",
-          "number": "EERT26020000007",
-          "scheme": "Eating Establishment",
-          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-          "postal": "519612"
-        },
-        {
-          "name": "Tim Hortons",
-          "address": "1 JURONG WEST CENTRAL 2 #01-26F/26G JURONG POINT 648886",
-          "type": "Restaurant",
-          "number": "EERT26020000005",
-          "scheme": "Eating Establishment",
-          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-          "postal": "648886"
-        },
-        {
-          "name": "Tim Hortons",
-          "address": "3 TEMASEK BOULEVARD #01-314 SUNTEC CITY MALL 038983",
-          "type": "Restaurant",
-          "number": "EERT26020000003",
-          "scheme": "Eating Establishment",
-          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-          "postal": "038983"
-        },
-        {
-          "name": "Tim Hortons",
-          "address": "23 SERANGOON CENTRAL #01-10 NEX 556083",
-          "type": "Restaurant",
-          "number": "EERT26020000002",
-          "scheme": "Eating Establishment",
-          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-          "postal": "556083"
-        },
-        {
-          "name": "TEXAS CHICKEN",
-          "address": "2 TAMPINES CENTRAL 5 #05-03 CENTURY SQUARE 529509",
-          "type": "Restaurant",
-          "number": "EERN21070012596",
-          "scheme": "Eating Establishment",
-          "id": "53c88848-1280-4fee-b6dc-b5d1d941c07d",
-          "postal": "529509"
-        },
-        {
-          "name": "Tim Hortons",
-          "address": "50 JURONG GATEWAY ROAD #01-47 JEM 608549",
-          "type": "Restaurant",
-          "number": "EERT26020000006",
-          "scheme": "Eating Establishment",
-          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-          "postal": "608549"
         }
       ],
       "updated": []
