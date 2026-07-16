@@ -1,5 +1,228 @@
 [
   {
+    "timestamp": "2026-07-16T23:11:03.865140",
+    "date": "2026-07-16",
+    "summary": {
+      "new": 15,
+      "removed": 8,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "ROCKY MASTER",
+          "address": "6 WOODLANDS SQUARE #01-11 WOODS SQUARE 737737",
+          "type": "Restaurant",
+          "number": "EERN21050012379",
+          "scheme": "Eating Establishment",
+          "id": "33632e00-5112-411c-92d5-7748c166de2b",
+          "postal": "737737"
+        },
+        {
+          "name": "Srisun Prata.com",
+          "address": "651 JURONG WEST STREET 61 #01-02, Stall 9 640651",
+          "type": "Hawker",
+          "number": "EEHN21040012265",
+          "scheme": "Eating Establishment",
+          "id": "c1df5ce1-009f-40aa-bac0-b54c7c67af60",
+          "postal": "640651"
+        },
+        {
+          "name": "EATPIZZA",
+          "address": "2 JURONG EAST STREET 21 #01-K11 IMM BUILDING 609601",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26070000052",
+          "scheme": "Eating Establishment",
+          "id": "30fd51d3-3872-44b4-96bd-ec44bc5968b3",
+          "postal": "609601"
+        },
+        {
+          "name": "ROCKY MASTER",
+          "address": "301 UPPER THOMSON ROAD #01-38/39 THOMSON PLAZA 574408",
+          "type": "Restaurant",
+          "number": "EERN21050012380",
+          "scheme": "Eating Establishment",
+          "id": "33632e00-5112-411c-92d5-7748c166de2b",
+          "postal": "574408"
+        },
+        {
+          "name": "EATPIZZA",
+          "address": "10 PAYA LEBAR ROAD #01-K5 PAYA LEBAR QUARTER 409057",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26070000054",
+          "scheme": "Eating Establishment",
+          "id": "30fd51d3-3872-44b4-96bd-ec44bc5968b3",
+          "postal": "409057"
+        },
+        {
+          "name": "EATPIZZA",
+          "address": "313 ORCHARD ROAD #B3--48A 313 @ SOMERSET 238895",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26070000053",
+          "scheme": "Eating Establishment",
+          "id": "30fd51d3-3872-44b4-96bd-ec44bc5968b3",
+          "postal": "238895"
+        },
+        {
+          "name": "EATPIZZA",
+          "address": "1 HARBOURFRONT WALK #B2-K24 VIVOCITY 098585",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26070000048",
+          "scheme": "Eating Establishment",
+          "id": "30fd51d3-3872-44b4-96bd-ec44bc5968b3",
+          "postal": "098585"
+        },
+        {
+          "name": "Srisun Prata.com",
+          "address": "964 JURONG WEST STREET 91 #01-340, Stall 5 640964",
+          "type": "Hawker",
+          "number": "EEHN21040012267",
+          "scheme": "Eating Establishment",
+          "id": "c1df5ce1-009f-40aa-bac0-b54c7c67af60",
+          "postal": "640964"
+        },
+        {
+          "name": "CAFE LODGE",
+          "address": "6A NAPIER ROAD MR1, Cantine #02-21/22 24-HOUR WALK-IN CLINIC (GLENEAGLES HOSPITAL), MR1, Bagus 258500",
+          "type": "Hawker",
+          "number": "EEHK26070000046",
+          "scheme": "Eating Establishment",
+          "id": "740cd891-6997-4f12-80ee-5b26da740e86",
+          "postal": "258500"
+        },
+        {
+          "name": "ROCKY MASTER",
+          "address": "402 ORCHARD ROAD #01-02/03 ORCHARD DELFI 238876",
+          "type": "Restaurant",
+          "number": "EERN21050012427",
+          "scheme": "Eating Establishment",
+          "id": "33632e00-5112-411c-92d5-7748c166de2b",
+          "postal": "238876"
+        },
+        {
+          "name": "EATPIZZA",
+          "address": "21 TAMPINES AVENUE 1 TEMASEK POLYTECHNIC BLK 25 (EN-25) LEVEL 2 WEST WING, STALL 4 , CANTEEN : BreadBoard 529757",
+          "type": "Hawker",
+          "number": "EEHK26070000051",
+          "scheme": "Eating Establishment",
+          "id": "30fd51d3-3872-44b4-96bd-ec44bc5968b3",
+          "postal": "529757"
+        },
+        {
+          "name": "Srisun Prata.com",
+          "address": "418 YISHUN AVENUE 11 #01-385 760418",
+          "type": "Hawker",
+          "number": "EEHX21040012270",
+          "scheme": "Eating Establishment",
+          "id": "c1df5ce1-009f-40aa-bac0-b54c7c67af60",
+          "postal": "760418"
+        },
+        {
+          "name": "EATPIZZA",
+          "address": "68 ORCHARD ROAD #B2-38 PLAZA SINGAPURA 238839",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26070000055",
+          "scheme": "Eating Establishment",
+          "id": "30fd51d3-3872-44b4-96bd-ec44bc5968b3",
+          "postal": "238839"
+        },
+        {
+          "name": "EATPIZZA",
+          "address": "53 ANG MO KIO AVENUE 3 #B2-26 AMK HUB 569933",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26070000049",
+          "scheme": "Eating Establishment",
+          "id": "30fd51d3-3872-44b4-96bd-ec44bc5968b3",
+          "postal": "569933"
+        },
+        {
+          "name": "Monster Chili Mala Hot Pot",
+          "address": "16 JALAN TAN TOCK SENG Kopitiam @ Tan Tock Seng Hospital #B1-01 NATIONAL CENTRE FOR INFECTIOUS DISEASES, Stall 3 / Kopitiam 308442",
+          "type": "Hawker",
+          "number": "EEHK26050000017",
+          "scheme": "Eating Establishment",
+          "id": "b52f532a-5db0-49bc-b623-9081fda1fafd",
+          "postal": "308442"
+        }
+      ],
+      "removed": [
+        {
+          "name": "SUPER SUSHI",
+          "address": "1 JURONG WEST CENTRAL 2 #B1-03A JURONG POINT 648886",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26030000032",
+          "scheme": "Eating Establishment",
+          "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
+          "postal": "648886"
+        },
+        {
+          "name": "SUPER SUSHI",
+          "address": "50 JURONG GATEWAY ROAD #B1-28 JEM 608549",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26070000003",
+          "scheme": "Eating Establishment",
+          "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
+          "postal": "608549"
+        },
+        {
+          "name": "Drinks (S3) @ Rasa Rasa Sengkang",
+          "address": "278D COMPASSVALE BOW #01-05, Stall 3 544278",
+          "type": "Hawker",
+          "number": "EEHN21050012298",
+          "scheme": "Eating Establishment",
+          "id": "af41625b-b935-40b6-931a-45d0beadcf49",
+          "postal": "544278"
+        },
+        {
+          "name": "SWEE HENG",
+          "address": "963 JURONG WEST STREET 91 #01-314 640963",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000383",
+          "scheme": "Eating Establishment",
+          "id": "8ca8605b-be4d-48dd-98d0-78c2ed91bffb",
+          "postal": "640963"
+        },
+        {
+          "name": "TENDERFRESH Xpress",
+          "address": "118 RIVERVALE DRIVE #01-K18/k19 Rivervale Plaza 540118",
+          "type": "Restaurant",
+          "number": "EERN21060012467",
+          "scheme": "Eating Establishment",
+          "id": "fa23a2c4-12e6-4c0a-aa89-d3552d6d92cb",
+          "postal": "540118"
+        },
+        {
+          "name": "Western Food & Chicken Rice (S2) @ Rasa Rasa Sengkang",
+          "address": "278D COMPASSVALE BOW #01-05, Stall 2 544278",
+          "type": "Hawker",
+          "number": "EEHN21050012297",
+          "scheme": "Eating Establishment",
+          "id": "a174ed17-237b-46d5-a524-3ba44d2fe8c6",
+          "postal": "544278"
+        },
+        {
+          "name": "McDonald's",
+          "address": "4 BUKIT BATOK STREET 41 #01-42-45/50-54 LE QUEST 657991",
+          "type": "Restaurant",
+          "number": "EERN21010011971",
+          "scheme": "Eating Establishment",
+          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+          "postal": "657991"
+        },
+        {
+          "name": "Seafood (S1) @ Rasa Rasa Sengkang",
+          "address": "278D COMPASSVALE BOW #01-05, Stall 1 544278",
+          "type": "Hawker",
+          "number": "EEHN21050012296",
+          "scheme": "Eating Establishment",
+          "id": "ff9129dc-238e-4753-a168-d43eeb47c894",
+          "postal": "544278"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-07-15T23:09:53.685434",
     "date": "2026-07-15",
     "summary": {
@@ -9172,49 +9395,6 @@
           "scheme": "Eating Establishment",
           "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
           "postal": "738991"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-05-14T22:37:10.466427",
-    "date": "2026-05-14",
-    "summary": {
-      "new": 2,
-      "removed": 1,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "HAJI M.N. SHAHUL HAMEED MARKETING",
-          "address": "665 BUFFALO ROAD #01-126/127 ZHUJIAO CENTRE (TEKKA MARKET) 210665",
-          "type": "Hawker",
-          "number": "EEHK20230000036",
-          "scheme": "Eating Establishment",
-          "id": "85e4a3fd-d83a-4eb9-b421-aea67d64f888",
-          "postal": "210665"
-        },
-        {
-          "name": "MULAN YIPIN LANZHOU BEEF NOODLE",
-          "address": "283/283A SOUTH BRIDGE ROAD 058832",
-          "type": "Restaurant",
-          "number": "EERT26050000005",
-          "scheme": "Eating Establishment",
-          "id": "2d17f5a9-e0f3-4144-a3dc-4a7c09b9ff6a",
-          "postal": "058832"
-        }
-      ],
-      "removed": [
-        {
-          "name": "NENE CHICKEN",
-          "address": "628 SENJA ROAD STALL 8, KOPITIAM CORNER #01-07 SENJA CENTRE 670628",
-          "type": "Hawker",
-          "number": "EEHK26030000072",
-          "scheme": "Eating Establishment",
-          "id": "c2a3daa9-ec19-4a9f-8474-752b3cbfb1ff",
-          "postal": "670628"
         }
       ],
       "updated": []
