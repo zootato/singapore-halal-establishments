@@ -1,5 +1,77 @@
 [
   {
+    "timestamp": "2026-07-20T23:14:09.535719",
+    "date": "2026-07-20",
+    "summary": {
+      "new": 4,
+      "removed": 0,
+      "updated": 1
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "SMOL",
+          "address": "2 PAYA LEBAR ROAD #01-05 PARK PLACE RESIDENCES AT PLQ 409053",
+          "type": "Restaurant",
+          "number": "EERT20250000372",
+          "scheme": "Eating Establishment",
+          "id": "7b7a12de-d91d-4c5d-b16e-b6cd48944873",
+          "postal": "409053"
+        },
+        {
+          "name": "All Things Delicious",
+          "address": "34 ARAB STREET #01-01 199733",
+          "type": "Restaurant",
+          "number": "EERX21070012654",
+          "scheme": "Eating Establishment",
+          "id": "70629d5b-679c-4711-a74b-f752b8415389",
+          "postal": "199733"
+        },
+        {
+          "name": "STSS CK PTE LTD",
+          "address": "165 PANDAN LOOP 128457",
+          "type": "Central Kitchen",
+          "number": "FPCK26070000056",
+          "scheme": "Food Preparation Area",
+          "id": "928444f4-80c3-433d-ba56-6c085178bdcd",
+          "postal": "128457"
+        },
+        {
+          "name": "Gourmel Pte Ltd",
+          "address": "5 BURN ROAD #06-02 TEE YIH JIA FOOD BUILDING 369972",
+          "type": "Catering Company",
+          "number": "FPCA20250000502",
+          "scheme": "Food Preparation Area",
+          "id": "eb078e0e-1e71-42a7-970d-bc6e0e398027",
+          "postal": "369972"
+        }
+      ],
+      "removed": [],
+      "updated": [
+        {
+          "previous": {
+            "name": "AMGD Superfood Restaurant",
+            "address": "20 LENGKOK BAHRU #01-10 ENABLING VILLAGE 159053",
+            "type": "Central Kitchen",
+            "number": "FPCK20250000565",
+            "scheme": "Food Preparation Area",
+            "id": "77fb5f9e-c268-41ce-b19b-0a7e71051fff",
+            "postal": "159053"
+          },
+          "current": {
+            "name": "AMGD Global",
+            "address": "20 LENGKOK BAHRU #01-10 ENABLING VILLAGE 159053",
+            "type": "Central Kitchen",
+            "number": "FPCK20250000565",
+            "scheme": "Food Preparation Area",
+            "id": "77fb5f9e-c268-41ce-b19b-0a7e71051fff",
+            "postal": "159053"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-07-19T23:06:57.747975",
     "date": "2026-07-19",
     "summary": {
@@ -9202,39 +9274,6 @@
           }
         }
       ]
-    }
-  },
-  {
-    "timestamp": "2026-05-16T22:30:14.225583",
-    "date": "2026-05-16",
-    "summary": {
-      "new": 2,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Bumbu Restaurant",
-          "address": "4 QUEEN'S ROAD #02-101 260004",
-          "type": "Restaurant",
-          "number": "EERN22030013535",
-          "scheme": "Eating Establishment",
-          "id": "876c7f52-6654-4378-a665-e787ca288b56",
-          "postal": "260004"
-        },
-        {
-          "name": "Bumbu Restaurant",
-          "address": "44 KANDAHAR STREET 198897",
-          "type": "Restaurant",
-          "number": "EERN22030013536",
-          "scheme": "Eating Establishment",
-          "id": "876c7f52-6654-4378-a665-e787ca288b56",
-          "postal": "198897"
-        }
-      ],
-      "removed": [],
-      "updated": []
     }
   }
 ]

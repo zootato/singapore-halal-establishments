@@ -1233,6 +1233,15 @@
     "postal": "556083"
   },
   {
+    "name": "All Things Delicious",
+    "address": "34 ARAB STREET #01-01 199733",
+    "type": "Restaurant",
+    "number": "EERX21070012654",
+    "scheme": "Eating Establishment",
+    "id": "70629d5b-679c-4711-a74b-f752b8415389",
+    "postal": "199733"
+  },
+  {
     "name": "ALPINE SPRING CATERING PTE. LTD.",
     "address": "8A ADMIRALTY STREET #06-19 FOOD XCHANGE @ ADMIRALTY 757437",
     "type": "Catering Company",
@@ -1305,7 +1314,7 @@
     "postal": "159053"
   },
   {
-    "name": "AMGD Superfood Restaurant",
+    "name": "AMGD Global",
     "address": "20 LENGKOK BAHRU #01-10 ENABLING VILLAGE 159053",
     "type": "Central Kitchen",
     "number": "FPCK20250000565",
@@ -11106,6 +11115,15 @@
     "postal": "731306"
   },
   {
+    "name": "Gourmel Pte Ltd",
+    "address": "5 BURN ROAD #06-02 TEE YIH JIA FOOD BUILDING 369972",
+    "type": "Catering Company",
+    "number": "FPCA20250000502",
+    "scheme": "Food Preparation Area",
+    "id": "eb078e0e-1e71-42a7-970d-bc6e0e398027",
+    "postal": "369972"
+  },
+  {
     "name": "Gourmet Pizza To Go",
     "address": "1 STADIUM PLACE #01-43 397628",
     "type": "Restaurant",
@@ -11422,15 +11440,6 @@
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
-    "address": "50 Jurong Gateway Road #B1-21/22 Jurong East Mall (JEM) 608549",
-    "type": "Halal Section",
-    "number": "EECN21070000447",
-    "scheme": "Eating Establishment",
-    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
-    "postal": "608549"
-  },
-  {
-    "name": "Halal Section @ NTUC FAIRPRICE",
     "address": "23 Serangoon Central #03-42 Nex Mall 556083",
     "type": "Halal Section",
     "number": "EECN21070000454",
@@ -11545,6 +11554,15 @@
     "scheme": "Food Preparation Area",
     "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
     "postal": "270036"
+  },
+  {
+    "name": "Halal Section @ NTUC FAIRPRICE",
+    "address": "50 Jurong Gateway Road #B1-21/22 Jurong East Mall (JEM) 608549",
+    "type": "Halal Section",
+    "number": "EECN21070000447",
+    "scheme": "Eating Establishment",
+    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
+    "postal": "608549"
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
@@ -18433,15 +18451,6 @@
   },
   {
     "name": "McDonald's",
-    "address": "30 SEMBAWANG DRIVE #01-16/17 SUN PLAZA 757713",
-    "type": "Restaurant",
-    "number": "EERN20020011077",
-    "scheme": "Eating Establishment",
-    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-    "postal": "757713"
-  },
-  {
-    "name": "McDonald's",
     "address": "632 BEDOK RESERVOIR ROAD #01-850 470632",
     "type": "Restaurant",
     "number": "EERN20020010973",
@@ -19042,6 +19051,15 @@
     "scheme": "Eating Establishment",
     "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
     "postal": "758382"
+  },
+  {
+    "name": "McDonald's",
+    "address": "30 SEMBAWANG DRIVE #01-16/17 SUN PLAZA 757713",
+    "type": "Restaurant",
+    "number": "EERN20020011077",
+    "scheme": "Eating Establishment",
+    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+    "postal": "757713"
   },
   {
     "name": "McDonald's",
@@ -27954,6 +27972,15 @@
     "postal": "000000"
   },
   {
+    "name": "SMOL",
+    "address": "2 PAYA LEBAR ROAD #01-05 PARK PLACE RESIDENCES AT PLQ 409053",
+    "type": "Restaurant",
+    "number": "EERT20250000372",
+    "scheme": "Eating Establishment",
+    "id": "7b7a12de-d91d-4c5d-b16e-b6cd48944873",
+    "postal": "409053"
+  },
+  {
     "name": "SNAPPY BOWLS",
     "address": "90 STAMFORD ROAD #01-71 SMU SCHOOL OF ECONOMICS/SCHOOL OF COMPUTING & INFORMATION SYSTEM 2 178903",
     "type": "Snack Bar / Bakery",
@@ -28798,6 +28825,15 @@
     "scheme": "Eating Establishment",
     "id": "8190b22d-00bd-4d74-8267-b2ed861d2394",
     "postal": "208539"
+  },
+  {
+    "name": "STSS CK PTE LTD",
+    "address": "165 PANDAN LOOP 128457",
+    "type": "Central Kitchen",
+    "number": "FPCK26070000056",
+    "scheme": "Food Preparation Area",
+    "id": "928444f4-80c3-433d-ba56-6c085178bdcd",
+    "postal": "128457"
   },
   {
     "name": "STT Restaurant Pte Ltd (MR2) @ 326 Woodlands",
@@ -34435,21 +34471,21 @@
   },
   {
     "name": "TripletS",
-    "address": "17 WOODLANDS DRIVE 17 #B2-11 WOODLANDS HEALTH CAMPUS 737628",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB25100000054",
-    "scheme": "Eating Establishment",
-    "id": "93a5a81c-1ecf-48e6-9206-cad8e5504ada",
-    "postal": "737628"
-  },
-  {
-    "name": "TripletS",
     "address": "1 PUNGGOL COAST ROAD 01-01 DIGIPEN INSTITUTE TECHNOLOGY OF SINGAPORE 828608",
     "type": "Snack Bar / Bakery",
     "number": "EESB26010000121",
     "scheme": "Eating Establishment",
     "id": "93a5a81c-1ecf-48e6-9206-cad8e5504ada",
     "postal": "828608"
+  },
+  {
+    "name": "TripletS",
+    "address": "17 WOODLANDS DRIVE 17 #B2-11 WOODLANDS HEALTH CAMPUS 737628",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB25100000054",
+    "scheme": "Eating Establishment",
+    "id": "93a5a81c-1ecf-48e6-9206-cad8e5504ada",
+    "postal": "737628"
   },
   {
     "name": "TripletS",
