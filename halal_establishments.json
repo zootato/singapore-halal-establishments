@@ -5211,6 +5211,15 @@
     "postal": "461020"
   },
   {
+    "name": "CAMELLIA BALLROOM KITCHEN @ CROWNE PLAZA HOTEL",
+    "address": "75 AIRPORT BOULEVARD #02 CROWNE PLAZA CHANGI AIRPORT 819664",
+    "type": "Catering Company",
+    "number": "FPCA26070000057",
+    "scheme": "Food Preparation Area",
+    "id": "83ed610f-16fa-4230-a910-df6e93ba2fbb",
+    "postal": "819664"
+  },
+  {
     "name": "Campur Nasi Padang",
     "address": "1 ENGKU AMAN TURN #01-03 GEYLANG SERAI COMMUNITY CLUB 408528",
     "type": "Restaurant",
@@ -8947,6 +8956,15 @@
   },
   {
     "name": "EATPIZZA",
+    "address": "601 MACPHERSON ROAD #01-11 GRANTRAL COMPLEX 368242",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26070000050",
+    "scheme": "Eating Establishment",
+    "id": "d56b85b3-1f45-4049-ab5c-610893c7de8b",
+    "postal": "368242"
+  },
+  {
+    "name": "EATPIZZA",
     "address": "313 ORCHARD ROAD #B3--48A 313 @ SOMERSET 238895",
     "type": "Snack Bar / Bakery",
     "number": "EESB26070000053",
@@ -9361,21 +9379,21 @@
   },
   {
     "name": "Encik Tan",
-    "address": "60 AIRPORT BOULEVARD #02-K8 CHANGI AIRPORT TERMINAL 2 819643",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000514",
-    "scheme": "Eating Establishment",
-    "id": "008ded89-78a7-4d68-8a1e-8fdc67f56423",
-    "postal": "819643"
-  },
-  {
-    "name": "Encik Tan",
     "address": "1 BUKIT BATOK CENTRAL LINK #01-01/36 WEST MALL 658713",
     "type": "Restaurant",
     "number": "EERN22010013409",
     "scheme": "Eating Establishment",
     "id": "008ded89-78a7-4d68-8a1e-8fdc67f56423",
     "postal": "658713"
+  },
+  {
+    "name": "Encik Tan",
+    "address": "60 AIRPORT BOULEVARD #02-K8 CHANGI AIRPORT TERMINAL 2 819643",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000514",
+    "scheme": "Eating Establishment",
+    "id": "008ded89-78a7-4d68-8a1e-8fdc67f56423",
+    "postal": "819643"
   },
   {
     "name": "Encik Tan",
@@ -9547,6 +9565,15 @@
     "scheme": "Food Preparation Area",
     "id": "3b796f51-9a3d-4c52-90e3-9fb953d92810",
     "postal": "728654"
+  },
+  {
+    "name": "Family Hakata",
+    "address": "728 ANG MO KIO AVENUE 6 MR6, KPH 1990 #01-4200 560728",
+    "type": "Hawker",
+    "number": "EEHK26070000062",
+    "scheme": "Eating Establishment",
+    "id": "3a97e743-10b9-443a-b72e-8fc7ea203d77",
+    "postal": "560728"
   },
   {
     "name": "FAMOUS AMOS",
@@ -11196,6 +11223,24 @@
     "postal": "118425"
   },
   {
+    "name": "Greentea Rice (S18) @ Fernvale Hawker Centre",
+    "address": "21 SENGKANG WEST AVENUE #03-18 FERNVALE POINT, Stall 18 797650",
+    "type": "Hawker",
+    "number": "EEHK20240000467",
+    "scheme": "Eating Establishment",
+    "id": "68dbe8d4-c5d5-44f7-a58d-8e803ed46c32",
+    "postal": "797650"
+  },
+  {
+    "name": "GREENTEA RICE (S71) @ HAWKER OTH",
+    "address": "1 TAMPINES WALK #01-71 HAWKER CENTRE @ OUR TAMPINES HUB 528523",
+    "type": "Hawker",
+    "number": "EEHK20250000414",
+    "scheme": "Eating Establishment",
+    "id": "5d15f33b-1cd5-48bf-975e-d5b13aff2a94",
+    "postal": "528523"
+  },
+  {
     "name": "Guan Kee Seafood (S53) @ Newton Food Centre.",
     "address": "500 CLEMENCEAU AVENUE NORTH #01-53 229495",
     "type": "Hawker",
@@ -12166,6 +12211,15 @@
     "scheme": "Eating Establishment",
     "id": "71dd3a8d-58c0-487b-940d-b4f72b3a1897",
     "postal": "430012"
+  },
+  {
+    "name": "Head Chefz",
+    "address": "2 SIMEI STREET 3 #01-30/31 CHANGI GENERAL HOSPITAL, MR2 529889",
+    "type": "Hawker",
+    "number": "EEHK26070000064",
+    "scheme": "Eating Establishment",
+    "id": "2959fcb8-5312-4de5-8d3e-dae15f549092",
+    "postal": "529889"
   },
   {
     "name": "Heavenly Wang",
@@ -17416,7 +17470,7 @@
   },
   {
     "name": "Mala Wok (S11) @ One Two Eat Bedok Heartbeat",
-    "address": "11 BEDOK NORTH STREET 1 #01-28/29 HEARTBEAT @ BEDOK,Stall 11 469662",
+    "address": "11 BEDOK NORTH STREET 1 #01-28/29 HEARTBEAT @ BEDOK, Stall 11 469662",
     "type": "Hawker",
     "number": "EEHK20240000556",
     "scheme": "Eating Establishment",
@@ -18433,24 +18487,6 @@
   },
   {
     "name": "McDonald's",
-    "address": "302 TIONG BAHRU ROAD #01-145/146/147 TIONG BAHRU PLAZA 168732",
-    "type": "Restaurant",
-    "number": "EERN20020011013",
-    "scheme": "Eating Establishment",
-    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-    "postal": "168732"
-  },
-  {
-    "name": "McDonald's",
-    "address": "118 RIVERVALE DRIVE #01-32 Rivervale Plaza, K18/k19 540118",
-    "type": "Restaurant",
-    "number": "EERN20020011038",
-    "scheme": "Eating Establishment",
-    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-    "postal": "540118"
-  },
-  {
-    "name": "McDonald's",
     "address": "632 BEDOK RESERVOIR ROAD #01-850 470632",
     "type": "Restaurant",
     "number": "EERN20020010973",
@@ -19069,6 +19105,24 @@
     "scheme": "Eating Establishment",
     "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
     "postal": "750511"
+  },
+  {
+    "name": "McDonald's",
+    "address": "302 TIONG BAHRU ROAD #01-145/146/147 TIONG BAHRU PLAZA 168732",
+    "type": "Restaurant",
+    "number": "EERN20020011013",
+    "scheme": "Eating Establishment",
+    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+    "postal": "168732"
+  },
+  {
+    "name": "McDonald's",
+    "address": "118 RIVERVALE DRIVE #01-32 Rivervale Plaza, K18/k19 540118",
+    "type": "Restaurant",
+    "number": "EERN20020011038",
+    "scheme": "Eating Establishment",
+    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+    "postal": "540118"
   },
   {
     "name": "McDonald's",
@@ -20521,15 +20575,6 @@
   },
   {
     "name": "MUNCHI PANCAKES",
-    "address": "78 AIRPORT BOULEVARD #B2-273 JEWEL CHANGI AIRPORT 819666",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB25100000122",
-    "scheme": "Eating Establishment",
-    "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
-    "postal": "819666"
-  },
-  {
-    "name": "MUNCHI PANCAKES",
     "address": "180 KITCHENER ROAD #B2-K8 CITY SQUARE MALL 208539",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000329",
@@ -20608,6 +20653,15 @@
     "scheme": "Eating Establishment",
     "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
     "postal": "678278"
+  },
+  {
+    "name": "MUNCHI PANCAKES",
+    "address": "78 AIRPORT BOULEVARD #B2-273 JEWEL CHANGI AIRPORT 819666",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB25100000122",
+    "scheme": "Eating Establishment",
+    "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
+    "postal": "819666"
   },
   {
     "name": "MUNCHI PANCAKES",
@@ -26307,6 +26361,33 @@
     "postal": "730900"
   },
   {
+    "name": "Saayang Sayang Indonesian Nasi Padang",
+    "address": "17 WOODLANDS DRIVE 17 Koufu, Stall 5 #B1-03/04 WOODLANDS HEALTH CAMPUS 737628",
+    "type": "Hawker",
+    "number": "EEHK26070000067",
+    "scheme": "Eating Establishment",
+    "id": "e17cf586-c550-43b1-a28c-599fade7cdf9",
+    "postal": "737628"
+  },
+  {
+    "name": "Saayang Sayang Indonesian Nasi Padang",
+    "address": "10 AIRPORT BOULEVARD #02-205, Kopitiam, MR1 CHANGI AIRPORT TERMINAL 4 819665",
+    "type": "Hawker",
+    "number": "EEHK26070000065",
+    "scheme": "Eating Establishment",
+    "id": "c1e5fbf8-ddd8-441f-8b0a-dd3d824c50e6",
+    "postal": "819665"
+  },
+  {
+    "name": "Saayang Sayang Indonesian Nasi Padang",
+    "address": "65 AIRPORT BOULEVARD Kopitiam #B2-03 CHANGI AIRPORT TERMINAL 3, MR2 819663",
+    "type": "Hawker",
+    "number": "EEHK26070000066",
+    "scheme": "Eating Establishment",
+    "id": "c1e5fbf8-ddd8-441f-8b0a-dd3d824c50e6",
+    "postal": "819663"
+  },
+  {
     "name": "Saffrons",
     "address": "1 ENGKU AMAN TURN #01-04 WISMA GEYLANG SERAI 408528",
     "type": "Restaurant",
@@ -26818,15 +26899,6 @@
     "scheme": "Eating Establishment",
     "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
     "postal": "648331"
-  },
-  {
-    "name": "Sanook Kitchen",
-    "address": "1 STADIUM PLACE #01-16/K8 397628",
-    "type": "Restaurant",
-    "number": "EERN21080012848",
-    "scheme": "Eating Establishment",
-    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-    "postal": "397628"
   },
   {
     "name": "Sanook Kitchen",
@@ -30412,6 +30484,15 @@
   },
   {
     "name": "Sunbo Express Chicken Rice + BBQ",
+    "address": "149 SIMS DRIVE STALL 03, FOODGLE HUB JAMES COOK UNIVERSITY SINGAPORE 387380",
+    "type": "Hawker",
+    "number": "EEHK26070000061",
+    "scheme": "Eating Establishment",
+    "id": "b9ba0d92-0e9f-43bf-9fe3-cf6c057655e1",
+    "postal": "387380"
+  },
+  {
+    "name": "Sunbo Express Chicken Rice + BBQ",
     "address": "180 ANG MO KIO AVENUE 8 Blk E Stall 02 Foodgle Hub North Canteen #02 NANYANG POLYTECHNIC (NYP) 569830",
     "type": "Hawker",
     "number": "EEHK26010000065",
@@ -33868,6 +33949,15 @@
   },
   {
     "name": "Thunder Tea Rice",
+    "address": "1550 BEDOK NORTH AVENUE 4 #02-06 JTC BEDOK FOOD CITY 489950",
+    "type": "Hawker",
+    "number": "EEHK26070000086",
+    "scheme": "Eating Establishment",
+    "id": "57526664-586f-435b-a161-b2c54de4a62a",
+    "postal": "489950"
+  },
+  {
+    "name": "Thunder Tea Rice",
     "address": "10 EUNOS ROAD 8 #B1-162/163 SINGAPORE POST CENTRE 408600",
     "type": "Restaurant",
     "number": "EERT20240001003",
@@ -34018,15 +34108,6 @@
     "scheme": "Eating Establishment",
     "id": "87a00d7d-0af0-4000-be56-7b7facc1c180",
     "postal": "188021"
-  },
-  {
-    "name": "TIP TOP",
-    "address": "1 PASIR RIS CLOSE #02-109 E!HUB@DOWNTOWN EAST 519599",
-    "type": "Restaurant",
-    "number": "EERT20240000728",
-    "scheme": "Eating Establishment",
-    "id": "87a00d7d-0af0-4000-be56-7b7facc1c180",
-    "postal": "519599"
   },
   {
     "name": "TIP TOP",
@@ -36304,6 +36385,15 @@
     "scheme": "Eating Establishment",
     "id": "410fef90-6f58-4073-a86c-77ba32d1994b",
     "postal": "529889"
+  },
+  {
+    "name": "Yu Ni Xiang Yu",
+    "address": "65 AIRPORT BOULEVARD #B2-03 (MR4) @ KOPITIAM CHANGI AIRPORT TERMINAL 3 819663",
+    "type": "Hawker",
+    "number": "EEHK26070000087",
+    "scheme": "Eating Establishment",
+    "id": "410fef90-6f58-4073-a86c-77ba32d1994b",
+    "postal": "819663"
   },
   {
     "name": "Yum Yum Thai",
