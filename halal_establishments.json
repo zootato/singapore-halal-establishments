@@ -16983,6 +16983,15 @@
     "postal": "738322"
   },
   {
+    "name": "M Kitchen",
+    "address": "200 TUAS SOUTH AVENUE 5, Stall No 4@Gateway Cafe PSA Tuas Port Transport Hub 639386",
+    "type": "Hawker",
+    "number": "EEHK26070000060",
+    "scheme": "Eating Establishment",
+    "id": "94328c84-6332-4304-8ada-8f9ec51a8b0b",
+    "postal": "639386"
+  },
+  {
     "name": "M.Raffick Mutton & Chicken Supplier",
     "address": "294 YISHUN STREET 22 #01-329 760294",
     "type": "Hawker",
@@ -17485,15 +17494,6 @@
     "scheme": "Eating Establishment",
     "id": "b2ecd9ac-c354-470b-8de3-18b0a85d83b2",
     "postal": "469572"
-  },
-  {
-    "name": "Malabar Kitchen",
-    "address": "1 DICKSON ROAD #Level 1 209493",
-    "type": "Restaurant",
-    "number": "EERT26010000114",
-    "scheme": "Eating Establishment",
-    "id": "73c93ac7-c09b-438f-94b4-08d803993c80",
-    "postal": "209493"
   },
   {
     "name": "Malay & Indian Cuisine @ RVRC(Mngd by Smorgasbord Int Pte Ltd)",
@@ -21619,7 +21619,7 @@
   },
   {
     "name": "NIKU IKU PTE LTD",
-    "address": "55 SERANGOON NORTH AVENUE 4 #01-19/20/K1 #01-02 S9 555859",
+    "address": "55 SERANGOON NORTH AVENUE 4 #01-02/19/20/K1 S9 555859",
     "type": "Central Kitchen",
     "number": "FPCK20250000547",
     "scheme": "Food Preparation Area",
@@ -35818,6 +35818,15 @@
     "scheme": "Eating Establishment",
     "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
     "postal": "486038"
+  },
+  {
+    "name": "WOK HEY",
+    "address": "80 MARINE PARADE ROAD (PART OF) #01-K39 PARKWAY PARADE 449269",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26070000090",
+    "scheme": "Eating Establishment",
+    "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+    "postal": "449269"
   },
   {
     "name": "WOK HEY",

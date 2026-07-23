@@ -1,5 +1,69 @@
 [
   {
+    "timestamp": "2026-07-23T23:10:41.076915",
+    "date": "2026-07-23",
+    "summary": {
+      "new": 2,
+      "removed": 1,
+      "updated": 1
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "M Kitchen",
+          "address": "200 TUAS SOUTH AVENUE 5, Stall No 4@Gateway Cafe PSA Tuas Port Transport Hub 639386",
+          "type": "Hawker",
+          "number": "EEHK26070000060",
+          "scheme": "Eating Establishment",
+          "id": "94328c84-6332-4304-8ada-8f9ec51a8b0b",
+          "postal": "639386"
+        },
+        {
+          "name": "WOK HEY",
+          "address": "80 MARINE PARADE ROAD (PART OF) #01-K39 PARKWAY PARADE 449269",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26070000090",
+          "scheme": "Eating Establishment",
+          "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
+          "postal": "449269"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Malabar Kitchen",
+          "address": "1 DICKSON ROAD #Level 1 209493",
+          "type": "Restaurant",
+          "number": "EERT26010000114",
+          "scheme": "Eating Establishment",
+          "id": "73c93ac7-c09b-438f-94b4-08d803993c80",
+          "postal": "209493"
+        }
+      ],
+      "updated": [
+        {
+          "previous": {
+            "name": "NIKU IKU PTE LTD",
+            "address": "55 SERANGOON NORTH AVENUE 4 #01-19/20/K1 #01-02 S9 555859",
+            "type": "Central Kitchen",
+            "number": "FPCK20250000547",
+            "scheme": "Food Preparation Area",
+            "id": "4b4cc1eb-ed06-4281-b710-ba9a667746eb",
+            "postal": "555859"
+          },
+          "current": {
+            "name": "NIKU IKU PTE LTD",
+            "address": "55 SERANGOON NORTH AVENUE 4 #01-02/19/20/K1 S9 555859",
+            "type": "Central Kitchen",
+            "number": "FPCK20250000547",
+            "scheme": "Food Preparation Area",
+            "id": "4b4cc1eb-ed06-4281-b710-ba9a667746eb",
+            "postal": "555859"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-07-22T23:18:35.650107",
     "date": "2026-07-22",
     "summary": {
@@ -9095,67 +9159,6 @@
         }
       ],
       "removed": [],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-05-19T22:41:57.469257",
-    "date": "2026-05-19",
-    "summary": {
-      "new": 4,
-      "removed": 1,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Campur Nasi Padang",
-          "address": "1 ENGKU AMAN TURN #01-03 GEYLANG SERAI COMMUNITY CLUB 408528",
-          "type": "Restaurant",
-          "number": "EERT26050000029",
-          "scheme": "Eating Establishment",
-          "id": "0eb02ea3-7025-4a7a-9d29-f868e064261c",
-          "postal": "408528"
-        },
-        {
-          "name": "Campur Nasi Padang",
-          "address": "1 ENGKU AMAN TURN #01-03 WISMA GEYLANG SERAI 408528",
-          "type": "Catering Company",
-          "number": "FPCA26050000028",
-          "scheme": "Food Preparation Area",
-          "id": "0eb02ea3-7025-4a7a-9d29-f868e064261c",
-          "postal": "408528"
-        },
-        {
-          "name": "DAPUR PENYET",
-          "address": "176 ORCHARD ROAD #01-59/60/61/62 THE CENTREPOINT 238843",
-          "type": "Restaurant",
-          "number": "EERT26050000033",
-          "scheme": "Eating Establishment",
-          "id": "4bd8f8c1-67ec-4477-b6c1-389fa3d7526c",
-          "postal": "238843"
-        },
-        {
-          "name": "Campur Nasi Padang",
-          "address": "1 PASIR RIS CLOSE #02-306 E!HUB @ DOWNTOWN EAST 519599",
-          "type": "Restaurant",
-          "number": "EERT26050000030",
-          "scheme": "Eating Establishment",
-          "id": "0eb02ea3-7025-4a7a-9d29-f868e064261c",
-          "postal": "519599"
-        }
-      ],
-      "removed": [
-        {
-          "name": "CRAVE",
-          "address": "1 LOWER KENT RIDGE ROAD #01-09/19/20 ONE @ KENTRIDGE 119082",
-          "type": "Restaurant",
-          "number": "EERN21050012353",
-          "scheme": "Eating Establishment",
-          "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
-          "postal": "119082"
-        }
-      ],
       "updated": []
     }
   }
