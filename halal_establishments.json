@@ -9198,6 +9198,15 @@
     "postal": "819643"
   },
   {
+    "name": "El Fuego",
+    "address": "78 AIRPORT BOULEVARD #05-203 JEWEL CHANGI AIRPORT 819666",
+    "type": "Restaurant",
+    "number": "EERT26070000058",
+    "scheme": "Eating Establishment",
+    "id": "c6b2b42a-dcea-4425-9ef9-0edc95f76c15",
+    "postal": "819666"
+  },
+  {
     "name": "Elegant Yan Cafe",
     "address": "5 STRAITS VIEW #B2-20 THE HEART 018935",
     "type": "Restaurant",
@@ -11476,15 +11485,6 @@
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
-    "address": "135 JURONG EAST STREET 13 #01-337 600135",
-    "type": "Halal Section",
-    "number": "EECN21070000446",
-    "scheme": "Eating Establishment",
-    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
-    "postal": "600135"
-  },
-  {
-    "name": "Halal Section @ NTUC FAIRPRICE",
     "address": "23 Serangoon Central #03-42 Nex Mall 556083",
     "type": "Halal Section",
     "number": "EECN21070000454",
@@ -11599,6 +11599,15 @@
     "scheme": "Food Preparation Area",
     "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
     "postal": "270036"
+  },
+  {
+    "name": "Halal Section @ NTUC FAIRPRICE",
+    "address": "135 JURONG EAST STREET 13 #01-337 600135",
+    "type": "Halal Section",
+    "number": "EECN21070000446",
+    "scheme": "Eating Establishment",
+    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
+    "postal": "600135"
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
@@ -21589,6 +21598,15 @@
     "scheme": "Eating Establishment",
     "id": "64a228b0-7d2f-4fd7-8a87-e5df67b09ade",
     "postal": "409051"
+  },
+  {
+    "name": "NIKU IKU",
+    "address": "1 TAMPINES WALK #B1-K10/K11 OUR TAMPINES HUB 528523",
+    "type": "Restaurant",
+    "number": "EERT26070000095",
+    "scheme": "Eating Establishment",
+    "id": "64a228b0-7d2f-4fd7-8a87-e5df67b09ade",
+    "postal": "528523"
   },
   {
     "name": "NIKU IKU",
@@ -33343,6 +33361,15 @@
     "scheme": "Eating Establishment",
     "id": "24d37fdf-960a-419f-8c12-9454f11512e4",
     "postal": "018972"
+  },
+  {
+    "name": "THE DAILY FIESTA",
+    "address": "6 SAINT GEORGE'S ROAD (MR1)@ CHANG SHENG EATING PLACE 328025",
+    "type": "Hawker",
+    "number": "EEHK26070000092",
+    "scheme": "Eating Establishment",
+    "id": "fcb0eb8d-219a-407f-92d0-7da967795139",
+    "postal": "328025"
   },
   {
     "name": "THE DIM  SUM PLACE",
