@@ -1,5 +1,84 @@
 [
   {
+    "timestamp": "2026-07-28T23:13:22.833278",
+    "date": "2026-07-28",
+    "summary": {
+      "new": 6,
+      "removed": 1,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "ALLEY.WEI",
+          "address": "930 YISHUN AVENUE 2 #B1-151 NORTHPOINT CITY 769098",
+          "type": "Restaurant",
+          "number": "EERN21110012969",
+          "scheme": "Eating Establishment",
+          "id": "66dfa7b5-7375-4bab-ae21-9411675816ac",
+          "postal": "769098"
+        },
+        {
+          "name": "Express Teppan-yaki",
+          "address": "1 WOODLANDS SQUARE #02-09D, #02-10 CAUSEWAY POINT 738099",
+          "type": "Restaurant",
+          "number": "EERT26070000101",
+          "scheme": "Eating Establishment",
+          "id": "3bf1548d-f083-4f8c-893d-2b3152a3460c",
+          "postal": "738099"
+        },
+        {
+          "name": "Express Teppan-yaki",
+          "address": "1 NORTHPOINT DRIVE #B1-200 NORTHPOINT CITY 768019",
+          "type": "Restaurant",
+          "number": "EERT26010000123",
+          "scheme": "Eating Establishment",
+          "id": "3bf1548d-f083-4f8c-893d-2b3152a3460c",
+          "postal": "768019"
+        },
+        {
+          "name": "EXPRESS TEPPAN-YAKI/ Alley.Wei",
+          "address": "4 TAMPINES CENTRAL 5 #B1-K21, K22 TAMPINES MALL 529510",
+          "type": "Restaurant",
+          "number": "EERT26010000124",
+          "scheme": "Eating Establishment",
+          "id": "a9d8385b-18ae-4689-8e3c-8df270ab04f4",
+          "postal": "529510"
+        },
+        {
+          "name": "Express Teppan-yaki",
+          "address": "200 VICTORIA STREET #B1-K23 BUGIS JUNCTION 188021",
+          "type": "Restaurant",
+          "number": "EERT26010000069",
+          "scheme": "Eating Establishment",
+          "id": "3bf1548d-f083-4f8c-893d-2b3152a3460c",
+          "postal": "188021"
+        },
+        {
+          "name": "EXPRESS TEPPAN-YAKI (MR4) @ KOPITIAM COMPASS ONE",
+          "address": "1 SENGKANG SQUARE #04-11 COMPASS ONE 545078",
+          "type": "Hawker",
+          "number": "EEHK20250000721",
+          "scheme": "Eating Establishment",
+          "id": "b671ccd0-b06e-4684-b15d-f72bcedeb679",
+          "postal": "545078"
+        }
+      ],
+      "removed": [
+        {
+          "name": "TEXAS CHICKEN",
+          "address": "2 TAMPINES CENTRAL 5 #05-03 CENTURY SQUARE 529509",
+          "type": "Restaurant",
+          "number": "EERN21070012596",
+          "scheme": "Eating Establishment",
+          "id": "53c88848-1280-4fee-b6dc-b5d1d941c07d",
+          "postal": "529509"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-07-27T23:16:52.031076",
     "date": "2026-07-27",
     "summary": {
@@ -8863,30 +8942,6 @@
           "scheme": "Eating Establishment",
           "id": "40092bff-9bf0-449d-bee9-e14ac0c88752",
           "postal": "238864"
-        }
-      ],
-      "removed": [],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-05-23T22:30:17.411201",
-    "date": "2026-05-23",
-    "summary": {
-      "new": 1,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "SUBWAY",
-          "address": "15 TAMPINES CENTRAL 1 #B1-07 TAMPINES MRT STATION (DT32) 529544",
-          "type": "Restaurant",
-          "number": "EERT26040000059",
-          "scheme": "Eating Establishment",
-          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-          "postal": "529544"
         }
       ],
       "removed": [],

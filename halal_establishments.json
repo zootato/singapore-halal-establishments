@@ -1242,6 +1242,15 @@
     "postal": "199733"
   },
   {
+    "name": "ALLEY.WEI",
+    "address": "930 YISHUN AVENUE 2 #B1-151 NORTHPOINT CITY 769098",
+    "type": "Restaurant",
+    "number": "EERN21110012969",
+    "scheme": "Eating Establishment",
+    "id": "66dfa7b5-7375-4bab-ae21-9411675816ac",
+    "postal": "769098"
+  },
+  {
     "name": "ALPINE SPRING CATERING PTE. LTD.",
     "address": "8A ADMIRALTY STREET #06-19 FOOD XCHANGE @ ADMIRALTY 757437",
     "type": "Catering Company",
@@ -9558,6 +9567,51 @@
     "postal": "449536"
   },
   {
+    "name": "Express Teppan-yaki",
+    "address": "200 VICTORIA STREET #B1-K23 BUGIS JUNCTION 188021",
+    "type": "Restaurant",
+    "number": "EERT26010000069",
+    "scheme": "Eating Establishment",
+    "id": "3bf1548d-f083-4f8c-893d-2b3152a3460c",
+    "postal": "188021"
+  },
+  {
+    "name": "Express Teppan-yaki",
+    "address": "1 WOODLANDS SQUARE #02-09D, #02-10 CAUSEWAY POINT 738099",
+    "type": "Restaurant",
+    "number": "EERT26070000101",
+    "scheme": "Eating Establishment",
+    "id": "3bf1548d-f083-4f8c-893d-2b3152a3460c",
+    "postal": "738099"
+  },
+  {
+    "name": "Express Teppan-yaki",
+    "address": "1 NORTHPOINT DRIVE #B1-200 NORTHPOINT CITY 768019",
+    "type": "Restaurant",
+    "number": "EERT26010000123",
+    "scheme": "Eating Establishment",
+    "id": "3bf1548d-f083-4f8c-893d-2b3152a3460c",
+    "postal": "768019"
+  },
+  {
+    "name": "EXPRESS TEPPAN-YAKI (MR4) @ KOPITIAM COMPASS ONE",
+    "address": "1 SENGKANG SQUARE #04-11 COMPASS ONE 545078",
+    "type": "Hawker",
+    "number": "EEHK20250000721",
+    "scheme": "Eating Establishment",
+    "id": "b671ccd0-b06e-4684-b15d-f72bcedeb679",
+    "postal": "545078"
+  },
+  {
+    "name": "EXPRESS TEPPAN-YAKI/ Alley.Wei",
+    "address": "4 TAMPINES CENTRAL 5 #B1-K21, K22 TAMPINES MALL 529510",
+    "type": "Restaurant",
+    "number": "EERT26010000124",
+    "scheme": "Eating Establishment",
+    "id": "a9d8385b-18ae-4689-8e3c-8df270ab04f4",
+    "postal": "529510"
+  },
+  {
     "name": "EZB Pte Ltd",
     "address": "105 SIMS AVENUE #10-04 CHANCERLODGE COMPLEX 387429",
     "type": "Catering Company",
@@ -11476,15 +11530,6 @@
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
-    "address": "63 JURONG WEST CENTRAL 3 #03-01 JURONG POINT SHOPPING CENTRE 648331",
-    "type": "Halal Section",
-    "number": "EECN21070000438",
-    "scheme": "Eating Establishment",
-    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
-    "postal": "648331"
-  },
-  {
-    "name": "Halal Section @ NTUC FAIRPRICE",
     "address": "23 Serangoon Central #03-42 Nex Mall 556083",
     "type": "Halal Section",
     "number": "EECN21070000454",
@@ -11674,15 +11719,6 @@
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
-    "address": "4 Tampines central 5 #B1-12 tampines mall 529510",
-    "type": "Halal Section",
-    "number": "EECN21070000432",
-    "scheme": "Eating Establishment",
-    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
-    "postal": "529510"
-  },
-  {
-    "name": "Halal Section @ NTUC FAIRPRICE",
     "address": "80 MARINE PARADE ROAD #03-28 PARKWAY PARADE 449269",
     "type": "Central Kitchen",
     "number": "FPCN21050001520",
@@ -11701,6 +11737,15 @@
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
+    "address": "63 JURONG WEST CENTRAL 3 #03-01 JURONG POINT SHOPPING CENTRE 648331",
+    "type": "Halal Section",
+    "number": "EECN21070000438",
+    "scheme": "Eating Establishment",
+    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
+    "postal": "648331"
+  },
+  {
+    "name": "Halal Section @ NTUC FAIRPRICE",
     "address": "524A JELAPANG ROAD #03-13 GREENRIDGE SHOPPING CENTRE 671524",
     "type": "Halal Section",
     "number": "EEHS20250000111",
@@ -11716,6 +11761,15 @@
     "scheme": "Food Preparation Area",
     "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
     "postal": "671524"
+  },
+  {
+    "name": "Halal Section @ NTUC FAIRPRICE",
+    "address": "4 Tampines central 5 #B1-12 tampines mall 529510",
+    "type": "Halal Section",
+    "number": "EECN21070000432",
+    "scheme": "Eating Establishment",
+    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
+    "postal": "529510"
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
@@ -24652,15 +24706,6 @@
   },
   {
     "name": "POLAR PUFFS & CAKES",
-    "address": "1 PASIR RIS CENTRAL STREET 3 #B1-K01 WHITE SANDS 518457",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN20040010693",
-    "scheme": "Eating Establishment",
-    "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
-    "postal": "518457"
-  },
-  {
-    "name": "POLAR PUFFS & CAKES",
     "address": "23 SERANGOON CENTRAL #03-K3/K4 NEX 556083",
     "type": "Snack Bar / Bakery",
     "number": "EEBN20030010669",
@@ -24721,6 +24766,15 @@
     "scheme": "Eating Establishment",
     "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
     "postal": "538766"
+  },
+  {
+    "name": "POLAR PUFFS & CAKES",
+    "address": "1 PASIR RIS CENTRAL STREET 3 #B1-K01 WHITE SANDS 518457",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN20040010693",
+    "scheme": "Eating Establishment",
+    "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+    "postal": "518457"
   },
   {
     "name": "POLAR PUFFS & CAKES",
@@ -25831,15 +25885,6 @@
   },
   {
     "name": "Red Ginger",
-    "address": "1 WOODLANDS SQUARE #02-05 CAUSEWAY POINT 738099",
-    "type": "Restaurant",
-    "number": "EERT20220000640",
-    "scheme": "Eating Establishment",
-    "id": "b820e61a-e25d-40fe-b177-121aedf7df68",
-    "postal": "738099"
-  },
-  {
-    "name": "Red Ginger",
     "address": "2 JURONG EAST STREET 21 #01-46 IMM BUILDING 609601",
     "type": "Restaurant",
     "number": "EERN20090011843",
@@ -25855,6 +25900,15 @@
     "scheme": "Eating Establishment",
     "id": "b820e61a-e25d-40fe-b177-121aedf7df68",
     "postal": "648331"
+  },
+  {
+    "name": "Red Ginger",
+    "address": "1 WOODLANDS SQUARE #02-05 CAUSEWAY POINT 738099",
+    "type": "Restaurant",
+    "number": "EERT20220000640",
+    "scheme": "Eating Establishment",
+    "id": "b820e61a-e25d-40fe-b177-121aedf7df68",
+    "postal": "738099"
   },
   {
     "name": "Red Ginger Coffeehouse",
@@ -28396,21 +28450,21 @@
   },
   {
     "name": "SPRINGLEAF PRATA PLACE",
-    "address": "1 WOODLANDS ROAD #01-25 JUNCTION 10 677899",
-    "type": "Restaurant",
-    "number": "EERN21060012485",
-    "scheme": "Eating Establishment",
-    "id": "97aab0ac-414e-458a-9758-d335f07b1e6b",
-    "postal": "677899"
-  },
-  {
-    "name": "SPRINGLEAF PRATA PLACE",
     "address": "60 YISHUN AVENUE 4 #01-07 SAFRA COUNTRY CLUB (YISHUN) 769027",
     "type": "Restaurant",
     "number": "EERN21060012488",
     "scheme": "Eating Establishment",
     "id": "97aab0ac-414e-458a-9758-d335f07b1e6b",
     "postal": "769027"
+  },
+  {
+    "name": "SPRINGLEAF PRATA PLACE",
+    "address": "1 WOODLANDS ROAD #01-25 JUNCTION 10 677899",
+    "type": "Restaurant",
+    "number": "EERN21060012485",
+    "scheme": "Eating Establishment",
+    "id": "97aab0ac-414e-458a-9758-d335f07b1e6b",
+    "postal": "677899"
   },
   {
     "name": "SPRINGLEAF PRATA PLACE",
@@ -32488,15 +32542,6 @@
     "scheme": "Eating Establishment",
     "id": "71f85807-620e-4ad7-be65-0af09af47b4d",
     "postal": "408600"
-  },
-  {
-    "name": "TEXAS CHICKEN",
-    "address": "2 TAMPINES CENTRAL 5 #05-03 CENTURY SQUARE 529509",
-    "type": "Restaurant",
-    "number": "EERN21070012596",
-    "scheme": "Eating Establishment",
-    "id": "53c88848-1280-4fee-b6dc-b5d1d941c07d",
-    "postal": "529509"
   },
   {
     "name": "TEXAS CHICKEN",
