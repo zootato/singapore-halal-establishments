@@ -1,5 +1,29 @@
 [
   {
+    "timestamp": "2026-07-29T23:11:31.011051",
+    "date": "2026-07-29",
+    "summary": {
+      "new": 1,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Pizza D'France",
+          "address": "756 UPPER SERANGOON ROAD #01-08 UPPER SERANGOON SHOPPING CENTRE 534626",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21040012195",
+          "scheme": "Eating Establishment",
+          "id": "8f8ca539-7299-4d4e-9cd5-6d25cb9be900",
+          "postal": "534626"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-07-28T23:13:22.833278",
     "date": "2026-07-28",
     "summary": {
@@ -8922,30 +8946,6 @@
           }
         }
       ]
-    }
-  },
-  {
-    "timestamp": "2026-05-24T22:33:11.093032",
-    "date": "2026-05-24",
-    "summary": {
-      "new": 1,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Home's Favourite Bakes / Andy's Pie",
-          "address": "310 ORCHARD ROAD #B1-03 TANG PLAZA 238864",
-          "type": "Restaurant",
-          "number": "EERT26050000038",
-          "scheme": "Eating Establishment",
-          "id": "40092bff-9bf0-449d-bee9-e14ac0c88752",
-          "postal": "238864"
-        }
-      ],
-      "removed": [],
-      "updated": []
     }
   }
 ]
