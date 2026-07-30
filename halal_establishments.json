@@ -13500,15 +13500,6 @@
     "postal": "368330"
   },
   {
-    "name": "International Cuisine@Rolls Royce(Mngd by ISS Catering)",
-    "address": "6 Seletar Aerospace Rise Rolls Royce 797575",
-    "type": "Staff Canteen",
-    "number": "EEFN21070012269",
-    "scheme": "Eating Establishment",
-    "id": "34e10f71-d3da-4743-a872-8222e8121e84",
-    "postal": "797575"
-  },
-  {
     "name": "International Gourmet / Home Favourites/Grab & Go @ HP DRD (Mngd by Sodexo Singapore PL)",
     "address": "1150 DEPOT ROAD BLOCK A LEVEL 2, LEVEL 5 109673",
     "type": "Staff Canteen",
@@ -14443,15 +14434,6 @@
     "scheme": "Eating Establishment",
     "id": "feb71f4b-a7e7-4aa5-89e3-7931c8d33817",
     "postal": "629174"
-  },
-  {
-    "name": "Kampung Tree Nasi Padang (S4) @ Kopitiam Fairprice Hub",
-    "address": "1 Joo Koon Circle #03-25 Fairprice Hub, STALL 4 629117",
-    "type": "Hawker",
-    "number": "EEHK20250000616",
-    "scheme": "Eating Establishment",
-    "id": "ae87c6d6-6a9d-4f1a-a704-2a43d38c099f",
-    "postal": "629117"
   },
   {
     "name": "KAT KITCHEN PTE. LTD.",
@@ -15742,7 +15724,7 @@
   },
   {
     "name": "Kitchen @Lentor Health NH MPS(Mngd by the Lentor Residence PL)",
-    "address": "2 MACPHERSON WALK #08, Level 8 369573",
+    "address": "2 MACPHERSON WALK LENTOR HEALTH NURSING HOME (MACPHERSON), Level 8 369573",
     "type": "Central Kitchen",
     "number": "FPCK20240000734",
     "scheme": "Food Preparation Area",
@@ -17854,15 +17836,6 @@
     "scheme": "Food Preparation Area",
     "id": "4cf73c85-1a45-4e1b-a373-1adbb7f56422",
     "postal": "768828"
-  },
-  {
-    "name": "Malay/Indian Delights@Rolls Royce (Mngd by ISS Catering)",
-    "address": "6 Seletar Aerospace Rise Rolls Royce 797575",
-    "type": "Staff Canteen",
-    "number": "EEFN21070012270",
-    "scheme": "Eating Establishment",
-    "id": "0151a572-d338-4518-9b9a-160833f5c8c5",
-    "postal": "797575"
   },
   {
     "name": "Malaysian Street Food (S9)@My Kampung Kallang Wave Mall",
@@ -25930,7 +25903,7 @@
   },
   {
     "name": "Relaks @ Conrad Singapore Marina Bay (managed by Compass Group)",
-    "address": "2 TEMASEK BOULEVARD #B1 (Staff Canteen) CONRAD CENTENNIAL SINGAPORE 038982",
+    "address": "2 TEMASEK BOULEVARD B1 (Staff Canteen) CONRAD CENTENNIAL SINGAPORE 038982",
     "type": "Staff Canteen",
     "number": "EESC20250000642",
     "scheme": "Eating Establishment",
@@ -26074,15 +26047,6 @@
   },
   {
     "name": "RIVE GAUCHE PATISSERIE",
-    "address": "20 TAN QUEE LAN STREET #01-05 GUOCO MIDTOWN II 188107",
-    "type": "Restaurant",
-    "number": "EERT25110000014",
-    "scheme": "Eating Establishment",
-    "id": "8bfe6517-83bd-4a52-b3a2-0be050fe21c3",
-    "postal": "188107"
-  },
-  {
-    "name": "RIVE GAUCHE PATISSERIE",
     "address": "2 ORCHARD TURN #B4-71 ION ORCHARD 238801",
     "type": "Snack Bar / Bakery",
     "number": "EESB25110000015",
@@ -26107,15 +26071,6 @@
     "scheme": "Eating Establishment",
     "id": "8bfe6517-83bd-4a52-b3a2-0be050fe21c3",
     "postal": "768019"
-  },
-  {
-    "name": "RIVE GAUCHE PATISSERIE",
-    "address": "80 MARINE PARADE ROAD #03-30C PARKWAY PARADE 449269",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB25110000018",
-    "scheme": "Eating Establishment",
-    "id": "8bfe6517-83bd-4a52-b3a2-0be050fe21c3",
-    "postal": "449269"
   },
   {
     "name": "RIVE GAUCHE PATISSERIE",
@@ -26332,6 +26287,15 @@
     "scheme": "Eating Establishment",
     "id": "98647a82-0b52-4624-82e9-e1f7d5600687",
     "postal": "677743"
+  },
+  {
+    "name": "RUMAH MAKAN MINANG",
+    "address": "60 JURONG WEST CENTRAL 3 #01-05 THE FRONTIER COMMUNITY CLUB 648346",
+    "type": "Restaurant",
+    "number": "EERT26070000002",
+    "scheme": "Eating Establishment",
+    "id": "ad173bea-5e3d-4ad4-932f-8e4788f02d73",
+    "postal": "648346"
   },
   {
     "name": "RUMAH MAKAN MINANG",
@@ -30286,15 +30250,6 @@
   },
   {
     "name": "Sukiya Gyudon • Curry",
-    "address": "180 KITCHENER ROAD #B1-31/32 CITY SQUARE MALL 208539",
-    "type": "Restaurant",
-    "number": "EERT20230001008",
-    "scheme": "Eating Establishment",
-    "id": "f25faa72-19a1-4c85-a920-fc1462f72292",
-    "postal": "208539"
-  },
-  {
-    "name": "Sukiya Gyudon • Curry",
     "address": "6 WOODLANDS SQUARE #B2-05 WOODS SQUARE 737737",
     "type": "Restaurant",
     "number": "EERT20230001144",
@@ -32049,6 +32004,15 @@
     "postal": "677743"
   },
   {
+    "name": "Tasty Indian Cafe",
+    "address": "640 BUKIT BATOK CENTRAL #01-40 S11, Stall 6 650640",
+    "type": "Hawker",
+    "number": "EEHK26070000099",
+    "scheme": "Eating Establishment",
+    "id": "5b2f9ca4-a44b-481e-a45b-c00a72f72af4",
+    "postal": "650640"
+  },
+  {
     "name": "Tasty Wok",
     "address": "71 PASIR RIS DRIVE 3 PASIR RIS INTEGRATED TRANSPORT HUB NTWU CANTEEN, Stall 3 519872",
     "type": "Hawker",
@@ -33058,15 +33022,6 @@
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "90 HOUGANG AVENUE 10 #01-01/02/04/05 HOUGANG MALL 538766",
-    "type": "Restaurant",
-    "number": "EERN21120013289",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "538766"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
     "address": "238 Thomson Road #02-04 Novena Square, 307683",
     "type": "Restaurant",
     "number": "EERN21120013291",
@@ -33409,15 +33364,6 @@
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "1 SENGKANG SQUARE #01-23 COMPASS ONE 545078",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN21120013004",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "545078"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
     "address": "100 BUKIT TIMAH ROAD #01-K1 KK WOMEN'S AND CHILDREN'S HOSPITAL 229899",
     "type": "Snack Bar / Bakery",
     "number": "EESB20230000043",
@@ -33694,6 +33640,15 @@
     "scheme": "Eating Establishment",
     "id": "b6c029e1-43fa-4a49-923d-ca5b66d61bbf",
     "postal": "540339"
+  },
+  {
+    "name": "THE ORIGINAL VADAI PTE. LTD.",
+    "address": "1550 BEDOK NORTH AVENUE 4 #04-04 489950",
+    "type": "Central Kitchen",
+    "number": "FPCK20240000893",
+    "scheme": "Food Preparation Area",
+    "id": "2cf47297-6487-4b72-a440-8997c6252276",
+    "postal": "489950"
   },
   {
     "name": "THE RAMEN STALL",
@@ -34552,33 +34507,6 @@
   },
   {
     "name": "TREATS",
-    "address": "160 YIO CHU KANG ROAD ESSO SERVICE STATION 545614",
-    "type": "Food Kiosk",
-    "number": "EEFK20220001006",
-    "scheme": "Eating Establishment",
-    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
-    "postal": "545614"
-  },
-  {
-    "name": "TREATS",
-    "address": "299 YIO CHU KANG ROAD MOBIL SERVICE STATION 805909",
-    "type": "Food Kiosk",
-    "number": "EEFK20220001010",
-    "scheme": "Eating Establishment",
-    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
-    "postal": "805909"
-  },
-  {
-    "name": "TREATS",
-    "address": "262 QUEENSWAY MOBIL SERVICE STATION 149061",
-    "type": "Food Kiosk",
-    "number": "EEFK20230000900",
-    "scheme": "Eating Establishment",
-    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
-    "postal": "149061"
-  },
-  {
-    "name": "TREATS",
     "address": "181 WEST COAST ROAD ESSO SERVICE STATION 127373",
     "type": "Food Kiosk",
     "number": "EEKN21110012176",
@@ -34594,15 +34522,6 @@
     "scheme": "Eating Establishment",
     "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
     "postal": "689858"
-  },
-  {
-    "name": "TREATS",
-    "address": "31 CHOA CHU KANG WAY ESSO SERVICE STATION 688786",
-    "type": "Food Kiosk",
-    "number": "EEKN21110012182",
-    "scheme": "Eating Establishment",
-    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
-    "postal": "688786"
   },
   {
     "name": "Triplets",
@@ -34660,15 +34579,6 @@
   },
   {
     "name": "TripletS",
-    "address": "1 PUNGGOL COAST ROAD 01-01 DIGIPEN INSTITUTE TECHNOLOGY OF SINGAPORE 828608",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB26010000121",
-    "scheme": "Eating Establishment",
-    "id": "93a5a81c-1ecf-48e6-9206-cad8e5504ada",
-    "postal": "828608"
-  },
-  {
-    "name": "TripletS",
     "address": "17 WOODLANDS DRIVE 17 #B2-11 WOODLANDS HEALTH CAMPUS 737628",
     "type": "Snack Bar / Bakery",
     "number": "EESB25100000054",
@@ -34684,6 +34594,15 @@
     "scheme": "Eating Establishment",
     "id": "93a5a81c-1ecf-48e6-9206-cad8e5504ada",
     "postal": "544886"
+  },
+  {
+    "name": "TripletS",
+    "address": "1 PUNGGOL COAST ROAD 01-01 DIGIPEN INSTITUTE TECHNOLOGY OF SINGAPORE 828608",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26010000121",
+    "scheme": "Eating Establishment",
+    "id": "93a5a81c-1ecf-48e6-9206-cad8e5504ada",
+    "postal": "828608"
   },
   {
     "name": "TUK TUK CHA",

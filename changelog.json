@@ -1,5 +1,197 @@
 [
   {
+    "timestamp": "2026-07-30T23:20:29.967358",
+    "date": "2026-07-30",
+    "summary": {
+      "new": 3,
+      "removed": 12,
+      "updated": 2
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "RUMAH MAKAN MINANG",
+          "address": "60 JURONG WEST CENTRAL 3 #01-05 THE FRONTIER COMMUNITY CLUB 648346",
+          "type": "Restaurant",
+          "number": "EERT26070000002",
+          "scheme": "Eating Establishment",
+          "id": "ad173bea-5e3d-4ad4-932f-8e4788f02d73",
+          "postal": "648346"
+        },
+        {
+          "name": "THE ORIGINAL VADAI PTE. LTD.",
+          "address": "1550 BEDOK NORTH AVENUE 4 #04-04 489950",
+          "type": "Central Kitchen",
+          "number": "FPCK20240000893",
+          "scheme": "Food Preparation Area",
+          "id": "2cf47297-6487-4b72-a440-8997c6252276",
+          "postal": "489950"
+        },
+        {
+          "name": "Tasty Indian Cafe",
+          "address": "640 BUKIT BATOK CENTRAL #01-40 S11, Stall 6 650640",
+          "type": "Hawker",
+          "number": "EEHK26070000099",
+          "scheme": "Eating Establishment",
+          "id": "5b2f9ca4-a44b-481e-a45b-c00a72f72af4",
+          "postal": "650640"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Malay/Indian Delights@Rolls Royce (Mngd by ISS Catering)",
+          "address": "6 Seletar Aerospace Rise Rolls Royce 797575",
+          "type": "Staff Canteen",
+          "number": "EEFN21070012270",
+          "scheme": "Eating Establishment",
+          "id": "0151a572-d338-4518-9b9a-160833f5c8c5",
+          "postal": "797575"
+        },
+        {
+          "name": "RIVE GAUCHE PATISSERIE",
+          "address": "80 MARINE PARADE ROAD #03-30C PARKWAY PARADE 449269",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB25110000018",
+          "scheme": "Eating Establishment",
+          "id": "8bfe6517-83bd-4a52-b3a2-0be050fe21c3",
+          "postal": "449269"
+        },
+        {
+          "name": "TREATS",
+          "address": "262 QUEENSWAY MOBIL SERVICE STATION 149061",
+          "type": "Food Kiosk",
+          "number": "EEFK20230000900",
+          "scheme": "Eating Establishment",
+          "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
+          "postal": "149061"
+        },
+        {
+          "name": "RIVE GAUCHE PATISSERIE",
+          "address": "20 TAN QUEE LAN STREET #01-05 GUOCO MIDTOWN II 188107",
+          "type": "Restaurant",
+          "number": "EERT25110000014",
+          "scheme": "Eating Establishment",
+          "id": "8bfe6517-83bd-4a52-b3a2-0be050fe21c3",
+          "postal": "188107"
+        },
+        {
+          "name": "TREATS",
+          "address": "160 YIO CHU KANG ROAD ESSO SERVICE STATION 545614",
+          "type": "Food Kiosk",
+          "number": "EEFK20220001006",
+          "scheme": "Eating Establishment",
+          "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
+          "postal": "545614"
+        },
+        {
+          "name": "THE COFFEE BEAN & TEA LEAF",
+          "address": "90 HOUGANG AVENUE 10 #01-01/02/04/05 HOUGANG MALL 538766",
+          "type": "Restaurant",
+          "number": "EERN21120013289",
+          "scheme": "Eating Establishment",
+          "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+          "postal": "538766"
+        },
+        {
+          "name": "International Cuisine@Rolls Royce(Mngd by ISS Catering)",
+          "address": "6 Seletar Aerospace Rise Rolls Royce 797575",
+          "type": "Staff Canteen",
+          "number": "EEFN21070012269",
+          "scheme": "Eating Establishment",
+          "id": "34e10f71-d3da-4743-a872-8222e8121e84",
+          "postal": "797575"
+        },
+        {
+          "name": "THE COFFEE BEAN & TEA LEAF",
+          "address": "1 SENGKANG SQUARE #01-23 COMPASS ONE 545078",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21120013004",
+          "scheme": "Eating Establishment",
+          "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+          "postal": "545078"
+        },
+        {
+          "name": "TREATS",
+          "address": "31 CHOA CHU KANG WAY ESSO SERVICE STATION 688786",
+          "type": "Food Kiosk",
+          "number": "EEKN21110012182",
+          "scheme": "Eating Establishment",
+          "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
+          "postal": "688786"
+        },
+        {
+          "name": "Kampung Tree Nasi Padang (S4) @ Kopitiam Fairprice Hub",
+          "address": "1 Joo Koon Circle #03-25 Fairprice Hub, STALL 4 629117",
+          "type": "Hawker",
+          "number": "EEHK20250000616",
+          "scheme": "Eating Establishment",
+          "id": "ae87c6d6-6a9d-4f1a-a704-2a43d38c099f",
+          "postal": "629117"
+        },
+        {
+          "name": "TREATS",
+          "address": "299 YIO CHU KANG ROAD MOBIL SERVICE STATION 805909",
+          "type": "Food Kiosk",
+          "number": "EEFK20220001010",
+          "scheme": "Eating Establishment",
+          "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
+          "postal": "805909"
+        },
+        {
+          "name": "Sukiya Gyudon • Curry",
+          "address": "180 KITCHENER ROAD #B1-31/32 CITY SQUARE MALL 208539",
+          "type": "Restaurant",
+          "number": "EERT20230001008",
+          "scheme": "Eating Establishment",
+          "id": "f25faa72-19a1-4c85-a920-fc1462f72292",
+          "postal": "208539"
+        }
+      ],
+      "updated": [
+        {
+          "previous": {
+            "name": "Kitchen @Lentor Health NH MPS(Mngd by the Lentor Residence PL)",
+            "address": "2 MACPHERSON WALK #08, Level 8 369573",
+            "type": "Central Kitchen",
+            "number": "FPCK20240000734",
+            "scheme": "Food Preparation Area",
+            "id": "b9af5397-d605-4590-ad4b-8f0c75aeb7f3",
+            "postal": "369573"
+          },
+          "current": {
+            "name": "Kitchen @Lentor Health NH MPS(Mngd by the Lentor Residence PL)",
+            "address": "2 MACPHERSON WALK LENTOR HEALTH NURSING HOME (MACPHERSON), Level 8 369573",
+            "type": "Central Kitchen",
+            "number": "FPCK20240000734",
+            "scheme": "Food Preparation Area",
+            "id": "b9af5397-d605-4590-ad4b-8f0c75aeb7f3",
+            "postal": "369573"
+          }
+        },
+        {
+          "previous": {
+            "name": "Relaks @ Conrad Singapore Marina Bay (managed by Compass Group)",
+            "address": "2 TEMASEK BOULEVARD #B1 (Staff Canteen) CONRAD CENTENNIAL SINGAPORE 038982",
+            "type": "Staff Canteen",
+            "number": "EESC20250000642",
+            "scheme": "Eating Establishment",
+            "id": "2d1834f6-fcb1-4e27-b4fb-e3b3d5d2145c",
+            "postal": "038982"
+          },
+          "current": {
+            "name": "Relaks @ Conrad Singapore Marina Bay (managed by Compass Group)",
+            "address": "2 TEMASEK BOULEVARD B1 (Staff Canteen) CONRAD CENTENNIAL SINGAPORE 038982",
+            "type": "Staff Canteen",
+            "number": "EESC20250000642",
+            "scheme": "Eating Establishment",
+            "id": "2d1834f6-fcb1-4e27-b4fb-e3b3d5d2145c",
+            "postal": "038982"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-07-29T23:11:31.011051",
     "date": "2026-07-29",
     "summary": {
@@ -8891,61 +9083,6 @@
       ],
       "removed": [],
       "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-05-25T22:37:13.518120",
-    "date": "2026-05-25",
-    "summary": {
-      "new": 0,
-      "removed": 0,
-      "updated": 2
-    },
-    "changes": {
-      "new": [],
-      "removed": [],
-      "updated": [
-        {
-          "previous": {
-            "name": "Dapur Flora Chicken Rice (S5) @ Kopitiam Northpoint",
-            "address": "930 YISHUN AVENUE 2 #B2-12 NORTHPOINT,Stall 5 769098",
-            "type": "Hawker",
-            "number": "EEHK20240000295",
-            "scheme": "Eating Establishment",
-            "id": "25ea13eb-1eac-4c0d-a5d3-d7f2041d22e9",
-            "postal": "769098"
-          },
-          "current": {
-            "name": "Dapur Flora Chicken Rice (S5) @ Kopitiam Northpoint",
-            "address": "930 YISHUN AVENUE 2 #B2-12 NORTHPOINT, Stall 5 769098",
-            "type": "Hawker",
-            "number": "EEHK20240000295",
-            "scheme": "Eating Establishment",
-            "id": "25ea13eb-1eac-4c0d-a5d3-d7f2041d22e9",
-            "postal": "769098"
-          }
-        },
-        {
-          "previous": {
-            "name": "The Tree Cafe",
-            "address": "3 SIMEI STREET 6 EASTPOINT MALL 528833",
-            "type": "Restaurant",
-            "number": "EERT20250000382",
-            "scheme": "Eating Establishment",
-            "id": "c46acb89-ff04-470c-8633-cd33b3081fbc",
-            "postal": "528833"
-          },
-          "current": {
-            "name": "The Tree Cafe",
-            "address": "3 SIMEI STREET 6 #02-K1 EASTPOINT MALL 528833",
-            "type": "Restaurant",
-            "number": "EERT20250000382",
-            "scheme": "Eating Establishment",
-            "id": "c46acb89-ff04-470c-8633-cd33b3081fbc",
-            "postal": "528833"
-          }
-        }
-      ]
     }
   }
 ]
