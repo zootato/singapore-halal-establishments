@@ -1,5 +1,2553 @@
 [
   {
+    "timestamp": "2026-07-31T23:15:26.637163",
+    "date": "2026-07-31",
+    "summary": {
+      "new": 70,
+      "removed": 209,
+      "updated": 1
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "STUFF'D",
+          "address": "23 SERANGOON CENTRAL #B2-47A NEX MALL 556083",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21110012924",
+          "scheme": "Eating Establishment",
+          "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
+          "postal": "556083"
+        },
+        {
+          "name": "SBY FROZEN FOOD SUPPLY PTE LTD",
+          "address": "5 KAKI BUKIT ROAD 1 #05-02 EUNOS TECHNOLINK 415936",
+          "type": "Catering Company",
+          "number": "FPCA25100000016",
+          "scheme": "Food Preparation Area",
+          "id": "ef5b9e14-64b3-4f00-8852-9835e1be077f",
+          "postal": "415936"
+        },
+        {
+          "name": "TIP TOP",
+          "address": "1 PASIR RIS CLOSE #02-109 E!HUB@DOWNTOWN EAST 519599",
+          "type": "Restaurant",
+          "number": "EERT20240000728",
+          "scheme": "Eating Establishment",
+          "id": "87a00d7d-0af0-4000-be56-7b7facc1c180",
+          "postal": "519599"
+        },
+        {
+          "name": "Srisun Express",
+          "address": "509 BISHAN STREET 11 #01-382 570509",
+          "type": "Restaurant",
+          "number": "EERT20230001058",
+          "scheme": "Eating Establishment",
+          "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
+          "postal": "570509"
+        },
+        {
+          "name": "Sanook Kitchen",
+          "address": "17 Petir Road #01-17/18 Hillion Mall 678278",
+          "type": "Restaurant",
+          "number": "EERT20230000517",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "678278"
+        },
+        {
+          "name": "STUFF'D",
+          "address": "17 PETIR ROAD #B2-40 Hillion Mall 678278",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21110012923",
+          "scheme": "Eating Establishment",
+          "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
+          "postal": "678278"
+        },
+        {
+          "name": "Srisun Express",
+          "address": "474 TAMPINES STREET 43 #01-118 520474",
+          "type": "Restaurant",
+          "number": "EERX21040012273",
+          "scheme": "Eating Establishment",
+          "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
+          "postal": "520474"
+        },
+        {
+          "name": "Srisun Express",
+          "address": "56 SERANGOON GARDEN WAY SERANGOON GARDEN ESTATE 555952",
+          "type": "Restaurant",
+          "number": "EERX21040012274",
+          "scheme": "Eating Establishment",
+          "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
+          "postal": "555952"
+        },
+        {
+          "name": "Sanook Kitchen",
+          "address": "16 LORONG MAMBONG HOLLAND VILLAGE 277677",
+          "type": "Restaurant",
+          "number": "EERN21080012849",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "277677"
+        },
+        {
+          "name": "Tim Hortons",
+          "address": "17 WOODLANDS DRIVE 17 #01-03 WOODLANDS HEALTH CAMPUS 737628",
+          "type": "Restaurant",
+          "number": "EERT26020000012",
+          "scheme": "Eating Establishment",
+          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+          "postal": "737628"
+        },
+        {
+          "name": "TEXAS CHICKEN",
+          "address": "2 TAMPINES CENTRAL 5 #05-03 CENTURY SQUARE 529509",
+          "type": "Restaurant",
+          "number": "EERN21070012596",
+          "scheme": "Eating Establishment",
+          "id": "53c88848-1280-4fee-b6dc-b5d1d941c07d",
+          "postal": "529509"
+        },
+        {
+          "name": "CRAVE",
+          "address": "1 LOWER KENT RIDGE ROAD #01-09/19/20 ONE @ KENTRIDGE 119082",
+          "type": "Restaurant",
+          "number": "EERN21050012353",
+          "scheme": "Eating Establishment",
+          "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
+          "postal": "119082"
+        },
+        {
+          "name": "Sanook Kitchen",
+          "address": "10 SINARAN DRIVE #02-65/66/67 SQUARE 2 307506",
+          "type": "Restaurant",
+          "number": "EERT20230000878",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "307506"
+        },
+        {
+          "name": "Sanook Kitchen",
+          "address": "3 GATEWAY DRIVE #B1-25 WESTGATE 608532",
+          "type": "Restaurant",
+          "number": "EERT20240000492",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "608532"
+        },
+        {
+          "name": "MEE CIK LING",
+          "address": "170A SENGKANG EAST DRIVE Stall 4, The Coffeehood & Tea Hall #01-10 RIVERVALE SHORES 541170",
+          "type": "Hawker",
+          "number": "EEHK26070000070",
+          "scheme": "Eating Establishment",
+          "id": "1a953c97-8df7-4ac1-bb86-f7975a4b7b2a",
+          "postal": "541170"
+        },
+        {
+          "name": "Tim Hortons",
+          "address": "23 SERANGOON CENTRAL #01-10 NEX 556083",
+          "type": "Restaurant",
+          "number": "EERT26020000002",
+          "scheme": "Eating Establishment",
+          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+          "postal": "556083"
+        },
+        {
+          "name": "Tim Hortons",
+          "address": "1 JURONG WEST CENTRAL 2 #01-26F/26G JURONG POINT 648886",
+          "type": "Restaurant",
+          "number": "EERT26020000005",
+          "scheme": "Eating Establishment",
+          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+          "postal": "648886"
+        },
+        {
+          "name": "SWEE HENG",
+          "address": "963 JURONG WEST STREET 91 #01-314 640963",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000383",
+          "scheme": "Eating Establishment",
+          "id": "8ca8605b-be4d-48dd-98d0-78c2ed91bffb",
+          "postal": "640963"
+        },
+        {
+          "name": "STUFF'D",
+          "address": "1 WOODLANDS SQUARE #B1-K17 CAUSEWAY POINT 738099",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21110012929",
+          "scheme": "Eating Establishment",
+          "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
+          "postal": "738099"
+        },
+        {
+          "name": "McDonald's",
+          "address": "1 KIM SENG PROMENADE #01-124 GREAT WORLD CITY 237994",
+          "type": "Restaurant",
+          "number": "EERN20020011059",
+          "scheme": "Eating Establishment",
+          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+          "postal": "237994"
+        },
+        {
+          "name": "SUBWAY",
+          "address": "30 YISHUN STREET 81 #01-02 NEE SOON SOUTH COMMUNITY CLUB 768455",
+          "type": "Restaurant",
+          "number": "EERT26070000119",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "768455"
+        },
+        {
+          "name": "Chops & Sear",
+          "address": "570A WOODLANDS AVENUE 1 Stall 8, De Tian 570A Woodlands #01-01 CHAMPIONS COURT, Stall 8, De Tian 731570",
+          "type": "Hawker",
+          "number": "EEHK26070000083",
+          "scheme": "Eating Establishment",
+          "id": "ad27eda0-2724-4574-92b5-b234959d8d90",
+          "postal": "731570"
+        },
+        {
+          "name": "PastryCo",
+          "address": "432A BUKIT BATOK WEST AVENUE 8 #01-02 WEST SCAPE @ BUKIT BATOK 651432",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000825",
+          "scheme": "Eating Establishment",
+          "id": "6dc02f81-d9ea-4cd9-879b-0d9239b917c4",
+          "postal": "651432"
+        },
+        {
+          "name": "Sanook Kitchen",
+          "address": "1 HARBOURFRONT WALK #B2-23C VIVO CITY 098585",
+          "type": "Restaurant",
+          "number": "EERT20220000545",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "098585"
+        },
+        {
+          "name": "Tim Hortons",
+          "address": "1 HARBOURFRONT WALK #01-207 VIVOCITY 098585",
+          "type": "Restaurant",
+          "number": "EERT26020000001",
+          "scheme": "Eating Establishment",
+          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+          "postal": "098585"
+        },
+        {
+          "name": "Chops & Sear",
+          "address": "631 ANG MO KIO AVENUE 4 #01-906 YIO CHU KANG VIEW, Stall 6, De Tian 560631",
+          "type": "Hawker",
+          "number": "EEHK26070000079",
+          "scheme": "Eating Establishment",
+          "id": "ad27eda0-2724-4574-92b5-b234959d8d90",
+          "postal": "560631"
+        },
+        {
+          "name": "Chops & Sear",
+          "address": "59 NEW UPPER CHANGI ROAD Stall 5, De Tian 59 Bedok #01-1260, Stall 5, De Tian 461059",
+          "type": "Hawker",
+          "number": "EEHK26070000078",
+          "scheme": "Eating Establishment",
+          "id": "ad27eda0-2724-4574-92b5-b234959d8d90",
+          "postal": "461059"
+        },
+        {
+          "name": "Sanook Kitchen",
+          "address": "180 KITCHENER ROAD #02-33/56 CITY SQUARE MALL 208539",
+          "type": "Restaurant",
+          "number": "EERT20250000405",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "208539"
+        },
+        {
+          "name": "Tim Hortons",
+          "address": "112 EAST COAST ROAD #01-28 112 KATONG 428802",
+          "type": "Restaurant",
+          "number": "EERT26020000011",
+          "scheme": "Eating Establishment",
+          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+          "postal": "428802"
+        },
+        {
+          "name": "Chops & Sear",
+          "address": "915 TAMPINES STREET 91 #01-53 TAMPINES PALMSVILLE, Stall 8, De Tian 520915",
+          "type": "Hawker",
+          "number": "EEHK26070000084",
+          "scheme": "Eating Establishment",
+          "id": "ad27eda0-2724-4574-92b5-b234959d8d90",
+          "postal": "520915"
+        },
+        {
+          "name": "MR BEAN",
+          "address": "90 HOUGANG AVENUE 10 #B1-13A HOUGANG MALL 538766",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000178",
+          "scheme": "Eating Establishment",
+          "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
+          "postal": "538766"
+        },
+        {
+          "name": "Tim Hortons",
+          "address": "180 Kitchener Road #01-30/31 CITY SQUARE MALL 208539",
+          "type": "Restaurant",
+          "number": "EERT26020000013",
+          "scheme": "Eating Establishment",
+          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+          "postal": "208539"
+        },
+        {
+          "name": "KOPISTRY",
+          "address": "170A SENGKANG EAST DRIVE Stall 2, The Coffeehood and Tea Hall #01-10 RIVERVALE SHORES 541170",
+          "type": "Hawker",
+          "number": "EEHK26070000069",
+          "scheme": "Eating Establishment",
+          "id": "f507e1b1-451d-49af-b2ed-d78985112c01",
+          "postal": "541170"
+        },
+        {
+          "name": "Chops & Sear",
+          "address": "265 BUKIT BATOK EAST AVENUE 4 #01-405, Stall 7, De Tian 650265",
+          "type": "Hawker",
+          "number": "EEHK26070000080",
+          "scheme": "Eating Establishment",
+          "id": "ad27eda0-2724-4574-92b5-b234959d8d90",
+          "postal": "650265"
+        },
+        {
+          "name": "STUFF'D",
+          "address": "21 CHOA CHU KANG NORTH 6 #B1-50 YEWTEE POINT 689578",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21110012926",
+          "scheme": "Eating Establishment",
+          "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
+          "postal": "689578"
+        },
+        {
+          "name": "SUPER SUSHI",
+          "address": "50 JURONG GATEWAY ROAD #B1-28 JEM 608549",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26070000003",
+          "scheme": "Eating Establishment",
+          "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
+          "postal": "608549"
+        },
+        {
+          "name": "Pastamania",
+          "address": "1 BUKIT BATOK CENTRAL LINK #01-40 WEST MALL 658713",
+          "type": "Restaurant",
+          "number": "EERN22010013365",
+          "scheme": "Eating Establishment",
+          "id": "e1eb4468-e706-4f99-bbf2-2603b062790c",
+          "postal": "658713"
+        },
+        {
+          "name": "Chops & Sear",
+          "address": "205 BEDOK NORTH STREET 1 Stall 1, De Tian 205 Bedok #01-357 BEDOK TOWN CENTRE, Stall 1, De Tian 460205",
+          "type": "Hawker",
+          "number": "EEHK26070000074",
+          "scheme": "Eating Establishment",
+          "id": "ad27eda0-2724-4574-92b5-b234959d8d90",
+          "postal": "460205"
+        },
+        {
+          "name": "Go-Ang Pratunam Chicken Rice",
+          "address": "1 LOWER KENT RIDGE ROAD #02-11/#02-12 ONE@KENTRIDGE 119082",
+          "type": "Restaurant",
+          "number": "EERT26070000116",
+          "scheme": "Eating Establishment",
+          "id": "825dda24-e8f5-4381-ac0b-8b2ff9fd9c36",
+          "postal": "119082"
+        },
+        {
+          "name": "QI JI",
+          "address": "107 NORTH BRIDGE ROAD #B2-12 FUNAN 179105",
+          "type": "Restaurant",
+          "number": "EERN21050012345",
+          "scheme": "Eating Establishment",
+          "id": "01cd5d67-3096-4ef7-bc6a-394a937ea753",
+          "postal": "179105"
+        },
+        {
+          "name": "Sanook Kitchen",
+          "address": "1 STADIUM PLACE #01-16/K8 397628",
+          "type": "Restaurant",
+          "number": "EERN21080012848",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "397628"
+        },
+        {
+          "name": "Chops & Sear",
+          "address": "28 JALAN BUKIT MERAH #01-4476 BRICKWORKS ESTATE, Stall 4, De Tian 152028",
+          "type": "Hawker",
+          "number": "EEHK26070000073",
+          "scheme": "Eating Establishment",
+          "id": "ad27eda0-2724-4574-92b5-b234959d8d90",
+          "postal": "152028"
+        },
+        {
+          "name": "McDonald's",
+          "address": "4 BUKIT BATOK STREET 41 #01-42-45/50-54 LE QUEST 657991",
+          "type": "Restaurant",
+          "number": "EERN21010011971",
+          "scheme": "Eating Establishment",
+          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+          "postal": "657991"
+        },
+        {
+          "name": "Ali's Fry & Grill",
+          "address": "768 WOODLANDS AVENUE 6 Stall 02, Fork & Spoon #01-30/32 WOODLANDS MART 730768",
+          "type": "Hawker",
+          "number": "EEHK26070000104",
+          "scheme": "Eating Establishment",
+          "id": "b891d14b-6251-4cb6-885a-20ff2edfd7ee",
+          "postal": "730768"
+        },
+        {
+          "name": "Chops & Sear",
+          "address": "339 ANG MO KIO AVENUE 1 #01-1601, Stall 5, De Tian 560339",
+          "type": "Hawker",
+          "number": "EEHK26070000085",
+          "scheme": "Eating Establishment",
+          "id": "ad27eda0-2724-4574-92b5-b234959d8d90",
+          "postal": "560339"
+        },
+        {
+          "name": "Chops & Sear",
+          "address": "46 TELOK BLANGAH DRIVE #01-71 BLANGAH COURT, Stall 7, De Tian 100046",
+          "type": "Hawker",
+          "number": "EEHK26070000081",
+          "scheme": "Eating Establishment",
+          "id": "ad27eda0-2724-4574-92b5-b234959d8d90",
+          "postal": "100046"
+        },
+        {
+          "name": "Chops & Sear",
+          "address": "120 BISHAN STREET 12 #01-67, Stall 5, De Tian 570120",
+          "type": "Hawker",
+          "number": "EEHK26070000077",
+          "scheme": "Eating Establishment",
+          "id": "ad27eda0-2724-4574-92b5-b234959d8d90",
+          "postal": "570120"
+        },
+        {
+          "name": "BAKECAKERY",
+          "address": "170A SENGKANG EAST DRIVE Stall 1, The Coffeehood and Tea Hall #01-10 RIVERVALE SHORES 541170",
+          "type": "Hawker",
+          "number": "EEHK26070000068",
+          "scheme": "Eating Establishment",
+          "id": "4ff8191e-c0cf-444e-913b-ed93ddba78b2",
+          "postal": "541170"
+        },
+        {
+          "name": "OLD CHANG KEE",
+          "address": "1 MARITIME SQUARE #02-20B HARBOURFRONT CENTRE 099253",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000439",
+          "scheme": "Eating Establishment",
+          "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
+          "postal": "099253"
+        },
+        {
+          "name": "Chops & Sear",
+          "address": "81 MARINE PARADE CENTRAL Stall 3, De Tian 81 Marine Parade #01-654 MARINE PARADE PROMENADE, Stall 3, De Tian 440081",
+          "type": "Hawker",
+          "number": "EEHK26070000075",
+          "scheme": "Eating Establishment",
+          "id": "ad27eda0-2724-4574-92b5-b234959d8d90",
+          "postal": "440081"
+        },
+        {
+          "name": "TENDERFRESH XPRESS",
+          "address": "118 RIVERVALE DRIVE #01-K18/k19 Rivervale Plaza 540118",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26040000057",
+          "scheme": "Eating Establishment",
+          "id": "fa23a2c4-12e6-4c0a-aa89-d3552d6d92cb",
+          "postal": "540118"
+        },
+        {
+          "name": "Western",
+          "address": "27 PRINCE GEORGE'S PARK NATIONAL UNIVERSITY OF SINGAPORE (PRINCE GEORGE's PARK RESIDENCES), STALL 8 PGP FOOD COURT (1ST & 2ND STOREY) 118425",
+          "type": "Hawker",
+          "number": "EEHK26070000103",
+          "scheme": "Eating Establishment",
+          "id": "96b022a7-7ae9-4fc9-8d4f-1a38cde68eb6",
+          "postal": "118425"
+        },
+        {
+          "name": "Tim Hortons",
+          "address": "3 TEMASEK BOULEVARD #01-314 SUNTEC CITY MALL 038983",
+          "type": "Restaurant",
+          "number": "EERT26020000003",
+          "scheme": "Eating Establishment",
+          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+          "postal": "038983"
+        },
+        {
+          "name": "SAAP SAAP THAI",
+          "address": "1 PASIR RIS CENTRAL STREET 3 #02-24,#02-K01 WHITE SANDS 518457",
+          "type": "Restaurant",
+          "number": "EERT26020000076",
+          "scheme": "Eating Establishment",
+          "id": "9589c31f-fee1-4b1e-925f-755094a68b7a",
+          "postal": "518457"
+        },
+        {
+          "name": "Chops & Sear",
+          "address": "73 LORONG 4 TOA PAYOH #01-611 TOA PAYOH VISTA, Stall 4, De Tian 310073",
+          "type": "Hawker",
+          "number": "EEHK26070000076",
+          "scheme": "Eating Establishment",
+          "id": "ad27eda0-2724-4574-92b5-b234959d8d90",
+          "postal": "310073"
+        },
+        {
+          "name": "Tim Hortons",
+          "address": "50 JURONG GATEWAY ROAD #01-47 JEM 608549",
+          "type": "Restaurant",
+          "number": "EERT26020000006",
+          "scheme": "Eating Establishment",
+          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+          "postal": "608549"
+        },
+        {
+          "name": "Lepak Western",
+          "address": "1 WOODLANDS HEIGHT Bagus #01-01 KOUFU GROUP HQ, MR3 737859",
+          "type": "Hawker",
+          "number": "EEHK26070000107",
+          "scheme": "Eating Establishment",
+          "id": "2ef50f03-5362-4a2c-bebd-146bef5744f4",
+          "postal": "737859"
+        },
+        {
+          "name": "Sumber Ayam Chicken Rice (S5)@Food Republic City Square Mall",
+          "address": "180 KITCHENER ROAD #B3-04 CITY SQUARE MALL, Stall 5 208539",
+          "type": "Hawker",
+          "number": "EEHK20240000913",
+          "scheme": "Eating Establishment",
+          "id": "6898b05f-3ffe-41b3-af30-8aea1bf8c6a3",
+          "postal": "208539"
+        },
+        {
+          "name": "STUFF'D",
+          "address": "1 HARBOUR FRONT WALK #B2-K18 VIVO CITY 098585",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21110012925",
+          "scheme": "Eating Establishment",
+          "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
+          "postal": "098585"
+        },
+        {
+          "name": "Sanook Kitchen",
+          "address": "83 PUNGGOL CENTRAL #B1-13 WATERWAY POINT 828761",
+          "type": "Restaurant",
+          "number": "EERT20230000516",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "828761"
+        },
+        {
+          "name": "Chops & Sear",
+          "address": "529 ANG MO KIO AVENUE 10 #01-2337 CHENG SAN CENTRE, Stall 7, De Tian 560529",
+          "type": "Hawker",
+          "number": "EEHK26070000082",
+          "scheme": "Eating Establishment",
+          "id": "ad27eda0-2724-4574-92b5-b234959d8d90",
+          "postal": "560529"
+        },
+        {
+          "name": "Tim Hortons",
+          "address": "7 PASIR RIS CENTRAL #02-64 PASIR RIS MALL 519612",
+          "type": "Restaurant",
+          "number": "EERT26020000007",
+          "scheme": "Eating Establishment",
+          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+          "postal": "519612"
+        },
+        {
+          "name": "ROTIBOY",
+          "address": "107 NORTH BRIDGE ROAD #B2-32 FUNAN 179105",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000994",
+          "scheme": "Eating Establishment",
+          "id": "8a6fb384-7215-49ac-b9fb-e7837903b6a5",
+          "postal": "179105"
+        },
+        {
+          "name": "Srisun Express",
+          "address": "132 BUKIT BATOK WEST AVENUE 6 #01-308, part of 650132",
+          "type": "Restaurant",
+          "number": "EERX21040012272",
+          "scheme": "Eating Establishment",
+          "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
+          "postal": "650132"
+        },
+        {
+          "name": "SUPER SUSHI",
+          "address": "1 JURONG WEST CENTRAL 2 #B1-03A JURONG POINT 648886",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26030000032",
+          "scheme": "Eating Establishment",
+          "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
+          "postal": "648886"
+        },
+        {
+          "name": "Srisun Express",
+          "address": "681 HOUGANG AVENUE 8 #01-831 HOUGANG VILLAGE 530681",
+          "type": "Restaurant",
+          "number": "EERT20230000895",
+          "scheme": "Eating Establishment",
+          "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
+          "postal": "530681"
+        },
+        {
+          "name": "Chops & Sear",
+          "address": "524 HOUGANG AVENUE 6 #01-125/129, DE TIAN (MR1) 530524",
+          "type": "Hawker",
+          "number": "EEHK26070000072",
+          "scheme": "Eating Establishment",
+          "id": "ad27eda0-2724-4574-92b5-b234959d8d90",
+          "postal": "530524"
+        },
+        {
+          "name": "D'RUBINAH @ PUNGGOL",
+          "address": "10 TEBING LANE #01-03/04 828836",
+          "type": "Restaurant",
+          "number": "EERX21070012659",
+          "scheme": "Eating Establishment",
+          "id": "cd849299-fac1-4111-a9cb-f2725ef3a47e",
+          "postal": "828836"
+        },
+        {
+          "name": "McDonald's",
+          "address": "88 PUNGGOL WAY #01-141 PUNGGOL COAST MALL 829913",
+          "type": "Restaurant",
+          "number": "EERT26070000096",
+          "scheme": "Eating Establishment",
+          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+          "postal": "829913"
+        },
+        {
+          "name": "TENDERFRESH Xpress",
+          "address": "118 RIVERVALE DRIVE #01-K18/k19 Rivervale Plaza 540118",
+          "type": "Restaurant",
+          "number": "EERN21060012467",
+          "scheme": "Eating Establishment",
+          "id": "fa23a2c4-12e6-4c0a-aa89-d3552d6d92cb",
+          "postal": "540118"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Chops & Sear (S7) @ De Tian 265 Bukit Batok",
+          "address": "265 BUKIT BATOK EAST AVENUE 4 #01-405, Stall 7 650265",
+          "type": "Hawker",
+          "number": "EEHK20240000695",
+          "scheme": "Eating Establishment",
+          "id": "b290b7c0-c5cd-4c56-8bd8-6539b5419a08",
+          "postal": "650265"
+        },
+        {
+          "name": "POLAR CAFE",
+          "address": "1 RAFFLES PLACE #B1-01 ONE RAFFLES PLACE 048616",
+          "type": "Restaurant",
+          "number": "EERT20230000450",
+          "scheme": "Eating Establishment",
+          "id": "ad978a29-b580-4c9b-9123-4bc1bb79e7cc",
+          "postal": "048616"
+        },
+        {
+          "name": "The Seafood Market by House of White Bee Hoon",
+          "address": "20 UPPER CIRCULAR ROAD #B1-38, 39, 40, 41, 42, 43 THE RIVERWALK 058416",
+          "type": "Restaurant",
+          "number": "EERT20250000581",
+          "scheme": "Eating Establishment",
+          "id": "c0e16fc3-2944-44de-90d4-d20ad2a9f404",
+          "postal": "058416"
+        },
+        {
+          "name": "Pastamania Pronto",
+          "address": "638 JURONG WEST STREET 61 #02-01 PIONEER MALL 640638",
+          "type": "Restaurant",
+          "number": "EERN21120013310",
+          "scheme": "Eating Establishment",
+          "id": "6509306c-99bf-4fec-88c3-34acbb883d8b",
+          "postal": "640638"
+        },
+        {
+          "name": "MANY SAUCE PTE. LTD.",
+          "address": "8A ADMIRALTY STREET #04-12 FOOD XCHANGE @ ADMIRALTY 757437",
+          "type": "Central Kitchen",
+          "number": "FPCK20230000032",
+          "scheme": "Food Preparation Area",
+          "id": "e6b00860-9757-4068-9f46-4b10919a2cd4",
+          "postal": "757437"
+        },
+        {
+          "name": "Chicken Rice (S9) @ Cantine Paya Lebar Square",
+          "address": "60 PAYA LEBAR ROAD #B1-51 PAYA LEBAR SQUARE, Stall 9 409051",
+          "type": "Hawker",
+          "number": "EEHK20240000031",
+          "scheme": "Eating Establishment",
+          "id": "f8c8bdb6-16b8-47bd-8afe-0dff221cfeab",
+          "postal": "409051"
+        },
+        {
+          "name": "Now Pizza",
+          "address": "63 JURONG WEST CENTRAL 3 JP2, Jurong Point #03-60 Jurong Point 648331",
+          "type": "Restaurant",
+          "number": "EERT25120000097",
+          "scheme": "Eating Establishment",
+          "id": "864c6a47-e378-4258-b9a5-9bf82b296233",
+          "postal": "648331"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "1 BUKIT BATOK CENTRAL LINK #01-K7 WEST MALL 658713",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20040011249",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "658713"
+        },
+        {
+          "name": "Chops & Sear (S7) @ De Tian 529 Cheng San Centre",
+          "address": "529 ANG MO KIO AVENUE 10 #01-2337 CHENG SAN CENTRE, Stall 7 560529",
+          "type": "Hawker",
+          "number": "EEHK20240000687",
+          "scheme": "Eating Establishment",
+          "id": "f96f916c-573e-41d1-a1f3-831d296aa66d",
+          "postal": "560529"
+        },
+        {
+          "name": "Chops & Sear (S8) @ De Tian 570A Woodlands",
+          "address": "570A WOODLANDS AVENUE 1 #01-01 CHAMPIONS COURT, Stall 8 731570",
+          "type": "Hawker",
+          "number": "EEHK20240000694",
+          "scheme": "Eating Establishment",
+          "id": "9b1727f7-a5ba-49aa-9cde-1bc998ccf496",
+          "postal": "731570"
+        },
+        {
+          "name": "Now Pizza",
+          "address": "107 NORTH BRIDGE ROAD #B2-31 FUNAN 179105",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000620",
+          "scheme": "Eating Establishment",
+          "id": "864c6a47-e378-4258-b9a5-9bf82b296233",
+          "postal": "179105"
+        },
+        {
+          "name": "Bali Thai Restaurant",
+          "address": "2 JURONG EAST STREET 21 #01-21 IMM BUILDING 609601",
+          "type": "Restaurant",
+          "number": "EERN21070012696",
+          "scheme": "Eating Establishment",
+          "id": "9a364ce4-e56d-44ac-b375-786f51bdbbab",
+          "postal": "609601"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "10 PAYA LEBAR ROAD #B2-K6 PAYA LEBAR QUARTER 409057",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26020000063",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "409057"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "3155 Commonwealth Ave West #B1-K15 The Clementi Mall 129588",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20040011256",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "129588"
+        },
+        {
+          "name": "NENEK PLACE",
+          "address": "81 LORONG 25 GEYLANG ALJUNIED MRT STATION 388310",
+          "type": "Restaurant",
+          "number": "EERT20220000398",
+          "scheme": "Eating Establishment",
+          "id": "26ccd233-1f70-4526-9053-f783eb4f45a7",
+          "postal": "388310"
+        },
+        {
+          "name": "Kopi 1 (S2) @ Boleh Boleh! Harbourfront",
+          "address": "1 MARITIME SQUARE #01-103/104/105/106/107/108 HARBOURFRONT CENTRE, Stall 2 099253",
+          "type": "Hawker",
+          "number": "EEHK20240000857",
+          "scheme": "Eating Establishment",
+          "id": "7b708a84-8e21-4767-910f-76e47cf8b92f",
+          "postal": "099253"
+        },
+        {
+          "name": "Yea Mama Catering",
+          "address": "1550 BEDOK NORTH AVENUE 4 #02-12 JTC BEDOK FOOD CITY 489950",
+          "type": "Catering Company",
+          "number": "FPCA26010000064",
+          "scheme": "Food Preparation Area",
+          "id": "80446d13-0553-4512-b762-d14820d9d8dd",
+          "postal": "489950"
+        },
+        {
+          "name": "So Pho",
+          "address": "3155 Commonwealth Ave West #04-34/K3 The Clementi Mall 129588",
+          "type": "Restaurant",
+          "number": "EERN21070012670",
+          "scheme": "Eating Establishment",
+          "id": "eab58cf8-5aa4-4b96-b522-760a4cceded7",
+          "postal": "129588"
+        },
+        {
+          "name": "Providence Cafe & Bakery",
+          "address": "51 EDGEDALE PLAINS #01-00 GREENDALE SECONDARY SCHOOL 828866",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000116",
+          "scheme": "Eating Establishment",
+          "id": "dbdc613f-701f-4178-b1d5-af65a15b5d9e",
+          "postal": "828866"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "50 KALLANG ROAD #B1-02 LAVENDER MRT STATION (EW11) 208699",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26020000065",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "208699"
+        },
+        {
+          "name": "Social Cafe",
+          "address": "3 CHANGI BUSINESS PARK CRESCENT #01-01 486026",
+          "type": "Restaurant",
+          "number": "EERT20240000637",
+          "scheme": "Eating Establishment",
+          "id": "643b4161-2321-413b-8dc1-93d3f22de223",
+          "postal": "486026"
+        },
+        {
+          "name": "PASTRY KITCHEN @ KHOO TECK PUAT HOSPITAL",
+          "address": "90 YISHUN CENTRAL KHOO TECK PUAT HOSPITAL 768828",
+          "type": "Central Kitchen",
+          "number": "FPCN21060001545",
+          "scheme": "Food Preparation Area",
+          "id": "0bb4b967-8f51-4aee-acbe-e0a96af39889",
+          "postal": "768828"
+        },
+        {
+          "name": "MALAY KITCHEN @ NUSS",
+          "address": "9 KENT RIDGE DRIVE GUILD HOUSE 119241",
+          "type": "Central Kitchen",
+          "number": "FPCX20100001451",
+          "scheme": "Food Preparation Area",
+          "id": "6fde4448-4817-494a-ae47-f3ef563e5580",
+          "postal": "119241"
+        },
+        {
+          "name": "Asam Tree Nasi Padang",
+          "address": "168 PUNGGOL FIELD Stall 12, Koufu #01-01 PUNGGOL PLAZA 820168",
+          "type": "Hawker",
+          "number": "EEHK26010000092",
+          "scheme": "Eating Establishment",
+          "id": "4921c3d0-f6e2-467a-9150-910e8174b587",
+          "postal": "820168"
+        },
+        {
+          "name": "Halal Section @ NTUC FAIRPRICE",
+          "address": "2 JOO CHIAT ROAD #01-1139, #02-1139 JOO CHIAT COMPLEX 420002",
+          "type": "Central Kitchen",
+          "number": "FPCK26010000044",
+          "scheme": "Food Preparation Area",
+          "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
+          "postal": "420002"
+        },
+        {
+          "name": "So Pho",
+          "address": "4 TAMPINES CENTRAL 5 #04-30/31 TAMPINES MALL 529510",
+          "type": "Restaurant",
+          "number": "EERN21070012664",
+          "scheme": "Eating Establishment",
+          "id": "eab58cf8-5aa4-4b96-b522-760a4cceded7",
+          "postal": "529510"
+        },
+        {
+          "name": "Western Cuisine (S10) @ Koufu Loyang Point",
+          "address": "258 PASIR RIS STREET 21 #02-09 LOYANG POINT,stall 10 510258",
+          "type": "Hawker",
+          "number": "EEHK20240000581",
+          "scheme": "Eating Establishment",
+          "id": "e4ebbaf4-7651-4500-84e2-3fea511b2e57",
+          "postal": "510258"
+        },
+        {
+          "name": "CAFE @PSS",
+          "address": "51 EDGEFIELD PLAINS PUNGGOL SECONDARY SCHOOL 828870",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000602",
+          "scheme": "Eating Establishment",
+          "id": "ba4a1e66-1a32-414b-874a-5a644cbb5809",
+          "postal": "828870"
+        },
+        {
+          "name": "Halal Section @ NTUC FAIRPRICE",
+          "address": "2 JOO CHIAT ROAD #01-1139 JOO CHIAT COMPLEX 420002",
+          "type": "Halal Section",
+          "number": "EECX21070000439",
+          "scheme": "Eating Establishment",
+          "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
+          "postal": "420002"
+        },
+        {
+          "name": "SAFFRONS RESTAURANT PTE. LTD.",
+          "address": "1 KAKI BUKIT ROAD 1 #05-17 ENTERPRISE ONE 415934",
+          "type": "Catering Company",
+          "number": "FPGN21050001543",
+          "scheme": "Food Preparation Area",
+          "id": "e6e87c18-fe0b-4c72-9db1-94eec88cb6a0",
+          "postal": "415934"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "133 NEW BRIDGE ROAD #B1-24 CHINATOWN POINT 059413",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240001130",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "059413"
+        },
+        {
+          "name": "Seafood (S1) @ Rasa Rasa Teck Whye",
+          "address": "160A JALAN TECK WHYE #01-01, Stall 1 681160",
+          "type": "Hawker",
+          "number": "EEHK20250000025",
+          "scheme": "Eating Establishment",
+          "id": "71fbc552-2cd2-4c68-80ef-853213eca765",
+          "postal": "681160"
+        },
+        {
+          "name": "Indian Vegetarian Cuisine (S3) @ Rasa Bukom.",
+          "address": "1908 PULAU BUKOM BESAR LEVEL 1, STALL 3 903808",
+          "type": "Hawker",
+          "number": "EEHK20240000795",
+          "scheme": "Eating Establishment",
+          "id": "45041629-ec4e-43ac-a09a-fb3d214b3966",
+          "postal": "903808"
+        },
+        {
+          "name": "Halal Section @ NTUC FAIRPRICE",
+          "address": "11 RIVERVALE CRESCENT #03-01 RIVERVALE MALL 545082",
+          "type": "Central Kitchen",
+          "number": "FPCK20240000663",
+          "scheme": "Food Preparation Area",
+          "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
+          "postal": "545082"
+        },
+        {
+          "name": "Western Cuisine (S4) @ Giant Foodcourt",
+          "address": "21 TAMPINES NORTH DRIVE 2 #03-00 GIANT, Stall 4 528765",
+          "type": "Hawker",
+          "number": "EEHN21090012658",
+          "scheme": "Eating Establishment",
+          "id": "3a18c3bc-227e-4b6a-96e6-340d2e948e55",
+          "postal": "528765"
+        },
+        {
+          "name": "Indian Cuisine (S2) @ Rasa Bukom",
+          "address": "1908 PULAU BUKOM BESAR #01 LEVEL 1, STALL 2 903808",
+          "type": "Hawker",
+          "number": "EEHX21100012692",
+          "scheme": "Eating Establishment",
+          "id": "c854aebe-bb2d-4d5f-a209-d6704def685c",
+          "postal": "903808"
+        },
+        {
+          "name": "ABANG RECIPES",
+          "address": "604 SEMBAWANG ROAD #B1-08/09 SEMBAWANG SHOPPING CENTRE 758459",
+          "type": "Restaurant",
+          "number": "EERX21030012188",
+          "scheme": "Eating Establishment",
+          "id": "8254f20d-430b-4a86-bc49-2168f218abd3",
+          "postal": "758459"
+        },
+        {
+          "name": "Ace Western (MR2)@Foodgle Hub ITE College West",
+          "address": "1 CHOA CHU KANG GROVE #03-05 ITE COLLEGE WEST, MR2 (PART OF) 688236",
+          "type": "Hawker",
+          "number": "EEHK20230000029",
+          "scheme": "Eating Establishment",
+          "id": "2287ca65-3b80-4a9a-82d8-8b2cd3cfe9c3",
+          "postal": "688236"
+        },
+        {
+          "name": "Polar Puffs & Cakes",
+          "address": "1 HARBOURFRONT WALK #B2-K5 VIVOCITY 098585",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000678",
+          "scheme": "Eating Establishment",
+          "id": "94a043ff-791b-48f8-9070-2edd4b0b9ead",
+          "postal": "098585"
+        },
+        {
+          "name": "BBQ Queen Indonesian Cuisine & BBQ (S9) @ Food Junction Westgate",
+          "address": "3 GATEWAY DRIVE #B1-29 WESTGATE, Stall 9 608532",
+          "type": "Hawker",
+          "number": "EEHK20240000108",
+          "scheme": "Eating Establishment",
+          "id": "b911ea22-62b7-45b2-b658-d2f91f34df5d",
+          "postal": "608532"
+        },
+        {
+          "name": "Korean & Japanese Cuisine (S8) @ Fork & Spoon Woodlands Mart",
+          "address": "768 WOODLANDS AVENUE 6 #01-30/32 WOODLANDS MART, Stall 8 730768",
+          "type": "Hawker",
+          "number": "EEHN22010013070",
+          "scheme": "Eating Establishment",
+          "id": "314ec35b-5088-439f-a8f4-b0447e2d238a",
+          "postal": "730768"
+        },
+        {
+          "name": "Staff Canteen @ Soitec (Mngd by Changi 108 Fei Lao Seafood Pte Ltd)",
+          "address": "81 PASIR RIS INDUSTRIAL DRIVE 1 PASIR RIS WAFER FAB PARK 518220",
+          "type": "Staff Canteen",
+          "number": "EESC20250000632",
+          "scheme": "Eating Establishment",
+          "id": "97e1759d-de5a-47e7-abb2-b9a5b2dfb398",
+          "postal": "518220"
+        },
+        {
+          "name": "Chops & Sear (S4) @ De Tian 28 Bukit Merah",
+          "address": "28 JALAN BUKIT MERAH #01-4476 BRICKWORKS ESTATE, STALL 4 152028",
+          "type": "Hawker",
+          "number": "EEHK20240000691",
+          "scheme": "Eating Establishment",
+          "id": "a18575c2-2fe2-4283-8f38-d89384c4d4fc",
+          "postal": "152028"
+        },
+        {
+          "name": "Makanrena Curry Rice (MR 2) @ My Kampung Changi City Point",
+          "address": "5 Changi Business Park Central 1 #02-01 Changi City Point, MR2 486038",
+          "type": "Hawker",
+          "number": "EEHK20240000675",
+          "scheme": "Eating Establishment",
+          "id": "3fe14efe-c4a7-496b-8948-37bc56524417",
+          "postal": "486038"
+        },
+        {
+          "name": "Makan Alley(S3) @PCC Canteen (Mngd by Catering Solutions Pte Ltd).",
+          "address": "80 TUAS SOUTH BOULEVARD 2Nd Storey Officer Block, Stall 3 637051",
+          "type": "Staff Canteen",
+          "number": "EESC20230000341",
+          "scheme": "Eating Establishment",
+          "id": "77bf3a74-5ebb-4a03-be62-5ccf3b51f1b1",
+          "postal": "637051"
+        },
+        {
+          "name": "Yea Mama Catering",
+          "address": "3015 BEDOK NORTH STREET 5 #02-08 SHIMEI EAST KITCHEN 486350",
+          "type": "Catering Company",
+          "number": "FPCA20220000302",
+          "scheme": "Food Preparation Area",
+          "id": "80446d13-0553-4512-b762-d14820d9d8dd",
+          "postal": "486350"
+        },
+        {
+          "name": "Bali Thai Restaurant",
+          "address": "3 TEMASEK BOULEVARD #B1-121B, B1-121A SUNTEC CITY MALL 038983",
+          "type": "Restaurant",
+          "number": "EERN21070012697",
+          "scheme": "Eating Establishment",
+          "id": "9a364ce4-e56d-44ac-b375-786f51bdbbab",
+          "postal": "038983"
+        },
+        {
+          "name": "Chef Leslie Western Cuisine (MR8) @ Food Junction Wesgate",
+          "address": "3 GATEWAY DRIVE #B1-29 WESTGATE 608532",
+          "type": "Hawker",
+          "number": "EEHK20250000589",
+          "scheme": "Eating Establishment",
+          "id": "09f860a4-4e5f-45fb-8a01-4fa7c9a782ab",
+          "postal": "608532"
+        },
+        {
+          "name": "ReadyMeals@Sheng Siong ITE College Central",
+          "address": "2 Ang Mo Kio Drive #01-12 (Kiosk 1) ITE College Central (Blk A) 567720",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21030012002",
+          "scheme": "Eating Establishment",
+          "id": "2d4dec45-0efc-4a52-b4f9-e3af3eee9239",
+          "postal": "567720"
+        },
+        {
+          "name": "The Arena @ Singapore Sports School (Mngd by Compass Group)",
+          "address": "1 CHAMPIONS WAY #02-50 Singapore Sports School 737913",
+          "type": "Hawker",
+          "number": "EEHX21120013037",
+          "scheme": "Eating Establishment",
+          "id": "ec319ee1-0242-48ef-934d-87f3d6e7e85f",
+          "postal": "737913"
+        },
+        {
+          "name": "PASTAMANIA",
+          "address": "60 AIRPORT BOULEVARD #03-22 CHANGI AIRPORT TERMINAL 2 819643",
+          "type": "Restaurant",
+          "number": "EERT20240001143",
+          "scheme": "Eating Establishment",
+          "id": "26478959-4ccd-4a37-9848-46a58e89ff2c",
+          "postal": "819643"
+        },
+        {
+          "name": "POLAR CAFE",
+          "address": "1 LOWER KENT RIDGE ROAD #01-03/04/22 NUH MEDICAL CENTRE 119082",
+          "type": "Restaurant",
+          "number": "EERT20230001211",
+          "scheme": "Eating Establishment",
+          "id": "ad978a29-b580-4c9b-9123-4bc1bb79e7cc",
+          "postal": "119082"
+        },
+        {
+          "name": "Malaysian Street Food (S9)@My Kampung Kallang Wave Mall",
+          "address": "1 STADIUM PLACE #02-16/k6, Stall 9 397628",
+          "type": "Hawker",
+          "number": "EEHK20230000236",
+          "scheme": "Eating Establishment",
+          "id": "f1a1e91d-9c12-44cd-b6c9-b08a5500fc3a",
+          "postal": "397628"
+        },
+        {
+          "name": "INDIAN/INT'L/MALAY/BAKERY@MSB CAFETERIA(MNGD BY CURATE KITCHEN)",
+          "address": "990 BENDEMEER ROAD #04-00 MICRON BUILDING 339942",
+          "type": "Staff Canteen",
+          "number": "EESC20220000666",
+          "scheme": "Eating Establishment",
+          "id": "861a5078-414e-481a-9ef4-bd6ad462e8a4",
+          "postal": "339942"
+        },
+        {
+          "name": "Lin Xuan Yong Tau Foo (MR7) @ Kopitiam Changi Airport T4",
+          "address": "10 AIRPORT BOULEVARD #02-205 CHANGI AIRPORT TERMINAL 4, MR7 819665",
+          "type": "Hawker",
+          "number": "EEHK20250000081",
+          "scheme": "Eating Establishment",
+          "id": "348fa0de-a106-497b-99c2-5582a87a5806",
+          "postal": "819665"
+        },
+        {
+          "name": "POLAR CAFE",
+          "address": "110 Sengkang East Way #01-02 Sengkang General Hospital 544886",
+          "type": "Restaurant",
+          "number": "EERN20040011375",
+          "scheme": "Eating Establishment",
+          "id": "ad978a29-b580-4c9b-9123-4bc1bb79e7cc",
+          "postal": "544886"
+        },
+        {
+          "name": "Catering Solutions Pte Ltd",
+          "address": "96 Tuas South Boulevard #01-41 637055",
+          "type": "Catering Company",
+          "number": "FPGN21120001624",
+          "scheme": "Food Preparation Area",
+          "id": "62fcff51-39d1-4835-91eb-4f99c9215d30",
+          "postal": "637055"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "1 MANDALAY ROAD #01-00 NATIONAL SKIN CENTRE 308205",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26020000064",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "308205"
+        },
+        {
+          "name": "Cold Section @ Alexandra Hospital",
+          "address": "378 ALEXANDRA ROAD #01 ALEXANDRA HOSPITAL 159964",
+          "type": "Central Kitchen",
+          "number": "FPCN21050001522",
+          "scheme": "Food Preparation Area",
+          "id": "c716402d-be09-4821-989f-1b1e5b620b97",
+          "postal": "159964"
+        },
+        {
+          "name": "Yi ZUN NOODLE",
+          "address": "180 KITCHENER ROAD #03-21/22 CITY SQUARE MALL 208539",
+          "type": "Restaurant",
+          "number": "EERT25100000052",
+          "scheme": "Eating Establishment",
+          "id": "4ea3aab4-1a6b-420b-8619-5ebe53859320",
+          "postal": "208539"
+        },
+        {
+          "name": "Yi ZUN NOODLE",
+          "address": "60 JOO CHIAT ROAD #01-08/09 CHAMPION HOTEL 427726",
+          "type": "Restaurant",
+          "number": "EERT20220000448",
+          "scheme": "Eating Establishment",
+          "id": "4ea3aab4-1a6b-420b-8619-5ebe53859320",
+          "postal": "427726"
+        },
+        {
+          "name": "Pastamania Pronto",
+          "address": "190 LORONG 6 TOA PAYOH #02-516 TOA PAYOH CENTRAL 310190",
+          "type": "Restaurant",
+          "number": "EERT20250000626",
+          "scheme": "Eating Establishment",
+          "id": "4eb9661f-93eb-4442-b9fa-fb1df76b1a08",
+          "postal": "310190"
+        },
+        {
+          "name": "Bali Thai Restaurant",
+          "address": "391 ORCHARD ROAD #05-29 TAKASHIMAYA SHOPPING CENTRE 238872",
+          "type": "Restaurant",
+          "number": "EERN21070012695",
+          "scheme": "Eating Establishment",
+          "id": "9a364ce4-e56d-44ac-b375-786f51bdbbab",
+          "postal": "238872"
+        },
+        {
+          "name": "Alt Cut Western Delights (S5) @ One Two Eat Bedok Heartbeat",
+          "address": "11 BEDOK NORTH STREET 1 #01-28/29 HEARTBEAT @ BEDOK, Stall 5 469662",
+          "type": "Hawker",
+          "number": "EEHK20240000699",
+          "scheme": "Eating Establishment",
+          "id": "5dbd35a9-1163-42e3-a70d-6e7dbd39c3d8",
+          "postal": "469662"
+        },
+        {
+          "name": "Providence Cafe & Bakery",
+          "address": "234 LORONG 8 TOA PAYOH #01-270 TOA PAYOH EIGHT 310234",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000720",
+          "scheme": "Eating Establishment",
+          "id": "dbdc613f-701f-4178-b1d5-af65a15b5d9e",
+          "postal": "310234"
+        },
+        {
+          "name": "Chops & Sear (S5) @ De Tian 120 Bishan",
+          "address": "120 BISHAN STREET 12 #01-67, Stall 5 570120",
+          "type": "Hawker",
+          "number": "EEHK20240000690",
+          "scheme": "Eating Establishment",
+          "id": "b4df2604-2c06-4700-bcd5-036727a28163",
+          "postal": "570120"
+        },
+        {
+          "name": "Asam Tree Malay Cuisine (S5) @ Kopitiam KTPH",
+          "address": "90 YISHUN CENTRAL #01-12 KHOO TECK PUAT HOSPITAL, Stall 5 768828",
+          "type": "Hawker",
+          "number": "EEHK20240001195",
+          "scheme": "Eating Establishment",
+          "id": "427efe28-b234-4733-8af7-0500011367af",
+          "postal": "768828"
+        },
+        {
+          "name": "POLAR CAFE",
+          "address": "11 JALAN TAN TOCK SENG #01-04 TAN TOCK SENG HOSPITAL 308433",
+          "type": "Restaurant",
+          "number": "EERN20030011242",
+          "scheme": "Eating Establishment",
+          "id": "ad978a29-b580-4c9b-9123-4bc1bb79e7cc",
+          "postal": "308433"
+        },
+        {
+          "name": "Drinks (S8) @ Rasa Rasa Teck Whye",
+          "address": "160A JALAN TECK WHYE #01-01, Stall 8 681160",
+          "type": "Hawker",
+          "number": "EEHK20250000026",
+          "scheme": "Eating Establishment",
+          "id": "84d74166-eb1c-4636-976e-a76d435e1f4b",
+          "postal": "681160"
+        },
+        {
+          "name": "Kitchen 1@Lentor Health NH WC(Mngd by the Lentor Residence PL)",
+          "address": "151 WEST COAST CRESCENT, Level 10 Kitchen 1 129650",
+          "type": "Central Kitchen",
+          "number": "FPCK20240000735",
+          "scheme": "Food Preparation Area",
+          "id": "15efc9d5-1640-49ff-9cb8-81acd130fc7b",
+          "postal": "129650"
+        },
+        {
+          "name": "Tomahawk King Steakhouse & Grill",
+          "address": "324 CHANGI ROAD 419799",
+          "type": "Restaurant",
+          "number": "EERT20250000557",
+          "scheme": "Eating Establishment",
+          "id": "4408acf4-566e-4b20-9d50-4e0d17828279",
+          "postal": "419799"
+        },
+        {
+          "name": "Malay/Indian & Western Kitchen @ Khoo Teck Puat Hospital",
+          "address": "90 YISHUN CENTRAL KHOO TECK PUAT HOSPITAL 768828",
+          "type": "Central Kitchen",
+          "number": "FPCN21060001547",
+          "scheme": "Food Preparation Area",
+          "id": "4cf73c85-1a45-4e1b-a373-1adbb7f56422",
+          "postal": "768828"
+        },
+        {
+          "name": "Jing House Western Cuisine",
+          "address": "2 SIMEI STREET 3 #01-20 KOPITIAM CORNER CHANGI GENERAL HOSPITAL, Stall 2 529889",
+          "type": "Hawker",
+          "number": "EEHK25100000010",
+          "scheme": "Eating Establishment",
+          "id": "147f2f2d-d693-4c8c-a2fa-1ae71514cb8a",
+          "postal": "529889"
+        },
+        {
+          "name": "DYNAMIC DINING HOUSE",
+          "address": "5 CHANGI VILLAGE ROAD #01-2039 500005",
+          "type": "Restaurant",
+          "number": "EERT20250000531",
+          "scheme": "Eating Establishment",
+          "id": "c7d93651-e860-4e78-89d5-79d5039cb90e",
+          "postal": "500005"
+        },
+        {
+          "name": "Drinks",
+          "address": "348 YISHUN AVENUE 11 Stall 7 #01-04 ADORA GREEN 760348",
+          "type": "Hawker",
+          "number": "EEHK26010000051",
+          "scheme": "Eating Establishment",
+          "id": "f8fba3e8-1c3c-45dd-9418-cb358628dc21",
+          "postal": "760348"
+        },
+        {
+          "name": "San Chon Korean & Japanese Cuisine (S7)@Koufu Republic Polytechnic",
+          "address": "31 WOODLANDS AVENUE 9 #01-01 REPUBLIC POLYTECHNIC,Stall 7 737907",
+          "type": "Hawker",
+          "number": "EEHK20240000561",
+          "scheme": "Eating Establishment",
+          "id": "66790145-d572-4e22-9329-5815012816ba",
+          "postal": "737907"
+        },
+        {
+          "name": "So Pho",
+          "address": "238 THOMSON ROAD #02-43/45 NOVENA SQUARE 307683",
+          "type": "Restaurant",
+          "number": "EERN21070012694",
+          "scheme": "Eating Establishment",
+          "id": "eab58cf8-5aa4-4b96-b522-760a4cceded7",
+          "postal": "307683"
+        },
+        {
+          "name": "KITCHEN A @ YISHUN COMMUNITY HOSPITAL",
+          "address": "2 YISHUN CENTRAL 2 #B1 YISHUN COMMUNITY HOSPITAL 768024",
+          "type": "Central Kitchen",
+          "number": "FPCX22010001648",
+          "scheme": "Food Preparation Area",
+          "id": "d4cc7559-42bb-4e10-8a86-cd4e51c2e06d",
+          "postal": "768024"
+        },
+        {
+          "name": "The Cafeteria 1 @ York Hotel (Mngd by Compass Group Singapore)",
+          "address": "21 MOUNT ELIZABETH #01-00 YORK HOTEL 228516",
+          "type": "Staff Canteen",
+          "number": "EEFN21110012550",
+          "scheme": "Eating Establishment",
+          "id": "0c9712c9-cc87-4e56-b081-a443d23eb734",
+          "postal": "228516"
+        },
+        {
+          "name": "Now Pizza",
+          "address": "301 UPPER THOMSON ROAD #01-K9 THOMSON PLAZA 574408",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000207",
+          "scheme": "Eating Establishment",
+          "id": "864c6a47-e378-4258-b9a5-9bf82b296233",
+          "postal": "574408"
+        },
+        {
+          "name": "MO KEBABS",
+          "address": "1187 UPPER SERANGOON ROAD #01-18 THE MIDTOWN 533971",
+          "type": "Restaurant",
+          "number": "EERT20250000532",
+          "scheme": "Eating Establishment",
+          "id": "3aabd326-0f17-4435-872c-c645370667b4",
+          "postal": "533971"
+        },
+        {
+          "name": "DAILY CHICKEN",
+          "address": "200 VICTORIA STREET #B1-06 BUGIS JUNCTION 188021",
+          "type": "Restaurant",
+          "number": "EERT26020000087",
+          "scheme": "Eating Establishment",
+          "id": "197e57c8-07f0-475b-8fba-154c40bb0bf0",
+          "postal": "188021"
+        },
+        {
+          "name": "Kitchen 2@Lentor Health NH WC(Mngd by the Lentor Residence PL)",
+          "address": "151 WEST COAST CRESCENT, Level 10 129650",
+          "type": "Central Kitchen",
+          "number": "FPCK20240000736",
+          "scheme": "Food Preparation Area",
+          "id": "c0415fcf-3abc-424e-b388-5187cbdc68f5",
+          "postal": "129650"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "21 CHOA CHU KANG AVENUE 4 #B1-K20 689812",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20040011250",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "689812"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES PTE LTD",
+          "address": "681 PUNGGOL DRIVE #B1-13 820681",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000490",
+          "scheme": "Eating Establishment",
+          "id": "afc69ab9-f6d8-4838-8736-5f4b38d9b4af",
+          "postal": "820681"
+        },
+        {
+          "name": "POLAR CAFE",
+          "address": "7 OUTRAM ROAD #01-01 SINGAPORE GENERAL HOSPITAL 169608",
+          "type": "Restaurant",
+          "number": "EERN20030011278",
+          "scheme": "Eating Establishment",
+          "id": "ad978a29-b580-4c9b-9123-4bc1bb79e7cc",
+          "postal": "169608"
+        },
+        {
+          "name": "Providence Cafe & Bakery",
+          "address": "3 WOODLANDS STREET 81 RIVERSIDE SECONDARY SCHOOL 738524",
+          "type": "Canteen",
+          "number": "EESC26030000052",
+          "scheme": "Eating Establishment",
+          "id": "dbdc613f-701f-4178-b1d5-af65a15b5d9e",
+          "postal": "738524"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "50 Jurong Gateway Road #B1-31 JEM 608549",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20040011254",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "608549"
+        },
+        {
+          "name": "ASAM TREE CAFE, BAKERY AND RESTAURANT",
+          "address": "709 ANG MO KIO AVENUE 8 #01-2609 560709",
+          "type": "Restaurant",
+          "number": "EERT20230000647",
+          "scheme": "Eating Establishment",
+          "id": "fc7d0e16-0124-44ca-bf79-aadcff8d3187",
+          "postal": "560709"
+        },
+        {
+          "name": "Terbaik Ban Mian Fish Soup (S1) @ My Kampung Changi City Point",
+          "address": "5 Changi Business Park Central 1 #02-01 Changi City Point, Stall 1 486038",
+          "type": "Hawker",
+          "number": "EEHK20230000754",
+          "scheme": "Eating Establishment",
+          "id": "9b6d77b4-4241-4b92-9204-19c92b2de455",
+          "postal": "486038"
+        },
+        {
+          "name": "Scrumptious Pte Ltd",
+          "address": "25 HARPER ROAD #09-03 HARPER POINT 369683",
+          "type": "Catering Company",
+          "number": "FPCA20250000576",
+          "scheme": "Food Preparation Area",
+          "id": "52471de8-cd77-4aae-9bf4-c88e903fe59e",
+          "postal": "369683"
+        },
+        {
+          "name": "Cookhouse @ Moral Welfare Home(Mngd by Happy Enterprises Pte Ltd)",
+          "address": "301 HENDERSON ROAD 108931",
+          "type": "Central Kitchen",
+          "number": "FPCN21120001637",
+          "scheme": "Food Preparation Area",
+          "id": "2e49e55d-5495-40ad-af77-5ecdf48db97c",
+          "postal": "108931"
+        },
+        {
+          "name": "Providence Cafe & Bakery",
+          "address": "38 MALCOLM ROAD #01 ST. JOSEPH'S INSTITUTION 308274",
+          "type": "Restaurant",
+          "number": "EERT20230000658",
+          "scheme": "Eating Establishment",
+          "id": "dbdc613f-701f-4178-b1d5-af65a15b5d9e",
+          "postal": "308274"
+        },
+        {
+          "name": "Jing House Yong Tau Foo (S8) @ Koufu Loyang Point",
+          "address": "258 PASIR RIS STREET 21 #02-09 LOYANG POINT, Stall 8 510258",
+          "type": "Hawker",
+          "number": "EEHK20240000156",
+          "scheme": "Eating Establishment",
+          "id": "b860f03f-ac6b-441e-84cd-98a155d9724f",
+          "postal": "510258"
+        },
+        {
+          "name": "Mala Hotpot (S5) @ My Kampung Kallang Wave Mall",
+          "address": "1 STADIUM PLACE #02-16/k6, stall 5 397628",
+          "type": "Hawker",
+          "number": "EEHK20240000640",
+          "scheme": "Eating Establishment",
+          "id": "7a8f88ae-8663-41f4-917b-fb9338039c1b",
+          "postal": "397628"
+        },
+        {
+          "name": "KEBABCHI CHARCOAL BBQ",
+          "address": "3 TEMASEK BOULEVARD #B1-146 SUNTEC CITY MALL 038983",
+          "type": "Restaurant",
+          "number": "EERT20220000299",
+          "scheme": "Eating Establishment",
+          "id": "18013ddd-3a15-45e0-a2ec-63f0b3b4b594",
+          "postal": "038983"
+        },
+        {
+          "name": "Chops & Sear (S5) @ De Tian 59 Bedok",
+          "address": "59 NEW UPPER CHANGI ROAD #01-1260, stall 5 461059",
+          "type": "Hawker",
+          "number": "EEHK20240000689",
+          "scheme": "Eating Establishment",
+          "id": "139e4d84-77c8-4a1d-b6de-7c55d3aa352f",
+          "postal": "461059"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "10 SINARAN DRIVE #B1-127 SQUARE 2 307506",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBX20030010672",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "307506"
+        },
+        {
+          "name": "DAILY CHICKEN",
+          "address": "83 PUNGGOL CENTRAL #01-66 WATERWAY POINT 828761",
+          "type": "Restaurant",
+          "number": "EERT26020000086",
+          "scheme": "Eating Establishment",
+          "id": "197e57c8-07f0-475b-8fba-154c40bb0bf0",
+          "postal": "828761"
+        },
+        {
+          "name": "Chicken Rice",
+          "address": "348 YISHUN AVENUE 11 Stall 2 @ Rasa Rasa Yishun #01-04 ADORA GREEN 760348",
+          "type": "Hawker",
+          "number": "EEHK26010000049",
+          "scheme": "Eating Establishment",
+          "id": "169bf8c6-9d51-422e-b586-f764ac733b76",
+          "postal": "760348"
+        },
+        {
+          "name": "ASIAN CUISINE/FRUITS/NOODLE/INDIAN/MALAY/WESTERN @ F10 (MANAGED BY CURATE KITCHEN)",
+          "address": "1 NORTH COAST DRIVE 757432",
+          "type": "Staff Canteen",
+          "number": "EESC20250000226",
+          "scheme": "Eating Establishment",
+          "id": "7c621785-5af0-491f-ba2d-b0a8b6c4f19e",
+          "postal": "757432"
+        },
+        {
+          "name": "Providence Cafe & Bakery",
+          "address": "600 UPPER EAST COAST ROAD # TEMASEK SECONDARY SCHOOL 465561",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000656",
+          "scheme": "Eating Establishment",
+          "id": "dbdc613f-701f-4178-b1d5-af65a15b5d9e",
+          "postal": "465561"
+        },
+        {
+          "name": "Saffrons",
+          "address": "1 ENGKU AMAN TURN #01-04 WISMA GEYLANG SERAI 408528",
+          "type": "Restaurant",
+          "number": "EERT20250000865",
+          "scheme": "Eating Establishment",
+          "id": "df8e3a57-e695-4700-a6b8-a4c3cfd16802",
+          "postal": "408528"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "83 PUNGGOL CENTRAL #01-K04 WATERWAY POINT (EAST WING) 828761",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21070012399",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "828761"
+        },
+        {
+          "name": "Staff Canteen Stall @ABBVIE Operations Sg PL(Mngd by Compass Grp)",
+          "address": "23 TUAS SOUTH AVENUE 6 Abbvie Staff Cafeteria, LEVEL 1 637022",
+          "type": "Staff Canteen",
+          "number": "EEFX21110012549",
+          "scheme": "Eating Establishment",
+          "id": "48253799-4c4b-4b34-9e12-d66d1194d024",
+          "postal": "637022"
+        },
+        {
+          "name": "Hotpot Kitchen",
+          "address": "1 JURONG WEST CENTRAL 2 #B1-42/43/44 JURONG POINT, Stall 7 648886",
+          "type": "Hawker",
+          "number": "EEHN21070012529",
+          "scheme": "Eating Establishment",
+          "id": "d978174d-11ff-47d1-9999-d04bafba3fc5",
+          "postal": "648886"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "23 SERANGOON CENTRAL #03-K3/K4 NEX 556083",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20030010669",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "556083"
+        },
+        {
+          "name": "Providence Cafe & Bakery",
+          "address": "600 UPPER CHANGI ROAD ANGLICAN HIGH SCHOOL 487012",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22010013073",
+          "scheme": "Eating Establishment",
+          "id": "dbdc613f-701f-4178-b1d5-af65a15b5d9e",
+          "postal": "487012"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "200 VICTORIA STREET #B1-K8 BUGIS JUNCTION 188021",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20030010678",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "188021"
+        },
+        {
+          "name": "Malay Noodle Delight/Ayam Penyet /Malay Cuisine (S1) @ Rasa Bukom",
+          "address": "1908 PULAU BUKOM BESAR LEVEL 1, STALL 1 903808",
+          "type": "Hawker",
+          "number": "EEHX21100012693",
+          "scheme": "Eating Establishment",
+          "id": "0f25ed25-fabc-4cad-8b83-e25466a25a57",
+          "postal": "903808"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "1 WOODLANDS SQUARE #B1-K07 CAUSEWAY POINT 738099",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBX20040011257",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "738099"
+        },
+        {
+          "name": "YB Fried Bee Hoon",
+          "address": "437 FERNVALE ROAD (S10)@Kopitiam Fernvale #01-01 FERNVALE GROVE 790437",
+          "type": "Hawker",
+          "number": "EEHK25110000008",
+          "scheme": "Eating Establishment",
+          "id": "226370e2-ec42-4b14-bfbe-d2bc897d1580",
+          "postal": "790437"
+        },
+        {
+          "name": "SAFFRONS RESTAURANT PTE. LTD.",
+          "address": "10 TAMPINES NORTH DRIVE 4 #01-05 JTC SPACE @ TAMPINES NORTH, KITCHEN 25 528553",
+          "type": "Hawker",
+          "number": "EEHK20240000698",
+          "scheme": "Eating Establishment",
+          "id": "e6e87c18-fe0b-4c72-9db1-94eec88cb6a0",
+          "postal": "528553"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "11 BIDADARI PARK DRIVE #B1-K13 THE WOODLEIGH MALL 367803",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000844",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "367803"
+        },
+        {
+          "name": "Blue Ocean Kopi & Toast",
+          "address": "76 NANYANG DRIVE #01-05 NANYANG TECHNOLOGICAL UNIVERSITY (N2.1) 637331",
+          "type": "Hawker",
+          "number": "EEHK20250000618",
+          "scheme": "Eating Establishment",
+          "id": "8061016d-f5e1-400e-9fbc-49602fe70687",
+          "postal": "637331"
+        },
+        {
+          "name": "Charr'd",
+          "address": "324F CHANGI ROAD 419799",
+          "type": "Restaurant",
+          "number": "EERT20250000556",
+          "scheme": "Eating Establishment",
+          "id": "0f01ecdc-d2b5-4192-bce9-8a406cf94527",
+          "postal": "419799"
+        },
+        {
+          "name": "Staff cafeteria stall @Halliburton(Mngd by catering solutions PL)",
+          "address": "11 Tuas South Avenue 12 637131",
+          "type": "Staff Canteen",
+          "number": "EESC20230001025",
+          "scheme": "Eating Establishment",
+          "id": "9865ea63-403a-49d1-a27d-4904c132b018",
+          "postal": "637131"
+        },
+        {
+          "name": "So Pho",
+          "address": "50 JURONG GATEWAY ROAD #03-22 JEM 608549",
+          "type": "Restaurant",
+          "number": "EERN21070012677",
+          "scheme": "Eating Establishment",
+          "id": "eab58cf8-5aa4-4b96-b522-760a4cceded7",
+          "postal": "608549"
+        },
+        {
+          "name": "KEBABCHI BIRYANI",
+          "address": "311 NEW UPPER CHANGI ROAD #01-12 BEDOK MALL 467360",
+          "type": "Restaurant",
+          "number": "EERT20240000091",
+          "scheme": "Eating Establishment",
+          "id": "2de1e03b-b6ec-4f20-9374-6d079e192450",
+          "postal": "467360"
+        },
+        {
+          "name": "Selemak Pagi",
+          "address": "126 CANBERRA STREET Stall 9, DeTian Coffeeshop #01-01 EASTDELTA @ CANBERRA 750126",
+          "type": "Hawker",
+          "number": "EEHK26010000096",
+          "scheme": "Eating Establishment",
+          "id": "4524d9ba-dc69-4cfb-9233-faeb745d60d7",
+          "postal": "750126"
+        },
+        {
+          "name": "CAFE @TJC",
+          "address": "2 TAMPINES AVENUE 9 #01 529564",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000571",
+          "scheme": "Eating Establishment",
+          "id": "8bc3c383-59ff-4d64-961a-50d17b791fe7",
+          "postal": "529564"
+        },
+        {
+          "name": "Aishwarya Kitchen (S2) @ Adi Foods",
+          "address": "180 WOODLANDS INDUSTRIAL PARK E5 #01-01 WOODLANDS AUTO HUB, STALL 2 757512",
+          "type": "Hawker",
+          "number": "EEHN21100012688",
+          "scheme": "Eating Establishment",
+          "id": "e3e6339f-2dc4-40cc-b8a7-80d315beebd3",
+          "postal": "757512"
+        },
+        {
+          "name": "Now Pizza",
+          "address": "70 COMPASSVALE BOW #01-01 544692",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000961",
+          "scheme": "Eating Establishment",
+          "id": "864c6a47-e378-4258-b9a5-9bf82b296233",
+          "postal": "544692"
+        },
+        {
+          "name": "Goh Chew Kee Seafood",
+          "address": "500 CLEMENCEAU AVENUE NORTH #01-19 229495",
+          "type": "Hawker",
+          "number": "EEHN21050012321",
+          "scheme": "Eating Establishment",
+          "id": "e9505aa3-1211-4404-a3cd-01c9790e777a",
+          "postal": "229495"
+        },
+        {
+          "name": "Kitchen @Lentor Health NH MPS(Mngd by the Lentor Residence PL)",
+          "address": "2 MACPHERSON WALK LENTOR HEALTH NURSING HOME (MACPHERSON), Level 8 369573",
+          "type": "Central Kitchen",
+          "number": "FPCK20240000734",
+          "scheme": "Food Preparation Area",
+          "id": "b9af5397-d605-4590-ad4b-8f0c75aeb7f3",
+          "postal": "369573"
+        },
+        {
+          "name": "New Hope Food Industries Pte Ltd (Mngd by Polar Puffs & Cakes)",
+          "address": "982C UPPER CHANGI ROAD NORTH BLOCK A3 LEVEL 1 WORKSHOP1-WO1 506980",
+          "type": "Central Kitchen",
+          "number": "FPCX20040001360",
+          "scheme": "Food Preparation Area",
+          "id": "a57363f4-3804-47ed-b130-529c63d2f453",
+          "postal": "506980"
+        },
+        {
+          "name": "Chops & Sear (S6) @ De Tian 631 Ang Mo Kio",
+          "address": "631 ANG MO KIO AVENUE 4 #01-906, Stall 6 560631",
+          "type": "Hawker",
+          "number": "EEHK20240000686",
+          "scheme": "Eating Establishment",
+          "id": "10704f0e-715f-4788-967c-fde81dc6867c",
+          "postal": "560631"
+        },
+        {
+          "name": "CafeConnect@AsterChemicalsandEnergyPteLtd (Mngd By The Wok People)",
+          "address": "61 SERAYA AVENUE #01-00 627879",
+          "type": "Staff Canteen",
+          "number": "EESC20250000588",
+          "scheme": "Eating Establishment",
+          "id": "f0bfa831-37e8-4421-a3a6-7c400d8acd5d",
+          "postal": "627879"
+        },
+        {
+          "name": "Sedap Thai (S8) @ Berseh Food Centre",
+          "address": "166 JALAN BESAR #01-08 BERSEH FOOD CENTRE, Stall 8 208877",
+          "type": "Hawker",
+          "number": "EEHX21050012328",
+          "scheme": "Eating Establishment",
+          "id": "e8530be1-d0cc-4f8f-88cf-ae7a5a9e48d9",
+          "postal": "208877"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "1 SENGKANG SQUARE #01-26 COMPASS ONE 545078",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20040010692",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "545078"
+        },
+        {
+          "name": "Simply D&H Western Cuisine (S1) @ 675 Yishun",
+          "address": "675 YISHUN AVENUE 4 #01-01 760675",
+          "type": "Hawker",
+          "number": "EEHK20220000433",
+          "scheme": "Eating Establishment",
+          "id": "5f9a7b7d-7410-4fe5-bd08-439317541432",
+          "postal": "760675"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "33 Sengkang West Ave #B2-K3 The Seletar Mall 797653",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBX20040010690",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "797653"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "9 BISHAN PLACE #B1-K2 JUNCTION 8 SHOPPING CENTRE 579837",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBX20030010671",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "579837"
+        },
+        {
+          "name": "Chops & Sear (S7) @ De Tian 46 Telok Blangah",
+          "address": "46 TELOK BLANGAH DRIVE #01-71 BLANGAH COURT, STALL 7 100046",
+          "type": "Hawker",
+          "number": "EEHK20240000685",
+          "scheme": "Eating Establishment",
+          "id": "14332f21-67cb-4081-9f98-247a872a70be",
+          "postal": "100046"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "4 TAMPINES CENTRAL 5 #B1-K14 TAMPINES MALL 529510",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20040010689",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "529510"
+        },
+        {
+          "name": "CURATE KITCHEN PTE LTD",
+          "address": "1550 BEDOK NORTH AVENUE 4 #02-12 489950",
+          "type": "Catering Company",
+          "number": "FPCA20250000280",
+          "scheme": "Food Preparation Area",
+          "id": "7c6a807b-cb15-4435-b047-e24a0a6f589c",
+          "postal": "489950"
+        },
+        {
+          "name": "Staff Canteen Stall@ Shell Tuas(Mngd by Catering Solutions Pte Ltd",
+          "address": "1 TUAS SOUTH WAY 636991",
+          "type": "Staff Canteen",
+          "number": "EESC20230000764",
+          "scheme": "Eating Establishment",
+          "id": "8ef1dce9-a392-48e8-a7da-a735a5dbbcb9",
+          "postal": "636991"
+        },
+        {
+          "name": "Chops & Sear (MR1) @ De Tian 524 Hougang",
+          "address": "524 HOUGANG AVENUE 6 #01-125, 129, MR1 530524",
+          "type": "Hawker",
+          "number": "EEHK20240000692",
+          "scheme": "Eating Establishment",
+          "id": "81b1d109-964d-4485-823e-9c3afa735dad",
+          "postal": "530524"
+        },
+        {
+          "name": "SAFFRONS RESTAURANT",
+          "address": "201D TAMPINES STREET 21 #01-1163 524201",
+          "type": "Restaurant",
+          "number": "EERN21050012344",
+          "scheme": "Eating Establishment",
+          "id": "26ebf21b-c8e8-40da-aa57-375c2def0080",
+          "postal": "524201"
+        },
+        {
+          "name": "Erodu Amman Mess",
+          "address": "52 UPPER WELD ROAD 1st Storey LITTLE INDIA CONSERVATION AREA 207409",
+          "type": "Restaurant",
+          "number": "EERT20250000544",
+          "scheme": "Eating Establishment",
+          "id": "3853e8ae-dd85-44ee-ae4d-70afc68bf674",
+          "postal": "207409"
+        },
+        {
+          "name": "CURATE KITCHEN PTE. LTD.",
+          "address": "3015 BEDOK NORTH STREET 5 #02-08 SHIMEI EAST KITCHEN 486350",
+          "type": "Catering Company",
+          "number": "FPGN21040001536",
+          "scheme": "Food Preparation Area",
+          "id": "bf27881e-4e9a-4bb1-a953-caa0a5e9e24b",
+          "postal": "486350"
+        },
+        {
+          "name": "Mgt Canteen @Sembawang Seatrium(mngd by Catering Solutions P/L)",
+          "address": "60 ADMIRALTY ROAD WEST SEMBAWANG SHIPYARD 759956",
+          "type": "Staff Canteen",
+          "number": "EESC20240000793",
+          "scheme": "Eating Establishment",
+          "id": "2b20be58-8d45-4d46-aea0-fc4643340cae",
+          "postal": "759956"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "1 HARBOUR FRONT WALK #B2-K4 VIVO CITY 098585",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20030010682",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "098585"
+        },
+        {
+          "name": "Now Pizza",
+          "address": "1 PASIR RIS CLOSE #01-K106 E!HUB@DOWNTOWN EAST 519599",
+          "type": "Restaurant",
+          "number": "EERT20250000590",
+          "scheme": "Eating Establishment",
+          "id": "864c6a47-e378-4258-b9a5-9bf82b296233",
+          "postal": "519599"
+        },
+        {
+          "name": "Beverages (S5) @ Rasa Bukom",
+          "address": "1908 PULAU BUKOM BESAR LEVEL 1, STALL 5 903808",
+          "type": "Hawker",
+          "number": "EEHX21100012689",
+          "scheme": "Eating Establishment",
+          "id": "4c22e933-8ba4-4218-92de-078c498062f3",
+          "postal": "903808"
+        },
+        {
+          "name": "Asam Tree (S7) @ Broadway Coffeeshop",
+          "address": "155 BUKIT BATOK STREET 11 #01-322, STALL 7 650155",
+          "type": "Hawker",
+          "number": "EEHN21090012685",
+          "scheme": "Eating Establishment",
+          "id": "3f4bc855-b32d-4123-b72b-960264441e38",
+          "postal": "650155"
+        },
+        {
+          "name": "Halal Section @ NTUC FAIRPRICE",
+          "address": "1 Stadium Place #01-29 Kallang Wave Mall 397628",
+          "type": "Central Kitchen",
+          "number": "FPCN21120001632",
+          "scheme": "Food Preparation Area",
+          "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
+          "postal": "397628"
+        },
+        {
+          "name": "The Cafe @ AMD (Managed By Compass Group)",
+          "address": "508 CHAI CHEE LANE #07 469032",
+          "type": "Staff Canteen",
+          "number": "EESC20240000638",
+          "scheme": "Eating Establishment",
+          "id": "3ab089fb-3645-445f-9751-5545fe7dc82e",
+          "postal": "469032"
+        },
+        {
+          "name": "Chops & Sear (S4) @ De Tian 73 Toa Payoh Vista",
+          "address": "73 LORONG 4 TOA PAYOH #01-611 TOA PAYOH VISTA, Stall 4 310073",
+          "type": "Hawker",
+          "number": "EEHK20240000696",
+          "scheme": "Eating Establishment",
+          "id": "c23eaa9f-2dd0-45bf-8451-90294c0d2889",
+          "postal": "310073"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "604 SEMBAWANG ROAD #B1-K6 SEMBAWANG SHOPPING CENTRE 758459",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21070012394",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "758459"
+        },
+        {
+          "name": "Sarpino's",
+          "address": "1A TAMPINES STREET 92 #01-01 SAFRA CLUBHOUSE (TAMPINES) 528882",
+          "type": "Restaurant",
+          "number": "EERT20250000527",
+          "scheme": "Eating Establishment",
+          "id": "7b5b4a83-60c2-4579-8f5c-de4d5ddfe46d",
+          "postal": "528882"
+        },
+        {
+          "name": "DAILY COFFEE",
+          "address": "750 CHAI CHEE ROAD #01-18 VIVA BUSINESS PARK 469000",
+          "type": "Restaurant",
+          "number": "EERN21060012479",
+          "scheme": "Eating Establishment",
+          "id": "4f7474b2-f034-4f3f-9e5d-52d1db42da1e",
+          "postal": "469000"
+        },
+        {
+          "name": "Yong Tau Foo (s10)@ Kopitiam CGH",
+          "address": "2 SIMEI STREET 3 #01-20 CHANGI GENERAL HOSPITAL, stall 10 529889",
+          "type": "Hawker",
+          "number": "EEHK20220000255",
+          "scheme": "Eating Establishment",
+          "id": "5c20b3d7-8159-4a00-8952-dc91170a909f",
+          "postal": "529889"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "53 ANG MO KIO AVENUE 3 #B2-08 AMK HUB 569933",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBX20030010673",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "569933"
+        },
+        {
+          "name": "Ban Mian & Fish Soup (S3) @ My Kampung Kallang Wave Mall",
+          "address": "1 STADIUM PLACE #02-16/k6, Stall 3 397628",
+          "type": "Hawker",
+          "number": "EEHK20230000284",
+          "scheme": "Eating Establishment",
+          "id": "4fa236e1-f140-470c-9e3a-8106ce78bdf4",
+          "postal": "397628"
+        },
+        {
+          "name": "Korean Cuisine Sanchon (S3)@Kopitiam Changi Airport T4",
+          "address": "10 AIRPORT BOULEVARD #02-205 CHANGI AIRPORT TERMINAL 4 819665",
+          "type": "Hawker",
+          "number": "EEHK20240000180",
+          "scheme": "Eating Establishment",
+          "id": "8c96dd61-69ba-4894-ae4e-d3f2164159f0",
+          "postal": "819665"
+        },
+        {
+          "name": "Now Pizza",
+          "address": "1 JELEBU ROAD #01-43 BUKIT PANJANG PLAZA 677743",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240001234",
+          "scheme": "Eating Establishment",
+          "id": "864c6a47-e378-4258-b9a5-9bf82b296233",
+          "postal": "677743"
+        },
+        {
+          "name": "Providence Cafe & Bakery",
+          "address": "12 MARSILING ROAD #01-01 MARSILING SECONDARY SCHOOL 739110",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000603",
+          "scheme": "Eating Establishment",
+          "id": "dbdc613f-701f-4178-b1d5-af65a15b5d9e",
+          "postal": "739110"
+        },
+        {
+          "name": "Relaks @ Conrad Singapore Marina Bay (managed by Compass Group)",
+          "address": "2 TEMASEK BOULEVARD B1 (Staff Canteen) CONRAD CENTENNIAL SINGAPORE 038982",
+          "type": "Staff Canteen",
+          "number": "EESC20250000642",
+          "scheme": "Eating Establishment",
+          "id": "2d1834f6-fcb1-4e27-b4fb-e3b3d5d2145c",
+          "postal": "038982"
+        },
+        {
+          "name": "OMMAS JAP & KOREAN (S15) @  KIM SAN LENG 417 YISHUN",
+          "address": "417 YISHUN AVENUE 11 #01-351 760417",
+          "type": "Hawker",
+          "number": "EEHK20220000616",
+          "scheme": "Eating Establishment",
+          "id": "6a2be707-af30-47c7-870d-ed54653b5a49",
+          "postal": "760417"
+        },
+        {
+          "name": "SAFFRONS FAMILY RESTAURANT",
+          "address": "23 SWAN LAKE AVENUE OPERA ESTATE 455715",
+          "type": "Restaurant",
+          "number": "EERT20220000489",
+          "scheme": "Eating Establishment",
+          "id": "8b53d031-3cc5-4fa3-9062-ea55a555039a",
+          "postal": "455715"
+        },
+        {
+          "name": "Sarpino's",
+          "address": "314 DUNEARN ROAD SHELL SERVICE STATION 299551",
+          "type": "Food Kiosk",
+          "number": "EEFK20250000528",
+          "scheme": "Eating Establishment",
+          "id": "7b5b4a83-60c2-4579-8f5c-de4d5ddfe46d",
+          "postal": "299551"
+        },
+        {
+          "name": "Wicked WIngs",
+          "address": "1 MARITIME SQUARE #02-05/06 HARBOURFRONT CENTRE 099253",
+          "type": "Restaurant",
+          "number": "EERN22010013372",
+          "scheme": "Eating Establishment",
+          "id": "e1eb4468-e706-4f99-bbf2-2603b062790c",
+          "postal": "099253"
+        },
+        {
+          "name": "Gyusei Gyukatsu Wagyu-Steakhouse",
+          "address": "775 NORTH BRIDGE ROAD #01 HOTEL CLOVER 198743",
+          "type": "Restaurant",
+          "number": "EERT26010000020",
+          "scheme": "Eating Establishment",
+          "id": "f33da927-7dff-4314-8012-14f8a27d8f6c",
+          "postal": "198743"
+        },
+        {
+          "name": "Yi ZUN NOODLE",
+          "address": "6 RAFFLES BOULEVARD #02-103 MARINA SQUARE 039594",
+          "type": "Restaurant",
+          "number": "EERT20220001030",
+          "scheme": "Eating Establishment",
+          "id": "4ea3aab4-1a6b-420b-8619-5ebe53859320",
+          "postal": "039594"
+        },
+        {
+          "name": "POLAR CAFE",
+          "address": "17 WOODLANDS DRIVE 17 #B2-01 737628",
+          "type": "Restaurant",
+          "number": "EERT20240001260",
+          "scheme": "Eating Establishment",
+          "id": "ad978a29-b580-4c9b-9123-4bc1bb79e7cc",
+          "postal": "737628"
+        },
+        {
+          "name": "Chef Leslie Western Cuisine (MR3) @ Kopitiam Northpoint City",
+          "address": "930 YISHUN AVENUE 2 #B2-12, MR2 769098",
+          "type": "Hawker",
+          "number": "EEHK20240000723",
+          "scheme": "Eating Establishment",
+          "id": "ec9bdb4c-605d-4b6e-a292-843116ae1d13",
+          "postal": "769098"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "802 BUKIT BATOK WEST AVENUE 5 #01-05 BUKIT GOMBAK MRT STATION 659083",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000681",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "659083"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "311 New Upper Changi Road #B2-K5 Bedok Mall 467360",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20030010677",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "467360"
+        },
+        {
+          "name": "Green Delights",
+          "address": "3 GATEWAY DRIVE #B2-K15/16 WESTGATE 608532",
+          "type": "Restaurant",
+          "number": "EERN21060012446",
+          "scheme": "Eating Establishment",
+          "id": "63adee12-b82c-4bda-b37d-5777fb47393c",
+          "postal": "608532"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "820 THOMSON ROAD #01-31B MOUNT ALVERNIA HOSPITAL 574623",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20060011283",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "574623"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "302 TIONG BAHRU ROAD #B1-K10 TIONG BAHRU PLAZA 168732",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20030010680",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "168732"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "15 Woodlands Link 738726",
+          "type": "Central Kitchen",
+          "number": "FPCN20040001359",
+          "scheme": "Food Preparation Area",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "738726"
+        },
+        {
+          "name": "Jing House Yong Tau Foo (S8) @ Koufu Tampines Mart",
+          "address": "9 TAMPINES STREET 32 #01-01-14, Stall 8 529286",
+          "type": "Hawker",
+          "number": "EEHK20230000773",
+          "scheme": "Eating Establishment",
+          "id": "725d8991-e84c-432d-a7c9-73bce8a914b3",
+          "postal": "529286"
+        },
+        {
+          "name": "PREPARATION KITCHEN @ RASA BUKOM",
+          "address": "1908 PULAU BUKOM BESAR, LEVEL 1 903808",
+          "type": "Central Kitchen",
+          "number": "FPCX21100001598",
+          "scheme": "Food Preparation Area",
+          "id": "1b0b2d3f-c34c-4053-8c3b-25db2a15ab4b",
+          "postal": "903808"
+        },
+        {
+          "name": "Seafood & BBQ",
+          "address": "348 YISHUN AVENUE 11 Stall 1 #01-04 ADORA GREEN 760348",
+          "type": "Hawker",
+          "number": "EEHK26010000050",
+          "scheme": "Eating Establishment",
+          "id": "eb266de5-4963-427a-b214-cee3f5b48a0d",
+          "postal": "760348"
+        },
+        {
+          "name": "SANCHOS TAQUERIA",
+          "address": "290 ORCHARD ROAD #B1-20 THE PARAGON 238859",
+          "type": "Restaurant",
+          "number": "EERT20240001034",
+          "scheme": "Eating Establishment",
+          "id": "7c719d5b-4cd3-4ea3-8665-5701f69b8665",
+          "postal": "238859"
+        },
+        {
+          "name": "Streats Cafe",
+          "address": "180 KITCHENER ROAD #01-01/03 CITY SQUARE MALL 208539",
+          "type": "Restaurant",
+          "number": "EERT20220000581",
+          "scheme": "Eating Establishment",
+          "id": "8190b22d-00bd-4d74-8267-b2ed861d2394",
+          "postal": "208539"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "31 JURONG WEST STREET 63 #02-07 PIONEER MRT STATION (EW28) 648310",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26020000062",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "648310"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "1 JURONG WEST CENTRAL 2 #B1-11 JURONG POINT 648886",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20040011251",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "648886"
+        },
+        {
+          "name": "NEW HOPE FOOD INDUSTRIES PTE. LTD.",
+          "address": "2 SENOKO SOUTH ROAD #04-01 SUPER INDUSTRIAL BUILDING 758096",
+          "type": "Central Kitchen",
+          "number": "FPCK20250000196",
+          "scheme": "Food Preparation Area",
+          "id": "5c4d8da0-0488-420b-9bf8-76bbf3c81206",
+          "postal": "758096"
+        },
+        {
+          "name": "Staff Canteen Stall @ PPHG Beach Road (Mngd by The Wok People)",
+          "address": "7500C BEACH ROAD THE PLAZA, Basement 199593",
+          "type": "Staff Canteen",
+          "number": "EESC20220000334",
+          "scheme": "Eating Establishment",
+          "id": "ee4dc241-8cef-404a-b69d-58f28f77e2b7",
+          "postal": "199593"
+        },
+        {
+          "name": "Prawn Mee, Laksa & Chilli Pan Mee (S1) @ Boleh Boleh! Harbourfront",
+          "address": "1 MARITIME SQUARE #01-103/104/105/106/107/108 HARBOURFRONT CENTRE, Stall 1 099253",
+          "type": "Hawker",
+          "number": "EEHK20240000765",
+          "scheme": "Eating Establishment",
+          "id": "5b92126c-87b4-4e2d-a42c-491764da5e44",
+          "postal": "099253"
+        },
+        {
+          "name": "ROYAL CATERING SERVICES PTE LTD",
+          "address": "3015 BEDOK NORTH STREET 5 #05-11 SHIMEI EAST KITCHEN 486350",
+          "type": "Catering Company",
+          "number": "FPGX21050001544",
+          "scheme": "Food Preparation Area",
+          "id": "573cd592-5ecc-4383-b76a-5396559670d3",
+          "postal": "486350"
+        },
+        {
+          "name": "COLD KITCHEN @ KHOO TECK PUAT HOSPITAL",
+          "address": "90 YISHUN CENTRAL KHOO TECK PUAT HOSPITAL 768828",
+          "type": "Central Kitchen",
+          "number": "FPCN21060001546",
+          "scheme": "Food Preparation Area",
+          "id": "4b12bad4-ec49-43e6-9720-a1d957b5fdbb",
+          "postal": "768828"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "90 HOUGANG AVENUE 10 #B1-K9 HOUGANG MALL 538766",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20040010691",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "538766"
+        },
+        {
+          "name": "Chops & Sear (S3) @ De Tian 81 Marine Parade",
+          "address": "81 MARINE PARADE CENTRAL #01-654 MARINE PARADE PROMENADE, Stall 3 440081",
+          "type": "Hawker",
+          "number": "EEHK20240000697",
+          "scheme": "Eating Establishment",
+          "id": "b09e18ef-7d93-4dcf-a9e6-8bf9a0e5aef9",
+          "postal": "440081"
+        },
+        {
+          "name": "Bali Thai Restaurant",
+          "address": "1 WOODLANDS SQUARE #05-05 CAUSEWAY POINT 738099",
+          "type": "Restaurant",
+          "number": "EERN21070012698",
+          "scheme": "Eating Establishment",
+          "id": "9a364ce4-e56d-44ac-b375-786f51bdbbab",
+          "postal": "738099"
+        },
+        {
+          "name": "Malay Kitchen @ Alexandra Hospital",
+          "address": "378 ALEXANDRA ROAD #01 ALEXANDRA HOSPITAL 159964",
+          "type": "Central Kitchen",
+          "number": "FPCN21050001525",
+          "scheme": "Food Preparation Area",
+          "id": "df1a6a5e-1886-412a-8562-7ce8d9168254",
+          "postal": "159964"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "930 YISHUN AVENUE 2 #B1-11 NORTHPOINT CITY (NORTH WING) 769098",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBX20040011255",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "769098"
+        },
+        {
+          "name": "Pastry Section @ Alexandra Hospital",
+          "address": "378 ALEXANDRA ROAD #01 ALEXANDRA HOSPITAL 159964",
+          "type": "Central Kitchen",
+          "number": "FPCN21050001523",
+          "scheme": "Food Preparation Area",
+          "id": "0894b9ce-8c80-4504-8ac5-5f605af796ee",
+          "postal": "159964"
+        },
+        {
+          "name": "JUNSHIN EXPRESS PTE. LTD.",
+          "address": "311 New Upper Changi Road #B2-20 BEDOK MALL 467360",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21080012664",
+          "scheme": "Eating Establishment",
+          "id": "aa43199e-00e8-4ad3-95bb-6d718ea27b2a",
+          "postal": "467360"
+        },
+        {
+          "name": "Chops & Sear (S1) @ De Tian 205 Bedok",
+          "address": "205 BEDOK NORTH STREET 1 #01-357, stall 1 460205",
+          "type": "Hawker",
+          "number": "EEHK20240000688",
+          "scheme": "Eating Establishment",
+          "id": "a2d0f01b-a7fa-43bd-a73e-ccaaac9a6eb2",
+          "postal": "460205"
+        },
+        {
+          "name": "Sanchon",
+          "address": "127 PLANTATION CRESCENT MR01, Koufu #03-02 PLANTATION PLAZA 690127",
+          "type": "Hawker",
+          "number": "EEHK25120000074",
+          "scheme": "Eating Establishment",
+          "id": "f6ba948d-0355-49d2-94f9-07b02b702079",
+          "postal": "690127"
+        },
+        {
+          "name": "ASAM TREE SNACK & NASI LEMAK",
+          "address": "100 HOUGANG AVENUE 10 #01-03 KANG KAR MALL 538767",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21040012186",
+          "scheme": "Eating Establishment",
+          "id": "22800df1-62a2-4887-a9b1-dd43fae4459f",
+          "postal": "538767"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "100 BUKIT TIMAH ROAD #01-34 KK WOMEN'S AND CHILDREN'S HOSPITAL 229899",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20030010670",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "229899"
+        },
+        {
+          "name": "54 BAKERY CAFE",
+          "address": "2 VENTURE DRIVE #02-46 VISION EXCHANGE 608526",
+          "type": "Restaurant",
+          "number": "EERN21060012447",
+          "scheme": "Eating Establishment",
+          "id": "ecc86068-bf90-4a2c-8d0f-142cd493c956",
+          "postal": "608526"
+        },
+        {
+          "name": "Blue Ocean Kopi & Toast",
+          "address": "533 Choa Chu Kang street 51 #01-11 Limbang Shopping Centre 680533",
+          "type": "Restaurant",
+          "number": "EERT20250000617",
+          "scheme": "Eating Establishment",
+          "id": "8061016d-f5e1-400e-9fbc-49602fe70687",
+          "postal": "680533"
+        },
+        {
+          "name": "Rice Section @ Alexandra Hospital",
+          "address": "378 ALEXANDRA ROAD #01 ALEXANDRA HOSPITAL 159964",
+          "type": "Central Kitchen",
+          "number": "FPCN21050001524",
+          "scheme": "Food Preparation Area",
+          "id": "a8e2ba73-748e-46e1-a63f-37048d0f04b2",
+          "postal": "159964"
+        },
+        {
+          "name": "Western Food (S4) @ Rasa Bukom.",
+          "address": "1908 PULAU BUKOM BESAR LEVEL 1, STALL 4 903808",
+          "type": "Hawker",
+          "number": "EEHK20240000794",
+          "scheme": "Eating Establishment",
+          "id": "3d5926f8-746f-4beb-95de-5bc3e2f54f49",
+          "postal": "903808"
+        },
+        {
+          "name": "DYNAMIC DINING HOUSE",
+          "address": "5 CHANGI VILLAGE ROAD #01-2041 500005",
+          "type": "Restaurant",
+          "number": "EERT20250000530",
+          "scheme": "Eating Establishment",
+          "id": "54f70f82-8f91-4abd-b2d4-70a6cb9cec1f",
+          "postal": "500005"
+        },
+        {
+          "name": "Asam Tree Nasi Padang",
+          "address": "470 LORONG 6 TOA PAYOH MR2, Fork & Spoon Toa Payoh #02-70 HDB HUB 310470",
+          "type": "Hawker",
+          "number": "EEHK20250000624",
+          "scheme": "Eating Establishment",
+          "id": "4921c3d0-f6e2-467a-9150-910e8174b587",
+          "postal": "310470"
+        },
+        {
+          "name": "Bagus Nasi Padang",
+          "address": "2 SIMEI STREET 3 #01-20 CHANGI GENERAL HOSPITAL KOPITIAM, MR1 529889",
+          "type": "Hawker",
+          "number": "EEHK20250000561",
+          "scheme": "Eating Establishment",
+          "id": "61895daf-b693-4086-b223-f709d30e87ed",
+          "postal": "529889"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "1 PASIR RIS CENTRAL STREET 3 #B1-K01 WHITE SANDS 518457",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20040010693",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "518457"
+        },
+        {
+          "name": "So Pho",
+          "address": "11 BIDADARI PARK DRIVE #01-29/30 THE WOODLEIGH MALL 367803",
+          "type": "Restaurant",
+          "number": "EERT20230000810",
+          "scheme": "Eating Establishment",
+          "id": "eab58cf8-5aa4-4b96-b522-760a4cceded7",
+          "postal": "367803"
+        },
+        {
+          "name": "Indian Fiesta (S3) @ Bartley Sec Sch",
+          "address": "10 JALAN BUNGA RAMPAI BARTLEY SECONDARY SCHOOL 538403",
+          "type": "Canteen",
+          "number": "EESN21030007685",
+          "scheme": "Eating Establishment",
+          "id": "559c805a-077c-4918-be15-f8d8b69c28a5",
+          "postal": "538403"
+        },
+        {
+          "name": "ESS",
+          "address": "20 MACTAGGART ROAD #02-06/07 MACTAGGART FOODLINK 368079",
+          "type": "Catering Company",
+          "number": "FPCA20230001174",
+          "scheme": "Food Preparation Area",
+          "id": "7a688768-5567-4d69-a00e-7c6007c505f3",
+          "postal": "368079"
+        },
+        {
+          "name": "Chops & Sear (S8) @ De Tian 915 Tampines",
+          "address": "915 TAMPINES STREET 91 #01-53 TAMPINES PALMSVILLE, stall 8 520915",
+          "type": "Hawker",
+          "number": "EEHK20240000693",
+          "scheme": "Eating Establishment",
+          "id": "51ed2ac8-6956-4d19-bd66-24857f23459b",
+          "postal": "520915"
+        },
+        {
+          "name": "Claypot Rice & Herbal Soup (S7) @ Boleh Boleh! Harbourfront",
+          "address": "1 MARITIME SQUARE #01-103/104/105/106/107/108 HARBOURFRONT CENTRE, STALL 7 099253",
+          "type": "Hawker",
+          "number": "EEHK20240000657",
+          "scheme": "Eating Establishment",
+          "id": "adeefe8d-b705-4616-82b0-62c1294e9dc8",
+          "postal": "099253"
+        }
+      ],
+      "updated": [
+        {
+          "previous": {
+            "name": "Easy Gourmet",
+            "address": "42 IMBIAH ROAD #01-K1 099701",
+            "type": "Restaurant",
+            "number": "EERT20250000823",
+            "scheme": "Eating Establishment",
+            "id": "5965b877-26d4-4e8e-9076-d0dbf88530c4",
+            "postal": "099701"
+          },
+          "current": {
+            "name": "Roost",
+            "address": "42 IMBIAH ROAD #01-K1 099701",
+            "type": "Restaurant",
+            "number": "EERT20250000823",
+            "scheme": "Eating Establishment",
+            "id": "5965b877-26d4-4e8e-9076-d0dbf88530c4",
+            "postal": "099701"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-07-30T23:20:29.967358",
     "date": "2026-07-30",
     "summary": {
@@ -9058,30 +11606,6 @@
           "postal": "397628"
         }
       ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-05-26T22:42:38.040993",
-    "date": "2026-05-26",
-    "summary": {
-      "new": 1,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "13 Miles",
-          "address": "749/751 NORTH BRIDGE ROAD #01 198717",
-          "type": "Restaurant",
-          "number": "EERT20250000318",
-          "scheme": "Eating Establishment",
-          "id": "292c3360-3744-45a1-80e7-6a75a4cda694",
-          "postal": "198717"
-        }
-      ],
-      "removed": [],
       "updated": []
     }
   }
