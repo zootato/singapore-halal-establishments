@@ -189,6 +189,15 @@
     "postal": "228211"
   },
   {
+    "name": "2 IC CATERING PRIVATE LIMITED",
+    "address": "15 JALAN TEPONG #06-10 JURONG FOOD HUB 619336",
+    "type": "Catering Company",
+    "number": "FPGN22010001642",
+    "scheme": "Food Preparation Area",
+    "id": "f8238a66-df1f-4891-9767-a9221c0fd0ad",
+    "postal": "619336"
+  },
+  {
     "name": "21 On Rajah",
     "address": "1 JALAN RAJAH #01 329133",
     "type": "Restaurant",
@@ -2059,6 +2068,24 @@
     "scheme": "Eating Establishment",
     "id": "3f4bc855-b32d-4123-b72b-960264441e38",
     "postal": "650155"
+  },
+  {
+    "name": "ASAM TREE CAFE, BAKERY AND RESTAURANT",
+    "address": "709 ANG MO KIO AVENUE 8 #01-2609 560709",
+    "type": "Restaurant",
+    "number": "EERT20230000647",
+    "scheme": "Eating Establishment",
+    "id": "fc7d0e16-0124-44ca-bf79-aadcff8d3187",
+    "postal": "560709"
+  },
+  {
+    "name": "Asam Tree Malay Cuisine (S5) @ Kopitiam KTPH",
+    "address": "90 YISHUN CENTRAL #01-12 KHOO TECK PUAT HOSPITAL, Stall 5 768828",
+    "type": "Hawker",
+    "number": "EEHK20240001195",
+    "scheme": "Eating Establishment",
+    "id": "427efe28-b234-4733-8af7-0500011367af",
+    "postal": "768828"
   },
   {
     "name": "Asam Tree Nasi Padang",
@@ -4447,24 +4474,6 @@
   },
   {
     "name": "BURGER KING",
-    "address": "28 CHOA CHU KANG DRIVE #01-01 SAFRA 689964",
-    "type": "Restaurant",
-    "number": "EERT20230000841",
-    "scheme": "Eating Establishment",
-    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
-    "postal": "689964"
-  },
-  {
-    "name": "BURGER KING",
-    "address": "1 JOO KOON CIRCLE #01-49/50 FAIRPRICE HUB 629117",
-    "type": "Restaurant",
-    "number": "EERT20240001191",
-    "scheme": "Eating Establishment",
-    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
-    "postal": "629117"
-  },
-  {
-    "name": "BURGER KING",
     "address": "1 JELEBU ROAD #01-28/29 BUKIT PANJANG PLAZA 677743",
     "type": "Restaurant",
     "number": "EERN20030011313",
@@ -4480,6 +4489,15 @@
     "scheme": "Eating Establishment",
     "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
     "postal": "437157"
+  },
+  {
+    "name": "BURGER KING",
+    "address": "1 JOO KOON CIRCLE #01-49/50 FAIRPRICE HUB 629117",
+    "type": "Restaurant",
+    "number": "EERT20240001191",
+    "scheme": "Eating Establishment",
+    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+    "postal": "629117"
   },
   {
     "name": "BURGER KING",
@@ -4786,6 +4804,15 @@
     "scheme": "Eating Establishment",
     "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
     "postal": "049407"
+  },
+  {
+    "name": "BURGER KING",
+    "address": "28 CHOA CHU KANG DRIVE #01-01 SAFRA 689964",
+    "type": "Restaurant",
+    "number": "EERT20230000841",
+    "scheme": "Eating Establishment",
+    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+    "postal": "689964"
   },
   {
     "name": "Butcher Kitchen @ Hotel Jen Singapore Tanglin by Shangri-La",
@@ -8092,21 +8119,21 @@
   },
   {
     "name": "Do Qoo",
-    "address": "2 JURONG EAST STREET 21 #01-37 IMM BUILDING 609601",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000018",
-    "scheme": "Eating Establishment",
-    "id": "00ba342f-f509-4c61-b6e9-e6cd94707bb6",
-    "postal": "609601"
-  },
-  {
-    "name": "Do Qoo",
     "address": "676 WOODLANDS DRIVE 71 #01-13 730676",
     "type": "Restaurant",
     "number": "EERT20220000221",
     "scheme": "Eating Establishment",
     "id": "00ba342f-f509-4c61-b6e9-e6cd94707bb6",
     "postal": "730676"
+  },
+  {
+    "name": "Do Qoo",
+    "address": "2 JURONG EAST STREET 21 #01-37 IMM BUILDING 609601",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000018",
+    "scheme": "Eating Establishment",
+    "id": "00ba342f-f509-4c61-b6e9-e6cd94707bb6",
+    "postal": "609601"
   },
   {
     "name": "Do Qoo",
@@ -10566,15 +10593,6 @@
     "postal": "555945"
   },
   {
-    "name": "Gelare",
-    "address": "201 VICTORIA STREET #05-10 BUGIS+ 188067",
-    "type": "Restaurant",
-    "number": "EERT20230001042",
-    "scheme": "Eating Establishment",
-    "id": "8297f808-92a7-4884-92d8-95daab047e0e",
-    "postal": "188067"
-  },
-  {
     "name": "GELARE",
     "address": "1 WOODLANDS SQUARE #03-K06/K07/K08 CAUSEWAY POINT 738099",
     "type": "Restaurant",
@@ -10618,6 +10636,15 @@
     "scheme": "Eating Establishment",
     "id": "8297f808-92a7-4884-92d8-95daab047e0e",
     "postal": "239695"
+  },
+  {
+    "name": "Gelare",
+    "address": "201 VICTORIA STREET #05-10 BUGIS+ 188067",
+    "type": "Restaurant",
+    "number": "EERT20230001042",
+    "scheme": "Eating Establishment",
+    "id": "8297f808-92a7-4884-92d8-95daab047e0e",
+    "postal": "188067"
   },
   {
     "name": "GENTLE DINING PTE. LTD.",
@@ -35035,6 +35062,15 @@
     "scheme": "Eating Establishment",
     "id": "afdf3d47-0667-4719-b5d3-4398c4ee4a02",
     "postal": "470741"
+  },
+  {
+    "name": "YB Fried Bee Hoon",
+    "address": "437 FERNVALE ROAD (S10)@Kopitiam Fernvale #01-01 FERNVALE GROVE 790437",
+    "type": "Hawker",
+    "number": "EEHK25110000008",
+    "scheme": "Eating Establishment",
+    "id": "226370e2-ec42-4b14-bfbe-d2bc897d1580",
+    "postal": "790437"
   },
   {
     "name": "Yes! JAPANESE & KOREAN CUISINE",
