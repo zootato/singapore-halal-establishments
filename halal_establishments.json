@@ -468,6 +468,15 @@
     "postal": "460511"
   },
   {
+    "name": "54 BAKERY CAFE",
+    "address": "2 VENTURE DRIVE #02-46 VISION EXCHANGE 608526",
+    "type": "Restaurant",
+    "number": "EERN21060012447",
+    "scheme": "Eating Establishment",
+    "id": "ecc86068-bf90-4a2c-8d0f-142cd493c956",
+    "postal": "608526"
+  },
+  {
     "name": "57 Nasi Lovemak",
     "address": "91 HILLVIEW LINK Timbre Plus Hillview #02-K10 CMPB 669723",
     "type": "Hawker",
@@ -4465,15 +4474,6 @@
   },
   {
     "name": "BURGER KING",
-    "address": "1 HARBOURFRONT WALK #02-80/81 VIVO CITY 098585",
-    "type": "Restaurant",
-    "number": "EERN20030011322",
-    "scheme": "Eating Establishment",
-    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
-    "postal": "098585"
-  },
-  {
-    "name": "BURGER KING",
     "address": "1 JELEBU ROAD #01-28/29 BUKIT PANJANG PLAZA 677743",
     "type": "Restaurant",
     "number": "EERN20030011313",
@@ -4534,6 +4534,15 @@
     "scheme": "Eating Establishment",
     "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
     "postal": "409051"
+  },
+  {
+    "name": "BURGER KING",
+    "address": "1 HARBOURFRONT WALK #02-80/81 VIVO CITY 098585",
+    "type": "Restaurant",
+    "number": "EERN20030011322",
+    "scheme": "Eating Establishment",
+    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+    "postal": "098585"
   },
   {
     "name": "BURGER KING",
@@ -16803,6 +16812,15 @@
     "postal": "648310"
   },
   {
+    "name": "Makan West . Western Cuisine",
+    "address": "930 YISHUN AVENUE 2 #B2-12 KOPITIAM NORTHPOINT CITY (NORTH WING), MR3 769098",
+    "type": "Hawker",
+    "number": "EEHK26070000106",
+    "scheme": "Eating Establishment",
+    "id": "43bffe6e-cc33-4238-ab40-c3b7e9947ed5",
+    "postal": "769098"
+  },
+  {
     "name": "MAKCIK CAN COOK",
     "address": "920 TIONG BAHRU ROAD #01-05 REDHILL MRT STATION 158792",
     "type": "Snack Bar / Bakery",
@@ -20890,6 +20908,15 @@
   },
   {
     "name": "NENE CHICKEN",
+    "address": "478 TAMPINES STREET 44 #01-219, MR1, HAPPY HAWKERS 520478",
+    "type": "Hawker",
+    "number": "EEHK26070000108",
+    "scheme": "Eating Establishment",
+    "id": "c2a3daa9-ec19-4a9f-8474-752b3cbfb1ff",
+    "postal": "520478"
+  },
+  {
+    "name": "NENE CHICKEN",
     "address": "23 Serangoon Central #04-15/16 NEX 556083",
     "type": "Restaurant",
     "number": "EERN22010013398",
@@ -23347,15 +23374,6 @@
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
-    "address": "3 YUAN CHING ROAD #01-03 JURONG LEISURE COMPLEX 618642",
-    "type": "Restaurant",
-    "number": "EERN21080012794",
-    "scheme": "Eating Establishment",
-    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
-    "postal": "618642"
-  },
-  {
-    "name": "PIZZA HUT SINGAPORE PTE LTD",
     "address": "1 SENGKANG SQUARE #B1-15 SENGKANG MALL (1SM) 545078",
     "type": "Restaurant",
     "number": "EERN21080012769",
@@ -23542,6 +23560,15 @@
     "scheme": "Eating Establishment",
     "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
     "postal": "677743"
+  },
+  {
+    "name": "PIZZA HUT SINGAPORE PTE LTD",
+    "address": "3 YUAN CHING ROAD #01-03 JURONG LEISURE COMPLEX 618642",
+    "type": "Restaurant",
+    "number": "EERN21080012794",
+    "scheme": "Eating Establishment",
+    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
+    "postal": "618642"
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
@@ -25099,15 +25126,6 @@
     "scheme": "Eating Establishment",
     "id": "376e4074-b5c7-40f3-abad-2793943f4281",
     "postal": "819663"
-  },
-  {
-    "name": "ROTIBOY",
-    "address": "107 NORTH BRIDGE ROAD #B2-32 FUNAN 179105",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20240000994",
-    "scheme": "Eating Establishment",
-    "id": "8a6fb384-7215-49ac-b9fb-e7837903b6a5",
-    "postal": "179105"
   },
   {
     "name": "ROTIKEK",
@@ -34036,6 +34054,15 @@
     "scheme": "Eating Establishment",
     "id": "4077c570-2d67-448e-933d-8193bb4eefda",
     "postal": "599489"
+  },
+  {
+    "name": "Western",
+    "address": "470 LORONG 6 TOA PAYOH #02-70 (STALL 5) @ FORK & SPOON HDB HUB 310470",
+    "type": "Hawker",
+    "number": "EEHK26070000105",
+    "scheme": "Eating Establishment",
+    "id": "2a94f63a-ef52-4bca-ae0d-4c230c0005ad",
+    "postal": "310470"
   },
   {
     "name": "Western",
