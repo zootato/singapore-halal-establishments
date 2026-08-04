@@ -1,5 +1,291 @@
 [
   {
+    "timestamp": "2026-08-04T23:18:17.308085",
+    "date": "2026-08-04",
+    "summary": {
+      "new": 27,
+      "removed": 3,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "DJ BAKERY",
+          "address": "811 HOUGANG CENTRAL #01-200 530811",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000178",
+          "scheme": "Eating Establishment",
+          "id": "5a2ce9cc-e58c-41fd-b071-a10368ed9f81",
+          "postal": "530811"
+        },
+        {
+          "name": "WAGYU STEAK 99",
+          "address": "3 GATEWAY DRIVE #03-09 WESTGATE 608532",
+          "type": "Restaurant",
+          "number": "EERT26070000113",
+          "scheme": "Eating Establishment",
+          "id": "184780e4-3cac-44ab-98da-24233004559c",
+          "postal": "608532"
+        },
+        {
+          "name": "Steak 99",
+          "address": "1 WOODLANDS SQUARE #02-09C CAUSEWAY POINT 738099",
+          "type": "Restaurant",
+          "number": "EERT26070000112",
+          "scheme": "Eating Establishment",
+          "id": "825193a3-1a1e-4d2b-abb6-b7fd6ee11dce",
+          "postal": "738099"
+        },
+        {
+          "name": "DJ BAKERY",
+          "address": "743 YISHUN AVENUE 5 01-538 NEE SOON CENTRAL SPRING 760743",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000176",
+          "scheme": "Eating Establishment",
+          "id": "19d6e77b-509d-4389-aae7-d7a807dc7a3a",
+          "postal": "760743"
+        },
+        {
+          "name": "Carrot Cake (S3) @ Cantine Greenridge",
+          "address": "524A JELAPANG ROAD #01-03 GREENRIDGE SHOPPING CENTRE, Stall 3 671524",
+          "type": "Hawker",
+          "number": "EEHK20230000276",
+          "scheme": "Eating Establishment",
+          "id": "d66d631c-3e54-49a0-b033-47cb03e06807",
+          "postal": "671524"
+        },
+        {
+          "name": "ZUS COFFEE",
+          "address": "80 AIRPORT BOULEVARD #02-05 CHANGI AIRPORT TERMINAL 1 (DEPARTURE HALL WEST) 819642",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26070000031",
+          "scheme": "Eating Establishment",
+          "id": "5bc4848b-7a5e-4fd2-a546-51d24a555c65",
+          "postal": "819642"
+        },
+        {
+          "name": "DJ BAKERY",
+          "address": "204 HOUGANG STREET 21 #01-125 530204",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000177",
+          "scheme": "Eating Establishment",
+          "id": "37992dde-886d-49dd-ac5b-669fca610a14",
+          "postal": "530204"
+        },
+        {
+          "name": "Drinks (S8) @ Rasa Rasa Teck Whye",
+          "address": "160A JALAN TECK WHYE #01-01, Stall 8 681160",
+          "type": "Hawker",
+          "number": "EEHK20250000026",
+          "scheme": "Eating Establishment",
+          "id": "84d74166-eb1c-4636-976e-a76d435e1f4b",
+          "postal": "681160"
+        },
+        {
+          "name": "DJ BAKERY",
+          "address": "266 Serangoon central drive #01-251 550266",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000182",
+          "scheme": "Eating Establishment",
+          "id": "33614695-6c49-49b7-a22e-8780cffaab92",
+          "postal": "550266"
+        },
+        {
+          "name": "DJ BAKERY",
+          "address": "258 BUKIT PANJANG RING ROAD #01-38 BUKIT PANJANG NEW TOWN 670258",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000181",
+          "scheme": "Eating Establishment",
+          "id": "84e3e9b9-6993-4365-be6e-415335ed53bc",
+          "postal": "670258"
+        },
+        {
+          "name": "ZUS COFFEE",
+          "address": "8A MARINA BOULEVARD #B2-09 MARINA BAY LINK MALL 018984",
+          "type": "Restaurant",
+          "number": "EERT26070000032",
+          "scheme": "Eating Establishment",
+          "id": "5bc4848b-7a5e-4fd2-a546-51d24a555c65",
+          "postal": "018984"
+        },
+        {
+          "name": "THAI MAKAN",
+          "address": "678A WOODLANDS AVENUE 6 #02-05 MULTI STOREY CAR PARK, (Stall 3) BAGUS ADMIRALTY PLACE 731678",
+          "type": "Hawker",
+          "number": "EEHK26070000024",
+          "scheme": "Eating Establishment",
+          "id": "af1c0276-784a-47c8-9acd-5e6ab39e34eb",
+          "postal": "731678"
+        },
+        {
+          "name": "DJ BAKERY",
+          "address": "213 BEDOK NORTH STREET 1 #01-117 460213",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000179",
+          "scheme": "Eating Establishment",
+          "id": "93ef97d6-1cee-48f8-baa4-238c52c221e8",
+          "postal": "460213"
+        },
+        {
+          "name": "THE BREAD CLUB",
+          "address": "10 PAYA LEBAR ROAD #B2-13 PLQ MALL 409057",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000190",
+          "scheme": "Eating Establishment",
+          "id": "78f281ea-da9e-485b-a276-157eebe49d75",
+          "postal": "409057"
+        },
+        {
+          "name": "THE BREAD CLUB",
+          "address": "7 PASIR RIS CENTRAL #01-29 519612",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000188",
+          "scheme": "Eating Establishment",
+          "id": "670b8ccc-82d6-4148-a9af-61cbbf37188f",
+          "postal": "519612"
+        },
+        {
+          "name": "DJ BAKERY",
+          "address": "301 UPPER THOMSON ROAD #01-73 THOMSON PLAZA 574408",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000185",
+          "scheme": "Eating Establishment",
+          "id": "b8b5b53b-c6d6-4958-bb83-e062d5b72fa5",
+          "postal": "574408"
+        },
+        {
+          "name": "DJ BAKERY",
+          "address": "826 TAMPINES STREET 81 #01-102 TAMPINES GROVE 520826",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000180",
+          "scheme": "Eating Establishment",
+          "id": "fa7a6853-5279-45d7-a748-de5ea0d2bd18",
+          "postal": "520826"
+        },
+        {
+          "name": "DJ BAKERY",
+          "address": "519A TAMPINES CENTRAL 8 #01-07 CENTRALE 8 AT TAMPINES 521519",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000187",
+          "scheme": "Eating Establishment",
+          "id": "858cc443-eac3-4f40-b355-bd2e388db250",
+          "postal": "521519"
+        },
+        {
+          "name": "DJ BAKERY",
+          "address": "442 PASIR RIS DRIVE 6 #01-36 510442",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000186",
+          "scheme": "Eating Establishment",
+          "id": "77367467-024d-44c8-8b2d-b1582957f90f",
+          "postal": "510442"
+        },
+        {
+          "name": "ZUS COFFEE",
+          "address": "3 GATEWAY DRIVE #02-25/26 WESTGATE 608532",
+          "type": "Restaurant",
+          "number": "EERT26070000036",
+          "scheme": "Eating Establishment",
+          "id": "5bc4848b-7a5e-4fd2-a546-51d24a555c65",
+          "postal": "608532"
+        },
+        {
+          "name": "DJ BAKERY",
+          "address": "83 MARINE PARADE CENTRAL #01-552 MARINE PARADE PROMENADE 440083",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000184",
+          "scheme": "Eating Establishment",
+          "id": "39e65de8-1b7f-426b-9a2b-0c399126d87a",
+          "postal": "440083"
+        },
+        {
+          "name": "DJ BAKERY",
+          "address": "6 WOODLANDS TERRACE 738431",
+          "type": "Central Kitchen",
+          "number": "FPCK20250000175",
+          "scheme": "Food Preparation Area",
+          "id": "39e65de8-1b7f-426b-9a2b-0c399126d87a",
+          "postal": "738431"
+        },
+        {
+          "name": "ZUS COFFEE",
+          "address": "1 NORTHPOINT DRIVE #01-120,#01-121 NORTHPOINT CITY 768019",
+          "type": "Restaurant",
+          "number": "EERT26070000034",
+          "scheme": "Eating Establishment",
+          "id": "5bc4848b-7a5e-4fd2-a546-51d24a555c65",
+          "postal": "768019"
+        },
+        {
+          "name": "ZUS COFFEE",
+          "address": "10 AIRPORT BOULEVARD #01-08 CHANGI AIRPORT TERMINAL 4 819665",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26070000030",
+          "scheme": "Eating Establishment",
+          "id": "5bc4848b-7a5e-4fd2-a546-51d24a555c65",
+          "postal": "819665"
+        },
+        {
+          "name": "ZUS COFFEE",
+          "address": "42 IMBIAH ROAD #01-02,#01-03,#01-04 099701",
+          "type": "Restaurant",
+          "number": "EERT26070000035",
+          "scheme": "Eating Establishment",
+          "id": "5bc4848b-7a5e-4fd2-a546-51d24a555c65",
+          "postal": "099701"
+        },
+        {
+          "name": "DJ BAKERY",
+          "address": "1 TAMPINES WALK #01-93 OUR TAMPINES HUB 528523",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26070000109",
+          "scheme": "Eating Establishment",
+          "id": "5a96110c-5f9a-41e2-8236-8c04131a02f6",
+          "postal": "528523"
+        },
+        {
+          "name": "Seafood (S1) @ Rasa Rasa Teck Whye",
+          "address": "160A JALAN TECK WHYE #01-01, Stall 1 681160",
+          "type": "Hawker",
+          "number": "EEHK20250000025",
+          "scheme": "Eating Establishment",
+          "id": "71fbc552-2cd2-4c68-80ef-853213eca765",
+          "postal": "681160"
+        }
+      ],
+      "removed": [
+        {
+          "name": "SAAP SAAP THAI",
+          "address": "1 PASIR RIS CENTRAL STREET 3 #02-24,#02-K01 WHITE SANDS 518457",
+          "type": "Restaurant",
+          "number": "EERT26020000076",
+          "scheme": "Eating Establishment",
+          "id": "9589c31f-fee1-4b1e-925f-755094a68b7a",
+          "postal": "518457"
+        },
+        {
+          "name": "D'RUBINAH @ PUNGGOL",
+          "address": "10 TEBING LANE #01-03/04 828836",
+          "type": "Restaurant",
+          "number": "EERX21070012659",
+          "scheme": "Eating Establishment",
+          "id": "cd849299-fac1-4111-a9cb-f2725ef3a47e",
+          "postal": "828836"
+        },
+        {
+          "name": "TIP TOP",
+          "address": "1 PASIR RIS CLOSE #02-109 E!HUB@DOWNTOWN EAST 519599",
+          "type": "Restaurant",
+          "number": "EERT20240000728",
+          "scheme": "Eating Establishment",
+          "id": "87a00d7d-0af0-4000-be56-7b7facc1c180",
+          "postal": "519599"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-08-03T23:17:07.274684",
     "date": "2026-08-03",
     "summary": {
@@ -10153,40 +10439,6 @@
           "scheme": "Eating Establishment",
           "id": "6898b05f-3ffe-41b3-af30-8aea1bf8c6a3",
           "postal": "208539"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-06-02T22:55:56.164869",
-    "date": "2026-06-02",
-    "summary": {
-      "new": 1,
-      "removed": 1,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "GOPIZZA",
-          "address": "9 KING ALBERT PARK #01-27 KAP 598332",
-          "type": "Restaurant",
-          "number": "EERT26050000066",
-          "scheme": "Eating Establishment",
-          "id": "6ad41353-6cd6-4d5d-b66e-a2b1403dc446",
-          "postal": "598332"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Kazo",
-          "address": "51 BRAS BASAH ROAD #01-09 LAZADA ONE 189554",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20240000053",
-          "scheme": "Eating Establishment",
-          "id": "911cb7f7-438a-4583-a323-1e96bb9071a4",
-          "postal": "189554"
         }
       ],
       "updated": []
