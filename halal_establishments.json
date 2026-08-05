@@ -6337,6 +6337,15 @@
   },
   {
     "name": "Churros Factory",
+    "address": "352 CLEMENTI AVENUE 2 #01-109 CLEMENTI AVENUE 2 SHOPPING CENTRE 120352",
+    "type": "Restaurant",
+    "number": "EERT26060000040",
+    "scheme": "Eating Establishment",
+    "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
+    "postal": "120352"
+  },
+  {
+    "name": "Churros Factory",
     "address": "9 KING ALBERT PARK #01-68 KAP 598332",
     "type": "Snack Bar / Bakery",
     "number": "EEBN21050012265",
@@ -17406,6 +17415,15 @@
     "postal": "059804"
   },
   {
+    "name": "MALAY KITCHEN @ NUSS",
+    "address": "9 KENT RIDGE DRIVE GUILD HOUSE 119241",
+    "type": "Central Kitchen",
+    "number": "FPCX20100001451",
+    "scheme": "Food Preparation Area",
+    "id": "6fde4448-4817-494a-ae47-f3ef563e5580",
+    "postal": "119241"
+  },
+  {
     "name": "Malay Kitchen @ Sats Inflight Catering Ctr 2",
     "address": "30 CHANGI NORTH CRESCENT SATS INFLIGHT CATERING CENTRE 2 499612",
     "type": "Central Kitchen",
@@ -18145,15 +18163,6 @@
   },
   {
     "name": "McDonald's",
-    "address": "1 JELEBU ROAD #02-01 BUKIT PANJANG PLAZA, Mcdonald's 677743",
-    "type": "Restaurant",
-    "number": "EERN20020010972",
-    "scheme": "Eating Establishment",
-    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-    "postal": "677743"
-  },
-  {
-    "name": "McDonald's",
     "address": "632 BEDOK RESERVOIR ROAD #01-850 470632",
     "type": "Restaurant",
     "number": "EERN20020010973",
@@ -18790,6 +18799,15 @@
     "scheme": "Eating Establishment",
     "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
     "postal": "750511"
+  },
+  {
+    "name": "McDonald's",
+    "address": "1 JELEBU ROAD #02-01 BUKIT PANJANG PLAZA, Mcdonald's 677743",
+    "type": "Restaurant",
+    "number": "EERN20020010972",
+    "scheme": "Eating Establishment",
+    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+    "postal": "677743"
   },
   {
     "name": "McDonald's",
@@ -26173,15 +26191,6 @@
   },
   {
     "name": "Seabay Delight Wok Delight",
-    "address": "1 JURONG EAST STREET 21 (Stall 6) @ Fork & Spoon Ng Teng Fong General Hospital (Tower B) #02-01A, #02-01B NG TENG FONG GENERAL HOSPITAL (TOWER B) 609606",
-    "type": "Hawker",
-    "number": "EEHK25120000041",
-    "scheme": "Eating Establishment",
-    "id": "2035b70c-c1f0-49ab-a004-a9576849a2b6",
-    "postal": "609606"
-  },
-  {
-    "name": "Seabay Delight Wok Delight",
     "address": "604 SEMBAWANG ROAD (S3)@Kopitiam Food Hall SSC #B1-25 #B1-25A Sembawang Shopping Centre, Stall 3 758459",
     "type": "Hawker",
     "number": "EEHK20250000639",
@@ -26197,6 +26206,15 @@
     "scheme": "Eating Establishment",
     "id": "e1abbb85-65b8-4be0-bba7-ded689a7e489",
     "postal": "530377"
+  },
+  {
+    "name": "Seabay Delight Wok Delight",
+    "address": "1 JURONG EAST STREET 21 (Stall 6) @ Fork & Spoon Ng Teng Fong General Hospital (Tower B) #02-01A, #02-01B NG TENG FONG GENERAL HOSPITAL (TOWER B) 609606",
+    "type": "Hawker",
+    "number": "EEHK25120000041",
+    "scheme": "Eating Establishment",
+    "id": "2035b70c-c1f0-49ab-a004-a9576849a2b6",
+    "postal": "609606"
   },
   {
     "name": "Seabay Delight Wok Delight",
@@ -27117,6 +27135,15 @@
     "postal": "178903"
   },
   {
+    "name": "Social Cafe",
+    "address": "3 CHANGI BUSINESS PARK CRESCENT #01-01 486026",
+    "type": "Restaurant",
+    "number": "EERT20240000637",
+    "scheme": "Eating Establishment",
+    "id": "643b4161-2321-413b-8dc1-93d3f22de223",
+    "postal": "486026"
+  },
+  {
     "name": "Sofra Turkish Cafe & Restaurant",
     "address": "6 RAFFLES BOULEVARD #03-129A/131C MARINA SQUARE 039594",
     "type": "Restaurant",
@@ -27811,15 +27838,6 @@
   },
   {
     "name": "Steak 99",
-    "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #01-48 CHANGI CITY POINT 486038",
-    "type": "Restaurant",
-    "number": "EERT26040000049",
-    "scheme": "Eating Establishment",
-    "id": "825193a3-1a1e-4d2b-abb6-b7fd6ee11dce",
-    "postal": "486038"
-  },
-  {
-    "name": "Steak 99",
     "address": "10 PAYA LEBAR ROAD #B2-17 PAYA LEBAR QUARTER 409057",
     "type": "Restaurant",
     "number": "EERT26040000050",
@@ -27853,6 +27871,15 @@
     "scheme": "Eating Establishment",
     "id": "825193a3-1a1e-4d2b-abb6-b7fd6ee11dce",
     "postal": "238839"
+  },
+  {
+    "name": "Steak 99",
+    "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #01-48 CHANGI CITY POINT 486038",
+    "type": "Restaurant",
+    "number": "EERT26040000049",
+    "scheme": "Eating Establishment",
+    "id": "825193a3-1a1e-4d2b-abb6-b7fd6ee11dce",
+    "postal": "486038"
   },
   {
     "name": "Steak 99",
@@ -31714,6 +31741,24 @@
     "scheme": "Eating Establishment",
     "id": "e9d884ad-f73d-4ddf-a61e-c53b6db70d90",
     "postal": "079908"
+  },
+  {
+    "name": "The Cafe @ AMD (Managed By Compass Group)",
+    "address": "508 CHAI CHEE LANE #07 469032",
+    "type": "Staff Canteen",
+    "number": "EESC20240000638",
+    "scheme": "Eating Establishment",
+    "id": "3ab089fb-3645-445f-9751-5545fe7dc82e",
+    "postal": "469032"
+  },
+  {
+    "name": "The Cafeteria 1 @ York Hotel (Mngd by Compass Group Singapore)",
+    "address": "21 MOUNT ELIZABETH #01-00 YORK HOTEL 228516",
+    "type": "Staff Canteen",
+    "number": "EEFN21110012550",
+    "scheme": "Eating Establishment",
+    "id": "0c9712c9-cc87-4e56-b081-a443d23eb734",
+    "postal": "228516"
   },
   {
     "name": "The Caterers Pte Ltd",
