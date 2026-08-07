@@ -711,6 +711,15 @@
     "postal": "530991"
   },
   {
+    "name": "Abang Adik",
+    "address": "925 YISHUN CENTRAL 1 Stall 8, Kedai Kopi @ Yishun 925 #01-211 760925",
+    "type": "Hawker",
+    "number": "EEHK26080000007",
+    "scheme": "Eating Establishment",
+    "id": "b6c2219e-4cb1-4ba0-9751-92d223b6a8fb",
+    "postal": "760925"
+  },
+  {
     "name": "ABANG GEMUK",
     "address": "8A ADMIRALTY STREET #07-14 FOOD XCHANGE @ ADMIRALTY 757437",
     "type": "Central Kitchen",
@@ -6562,6 +6571,15 @@
   },
   {
     "name": "Cinta Hainanese Chicken Rice",
+    "address": "11 JALAN TAN TOCK SENG #01-13/14/15 TAN TOCK SENG HOSPITAL, Stall 14, Kopitiam 308433",
+    "type": "Hawker",
+    "number": "EEHK26080000023",
+    "scheme": "Eating Establishment",
+    "id": "4f8511ab-2f47-49ce-8fba-6cfcbcb7ae04",
+    "postal": "308433"
+  },
+  {
+    "name": "Cinta Hainanese Chicken Rice",
     "address": "1 ANCHORVALE STREET #01-21 SENGKANG COMMUNITY HOSPITAL 544835",
     "type": "Restaurant",
     "number": "EERT26020000066",
@@ -7306,6 +7324,15 @@
     "scheme": "Eating Establishment",
     "id": "9a6d88b0-64c6-405c-9bb8-f2ad06d3f829",
     "postal": "608532"
+  },
+  {
+    "name": "Curry Times Bento",
+    "address": "30 WOODLANDS AVENUE 2 #01-31 WOODLANDS MRT STATION (NS9) 738343",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26080000025",
+    "scheme": "Eating Establishment",
+    "id": "122305c4-29db-4efa-812e-4de875feb081",
+    "postal": "738343"
   },
   {
     "name": "D'BAKMIE & D'CENDOL",
@@ -11557,15 +11584,6 @@
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
-    "address": "17 Petir Road #B2-67 Hillion Mall 678278",
-    "type": "Halal Section",
-    "number": "EECN21070000441",
-    "scheme": "Eating Establishment",
-    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
-    "postal": "678278"
-  },
-  {
-    "name": "Halal Section @ NTUC FAIRPRICE",
     "address": "80 MARINE PARADE ROAD #03-28 PARKWAY PARADE 449269",
     "type": "Central Kitchen",
     "number": "FPCN21050001520",
@@ -11599,6 +11617,15 @@
     "scheme": "Food Preparation Area",
     "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
     "postal": "671524"
+  },
+  {
+    "name": "Halal Section @ NTUC FAIRPRICE",
+    "address": "17 Petir Road #B2-67 Hillion Mall 678278",
+    "type": "Halal Section",
+    "number": "EECN21070000441",
+    "scheme": "Eating Establishment",
+    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
+    "postal": "678278"
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
@@ -14191,15 +14218,6 @@
     "scheme": "Food Preparation Area",
     "id": "453b1b44-d0d1-4a40-ae28-e4ea3eac1a8f",
     "postal": "368330"
-  },
-  {
-    "name": "Katong Catering",
-    "address": "11 SWAN LAKE AVENUE OPERA ESTATE 455710",
-    "type": "Catering Company",
-    "number": "FPGN21070001561",
-    "scheme": "Food Preparation Area",
-    "id": "97d65dd1-2bc5-4d82-8790-fbaa96cb3f42",
-    "postal": "455710"
   },
   {
     "name": "Kawan Bowl Scrambled Egg Rice (S2) @ Kopitiam Sunshine Place",
@@ -17413,6 +17431,15 @@
     "scheme": "Food Preparation Area",
     "id": "6fe65531-80bf-4ac0-b307-571f8b365442",
     "postal": "059804"
+  },
+  {
+    "name": "Malay Kitchen @ Institute of Mental Health",
+    "address": "10 BUANGKOK VIEW #01-1337 INSTITUTE OF MENTAL HEALTH 539747",
+    "type": "Central Kitchen",
+    "number": "FPCN21050001517",
+    "scheme": "Food Preparation Area",
+    "id": "c5f32f91-986b-4c69-8e97-f46b0dc32e08",
+    "postal": "539747"
   },
   {
     "name": "MALAY KITCHEN @ NUSS",
@@ -25291,6 +25318,15 @@
   },
   {
     "name": "ROTIKEK",
+    "address": "354 CLEMENTI AVENUE 2 STALL 9, CHANG CHENG MEE WAH.WUFU #01-157 CLEMENTI AVENUE 2 SHOPPING CENTRE 120354",
+    "type": "Hawker",
+    "number": "EEHK26010000082",
+    "scheme": "Eating Establishment",
+    "id": "dbb1ba80-8e2d-49e0-b99e-474b77336e3f",
+    "postal": "120354"
+  },
+  {
+    "name": "ROTIKEK",
     "address": "30 WOODLANDS AVENUE 2 #01-45 WOODLANDS MRT STATION 738343",
     "type": "Snack Bar / Bakery",
     "number": "EESB20230000990",
@@ -25299,13 +25335,13 @@
     "postal": "738343"
   },
   {
-    "name": "ROTIKEK",
-    "address": "354 CLEMENTI AVENUE 2 STALL 9, CHANG CHENG MEE WAH.WUFU #01-157 CLEMENTI AVENUE 2 SHOPPING CENTRE 120354",
-    "type": "Hawker",
-    "number": "EEHK26010000082",
-    "scheme": "Eating Establishment",
-    "id": "dbb1ba80-8e2d-49e0-b99e-474b77336e3f",
-    "postal": "120354"
+    "name": "ROYAL CATERING SERVICES PTE LTD",
+    "address": "3015 BEDOK NORTH STREET 5 #05-11 SHIMEI EAST KITCHEN 486350",
+    "type": "Catering Company",
+    "number": "FPGX21050001544",
+    "scheme": "Food Preparation Area",
+    "id": "573cd592-5ecc-4383-b76a-5396559670d3",
+    "postal": "486350"
   },
   {
     "name": "Royal Spicy Dosa Restaurant",
@@ -26182,15 +26218,6 @@
   },
   {
     "name": "Seabay Delight Wok Delight",
-    "address": "10 HOSPITAL BOULEVARD #02-03 OUTRAM COMMUNITY HOSPITAL, STALL 2, KOUFU 168582",
-    "type": "Hawker",
-    "number": "EEHK25120000040",
-    "scheme": "Eating Establishment",
-    "id": "97a50ab3-4707-4dbc-8b49-622567c33356",
-    "postal": "168582"
-  },
-  {
-    "name": "Seabay Delight Wok Delight",
     "address": "604 SEMBAWANG ROAD (S3)@Kopitiam Food Hall SSC #B1-25 #B1-25A Sembawang Shopping Centre, Stall 3 758459",
     "type": "Hawker",
     "number": "EEHK20250000639",
@@ -26242,6 +26269,15 @@
     "scheme": "Eating Establishment",
     "id": "787fa750-3050-4d9d-8210-3f27246f8c48",
     "postal": "238839"
+  },
+  {
+    "name": "Seabay Delight Wok Delight",
+    "address": "10 HOSPITAL BOULEVARD #02-03 OUTRAM COMMUNITY HOSPITAL, STALL 2, KOUFU 168582",
+    "type": "Hawker",
+    "number": "EEHK25120000040",
+    "scheme": "Eating Establishment",
+    "id": "97a50ab3-4707-4dbc-8b49-622567c33356",
+    "postal": "168582"
   },
   {
     "name": "Seabay Delight Wok Delight (MR2)@Koufu Sengkang Community Hospital",
@@ -33235,24 +33271,6 @@
     "scheme": "Eating Establishment",
     "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
     "postal": "428802"
-  },
-  {
-    "name": "Tim Hortons",
-    "address": "17 WOODLANDS DRIVE 17 #01-03 WOODLANDS HEALTH CAMPUS 737628",
-    "type": "Restaurant",
-    "number": "EERT26020000012",
-    "scheme": "Eating Establishment",
-    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-    "postal": "737628"
-  },
-  {
-    "name": "Tim Hortons",
-    "address": "180 Kitchener Road #01-30/31 CITY SQUARE MALL 208539",
-    "type": "Restaurant",
-    "number": "EERT26020000013",
-    "scheme": "Eating Establishment",
-    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-    "postal": "208539"
   },
   {
     "name": "Tim Hortons",
