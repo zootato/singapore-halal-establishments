@@ -406,6 +406,15 @@
   },
   {
     "name": "4FINGERS CRISPY CHICKEN",
+    "address": "33 SENGKANG WEST AVENUE #03-22, #03-K4, #03-K5 THE SELETAR MALL 797653",
+    "type": "Restaurant",
+    "number": "EERT26080000036",
+    "scheme": "Eating Establishment",
+    "id": "90b83324-363a-4406-9afa-08b19b67522d",
+    "postal": "797653"
+  },
+  {
+    "name": "4FINGERS CRISPY CHICKEN",
     "address": "65 AIRPORT BOULEVARD #B2-02 CHANGI AIRPORT TERMINAL 3 819663",
     "type": "Restaurant",
     "number": "EERX21070012609",
@@ -1813,6 +1822,15 @@
     "address": "1 NORTHPOINT DRIVE CANTINE STALL 9 #02-101/102/103 NORTHPOINT CITY 768019",
     "type": "Hawker",
     "number": "EEHK20250000752",
+    "scheme": "Eating Establishment",
+    "id": "a7cb7c6e-2d20-496e-91bb-67941426d951",
+    "postal": "768019"
+  },
+  {
+    "name": "Ani Yong Tau Foo",
+    "address": "1 NORTHPOINT DRIVE Northpoint City #02-101, #02-102, #02-103 NORTHPOINT CITY, Stall 08, Bagus Food Hall 768019",
+    "type": "Hawker",
+    "number": "EEHK26080000035",
     "scheme": "Eating Establishment",
     "id": "a7cb7c6e-2d20-496e-91bb-67941426d951",
     "postal": "768019"
@@ -4474,15 +4492,6 @@
   },
   {
     "name": "BURGER KING",
-    "address": "65 AIRPORT BOULEVARD #03-AF11 CHANGI AIRPORT TERMINAL 3 819663",
-    "type": "Restaurant",
-    "number": "EERN20030011308",
-    "scheme": "Eating Establishment",
-    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
-    "postal": "819663"
-  },
-  {
-    "name": "BURGER KING",
     "address": "1 JELEBU ROAD #01-28/29 BUKIT PANJANG PLAZA 677743",
     "type": "Restaurant",
     "number": "EERN20030011313",
@@ -4744,6 +4753,15 @@
   },
   {
     "name": "BURGER KING",
+    "address": "65 AIRPORT BOULEVARD #03-AF11 CHANGI AIRPORT TERMINAL 3 819663",
+    "type": "Restaurant",
+    "number": "EERN20030011308",
+    "scheme": "Eating Establishment",
+    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+    "postal": "819663"
+  },
+  {
+    "name": "BURGER KING",
     "address": "6 EU TONG SEN STREET #01-23/26 059817",
     "type": "Restaurant",
     "number": "EERN20030011331",
@@ -4959,6 +4977,15 @@
     "postal": "169075"
   },
   {
+    "name": "Cafe @ TJC",
+    "address": "2 TAMPINES AVENUE 9 TEMASEK JUNIOR COLLEGE 529564",
+    "type": "Canteen",
+    "number": "EESC26080000032",
+    "scheme": "Eating Establishment",
+    "id": "3ec2854d-6073-4cfb-941a-237bf3034bc6",
+    "postal": "529564"
+  },
+  {
     "name": "CAFE @ TMUC (Mngd By Thomson Catering)",
     "address": "20 TEMBUSU CRESCENT 627610",
     "type": "Staff Canteen",
@@ -4966,6 +4993,15 @@
     "scheme": "Eating Establishment",
     "id": "0d810eea-a5db-4f84-85d9-48364f4081f9",
     "postal": "627610"
+  },
+  {
+    "name": "CAFE @PSS",
+    "address": "51 EDGEFIELD PLAINS PUNGGOL SECONDARY SCHOOL 828870",
+    "type": "Canteen",
+    "number": "EESC26080000033",
+    "scheme": "Eating Establishment",
+    "id": "ba4a1e66-1a32-414b-874a-5a644cbb5809",
+    "postal": "828870"
   },
   {
     "name": "Cafe Fantasy",
@@ -5428,24 +5464,6 @@
   },
   {
     "name": "CAT & THE FIDDLE",
-    "address": "3 GATEWAY DRIVE #01-11 WESTGATE 608532",
-    "type": "Restaurant",
-    "number": "EERT26010000110",
-    "scheme": "Eating Establishment",
-    "id": "40ac230f-34a1-45df-8a3e-ef049f3f2e1f",
-    "postal": "608532"
-  },
-  {
-    "name": "CAT & THE FIDDLE",
-    "address": "10 TAMPINES CENTRAL 1 01-41/42 TAMPINES ONE 529536",
-    "type": "Restaurant",
-    "number": "EERT26030000065",
-    "scheme": "Eating Establishment",
-    "id": "40ac230f-34a1-45df-8a3e-ef049f3f2e1f",
-    "postal": "529536"
-  },
-  {
-    "name": "CAT & THE FIDDLE",
     "address": "9 BISHAN PLACE #02-32A JUNCTION 8 SHOPPING CENTRE 579837",
     "type": "Snack Bar / Bakery",
     "number": "EEBN21060012385",
@@ -5461,6 +5479,24 @@
     "scheme": "Eating Establishment",
     "id": "40ac230f-34a1-45df-8a3e-ef049f3f2e1f",
     "postal": "737737"
+  },
+  {
+    "name": "CAT & THE FIDDLE",
+    "address": "3 GATEWAY DRIVE #01-11 WESTGATE 608532",
+    "type": "Restaurant",
+    "number": "EERT26010000110",
+    "scheme": "Eating Establishment",
+    "id": "40ac230f-34a1-45df-8a3e-ef049f3f2e1f",
+    "postal": "608532"
+  },
+  {
+    "name": "CAT & THE FIDDLE",
+    "address": "10 TAMPINES CENTRAL 1 01-41/42 TAMPINES ONE 529536",
+    "type": "Restaurant",
+    "number": "EERT26030000065",
+    "scheme": "Eating Establishment",
+    "id": "40ac230f-34a1-45df-8a3e-ef049f3f2e1f",
+    "postal": "529536"
   },
   {
     "name": "CAT & THE FIDDLE",
@@ -11575,15 +11611,6 @@
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
-    "address": "63 JURONG WEST CENTRAL 3 #03-01 JURONG POINT SHOPPING CENTRE 648331",
-    "type": "Halal Section",
-    "number": "EECN21070000438",
-    "scheme": "Eating Establishment",
-    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
-    "postal": "648331"
-  },
-  {
-    "name": "Halal Section @ NTUC FAIRPRICE",
     "address": "80 MARINE PARADE ROAD #03-28 PARKWAY PARADE 449269",
     "type": "Central Kitchen",
     "number": "FPCN21050001520",
@@ -11599,6 +11626,15 @@
     "scheme": "Food Preparation Area",
     "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
     "postal": "150166"
+  },
+  {
+    "name": "Halal Section @ NTUC FAIRPRICE",
+    "address": "63 JURONG WEST CENTRAL 3 #03-01 JURONG POINT SHOPPING CENTRE 648331",
+    "type": "Halal Section",
+    "number": "EECN21070000438",
+    "scheme": "Eating Establishment",
+    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
+    "postal": "648331"
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
@@ -16180,6 +16216,15 @@
     "scheme": "Eating Establishment",
     "id": "a270c4f1-833f-4f1b-9f64-fad74f459d26",
     "postal": "320150"
+  },
+  {
+    "name": "L & M Seafood",
+    "address": "105 CANBERRA STREET Stall No MR4@Yong Li Coffee Station #01-#01 EASTBROOK @ CANBERRA 750105",
+    "type": "Hawker",
+    "number": "EEHK26080000006",
+    "scheme": "Eating Establishment",
+    "id": "a270c4f1-833f-4f1b-9f64-fad74f459d26",
+    "postal": "750105"
   },
   {
     "name": "L & M Seafood",
@@ -24642,6 +24687,78 @@
     "postal": "677743"
   },
   {
+    "name": "Providence Cafe & Bakery",
+    "address": "38 MALCOLM ROAD SAINT JOSEPH's INSTITUTION 308274",
+    "type": "Canteen",
+    "number": "EESC26080000030",
+    "scheme": "Eating Establishment",
+    "id": "dbdc613f-701f-4178-b1d5-af65a15b5d9e",
+    "postal": "308274"
+  },
+  {
+    "name": "Providence Cafe & Bakery",
+    "address": "3 WOODLANDS STREET 81 RIVERSIDE SECONDARY SCHOOL 738524",
+    "type": "Canteen",
+    "number": "EESC26030000052",
+    "scheme": "Eating Establishment",
+    "id": "dbdc613f-701f-4178-b1d5-af65a15b5d9e",
+    "postal": "738524"
+  },
+  {
+    "name": "Providence Cafe & Bakery",
+    "address": "12 MARSILING ROAD MARSILING SECONDARY SCHOOL 739110",
+    "type": "Canteen",
+    "number": "EESC26080000028",
+    "scheme": "Eating Establishment",
+    "id": "dbdc613f-701f-4178-b1d5-af65a15b5d9e",
+    "postal": "739110"
+  },
+  {
+    "name": "Providence Cafe & Bakery",
+    "address": "51 EDGEDALE PLAINS GREENDALE SECONDARY SCHOOL 828866",
+    "type": "Canteen",
+    "number": "EESC26080000031",
+    "scheme": "Eating Establishment",
+    "id": "dbdc613f-701f-4178-b1d5-af65a15b5d9e",
+    "postal": "828866"
+  },
+  {
+    "name": "Providence Cafe & Bakery",
+    "address": "600 UPPER EAST COAST ROAD TEMASEK SECONDARY SCHOOL 465561",
+    "type": "Canteen",
+    "number": "EESC26080000027",
+    "scheme": "Eating Establishment",
+    "id": "dbdc613f-701f-4178-b1d5-af65a15b5d9e",
+    "postal": "465561"
+  },
+  {
+    "name": "Providence Cafe & Bakery",
+    "address": "600 UPPER CHANGI ROAD ANGLICAN HIGH SCHOOL 487012",
+    "type": "Canteen",
+    "number": "EESC26080000026",
+    "scheme": "Eating Establishment",
+    "id": "dbdc613f-701f-4178-b1d5-af65a15b5d9e",
+    "postal": "487012"
+  },
+  {
+    "name": "Providence Cafe & Bakery",
+    "address": "3 YISHUN RING ROAD #01-01 YISHUN INNOVA JUNIOR COLLEGE 768675",
+    "type": "Canteen",
+    "number": "EESC26080000029",
+    "scheme": "Eating Establishment",
+    "id": "dbdc613f-701f-4178-b1d5-af65a15b5d9e",
+    "postal": "768675"
+  },
+  {
+    "name": "Providence Cafe & Bakery",
+    "address": "234 LORONG 8 TOA PAYOH #01-270 TOA PAYOH EIGHT 310234",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20240000720",
+    "scheme": "Eating Establishment",
+    "id": "dbdc613f-701f-4178-b1d5-af65a15b5d9e",
+    "postal": "310234"
+  },
+  {
     "name": "Puffs Palace",
     "address": "30 NORRIS ROAD #01-01 208272",
     "type": "Restaurant",
@@ -25309,21 +25426,21 @@
   },
   {
     "name": "ROTIKEK",
-    "address": "1 WOODLANDS ROAD #01-20 JUNCTION 10 677899",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN21050012330",
-    "scheme": "Eating Establishment",
-    "id": "07605b17-1023-441c-9d39-32c0daf78246",
-    "postal": "677899"
-  },
-  {
-    "name": "ROTIKEK",
     "address": "354 CLEMENTI AVENUE 2 STALL 9, CHANG CHENG MEE WAH.WUFU #01-157 CLEMENTI AVENUE 2 SHOPPING CENTRE 120354",
     "type": "Hawker",
     "number": "EEHK26010000082",
     "scheme": "Eating Establishment",
     "id": "dbb1ba80-8e2d-49e0-b99e-474b77336e3f",
     "postal": "120354"
+  },
+  {
+    "name": "ROTIKEK",
+    "address": "1 WOODLANDS ROAD #01-20 JUNCTION 10 677899",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN21050012330",
+    "scheme": "Eating Establishment",
+    "id": "07605b17-1023-441c-9d39-32c0daf78246",
+    "postal": "677899"
   },
   {
     "name": "ROTIKEK",
@@ -25885,15 +26002,6 @@
   },
   {
     "name": "Sanook Kitchen",
-    "address": "3 SIMEI STREET 6 #01-15 EASTPOINT MALL 528833",
-    "type": "Restaurant",
-    "number": "EERN21040012308",
-    "scheme": "Eating Establishment",
-    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-    "postal": "528833"
-  },
-  {
-    "name": "Sanook Kitchen",
     "address": "6 WOODLANDS SQUARE #B2-08 WOODS SQUARE 737737",
     "type": "Restaurant",
     "number": "EERN21040012304",
@@ -25927,6 +26035,15 @@
     "scheme": "Eating Establishment",
     "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
     "postal": "529536"
+  },
+  {
+    "name": "Sanook Kitchen",
+    "address": "3 SIMEI STREET 6 #01-15 EASTPOINT MALL 528833",
+    "type": "Restaurant",
+    "number": "EERN21040012308",
+    "scheme": "Eating Establishment",
+    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+    "postal": "528833"
   },
   {
     "name": "Sanook Kitchen",
@@ -26209,15 +26326,6 @@
   },
   {
     "name": "Seabay Delight Wok Delight",
-    "address": "100 BUKIT TIMAH ROAD STALL 08, KOUFU #01-28 KK WOMEN's AND CHILDREN's HOSPITAL 229899",
-    "type": "Hawker",
-    "number": "EEHK25120000007",
-    "scheme": "Eating Establishment",
-    "id": "5bf2c286-1b83-49e1-905e-1f1fc359edb4",
-    "postal": "229899"
-  },
-  {
-    "name": "Seabay Delight Wok Delight",
     "address": "604 SEMBAWANG ROAD (S3)@Kopitiam Food Hall SSC #B1-25 #B1-25A Sembawang Shopping Centre, Stall 3 758459",
     "type": "Hawker",
     "number": "EEHK20250000639",
@@ -26269,6 +26377,15 @@
     "scheme": "Eating Establishment",
     "id": "787fa750-3050-4d9d-8210-3f27246f8c48",
     "postal": "238839"
+  },
+  {
+    "name": "Seabay Delight Wok Delight",
+    "address": "100 BUKIT TIMAH ROAD STALL 08, KOUFU #01-28 KK WOMEN's AND CHILDREN's HOSPITAL 229899",
+    "type": "Hawker",
+    "number": "EEHK25120000007",
+    "scheme": "Eating Establishment",
+    "id": "5bf2c286-1b83-49e1-905e-1f1fc359edb4",
+    "postal": "229899"
   },
   {
     "name": "Seabay Delight Wok Delight",
@@ -27252,6 +27369,15 @@
     "postal": "738322"
   },
   {
+    "name": "Soon Lee",
+    "address": "1 bedok road #01-02 469572",
+    "type": "Hawker",
+    "number": "EEHX21040012277",
+    "scheme": "Eating Establishment",
+    "id": "e589010b-17d5-425e-af3b-fc61d5cc3e5f",
+    "postal": "469572"
+  },
+  {
     "name": "Soso Hainanese Chicken Rice",
     "address": "101 THOMSON ROAD Stall 09, Food Dynasty @ United Square #B1-02,#B1-56M/56N,#B1-57/58/59 UNITED SQUARE 307591",
     "type": "Hawker",
@@ -28180,15 +28306,6 @@
   },
   {
     "name": "STUFF'D",
-    "address": "311 NEW UPPER CHANGI ROAD #B2-22 BEDOK MALL 467360",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN21110012927",
-    "scheme": "Eating Establishment",
-    "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
-    "postal": "467360"
-  },
-  {
-    "name": "STUFF'D",
     "address": "9 BISHAN PLACE #B1-19A JUNCTION 8 SHOPPING CENTRE 579837",
     "type": "Snack Bar / Bakery",
     "number": "EEBN21110012932",
@@ -28240,6 +28357,15 @@
     "scheme": "Eating Establishment",
     "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
     "postal": "188021"
+  },
+  {
+    "name": "STUFF'D",
+    "address": "311 NEW UPPER CHANGI ROAD #B2-22 BEDOK MALL 467360",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN21110012927",
+    "scheme": "Eating Establishment",
+    "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
+    "postal": "467360"
   },
   {
     "name": "STUFF'D",
@@ -33247,12 +33373,12 @@
   },
   {
     "name": "Tim Hortons",
-    "address": "80 MARINE PARADE ROAD #01-02 PARKWAY PARADE 449269",
+    "address": "9 RAFFLES BOULEVARD #01-87 #01-86 MILLENIA WALK 039596",
     "type": "Restaurant",
-    "number": "EERT26020000009",
+    "number": "EERT26020000014",
     "scheme": "Eating Establishment",
     "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-    "postal": "449269"
+    "postal": "039596"
   },
   {
     "name": "Tim Hortons",
@@ -33265,21 +33391,12 @@
   },
   {
     "name": "Tim Hortons",
-    "address": "112 EAST COAST ROAD #01-28 112 KATONG 428802",
+    "address": "80 MARINE PARADE ROAD #01-02 PARKWAY PARADE 449269",
     "type": "Restaurant",
-    "number": "EERT26020000011",
+    "number": "EERT26020000009",
     "scheme": "Eating Establishment",
     "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-    "postal": "428802"
-  },
-  {
-    "name": "Tim Hortons",
-    "address": "9 RAFFLES BOULEVARD #01-87 #01-86 MILLENIA WALK 039596",
-    "type": "Restaurant",
-    "number": "EERT26020000014",
-    "scheme": "Eating Establishment",
-    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-    "postal": "039596"
+    "postal": "449269"
   },
   {
     "name": "Tim Hortons",
