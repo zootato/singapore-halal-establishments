@@ -10323,6 +10323,15 @@
     "postal": "486350"
   },
   {
+    "name": "For The Love of Prata Manufacturing Pte Ltd",
+    "address": "8A ADMIRALTY STREET #04-01 FOOD XCHANGE @ ADMIRALTY 757437",
+    "type": "Central Kitchen",
+    "number": "FPCX22010001646",
+    "scheme": "Food Preparation Area",
+    "id": "c095bf43-c81f-4f13-8409-460171166b05",
+    "postal": "757437"
+  },
+  {
     "name": "Forte (F&B)Pte Ltd",
     "address": "3015 BEDOK NORTH STREET 5 #06-23 SHIMEI EAST KITCHEN 486350",
     "type": "Catering Company",
@@ -26631,6 +26640,15 @@
     "postal": "119074"
   },
   {
+    "name": "Sedap Thai (S8) @ Berseh Food Centre",
+    "address": "166 JALAN BESAR #01-08 BERSEH FOOD CENTRE, Stall 8 208877",
+    "type": "Hawker",
+    "number": "EEHX21050012328",
+    "scheme": "Eating Establishment",
+    "id": "e8530be1-d0cc-4f8f-88cf-ae7a5a9e48d9",
+    "postal": "208877"
+  },
+  {
     "name": "SEGAR",
     "address": "1 PASIR RIS CLOSE #02-317 E!HUB@DOWNTOWN EAST 519599",
     "type": "Restaurant",
@@ -27637,6 +27655,15 @@
     "scheme": "Eating Establishment",
     "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
     "postal": "555952"
+  },
+  {
+    "name": "Srisun Express",
+    "address": "Souq @ Sultan: National Day Edition, 3 MUSCAT STREET MASJID SULTAN, 5 198833",
+    "type": "Short Term Stall(Bazaar/Road Shows)",
+    "number": "EEST26080000037",
+    "scheme": "Eating Establishment",
+    "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
+    "postal": "198833"
   },
   {
     "name": "Srisun Prata.com",

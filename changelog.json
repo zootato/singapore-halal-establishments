@@ -1,5 +1,47 @@
 [
   {
+    "timestamp": "2026-08-08T22:44:02.388266",
+    "date": "2026-08-08",
+    "summary": {
+      "new": 3,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Srisun Express",
+          "address": "Souq @ Sultan: National Day Edition, 3 MUSCAT STREET MASJID SULTAN, 5 198833",
+          "type": "Short Term Stall(Bazaar/Road Shows)",
+          "number": "EEST26080000037",
+          "scheme": "Eating Establishment",
+          "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
+          "postal": "198833"
+        },
+        {
+          "name": "For The Love of Prata Manufacturing Pte Ltd",
+          "address": "8A ADMIRALTY STREET #04-01 FOOD XCHANGE @ ADMIRALTY 757437",
+          "type": "Central Kitchen",
+          "number": "FPCX22010001646",
+          "scheme": "Food Preparation Area",
+          "id": "c095bf43-c81f-4f13-8409-460171166b05",
+          "postal": "757437"
+        },
+        {
+          "name": "Sedap Thai (S8) @ Berseh Food Centre",
+          "address": "166 JALAN BESAR #01-08 BERSEH FOOD CENTRE, Stall 8 208877",
+          "type": "Hawker",
+          "number": "EEHX21050012328",
+          "scheme": "Eating Establishment",
+          "id": "e8530be1-d0cc-4f8f-88cf-ae7a5a9e48d9",
+          "postal": "208877"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-08-07T22:50:58.862827",
     "date": "2026-08-07",
     "summary": {
@@ -9738,40 +9780,6 @@
           "scheme": "Eating Establishment",
           "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
           "postal": "540351"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-06-06T22:36:36.489433",
-    "date": "2026-06-06",
-    "summary": {
-      "new": 1,
-      "removed": 1,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "LYE HENG FOOD SUPPLIES PTE. LTD.",
-          "address": "15 WOODLANDS LOOP #04-22 738322",
-          "type": "Catering Company",
-          "number": "FPGN22020001657",
-          "scheme": "Food Preparation Area",
-          "id": "abe6ac6a-5a7e-42a6-9006-6aef7c533735",
-          "postal": "738322"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Korea Culture",
-          "address": "EXPO HALL 7, 9 SOMAPAH ROAD SINGAPORE EXPO (HALL 7), HALL 7 KIOSK 1 487370",
-          "type": "Short Term Stall(Bazaar/Road Shows)",
-          "number": "EEST26050000040",
-          "scheme": "Eating Establishment",
-          "id": "3cdc1589-a08d-43fc-a5cd-793d1ace3f28",
-          "postal": "487370"
         }
       ],
       "updated": []
