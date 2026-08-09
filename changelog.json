@@ -1,5 +1,29 @@
 [
   {
+    "timestamp": "2026-08-09T22:44:06.729872",
+    "date": "2026-08-09",
+    "summary": {
+      "new": 0,
+      "removed": 1,
+      "updated": 0
+    },
+    "changes": {
+      "new": [],
+      "removed": [
+        {
+          "name": "Srisun Express",
+          "address": "Souq @ Sultan: National Day Edition, 3 MUSCAT STREET MASJID SULTAN, 5 198833",
+          "type": "Short Term Stall(Bazaar/Road Shows)",
+          "number": "EEST26080000037",
+          "scheme": "Eating Establishment",
+          "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
+          "postal": "198833"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-08-08T22:44:02.388266",
     "date": "2026-08-08",
     "summary": {
@@ -9695,94 +9719,6 @@
           }
         }
       ]
-    }
-  },
-  {
-    "timestamp": "2026-06-08T22:44:48.354680",
-    "date": "2026-06-08",
-    "summary": {
-      "new": 3,
-      "removed": 5,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Tenkutei Japanese & Korean Cuisine",
-          "address": "21 CHOA CHU KANG AVENUE 4 #04-14/15/16 FOOD JUNCTION LOT ONE, SHOPPERS' MALL, Stall 8 689812",
-          "type": "Hawker",
-          "number": "EEHK20250000767",
-          "scheme": "Eating Establishment",
-          "id": "25b974c3-7e0b-4b62-8ba0-d0a7a39d0f59",
-          "postal": "689812"
-        },
-        {
-          "name": "The Tree Cafe",
-          "address": "100 TRAS STREET #01-01 100 AM 079027",
-          "type": "Restaurant",
-          "number": "EERT26050000057",
-          "scheme": "Eating Establishment",
-          "id": "c46acb89-ff04-470c-8633-cd33b3081fbc",
-          "postal": "079027"
-        },
-        {
-          "name": "Namtown",
-          "address": "678A WOODLANDS AVENUE 6 #01-03 ADMIRALTY WET MARKET & FOOD CENTRE 731678",
-          "type": "Restaurant",
-          "number": "EERT26060000017",
-          "scheme": "Eating Establishment",
-          "id": "bbbdedc5-bef4-4f58-968c-286a553ce4ba",
-          "postal": "731678"
-        }
-      ],
-      "removed": [
-        {
-          "name": "CINNABON",
-          "address": "252 NORTH BRIDGE ROAD #B1-60 RAFFLES CITY SHOPPING CENTRE 179103",
-          "type": "Restaurant",
-          "number": "EERT20240000428",
-          "scheme": "Eating Establishment",
-          "id": "41a48d25-48b0-4e13-aa53-38806f2ecdbf",
-          "postal": "179103"
-        },
-        {
-          "name": "TOKYO SHOKUDO BISTRO",
-          "address": "68 ORCHARD ROAD #02-35 PLAZA SINGAPURA 238839",
-          "type": "Restaurant",
-          "number": "EERT20240000549",
-          "scheme": "Eating Establishment",
-          "id": "b86b0e9f-023d-44fd-ba2b-d495297d389f",
-          "postal": "238839"
-        },
-        {
-          "name": "CINNABON",
-          "address": "78 AIRPORT BOULEVARD #B2-266 JEWEL CHANGI AIRPORT 819666",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20240001170",
-          "scheme": "Eating Establishment",
-          "id": "41a48d25-48b0-4e13-aa53-38806f2ecdbf",
-          "postal": "819666"
-        },
-        {
-          "name": "SAAP SAAP THAI",
-          "address": "1 PASIR RIS CENTRAL STREET 3 #02-24,#02-K01 WHITE SANDS 518457",
-          "type": "Restaurant",
-          "number": "EERT26020000076",
-          "scheme": "Eating Establishment",
-          "id": "9589c31f-fee1-4b1e-925f-755094a68b7a",
-          "postal": "518457"
-        },
-        {
-          "name": "PRIMADELI",
-          "address": "351 ANCHORVALE ROAD #01-04 ANCHORVALE FIELDS 540351",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20250000727",
-          "scheme": "Eating Establishment",
-          "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
-          "postal": "540351"
-        }
-      ],
-      "updated": []
     }
   }
 ]
