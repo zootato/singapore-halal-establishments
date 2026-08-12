@@ -1,5 +1,159 @@
 [
   {
+    "timestamp": "2026-08-12T22:56:58.794916",
+    "date": "2026-08-12",
+    "summary": {
+      "new": 0,
+      "removed": 2,
+      "updated": 6
+    },
+    "changes": {
+      "new": [],
+      "removed": [
+        {
+          "name": "THE COFFEE BEAN & TEA LEAF",
+          "address": "1 MARITIME SQUARE #02-124/125/126 HARBOURFRONT CENTRE 099253",
+          "type": "Restaurant",
+          "number": "EERN21120013257",
+          "scheme": "Eating Establishment",
+          "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+          "postal": "099253"
+        },
+        {
+          "name": "Long John Silver's",
+          "address": "3 Gateway Drive #B1-10 Westgate 608532",
+          "type": "Restaurant",
+          "number": "EERN22020013527",
+          "scheme": "Eating Establishment",
+          "id": "04a22cc8-410f-41ad-977c-224cb8a85e4c",
+          "postal": "608532"
+        }
+      ],
+      "updated": [
+        {
+          "previous": {
+            "name": "Chicken, Duck Rice & Seafood @ Enak Enak",
+            "address": "342 BEDOK ROAD BEDOK SHOPPING COMPLEX,stall 5 469520",
+            "type": "Hawker",
+            "number": "EEHK20240000783",
+            "scheme": "Eating Establishment",
+            "id": "3b897e7a-1e83-417a-9fc9-5b46b0e6db94",
+            "postal": "469520"
+          },
+          "current": {
+            "name": "Chicken, Duck Rice & Seafood @ Enak Enak",
+            "address": "342 BEDOK ROAD BEDOK SHOPPING COMPLEX, stall 5 469520",
+            "type": "Hawker",
+            "number": "EEHK20240000783",
+            "scheme": "Eating Establishment",
+            "id": "3b897e7a-1e83-417a-9fc9-5b46b0e6db94",
+            "postal": "469520"
+          }
+        },
+        {
+          "previous": {
+            "name": "DESSERTS & DRINKS @ ENAK ENAK",
+            "address": "342 BEDOK ROAD BEDOK SHOPPING COMPLEX,stall 6 469524",
+            "type": "Hawker",
+            "number": "EEHX21060012456",
+            "scheme": "Eating Establishment",
+            "id": "fdeff561-0e69-4afe-80b2-37a6d62ed3bb",
+            "postal": "469524"
+          },
+          "current": {
+            "name": "DESSERTS & DRINKS @ ENAK ENAK",
+            "address": "342 BEDOK ROAD BEDOK SHOPPING COMPLEX, stall 6 469524",
+            "type": "Hawker",
+            "number": "EEHX21060012456",
+            "scheme": "Eating Establishment",
+            "id": "fdeff561-0e69-4afe-80b2-37a6d62ed3bb",
+            "postal": "469524"
+          }
+        },
+        {
+          "previous": {
+            "name": "HONGKONG TIM SUM @ ENAK ENAK",
+            "address": "342 BEDOK ROAD BEDOK SHOPPING COMPLEX,stall 3 469524",
+            "type": "Hawker",
+            "number": "EEHX21060012457",
+            "scheme": "Eating Establishment",
+            "id": "e0f68b76-ce4e-4bf5-af25-083a4d3c19e8",
+            "postal": "469524"
+          },
+          "current": {
+            "name": "HONGKONG TIM SUM @ ENAK ENAK",
+            "address": "342 BEDOK ROAD BEDOK SHOPPING COMPLEX, stall 3 469524",
+            "type": "Hawker",
+            "number": "EEHX21060012457",
+            "scheme": "Eating Establishment",
+            "id": "e0f68b76-ce4e-4bf5-af25-083a4d3c19e8",
+            "postal": "469524"
+          }
+        },
+        {
+          "previous": {
+            "name": "Hello(MR3) @ Mei De Coffeeshop 279 Bukit Batok",
+            "address": "279 BUKIT BATOK EAST AVENUE 3 #01-337, MR3 650279",
+            "type": "Hawker",
+            "number": "EEHK20230000813",
+            "scheme": "Eating Establishment",
+            "id": "d58ab773-a3d6-4233-af63-7d0826a51c2c",
+            "postal": "650279"
+          },
+          "current": {
+            "name": "Hello(MR3) @ Mei De Coffeeshop 279 Bukit Batok",
+            "address": "279 BUKIT BATOK EAST AVENUE 3 #01-337, MR3, Mei De Coffeeshop 650279",
+            "type": "Hawker",
+            "number": "EEHK20230000813",
+            "scheme": "Eating Establishment",
+            "id": "d58ab773-a3d6-4233-af63-7d0826a51c2c",
+            "postal": "650279"
+          }
+        },
+        {
+          "previous": {
+            "name": "Indian Food @ Enak Enak",
+            "address": "342 BEDOK ROAD BEDOK SHOPPING COMPLEX,stall 1 469524",
+            "type": "Hawker",
+            "number": "EEHX21060012454",
+            "scheme": "Eating Establishment",
+            "id": "295b3eec-a263-471a-8698-b30f7e559e0d",
+            "postal": "469524"
+          },
+          "current": {
+            "name": "Indian Food @ Enak Enak",
+            "address": "342 BEDOK ROAD BEDOK SHOPPING COMPLEX, stall 1 469524",
+            "type": "Hawker",
+            "number": "EEHX21060012454",
+            "scheme": "Eating Establishment",
+            "id": "295b3eec-a263-471a-8698-b30f7e559e0d",
+            "postal": "469524"
+          }
+        },
+        {
+          "previous": {
+            "name": "WESTERN FOOD @ ENAK ENAK",
+            "address": "342 BEDOK ROAD BEDOK SHOPPING COMPLEX,stall 4 469520",
+            "type": "Hawker",
+            "number": "EEHK20240000782",
+            "scheme": "Eating Establishment",
+            "id": "db7e6200-0277-43e4-946d-ad9087a1482b",
+            "postal": "469520"
+          },
+          "current": {
+            "name": "WESTERN FOOD @ ENAK ENAK",
+            "address": "342 BEDOK ROAD BEDOK SHOPPING COMPLEX, stall 4 469520",
+            "type": "Hawker",
+            "number": "EEHK20240000782",
+            "scheme": "Eating Establishment",
+            "id": "db7e6200-0277-43e4-946d-ad9087a1482b",
+            "postal": "469520"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-08-11T22:58:47.342085",
     "date": "2026-08-11",
     "summary": {
@@ -9494,175 +9648,6 @@
           }
         }
       ]
-    }
-  },
-  {
-    "timestamp": "2026-06-10T22:48:30.594055",
-    "date": "2026-06-10",
-    "summary": {
-      "new": 12,
-      "removed": 5,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Kitchen @ NTUC Health Nursing Homes (Mngd by NTUC Foodfare)",
-          "address": "50 JURONG WEST STREET 93 #09 648967",
-          "type": "Central Kitchen",
-          "number": "FPCN21040001507",
-          "scheme": "Food Preparation Area",
-          "id": "4bcd96cc-5c4a-43b2-8d41-cbf1c1735b64",
-          "postal": "648967"
-        },
-        {
-          "name": "COOKHOUSE 1 @ SCDF - CDA (MNGD BY NTUC FOODFARE)",
-          "address": "101 JALAN BAHAR #01-01 CIVIL DEFENCE ACADEMY 649734",
-          "type": "Catering Company",
-          "number": "FPCA26060000013",
-          "scheme": "Food Preparation Area",
-          "id": "969e755f-6756-4072-94c9-e2e6b3480e38",
-          "postal": "649734"
-        },
-        {
-          "name": "COOKHOUSE 1 @ SCDF - CDA (MNGD BY NTUC FOODFARE)",
-          "address": "101 JALAN BAHAR #01-01 CIVIL DEFENCE ACADEMY 649734",
-          "type": "Staff Canteen",
-          "number": "EEFN21120012555",
-          "scheme": "Eating Establishment",
-          "id": "969e755f-6756-4072-94c9-e2e6b3480e38",
-          "postal": "649734"
-        },
-        {
-          "name": "Kitchen @ NTUC Health Nursing Homes (Mngd by NTUC Foodfare)",
-          "address": "35 Chai Chee Street 468984",
-          "type": "Central Kitchen",
-          "number": "FPCN21040001514",
-          "scheme": "Food Preparation Area",
-          "id": "4bcd96cc-5c4a-43b2-8d41-cbf1c1735b64",
-          "postal": "468984"
-        },
-        {
-          "name": "Kitchen @ NTUC Health Nursing Homes (Mngd by NTUC Foodfare)",
-          "address": "1 TAMPINES STREET 22 #02-01 NTUC HEALTH (TAMPINES) 529367",
-          "type": "Central Kitchen",
-          "number": "FPCK20230000486",
-          "scheme": "Food Preparation Area",
-          "id": "4bcd96cc-5c4a-43b2-8d41-cbf1c1735b64",
-          "postal": "529367"
-        },
-        {
-          "name": "GOPIZZA",
-          "address": "60 AIRPORT BOULEVARD #02-K15 CHANGI AIRPORT TERMINAL 2 Departure Hall 819643",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26050000067",
-          "scheme": "Eating Establishment",
-          "id": "6ad41353-6cd6-4d5d-b66e-a2b1403dc446",
-          "postal": "819643"
-        },
-        {
-          "name": "Al Afrose Restaurant",
-          "address": "421 RIVER VALLEY ROAD 248320",
-          "type": "Restaurant",
-          "number": "EERT26050000036",
-          "scheme": "Eating Establishment",
-          "id": "1113c91c-fe5c-4e94-9650-c4f1e1f4cabc",
-          "postal": "248320"
-        },
-        {
-          "name": "Kitchen @ NTUC Health Nursing Homes (Mngd by NTUC Foodfare)",
-          "address": "12 PASIR RIS WALK #02-229 NTUC HEALTH (PASIR RIS) 518063",
-          "type": "Central Kitchen",
-          "number": "FPCK20230000487",
-          "scheme": "Food Preparation Area",
-          "id": "4bcd96cc-5c4a-43b2-8d41-cbf1c1735b64",
-          "postal": "518063"
-        },
-        {
-          "name": "GOPIZZA",
-          "address": "3 TEMASEK BOULEVARD #01-366, #01-374, #01-373 #01-365 SUNTEC CITY MALL 038983",
-          "type": "Restaurant",
-          "number": "EERT26050000065",
-          "scheme": "Eating Establishment",
-          "id": "6ad41353-6cd6-4d5d-b66e-a2b1403dc446",
-          "postal": "038983"
-        },
-        {
-          "name": "Rasa Together",
-          "address": "4 WOODLANDS STREET 12 #01-67 STALL 67 MARSILING MALL HAWKER CENTRE 738623",
-          "type": "Hawker",
-          "number": "EEHK26060000028",
-          "scheme": "Eating Establishment",
-          "id": "dc849aa0-c5ad-4f91-9c8e-eec03655cb86",
-          "postal": "738623"
-        },
-        {
-          "name": "Kitchen @ NTUC Health Nursing Homes (Mngd by NTUC Foodfare)",
-          "address": "25 GEYLANG EAST CENTRAL 389708",
-          "type": "Central Kitchen",
-          "number": "FPCN21040001510",
-          "scheme": "Food Preparation Area",
-          "id": "4bcd96cc-5c4a-43b2-8d41-cbf1c1735b64",
-          "postal": "389708"
-        },
-        {
-          "name": "Kitchen @ NTUC Health Nursing Homes (Mngd by NTUC Foodfare)",
-          "address": "6B JURONG WEST STREET 52 #08-01 NTUC HEALTH (JURONG SPRING) 649298",
-          "type": "Central Kitchen",
-          "number": "FPCK20230000485",
-          "scheme": "Food Preparation Area",
-          "id": "4bcd96cc-5c4a-43b2-8d41-cbf1c1735b64",
-          "postal": "649298"
-        }
-      ],
-      "removed": [
-        {
-          "name": "CRAVE",
-          "address": "1 LOWER KENT RIDGE ROAD #01-09/19/20 ONE @ KENTRIDGE 119082",
-          "type": "Restaurant",
-          "number": "EERN21050012353",
-          "scheme": "Eating Establishment",
-          "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
-          "postal": "119082"
-        },
-        {
-          "name": "Sanook Kitchen",
-          "address": "1 HARBOURFRONT WALK #B2-23C VIVO CITY 098585",
-          "type": "Restaurant",
-          "number": "EERT20220000545",
-          "scheme": "Eating Establishment",
-          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-          "postal": "098585"
-        },
-        {
-          "name": "Sanook Kitchen",
-          "address": "16 LORONG MAMBONG HOLLAND VILLAGE 277677",
-          "type": "Restaurant",
-          "number": "EERN21080012849",
-          "scheme": "Eating Establishment",
-          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-          "postal": "277677"
-        },
-        {
-          "name": "Three's A Crowd",
-          "address": "50 RACE COURSE ROAD 218562",
-          "type": "Restaurant",
-          "number": "EERT20220000767",
-          "scheme": "Eating Establishment",
-          "id": "fffde1b4-44d4-440f-b460-33d87aa224ee",
-          "postal": "218562"
-        },
-        {
-          "name": "TEXAS CHICKEN",
-          "address": "2 TAMPINES CENTRAL 5 #05-03 CENTURY SQUARE 529509",
-          "type": "Restaurant",
-          "number": "EERN21070012596",
-          "scheme": "Eating Establishment",
-          "id": "53c88848-1280-4fee-b6dc-b5d1d941c07d",
-          "postal": "529509"
-        }
-      ],
-      "updated": []
     }
   }
 ]

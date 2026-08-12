@@ -5986,7 +5986,7 @@
   },
   {
     "name": "Chicken, Duck Rice & Seafood @ Enak Enak",
-    "address": "342 BEDOK ROAD BEDOK SHOPPING COMPLEX,stall 5 469520",
+    "address": "342 BEDOK ROAD BEDOK SHOPPING COMPLEX, stall 5 469520",
     "type": "Hawker",
     "number": "EEHK20240000783",
     "scheme": "Eating Establishment",
@@ -8128,7 +8128,7 @@
   },
   {
     "name": "DESSERTS & DRINKS @ ENAK ENAK",
-    "address": "342 BEDOK ROAD BEDOK SHOPPING COMPLEX,stall 6 469524",
+    "address": "342 BEDOK ROAD BEDOK SHOPPING COMPLEX, stall 6 469524",
     "type": "Hawker",
     "number": "EEHX21060012456",
     "scheme": "Eating Establishment",
@@ -12430,7 +12430,7 @@
   },
   {
     "name": "Hello(MR3) @ Mei De Coffeeshop 279 Bukit Batok",
-    "address": "279 BUKIT BATOK EAST AVENUE 3 #01-337, MR3 650279",
+    "address": "279 BUKIT BATOK EAST AVENUE 3 #01-337, MR3, Mei De Coffeeshop 650279",
     "type": "Hawker",
     "number": "EEHK20230000813",
     "scheme": "Eating Establishment",
@@ -12736,7 +12736,7 @@
   },
   {
     "name": "HONGKONG TIM SUM @ ENAK ENAK",
-    "address": "342 BEDOK ROAD BEDOK SHOPPING COMPLEX,stall 3 469524",
+    "address": "342 BEDOK ROAD BEDOK SHOPPING COMPLEX, stall 3 469524",
     "type": "Hawker",
     "number": "EEHX21060012457",
     "scheme": "Eating Establishment",
@@ -13177,7 +13177,7 @@
   },
   {
     "name": "Indian Food @ Enak Enak",
-    "address": "342 BEDOK ROAD BEDOK SHOPPING COMPLEX,stall 1 469524",
+    "address": "342 BEDOK ROAD BEDOK SHOPPING COMPLEX, stall 1 469524",
     "type": "Hawker",
     "number": "EEHX21060012454",
     "scheme": "Eating Establishment",
@@ -16774,15 +16774,6 @@
     "scheme": "Eating Establishment",
     "id": "04a22cc8-410f-41ad-977c-224cb8a85e4c",
     "postal": "518457"
-  },
-  {
-    "name": "Long John Silver's",
-    "address": "3 Gateway Drive #B1-10 Westgate 608532",
-    "type": "Restaurant",
-    "number": "EERN22020013527",
-    "scheme": "Eating Establishment",
-    "id": "04a22cc8-410f-41ad-977c-224cb8a85e4c",
-    "postal": "608532"
   },
   {
     "name": "LONG WEI HOLDINGS PTE. LTD.",
@@ -32221,15 +32212,6 @@
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "1 MARITIME SQUARE #02-124/125/126 HARBOURFRONT CENTRE 099253",
-    "type": "Restaurant",
-    "number": "EERN21120013257",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "099253"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
     "address": "460 ALEXANDRA ROAD #02-41/K5 ALEXANDRA RETAIL CENTRE 119963",
     "type": "Restaurant",
     "number": "EERN21120013258",
@@ -34570,7 +34552,7 @@
   },
   {
     "name": "WESTERN FOOD @ ENAK ENAK",
-    "address": "342 BEDOK ROAD BEDOK SHOPPING COMPLEX,stall 4 469520",
+    "address": "342 BEDOK ROAD BEDOK SHOPPING COMPLEX, stall 4 469520",
     "type": "Hawker",
     "number": "EEHK20240000782",
     "scheme": "Eating Establishment",
