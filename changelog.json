@@ -1,5 +1,237 @@
 [
   {
+    "timestamp": "2026-08-14T22:39:49.680768",
+    "date": "2026-08-14",
+    "summary": {
+      "new": 19,
+      "removed": 5,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "RIB Soul Food",
+          "address": "8 JALAN KUBOR REST BUGIS HOTEL 199207",
+          "type": "Restaurant",
+          "number": "EERT26080000066",
+          "scheme": "Eating Establishment",
+          "id": "840085cb-3d9f-4398-ab3e-6dc3a1dba60a",
+          "postal": "199207"
+        },
+        {
+          "name": "Yi ZUN NOODLE",
+          "address": "60 JOO CHIAT ROAD #01-08/09 CHAMPION HOTEL 427726",
+          "type": "Restaurant",
+          "number": "EERT20220000448",
+          "scheme": "Eating Establishment",
+          "id": "4ea3aab4-1a6b-420b-8619-5ebe53859320",
+          "postal": "427726"
+        },
+        {
+          "name": "Purple Panda",
+          "address": "1 TAMPINES WALK #B1-K5 OUR TAMPINES HUB 528523",
+          "type": "Restaurant",
+          "number": "EERT20250000138",
+          "scheme": "Eating Establishment",
+          "id": "ca471a11-f504-46e5-93b2-1a17722c0148",
+          "postal": "528523"
+        },
+        {
+          "name": "The Dajie Kitchen",
+          "address": "21 MANDAI ESTATE #09-05 FOOD VISION @ MANDAI 729913",
+          "type": "Central Kitchen",
+          "number": "FPCK26080000082",
+          "scheme": "Food Preparation Area",
+          "id": "e1ced1ee-4ec8-4fa2-9922-0a7370bc02f0",
+          "postal": "729913"
+        },
+        {
+          "name": "Yi ZUN NOODLE",
+          "address": "6 RAFFLES BOULEVARD #02-103 MARINA SQUARE 039594",
+          "type": "Restaurant",
+          "number": "EERT20220001030",
+          "scheme": "Eating Establishment",
+          "id": "4ea3aab4-1a6b-420b-8619-5ebe53859320",
+          "postal": "039594"
+        },
+        {
+          "name": "Indian Food",
+          "address": "306A WOODLANDS STREET 31 Stall MR3 @ Mr Teh Tarik Eating House #01-01 FUCHUN NEIGHBOURHOOD CENTRE 731306",
+          "type": "Hawker",
+          "number": "EEHK26080000041",
+          "scheme": "Eating Establishment",
+          "id": "c638a9f4-2f4b-4a57-a176-58a67843a100",
+          "postal": "731306"
+        },
+        {
+          "name": "MR BEAN",
+          "address": "1 TANJONG PAGAR PLAZA #01-44/ 44A Unit A - Left Part Of 082001",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26080000054",
+          "scheme": "Eating Establishment",
+          "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
+          "postal": "082001"
+        },
+        {
+          "name": "Yi ZUN NOODLE",
+          "address": "180 KITCHENER ROAD #03-21/22 CITY SQUARE MALL 208539",
+          "type": "Restaurant",
+          "number": "EERT25100000052",
+          "scheme": "Eating Establishment",
+          "id": "4ea3aab4-1a6b-420b-8619-5ebe53859320",
+          "postal": "208539"
+        },
+        {
+          "name": "Bagus Nasi Padang",
+          "address": "2 SIMEI STREET 3 #01-20 CHANGI GENERAL HOSPITAL KOPITIAM, MR1 529889",
+          "type": "Hawker",
+          "number": "EEHK20250000561",
+          "scheme": "Eating Establishment",
+          "id": "61895daf-b693-4086-b223-f709d30e87ed",
+          "postal": "529889"
+        },
+        {
+          "name": "Monster Chili Mala Hot Pot",
+          "address": "17 PETIR ROAD #02-15, 16, 17 , 18, 19, 20 HILLION MALL, MR1, Kopitiam Food Hall 678278",
+          "type": "Hawker",
+          "number": "EEHK26080000057",
+          "scheme": "Eating Establishment",
+          "id": "b52f532a-5db0-49bc-b623-9081fda1fafd",
+          "postal": "678278"
+        },
+        {
+          "name": "Goh Chew Kee Seafood",
+          "address": "500 CLEMENCEAU AVENUE NORTH #01-19 229495",
+          "type": "Hawker",
+          "number": "EEHN21050012321",
+          "scheme": "Eating Establishment",
+          "id": "e9505aa3-1211-4404-a3cd-01c9790e777a",
+          "postal": "229495"
+        },
+        {
+          "name": "Gyusei Gyukatsu Wagyu-Steakhouse",
+          "address": "775 NORTH BRIDGE ROAD #01 HOTEL CLOVER 198743",
+          "type": "Restaurant",
+          "number": "EERT26010000020",
+          "scheme": "Eating Establishment",
+          "id": "f33da927-7dff-4314-8012-14f8a27d8f6c",
+          "postal": "198743"
+        },
+        {
+          "name": "New Korean Food",
+          "address": "17 PETIR ROAD Stall 14, Kopitiam Food Hall 02-15/20 HILLION MALL 678278",
+          "type": "Hawker",
+          "number": "EEHK26080000086",
+          "scheme": "Eating Establishment",
+          "id": "13eb55a9-625d-4d83-97b6-63a70ae54b3b",
+          "postal": "678278"
+        },
+        {
+          "name": "Rasa Sindo",
+          "address": "85 DAWSON ROAD #01-02 SKYVILLE @ DAWSON, Stall 10 (KOFFEE T:ME) 141085",
+          "type": "Hawker",
+          "number": "EEHK26080000075",
+          "scheme": "Eating Establishment",
+          "id": "26d949fe-0ec6-46ab-8652-6a68bb2161d4",
+          "postal": "141085"
+        },
+        {
+          "name": "Charr'd",
+          "address": "324F CHANGI ROAD 419799",
+          "type": "Restaurant",
+          "number": "EERT20250000556",
+          "scheme": "Eating Establishment",
+          "id": "0f01ecdc-d2b5-4192-bce9-8a406cf94527",
+          "postal": "419799"
+        },
+        {
+          "name": "Makan West Western Cuisine",
+          "address": "678A WOODLANDS AVENUE 6 #02-05 BAGUS ADMIRALTY PLACE, MR1 731678",
+          "type": "Hawker",
+          "number": "EEHK26080000047",
+          "scheme": "Eating Establishment",
+          "id": "a80f3b55-2c94-4d79-98ab-cdae8da30a54",
+          "postal": "731678"
+        },
+        {
+          "name": "INDO DELIGHT",
+          "address": "1 CHOA CHU KANG GROVE #03-05 ITE COLLEGE WEST, (MR1)@FOODGLE HUB ITE COLLEGE WEST 688236",
+          "type": "Hawker",
+          "number": "EEHK26080000081",
+          "scheme": "Eating Establishment",
+          "id": "9ffa58c4-108d-41a4-b85f-c40e2d65ecb3",
+          "postal": "688236"
+        },
+        {
+          "name": "Tomahawk King Steakhouse & Grill",
+          "address": "324 CHANGI ROAD 419799",
+          "type": "Restaurant",
+          "number": "EERT20250000557",
+          "scheme": "Eating Establishment",
+          "id": "4408acf4-566e-4b20-9d50-4e0d17828279",
+          "postal": "419799"
+        },
+        {
+          "name": "Enak Enak Restaurant",
+          "address": "103 YISHUN RING ROAD #01-85 760103",
+          "type": "Restaurant",
+          "number": "EERT26080000060",
+          "scheme": "Eating Establishment",
+          "id": "63498fb1-2869-4b54-8fc8-f4e2ade4a577",
+          "postal": "760103"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Tim Hortons",
+          "address": "7 PASIR RIS CENTRAL #02-64 PASIR RIS MALL 519612",
+          "type": "Restaurant",
+          "number": "EERT26020000007",
+          "scheme": "Eating Establishment",
+          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+          "postal": "519612"
+        },
+        {
+          "name": "QI JI",
+          "address": "107 NORTH BRIDGE ROAD #B2-12 FUNAN 179105",
+          "type": "Restaurant",
+          "number": "EERN21050012345",
+          "scheme": "Eating Establishment",
+          "id": "01cd5d67-3096-4ef7-bc6a-394a937ea753",
+          "postal": "179105"
+        },
+        {
+          "name": "Telur Thai",
+          "address": "127 PLANTATION CRESCENT #03-02 KOUFU PLANTATION PLAZA, Stall 4 690127",
+          "type": "Hawker",
+          "number": "EEHK20250000775",
+          "scheme": "Eating Establishment",
+          "id": "7001901a-4b95-4a8b-8989-93cb7b0f369a",
+          "postal": "690127"
+        },
+        {
+          "name": "NENE CHICKEN",
+          "address": "628 SENJA ROAD STALL 8, KOPITIAM CORNER #01-07 SENJA CENTRE 670628",
+          "type": "Hawker",
+          "number": "EEHK26030000072",
+          "scheme": "Eating Establishment",
+          "id": "c2a3daa9-ec19-4a9f-8474-752b3cbfb1ff",
+          "postal": "670628"
+        },
+        {
+          "name": "Tenderbest",
+          "address": "824 TAMPINES STREET 81 #01-38 TAMPINES GROVE, Stall 9 520824",
+          "type": "Hawker",
+          "number": "EEHN21060012440",
+          "scheme": "Eating Establishment",
+          "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
+          "postal": "520824"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-08-13T22:58:32.500034",
     "date": "2026-08-13",
     "summary": {
@@ -9683,51 +9915,6 @@
         }
       ],
       "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-06-12T22:46:39.637416",
-    "date": "2026-06-12",
-    "summary": {
-      "new": 1,
-      "removed": 0,
-      "updated": 1
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "KOPI & TARTS",
-          "address": "1 LENTOR CENTRAL #01-24 LENTOR MODERN 788887",
-          "type": "Restaurant",
-          "number": "EERT26060000033",
-          "scheme": "Eating Establishment",
-          "id": "f0c681c2-b4e6-4cba-9de7-9d2e2c9f7515",
-          "postal": "788887"
-        }
-      ],
-      "removed": [],
-      "updated": [
-        {
-          "previous": {
-            "name": "Tongue Tip Lanzhou Beef Noodles",
-            "address": "30 WOODLANDS AVENUE 1 #01-09A THE WOODGROVE 739065",
-            "type": "Restaurant",
-            "number": "EERT20250000117",
-            "scheme": "Eating Establishment",
-            "id": "2dce1ae1-5e33-4749-952e-c14abd6ebf2b",
-            "postal": "739065"
-          },
-          "current": {
-            "name": "Full Bowl",
-            "address": "30 WOODLANDS AVENUE 1 #01-09A THE WOODGROVE 739065",
-            "type": "Restaurant",
-            "number": "EERT20250000117",
-            "scheme": "Eating Establishment",
-            "id": "2dce1ae1-5e33-4749-952e-c14abd6ebf2b",
-            "postal": "739065"
-          }
-        }
-      ]
     }
   }
 ]
