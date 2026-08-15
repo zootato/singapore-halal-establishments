@@ -6822,6 +6822,15 @@
     "postal": "228211"
   },
   {
+    "name": "Combo 105",
+    "address": "105 CANBERRA STREET #01-03 EASTBROOK @ CANBERRA 750105",
+    "type": "Restaurant",
+    "number": "EERT26080000038",
+    "scheme": "Eating Establishment",
+    "id": "2610b10e-25e3-4821-b11a-e98efd585166",
+    "postal": "750105"
+  },
+  {
     "name": "Community Brew",
     "address": "21 CANBERRA LINK #02-02 756973",
     "type": "Restaurant",
@@ -7720,6 +7729,15 @@
     "scheme": "Food Preparation Area",
     "id": "e0ed18bb-646b-474c-ae62-28ca62960145",
     "postal": "528553"
+  },
+  {
+    "name": "DAILY COFFEE",
+    "address": "750 CHAI CHEE ROAD #01-18 VIVA BUSINESS PARK 469000",
+    "type": "Restaurant",
+    "number": "EERN21060012479",
+    "scheme": "Eating Establishment",
+    "id": "4f7474b2-f034-4f3f-9e5d-52d1db42da1e",
+    "postal": "469000"
   },
   {
     "name": "Dajie Makan Place",
@@ -28657,15 +28675,6 @@
   },
   {
     "name": "STUFF'D",
-    "address": "50 Jurong Gateway Road #B1-K6 JEM 608549",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN21110012917",
-    "scheme": "Eating Establishment",
-    "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
-    "postal": "608549"
-  },
-  {
-    "name": "STUFF'D",
     "address": "9 BISHAN PLACE #B1-19A JUNCTION 8 SHOPPING CENTRE 579837",
     "type": "Snack Bar / Bakery",
     "number": "EEBN21110012932",
@@ -28690,6 +28699,15 @@
     "scheme": "Eating Establishment",
     "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
     "postal": "409051"
+  },
+  {
+    "name": "STUFF'D",
+    "address": "50 Jurong Gateway Road #B1-K6 JEM 608549",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN21110012917",
+    "scheme": "Eating Establishment",
+    "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
+    "postal": "608549"
   },
   {
     "name": "STUFF'D",
