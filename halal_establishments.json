@@ -8226,6 +8226,15 @@
     "postal": "109841"
   },
   {
+    "name": "DHARSHA INDIAN FOOD",
+    "address": "60 AIRPORT BOULEVARD #01-00 CHANGI AIRPORT TERMINAL 2, MR 6 (T2 LEVEL 3M, #0610-ASC) @FOODIE'S CLAN 819643",
+    "type": "Hawker",
+    "number": "EEHK26080000067",
+    "scheme": "Eating Establishment",
+    "id": "5dbc9dbe-8c27-4c59-8be6-b611b2b58da1",
+    "postal": "819643"
+  },
+  {
     "name": "Dickson Nasi Lemak",
     "address": "12 GOPENG STREET #01-89/90/K1/K2/K3/K4 078877",
     "type": "Restaurant",
@@ -8476,6 +8485,15 @@
     "scheme": "Eating Establishment",
     "id": "3997725f-3312-46ed-916f-649504557dd3",
     "postal": "428802"
+  },
+  {
+    "name": "Dou",
+    "address": "2A MANDAI ESTATE #06-07/08 CT FOODNEX 729928",
+    "type": "Central Kitchen",
+    "number": "FPCK26080000087",
+    "scheme": "Food Preparation Area",
+    "id": "3d1c9ed2-5ec2-4ea2-b890-c96fd9387cf7",
+    "postal": "729928"
   },
   {
     "name": "Double K (S6) @ S11 Woodlands",
@@ -21448,21 +21466,21 @@
   },
   {
     "name": "NASTY COOKIE",
-    "address": "78 AIRPORT BOULEVARD #03-207 JEWEL CHANGI AIRPORT 819666",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000480",
-    "scheme": "Eating Establishment",
-    "id": "00bb8d74-a1c6-4dd1-adad-d89a87a0083f",
-    "postal": "819666"
-  },
-  {
-    "name": "NASTY COOKIE",
     "address": "277 ORCHARD ROAD #B2-10 ORCHARD GATEWAY 238858",
     "type": "Restaurant",
     "number": "EERT20230000983",
     "scheme": "Eating Establishment",
     "id": "00bb8d74-a1c6-4dd1-adad-d89a87a0083f",
     "postal": "238858"
+  },
+  {
+    "name": "NASTY COOKIE",
+    "address": "78 AIRPORT BOULEVARD #03-207 JEWEL CHANGI AIRPORT 819666",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000480",
+    "scheme": "Eating Establishment",
+    "id": "00bb8d74-a1c6-4dd1-adad-d89a87a0083f",
+    "postal": "819666"
   },
   {
     "name": "NASTY COOKIE",
@@ -24577,6 +24595,15 @@
     "scheme": "Eating Establishment",
     "id": "179d4dbf-686d-443b-a3c8-2773ca83a2b2",
     "postal": "138607"
+  },
+  {
+    "name": "Pondok Nasi Padang",
+    "address": "2 BAYFRONT AVENUE Stall 7 Rasapura MBS #B2-49/53 CRYSTAL PAVILION SOUTH, Stall No 7 Rasapura Marina Bay Sands 018972",
+    "type": "Hawker",
+    "number": "EEHK26080000056",
+    "scheme": "Eating Establishment",
+    "id": "6211a462-145b-489f-93ab-5e4dea1a27e2",
+    "postal": "018972"
   },
   {
     "name": "Popeyes Famous Louisiana Chicken",

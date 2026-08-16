@@ -1,5 +1,47 @@
 [
   {
+    "timestamp": "2026-08-16T22:35:10.021093",
+    "date": "2026-08-16",
+    "summary": {
+      "new": 3,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Dou",
+          "address": "2A MANDAI ESTATE #06-07/08 CT FOODNEX 729928",
+          "type": "Central Kitchen",
+          "number": "FPCK26080000087",
+          "scheme": "Food Preparation Area",
+          "id": "3d1c9ed2-5ec2-4ea2-b890-c96fd9387cf7",
+          "postal": "729928"
+        },
+        {
+          "name": "Pondok Nasi Padang",
+          "address": "2 BAYFRONT AVENUE Stall 7 Rasapura MBS #B2-49/53 CRYSTAL PAVILION SOUTH, Stall No 7 Rasapura Marina Bay Sands 018972",
+          "type": "Hawker",
+          "number": "EEHK26080000056",
+          "scheme": "Eating Establishment",
+          "id": "6211a462-145b-489f-93ab-5e4dea1a27e2",
+          "postal": "018972"
+        },
+        {
+          "name": "DHARSHA INDIAN FOOD",
+          "address": "60 AIRPORT BOULEVARD #01-00 CHANGI AIRPORT TERMINAL 2, MR 6 (T2 LEVEL 3M, #0610-ASC) @FOODIE'S CLAN 819643",
+          "type": "Hawker",
+          "number": "EEHK26080000067",
+          "scheme": "Eating Establishment",
+          "id": "5dbc9dbe-8c27-4c59-8be6-b611b2b58da1",
+          "postal": "819643"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-08-15T22:35:02.376740",
     "date": "2026-08-15",
     "summary": {
@@ -9598,76 +9640,6 @@
           "scheme": "Eating Establishment",
           "id": "fd4774fc-2a74-49bf-94d1-acb34f56740a",
           "postal": "199597"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-06-16T22:50:23.335161",
-    "date": "2026-06-16",
-    "summary": {
-      "new": 3,
-      "removed": 3,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "CANADIAN 2 FOR 1 PIZZA",
-          "address": "67 BRIGHTON CRESCENT 559212",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26060000032",
-          "scheme": "Eating Establishment",
-          "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
-          "postal": "559212"
-        },
-        {
-          "name": "CRAVE",
-          "address": "182 CECIL STREET #02-16, #02-17 FRASERS TOWER 069547",
-          "type": "Restaurant",
-          "number": "EERT26060000026",
-          "scheme": "Eating Establishment",
-          "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
-          "postal": "069547"
-        },
-        {
-          "name": "Churros Factory",
-          "address": "206 TOA PAYOH NORTH #01-1207 TOA PAYOH NORTH 310206",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26060000031",
-          "scheme": "Eating Establishment",
-          "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
-          "postal": "310206"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Firefry Thai Snacks",
-          "address": "3 SIMEI STREET 6 #01-01C EASTPOINT MALL 528833",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26010000040",
-          "scheme": "Eating Establishment",
-          "id": "d4bb77c7-6cf2-4bef-9fd3-4e752c83238e",
-          "postal": "528833"
-        },
-        {
-          "name": "Firefry Thai Snacks",
-          "address": "90 HOUGANG AVENUE 10 #01-18C HOUGANG MALL 538766",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26040000019",
-          "scheme": "Eating Establishment",
-          "id": "d4bb77c7-6cf2-4bef-9fd3-4e752c83238e",
-          "postal": "538766"
-        },
-        {
-          "name": "4FINGERS CRISPY CHICKEN",
-          "address": "4 BUKIT BATOK STREET 41 #01-14/15 LE QUEST 657991",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20220000860",
-          "scheme": "Eating Establishment",
-          "id": "90b83324-363a-4406-9afa-08b19b67522d",
-          "postal": "657991"
         }
       ],
       "updated": []
