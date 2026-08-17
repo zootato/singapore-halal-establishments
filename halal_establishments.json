@@ -12114,6 +12114,33 @@
     "postal": "768828"
   },
   {
+    "name": "HAPPY BITES",
+    "address": "70 COMPASSVALE BOW #B1-04 SENGKANG GRAND MALL 544692",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26080000078",
+    "scheme": "Eating Establishment",
+    "id": "87f13817-9f90-45f2-be2d-739b0b4c0836",
+    "postal": "544692"
+  },
+  {
+    "name": "HAPPY BITES",
+    "address": "90 HOUGANG AVENUE 10 #B1-08A HOUGANG MALL 538766",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26080000076",
+    "scheme": "Eating Establishment",
+    "id": "87f13817-9f90-45f2-be2d-739b0b4c0836",
+    "postal": "538766"
+  },
+  {
+    "name": "HAPPY BITES",
+    "address": "7 PASIR RIS CENTRAL #01-28 PASIR RIS MALL 519612",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26080000077",
+    "scheme": "Eating Establishment",
+    "id": "87f13817-9f90-45f2-be2d-739b0b4c0836",
+    "postal": "519612"
+  },
+  {
     "name": "HAPPY CAFE",
     "address": "71 SUNGEI KADUT DRIVE #01-01 GAIN CITY MEGASTORE@SUNGEI KADUT 729577",
     "type": "Restaurant",
@@ -14365,7 +14392,7 @@
   },
   {
     "name": "KAFFE & TOAST",
-    "address": "1 HOSPITAL DRIVE SINGAPORE GENERAL HOSPITAL,BLOCK 4, LEVEL 1 169608",
+    "address": "1 HOSPITAL DRIVE SINGAPORE GENERAL HOSPITAL, BLOCK 4, LEVEL 1 169608",
     "type": "Restaurant",
     "number": "EERN21070012681",
     "scheme": "Eating Establishment",
@@ -16108,6 +16135,15 @@
     "scheme": "Eating Establishment",
     "id": "372d9f71-66bc-4d96-8c34-9c9c9b00555d",
     "postal": "750133"
+  },
+  {
+    "name": "Korean & Japanese Cuisine (S8) @ Fork & Spoon Woodlands Mart",
+    "address": "768 WOODLANDS AVENUE 6 #01-30/32 WOODLANDS MART, Stall 8 730768",
+    "type": "Hawker",
+    "number": "EEHN22010013070",
+    "scheme": "Eating Establishment",
+    "id": "314ec35b-5088-439f-a8f4-b0447e2d238a",
+    "postal": "730768"
   },
   {
     "name": "Korean Cuisine (S2) @ Big Appetite Funan",
@@ -19512,6 +19548,15 @@
     "postal": "569830"
   },
   {
+    "name": "Mini Wok (MR3)@Fork & Spoon Woodlands Mart",
+    "address": "768 WOODLANDS AVENUE 6 #01-30/32 WOODLANDS MART, MR 3 730768",
+    "type": "Hawker",
+    "number": "EEHK20230000142",
+    "scheme": "Eating Establishment",
+    "id": "a7f08960-5f86-4468-9e07-363ac2594388",
+    "postal": "730768"
+  },
+  {
     "name": "Mini Wok (S8) @ Koufu Republic Polytechnic",
     "address": "31 WOODLANDS AVENUE 9 #01-01 REPUBLIC POLYTECHNIC, Stall 8 737907",
     "type": "Hawker",
@@ -19519,6 +19564,15 @@
     "scheme": "Eating Establishment",
     "id": "a2adfba0-1b77-4254-ad5e-a38c9855825d",
     "postal": "737907"
+  },
+  {
+    "name": "Miniwok (MR1) @ Fork & Spoon Toa Payoh",
+    "address": "470 LORONG 6 TOA PAYOH #02-70 HDB HUB, MR1, FORK & SPOON 310470",
+    "type": "Hawker",
+    "number": "EEHN21120013033",
+    "scheme": "Eating Establishment",
+    "id": "220b6b64-d41c-4338-bc4d-4d67216bb71d",
+    "postal": "310470"
   },
   {
     "name": "MINUM KOPI",
@@ -22860,15 +22914,6 @@
     "postal": "529509"
   },
   {
-    "name": "Padang Lezat",
-    "address": "78 AIRPORT BOULEVARD Food Republic - Stall 12 #B2-240 JEWEL CHANGI AIRPORT #B2-238, #B2-239 819666",
-    "type": "Hawker",
-    "number": "EEHK26010000135",
-    "scheme": "Eating Establishment",
-    "id": "e4f29781-2410-48b8-b295-a3ec24b58ac2",
-    "postal": "819666"
-  },
-  {
     "name": "Padang Lezat Indonesian Nasi Padang",
     "address": "930 YISHUN AVENUE 2 Kopitiam (MR5) #B2-12 NORTHPOINT CITY (NORTH WING) 769098",
     "type": "Hawker",
@@ -23959,15 +24004,6 @@
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
-    "address": "888 WOODLANDS DRIVE 50 #01-729 888 PLAZA 730888",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000702",
-    "scheme": "Eating Establishment",
-    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
-    "postal": "730888"
-  },
-  {
-    "name": "PIZZA HUT SINGAPORE PTE LTD",
     "address": "66 JALAN MALU-MALU SEMBAWANG SPRINGS ESTATE 769681",
     "type": "Snack Bar / Bakery",
     "number": "EESB20250000704",
@@ -23983,6 +24019,15 @@
     "scheme": "Eating Establishment",
     "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
     "postal": "545078"
+  },
+  {
+    "name": "PIZZA HUT SINGAPORE PTE LTD",
+    "address": "888 WOODLANDS DRIVE 50 #01-729 888 PLAZA 730888",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000702",
+    "scheme": "Eating Establishment",
+    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
+    "postal": "730888"
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
@@ -25198,6 +25243,15 @@
     "scheme": "Eating Establishment",
     "id": "6aa4a59a-9d52-4c1c-a79b-0dcf0e6fd2e9",
     "postal": "228213"
+  },
+  {
+    "name": "Purple Panda",
+    "address": "51 UPPER SERANGOON ROAD #01-09 THE POIZ CENTRE 347697",
+    "type": "Restaurant",
+    "number": "EERT20240000407",
+    "scheme": "Eating Establishment",
+    "id": "4e1c7033-a0f4-489b-8eaf-889c06c37938",
+    "postal": "347697"
   },
   {
     "name": "Purple Panda",
@@ -32229,6 +32283,15 @@
     "postal": "118221"
   },
   {
+    "name": "The Arena @ Singapore Sports School (Mngd by Compass Group)",
+    "address": "1 CHAMPIONS WAY #02-50 Singapore Sports School 737913",
+    "type": "Hawker",
+    "number": "EEHX21120013037",
+    "scheme": "Eating Establishment",
+    "id": "ec319ee1-0242-48ef-934d-87f3d6e7e85f",
+    "postal": "737913"
+  },
+  {
     "name": "The Asli Malaysia",
     "address": "5 CHANGI VILLAGE ROAD #01-2051 500005",
     "type": "Restaurant",
@@ -33712,15 +33775,6 @@
     "scheme": "Eating Establishment",
     "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
     "postal": "648886"
-  },
-  {
-    "name": "Tim Hortons",
-    "address": "50 JURONG GATEWAY ROAD #01-47 JEM 608549",
-    "type": "Restaurant",
-    "number": "EERT26020000006",
-    "scheme": "Eating Establishment",
-    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-    "postal": "608549"
   },
   {
     "name": "Tim Hortons",

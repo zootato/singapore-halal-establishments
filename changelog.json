@@ -1,5 +1,132 @@
 [
   {
+    "timestamp": "2026-08-17T22:38:22.808269",
+    "date": "2026-08-17",
+    "summary": {
+      "new": 8,
+      "removed": 2,
+      "updated": 1
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "HAPPY BITES",
+          "address": "7 PASIR RIS CENTRAL #01-28 PASIR RIS MALL 519612",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26080000077",
+          "scheme": "Eating Establishment",
+          "id": "87f13817-9f90-45f2-be2d-739b0b4c0836",
+          "postal": "519612"
+        },
+        {
+          "name": "The Arena @ Singapore Sports School (Mngd by Compass Group)",
+          "address": "1 CHAMPIONS WAY #02-50 Singapore Sports School 737913",
+          "type": "Hawker",
+          "number": "EEHX21120013037",
+          "scheme": "Eating Establishment",
+          "id": "ec319ee1-0242-48ef-934d-87f3d6e7e85f",
+          "postal": "737913"
+        },
+        {
+          "name": "HAPPY BITES",
+          "address": "90 HOUGANG AVENUE 10 #B1-08A HOUGANG MALL 538766",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26080000076",
+          "scheme": "Eating Establishment",
+          "id": "87f13817-9f90-45f2-be2d-739b0b4c0836",
+          "postal": "538766"
+        },
+        {
+          "name": "Purple Panda",
+          "address": "51 UPPER SERANGOON ROAD #01-09 THE POIZ CENTRE 347697",
+          "type": "Restaurant",
+          "number": "EERT20240000407",
+          "scheme": "Eating Establishment",
+          "id": "4e1c7033-a0f4-489b-8eaf-889c06c37938",
+          "postal": "347697"
+        },
+        {
+          "name": "Mini Wok (MR3)@Fork & Spoon Woodlands Mart",
+          "address": "768 WOODLANDS AVENUE 6 #01-30/32 WOODLANDS MART, MR 3 730768",
+          "type": "Hawker",
+          "number": "EEHK20230000142",
+          "scheme": "Eating Establishment",
+          "id": "a7f08960-5f86-4468-9e07-363ac2594388",
+          "postal": "730768"
+        },
+        {
+          "name": "Korean & Japanese Cuisine (S8) @ Fork & Spoon Woodlands Mart",
+          "address": "768 WOODLANDS AVENUE 6 #01-30/32 WOODLANDS MART, Stall 8 730768",
+          "type": "Hawker",
+          "number": "EEHN22010013070",
+          "scheme": "Eating Establishment",
+          "id": "314ec35b-5088-439f-a8f4-b0447e2d238a",
+          "postal": "730768"
+        },
+        {
+          "name": "HAPPY BITES",
+          "address": "70 COMPASSVALE BOW #B1-04 SENGKANG GRAND MALL 544692",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26080000078",
+          "scheme": "Eating Establishment",
+          "id": "87f13817-9f90-45f2-be2d-739b0b4c0836",
+          "postal": "544692"
+        },
+        {
+          "name": "Miniwok (MR1) @ Fork & Spoon Toa Payoh",
+          "address": "470 LORONG 6 TOA PAYOH #02-70 HDB HUB, MR1, FORK & SPOON 310470",
+          "type": "Hawker",
+          "number": "EEHN21120013033",
+          "scheme": "Eating Establishment",
+          "id": "220b6b64-d41c-4338-bc4d-4d67216bb71d",
+          "postal": "310470"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Tim Hortons",
+          "address": "50 JURONG GATEWAY ROAD #01-47 JEM 608549",
+          "type": "Restaurant",
+          "number": "EERT26020000006",
+          "scheme": "Eating Establishment",
+          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+          "postal": "608549"
+        },
+        {
+          "name": "Padang Lezat",
+          "address": "78 AIRPORT BOULEVARD Food Republic - Stall 12 #B2-240 JEWEL CHANGI AIRPORT #B2-238, #B2-239 819666",
+          "type": "Hawker",
+          "number": "EEHK26010000135",
+          "scheme": "Eating Establishment",
+          "id": "e4f29781-2410-48b8-b295-a3ec24b58ac2",
+          "postal": "819666"
+        }
+      ],
+      "updated": [
+        {
+          "previous": {
+            "name": "KAFFE & TOAST",
+            "address": "1 HOSPITAL DRIVE SINGAPORE GENERAL HOSPITAL,BLOCK 4, LEVEL 1 169608",
+            "type": "Restaurant",
+            "number": "EERN21070012681",
+            "scheme": "Eating Establishment",
+            "id": "bf19dd23-8f34-4621-88b5-aacf84905fe9",
+            "postal": "169608"
+          },
+          "current": {
+            "name": "KAFFE & TOAST",
+            "address": "1 HOSPITAL DRIVE SINGAPORE GENERAL HOSPITAL, BLOCK 4, LEVEL 1 169608",
+            "type": "Restaurant",
+            "number": "EERN21070012681",
+            "scheme": "Eating Establishment",
+            "id": "bf19dd23-8f34-4621-88b5-aacf84905fe9",
+            "postal": "169608"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-08-16T22:35:10.021093",
     "date": "2026-08-16",
     "summary": {
@@ -9563,85 +9690,6 @@
         }
       ],
       "removed": [],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-06-17T22:46:28.008341",
-    "date": "2026-06-17",
-    "summary": {
-      "new": 1,
-      "removed": 6,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Telur Thai",
-          "address": "127 PLANTATION CRESCENT #03-02 KOUFU PLANTATION PLAZA, Stall 4 690127",
-          "type": "Hawker",
-          "number": "EEHK20250000775",
-          "scheme": "Eating Establishment",
-          "id": "7001901a-4b95-4a8b-8989-93cb7b0f369a",
-          "postal": "690127"
-        }
-      ],
-      "removed": [
-        {
-          "name": "HALIA PANTRY",
-          "address": "1 CLUNY ROAD NATIONAL PARKS BOARD, At THE VILLA 259569",
-          "type": "Catering Company",
-          "number": "FPCA20230001039",
-          "scheme": "Food Preparation Area",
-          "id": "4e70f349-090a-42fa-950a-111c1762dead",
-          "postal": "259569"
-        },
-        {
-          "name": "twyst",
-          "address": "2 TAMPINES CENTRAL 5 #B1-11 CENTURY SQUARE 529509",
-          "type": "Restaurant",
-          "number": "EERT20250000093",
-          "scheme": "Eating Establishment",
-          "id": "2b421cd1-a8a1-4d47-a983-d25fc5a6f434",
-          "postal": "529509"
-        },
-        {
-          "name": "$5 JAPANESE & KOREAN CUISINE",
-          "address": "371 BEACH ROAD Stall (S1) #B1-15 CITY GATE, FOOD HQ KOPITIAM & BAR 199597",
-          "type": "Hawker",
-          "number": "EEHK25100000136",
-          "scheme": "Eating Establishment",
-          "id": "96829bc1-103a-4edb-8141-c571383add6d",
-          "postal": "199597"
-        },
-        {
-          "name": "HALIA PANTRY",
-          "address": "1 CLUNY ROAD NATIONAL PARKS BOARD, At THE VILLA 259569",
-          "type": "Restaurant",
-          "number": "EERT20230001038",
-          "scheme": "Eating Establishment",
-          "id": "4e70f349-090a-42fa-950a-111c1762dead",
-          "postal": "259569"
-        },
-        {
-          "name": "Sukiya Gyudon • Curry",
-          "address": "68 ORCHARD ROAD #B1-07 PLAZA SINGAPURA 238839",
-          "type": "Restaurant",
-          "number": "EERT20230000619",
-          "scheme": "Eating Establishment",
-          "id": "f25faa72-19a1-4c85-a920-fc1462f72292",
-          "postal": "238839"
-        },
-        {
-          "name": "$5 FRIED RICE",
-          "address": "371 BEACH ROAD stall (MR1) #B1-15 CITY GATE, FOOD HQ KOPITIAM & BAR 199597",
-          "type": "Hawker",
-          "number": "EEHK25100000137",
-          "scheme": "Eating Establishment",
-          "id": "fd4774fc-2a74-49bf-94d1-acb34f56740a",
-          "postal": "199597"
-        }
-      ],
       "updated": []
     }
   }
