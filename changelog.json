@@ -1,5 +1,354 @@
 [
   {
+    "timestamp": "2026-08-18T22:38:17.424610",
+    "date": "2026-08-18",
+    "summary": {
+      "new": 29,
+      "removed": 8,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Dou",
+          "address": "339 ANG MO KIO AVENUE 1 #01-1601 De Tian Coffeeshop, Stall 1 560339",
+          "type": "Hawker",
+          "number": "EEHK26080000089",
+          "scheme": "Eating Establishment",
+          "id": "3d1c9ed2-5ec2-4ea2-b890-c96fd9387cf7",
+          "postal": "560339"
+        },
+        {
+          "name": "Chicken Rice",
+          "address": "348 YISHUN AVENUE 11 Stall 2 @ Rasa Rasa Yishun #01-04 ADORA GREEN 760348",
+          "type": "Hawker",
+          "number": "EEHK26010000049",
+          "scheme": "Eating Establishment",
+          "id": "169bf8c6-9d51-422e-b586-f764ac733b76",
+          "postal": "760348"
+        },
+        {
+          "name": "Saffrons",
+          "address": "1 ENGKU AMAN TURN #01-04 WISMA GEYLANG SERAI 408528",
+          "type": "Restaurant",
+          "number": "EERT20250000865",
+          "scheme": "Eating Establishment",
+          "id": "df8e3a57-e695-4700-a6b8-a4c3cfd16802",
+          "postal": "408528"
+        },
+        {
+          "name": "RASAMALA",
+          "address": "65 AIRPORT BOULEVARD #03-21 CHANGI AIRPORT TERMINAL 3 819663",
+          "type": "Restaurant",
+          "number": "EERT26080000095",
+          "scheme": "Eating Establishment",
+          "id": "144d8588-ddbe-44d4-8c33-f0ff4218b8c5",
+          "postal": "819663"
+        },
+        {
+          "name": "Good Chef Pte Ltd",
+          "address": "231 OUTRAM ROAD #R-roof D'hotel, (ROOF LEVEL) 169040",
+          "type": "Catering Company",
+          "number": "FPCA20240000533",
+          "scheme": "Food Preparation Area",
+          "id": "2daa5a46-f0e9-4090-98b9-795ee79e2d87",
+          "postal": "169040"
+        },
+        {
+          "name": "KAFFE & TOAST TO-GO",
+          "address": "1 KIM SENG PROMENADE #B2-K107/K108 GREAT WORLD CITY 237994",
+          "type": "Restaurant",
+          "number": "EERT26080000091",
+          "scheme": "Eating Establishment",
+          "id": "b32c7fec-8b44-4514-9ed0-7f006ea6d1cd",
+          "postal": "237994"
+        },
+        {
+          "name": "MA MUM TO-GO",
+          "address": "80 AIRPORT BOULEVARD #01-K23 CHANGI AIRPORT TERMINAL 1 819642",
+          "type": "Restaurant",
+          "number": "EERT26080000092",
+          "scheme": "Eating Establishment",
+          "id": "9ce0ba4e-af37-4e4c-8617-bf02aefc7ae1",
+          "postal": "819642"
+        },
+        {
+          "name": "Dou (MR3) @ De Tian Marine Parade",
+          "address": "81 MARINE PARADE CENTRAL #01-654 MARINE PARADE PROMENADE 440081",
+          "type": "Hawker",
+          "number": "EEHK20250000517",
+          "scheme": "Eating Establishment",
+          "id": "7c992208-5277-422f-977a-abcda8394f89",
+          "postal": "440081"
+        },
+        {
+          "name": "Dou (S1) @ De Tian 529 Ang Mo Kio",
+          "address": "529 ANG MO KIO AVENUE 10 #01-2337 CHENG SAN CENTRE, Stall 1 560529",
+          "type": "Hawker",
+          "number": "EEHK20230000469",
+          "scheme": "Eating Establishment",
+          "id": "2a4ad967-9ffd-4817-ab3f-40ab03f810cd",
+          "postal": "560529"
+        },
+        {
+          "name": "Dou (S7) @ FoodHub Bedok",
+          "address": "209 NEW UPPER CHANGI ROAD #01-633 460209",
+          "type": "Hawker",
+          "number": "EEHK20250000519",
+          "scheme": "Eating Establishment",
+          "id": "3d17da70-a7ec-4cf6-8034-7b88b9479262",
+          "postal": "460209"
+        },
+        {
+          "name": "SAFFRONS RESTAURANT",
+          "address": "201D TAMPINES STREET 21 #01-1163 524201",
+          "type": "Restaurant",
+          "number": "EERN21050012344",
+          "scheme": "Eating Establishment",
+          "id": "26ebf21b-c8e8-40da-aa57-375c2def0080",
+          "postal": "524201"
+        },
+        {
+          "name": "Dou (S10) @ 7 Stars Jurong West",
+          "address": "498 JURONG WEST STREET 41 #01-426, Stall 10 640498",
+          "type": "Hawker",
+          "number": "EEHK20230000528",
+          "scheme": "Eating Establishment",
+          "id": "726f419f-cdba-437c-ad43-dcc397999e79",
+          "postal": "640498"
+        },
+        {
+          "name": "Dou",
+          "address": "623 ELIAS ROAD #01-02 COFFEE UNITED ELIAS MALL, Stall 10 510623",
+          "type": "Hawker",
+          "number": "EEHK26080000088",
+          "scheme": "Eating Establishment",
+          "id": "b85a4ca2-0213-4b54-a8df-b9864880b361",
+          "postal": "510623"
+        },
+        {
+          "name": "Tang Tea House Chicken Rice. Dim Sum. Rojak",
+          "address": "1 NORTHPOINT DRIVE #02-101, 102, 103 NORTHPOINT CITY, BAGUS FOOD HALL (STALL 9) 768019",
+          "type": "Hawker",
+          "number": "EEHK26080000061",
+          "scheme": "Eating Establishment",
+          "id": "9fea2c40-682d-4d4f-b922-ed8cf48107ec",
+          "postal": "768019"
+        },
+        {
+          "name": "Dou",
+          "address": "293 YISHUN STREET 22 (Stall 10) @ BK 293 Yishun #01-261 760293",
+          "type": "Hawker",
+          "number": "EEHK26030000067",
+          "scheme": "Eating Establishment",
+          "id": "3d1c9ed2-5ec2-4ea2-b890-c96fd9387cf7",
+          "postal": "760293"
+        },
+        {
+          "name": "SAFFRONS FAMILY RESTAURANT",
+          "address": "23 SWAN LAKE AVENUE OPERA ESTATE 455715",
+          "type": "Restaurant",
+          "number": "EERT20220000489",
+          "scheme": "Eating Establishment",
+          "id": "8b53d031-3cc5-4fa3-9062-ea55a555039a",
+          "postal": "455715"
+        },
+        {
+          "name": "Dou (S4) @ 7 Stars Woodlands",
+          "address": "693 WOODLANDS AVENUE 6 #01-10, Stall 4 730693",
+          "type": "Hawker",
+          "number": "EEHN21120013013",
+          "scheme": "Eating Establishment",
+          "id": "d01d6850-15fe-404a-b680-e1ebc16b953e",
+          "postal": "730693"
+        },
+        {
+          "name": "STAFF CANTEEN STALL @UTAC AMK (MNGD BY PRO*3 INST. CATERING PL)",
+          "address": "22 ANG MO KIO INDUSTRIAL PARK 2 . 569506",
+          "type": "Staff Canteen",
+          "number": "EESC20230000418",
+          "scheme": "Eating Establishment",
+          "id": "66334d9b-70f7-42db-9845-7af103db642e",
+          "postal": "569506"
+        },
+        {
+          "name": "SAFFRONS RESTAURANT PTE. LTD.",
+          "address": "1 KAKI BUKIT ROAD 1 #05-17 ENTERPRISE ONE 415934",
+          "type": "Catering Company",
+          "number": "FPGN21050001543",
+          "scheme": "Food Preparation Area",
+          "id": "e6e87c18-fe0b-4c72-9db1-94eec88cb6a0",
+          "postal": "415934"
+        },
+        {
+          "name": "ARNOLD'S",
+          "address": "20 BEDOK NORTH STREET 2 #01-04 FENGSHAN COMMUNITY CLUB 469644",
+          "type": "Restaurant",
+          "number": "EERT26080000072",
+          "scheme": "Eating Establishment",
+          "id": "571266fe-a5d4-499d-9f7c-fd6edf1a9f34",
+          "postal": "469644"
+        },
+        {
+          "name": "STAFF CANTEEN STALL@ UTAC S'GOON  (MNG BY PRO*3 INST. CATERING PL)",
+          "address": "5 SERANGOON NORTH AVENUE 5 554916",
+          "type": "Staff Canteen",
+          "number": "EESC20230000329",
+          "scheme": "Eating Establishment",
+          "id": "2c17bb6b-3af8-44ba-86ec-b6960ada87d7",
+          "postal": "554916"
+        },
+        {
+          "name": "SAFFRONS RESTAURANT PTE. LTD.",
+          "address": "10 TAMPINES NORTH DRIVE 4 #01-05 JTC SPACE @ TAMPINES NORTH, KITCHEN 25 528553",
+          "type": "Hawker",
+          "number": "EEHK20240000698",
+          "scheme": "Eating Establishment",
+          "id": "e6e87c18-fe0b-4c72-9db1-94eec88cb6a0",
+          "postal": "528553"
+        },
+        {
+          "name": "Ban Mian",
+          "address": "10 SIMEI AVENUE Stall 2 East Delights ITE COLLEGE EAST (CAFECTERIA 1) ITE COLLEGE EAST 486047",
+          "type": "Hawker",
+          "number": "EEHK26080000100",
+          "scheme": "Eating Establishment",
+          "id": "0670f4e0-13bb-474d-9340-026e3c22d7e8",
+          "postal": "486047"
+        },
+        {
+          "name": "Dou",
+          "address": "212 HOUGANG STREET 21 #01-349 BK 212 Hougang, Stall 1 530212",
+          "type": "Hawker",
+          "number": "EEHK26080000090",
+          "scheme": "Eating Establishment",
+          "id": "b85a4ca2-0213-4b54-a8df-b9864880b361",
+          "postal": "530212"
+        },
+        {
+          "name": "NIKU IKU",
+          "address": "21 CHOA CHU KANG AVENUE 4 #B1-K10 LOT ONE, SHOPPERS' MALL 689812",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26080000080",
+          "scheme": "Eating Establishment",
+          "id": "64a228b0-7d2f-4fd7-8a87-e5df67b09ade",
+          "postal": "689812"
+        },
+        {
+          "name": "Dou (S10) @ De Tian Bukit Panjang",
+          "address": "259 BUKIT PANJANG RING ROAD #01-34 BUKIT PANJANG NEW TOWN, Stall 10 671259",
+          "type": "Hawker",
+          "number": "EEHK20220000438",
+          "scheme": "Eating Establishment",
+          "id": "4bbc1881-48e8-4701-9e38-5377fc8a7c43",
+          "postal": "671259"
+        },
+        {
+          "name": "Dou (S8) @ Maxim Tam Chiak Kopitiam Northshore",
+          "address": "431A NORTHSHORE DRIVE #01-01, (Stall 8) 821431",
+          "type": "Hawker",
+          "number": "EEHK20240001267",
+          "scheme": "Eating Establishment",
+          "id": "bd865792-97e7-48b9-85cf-a34551550fbf",
+          "postal": "821431"
+        },
+        {
+          "name": "ReadyMeals@Sheng Siong ITE College Central",
+          "address": "2 Ang Mo Kio Drive #01-12 ITE College Central, (Kiosk 1) 567720",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21030012002",
+          "scheme": "Eating Establishment",
+          "id": "2d4dec45-0efc-4a52-b4f9-e3af3eee9239",
+          "postal": "567720"
+        },
+        {
+          "name": "Monster Chili Mala Hot Pot",
+          "address": "1 NORTHPOINT DRIVE #02-103/102/101 NORTHPOINT CITY, Stall 3, Bagus Food Hall 768019",
+          "type": "Hawker",
+          "number": "EEHK26080000099",
+          "scheme": "Eating Establishment",
+          "id": "b52f532a-5db0-49bc-b623-9081fda1fafd",
+          "postal": "768019"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Telur Thai (S19) @ Kopitiam Tampines Mall",
+          "address": "4 TAMPINES CENTRAL 5 #04-27 TAMPINES MALL, Stall 19 529510",
+          "type": "Hawker",
+          "number": "EEHK20240000079",
+          "scheme": "Eating Establishment",
+          "id": "135a9f83-f2f4-40b3-8aac-e663ee9034df",
+          "postal": "529510"
+        },
+        {
+          "name": "Tenderbest",
+          "address": "827 TAMPINES STREET 81 #01-128 TAMPINES GROVE, MR2 520827",
+          "type": "Hawker",
+          "number": "EEHK20230000621",
+          "scheme": "Eating Establishment",
+          "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
+          "postal": "520827"
+        },
+        {
+          "name": "Tim Hortons",
+          "address": "1 HARBOURFRONT WALK #01-207 VIVOCITY 098585",
+          "type": "Restaurant",
+          "number": "EERT26020000001",
+          "scheme": "Eating Establishment",
+          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+          "postal": "098585"
+        },
+        {
+          "name": "Tim Hortons",
+          "address": "3 TEMASEK BOULEVARD #01-314 SUNTEC CITY MALL 038983",
+          "type": "Restaurant",
+          "number": "EERT26020000003",
+          "scheme": "Eating Establishment",
+          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+          "postal": "038983"
+        },
+        {
+          "name": "McDonald's",
+          "address": "88 PUNGGOL WAY #01-141 PUNGGOL COAST MALL 829913",
+          "type": "Restaurant",
+          "number": "EERT26070000096",
+          "scheme": "Eating Establishment",
+          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+          "postal": "829913"
+        },
+        {
+          "name": "Tim Hortons",
+          "address": "1 JURONG WEST CENTRAL 2 #01-26F/26G JURONG POINT 648886",
+          "type": "Restaurant",
+          "number": "EERT26020000005",
+          "scheme": "Eating Establishment",
+          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+          "postal": "648886"
+        },
+        {
+          "name": "Tim Hortons",
+          "address": "23 SERANGOON CENTRAL #01-10 NEX 556083",
+          "type": "Restaurant",
+          "number": "EERT26020000002",
+          "scheme": "Eating Establishment",
+          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+          "postal": "556083"
+        },
+        {
+          "name": "TEXAS CHICKEN",
+          "address": "1 PASIR RIS CLOSE #01-K101/K102/K103/K101A E!HUB@DOWNTOWN EAST 519599",
+          "type": "Restaurant",
+          "number": "EERT20240001301",
+          "scheme": "Eating Establishment",
+          "id": "53c88848-1280-4fee-b6dc-b5d1d941c07d",
+          "postal": "519599"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-08-17T22:38:22.808269",
     "date": "2026-08-17",
     "summary": {
@@ -9663,30 +10012,6 @@
           "scheme": "Eating Establishment",
           "id": "86599531-1ac0-4553-a2f2-4457d006624d",
           "postal": "098675"
-        }
-      ],
-      "removed": [],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-06-18T22:52:14.458214",
-    "date": "2026-06-18",
-    "summary": {
-      "new": 1,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "3 Embers Culinary Craft Pte Ltd",
-          "address": "2 SENOKO SOUTH ROAD #06-01 758096",
-          "type": "Catering Company",
-          "number": "FPCA26060000037",
-          "scheme": "Food Preparation Area",
-          "id": "089bca27-991d-4e11-84e7-c281fbb71436",
-          "postal": "758096"
         }
       ],
       "removed": [],
