@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-08-19T22:38:55.491584",
+    "date": "2026-08-19",
+    "summary": {
+      "new": 2,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "MARRYBROWN",
+          "address": "50 ANG MO KIO STREET 61 #01-02 YIO CHU KANG COMMUNITY CENTRE, Stall 1, Yio Chu Kang CC Foodcourt 569163",
+          "type": "Hawker",
+          "number": "EEHK26080000094",
+          "scheme": "Eating Establishment",
+          "id": "c56fcd6b-c03d-4a6e-8aec-f59d8ac15d65",
+          "postal": "569163"
+        },
+        {
+          "name": "Sanook Kitchen Tom Yum Mama",
+          "address": "181 ORCHARD ROAD #04-08 ORCHARD CENTRAL 238896",
+          "type": "Restaurant",
+          "number": "EERT26080000101",
+          "scheme": "Eating Establishment",
+          "id": "31ad1dfb-3cfe-4f95-b037-c15528063fe5",
+          "postal": "238896"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-08-18T22:38:17.424610",
     "date": "2026-08-18",
     "summary": {
@@ -9982,39 +10015,6 @@
           "postal": "238843"
         }
       ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-06-19T22:35:11.630044",
-    "date": "2026-06-19",
-    "summary": {
-      "new": 2,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "MR BARKER",
-          "address": "7 ENTERPRISE ROAD 629819",
-          "type": "Catering Company",
-          "number": "FPCA26060000039",
-          "scheme": "Food Preparation Area",
-          "id": "db1a91bf-606b-473b-8590-68a17ca712a3",
-          "postal": "629819"
-        },
-        {
-          "name": "Malay Cuisine @ Brani Terminal Building Canteen (mngd by Arya Bhavan Restaurant Pte Ltd)",
-          "address": "200 BRANI TERMINAL AVENUE, Stall 2 098675",
-          "type": "Staff Canteen",
-          "number": "EESC26060000034",
-          "scheme": "Eating Establishment",
-          "id": "86599531-1ac0-4553-a2f2-4457d006624d",
-          "postal": "098675"
-        }
-      ],
-      "removed": [],
       "updated": []
     }
   }
