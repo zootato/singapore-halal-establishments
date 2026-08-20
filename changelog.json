@@ -1,5 +1,120 @@
 [
   {
+    "timestamp": "2026-08-20T22:41:18.203285",
+    "date": "2026-08-20",
+    "summary": {
+      "new": 7,
+      "removed": 4,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Now Pizza",
+          "address": "63 JURONG WEST CENTRAL 3 JP2, Jurong Point #03-60 Jurong Point 648331",
+          "type": "Restaurant",
+          "number": "EERT25120000097",
+          "scheme": "Eating Establishment",
+          "id": "864c6a47-e378-4258-b9a5-9bf82b296233",
+          "postal": "648331"
+        },
+        {
+          "name": "Now Pizza",
+          "address": "107 NORTH BRIDGE ROAD #B2-31 FUNAN 179105",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000620",
+          "scheme": "Eating Establishment",
+          "id": "864c6a47-e378-4258-b9a5-9bf82b296233",
+          "postal": "179105"
+        },
+        {
+          "name": "APPETIZED PTE. LTD.",
+          "address": "39 MACTAGGART ROAD #06-00 FOUR SEASONS FOOD BUILDING 368084",
+          "type": "Catering Company",
+          "number": "FPCA26080000111",
+          "scheme": "Food Preparation Area",
+          "id": "ede34b4c-9e55-4664-9684-86be359db018",
+          "postal": "368084"
+        },
+        {
+          "name": "Now Pizza",
+          "address": "70 COMPASSVALE BOW #01-01 544692",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000961",
+          "scheme": "Eating Establishment",
+          "id": "864c6a47-e378-4258-b9a5-9bf82b296233",
+          "postal": "544692"
+        },
+        {
+          "name": "Now Pizza",
+          "address": "1 JELEBU ROAD #01-43 BUKIT PANJANG PLAZA 677743",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240001234",
+          "scheme": "Eating Establishment",
+          "id": "864c6a47-e378-4258-b9a5-9bf82b296233",
+          "postal": "677743"
+        },
+        {
+          "name": "Now Pizza",
+          "address": "1 PASIR RIS CLOSE #01-K106 E!HUB@DOWNTOWN EAST 519599",
+          "type": "Restaurant",
+          "number": "EERT20250000590",
+          "scheme": "Eating Establishment",
+          "id": "864c6a47-e378-4258-b9a5-9bf82b296233",
+          "postal": "519599"
+        },
+        {
+          "name": "Now Pizza",
+          "address": "301 UPPER THOMSON ROAD #01-K9 THOMSON PLAZA 574408",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000207",
+          "scheme": "Eating Establishment",
+          "id": "864c6a47-e378-4258-b9a5-9bf82b296233",
+          "postal": "574408"
+        }
+      ],
+      "removed": [
+        {
+          "name": "TASTE OF INDONESIA EXPRESS",
+          "address": "1 JELEBU ROAD #01-42 BUKIT PANJANG PLAZA 677743",
+          "type": "Restaurant",
+          "number": "EERT26060000029",
+          "scheme": "Eating Establishment",
+          "id": "2e83be17-2d14-440a-9f79-7847e26d9ec1",
+          "postal": "677743"
+        },
+        {
+          "name": "Al Madina Famous Prata Corner",
+          "address": "635C SENJA ROAD #01-01, STALL 8 673635",
+          "type": "Hawker",
+          "number": "EEHN22010013074",
+          "scheme": "Eating Establishment",
+          "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
+          "postal": "673635"
+        },
+        {
+          "name": "Khun Thai",
+          "address": "30 WOODLANDS AVENUE 2 #01-23 WOODLANDS MRT STATION (PART RIGHT) 738343",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB25120000104",
+          "scheme": "Eating Establishment",
+          "id": "ec143ea2-ab7a-4f2f-aaa1-65414d427c97",
+          "postal": "738343"
+        },
+        {
+          "name": "ANDES",
+          "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #02-02a CHANGI CITY POINT 486038",
+          "type": "Restaurant",
+          "number": "EERT20230000894",
+          "scheme": "Eating Establishment",
+          "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
+          "postal": "486038"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-08-19T22:38:55.491584",
     "date": "2026-08-19",
     "summary": {
@@ -9981,40 +10096,6 @@
         }
       ],
       "removed": [],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-06-22T22:46:43.546286",
-    "date": "2026-06-22",
-    "summary": {
-      "new": 1,
-      "removed": 1,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "MALA HOT POT (STALL 4) @ TECHNO EDGE CANTEEN",
-          "address": "3A ENGINEERING DRIVE 2 Techno Edge Canteen, stall 4 117275",
-          "type": "Hawker",
-          "number": "EEHK20240000722",
-          "scheme": "Eating Establishment",
-          "id": "fe2e55a6-3f35-4fe4-af5d-fc506d843eab",
-          "postal": "117275"
-        }
-      ],
-      "removed": [
-        {
-          "name": "MONSTER PLANET",
-          "address": "176 ORCHARD ROAD #01-33C/D THE CENTREPOINT 238843",
-          "type": "Restaurant",
-          "number": "EERN21120013345",
-          "scheme": "Eating Establishment",
-          "id": "206ff1ce-bbee-425d-ad7b-5589d2378f5d",
-          "postal": "238843"
-        }
-      ],
       "updated": []
     }
   }
