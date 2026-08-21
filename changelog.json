@@ -1,5 +1,93 @@
 [
   {
+    "timestamp": "2026-08-21T22:40:25.553796",
+    "date": "2026-08-21",
+    "summary": {
+      "new": 3,
+      "removed": 5,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "McDonald's",
+          "address": "88 PUNGGOL WAY #01-141 PUNGGOL COAST MALL 829913",
+          "type": "Restaurant",
+          "number": "EERT26070000096",
+          "scheme": "Eating Establishment",
+          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+          "postal": "829913"
+        },
+        {
+          "name": "Cinta Hainanese Chicken Rice / Ampang Yong Tau Foo",
+          "address": "1 HOUGANG STREET 91 #01-19 HOUGANG 1, Stall 17, Kopitiam 538692",
+          "type": "Hawker",
+          "number": "EEHK26080000116",
+          "scheme": "Eating Establishment",
+          "id": "0410ff01-9588-405d-a4ff-91989a3492f6",
+          "postal": "538692"
+        },
+        {
+          "name": "Padang Express Indo Delight",
+          "address": "51 YISHUN AVENUE 11 #01-03 YISHUN PARK HAWKER CENTRE, STALL 3 768867",
+          "type": "Hawker",
+          "number": "EEHK26080000096",
+          "scheme": "Eating Establishment",
+          "id": "16a676eb-b1e6-418b-aa20-413c349a6aef",
+          "postal": "768867"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Long John Silver's",
+          "address": "3 TEMASEK BOULEVARD #B1-149 SUNTEC CITY MALL 038983",
+          "type": "Restaurant",
+          "number": "EERT20230001087",
+          "scheme": "Eating Establishment",
+          "id": "04a22cc8-410f-41ad-977c-224cb8a85e4c",
+          "postal": "038983"
+        },
+        {
+          "name": "SALMON WARRIOR",
+          "address": "10 EUNOS ROAD 8 #B1-165/166 SINGAPORE POST CENTRE 408600",
+          "type": "Restaurant",
+          "number": "EERT20220000671",
+          "scheme": "Eating Establishment",
+          "id": "552d459f-80f2-4527-a23e-56e82ec08b64",
+          "postal": "408600"
+        },
+        {
+          "name": "Sumber Ayam Chicken Rice (S5)@Food Republic City Square Mall",
+          "address": "180 KITCHENER ROAD #B3-04 CITY SQUARE MALL, Stall 5 208539",
+          "type": "Hawker",
+          "number": "EEHK20240000913",
+          "scheme": "Eating Establishment",
+          "id": "6898b05f-3ffe-41b3-af30-8aea1bf8c6a3",
+          "postal": "208539"
+        },
+        {
+          "name": "Salmon Warrior Express",
+          "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #B1-37 CHANGI CITY POINT 486038",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000397",
+          "scheme": "Eating Establishment",
+          "id": "fe2ef16a-2f6f-4d88-bfea-6d195dcb7aee",
+          "postal": "486038"
+        },
+        {
+          "name": "Heavenly Wang",
+          "address": "3 SIMEI STREET 6 #B1-K3 EASTPOINT MALL 528833",
+          "type": "Restaurant",
+          "number": "EERT20220000317",
+          "scheme": "Eating Establishment",
+          "id": "cd36d89f-b7ee-484b-8ced-cbcecd381471",
+          "postal": "528833"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-08-20T22:41:18.203285",
     "date": "2026-08-20",
     "summary": {
@@ -10055,48 +10143,6 @@
           }
         }
       ]
-    }
-  },
-  {
-    "timestamp": "2026-06-23T22:42:03.728824",
-    "date": "2026-06-23",
-    "summary": {
-      "new": 3,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "HUDSONS COFFEE",
-          "address": "65 AIRPORT BOULEVARD #02-60 CHANGI AIRPORT TERMINAL 3 819663",
-          "type": "Restaurant",
-          "number": "EERX21100012925",
-          "scheme": "Eating Establishment",
-          "id": "7b2bad34-08e9-4f8b-9502-9ffa8ae2a542",
-          "postal": "819663"
-        },
-        {
-          "name": "HUDSONS COFFEE",
-          "address": "65 AIRPORT BOULEVARD 02-60 CHANGI AIRPORT TERMINAL 3 819663",
-          "type": "Central Kitchen",
-          "number": "FPCK20240000233",
-          "scheme": "Food Preparation Area",
-          "id": "7b2bad34-08e9-4f8b-9502-9ffa8ae2a542",
-          "postal": "819663"
-        },
-        {
-          "name": "Hudsons",
-          "address": "60 AIRPORT BOULEVARD #02-178 CHANGI AIRPORT TERMINAL 2 819643",
-          "type": "Restaurant",
-          "number": "EERT20240000232",
-          "scheme": "Eating Establishment",
-          "id": "9a03675d-cecd-4e9f-af83-d7ec9b6ad8bf",
-          "postal": "819643"
-        }
-      ],
-      "removed": [],
-      "updated": []
     }
   }
 ]

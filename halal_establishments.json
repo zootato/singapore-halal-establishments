@@ -6705,6 +6705,15 @@
     "postal": "819663"
   },
   {
+    "name": "Cinta Hainanese Chicken Rice / Ampang Yong Tau Foo",
+    "address": "1 HOUGANG STREET 91 #01-19 HOUGANG 1, Stall 17, Kopitiam 538692",
+    "type": "Hawker",
+    "number": "EEHK26080000116",
+    "scheme": "Eating Establishment",
+    "id": "0410ff01-9588-405d-a4ff-91989a3492f6",
+    "postal": "538692"
+  },
+  {
     "name": "Citrus By The Pool",
     "address": "43 SCIENCE PARK ROAD #01-09/10/K1 117408",
     "type": "Restaurant",
@@ -12646,15 +12655,6 @@
   },
   {
     "name": "Heavenly Wang",
-    "address": "3 SIMEI STREET 6 #B1-K3 EASTPOINT MALL 528833",
-    "type": "Restaurant",
-    "number": "EERT20220000317",
-    "scheme": "Eating Establishment",
-    "id": "cd36d89f-b7ee-484b-8ced-cbcecd381471",
-    "postal": "528833"
-  },
-  {
-    "name": "Heavenly Wang",
     "address": "1 JURONG EAST STREET 21 #01-02 609606",
     "type": "Restaurant",
     "number": "EERT20220000335",
@@ -17137,15 +17137,6 @@
   },
   {
     "name": "Long John Silver's",
-    "address": "3 TEMASEK BOULEVARD #B1-149 SUNTEC CITY MALL 038983",
-    "type": "Restaurant",
-    "number": "EERT20230001087",
-    "scheme": "Eating Establishment",
-    "id": "04a22cc8-410f-41ad-977c-224cb8a85e4c",
-    "postal": "038983"
-  },
-  {
-    "name": "Long John Silver's",
     "address": "9 BISHAN PLACE #01-19A JUNCTION 8 SHOPPING CENTRE 579837",
     "type": "Restaurant",
     "number": "EERN22020013508",
@@ -19141,6 +19132,15 @@
     "scheme": "Eating Establishment",
     "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
     "postal": "339511"
+  },
+  {
+    "name": "McDonald's",
+    "address": "88 PUNGGOL WAY #01-141 PUNGGOL COAST MALL 829913",
+    "type": "Restaurant",
+    "number": "EERT26070000096",
+    "scheme": "Eating Establishment",
+    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+    "postal": "829913"
   },
   {
     "name": "McDonald's",
@@ -23094,6 +23094,15 @@
     "postal": "609601"
   },
   {
+    "name": "Padang Express Indo Delight",
+    "address": "51 YISHUN AVENUE 11 #01-03 YISHUN PARK HAWKER CENTRE, STALL 3 768867",
+    "type": "Hawker",
+    "number": "EEHK26080000096",
+    "scheme": "Eating Establishment",
+    "id": "16a676eb-b1e6-418b-aa20-413c349a6aef",
+    "postal": "768867"
+  },
+  {
     "name": "Padang Lezat",
     "address": "21 CHOA CHU KANG AVENUE 4 FOOD JUNCTION MR1 #04-16 LOT ONE, SHOPPERS' MALL, 689812",
     "type": "Hawker",
@@ -26593,24 +26602,6 @@
     "scheme": "Eating Establishment",
     "id": "6f827384-9e88-428e-916c-92f3bda83560",
     "postal": "545078"
-  },
-  {
-    "name": "SALMON WARRIOR",
-    "address": "10 EUNOS ROAD 8 #B1-165/166 SINGAPORE POST CENTRE 408600",
-    "type": "Restaurant",
-    "number": "EERT20220000671",
-    "scheme": "Eating Establishment",
-    "id": "552d459f-80f2-4527-a23e-56e82ec08b64",
-    "postal": "408600"
-  },
-  {
-    "name": "Salmon Warrior Express",
-    "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #B1-37 CHANGI CITY POINT 486038",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20240000397",
-    "scheme": "Eating Establishment",
-    "id": "fe2ef16a-2f6f-4d88-bfea-6d195dcb7aee",
-    "postal": "486038"
   },
   {
     "name": "SAM LEONG ST. CHICKEN RICE",
@@ -30391,15 +30382,6 @@
     "scheme": "Food Preparation Area",
     "id": "92cc58e5-a264-413b-970c-0ad81bace4f7",
     "postal": "588406"
-  },
-  {
-    "name": "Sumber Ayam Chicken Rice (S5)@Food Republic City Square Mall",
-    "address": "180 KITCHENER ROAD #B3-04 CITY SQUARE MALL, Stall 5 208539",
-    "type": "Hawker",
-    "number": "EEHK20240000913",
-    "scheme": "Eating Establishment",
-    "id": "6898b05f-3ffe-41b3-af30-8aea1bf8c6a3",
-    "postal": "208539"
   },
   {
     "name": "Sumber Ayam Hainanese Chicken Rice (MR3)@Kopitiam AMK Hub",
