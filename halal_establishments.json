@@ -17541,6 +17541,15 @@
     "postal": "158792"
   },
   {
+    "name": "Makcik Kitchen",
+    "address": "17 PETIR ROAD Stall 17 at Kopitiam Hillion Mall #02-15 HILLION MALL 678278",
+    "type": "Hawker",
+    "number": "EEHK26080000040",
+    "scheme": "Eating Establishment",
+    "id": "8d450d12-08e0-4b0d-8e45-b86a4d641001",
+    "postal": "678278"
+  },
+  {
     "name": "Maki-San",
     "address": "21 CHOA CHU KANG AVENUE 4 #B1-K31/K32 LOT ONE, SHOPPERS' MALL 689812",
     "type": "Snack Bar / Bakery",
@@ -26926,15 +26935,6 @@
     "scheme": "Eating Establishment",
     "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
     "postal": "608532"
-  },
-  {
-    "name": "Sanook Kitchen",
-    "address": "180 KITCHENER ROAD #02-33/56 CITY SQUARE MALL 208539",
-    "type": "Restaurant",
-    "number": "EERT20250000405",
-    "scheme": "Eating Establishment",
-    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-    "postal": "208539"
   },
   {
     "name": "Sanook Kitchen",
