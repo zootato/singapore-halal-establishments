@@ -3412,6 +3412,15 @@
   },
   {
     "name": "Beradik",
+    "address": "11 JALAN TAN TOCK SENG 01-13/14/15 TAN TOCK SENG HOSPITAL, Stall 16 @ Kopitiam 308433",
+    "type": "Hawker",
+    "number": "EEHK26080000022",
+    "scheme": "Eating Establishment",
+    "id": "6b95c926-c479-408f-9416-2db5cf19a8c4",
+    "postal": "308433"
+  },
+  {
+    "name": "Beradik",
     "address": "10 AIRPORT BOULEVARD Stall 10 #02-205 Kopitiam CHANGI AIRPORT TERMINAL 4 819665",
     "type": "Hawker",
     "number": "EEHK25120000088",
@@ -3472,6 +3481,15 @@
     "scheme": "Eating Establishment",
     "id": "6ffc5a28-9ba0-4258-bc3d-5ae677b2a41e",
     "postal": "529510"
+  },
+  {
+    "name": "BERADIK WESTERN",
+    "address": "17 PETIR ROAD 02-15/16 Kopitiam Food Hall – Hillion Mall, MR3 678278",
+    "type": "Hawker",
+    "number": "EEHK26080000053",
+    "scheme": "Eating Establishment",
+    "id": "6ffc5a28-9ba0-4258-bc3d-5ae677b2a41e",
+    "postal": "678278"
   },
   {
     "name": "Beradik Western  (S9) @ Kopitiam Food Hall Plaza SIngapura",
@@ -5518,15 +5536,6 @@
   },
   {
     "name": "CAT & THE FIDDLE",
-    "address": "10 TAMPINES CENTRAL 1 01-41/42 TAMPINES ONE 529536",
-    "type": "Restaurant",
-    "number": "EERT26030000065",
-    "scheme": "Eating Establishment",
-    "id": "40ac230f-34a1-45df-8a3e-ef049f3f2e1f",
-    "postal": "529536"
-  },
-  {
-    "name": "CAT & THE FIDDLE",
     "address": "9 BISHAN PLACE #02-32A JUNCTION 8 SHOPPING CENTRE 579837",
     "type": "Snack Bar / Bakery",
     "number": "EEBN21060012385",
@@ -5542,6 +5551,15 @@
     "scheme": "Eating Establishment",
     "id": "40ac230f-34a1-45df-8a3e-ef049f3f2e1f",
     "postal": "737737"
+  },
+  {
+    "name": "CAT & THE FIDDLE",
+    "address": "10 TAMPINES CENTRAL 1 01-41/42 TAMPINES ONE 529536",
+    "type": "Restaurant",
+    "number": "EERT26030000065",
+    "scheme": "Eating Establishment",
+    "id": "40ac230f-34a1-45df-8a3e-ef049f3f2e1f",
+    "postal": "529536"
   },
   {
     "name": "CAT & THE FIDDLE",
@@ -9565,15 +9583,6 @@
     "scheme": "Eating Establishment",
     "id": "008ded89-78a7-4d68-8a1e-8fdc67f56423",
     "postal": "467360"
-  },
-  {
-    "name": "Encik Tan",
-    "address": "1 HARBOURFRONT WALK #B2-45 VIVOCITY 098585",
-    "type": "Restaurant",
-    "number": "EERT25120000006",
-    "scheme": "Eating Establishment",
-    "id": "008ded89-78a7-4d68-8a1e-8fdc67f56423",
-    "postal": "098585"
   },
   {
     "name": "Encik Tan",
@@ -19144,15 +19153,6 @@
   },
   {
     "name": "McDonald's",
-    "address": "88 PUNGGOL WAY #01-141 PUNGGOL COAST MALL 829913",
-    "type": "Restaurant",
-    "number": "EERT26070000096",
-    "scheme": "Eating Establishment",
-    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-    "postal": "829913"
-  },
-  {
-    "name": "McDonald's",
     "address": "1 JOO KOON CIRCLE #01-27-31 Fairprice Hub 629117",
     "type": "Restaurant",
     "number": "EERN20020011025",
@@ -19933,6 +19933,15 @@
     "scheme": "Eating Establishment",
     "id": "8c5092cd-8cf3-44a1-afd3-95a79e5dcfd9",
     "postal": "529536"
+  },
+  {
+    "name": "Monster Western",
+    "address": "302 TENGAH PARK AVENUE Gourmet Paradise 02-01/02/03 PARC POINT, MR1 690302",
+    "type": "Hawker",
+    "number": "EEHK26080000084",
+    "scheme": "Eating Establishment",
+    "id": "82f4a80a-99a8-43df-b711-4fe91e5b3a34",
+    "postal": "690302"
   },
   {
     "name": "Monster Western (MR1) @ Food Dynasty Cineleisure",
@@ -32635,15 +32644,6 @@
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "65 AIRPORT BOULEVARD #02-K4 CHANGI AIRPORT TERMINAL 3 (DEPARTURE / TRANSIT LOUNGE SOUTH) 819642",
-    "type": "Restaurant",
-    "number": "EERN21120013290",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "819642"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
     "address": "604 SEMBAWANG ROAD #01-10/11 SEMBAWANG SHOPPING CENTRE 758459",
     "type": "Restaurant",
     "number": "EERN21120013229",
@@ -32938,6 +32938,15 @@
     "scheme": "Eating Establishment",
     "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
     "postal": "529509"
+  },
+  {
+    "name": "THE COFFEE BEAN & TEA LEAF",
+    "address": "65 AIRPORT BOULEVARD #02-K4 CHANGI AIRPORT TERMINAL 3 (DEPARTURE / TRANSIT LOUNGE SOUTH) 819642",
+    "type": "Restaurant",
+    "number": "EERN21120013290",
+    "scheme": "Eating Establishment",
+    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+    "postal": "819642"
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
