@@ -11611,6 +11611,24 @@
   },
   {
     "name": "Ha-Jun Korean",
+    "address": "33 SENGKANG WEST AVENUE #B1-02/03 THE SELETAR MALL 797653",
+    "type": "Restaurant",
+    "number": "EERN22020013476",
+    "scheme": "Eating Establishment",
+    "id": "e002d107-4c84-411a-9d7b-7ca7d0c51a3b",
+    "postal": "797653"
+  },
+  {
+    "name": "Ha-Jun Korean",
+    "address": "3155 COMMONWEALTH AVENUE WEST #04-33 THE CLEMENTI MALL 129588",
+    "type": "Restaurant",
+    "number": "EERN22020013475",
+    "scheme": "Eating Establishment",
+    "id": "e002d107-4c84-411a-9d7b-7ca7d0c51a3b",
+    "postal": "129588"
+  },
+  {
+    "name": "Ha-Jun Korean",
     "address": "9 RAFFLES PLACE #B1-04 REPUBLIC PLAZA 048619",
     "type": "Restaurant",
     "number": "EERT26010000112",
@@ -12481,6 +12499,15 @@
     "scheme": "Eating Establishment",
     "id": "268be053-4302-4f2b-bdfa-8944cf31c2c9",
     "postal": "409051"
+  },
+  {
+    "name": "Haus Ban Mian Fish Soup & Ban Mian",
+    "address": "5 HOSPITAL DRIVE STALL 02, BAGUS #02-01 NATIONAL HEART CENTRE SINGAPORE 169609",
+    "type": "Hawker",
+    "number": "EEHK26080000050",
+    "scheme": "Eating Establishment",
+    "id": "43a1d60d-5343-4a02-9cf2-7f7a0018ebac",
+    "postal": "169609"
   },
   {
     "name": "Haus Fish & Spinach Soup (S11)@Kopitiam Changi Airport T3",
@@ -21699,15 +21726,6 @@
     "postal": "819666"
   },
   {
-    "name": "NASTY COOKIE",
-    "address": "3 GATEWAY DRIVE #01-09 WESTGATE 608532",
-    "type": "Restaurant",
-    "number": "EERT20230000980",
-    "scheme": "Eating Establishment",
-    "id": "11a08e54-d670-488c-ad60-23bcd6e1184c",
-    "postal": "608532"
-  },
-  {
     "name": "NASTY COOKIE PTE. LTD.",
     "address": "21 TAMPINES STREET 92 #04-03A HERSING KITCHEN 528891",
     "type": "Central Kitchen",
@@ -27088,6 +27106,15 @@
     "scheme": "Eating Establishment",
     "id": "28d6d27d-3c69-4948-9db4-9b9dd51b764d",
     "postal": "758459"
+  },
+  {
+    "name": "Seabay Delight Wok Delight",
+    "address": "5 CHANGI BUSINESS PARK CENTRAL 1 STALL 02, FOOD ARENA #02-01 CHANGI CITY POINT 486038",
+    "type": "Hawker",
+    "number": "EEHK26080000102",
+    "scheme": "Eating Establishment",
+    "id": "c4cd60d7-7c3e-4a55-b300-b455758d2eec",
+    "postal": "486038"
   },
   {
     "name": "Seabay Delight Wok Delight",
@@ -34441,24 +34468,6 @@
     "scheme": "Eating Establishment",
     "id": "c821fedb-2a00-42f2-b986-d72bfb00a0dc",
     "postal": "188476"
-  },
-  {
-    "name": "TREATS",
-    "address": "181 WEST COAST ROAD ESSO SERVICE STATION 127373",
-    "type": "Food Kiosk",
-    "number": "EEKN21110012176",
-    "scheme": "Eating Establishment",
-    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
-    "postal": "127373"
-  },
-  {
-    "name": "TREATS",
-    "address": "50 CHOA CHU KANG AVENUE 3 ESSO SERVICE STATION 689858",
-    "type": "Food Kiosk",
-    "number": "EEKN21110012177",
-    "scheme": "Eating Establishment",
-    "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
-    "postal": "689858"
   },
   {
     "name": "Triplets",
