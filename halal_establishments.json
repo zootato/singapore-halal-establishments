@@ -30780,6 +30780,15 @@
     "postal": "510734"
   },
   {
+    "name": "Sutha's Cafe",
+    "address": "103 IRRAWADDY ROAD #01-12/13 ROYAL SQUARE AT NOVENA 329566",
+    "type": "Restaurant",
+    "number": "EERT26080000104",
+    "scheme": "Eating Establishment",
+    "id": "8aeb09f1-9f82-4e1a-a5e3-d1e125e32768",
+    "postal": "329566"
+  },
+  {
     "name": "SV Caterers Pte Ltd",
     "address": "7 MANDAI ESTATE #05-05 FOODFAB@MANDAI 729904",
     "type": "Catering Company",
@@ -32086,7 +32095,7 @@
   },
   {
     "name": "Telur Thai",
-    "address": "1 HOSPITAL CRESCENT Stall 03 SINGAPORE GENERAL HOSPITAL BLOCK 6, STALL 3, KOUFU 169608",
+    "address": "1 HOSPITAL CRESCENT SINGAPORE GENERAL HOSPITAL BLOCK 6, STALL 3, KOUFU 169608",
     "type": "Hawker",
     "number": "EEHK26060000067",
     "scheme": "Eating Establishment",
@@ -33505,6 +33514,69 @@
     "scheme": "Food Preparation Area",
     "id": "471a0417-671a-40d6-a037-54c55c933a2f",
     "postal": "528891"
+  },
+  {
+    "name": "The Kiosk",
+    "address": "418 NORTHSHORE DRIVE @ BAGUS (STALL 10) #02-07, #02-08, #02-09 NORTHSHORE PLAZA II 820418",
+    "type": "Hawker",
+    "number": "EEHK26080000008",
+    "scheme": "Eating Establishment",
+    "id": "e1fcfd32-05e6-449b-a63f-85d7686be500",
+    "postal": "820418"
+  },
+  {
+    "name": "The Kiosk",
+    "address": "1 NORTHPOINT DRIVE #02-101, #02-102, #02-103 NORTHPOINT CITY, BAGUS FOOD HALL (STALL 1) 768019",
+    "type": "Hawker",
+    "number": "EEHK26080000009",
+    "scheme": "Eating Establishment",
+    "id": "e1fcfd32-05e6-449b-a63f-85d7686be500",
+    "postal": "768019"
+  },
+  {
+    "name": "The Kiosk",
+    "address": "7 PASIR RIS CENTRAL @ BAGUS (STALL 1) #B2-17 PASIR RIS MALL 519612",
+    "type": "Hawker",
+    "number": "EEHK26080000010",
+    "scheme": "Eating Establishment",
+    "id": "e1fcfd32-05e6-449b-a63f-85d7686be500",
+    "postal": "519612"
+  },
+  {
+    "name": "The Kiosk",
+    "address": "60 PAYA LEBAR ROAD @ BAGUS (STALL 1) #B1-51 PAYA LEBAR SQUARE 409051",
+    "type": "Hawker",
+    "number": "EEHK26080000011",
+    "scheme": "Eating Establishment",
+    "id": "e1fcfd32-05e6-449b-a63f-85d7686be500",
+    "postal": "409051"
+  },
+  {
+    "name": "The Kiosk",
+    "address": "1 JURONG WEST CENTRAL 2 @ BAGUS (STALL 1) #B1-42/43/44 JURONG POINT 648886",
+    "type": "Hawker",
+    "number": "EEHK26080000012",
+    "scheme": "Eating Establishment",
+    "id": "e1fcfd32-05e6-449b-a63f-85d7686be500",
+    "postal": "648886"
+  },
+  {
+    "name": "The Kiosk",
+    "address": "5 HOSPITAL DRIVE @ BAGUS (STALL 6) #02-01 NATIONAL HEART CENTRE SINGAPORE 169609",
+    "type": "Hawker",
+    "number": "EEHK26080000013",
+    "scheme": "Eating Establishment",
+    "id": "e1fcfd32-05e6-449b-a63f-85d7686be500",
+    "postal": "169609"
+  },
+  {
+    "name": "The Kiosk",
+    "address": "1 WOODLANDS SQUARE @ BAGUS (STALL 1) #07-03 CAUSEWAY POINT 738099",
+    "type": "Hawker",
+    "number": "EEHK26080000018",
+    "scheme": "Eating Establishment",
+    "id": "e1fcfd32-05e6-449b-a63f-85d7686be500",
+    "postal": "738099"
   },
   {
     "name": "The Landmark",
