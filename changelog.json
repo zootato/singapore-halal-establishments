@@ -1,5 +1,195 @@
 [
   {
+    "timestamp": "2026-08-27T03:11:54.233375",
+    "date": "2026-08-27",
+    "summary": {
+      "new": 13,
+      "removed": 4,
+      "updated": 1
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "ORCHID THAI",
+          "address": "1 HOSPITAL CRESCENT #01-01A SINGAPORE GENERAL HOSPITAL, BOWYERS BLK, SINGAPORE EYE CENTRE 169608",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21040012263",
+          "scheme": "Eating Establishment",
+          "id": "5ca5ad88-8e77-4562-9750-ae53714f7ea9",
+          "postal": "169608"
+        },
+        {
+          "name": "The Kiosk",
+          "address": "678A WOODLANDS AVENUE 6 @ BAGUS (STALL 7) #02-05 Admiralty Place 731678",
+          "type": "Hawker",
+          "number": "EEHK26080000019",
+          "scheme": "Eating Establishment",
+          "id": "e1fcfd32-05e6-449b-a63f-85d7686be500",
+          "postal": "731678"
+        },
+        {
+          "name": "Pastry Section @ Alexandra Hospital",
+          "address": "378 ALEXANDRA ROAD #01 ALEXANDRA HOSPITAL 159964",
+          "type": "Central Kitchen",
+          "number": "FPCN21050001523",
+          "scheme": "Food Preparation Area",
+          "id": "0894b9ce-8c80-4504-8ac5-5f605af796ee",
+          "postal": "159964"
+        },
+        {
+          "name": "4FINGERS CRISPY CHICKEN",
+          "address": "311 New Upper changi Road #B1-53 Bedok Mall 467360",
+          "type": "Restaurant",
+          "number": "EERT26080000120",
+          "scheme": "Eating Establishment",
+          "id": "90b83324-363a-4406-9afa-08b19b67522d",
+          "postal": "467360"
+        },
+        {
+          "name": "Malay Kitchen @ Alexandra Hospital",
+          "address": "378 ALEXANDRA ROAD #01 ALEXANDRA HOSPITAL 159964",
+          "type": "Central Kitchen",
+          "number": "FPCN21050001525",
+          "scheme": "Food Preparation Area",
+          "id": "df1a6a5e-1886-412a-8562-7ce8d9168254",
+          "postal": "159964"
+        },
+        {
+          "name": "Rice Section @ Alexandra Hospital",
+          "address": "378 ALEXANDRA ROAD #01 ALEXANDRA HOSPITAL 159964",
+          "type": "Central Kitchen",
+          "number": "FPCN21050001524",
+          "scheme": "Food Preparation Area",
+          "id": "a8e2ba73-748e-46e1-a63f-37048d0f04b2",
+          "postal": "159964"
+        },
+        {
+          "name": "Cold Section @ Alexandra Hospital",
+          "address": "378 ALEXANDRA ROAD #01 ALEXANDRA HOSPITAL 159964",
+          "type": "Central Kitchen",
+          "number": "FPCN21050001522",
+          "scheme": "Food Preparation Area",
+          "id": "c716402d-be09-4821-989f-1b1e5b620b97",
+          "postal": "159964"
+        },
+        {
+          "name": "The Kiosk",
+          "address": "133 CANBERRA VIEW @ BAGUS (STALL 1) #01-21/22/23 CANBERRA PLAZA 750133",
+          "type": "Hawker",
+          "number": "EEHK26080000014",
+          "scheme": "Eating Establishment",
+          "id": "e1fcfd32-05e6-449b-a63f-85d7686be500",
+          "postal": "750133"
+        },
+        {
+          "name": "Hudsons",
+          "address": "80 AIRPORT BOULEVARD #02-K10 CHANGI AIRPORT TERMINAL 1 819642",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26080000085",
+          "scheme": "Eating Establishment",
+          "id": "9a03675d-cecd-4e9f-af83-d7ec9b6ad8bf",
+          "postal": "819642"
+        },
+        {
+          "name": "Shiok Chicken Rice",
+          "address": "60 AIRPORT BOULEVARD #03-179/180/181/182/183/184 Changi Terminal 2, Transit Lounge Central, Stall 1, Cookhouse by Koufu 819643",
+          "type": "Hawker",
+          "number": "EEHK26080000069",
+          "scheme": "Eating Establishment",
+          "id": "386d4e65-e431-42bc-bd66-fb3075f0b986",
+          "postal": "819643"
+        },
+        {
+          "name": "Lai Makan by Orchid Thai",
+          "address": "100 BUKIT TIMAH ROAD #01-17 KK WOMEN'S AND CHILDREN'S HOSPITAL 229899",
+          "type": "Restaurant",
+          "number": "EERT26080000114",
+          "scheme": "Eating Establishment",
+          "id": "b94b3598-1f9b-4914-9932-4bba53944db0",
+          "postal": "229899"
+        },
+        {
+          "name": "KOPIKAKIS",
+          "address": "80 AIRPORT BOULEVARD #03-53 CHANGI AIRPORT TERMINAL 1 BUILDING 819642",
+          "type": "Restaurant",
+          "number": "EERT26080000098",
+          "scheme": "Eating Establishment",
+          "id": "f11118ad-48ae-474d-a164-1945ea6425bc",
+          "postal": "819642"
+        },
+        {
+          "name": "Lai Makan by Orchid Thai",
+          "address": "30 HOSPITAL BOULEVARD #02-04 NATIONAL CANCER CENTRE SINGAPORE 168583",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26010000017",
+          "scheme": "Eating Establishment",
+          "id": "b94b3598-1f9b-4914-9932-4bba53944db0",
+          "postal": "168583"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
+          "address": "1 MARITIME SQUARE #02-83/84 HARBOURFRONT CENTRE 099253",
+          "type": "Restaurant",
+          "number": "EERN21110012977",
+          "scheme": "Eating Establishment",
+          "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
+          "postal": "099253"
+        },
+        {
+          "name": "McDonald's",
+          "address": "12 KALLANG AVENUE #01-24 APERIA MALL 339511",
+          "type": "Restaurant",
+          "number": "EERN20020011061",
+          "scheme": "Eating Establishment",
+          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+          "postal": "339511"
+        },
+        {
+          "name": "Sanook Kitchen",
+          "address": "3 GATEWAY DRIVE #B1-25 WESTGATE 608532",
+          "type": "Restaurant",
+          "number": "EERT20240000492",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "608532"
+        },
+        {
+          "name": "PIZZA HUT SINGAPORE PTE LTD",
+          "address": "1 MARITIME SQUARE #01-69 HARBOURFRONT CENTRE 099253",
+          "type": "Restaurant",
+          "number": "EERN21080012784",
+          "scheme": "Eating Establishment",
+          "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
+          "postal": "099253"
+        }
+      ],
+      "updated": [
+        {
+          "previous": {
+            "name": "Roost",
+            "address": "42 IMBIAH ROAD #01-K1 099701",
+            "type": "Restaurant",
+            "number": "EERT20250000823",
+            "scheme": "Eating Establishment",
+            "id": "5965b877-26d4-4e8e-9076-d0dbf88530c4",
+            "postal": "099701"
+          },
+          "current": {
+            "name": "Easy Gourmet",
+            "address": "42 IMBIAH ROAD #01-K1 099701",
+            "type": "Restaurant",
+            "number": "EERT20250000823",
+            "scheme": "Eating Establishment",
+            "id": "5965b877-26d4-4e8e-9076-d0dbf88530c4",
+            "postal": "099701"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-08-25T22:41:53.232920",
     "date": "2026-08-25",
     "summary": {
@@ -7860,256 +8050,6 @@
           "scheme": "Eating Establishment",
           "id": "d2471bbf-a620-4325-944f-6febb0d282d4",
           "postal": "018982"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-07-01T22:44:20.980365",
-    "date": "2026-07-01",
-    "summary": {
-      "new": 23,
-      "removed": 3,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Tornado Egg Curry Rice",
-          "address": "21 TAMPINES NORTH DRIVE 2 Stall 6 #03-00 KOUFU @ GIANT TAMPINES 528765",
-          "type": "Hawker",
-          "number": "EEHK26060000047",
-          "scheme": "Eating Establishment",
-          "id": "8ff75b9d-4bb5-479a-9099-515368114e5e",
-          "postal": "528765"
-        },
-        {
-          "name": "Chai-San Omu Curry Rice & Donburi",
-          "address": "7 PASIR RIS CENTRAL #B2-17 (MR2) @ BAGUS PASIR RIS MALL 519612",
-          "type": "Hawker",
-          "number": "EEHK26060000046",
-          "scheme": "Eating Establishment",
-          "id": "1a8a9fd6-9d72-4bf5-bf4f-e599681e4e72",
-          "postal": "519612"
-        },
-        {
-          "name": "Amethyst Pastry & Cakes",
-          "address": "524A JELAPANG ROAD #02-03 / 04 GREENRIDGE SHOPPING CENTRE 671524",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26070000001",
-          "scheme": "Eating Establishment",
-          "id": "3849867b-5cc8-4c6a-a6d9-355120afddeb",
-          "postal": "671524"
-        },
-        {
-          "name": "Halim's Fish Soup (S3)@Food Republic City Square Mall",
-          "address": "180 KITCHENER ROAD #B3-04 CITY SQUARE MALL, Stall 3 208539",
-          "type": "Hawker",
-          "number": "EEHK20240000912",
-          "scheme": "Eating Establishment",
-          "id": "0cd65362-d719-476a-80c7-f40a9d90a3c6",
-          "postal": "208539"
-        },
-        {
-          "name": "Halim's Fish Soup",
-          "address": "60 PAYA LEBAR ROAD #B1-51 BAGUS PAYA LEBAR SQUARE, STALL 3 409051",
-          "type": "Hawker",
-          "number": "EEHK26060000044",
-          "scheme": "Eating Establishment",
-          "id": "635a05b6-6fc5-4dbc-a84c-bc2257ab710f",
-          "postal": "409051"
-        },
-        {
-          "name": "BOON LAY CAFE",
-          "address": "301 BOON LAY WAY #01-12/13 BOON LAY MRT STATION 649846",
-          "type": "Restaurant",
-          "number": "EERN21040012249",
-          "scheme": "Eating Establishment",
-          "id": "5f07f24e-bc7f-4731-aeb5-7e4ed1eef377",
-          "postal": "649846"
-        },
-        {
-          "name": "Halim's Fish Soup",
-          "address": "7 PASIR RIS CENTRAL #B2-17 (MR3) @ BAGUS PASIR RIS MALL 519612",
-          "type": "Hawker",
-          "number": "EEHK26060000045",
-          "scheme": "Eating Establishment",
-          "id": "12aa51b2-1966-4c08-a5ac-7072d2d3e4b4",
-          "postal": "519612"
-        },
-        {
-          "name": "INDIAN COOKED FOOD CATERING SERVICE PTE. LTD.",
-          "address": "15 WOODLANDS LOOP #04-61 738322",
-          "type": "Catering Company",
-          "number": "FPCA20240000418",
-          "scheme": "Food Preparation Area",
-          "id": "15677e0a-1c19-49cb-b8fb-6756a2eab615",
-          "postal": "738322"
-        },
-        {
-          "name": "Tornado Egg Curry Rice. Donburi",
-          "address": "60 PAYA LEBAR ROAD #B1-51 (S4) BAGUS PAYA LEBAR SQUARE 409051",
-          "type": "Hawker",
-          "number": "EEHK26060000048",
-          "scheme": "Eating Establishment",
-          "id": "75e71afd-c210-4841-a1fa-bf878fe9f0ae",
-          "postal": "409051"
-        },
-        {
-          "name": "ABURI-SAN",
-          "address": "30 SEMBAWANG DRIVE #B1-10 SUN PLAZA 757713",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20230000818",
-          "scheme": "Eating Establishment",
-          "id": "3f360fb2-f9c8-4cbf-ae33-a2f77d12e578",
-          "postal": "757713"
-        },
-        {
-          "name": "Halim's Fish Soup",
-          "address": "17 PETIR ROAD #02-15/16/17/18/19/20 KOPITIAM FOOD HALL HILLION MALL, STALL 10 678278",
-          "type": "Hawker",
-          "number": "EEHK26060000059",
-          "scheme": "Eating Establishment",
-          "id": "12aa51b2-1966-4c08-a5ac-7072d2d3e4b4",
-          "postal": "678278"
-        },
-        {
-          "name": "Sedap Cafeteria @ Staff Canteen Tuas Power Station",
-          "address": "60 TUAS SOUTH AVENUE 9 637607",
-          "type": "Staff Canteen",
-          "number": "EESC20240000605",
-          "scheme": "Eating Establishment",
-          "id": "169540c8-d889-4ec0-980a-7a5d364b8bed",
-          "postal": "637607"
-        },
-        {
-          "name": "SAKANA-NO-SUPPU",
-          "address": "460 ALEXANDRA ROAD #02-42 MTOWER 119963",
-          "type": "Restaurant",
-          "number": "EERT25120000016",
-          "scheme": "Eating Establishment",
-          "id": "f1c43f81-9880-4e2e-bc15-91f70387372f",
-          "postal": "119963"
-        },
-        {
-          "name": "D'Laksa",
-          "address": "1 SENGKANG SQUARE #B1-46 COMPASS ONE 545078",
-          "type": "Restaurant",
-          "number": "EERN22020013456",
-          "scheme": "Eating Establishment",
-          "id": "66c5eaf3-e57f-479e-a136-359f7d7bea50",
-          "postal": "545078"
-        },
-        {
-          "name": "GYOZA-SAN",
-          "address": "5 STRAITS VIEW #B2-29 THE HEART 018935",
-          "type": "Restaurant",
-          "number": "EERT20230000817",
-          "scheme": "Eating Establishment",
-          "id": "d7dd2956-ed67-4c2a-8a86-2322548a0ac2",
-          "postal": "018935"
-        },
-        {
-          "name": "BOON LAY CAFE",
-          "address": "301 BOON LAY WAY #01-33 BOON LAY MRT STATION 649846",
-          "type": "Snack Bar / Bakery",
-          "number": "EEBN21040012191",
-          "scheme": "Eating Establishment",
-          "id": "5f07f24e-bc7f-4731-aeb5-7e4ed1eef377",
-          "postal": "649846"
-        },
-        {
-          "name": "Halims Fish Soup (S12) @ The Food Market Century Square",
-          "address": "2 TAMPINES CENTRAL 5 #03-19 CENTURY SQUARE, Stall 12 529509",
-          "type": "Hawker",
-          "number": "EEHN22020013190",
-          "scheme": "Eating Establishment",
-          "id": "e134fa83-e4fa-4c79-b054-1892a00fb045",
-          "postal": "529509"
-        },
-        {
-          "name": "MUNCHI PANCAKES",
-          "address": "1 VISTA EXCHANGE GREEN #B1-K1 THE STAR VISTA 138617",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26070000005",
-          "scheme": "Eating Establishment",
-          "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
-          "postal": "138617"
-        },
-        {
-          "name": "SUPER SUSHI",
-          "address": "50 JURONG GATEWAY ROAD #B1-28 JEM 608549",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26070000003",
-          "scheme": "Eating Establishment",
-          "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
-          "postal": "608549"
-        },
-        {
-          "name": "MUNCHI PANCAKES",
-          "address": "2A JALAN SEH CHUAN #01-020 Bukit Timah Wet Market & Food Centre (Interim), stall 20 599213",
-          "type": "Hawker",
-          "number": "EEHK26070000006",
-          "scheme": "Eating Establishment",
-          "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
-          "postal": "599213"
-        },
-        {
-          "name": "Telur Thai",
-          "address": "1 HOSPITAL CRESCENT Stall 03 SINGAPORE GENERAL HOSPITAL BLOCK 6, STALL 3, KOUFU 169608",
-          "type": "Hawker",
-          "number": "EEHK26060000067",
-          "scheme": "Eating Establishment",
-          "id": "032758d3-f10a-4b04-b3b2-a3382470cb78",
-          "postal": "169608"
-        },
-        {
-          "name": "KINGS CATERING PTE. LTD.",
-          "address": "THE GREAT FOOD ASSEMBLY, 1 RAFFLES BOULEVARD SUNTEC SINGAPORE CONVENTION & EXHIBITION CENTRE, 013 039593",
-          "type": "Short Term Stall(Bazaar/Road Shows)",
-          "number": "EEST26070000013",
-          "scheme": "Eating Establishment",
-          "id": "3aebba9a-10df-4696-a991-541ce5afb408",
-          "postal": "039593"
-        },
-        {
-          "name": "Bagus Staff Cafeteria @ RWS (Mngd By The Wok People)",
-          "address": "26 SENTOSA GATEWAY #B1-129 RESORTS WORLD SENTOSA 098138",
-          "type": "Staff Canteen",
-          "number": "EESC26060000036",
-          "scheme": "Eating Establishment",
-          "id": "b29cd806-01b3-452c-a493-68d2cb6cf7bd",
-          "postal": "098138"
-        }
-      ],
-      "removed": [
-        {
-          "name": "PRIMADELI",
-          "address": "351 ANCHORVALE ROAD #01-04 ANCHORVALE FIELDS 540351",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20250000727",
-          "scheme": "Eating Establishment",
-          "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
-          "postal": "540351"
-        },
-        {
-          "name": "SUBWAY",
-          "address": "9 WOODLANDS AVENUE 9 #01-02/03 REPUBLIC POLYTECHNIC 738964",
-          "type": "Restaurant",
-          "number": "EERN21110013109",
-          "scheme": "Eating Establishment",
-          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-          "postal": "738964"
-        },
-        {
-          "name": "Sanook Kitchen",
-          "address": "1 HARBOURFRONT WALK #B2-23C VIVO CITY 098585",
-          "type": "Restaurant",
-          "number": "EERT20220000545",
-          "scheme": "Eating Establishment",
-          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-          "postal": "098585"
         }
       ],
       "updated": []
