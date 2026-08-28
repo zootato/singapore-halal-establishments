@@ -1162,15 +1162,6 @@
   },
   {
     "name": "ALC RICE BOWLS",
-    "address": "311 NEW UPPER CHANGI ROAD #B2-K13 BEDOK INTEGRATED TRANSPORT HUB 467360",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB25100000138",
-    "scheme": "Eating Establishment",
-    "id": "932905ed-ec6e-46d9-80af-c099ef7ba866",
-    "postal": "467360"
-  },
-  {
-    "name": "ALC RICE BOWLS",
     "address": "1 WOODLANDS SQUARE #B1-K01 CAUSEWAY POINT 738099",
     "type": "Snack Bar / Bakery",
     "number": "EESB25120000017",
@@ -2566,21 +2557,21 @@
   },
   {
     "name": "Ayam Penyet Ria",
-    "address": "304 ORCHARD ROAD #04-25/26/27 LUCKY PLAZA 238863",
-    "type": "Restaurant",
-    "number": "EERN21030012197",
-    "scheme": "Eating Establishment",
-    "id": "eb1e3e82-e6d9-4f05-854f-be19d5f5031e",
-    "postal": "238863"
-  },
-  {
-    "name": "Ayam Penyet Ria",
     "address": "23 SERANGOON CENTRAL #01-57 NEX 556083",
     "type": "Restaurant",
     "number": "EERT20220001058",
     "scheme": "Eating Establishment",
     "id": "eb1e3e82-e6d9-4f05-854f-be19d5f5031e",
     "postal": "556083"
+  },
+  {
+    "name": "Ayam Penyet Ria",
+    "address": "304 ORCHARD ROAD #04-25/26/27 LUCKY PLAZA 238863",
+    "type": "Restaurant",
+    "number": "EERN21030012197",
+    "scheme": "Eating Establishment",
+    "id": "eb1e3e82-e6d9-4f05-854f-be19d5f5031e",
+    "postal": "238863"
   },
   {
     "name": "Ayam Penyet YB (S9) @ Jurong West Hawker Centre.",
@@ -2734,6 +2725,15 @@
     "scheme": "Eating Establishment",
     "id": "da0503ca-1962-4761-9a81-674b82f2b814",
     "postal": "649845"
+  },
+  {
+    "name": "BAKE INC",
+    "address": "826 TAMPINES STREET 81 TAMPINES GROVE #01-98 520826",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26080000121",
+    "scheme": "Eating Establishment",
+    "id": "da0503ca-1962-4761-9a81-674b82f2b814",
+    "postal": "520826"
   },
   {
     "name": "BAKE INC",
@@ -5536,15 +5536,6 @@
   },
   {
     "name": "CAT & THE FIDDLE",
-    "address": "3 GATEWAY DRIVE #01-11 WESTGATE 608532",
-    "type": "Restaurant",
-    "number": "EERT26010000110",
-    "scheme": "Eating Establishment",
-    "id": "40ac230f-34a1-45df-8a3e-ef049f3f2e1f",
-    "postal": "608532"
-  },
-  {
-    "name": "CAT & THE FIDDLE",
     "address": "9 BISHAN PLACE #02-32A JUNCTION 8 SHOPPING CENTRE 579837",
     "type": "Snack Bar / Bakery",
     "number": "EEBN21060012385",
@@ -5560,6 +5551,15 @@
     "scheme": "Eating Establishment",
     "id": "40ac230f-34a1-45df-8a3e-ef049f3f2e1f",
     "postal": "737737"
+  },
+  {
+    "name": "CAT & THE FIDDLE",
+    "address": "3 GATEWAY DRIVE #01-11 WESTGATE 608532",
+    "type": "Restaurant",
+    "number": "EERT26010000110",
+    "scheme": "Eating Establishment",
+    "id": "40ac230f-34a1-45df-8a3e-ef049f3f2e1f",
+    "postal": "608532"
   },
   {
     "name": "CAT & THE FIDDLE",
@@ -12384,6 +12384,15 @@
     "postal": "758215"
   },
   {
+    "name": "HARUM MANIS AUTHENTIC INDO-MALAY CUISINE",
+    "address": "8 GRANGE ROAD #B1-01/01A CATHAY CINELEISURE ORCHARD, MR 3, FOOD DYNASTY 239695",
+    "type": "Hawker",
+    "number": "EEHK26080000119",
+    "scheme": "Eating Establishment",
+    "id": "19a1ffba-b040-4aba-b11d-01b5152f8270",
+    "postal": "239695"
+  },
+  {
     "name": "HARYASIN WEDDING BIRYANI",
     "address": "14 CUFF ROAD #1st Storey LITTLE INDIA CONSERVATION AREA 209725",
     "type": "Restaurant",
@@ -15211,6 +15220,15 @@
   },
   {
     "name": "KENNY ROGERS ROASTERS",
+    "address": "180 KITCHENER ROAD #04-33,#04-34 CITY SQUARE MALL 208539",
+    "type": "Restaurant",
+    "number": "EERT26080000024",
+    "scheme": "Eating Establishment",
+    "id": "b54ccdf3-efe3-4c2d-9ea4-b450602754b5",
+    "postal": "208539"
+  },
+  {
+    "name": "KENNY ROGERS ROASTERS",
     "address": "70 COMPASSVALE BOW #01-60 544692",
     "type": "Restaurant",
     "number": "EERT20230000560",
@@ -15460,15 +15478,6 @@
     "scheme": "Eating Establishment",
     "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
     "postal": "556083"
-  },
-  {
-    "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
-    "address": "68 ORCHARD ROAD #B1-21/22 PLAZA SINGAPURA 238839",
-    "type": "Restaurant",
-    "number": "EERN21110012978",
-    "scheme": "Eating Establishment",
-    "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
-    "postal": "238839"
   },
   {
     "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
@@ -16300,6 +16309,15 @@
   },
   {
     "name": "Korea Culture",
+    "address": "2026 FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX, 25 PARK STREET, EVL 1447 018929",
+    "type": "Short Term Stall(Bazaar/Road Shows)",
+    "number": "EEST26080000134",
+    "scheme": "Eating Establishment",
+    "id": "3cdc1589-a08d-43fc-a5cd-793d1ace3f28",
+    "postal": "018929"
+  },
+  {
+    "name": "Korea Culture",
     "address": "65 AIRPORT BOULEVARD #03-33 CHANGI AIRPORT TERMINAL 3 819663",
     "type": "Restaurant",
     "number": "EERT20250000816",
@@ -16927,6 +16945,15 @@
     "scheme": "Eating Establishment",
     "id": "9b07fdc8-07e4-45b0-a216-94e600e264b8",
     "postal": "098138"
+  },
+  {
+    "name": "LE RAINBOW CATERING PTE LTD",
+    "address": "3015 BEDOK NORTH STREET 5 #04-11 SHIMEI EAST KITCHEN 486350",
+    "type": "Catering Company",
+    "number": "FPCA26080000132",
+    "scheme": "Food Preparation Area",
+    "id": "9e2586c9-5c79-4f1a-b2cd-271a8a1d823e",
+    "postal": "486350"
   },
   {
     "name": "LE RAINBOW CATERING PTE LTD",
@@ -26055,15 +26082,6 @@
     "postal": "569933"
   },
   {
-    "name": "RITZ'S KITCHEN",
-    "address": "338 JURONG EAST AVENUE 1 #01-1646 600338",
-    "type": "Restaurant",
-    "number": "EERN21020012166",
-    "scheme": "Eating Establishment",
-    "id": "73d27efa-b586-4639-baa6-7f96812efbad",
-    "postal": "600338"
-  },
-  {
     "name": "Ritz's Kitchen (Kitchen 14) @ Supply Chain City",
     "address": "8 BULIM AVENUE #02-04 648166",
     "type": "Hawker",
@@ -27007,15 +27025,6 @@
     "scheme": "Eating Establishment",
     "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
     "postal": "678278"
-  },
-  {
-    "name": "Sanook Kitchen",
-    "address": "10 SINARAN DRIVE #02-65/66/67 SQUARE 2 307506",
-    "type": "Restaurant",
-    "number": "EERT20230000878",
-    "scheme": "Eating Establishment",
-    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-    "postal": "307506"
   },
   {
     "name": "Sanook Kitchen",
@@ -28239,6 +28248,15 @@
     "number": "EEHK20250000690",
     "scheme": "Eating Establishment",
     "id": "d2bdf387-5391-4527-81f8-0e63665cf874",
+    "postal": "307591"
+  },
+  {
+    "name": "Soso Hainanese Chicken Rice",
+    "address": "101 THOMSON ROAD #B1-02/56M/56N/57/58/59 UNITED SQUARE, Stall 9, Food Dynasty 307591",
+    "type": "Hawker",
+    "number": "EEHK26080000117",
+    "scheme": "Eating Establishment",
+    "id": "8dd7f718-761b-454e-86fb-ffc09009fc2d",
     "postal": "307591"
   },
   {
@@ -30214,15 +30232,6 @@
   },
   {
     "name": "Sukiya Gyudon • Curry",
-    "address": "313 ORCHARD ROAD #B3-33/34 313 @ SOMERSET 238895",
-    "type": "Restaurant",
-    "number": "EERT20230000456",
-    "scheme": "Eating Establishment",
-    "id": "f25faa72-19a1-4c85-a920-fc1462f72292",
-    "postal": "238895"
-  },
-  {
-    "name": "Sukiya Gyudon • Curry",
     "address": "33 SENGKANG WEST AVENUE #01-28/29/30 THE SELETAR MALL 797653",
     "type": "Restaurant",
     "number": "EERT20230001020",
@@ -30238,6 +30247,15 @@
     "scheme": "Eating Establishment",
     "id": "f25faa72-19a1-4c85-a920-fc1462f72292",
     "postal": "129588"
+  },
+  {
+    "name": "Sukiya Gyudon • Curry",
+    "address": "313 ORCHARD ROAD #B3-33/34 313 @ SOMERSET 238895",
+    "type": "Restaurant",
+    "number": "EERT20230000456",
+    "scheme": "Eating Establishment",
+    "id": "f25faa72-19a1-4c85-a920-fc1462f72292",
+    "postal": "238895"
   },
   {
     "name": "Sukiya Gyudon • Curry",
@@ -32155,6 +32173,24 @@
     "scheme": "Food Preparation Area",
     "id": "36c5f862-0aca-4331-8b89-b47a857dedba",
     "postal": "486350"
+  },
+  {
+    "name": "Telur Thai",
+    "address": "55 LENGKOK BAHRU #01-387 777 Coffeshop, Stall 4 151055",
+    "type": "Hawker",
+    "number": "EEHK26080000124",
+    "scheme": "Eating Establishment",
+    "id": "a175aabb-f6c5-4db5-9e93-94431f5e7d7c",
+    "postal": "151055"
+  },
+  {
+    "name": "Telur Thai",
+    "address": "60 PAYA LEBAR ROAD #B1-51 PAYA LEBAR SQUARE, Bagus, Stall 10 409051",
+    "type": "Hawker",
+    "number": "EEHK26080000123",
+    "scheme": "Eating Establishment",
+    "id": "050079cc-22b8-4328-a4d0-261cbfaf14de",
+    "postal": "409051"
   },
   {
     "name": "Telur Thai",
