@@ -11160,6 +11160,15 @@
     "postal": "188067"
   },
   {
+    "name": "GELATO WHOLESALES COLLECTIVE PTE. LTD.",
+    "address": "21 TAMPINES STREET 92 #04-06 HERSING KITCHEN 528891",
+    "type": "Catering Company",
+    "number": "FPCA26080000135",
+    "scheme": "Food Preparation Area",
+    "id": "b535b743-5b4b-4d08-8a0e-b5871c83ffb6",
+    "postal": "528891"
+  },
+  {
     "name": "GENTLE DINING PTE. LTD.",
     "address": "8A ADMIRALTY STREET #07-12/13 FOOD XCHANGE @ ADMIRALTY 757437",
     "type": "Catering Company",
@@ -12373,6 +12382,15 @@
     "scheme": "Eating Establishment",
     "id": "2846ebf7-72b1-4e5d-9c17-bbc8d8aea67b",
     "postal": "530678"
+  },
+  {
+    "name": "HAPPY OVEN BAKERY PTE LTD",
+    "address": "23 TAMPINES STREET 92 #06-09 HERSING CENTRE 528892",
+    "type": "Central Kitchen",
+    "number": "FPCK26080000137",
+    "scheme": "Food Preparation Area",
+    "id": "e22957f1-1909-4e46-8a7f-9e22f55bd803",
+    "postal": "528892"
   },
   {
     "name": "HARA HONG KONG TIM SUM PTE LTD",
@@ -14983,6 +15001,24 @@
     "scheme": "Food Preparation Area",
     "id": "a067e262-272c-48d7-88d4-97d23a46ca7f",
     "postal": "757437"
+  },
+  {
+    "name": "KEBABCHI BIRYANI",
+    "address": "311 NEW UPPER CHANGI ROAD #01-12 BEDOK MALL 467360",
+    "type": "Restaurant",
+    "number": "EERT20240000091",
+    "scheme": "Eating Establishment",
+    "id": "2de1e03b-b6ec-4f20-9374-6d079e192450",
+    "postal": "467360"
+  },
+  {
+    "name": "KEBABCHI CHARCOAL BBQ",
+    "address": "3 TEMASEK BOULEVARD #B1-146 SUNTEC CITY MALL 038983",
+    "type": "Restaurant",
+    "number": "EERT20220000299",
+    "scheme": "Eating Establishment",
+    "id": "18013ddd-3a15-45e0-a2ec-63f0b3b4b594",
+    "postal": "038983"
   },
   {
     "name": "KEBABS FAKTORY",
@@ -18856,15 +18892,6 @@
   },
   {
     "name": "McDonald's",
-    "address": "180 KITCHENER ROAD #01-19/20-23 CITY SQUARE MALL 208539",
-    "type": "Restaurant",
-    "number": "EERT20240000910",
-    "scheme": "Eating Establishment",
-    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-    "postal": "208539"
-  },
-  {
-    "name": "McDonald's",
     "address": "11 BIDADARI PARK DRIVE #B1-11/12 THE WOODLEIGH MALL 367803",
     "type": "Restaurant",
     "number": "EERT20230000678",
@@ -19081,6 +19108,15 @@
   },
   {
     "name": "McDonald's",
+    "address": "180 KITCHENER ROAD #01-19/20-23 CITY SQUARE MALL 208539",
+    "type": "Restaurant",
+    "number": "EERT20240000910",
+    "scheme": "Eating Establishment",
+    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+    "postal": "208539"
+  },
+  {
+    "name": "McDonald's",
     "address": "633 TAMPINES NORTH DRIVE 2 #02-03 TAMPINES GREENCOURT 520633",
     "type": "Restaurant",
     "number": "EERT25100000143",
@@ -19252,15 +19288,6 @@
   },
   {
     "name": "McDonald's",
-    "address": "4 TAMPINES CENTRAL 5 #01-33 TAMPINES MALL 529510",
-    "type": "Restaurant",
-    "number": "EERN20020011044",
-    "scheme": "Eating Establishment",
-    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-    "postal": "529510"
-  },
-  {
-    "name": "McDonald's",
     "address": "1 JOO KOON CIRCLE #01-27-31 Fairprice Hub 629117",
     "type": "Restaurant",
     "number": "EERN20020011025",
@@ -19348,6 +19375,15 @@
     "scheme": "Eating Establishment",
     "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
     "postal": "529284"
+  },
+  {
+    "name": "McDonald's",
+    "address": "4 TAMPINES CENTRAL 5 #01-33 TAMPINES MALL 529510",
+    "type": "Restaurant",
+    "number": "EERN20020011044",
+    "scheme": "Eating Establishment",
+    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+    "postal": "529510"
   },
   {
     "name": "McDonald's",
@@ -21463,15 +21499,6 @@
     "scheme": "Eating Establishment",
     "id": "62cc2c4f-0b17-4027-815b-7c8e667d1517",
     "postal": "730900"
-  },
-  {
-    "name": "MY SAAP SAAP THAI",
-    "address": "1 Lower Kent Ridge Road #01-16/17 NUH MEDICAL CENTRE 119082",
-    "type": "Restaurant",
-    "number": "EERN21060012448",
-    "scheme": "Eating Establishment",
-    "id": "9755e0bc-ad15-4b80-a18d-2a61afe5f5c5",
-    "postal": "119082"
   },
   {
     "name": "My Spice Affair",
@@ -27450,6 +27477,15 @@
     "postal": "415936"
   },
   {
+    "name": "SEDAP",
+    "address": "201D TAMPINES STREET 21 #01-K3 524201",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26080000130",
+    "scheme": "Eating Establishment",
+    "id": "d8b2a90d-de20-4d33-a4fd-0eaaff4bfcde",
+    "postal": "524201"
+  },
+  {
     "name": "Sedap Cafeteria @ Staff Canteen Tuas Power Station",
     "address": "60 TUAS SOUTH AVENUE 9 637607",
     "type": "Staff Canteen",
@@ -29269,24 +29305,6 @@
   },
   {
     "name": "SUBWAY",
-    "address": "80 STAMFORD ROAD #01-62 SINGAPORE MANAGEMENT UNIVERSITY 178902",
-    "type": "Restaurant",
-    "number": "EERN21110013136",
-    "scheme": "Eating Establishment",
-    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-    "postal": "178902"
-  },
-  {
-    "name": "SUBWAY",
-    "address": "313 ORCHARD ROAD #B3-01 313 @ SOMERSET 238895",
-    "type": "Restaurant",
-    "number": "EERN21110013158",
-    "scheme": "Eating Establishment",
-    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-    "postal": "238895"
-  },
-  {
-    "name": "SUBWAY",
     "address": "1 VISTA EXCHANGE GREEN #01-22 THE STAR VISTA 138617",
     "type": "Restaurant",
     "number": "EERT20220001033",
@@ -29500,6 +29518,24 @@
     "scheme": "Eating Establishment",
     "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
     "postal": "367803"
+  },
+  {
+    "name": "SUBWAY",
+    "address": "80 STAMFORD ROAD #01-62 SINGAPORE MANAGEMENT UNIVERSITY 178902",
+    "type": "Restaurant",
+    "number": "EERN21110013136",
+    "scheme": "Eating Establishment",
+    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+    "postal": "178902"
+  },
+  {
+    "name": "SUBWAY",
+    "address": "313 ORCHARD ROAD #B3-01 313 @ SOMERSET 238895",
+    "type": "Restaurant",
+    "number": "EERN21110013158",
+    "scheme": "Eating Establishment",
+    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+    "postal": "238895"
   },
   {
     "name": "SUBWAY",
