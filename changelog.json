@@ -1,5 +1,114 @@
 [
   {
+    "timestamp": "2026-09-01T01:20:39.159805",
+    "date": "2026-09-01",
+    "summary": {
+      "new": 5,
+      "removed": 3,
+      "updated": 1
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Dou",
+          "address": "419 TAMPINES STREET 41 Stall 6 @ 410 F&B #01-80 SUN PLAZA GARDENS 520419",
+          "type": "Hawker",
+          "number": "EEHK26030000066",
+          "scheme": "Eating Establishment",
+          "id": "b85a4ca2-0213-4b54-a8df-b9864880b361",
+          "postal": "520419"
+        },
+        {
+          "name": "Chewy Junior",
+          "address": "1 PASIR RIS CENTRAL STREET 3 #B1-K07 WHITE SANDS 518457",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26030000021",
+          "scheme": "Eating Establishment",
+          "id": "e771787a-3073-49e7-946c-d641dbf56153",
+          "postal": "518457"
+        },
+        {
+          "name": "Dou (Stall 4) @ BK 824 Tampines",
+          "address": "824 TAMPINES STREET 81 #01-38 TAMPINES GROVE, Stall 4 520824",
+          "type": "Hawker",
+          "number": "EEHK20240000749",
+          "scheme": "Eating Establishment",
+          "id": "b9e78408-8b8b-46d0-9bf4-b1856f2cba70",
+          "postal": "520824"
+        },
+        {
+          "name": "Staff Cafeteria @ Medtronic Singapore Managed By The Wok People",
+          "address": "49 CHANGI SOUTH AVENUE 2 #Level 1 NASACO TECH CENTRE 486056",
+          "type": "Staff Canteen",
+          "number": "EESC20250000800",
+          "scheme": "Eating Establishment",
+          "id": "4eebfa0c-75f5-4f1e-b4e7-73723995fb43",
+          "postal": "486056"
+        },
+        {
+          "name": "New Hope Food Industries Pte Ltd (Mngd by Polar Puffs & Cakes)",
+          "address": "982C UPPER CHANGI ROAD NORTH BLOCK A3 LEVEL 1 WORKSHOP1-WO1 506980",
+          "type": "Central Kitchen",
+          "number": "FPCX20040001360",
+          "scheme": "Food Preparation Area",
+          "id": "a57363f4-3804-47ed-b130-529c63d2f453",
+          "postal": "506980"
+        }
+      ],
+      "removed": [
+        {
+          "name": "SAKON THAI",
+          "address": "1 NORTHPOINT DRIVE #01-129 NORTHPOINT CITY 768019",
+          "type": "Restaurant",
+          "number": "EERT20220000714",
+          "scheme": "Eating Establishment",
+          "id": "4d60624a-70ec-4812-8be4-993ad3bc5831",
+          "postal": "768019"
+        },
+        {
+          "name": "STUFF'D",
+          "address": "1 HARBOUR FRONT WALK #B2-K18 VIVO CITY 098585",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21110012925",
+          "scheme": "Eating Establishment",
+          "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
+          "postal": "098585"
+        },
+        {
+          "name": "STUFF'D",
+          "address": "21 CHOA CHU KANG NORTH 6 #B1-50 YEWTEE POINT 689578",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21110012926",
+          "scheme": "Eating Establishment",
+          "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
+          "postal": "689578"
+        }
+      ],
+      "updated": [
+        {
+          "previous": {
+            "name": "McDonald's",
+            "address": "4 BUKIT BATOK STREET 41 #01-42-45/50-54 LE QUEST 657991",
+            "type": "Restaurant",
+            "number": "EERN21010011971",
+            "scheme": "Eating Establishment",
+            "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+            "postal": "657991"
+          },
+          "current": {
+            "name": "McDonald's",
+            "address": "4 BUKIT BATOK STREET 41 #01-42/43/44/45/50/51/52/53/54 LE QUEST 657991",
+            "type": "Restaurant",
+            "number": "EERN21010011971",
+            "scheme": "Eating Establishment",
+            "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+            "postal": "657991"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-08-31T00:29:48.640260",
     "date": "2026-08-31",
     "summary": {
@@ -10971,40 +11080,6 @@
           }
         }
       ]
-    }
-  },
-  {
-    "timestamp": "2026-07-05T23:15:01.004126",
-    "date": "2026-07-05",
-    "summary": {
-      "new": 1,
-      "removed": 1,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "OLD CHANG KEE",
-          "address": "1 MARITIME SQUARE #02-20B HARBOURFRONT CENTRE 099253",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20220000439",
-          "scheme": "Eating Establishment",
-          "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
-          "postal": "099253"
-        }
-      ],
-      "removed": [
-        {
-          "name": "KINGS CATERING PTE. LTD.",
-          "address": "THE GREAT FOOD ASSEMBLY, 1 RAFFLES BOULEVARD SUNTEC SINGAPORE CONVENTION & EXHIBITION CENTRE, 013 039593",
-          "type": "Short Term Stall(Bazaar/Road Shows)",
-          "number": "EEST26070000013",
-          "scheme": "Eating Establishment",
-          "id": "3aebba9a-10df-4696-a991-541ce5afb408",
-          "postal": "039593"
-        }
-      ],
-      "updated": []
     }
   }
 ]

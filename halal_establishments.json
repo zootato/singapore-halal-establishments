@@ -4735,6 +4735,15 @@
   },
   {
     "name": "Chewy Junior",
+    "address": "1 PASIR RIS CENTRAL STREET 3 #B1-K07 WHITE SANDS 518457",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26030000021",
+    "scheme": "Eating Establishment",
+    "id": "e771787a-3073-49e7-946c-d641dbf56153",
+    "postal": "518457"
+  },
+  {
+    "name": "Chewy Junior",
     "address": "230 VICTORIA STREET #B1-12 BUGIS JUNCTION TOWERS 188024",
     "type": "Snack Bar / Bakery",
     "number": "EESB20250000675",
@@ -7300,6 +7309,15 @@
   },
   {
     "name": "Dou",
+    "address": "419 TAMPINES STREET 41 Stall 6 @ 410 F&B #01-80 SUN PLAZA GARDENS 520419",
+    "type": "Hawker",
+    "number": "EEHK26030000066",
+    "scheme": "Eating Establishment",
+    "id": "b85a4ca2-0213-4b54-a8df-b9864880b361",
+    "postal": "520419"
+  },
+  {
+    "name": "Dou",
     "address": "2A MANDAI ESTATE #06-07/08 CT FOODNEX 729928",
     "type": "Central Kitchen",
     "number": "FPCK26080000087",
@@ -7387,6 +7405,15 @@
     "scheme": "Eating Establishment",
     "id": "bd865792-97e7-48b9-85cf-a34551550fbf",
     "postal": "821431"
+  },
+  {
+    "name": "Dou (Stall 4) @ BK 824 Tampines",
+    "address": "824 TAMPINES STREET 81 #01-38 TAMPINES GROVE, Stall 4 520824",
+    "type": "Hawker",
+    "number": "EEHK20240000749",
+    "scheme": "Eating Establishment",
+    "id": "b9e78408-8b8b-46d0-9bf4-b1856f2cba70",
+    "postal": "520824"
   },
   {
     "name": "Double K (S6) @ S11 Woodlands",
@@ -10747,15 +10774,6 @@
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
-    "address": "451 CLEMENTI AVENUE 3 #01-307 120451",
-    "type": "Central Kitchen",
-    "number": "FPCK20220001036",
-    "scheme": "Food Preparation Area",
-    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
-    "postal": "120451"
-  },
-  {
-    "name": "Halal Section @ NTUC FAIRPRICE",
     "address": "80 MARINE PARADE ROAD #03-28 PARKWAY PARADE 449269",
     "type": "Central Kitchen",
     "number": "FPCN21050001520",
@@ -10798,6 +10816,15 @@
     "scheme": "Food Preparation Area",
     "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
     "postal": "829857"
+  },
+  {
+    "name": "Halal Section @ NTUC FAIRPRICE",
+    "address": "451 CLEMENTI AVENUE 3 #01-307 120451",
+    "type": "Central Kitchen",
+    "number": "FPCK20220001036",
+    "scheme": "Food Preparation Area",
+    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
+    "postal": "120451"
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
@@ -17236,7 +17263,7 @@
   },
   {
     "name": "McDonald's",
-    "address": "4 BUKIT BATOK STREET 41 #01-42-45/50-54 LE QUEST 657991",
+    "address": "4 BUKIT BATOK STREET 41 #01-42/43/44/45/50/51/52/53/54 LE QUEST 657991",
     "type": "Restaurant",
     "number": "EERN21010011971",
     "scheme": "Eating Establishment",
@@ -18838,15 +18865,6 @@
   },
   {
     "name": "MR BEAN",
-    "address": "201 BOON LAY WAY #01-02 LAKESIDE MRT STATION 649845",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20220000186",
-    "scheme": "Eating Establishment",
-    "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
-    "postal": "649845"
-  },
-  {
-    "name": "MR BEAN",
     "address": "445 FAJAR ROAD #01-540 FAJAR SHOPPING CENTRE 670445",
     "type": "Snack Bar / Bakery",
     "number": "EESB20220000175",
@@ -19096,6 +19114,15 @@
     "scheme": "Eating Establishment",
     "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
     "postal": "649846"
+  },
+  {
+    "name": "MR BEAN",
+    "address": "201 BOON LAY WAY #01-02 LAKESIDE MRT STATION 649845",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20220000186",
+    "scheme": "Eating Establishment",
+    "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
+    "postal": "649845"
   },
   {
     "name": "MR BEAN",
@@ -20248,6 +20275,15 @@
     "scheme": "Eating Establishment",
     "id": "3c8f5a39-400a-439c-9dda-32d34c4fbdd0",
     "postal": "768897"
+  },
+  {
+    "name": "New Hope Food Industries Pte Ltd (Mngd by Polar Puffs & Cakes)",
+    "address": "982C UPPER CHANGI ROAD NORTH BLOCK A3 LEVEL 1 WORKSHOP1-WO1 506980",
+    "type": "Central Kitchen",
+    "number": "FPCX20040001360",
+    "scheme": "Food Preparation Area",
+    "id": "a57363f4-3804-47ed-b130-529c63d2f453",
+    "postal": "506980"
   },
   {
     "name": "New Korean Food",
@@ -24453,15 +24489,6 @@
     "postal": "519599"
   },
   {
-    "name": "SAKON THAI",
-    "address": "1 NORTHPOINT DRIVE #01-129 NORTHPOINT CITY 768019",
-    "type": "Restaurant",
-    "number": "EERT20220000714",
-    "scheme": "Eating Establishment",
-    "id": "4d60624a-70ec-4812-8be4-993ad3bc5831",
-    "postal": "768019"
-  },
-  {
     "name": "SAKON THAI VILLAGE",
     "address": "302 TIONG BAHRU ROAD #02-135 TIONG BAHRU PLAZA 168732",
     "type": "Restaurant",
@@ -26236,15 +26263,6 @@
   },
   {
     "name": "SPRINGLEAF PRATA PLACE",
-    "address": "1 WOODLANDS ROAD #01-25 JUNCTION 10 677899",
-    "type": "Restaurant",
-    "number": "EERN21060012485",
-    "scheme": "Eating Establishment",
-    "id": "97aab0ac-414e-458a-9758-d335f07b1e6b",
-    "postal": "677899"
-  },
-  {
-    "name": "SPRINGLEAF PRATA PLACE",
     "address": "333 BOON LAY WAY #2c-01 SAFRA CLUBHOUSE (JURONG) 649848",
     "type": "Restaurant",
     "number": "EERN21060012483",
@@ -26269,6 +26287,15 @@
     "scheme": "Eating Establishment",
     "id": "97aab0ac-414e-458a-9758-d335f07b1e6b",
     "postal": "519599"
+  },
+  {
+    "name": "SPRINGLEAF PRATA PLACE",
+    "address": "1 WOODLANDS ROAD #01-25 JUNCTION 10 677899",
+    "type": "Restaurant",
+    "number": "EERN21060012485",
+    "scheme": "Eating Establishment",
+    "id": "97aab0ac-414e-458a-9758-d335f07b1e6b",
+    "postal": "677899"
   },
   {
     "name": "SPRINGLEAF PRATA PLACE",
@@ -26377,6 +26404,15 @@
     "scheme": "Eating Establishment",
     "id": "93bbf601-5fc9-4d4d-900e-9b861e7f2d05",
     "postal": "609831"
+  },
+  {
+    "name": "Staff Cafeteria @ Medtronic Singapore Managed By The Wok People",
+    "address": "49 CHANGI SOUTH AVENUE 2 #Level 1 NASACO TECH CENTRE 486056",
+    "type": "Staff Canteen",
+    "number": "EESC20250000800",
+    "scheme": "Eating Establishment",
+    "id": "4eebfa0c-75f5-4f1e-b4e7-73723995fb43",
+    "postal": "486056"
   },
   {
     "name": "Staff Cafeteria @ Pfizer Asia Mnfg (Mngd by The Wok People)",
@@ -27007,24 +27043,6 @@
     "scheme": "Eating Establishment",
     "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
     "postal": "556083"
-  },
-  {
-    "name": "STUFF'D",
-    "address": "1 HARBOUR FRONT WALK #B2-K18 VIVO CITY 098585",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN21110012925",
-    "scheme": "Eating Establishment",
-    "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
-    "postal": "098585"
-  },
-  {
-    "name": "STUFF'D",
-    "address": "21 CHOA CHU KANG NORTH 6 #B1-50 YEWTEE POINT 689578",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN21110012926",
-    "scheme": "Eating Establishment",
-    "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
-    "postal": "689578"
   },
   {
     "name": "STUFF'D",
@@ -32293,21 +32311,21 @@
   },
   {
     "name": "Tim Hortons",
-    "address": "68 ORCHARD ROAD #02-K2,#02-K3,#02-K5,#02-K6 #02-K1 PLAZA SINGAPURA 238839",
-    "type": "Restaurant",
-    "number": "EERT26020000010",
-    "scheme": "Eating Establishment",
-    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-    "postal": "238839"
-  },
-  {
-    "name": "Tim Hortons",
     "address": "9 RAFFLES BOULEVARD #01-87 #01-86 MILLENIA WALK 039596",
     "type": "Restaurant",
     "number": "EERT26020000014",
     "scheme": "Eating Establishment",
     "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
     "postal": "039596"
+  },
+  {
+    "name": "Tim Hortons",
+    "address": "68 ORCHARD ROAD #02-K2,#02-K3,#02-K5,#02-K6 #02-K1 PLAZA SINGAPURA 238839",
+    "type": "Restaurant",
+    "number": "EERT26020000010",
+    "scheme": "Eating Establishment",
+    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+    "postal": "238839"
   },
   {
     "name": "Tim Hortons",
