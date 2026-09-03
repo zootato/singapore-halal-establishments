@@ -1,5 +1,327 @@
 [
   {
+    "timestamp": "2026-09-03T00:05:57.198350",
+    "date": "2026-09-03",
+    "summary": {
+      "new": 32,
+      "removed": 2,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "PRIMADELI",
+          "address": "1 PASIR RIS CLOSE 02-K3/K4 E!HUB@DOWNTOWN EAST 519599",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000732",
+          "scheme": "Eating Establishment",
+          "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+          "postal": "519599"
+        },
+        {
+          "name": "BAKER'S OVEN",
+          "address": "50 BUKIT BATOK EAST AVENUE 3 SPC Petrol Station 659879",
+          "type": "Food Kiosk",
+          "number": "EEFK20240000754",
+          "scheme": "Eating Establishment",
+          "id": "56c4d6d6-2158-4e63-9107-3cb2b9a621f6",
+          "postal": "659879"
+        },
+        {
+          "name": "Staff Canteen @ HPAM SG P/L (Mngd By ISS CTRG SVS P/L)",
+          "address": "452 ALEXANDRA ROAD #04 HP 119961",
+          "type": "Staff Canteen",
+          "number": "EESC26080000051",
+          "scheme": "Eating Establishment",
+          "id": "d5113f9e-44ff-4a6e-ab84-a2df6e261f1d",
+          "postal": "119961"
+        },
+        {
+          "name": "Neo Group Bakery Pte Ltd",
+          "address": "30B QUALITY ROAD 06-01/02 618826",
+          "type": "Central Kitchen",
+          "number": "FPCK20250000726",
+          "scheme": "Food Preparation Area",
+          "id": "17d11e5a-5f06-4e37-a822-d7ed44246cc0",
+          "postal": "618826"
+        },
+        {
+          "name": "BAKER'S OVEN PATTISIERIES",
+          "address": "1E SENOKO CRESCENT SENOKO FOOD CONNECTION 758287",
+          "type": "Central Kitchen",
+          "number": "FPCN22020001667",
+          "scheme": "Food Preparation Area",
+          "id": "7084609b-9662-4ef9-ae7f-0ceced1caf74",
+          "postal": "758287"
+        },
+        {
+          "name": "L & M Seafood",
+          "address": "495 JURONG WEST STREET 41 #01-#106, Stall No 7@Foodhub 640495",
+          "type": "Hawker",
+          "number": "EEHK26080000140",
+          "scheme": "Eating Establishment",
+          "id": "a270c4f1-833f-4f1b-9f64-fad74f459d26",
+          "postal": "640495"
+        },
+        {
+          "name": "PRIMADELI",
+          "address": "5 Changi Business Park Central 1 #B1-05 Changi City Point 486038",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000730",
+          "scheme": "Eating Establishment",
+          "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+          "postal": "486038"
+        },
+        {
+          "name": "PRIMADELI",
+          "address": "1 PASIR RIS CENTRAL STREET 3 #B1-K15 WHITE SANDS 518457",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000751",
+          "scheme": "Eating Establishment",
+          "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+          "postal": "518457"
+        },
+        {
+          "name": "F&B Concepts Singapore Pte Ltd",
+          "address": "5 MANDAI LINK #07-03 MANDAI FOODLINK 728654",
+          "type": "Central Kitchen",
+          "number": "FPCK20250000797",
+          "scheme": "Food Preparation Area",
+          "id": "3b796f51-9a3d-4c52-90e3-9fb953d92810",
+          "postal": "728654"
+        },
+        {
+          "name": "Dapur Pandan",
+          "address": "177 PANDAN LOOP, UNIT 3 (PART OF) 128460",
+          "type": "Catering Company",
+          "number": "FPCA20240000680",
+          "scheme": "Food Preparation Area",
+          "id": "c3f470a3-2820-4c3b-99b1-6851cfd90d79",
+          "postal": "128460"
+        },
+        {
+          "name": "FUSION WESTERN CUISINE",
+          "address": "844 TAMPINES STREET 82 #01-131 TAMPINES VILLE, (S8) @ FoodHUB 520844",
+          "type": "Hawker",
+          "number": "EEHK26080000122",
+          "scheme": "Eating Establishment",
+          "id": "225d8367-2c75-4a77-8421-bebb4401ae7d",
+          "postal": "520844"
+        },
+        {
+          "name": "PRIMADELI",
+          "address": "1 WOODLANDS SQUARE #B1-K23 CAUSEWAY POINT 738099",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000731",
+          "scheme": "Eating Establishment",
+          "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+          "postal": "738099"
+        },
+        {
+          "name": "BAKER'S OVEN",
+          "address": "91 SENGKANG EAST WAY 544885",
+          "type": "Food Kiosk",
+          "number": "EEFK20240000752",
+          "scheme": "Eating Establishment",
+          "id": "56c4d6d6-2158-4e63-9107-3cb2b9a621f6",
+          "postal": "544885"
+        },
+        {
+          "name": "UFS FOOD INDUSTRIES PTE. LTD.",
+          "address": "177 PANDAN LOOP 128460",
+          "type": "Catering Company",
+          "number": "FPCA20230000663",
+          "scheme": "Food Preparation Area",
+          "id": "bec147f5-11a1-48cc-b0c2-ed32bd17d556",
+          "postal": "128460"
+        },
+        {
+          "name": "PRIMADELI",
+          "address": "83 PUNGGOL CENTRAL #B1-K11 WATERWAY POINT 828761",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000750",
+          "scheme": "Eating Establishment",
+          "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+          "postal": "828761"
+        },
+        {
+          "name": "PRIMADELI",
+          "address": "272 BUKIT BATOK EAST AVENUE 4 #01-76 650272",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000728",
+          "scheme": "Eating Establishment",
+          "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+          "postal": "650272"
+        },
+        {
+          "name": "PRIMADELI",
+          "address": "201B TAMPINES STREET 21 #01-1089 522201",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000745",
+          "scheme": "Eating Establishment",
+          "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+          "postal": "522201"
+        },
+        {
+          "name": "PRIMADELI",
+          "address": "1 JELEBU ROAD #02-21 BUKIT PANJANG PLAZA 677743",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26040000053",
+          "scheme": "Eating Establishment",
+          "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+          "postal": "677743"
+        },
+        {
+          "name": "BAKER'S OVEN",
+          "address": "41 BUKIT PANJANG RING ROAD 679945",
+          "type": "Food Kiosk",
+          "number": "EEFK20240000751",
+          "scheme": "Eating Establishment",
+          "id": "56c4d6d6-2158-4e63-9107-3cb2b9a621f6",
+          "postal": "679945"
+        },
+        {
+          "name": "PRIMADELI",
+          "address": "476 TAMPINES STREET 44 #01-195 520476",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000746",
+          "scheme": "Eating Establishment",
+          "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+          "postal": "520476"
+        },
+        {
+          "name": "PRIMADELI",
+          "address": "18 YISHUN AVENUE 9 #02-61 JUNCTION NINE 768897",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000736",
+          "scheme": "Eating Establishment",
+          "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+          "postal": "768897"
+        },
+        {
+          "name": "PRIMADELI",
+          "address": "10 EUNOS ROAD 8 #B1-164 SINGAPORE POST CENTRE 408600",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000742",
+          "scheme": "Eating Establishment",
+          "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+          "postal": "408600"
+        },
+        {
+          "name": "PRIMADELI",
+          "address": "866A TAMPINES STREET 83 #01-03 TAMPINES CENTRAL COMMUNITY COMPLEX 521866",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000749",
+          "scheme": "Eating Establishment",
+          "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+          "postal": "521866"
+        },
+        {
+          "name": "BAKER'S OVEN",
+          "address": "10 SUMANG LINK 828805",
+          "type": "Food Kiosk",
+          "number": "EEFK20240000753",
+          "scheme": "Eating Establishment",
+          "id": "56c4d6d6-2158-4e63-9107-3cb2b9a621f6",
+          "postal": "828805"
+        },
+        {
+          "name": "PRIMADELI",
+          "address": "3 SIMEI STREET 6 #B1-K4 EASTPOINT MALL 528833",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000734",
+          "scheme": "Eating Establishment",
+          "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+          "postal": "528833"
+        },
+        {
+          "name": "PRIMADELI",
+          "address": "168 PUNGGOL FIELD #01-18 PUNGGOL PLAZA 820168",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000740",
+          "scheme": "Eating Establishment",
+          "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+          "postal": "820168"
+        },
+        {
+          "name": "PRIMADELI",
+          "address": "311 NEW UPPER CHANGI ROAD #B2-K6 BEDOK MALL 467360",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000729",
+          "scheme": "Eating Establishment",
+          "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+          "postal": "467360"
+        },
+        {
+          "name": "PRIMADELI",
+          "address": "930 YISHUN AVENUE 2 #B1-40 NORTHPOINT CITY (NORTH WING) 769098",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000739",
+          "scheme": "Eating Establishment",
+          "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+          "postal": "769098"
+        },
+        {
+          "name": "BAKER'S OVEN",
+          "address": "2761 ANG MO KIO AVENUE 5 SPC SERVICE STATION 569866",
+          "type": "Food Kiosk",
+          "number": "EEFK20240000755",
+          "scheme": "Eating Establishment",
+          "id": "56c4d6d6-2158-4e63-9107-3cb2b9a621f6",
+          "postal": "569866"
+        },
+        {
+          "name": "PRIMADELI",
+          "address": "21 CHOA CHU KANG AVENUE 4 #B1-K25 LOT ONE, SHOPPERS' MALL 689812",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000738",
+          "scheme": "Eating Establishment",
+          "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+          "postal": "689812"
+        },
+        {
+          "name": "PRIMADELI",
+          "address": "399 YUNG SHENG ROAD #01-17 TAMAN JURONG SHOPPING CENTRE 610399",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000743",
+          "scheme": "Eating Establishment",
+          "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+          "postal": "610399"
+        },
+        {
+          "name": "PRIMADELI",
+          "address": "828 TAMPINES STREET 81 #01-250 520828",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000744",
+          "scheme": "Eating Establishment",
+          "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+          "postal": "520828"
+        }
+      ],
+      "removed": [
+        {
+          "name": "TENDERFRESH XPRESS",
+          "address": "118 RIVERVALE DRIVE #01-K18/k19 Rivervale Plaza 540118",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26040000057",
+          "scheme": "Eating Establishment",
+          "id": "fa23a2c4-12e6-4c0a-aa89-d3552d6d92cb",
+          "postal": "540118"
+        },
+        {
+          "name": "TIP TOP",
+          "address": "1 PASIR RIS CLOSE #02-109 E!HUB@DOWNTOWN EAST 519599",
+          "type": "Restaurant",
+          "number": "EERT20240000728",
+          "scheme": "Eating Establishment",
+          "id": "87a00d7d-0af0-4000-be56-7b7facc1c180",
+          "postal": "519599"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-09-02T00:04:44.666492",
     "date": "2026-09-02",
     "summary": {
@@ -11052,30 +11374,6 @@
           "postal": "545078"
         }
       ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-07-07T23:14:58.430226",
-    "date": "2026-07-07",
-    "summary": {
-      "new": 1,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "CHEF IBU",
-          "address": "70 JELLICOE ROAD #01-11 V HOTEL 208767",
-          "type": "Snack Bar / Bakery",
-          "number": "EEBN21050012279",
-          "scheme": "Eating Establishment",
-          "id": "3371c597-0520-45fe-8482-1682eda55224",
-          "postal": "208767"
-        }
-      ],
-      "removed": [],
       "updated": []
     }
   }
