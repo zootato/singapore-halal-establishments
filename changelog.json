@@ -1,5 +1,426 @@
 [
   {
+    "timestamp": "2026-09-04T00:01:53.037666",
+    "date": "2026-09-04",
+    "summary": {
+      "new": 40,
+      "removed": 5,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "1 JURONG WEST CENTRAL 2 #B1-11 JURONG POINT 648886",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20040011251",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "648886"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "1 WOODLANDS SQUARE #B1-K07 CAUSEWAY POINT 738099",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBX20040011257",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "738099"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "133 NEW BRIDGE ROAD #B1-24 CHINATOWN POINT 059413",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240001130",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "059413"
+        },
+        {
+          "name": "POLAR CAFE",
+          "address": "11 JALAN TAN TOCK SENG #01-04 TAN TOCK SENG HOSPITAL 308433",
+          "type": "Restaurant",
+          "number": "EERN20030011242",
+          "scheme": "Eating Establishment",
+          "id": "ad978a29-b580-4c9b-9123-4bc1bb79e7cc",
+          "postal": "308433"
+        },
+        {
+          "name": "Nanyang Cafe",
+          "address": "9 WOODLANDS AVENUE 9 #02-00 REPUBLIC POLYTECHNIC 738964",
+          "type": "Hawker",
+          "number": "EEHN21100012724",
+          "scheme": "Eating Establishment",
+          "id": "732a250f-a373-49a6-9a71-3189fce5992b",
+          "postal": "738964"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "21 CHOA CHU KANG AVENUE 4 #B1-K20 689812",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20040011250",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "689812"
+        },
+        {
+          "name": "POLAR CAFE",
+          "address": "1 RAFFLES PLACE #B1-01 ONE RAFFLES PLACE 048616",
+          "type": "Restaurant",
+          "number": "EERT20230000450",
+          "scheme": "Eating Establishment",
+          "id": "ad978a29-b580-4c9b-9123-4bc1bb79e7cc",
+          "postal": "048616"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "33 Sengkang West Ave #B2-K3 The Seletar Mall 797653",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBX20040010690",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "797653"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "10 PAYA LEBAR ROAD #B2-K6 PAYA LEBAR QUARTER 409057",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26020000063",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "409057"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "100 BUKIT TIMAH ROAD #01-34 KK WOMEN'S AND CHILDREN'S HOSPITAL 229899",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20030010670",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "229899"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "302 TIONG BAHRU ROAD #B1-K10 TIONG BAHRU PLAZA 168732",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20030010680",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "168732"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "4 TAMPINES CENTRAL 5 #B1-K14 TAMPINES MALL 529510",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20040010689",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "529510"
+        },
+        {
+          "name": "POLAR CAFE",
+          "address": "110 Sengkang East Way #01-02 Sengkang General Hospital 544886",
+          "type": "Restaurant",
+          "number": "EERN20040011375",
+          "scheme": "Eating Establishment",
+          "id": "ad978a29-b580-4c9b-9123-4bc1bb79e7cc",
+          "postal": "544886"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "10 SINARAN DRIVE #B1-127 SQUARE 2 307506",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBX20030010672",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "307506"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "11 BIDADARI PARK DRIVE #B1-K13 THE WOODLEIGH MALL 367803",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000844",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "367803"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "1 VISTA EXCHANGE GREEN #01-47 THE STAR VISTA 138617",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26080000039",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "138617"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "90 HOUGANG AVENUE 10 #B1-K9 HOUGANG MALL 538766",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20040010691",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "538766"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "50 KALLANG ROAD #B1-02 LAVENDER MRT STATION (EW11) 208699",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26020000065",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "208699"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "820 THOMSON ROAD #01-31B MOUNT ALVERNIA HOSPITAL 574623",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20060011283",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "574623"
+        },
+        {
+          "name": "POLAR CAFE",
+          "address": "1 LOWER KENT RIDGE ROAD #01-03/04/22 NUH MEDICAL CENTRE 119082",
+          "type": "Restaurant",
+          "number": "EERT20230001211",
+          "scheme": "Eating Establishment",
+          "id": "ad978a29-b580-4c9b-9123-4bc1bb79e7cc",
+          "postal": "119082"
+        },
+        {
+          "name": "POLAR CAFE",
+          "address": "17 WOODLANDS DRIVE 17 #B2-01 737628",
+          "type": "Restaurant",
+          "number": "EERT20240001260",
+          "scheme": "Eating Establishment",
+          "id": "ad978a29-b580-4c9b-9123-4bc1bb79e7cc",
+          "postal": "737628"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "9 BISHAN PLACE #B1-K2 JUNCTION 8 SHOPPING CENTRE 579837",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBX20030010671",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "579837"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "31 JURONG WEST STREET 63 #02-07 PIONEER MRT STATION (EW28) 648310",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26020000062",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "648310"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "930 YISHUN AVENUE 2 #B1-11 NORTHPOINT CITY (NORTH WING) 769098",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBX20040011255",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "769098"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "50 Jurong Gateway Road #B1-31 JEM 608549",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20040011254",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "608549"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "604 SEMBAWANG ROAD #B1-K6 SEMBAWANG SHOPPING CENTRE 758459",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21070012394",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "758459"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "23 SERANGOON CENTRAL #03-K3/K4 NEX 556083",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20030010669",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "556083"
+        },
+        {
+          "name": "POLAR CAFE",
+          "address": "7 OUTRAM ROAD #01-01 SINGAPORE GENERAL HOSPITAL 169608",
+          "type": "Restaurant",
+          "number": "EERN20030011278",
+          "scheme": "Eating Establishment",
+          "id": "ad978a29-b580-4c9b-9123-4bc1bb79e7cc",
+          "postal": "169608"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "1 SENGKANG SQUARE #01-26 COMPASS ONE 545078",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20040010692",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "545078"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "53 ANG MO KIO AVENUE 3 #B2-08 AMK HUB 569933",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBX20030010673",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "569933"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "83 PUNGGOL CENTRAL #01-K04 WATERWAY POINT (EAST WING) 828761",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21070012399",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "828761"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "15 Woodlands Link 738726",
+          "type": "Central Kitchen",
+          "number": "FPCN20040001359",
+          "scheme": "Food Preparation Area",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "738726"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "1 BUKIT BATOK CENTRAL LINK #01-K7 WEST MALL 658713",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20040011249",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "658713"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "802 BUKIT BATOK WEST AVENUE 5 #01-05 BUKIT GOMBAK MRT STATION 659083",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000681",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "659083"
+        },
+        {
+          "name": "PRIMADELI/SNACKS&BITES/DESSERTS/DRINKS",
+          "address": "1 LOWER KENT RIDGE ROAD #05-01 THE DINING AVENUE NUH MEDICAL CENTRE, Stall 11 119082",
+          "type": "Hawker",
+          "number": "EEHK26080000142",
+          "scheme": "Eating Establishment",
+          "id": "4ad00b1b-9e5e-4962-b716-45ccef12551a",
+          "postal": "119082"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES PTE LTD",
+          "address": "681 PUNGGOL DRIVE #B1-13 820681",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000490",
+          "scheme": "Eating Establishment",
+          "id": "afc69ab9-f6d8-4838-8736-5f4b38d9b4af",
+          "postal": "820681"
+        },
+        {
+          "name": "Polar Puffs & Cakes",
+          "address": "1 HARBOURFRONT WALK #B2-K5 VIVOCITY 098585",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000678",
+          "scheme": "Eating Establishment",
+          "id": "94a043ff-791b-48f8-9070-2edd4b0b9ead",
+          "postal": "098585"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "1 PASIR RIS CENTRAL STREET 3 #B1-K01 WHITE SANDS 518457",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20040010693",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "518457"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "3155 Commonwealth Ave West #B1-K15 The Clementi Mall 129588",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20040011256",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "129588"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "311 New Upper Changi Road #B2-K5 Bedok Mall 467360",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN20030010677",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "467360"
+        }
+      ],
+      "removed": [
+        {
+          "name": "TEXAS CHICKEN",
+          "address": "2 TAMPINES CENTRAL 5 #05-03 CENTURY SQUARE 529509",
+          "type": "Restaurant",
+          "number": "EERN21070012596",
+          "scheme": "Eating Establishment",
+          "id": "53c88848-1280-4fee-b6dc-b5d1d941c07d",
+          "postal": "529509"
+        },
+        {
+          "name": "SUBWAY",
+          "address": "17 WOODLANDS DRIVE 17 #B2-10 WOODLANDS HEALTH CAMPUS 737628",
+          "type": "Restaurant",
+          "number": "EERT26070000118",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "737628"
+        },
+        {
+          "name": "SUBWAY",
+          "address": "678A WOODLANDS AVENUE 6 #01-29 ADMIRALTY PLACE 731678",
+          "type": "Restaurant",
+          "number": "EERT20230000257",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "731678"
+        },
+        {
+          "name": "PRIMADELI",
+          "address": "83 PUNGGOL CENTRAL #B1-K11 WATERWAY POINT 828761",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000750",
+          "scheme": "Eating Establishment",
+          "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+          "postal": "828761"
+        },
+        {
+          "name": "TENDERFRESH Xpress",
+          "address": "118 RIVERVALE DRIVE #01-K18/k19 Rivervale Plaza 540118",
+          "type": "Restaurant",
+          "number": "EERN21060012467",
+          "scheme": "Eating Establishment",
+          "id": "fa23a2c4-12e6-4c0a-aa89-d3552d6d92cb",
+          "postal": "540118"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-09-03T00:05:57.198350",
     "date": "2026-09-03",
     "summary": {
@@ -11293,85 +11714,6 @@
           "scheme": "Eating Establishment",
           "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
           "postal": "119082"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-07-08T23:22:56.490577",
-    "date": "2026-07-08",
-    "summary": {
-      "new": 3,
-      "removed": 4,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "TASTE OF INDONESIA",
-          "address": "60 PAYA LEBAR ROAD #B1-29/30/31 PAYA LEBAR SQUARE 409051",
-          "type": "Restaurant",
-          "number": "EERT20220000519",
-          "scheme": "Eating Establishment",
-          "id": "c0371ec6-358d-428b-ad8f-762c01f88af3",
-          "postal": "409051"
-        },
-        {
-          "name": "TASTE OF INDONESIA EXPRESS",
-          "address": "1 TAMPINES WALK #B1-K4 OUR TAMPINES HUB 528523",
-          "type": "Restaurant",
-          "number": "EERT26060000025",
-          "scheme": "Eating Establishment",
-          "id": "2e83be17-2d14-440a-9f79-7847e26d9ec1",
-          "postal": "528523"
-        },
-        {
-          "name": "TASTE OF INDONESIA EXPRESS",
-          "address": "1 JELEBU ROAD #01-42 BUKIT PANJANG PLAZA 677743",
-          "type": "Restaurant",
-          "number": "EERT26060000029",
-          "scheme": "Eating Establishment",
-          "id": "2e83be17-2d14-440a-9f79-7847e26d9ec1",
-          "postal": "677743"
-        }
-      ],
-      "removed": [
-        {
-          "name": "TOKYO SHOKUDO",
-          "address": "70 COMPASSVALE BOW #01-38/39 544692",
-          "type": "Restaurant",
-          "number": "EERT20230000313",
-          "scheme": "Eating Establishment",
-          "id": "3e75f97a-1f6a-4795-ba6e-a2ba7adf2128",
-          "postal": "544692"
-        },
-        {
-          "name": "Milan Shokudo",
-          "address": "9 BISHAN PLACE #02-34/35/35A JUNCTION 8 579837",
-          "type": "Restaurant",
-          "number": "EERT20230001051",
-          "scheme": "Eating Establishment",
-          "id": "854a8501-0a00-4df3-a9ff-7c928fc3ade2",
-          "postal": "579837"
-        },
-        {
-          "name": "TENDERFRESH XPRESS",
-          "address": "118 RIVERVALE DRIVE #01-K18/k19 Rivervale Plaza 540118",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26040000057",
-          "scheme": "Eating Establishment",
-          "id": "fa23a2c4-12e6-4c0a-aa89-d3552d6d92cb",
-          "postal": "540118"
-        },
-        {
-          "name": "Milan Shokudo",
-          "address": "1 SENGKANG SQUARE #02-39 COMPASS ONE 545078",
-          "type": "Restaurant",
-          "number": "EERT20240000515",
-          "scheme": "Eating Establishment",
-          "id": "854a8501-0a00-4df3-a9ff-7c928fc3ade2",
-          "postal": "545078"
         }
       ],
       "updated": []
