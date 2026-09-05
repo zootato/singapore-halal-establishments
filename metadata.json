@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-09-04T00:01:53.094327",
-  "total_establishments": 3912,
+  "last_updated": "2026-09-05T00:02:19.195150",
+  "total_establishments": 3911,
   "types": {
-    "Hawker": 903,
-    "Catering Company": 183,
+    "Hawker": 902,
+    "Catering Company": 182,
     "Restaurant": 1618,
     "Staff Canteen": 85,
-    "Central Kitchen": 223,
-    "Snack Bar / Bakery": 810,
+    "Central Kitchen": 224,
+    "Snack Bar / Bakery": 809,
+    "Short Term Stall(Bazaar/Road Shows)": 2,
     "Canteen": 17,
     "Food Station": 30,
     "Food Kiosk": 18,
-    "Halal Section": 24,
-    "Short Term Stall(Bazaar/Road Shows)": 1
+    "Halal Section": 24
   },
   "schemes": {
-    "Eating Establishment": 3506,
+    "Eating Establishment": 3505,
     "Food Preparation Area": 406
   }
 }

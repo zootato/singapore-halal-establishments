@@ -1,5 +1,138 @@
 [
   {
+    "timestamp": "2026-09-05T00:02:19.137477",
+    "date": "2026-09-05",
+    "summary": {
+      "new": 6,
+      "removed": 7,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "4FINGERS CRISPY CHICKEN",
+          "address": "Formula 1 Singapore Airlines Singapore Grand Prix 2026, 1 REPUBLIC BOULEVARD THE PIT BUILDING, EVL2346 038975",
+          "type": "Short Term Stall(Bazaar/Road Shows)",
+          "number": "EEST26090000009",
+          "scheme": "Eating Establishment",
+          "id": "90b83324-363a-4406-9afa-08b19b67522d",
+          "postal": "038975"
+        },
+        {
+          "name": "KITCHEN A @ YISHUN COMMUNITY HOSPITAL",
+          "address": "2 YISHUN CENTRAL 2 #B1 YISHUN COMMUNITY HOSPITAL 768024",
+          "type": "Central Kitchen",
+          "number": "FPCX22010001648",
+          "scheme": "Food Preparation Area",
+          "id": "d4cc7559-42bb-4e10-8a86-cd4e51c2e06d",
+          "postal": "768024"
+        },
+        {
+          "name": "PAPA AYAM",
+          "address": "1 TAMPINES WALK #B1-43 OUR TAMPINES HUB 528523",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000956",
+          "scheme": "Eating Establishment",
+          "id": "2126a923-0488-4c9f-8478-85f5a21e7439",
+          "postal": "528523"
+        },
+        {
+          "name": "KAKI MAKAN CAFE",
+          "address": "10 AIRPORT BOULEVARD #02-K32 CHANGI AIRPORT TERMINAL 4 819665",
+          "type": "Hawker",
+          "number": "EEHK20230000535",
+          "scheme": "Eating Establishment",
+          "id": "f66845d0-5bef-4ada-96ba-fd3335484b01",
+          "postal": "819665"
+        },
+        {
+          "name": "SUBWAY",
+          "address": "678A WOODLANDS AVENUE 6 #01-29 ADMIRALTY PLACE 731678",
+          "type": "Restaurant",
+          "number": "EERT20230000257",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "731678"
+        },
+        {
+          "name": "PAPA AYAM",
+          "address": "1 NORTHPOINT DRIVE #B1-155 NORTHPOINT CITY 768019",
+          "type": "Restaurant",
+          "number": "EERT20230000149",
+          "scheme": "Eating Establishment",
+          "id": "e94d6bff-88ea-4869-bd66-587d9498d776",
+          "postal": "768019"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Hungry Boy (MR4) @ Coffee & Tea 78A Telok Blangah",
+          "address": "78A TELOK BLANGAH STREET 32 #02-01, MR 4 101078",
+          "type": "Hawker",
+          "number": "EEHK20240000862",
+          "scheme": "Eating Establishment",
+          "id": "9bcd9aea-325b-445a-91b6-47efd331063b",
+          "postal": "101078"
+        },
+        {
+          "name": "3 EMBERS CULINARY CRAFT PTE. LTD.",
+          "address": "1 TURF CLUB AVENUE #2M SINGAPORE RACECOURSE 738078",
+          "type": "Catering Company",
+          "number": "FPCA20230001121",
+          "scheme": "Food Preparation Area",
+          "id": "5c80bd74-fc1a-452d-bfb1-f4cb2adf1bc8",
+          "postal": "738078"
+        },
+        {
+          "name": "PIZZA HUT SINGAPORE PTE LTD",
+          "address": "1 BUKIT BATOK CENTRAL LINK #01-26 WEST MALL 658713",
+          "type": "Restaurant",
+          "number": "EERN21080012810",
+          "scheme": "Eating Establishment",
+          "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
+          "postal": "658713"
+        },
+        {
+          "name": "RROOLL",
+          "address": "1 NORTHPOINT DRIVE #B2-151 NORTHPOINT CITY 768019",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000494",
+          "scheme": "Eating Establishment",
+          "id": "98647a82-0b52-4624-82e9-e1f7d5600687",
+          "postal": "768019"
+        },
+        {
+          "name": "THE COFFEE BEAN & TEA LEAF",
+          "address": "100 BUKIT TIMAH ROAD #01-K1 KK WOMEN'S AND CHILDREN'S HOSPITAL 229899",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000043",
+          "scheme": "Eating Establishment",
+          "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+          "postal": "229899"
+        },
+        {
+          "name": "Hungry Boy",
+          "address": "146 JALAN BUKIT MERAH #01-1068 COFFEE & TEA, STALL 2 160146",
+          "type": "Hawker",
+          "number": "EEHK25100000053",
+          "scheme": "Eating Establishment",
+          "id": "266292c1-6ead-40f0-abb2-ad18e8db19d4",
+          "postal": "160146"
+        },
+        {
+          "name": "Long John Silver's",
+          "address": "676 WOODLANDS DRIVE 71 #01-05/12 730676",
+          "type": "Restaurant",
+          "number": "EERN22020013530",
+          "scheme": "Eating Establishment",
+          "id": "04a22cc8-410f-41ad-977c-224cb8a85e4c",
+          "postal": "730676"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-09-04T00:01:53.037666",
     "date": "2026-09-04",
     "summary": {
@@ -11626,94 +11759,6 @@
           "scheme": "Eating Establishment",
           "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
           "postal": "099253"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-07-09T23:26:57.113221",
-    "date": "2026-07-09",
-    "summary": {
-      "new": 6,
-      "removed": 2,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Chicken Rice (S3) @ Koufu Buangkok Link",
-          "address": "991 BUANGKOK LINK #02-21, Stall 3 530991",
-          "type": "Hawker",
-          "number": "EEHN21080012642",
-          "scheme": "Eating Establishment",
-          "id": "c416dc91-1a65-4cd7-9e33-8012da022aa2",
-          "postal": "530991"
-        },
-        {
-          "name": "Selesa Enak Chicken Rice",
-          "address": "21 TAMPINES NORTH DRIVE 2 #03-00 MR1 KOUFU @ GIANT TAMPINES 528765",
-          "type": "Hawker",
-          "number": "EEHK26070000025",
-          "scheme": "Eating Establishment",
-          "id": "5739622a-8892-4b96-b914-940ac630286a",
-          "postal": "528765"
-        },
-        {
-          "name": "Selesa Enak Chicken Rice",
-          "address": "70 STAMFORD ROAD #B1-26-28 KOUFU SINGAPORE MANAGEMENT UNIVERSITY, MR3 178901",
-          "type": "Hawker",
-          "number": "EEHK26070000026",
-          "scheme": "Eating Establishment",
-          "id": "628579e6-987f-409f-bf23-c573304c1cea",
-          "postal": "178901"
-        },
-        {
-          "name": "JM x Krave",
-          "address": "2 PAYA LEBAR ROAD #01-10 PARK PLACE RESIDENCES AT PLQ 409053",
-          "type": "Restaurant",
-          "number": "EERT26070000021",
-          "scheme": "Eating Establishment",
-          "id": "69318299-8d68-4dc9-a34b-062ced2414ad",
-          "postal": "409053"
-        },
-        {
-          "name": "Chicken Rice (S3) @ Fork & Spoon Toa Payoh",
-          "address": "470 LORONG 6 TOA PAYOH #02-70 HDB HUB, Stall 3, Fork & Spoon 310470",
-          "type": "Hawker",
-          "number": "EEHN21120013035",
-          "scheme": "Eating Establishment",
-          "id": "b1e44b50-559c-4913-9d61-ac4c71aefd95",
-          "postal": "310470"
-        },
-        {
-          "name": "Chicken Ka Kee",
-          "address": "83 PUNGGOL CENTRAL #01-29 WATERWAY POINT 828761",
-          "type": "Restaurant",
-          "number": "EERT26070000023",
-          "scheme": "Eating Establishment",
-          "id": "9908a17f-6e52-4e6d-bc05-76b6b53fe2cf",
-          "postal": "828761"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Soso Hainanese Chicken Rice",
-          "address": "1 MARITIME SQUARE #01-103/104/105/106/107/108 HARBOURFRONT CENTRE, Stall 04, Boleh Boleh! 099253",
-          "type": "Hawker",
-          "number": "EEHK26040000030",
-          "scheme": "Eating Establishment",
-          "id": "8dd7f718-761b-454e-86fb-ffc09009fc2d",
-          "postal": "099253"
-        },
-        {
-          "name": "CRAVE",
-          "address": "1 LOWER KENT RIDGE ROAD #01-09/19/20 ONE @ KENTRIDGE 119082",
-          "type": "Restaurant",
-          "number": "EERN21050012353",
-          "scheme": "Eating Establishment",
-          "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
-          "postal": "119082"
         }
       ],
       "updated": []

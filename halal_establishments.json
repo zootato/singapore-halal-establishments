@@ -235,15 +235,6 @@
   },
   {
     "name": "3 EMBERS CULINARY CRAFT PTE. LTD.",
-    "address": "1 TURF CLUB AVENUE #2M SINGAPORE RACECOURSE 738078",
-    "type": "Catering Company",
-    "number": "FPCA20230001121",
-    "scheme": "Food Preparation Area",
-    "id": "5c80bd74-fc1a-452d-bfb1-f4cb2adf1bc8",
-    "postal": "738078"
-  },
-  {
-    "name": "3 EMBERS CULINARY CRAFT PTE. LTD.",
     "address": "1 RAFFLES BOULEVARD #04-00 SUNTEC CONVENTION CENTRE 039593",
     "type": "Catering Company",
     "number": "FPCA20240000203",
@@ -439,6 +430,15 @@
     "scheme": "Eating Establishment",
     "id": "90b83324-363a-4406-9afa-08b19b67522d",
     "postal": "768893"
+  },
+  {
+    "name": "4FINGERS CRISPY CHICKEN",
+    "address": "Formula 1 Singapore Airlines Singapore Grand Prix 2026, 1 REPUBLIC BOULEVARD THE PIT BUILDING, EVL2346 038975",
+    "type": "Short Term Stall(Bazaar/Road Shows)",
+    "number": "EEST26090000009",
+    "scheme": "Eating Establishment",
+    "id": "90b83324-363a-4406-9afa-08b19b67522d",
+    "postal": "038975"
   },
   {
     "name": "4FINGERS CRISPY CHICKEN",
@@ -12177,24 +12177,6 @@
     "postal": "389935"
   },
   {
-    "name": "Hungry Boy",
-    "address": "146 JALAN BUKIT MERAH #01-1068 COFFEE & TEA, STALL 2 160146",
-    "type": "Hawker",
-    "number": "EEHK25100000053",
-    "scheme": "Eating Establishment",
-    "id": "266292c1-6ead-40f0-abb2-ad18e8db19d4",
-    "postal": "160146"
-  },
-  {
-    "name": "Hungry Boy (MR4) @ Coffee & Tea 78A Telok Blangah",
-    "address": "78A TELOK BLANGAH STREET 32 #02-01, MR 4 101078",
-    "type": "Hawker",
-    "number": "EEHK20240000862",
-    "scheme": "Eating Establishment",
-    "id": "9bcd9aea-325b-445a-91b6-47efd331063b",
-    "postal": "101078"
-  },
-  {
     "name": "Hungry Burger @ Bistro Box NUS",
     "address": "3A ENGINEERING DRIVE 2 Faculty Of Engineering (Level 1), STALL 3 117275",
     "type": "Hawker",
@@ -13417,6 +13399,15 @@
     "scheme": "Eating Establishment",
     "id": "abd81709-dc8e-4fc1-8341-ee5b28a4f402",
     "postal": "308442"
+  },
+  {
+    "name": "KAKI MAKAN CAFE",
+    "address": "10 AIRPORT BOULEVARD #02-K32 CHANGI AIRPORT TERMINAL 4 819665",
+    "type": "Hawker",
+    "number": "EEHK20230000535",
+    "scheme": "Eating Establishment",
+    "id": "f66845d0-5bef-4ada-96ba-fd3335484b01",
+    "postal": "819665"
   },
   {
     "name": "Kamala Express (S17) @ Kedai Kopi 376 Bukit Batok",
@@ -14706,6 +14697,15 @@
     "postal": "369573"
   },
   {
+    "name": "KITCHEN A @ YISHUN COMMUNITY HOSPITAL",
+    "address": "2 YISHUN CENTRAL 2 #B1 YISHUN COMMUNITY HOSPITAL 768024",
+    "type": "Central Kitchen",
+    "number": "FPCX22010001648",
+    "scheme": "Food Preparation Area",
+    "id": "d4cc7559-42bb-4e10-8a86-cd4e51c2e06d",
+    "postal": "768024"
+  },
+  {
     "name": "Kitchen Ex @ Holiday Inn Express Singapore Katong",
     "address": "88 EAST COAST ROAD #07-05 KATONG SQUARE 423371",
     "type": "Central Kitchen",
@@ -15856,15 +15856,6 @@
     "scheme": "Eating Establishment",
     "id": "49f8491c-8cac-41ab-9498-b49b734fb111",
     "postal": "640456"
-  },
-  {
-    "name": "Long John Silver's",
-    "address": "676 WOODLANDS DRIVE 71 #01-05/12 730676",
-    "type": "Restaurant",
-    "number": "EERN22020013530",
-    "scheme": "Eating Establishment",
-    "id": "04a22cc8-410f-41ad-977c-224cb8a85e4c",
-    "postal": "730676"
   },
   {
     "name": "Long John Silver's",
@@ -21636,6 +21627,24 @@
     "postal": "486350"
   },
   {
+    "name": "PAPA AYAM",
+    "address": "1 TAMPINES WALK #B1-43 OUR TAMPINES HUB 528523",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20240000956",
+    "scheme": "Eating Establishment",
+    "id": "2126a923-0488-4c9f-8478-85f5a21e7439",
+    "postal": "528523"
+  },
+  {
+    "name": "PAPA AYAM",
+    "address": "1 NORTHPOINT DRIVE #B1-155 NORTHPOINT CITY 768019",
+    "type": "Restaurant",
+    "number": "EERT20230000149",
+    "scheme": "Eating Establishment",
+    "id": "e94d6bff-88ea-4869-bd66-587d9498d776",
+    "postal": "768019"
+  },
+  {
     "name": "Papa Cafe",
     "address": "991 BUANGKOK LINK #02-10 530991",
     "type": "Restaurant",
@@ -22921,15 +22930,6 @@
     "scheme": "Eating Establishment",
     "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
     "postal": "409075"
-  },
-  {
-    "name": "PIZZA HUT SINGAPORE PTE LTD",
-    "address": "1 BUKIT BATOK CENTRAL LINK #01-26 WEST MALL 658713",
-    "type": "Restaurant",
-    "number": "EERN21080012810",
-    "scheme": "Eating Establishment",
-    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
-    "postal": "658713"
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
@@ -24919,15 +24919,6 @@
     "scheme": "Eating Establishment",
     "id": "98647a82-0b52-4624-82e9-e1f7d5600687",
     "postal": "677743"
-  },
-  {
-    "name": "RROOLL",
-    "address": "1 NORTHPOINT DRIVE #B2-151 NORTHPOINT CITY 768019",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20240000494",
-    "scheme": "Eating Establishment",
-    "id": "98647a82-0b52-4624-82e9-e1f7d5600687",
-    "postal": "768019"
   },
   {
     "name": "RUMAH MAKAN MINANG",
@@ -28429,6 +28420,15 @@
     "scheme": "Eating Establishment",
     "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
     "postal": "738991"
+  },
+  {
+    "name": "SUBWAY",
+    "address": "678A WOODLANDS AVENUE 6 #01-29 ADMIRALTY PLACE 731678",
+    "type": "Restaurant",
+    "number": "EERT20230000257",
+    "scheme": "Eating Establishment",
+    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+    "postal": "731678"
   },
   {
     "name": "SUBWAY",
@@ -32047,15 +32047,6 @@
     "scheme": "Eating Establishment",
     "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
     "postal": "677743"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "100 BUKIT TIMAH ROAD #01-K1 KK WOMEN'S AND CHILDREN'S HOSPITAL 229899",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20230000043",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "229899"
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
