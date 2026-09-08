@@ -5878,6 +5878,15 @@
   },
   {
     "name": "COPPER CHIMNEY",
+    "address": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026, 1 REPUBLIC BOULEVARD THE PIT BUILDING, EVL 5336 038975",
+    "type": "Short Term Stall(Bazaar/Road Shows)",
+    "number": "EEST26090000012",
+    "scheme": "Eating Establishment",
+    "id": "4d5b4a6a-6b4c-457d-8255-6189c8de49a6",
+    "postal": "038975"
+  },
+  {
+    "name": "COPPER CHIMNEY",
     "address": "100 SYED ALWI ROAD 1ST STOREY #01-01 207676",
     "type": "Restaurant",
     "number": "EERT20250000591",
@@ -11521,21 +11530,21 @@
   },
   {
     "name": "Hebat Ayam Penyet",
-    "address": "1 HARBOURFRONT WALK (S23) at Kopitiam Food Hall Vivo City #B2-40 VIVOCITY, STALL 23, KOPITIAM FOOD HALL 098585",
-    "type": "Hawker",
-    "number": "EEHK25100000066",
-    "scheme": "Eating Establishment",
-    "id": "f1c6eecf-4e4e-4ee1-acba-c4c4b78312b8",
-    "postal": "098585"
-  },
-  {
-    "name": "Hebat Ayam Penyet",
     "address": "10 AIRPORT BOULEVARD #02-205 CHANGI AIRPORT TERMINAL 4 KOPITIAM, Stall 10 819665",
     "type": "Hawker",
     "number": "EEHK20250000559",
     "scheme": "Eating Establishment",
     "id": "1e42adbd-f854-4afb-87c2-f3689afc408e",
     "postal": "819665"
+  },
+  {
+    "name": "Hebat Ayam Penyet",
+    "address": "1 HARBOURFRONT WALK (S23) at Kopitiam Food Hall Vivo City #B2-40 VIVOCITY, STALL 23, KOPITIAM FOOD HALL 098585",
+    "type": "Hawker",
+    "number": "EEHK25100000066",
+    "scheme": "Eating Establishment",
+    "id": "f1c6eecf-4e4e-4ee1-acba-c4c4b78312b8",
+    "postal": "098585"
   },
   {
     "name": "HEI SIGNATURE CATERING",
@@ -19612,15 +19621,6 @@
   },
   {
     "name": "MUNCHI PANCAKES",
-    "address": "51 OLD AIRPORT ROAD #01-149/150 51 OLD AIRPORT ROAD FOOD CENTRE AND SHOPPING MALL 390051",
-    "type": "Hawker",
-    "number": "EEHK25100000121",
-    "scheme": "Eating Establishment",
-    "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
-    "postal": "390051"
-  },
-  {
-    "name": "MUNCHI PANCAKES",
     "address": "84 PUNGGOL WAY #02-K86 PUNGGOL COAST HAWKER CENTRE 829911",
     "type": "Hawker",
     "number": "EEHK26010000055",
@@ -19657,6 +19657,15 @@
   },
   {
     "name": "MUNCHI PANCAKES",
+    "address": "17 PETIR ROAD #B2-44 HILLION MALL 678278",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB25100000120",
+    "scheme": "Eating Establishment",
+    "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
+    "postal": "678278"
+  },
+  {
+    "name": "MUNCHI PANCAKES",
     "address": "91 HILLVIEW LINK Stall K9, Timbre+ Hillview #02-05 CMPB (BLK 1), STALL K9 669723",
     "type": "Hawker",
     "number": "EEHK25120000022",
@@ -19672,15 +19681,6 @@
     "scheme": "Eating Establishment",
     "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
     "postal": "569933"
-  },
-  {
-    "name": "MUNCHI PANCAKES",
-    "address": "17 PETIR ROAD #B2-44 HILLION MALL 678278",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB25100000120",
-    "scheme": "Eating Establishment",
-    "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
-    "postal": "678278"
   },
   {
     "name": "MUNCHI PANCAKES",
