@@ -12673,6 +12673,15 @@
   },
   {
     "name": "Japanese & Korean (S2) @ Koufu Sun Plaza",
+    "address": "475 CHOA CHU KANG AVENUE 3 #01-31 SUNSHINE PLACE, Stall 5 680475",
+    "type": "Hawker",
+    "number": "EEHK20240000648",
+    "scheme": "Eating Establishment",
+    "id": "899e6af1-dcbf-4294-95d0-ab990985c098",
+    "postal": "680475"
+  },
+  {
+    "name": "Japanese & Korean (S2) @ Koufu Sun Plaza",
     "address": "30 SEMBAWANG DRIVE #03-01B SUN PLAZA, (Stall 2) 757713",
     "type": "Hawker",
     "number": "EEHK20220001031",
@@ -17506,15 +17515,6 @@
   },
   {
     "name": "McDonald's",
-    "address": "30 SEMBAWANG DRIVE #01-16/17 SUN PLAZA 757713",
-    "type": "Restaurant",
-    "number": "EERN20020011077",
-    "scheme": "Eating Establishment",
-    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-    "postal": "757713"
-  },
-  {
-    "name": "McDonald's",
     "address": "632 BEDOK RESERVOIR ROAD #01-850 470632",
     "type": "Restaurant",
     "number": "EERN20020010973",
@@ -18142,6 +18142,15 @@
     "scheme": "Eating Establishment",
     "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
     "postal": "758382"
+  },
+  {
+    "name": "McDonald's",
+    "address": "30 SEMBAWANG DRIVE #01-16/17 SUN PLAZA 757713",
+    "type": "Restaurant",
+    "number": "EERN20020011077",
+    "scheme": "Eating Establishment",
+    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+    "postal": "757713"
   },
   {
     "name": "McDonald's",
@@ -32878,30 +32887,12 @@
   },
   {
     "name": "Tim Hortons",
-    "address": "7 PASIR RIS CENTRAL #02-64 PASIR RIS MALL 519612",
-    "type": "Restaurant",
-    "number": "EERT26020000007",
-    "scheme": "Eating Establishment",
-    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-    "postal": "519612"
-  },
-  {
-    "name": "Tim Hortons",
     "address": "313 ORCHARD ROAD #01-29 313 @ SOMERSET 238895",
     "type": "Restaurant",
     "number": "EERT26020000008",
     "scheme": "Eating Establishment",
     "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
     "postal": "238895"
-  },
-  {
-    "name": "Tim Hortons",
-    "address": "80 MARINE PARADE ROAD #01-02 PARKWAY PARADE 449269",
-    "type": "Restaurant",
-    "number": "EERT26020000009",
-    "scheme": "Eating Establishment",
-    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-    "postal": "449269"
   },
   {
     "name": "Tim Hortons",
@@ -32920,6 +32911,15 @@
     "scheme": "Eating Establishment",
     "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
     "postal": "238839"
+  },
+  {
+    "name": "Tim Hortons",
+    "address": "80 MARINE PARADE ROAD #01-02 PARKWAY PARADE 449269",
+    "type": "Restaurant",
+    "number": "EERT26020000009",
+    "scheme": "Eating Establishment",
+    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+    "postal": "449269"
   },
   {
     "name": "Tim Hortons",
