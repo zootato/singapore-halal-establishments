@@ -1,5 +1,39 @@
 [
   {
+    "timestamp": "2026-09-11T00:04:29.751144",
+    "date": "2026-09-11",
+    "summary": {
+      "new": 1,
+      "removed": 1,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Churros Factory",
+          "address": "551 BEDOK NORTH AVENUE 1 #01-542 460551",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26080000046",
+          "scheme": "Eating Establishment",
+          "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
+          "postal": "460551"
+        }
+      ],
+      "removed": [
+        {
+          "name": "ROTIBOY",
+          "address": "107 NORTH BRIDGE ROAD #B2-32 FUNAN 179105",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000994",
+          "scheme": "Eating Establishment",
+          "id": "8a6fb384-7215-49ac-b9fb-e7837903b6a5",
+          "postal": "179105"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-09-10T00:10:04.808206",
     "date": "2026-09-10",
     "summary": {
@@ -11251,48 +11285,6 @@
           "postal": "277677"
         }
       ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-07-14T23:08:38.349834",
-    "date": "2026-07-14",
-    "summary": {
-      "new": 3,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "71 Ariff's Restaurant",
-          "address": "71 KALLANG BAHRU #01-529B 330071",
-          "type": "Restaurant",
-          "number": "EERT26060000049",
-          "scheme": "Eating Establishment",
-          "id": "401fd18c-8d5f-4e5b-97e4-b6aabe69af34",
-          "postal": "330071"
-        },
-        {
-          "name": "sakura asian cuisine",
-          "address": "6 CHANGI BUSINESS PARK AVENUE 1 #01-28 ESR BIZPARK @ CHANGI 486017",
-          "type": "Restaurant",
-          "number": "EERT26070000033",
-          "scheme": "Eating Establishment",
-          "id": "22ec2f07-9ab0-4a10-a965-a4cc7b69643f",
-          "postal": "486017"
-        },
-        {
-          "name": "Pratunam",
-          "address": "50 JURONG GATEWAY ROAD #03-21 JEM 608549",
-          "type": "Restaurant",
-          "number": "EERT26070000047",
-          "scheme": "Eating Establishment",
-          "id": "77c49e4d-695d-41e7-8daf-91f688fd6a0e",
-          "postal": "608549"
-        }
-      ],
-      "removed": [],
       "updated": []
     }
   }

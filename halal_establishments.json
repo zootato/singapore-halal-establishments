@@ -5454,6 +5454,15 @@
     "postal": "310206"
   },
   {
+    "name": "Churros Factory",
+    "address": "551 BEDOK NORTH AVENUE 1 #01-542 460551",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26080000046",
+    "scheme": "Eating Establishment",
+    "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
+    "postal": "460551"
+  },
+  {
     "name": "CHWM PTE LTD",
     "address": "3015 BEDOK NORTH STREET 5 #04-01 SHIMEI EAST KITCHEN 486350",
     "type": "Central Kitchen",
@@ -24865,15 +24874,6 @@
     "scheme": "Eating Establishment",
     "id": "376e4074-b5c7-40f3-abad-2793943f4281",
     "postal": "819663"
-  },
-  {
-    "name": "ROTIBOY",
-    "address": "107 NORTH BRIDGE ROAD #B2-32 FUNAN 179105",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20240000994",
-    "scheme": "Eating Establishment",
-    "id": "8a6fb384-7215-49ac-b9fb-e7837903b6a5",
-    "postal": "179105"
   },
   {
     "name": "ROYAL CATERING SERVICES PTE LTD",
