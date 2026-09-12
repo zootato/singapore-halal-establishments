@@ -433,15 +433,6 @@
   },
   {
     "name": "4FINGERS CRISPY CHICKEN",
-    "address": "Formula 1 Singapore Airlines Singapore Grand Prix 2026, 1 REPUBLIC BOULEVARD THE PIT BUILDING, EVL2346 038975",
-    "type": "Short Term Stall(Bazaar/Road Shows)",
-    "number": "EEST26090000009",
-    "scheme": "Eating Establishment",
-    "id": "90b83324-363a-4406-9afa-08b19b67522d",
-    "postal": "038975"
-  },
-  {
-    "name": "4FINGERS CRISPY CHICKEN",
     "address": "225 JALAN KAYU 799449",
     "type": "Snack Bar / Bakery",
     "number": "EEBN21070012391",
@@ -1159,6 +1150,15 @@
     "scheme": "Eating Establishment",
     "id": "30f37e54-c18d-475c-850b-1b0fe0f4f2c1",
     "postal": "768698"
+  },
+  {
+    "name": "Ali's Fry & Grill Western",
+    "address": "57 DAWSON ROAD STALL 08, KOUFU #02-09/10 DAWSON PLACE 142057",
+    "type": "Hawker",
+    "number": "EEHK26090000001",
+    "scheme": "Eating Establishment",
+    "id": "f68191a8-6d00-4650-8ba4-e1446fda22d1",
+    "postal": "142057"
   },
   {
     "name": "Ali's Fry N Grill Mini Wok & Western",
@@ -2809,6 +2809,15 @@
   },
   {
     "name": "BAKEINC",
+    "address": "57A NEW UPPER CHANGI ROAD #01-1378 462057",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000091",
+    "scheme": "Eating Establishment",
+    "id": "edbe1a4e-d230-4fe7-914b-eb8d94f1245a",
+    "postal": "462057"
+  },
+  {
+    "name": "BAKEINC",
     "address": "18/20 WOODLANDS TERRACE 738443",
     "type": "Central Kitchen",
     "number": "FPCK20240000900",
@@ -2833,15 +2842,6 @@
     "scheme": "Eating Establishment",
     "id": "edbe1a4e-d230-4fe7-914b-eb8d94f1245a",
     "postal": "757713"
-  },
-  {
-    "name": "BAKEINC",
-    "address": "57A NEW UPPER CHANGI ROAD #01-1378 462057",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000091",
-    "scheme": "Eating Establishment",
-    "id": "edbe1a4e-d230-4fe7-914b-eb8d94f1245a",
-    "postal": "462057"
   },
   {
     "name": "BAKER'S OVEN",
@@ -6345,15 +6345,6 @@
     "postal": "229899"
   },
   {
-    "name": "CUMI BALI",
-    "address": "50 TRAS STREET 078989",
-    "type": "Restaurant",
-    "number": "EERN21100012935",
-    "scheme": "Eating Establishment",
-    "id": "55ec3794-3452-4d13-bcc7-319cade708ac",
-    "postal": "078989"
-  },
-  {
     "name": "CUPPACAKES.COM.SG",
     "address": "183 JALAN PELIKAT #01-05 THE PROMENADE@PELIKAT 537643",
     "type": "Snack Bar / Bakery",
@@ -8650,6 +8641,15 @@
   },
   {
     "name": "FAMOUS AMOS",
+    "address": "1 SENGKANG SQUARE #B1-19 COMPASS ONE 545078",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20220000831",
+    "scheme": "Eating Establishment",
+    "id": "57fb9ed3-1f8d-4f08-a9d4-87fd582740de",
+    "postal": "545078"
+  },
+  {
+    "name": "FAMOUS AMOS",
     "address": "930 YISHUN AVENUE 2 #B1-16 769098",
     "type": "Snack Bar / Bakery",
     "number": "EESB20220000838",
@@ -8692,15 +8692,6 @@
     "scheme": "Eating Establishment",
     "id": "57fb9ed3-1f8d-4f08-a9d4-87fd582740de",
     "postal": "569933"
-  },
-  {
-    "name": "FAMOUS AMOS",
-    "address": "1 SENGKANG SQUARE #B1-19 COMPASS ONE 545078",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20220000831",
-    "scheme": "Eating Establishment",
-    "id": "57fb9ed3-1f8d-4f08-a9d4-87fd582740de",
-    "postal": "545078"
   },
   {
     "name": "FAMOUS AMOS",
@@ -11539,21 +11530,21 @@
   },
   {
     "name": "Hebat Ayam Penyet",
-    "address": "10 AIRPORT BOULEVARD #02-205 CHANGI AIRPORT TERMINAL 4 KOPITIAM, Stall 10 819665",
-    "type": "Hawker",
-    "number": "EEHK20250000559",
-    "scheme": "Eating Establishment",
-    "id": "1e42adbd-f854-4afb-87c2-f3689afc408e",
-    "postal": "819665"
-  },
-  {
-    "name": "Hebat Ayam Penyet",
     "address": "1 HARBOURFRONT WALK (S23) at Kopitiam Food Hall Vivo City #B2-40 VIVOCITY, STALL 23, KOPITIAM FOOD HALL 098585",
     "type": "Hawker",
     "number": "EEHK25100000066",
     "scheme": "Eating Establishment",
     "id": "f1c6eecf-4e4e-4ee1-acba-c4c4b78312b8",
     "postal": "098585"
+  },
+  {
+    "name": "Hebat Ayam Penyet",
+    "address": "10 AIRPORT BOULEVARD #02-205 CHANGI AIRPORT TERMINAL 4 KOPITIAM, Stall 10 819665",
+    "type": "Hawker",
+    "number": "EEHK20250000559",
+    "scheme": "Eating Establishment",
+    "id": "1e42adbd-f854-4afb-87c2-f3689afc408e",
+    "postal": "819665"
   },
   {
     "name": "HEI SIGNATURE CATERING",
@@ -15055,6 +15046,15 @@
     "scheme": "Eating Establishment",
     "id": "47aba601-eea8-4795-a865-698b4634ab7e",
     "postal": "768019"
+  },
+  {
+    "name": "Korean Cuisine Sanchon (S3)@Kopitiam Changi Airport T4",
+    "address": "10 AIRPORT BOULEVARD #02-205 CHANGI AIRPORT TERMINAL 4 819665",
+    "type": "Hawker",
+    "number": "EEHK20240000180",
+    "scheme": "Eating Establishment",
+    "id": "8c96dd61-69ba-4894-ae4e-d3f2164159f0",
+    "postal": "819665"
   },
   {
     "name": "Korean Food (S1) @ East Delight ITE College East",
@@ -25398,6 +25398,15 @@
     "postal": "529536"
   },
   {
+    "name": "Sanchon Foods Central Kitchen",
+    "address": "2 MANDAI LINK #02-01F 728664",
+    "type": "Central Kitchen",
+    "number": "FPCK26090000014",
+    "scheme": "Food Preparation Area",
+    "id": "239681ef-a9ae-4f17-b0ef-41f769c4b80a",
+    "postal": "728664"
+  },
+  {
     "name": "Sandwich  / Special Meal Section  @ Sats Inflight Catering Ctr 2",
     "address": "30 CHANGI NORTH CRESCENT SATS INFLIGHT CATERING CENTRE 2 499612",
     "type": "Central Kitchen",
@@ -31420,6 +31429,15 @@
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
+    "address": "5 LOWER KENT RIDGE ROAD #01-10 NATIONAL UNIVERSITY HOSPITAL MAIN BLDG (LOBBY) 119074",
+    "type": "Restaurant",
+    "number": "EERN21120013270",
+    "scheme": "Eating Establishment",
+    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+    "postal": "119074"
+  },
+  {
+    "name": "THE COFFEE BEAN & TEA LEAF",
     "address": "10 ANSON ROAD #01-32 INTERNATIONAL PLAZA 079903",
     "type": "Restaurant",
     "number": "EERN21120013265",
@@ -31696,15 +31714,6 @@
     "scheme": "Eating Establishment",
     "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
     "postal": "486038"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "5 LOWER KENT RIDGE ROAD #01-10 NATIONAL UNIVERSITY HOSPITAL MAIN BLDG (LOBBY) 119074",
-    "type": "Restaurant",
-    "number": "EERN21120013270",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "119074"
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",

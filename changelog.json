@@ -1,5 +1,66 @@
 [
   {
+    "timestamp": "2026-09-12T00:10:15.765831",
+    "date": "2026-09-12",
+    "summary": {
+      "new": 3,
+      "removed": 2,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Sanchon Foods Central Kitchen",
+          "address": "2 MANDAI LINK #02-01F 728664",
+          "type": "Central Kitchen",
+          "number": "FPCK26090000014",
+          "scheme": "Food Preparation Area",
+          "id": "239681ef-a9ae-4f17-b0ef-41f769c4b80a",
+          "postal": "728664"
+        },
+        {
+          "name": "Ali's Fry & Grill Western",
+          "address": "57 DAWSON ROAD STALL 08, KOUFU #02-09/10 DAWSON PLACE 142057",
+          "type": "Hawker",
+          "number": "EEHK26090000001",
+          "scheme": "Eating Establishment",
+          "id": "f68191a8-6d00-4650-8ba4-e1446fda22d1",
+          "postal": "142057"
+        },
+        {
+          "name": "Korean Cuisine Sanchon (S3)@Kopitiam Changi Airport T4",
+          "address": "10 AIRPORT BOULEVARD #02-205 CHANGI AIRPORT TERMINAL 4 819665",
+          "type": "Hawker",
+          "number": "EEHK20240000180",
+          "scheme": "Eating Establishment",
+          "id": "8c96dd61-69ba-4894-ae4e-d3f2164159f0",
+          "postal": "819665"
+        }
+      ],
+      "removed": [
+        {
+          "name": "CUMI BALI",
+          "address": "50 TRAS STREET 078989",
+          "type": "Restaurant",
+          "number": "EERN21100012935",
+          "scheme": "Eating Establishment",
+          "id": "55ec3794-3452-4d13-bcc7-319cade708ac",
+          "postal": "078989"
+        },
+        {
+          "name": "4FINGERS CRISPY CHICKEN",
+          "address": "Formula 1 Singapore Airlines Singapore Grand Prix 2026, 1 REPUBLIC BOULEVARD THE PIT BUILDING, EVL2346 038975",
+          "type": "Short Term Stall(Bazaar/Road Shows)",
+          "number": "EEST26090000009",
+          "scheme": "Eating Establishment",
+          "id": "90b83324-363a-4406-9afa-08b19b67522d",
+          "postal": "038975"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-09-11T00:04:29.751144",
     "date": "2026-09-11",
     "summary": {
@@ -11186,103 +11247,6 @@
           "scheme": "Eating Establishment",
           "id": "ff9129dc-238e-4753-a168-d43eeb47c894",
           "postal": "544278"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-07-15T23:09:53.685434",
-    "date": "2026-07-15",
-    "summary": {
-      "new": 8,
-      "removed": 1,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "18C",
-          "address": "1 VISTA EXCHANGE GREEN #02-12/13/14/15 THE STAR VISTA 138617",
-          "type": "Restaurant",
-          "number": "EERT20250000495",
-          "scheme": "Eating Establishment",
-          "id": "b5863466-c1d5-4d52-ac58-34adbab3195b",
-          "postal": "138617"
-        },
-        {
-          "name": "18C",
-          "address": "3155 COMMONWEALTH AVENUE WEST #05-16/17 THE CLEMENTI MALL 129588",
-          "type": "Restaurant",
-          "number": "EERT20250000496",
-          "scheme": "Eating Establishment",
-          "id": "6b9646c5-4bda-4fcd-ba54-48da3d5451f3",
-          "postal": "129588"
-        },
-        {
-          "name": "LUCINE",
-          "address": "111 SOMERSET ROAD #01-06 / 37 / 38 111 SOMERSET 238164",
-          "type": "Restaurant",
-          "number": "EERT20250000439",
-          "scheme": "Eating Establishment",
-          "id": "fe3d9dbf-4d4a-4839-a47f-47bd60a1440c",
-          "postal": "238164"
-        },
-        {
-          "name": "BAKE INC",
-          "address": "345 JURONG EAST STREET 31 #01-27 YUHUA PLACE 600345",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26070000045",
-          "scheme": "Eating Establishment",
-          "id": "da0503ca-1962-4761-9a81-674b82f2b814",
-          "postal": "600345"
-        },
-        {
-          "name": "STT Restaurant Pte Ltd (MR2) @ 326 Woodlands",
-          "address": "326 WOODLANDS STREET 32 #01-103, MR2 730326",
-          "type": "Hawker",
-          "number": "EEHK20240000189",
-          "scheme": "Eating Establishment",
-          "id": "910e1570-d79e-49a1-8428-c8511bb664fb",
-          "postal": "730326"
-        },
-        {
-          "name": "Preparation Kitchen @ Precious Homes Bukit Panjang Pte Ltd",
-          "address": "21 SENJA ROAD #01 NUH WARD @ SENJA 677736",
-          "type": "Central Kitchen",
-          "number": "FPCK20250000438",
-          "scheme": "Food Preparation Area",
-          "id": "35088a5f-b171-4cdd-b556-786ee8f6c30c",
-          "postal": "677736"
-        },
-        {
-          "name": "Haus Ban Mian & Fish Soup",
-          "address": "70 STAMFORD ROAD Stall 04, Koufu #B1-26/27/28 SINGAPORE MANAGEMENT UNIVERSITY (LI KA SHING LIBRARY) 178901",
-          "type": "Hawker",
-          "number": "EEHK26070000020",
-          "scheme": "Eating Establishment",
-          "id": "01900427-7c6b-438a-9000-940fc8e676c3",
-          "postal": "178901"
-        },
-        {
-          "name": "BAKE INC",
-          "address": "154 SERANGOON NORTH AVENUE 1 #01-404 550154",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26070000044",
-          "scheme": "Eating Establishment",
-          "id": "da0503ca-1962-4761-9a81-674b82f2b814",
-          "postal": "550154"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Sanook Kitchen",
-          "address": "16 LORONG MAMBONG HOLLAND VILLAGE 277677",
-          "type": "Restaurant",
-          "number": "EERN21080012849",
-          "scheme": "Eating Establishment",
-          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-          "postal": "277677"
         }
       ],
       "updated": []
