@@ -1,5 +1,47 @@
 [
   {
+    "timestamp": "2026-09-16T00:16:45.348487",
+    "date": "2026-09-16",
+    "summary": {
+      "new": 3,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "EATZI GOURMET PTE LTD (Bakery)",
+          "address": "123 DEFU LANE 10 #04-04 JACK'S PLACE BUILDING 539232",
+          "type": "Central Kitchen",
+          "number": "FPCN21030001498",
+          "scheme": "Food Preparation Area",
+          "id": "04be4005-48a9-4014-b9dc-e64a80896f3a",
+          "postal": "539232"
+        },
+        {
+          "name": "EATZI GOURMET PTE LTD (Catering)",
+          "address": "123 DEFU LANE 10 #03-07 JACK'S PLACE BUILDING 539232",
+          "type": "Catering Company",
+          "number": "FPGN21030001518",
+          "scheme": "Food Preparation Area",
+          "id": "7c6a7411-9dd6-4fd8-803f-ee91487afc4f",
+          "postal": "539232"
+        },
+        {
+          "name": "Eatzi Gourmet Bistro",
+          "address": "60 YISHUN AVENUE 4 Safra Yishun Club House 769027",
+          "type": "Restaurant",
+          "number": "EERN21030012215",
+          "scheme": "Eating Establishment",
+          "id": "08650fdc-0df5-4ee8-8e4b-f4a038b38305",
+          "postal": "769027"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-09-15T00:35:36.967289",
     "date": "2026-09-15",
     "summary": {
@@ -11838,30 +11880,6 @@
           }
         }
       ]
-    }
-  },
-  {
-    "timestamp": "2026-07-19T23:06:57.747975",
-    "date": "2026-07-19",
-    "summary": {
-      "new": 0,
-      "removed": 1,
-      "updated": 0
-    },
-    "changes": {
-      "new": [],
-      "removed": [
-        {
-          "name": "Popeyes Famous Louisiana Chicken",
-          "address": "10 TAMPINES CENTRAL 1 #03-16B TAMPINES ONE 529536",
-          "type": "Restaurant",
-          "number": "EERT20240000375",
-          "scheme": "Eating Establishment",
-          "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
-          "postal": "529536"
-        }
-      ],
-      "updated": []
     }
   }
 ]

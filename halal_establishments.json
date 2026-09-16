@@ -8730,6 +8730,33 @@
     "postal": "489950"
   },
   {
+    "name": "Eatzi Gourmet Bistro",
+    "address": "60 YISHUN AVENUE 4 Safra Yishun Club House 769027",
+    "type": "Restaurant",
+    "number": "EERN21030012215",
+    "scheme": "Eating Establishment",
+    "id": "08650fdc-0df5-4ee8-8e4b-f4a038b38305",
+    "postal": "769027"
+  },
+  {
+    "name": "EATZI GOURMET PTE LTD (Bakery)",
+    "address": "123 DEFU LANE 10 #04-04 JACK'S PLACE BUILDING 539232",
+    "type": "Central Kitchen",
+    "number": "FPCN21030001498",
+    "scheme": "Food Preparation Area",
+    "id": "04be4005-48a9-4014-b9dc-e64a80896f3a",
+    "postal": "539232"
+  },
+  {
+    "name": "EATZI GOURMET PTE LTD (Catering)",
+    "address": "123 DEFU LANE 10 #03-07 JACK'S PLACE BUILDING 539232",
+    "type": "Catering Company",
+    "number": "FPGN21030001518",
+    "scheme": "Food Preparation Area",
+    "id": "7c6a7411-9dd6-4fd8-803f-ee91487afc4f",
+    "postal": "539232"
+  },
+  {
     "name": "ECREATIVE",
     "address": "18 YISHUN AVENUE 9 #02-39 JUNCTION NINE 768897",
     "type": "Snack Bar / Bakery",
@@ -17524,15 +17551,6 @@
   },
   {
     "name": "Mamma Mia !",
-    "address": "68 ORCHARD ROAD #03-79/83 PLAZA SINGAPURA 238839",
-    "type": "Restaurant",
-    "number": "EERT20230000950",
-    "scheme": "Eating Establishment",
-    "id": "80455c0a-abb7-4cac-afed-04258d5605f2",
-    "postal": "238839"
-  },
-  {
-    "name": "Mamma Mia !",
     "address": "3 TEMASEK BOULEVARD #B1-126A SUNTEC CITY MALL 038983",
     "type": "Restaurant",
     "number": "EERT20220000089",
@@ -17566,6 +17584,15 @@
     "scheme": "Eating Establishment",
     "id": "80455c0a-abb7-4cac-afed-04258d5605f2",
     "postal": "529536"
+  },
+  {
+    "name": "Mamma Mia !",
+    "address": "68 ORCHARD ROAD #03-79/83 PLAZA SINGAPURA 238839",
+    "type": "Restaurant",
+    "number": "EERT20230000950",
+    "scheme": "Eating Establishment",
+    "id": "80455c0a-abb7-4cac-afed-04258d5605f2",
+    "postal": "238839"
   },
   {
     "name": "Mamma Mia !",
