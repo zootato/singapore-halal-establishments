@@ -1,5 +1,84 @@
 [
   {
+    "timestamp": "2026-09-17T00:24:58.615869",
+    "date": "2026-09-17",
+    "summary": {
+      "new": 6,
+      "removed": 1,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "RICHTON EATS",
+          "address": "501A WELLINGTON CIRCLE #01-30 MONTREAL SPRING 751501",
+          "type": "Restaurant",
+          "number": "EERT26090000025",
+          "scheme": "Eating Establishment",
+          "id": "4d47b517-b093-48c1-b153-86fc0de9e4de",
+          "postal": "751501"
+        },
+        {
+          "name": "Oppa Korean Japanese",
+          "address": "417 YISHUN AVENUE 11 Kim San Leng #01-351, Stall 15 760417",
+          "type": "Hawker",
+          "number": "EEHK26090000022",
+          "scheme": "Eating Establishment",
+          "id": "581ec46c-efd4-4818-ace3-e6255994fd3e",
+          "postal": "760417"
+        },
+        {
+          "name": "RICHTON CAFE",
+          "address": "476A PASIR RIS DRIVE 6 #01-600 511476",
+          "type": "Restaurant",
+          "number": "EERT26090000024",
+          "scheme": "Eating Establishment",
+          "id": "c6c07ba1-c10c-4a5b-8c25-1bb0617f040d",
+          "postal": "511476"
+        },
+        {
+          "name": "DAILY CHICKEN",
+          "address": "83 PUNGGOL CENTRAL #01-66 WATERWAY POINT 828761",
+          "type": "Restaurant",
+          "number": "EERT26020000086",
+          "scheme": "Eating Establishment",
+          "id": "197e57c8-07f0-475b-8fba-154c40bb0bf0",
+          "postal": "828761"
+        },
+        {
+          "name": "TOP 73+1 Fishball Legacy",
+          "address": "532 ANG MO KIO AVENUE 10 #01-2495 CHENG SAN CENTRE 560532",
+          "type": "Restaurant",
+          "number": "EERT20230000248",
+          "scheme": "Eating Establishment",
+          "id": "9bc873fc-0be3-4a2d-a13c-a1afd18a0884",
+          "postal": "560532"
+        },
+        {
+          "name": "DAILY CHICKEN",
+          "address": "200 VICTORIA STREET #B1-06 BUGIS JUNCTION 188021",
+          "type": "Restaurant",
+          "number": "EERT26020000087",
+          "scheme": "Eating Establishment",
+          "id": "197e57c8-07f0-475b-8fba-154c40bb0bf0",
+          "postal": "188021"
+        }
+      ],
+      "removed": [
+        {
+          "name": "THE COFFEE BEAN & TEA LEAF",
+          "address": "203 UPPER THOMSON ROAD YEW LIAN PARK 574344",
+          "type": "Restaurant",
+          "number": "EERN22020013458",
+          "scheme": "Eating Establishment",
+          "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+          "postal": "574344"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-09-16T00:16:45.348487",
     "date": "2026-09-16",
     "summary": {
@@ -11805,78 +11884,6 @@
             "scheme": "Eating Establishment",
             "id": "673adfd7-08c1-4297-ace8-596ce887055d",
             "postal": "469662"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-07-20T23:14:09.535719",
-    "date": "2026-07-20",
-    "summary": {
-      "new": 4,
-      "removed": 0,
-      "updated": 1
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "SMOL",
-          "address": "2 PAYA LEBAR ROAD #01-05 PARK PLACE RESIDENCES AT PLQ 409053",
-          "type": "Restaurant",
-          "number": "EERT20250000372",
-          "scheme": "Eating Establishment",
-          "id": "7b7a12de-d91d-4c5d-b16e-b6cd48944873",
-          "postal": "409053"
-        },
-        {
-          "name": "All Things Delicious",
-          "address": "34 ARAB STREET #01-01 199733",
-          "type": "Restaurant",
-          "number": "EERX21070012654",
-          "scheme": "Eating Establishment",
-          "id": "70629d5b-679c-4711-a74b-f752b8415389",
-          "postal": "199733"
-        },
-        {
-          "name": "STSS CK PTE LTD",
-          "address": "165 PANDAN LOOP 128457",
-          "type": "Central Kitchen",
-          "number": "FPCK26070000056",
-          "scheme": "Food Preparation Area",
-          "id": "928444f4-80c3-433d-ba56-6c085178bdcd",
-          "postal": "128457"
-        },
-        {
-          "name": "Gourmel Pte Ltd",
-          "address": "5 BURN ROAD #06-02 TEE YIH JIA FOOD BUILDING 369972",
-          "type": "Catering Company",
-          "number": "FPCA20250000502",
-          "scheme": "Food Preparation Area",
-          "id": "eb078e0e-1e71-42a7-970d-bc6e0e398027",
-          "postal": "369972"
-        }
-      ],
-      "removed": [],
-      "updated": [
-        {
-          "previous": {
-            "name": "AMGD Superfood Restaurant",
-            "address": "20 LENGKOK BAHRU #01-10 ENABLING VILLAGE 159053",
-            "type": "Central Kitchen",
-            "number": "FPCK20250000565",
-            "scheme": "Food Preparation Area",
-            "id": "77fb5f9e-c268-41ce-b19b-0a7e71051fff",
-            "postal": "159053"
-          },
-          "current": {
-            "name": "AMGD Global",
-            "address": "20 LENGKOK BAHRU #01-10 ENABLING VILLAGE 159053",
-            "type": "Central Kitchen",
-            "number": "FPCK20250000565",
-            "scheme": "Food Preparation Area",
-            "id": "77fb5f9e-c268-41ce-b19b-0a7e71051fff",
-            "postal": "159053"
           }
         }
       ]

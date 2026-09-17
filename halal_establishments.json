@@ -7344,6 +7344,24 @@
     "postal": "528553"
   },
   {
+    "name": "DAILY CHICKEN",
+    "address": "200 VICTORIA STREET #B1-06 BUGIS JUNCTION 188021",
+    "type": "Restaurant",
+    "number": "EERT26020000087",
+    "scheme": "Eating Establishment",
+    "id": "197e57c8-07f0-475b-8fba-154c40bb0bf0",
+    "postal": "188021"
+  },
+  {
+    "name": "DAILY CHICKEN",
+    "address": "83 PUNGGOL CENTRAL #01-66 WATERWAY POINT 828761",
+    "type": "Restaurant",
+    "number": "EERT26020000086",
+    "scheme": "Eating Establishment",
+    "id": "197e57c8-07f0-475b-8fba-154c40bb0bf0",
+    "postal": "828761"
+  },
+  {
     "name": "DAILY COFFEE",
     "address": "750 CHAI CHEE ROAD #01-18 VIVA BUSINESS PARK 469000",
     "type": "Restaurant",
@@ -10972,15 +10990,6 @@
   },
   {
     "name": "GYOGYO",
-    "address": "50 JURONG GATEWAY ROAD #01-11 JEM 608549",
-    "type": "Restaurant",
-    "number": "EERT26040000054",
-    "scheme": "Eating Establishment",
-    "id": "298228cd-cc67-483f-b68d-5eef148415a7",
-    "postal": "608549"
-  },
-  {
-    "name": "GYOGYO",
     "address": "180 KITCHENER ROAD #02-39/40 CITY SQUARE MALL 208539",
     "type": "Restaurant",
     "number": "EERT26030000031",
@@ -11005,6 +11014,15 @@
     "scheme": "Eating Establishment",
     "id": "298228cd-cc67-483f-b68d-5eef148415a7",
     "postal": "179105"
+  },
+  {
+    "name": "GYOGYO",
+    "address": "50 JURONG GATEWAY ROAD #01-11 JEM 608549",
+    "type": "Restaurant",
+    "number": "EERT26040000054",
+    "scheme": "Eating Establishment",
+    "id": "298228cd-cc67-483f-b68d-5eef148415a7",
+    "postal": "608549"
   },
   {
     "name": "GYOZA-SAN",
@@ -11503,15 +11521,6 @@
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
-    "address": "524A JELAPANG ROAD #03-13 GREENRIDGE SHOPPING CENTRE 671524",
-    "type": "Halal Section",
-    "number": "EEHS20250000111",
-    "scheme": "Eating Establishment",
-    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
-    "postal": "671524"
-  },
-  {
-    "name": "Halal Section @ NTUC FAIRPRICE",
     "address": "80 MARINE PARADE ROAD #03-28 PARKWAY PARADE 449269",
     "type": "Central Kitchen",
     "number": "FPCN21050001520",
@@ -11527,6 +11536,15 @@
     "scheme": "Food Preparation Area",
     "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
     "postal": "150166"
+  },
+  {
+    "name": "Halal Section @ NTUC FAIRPRICE",
+    "address": "524A JELAPANG ROAD #03-13 GREENRIDGE SHOPPING CENTRE 671524",
+    "type": "Halal Section",
+    "number": "EEHS20250000111",
+    "scheme": "Eating Establishment",
+    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
+    "postal": "671524"
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
@@ -22113,6 +22131,15 @@
     "postal": "188807"
   },
   {
+    "name": "Oppa Korean Japanese",
+    "address": "417 YISHUN AVENUE 11 Kim San Leng #01-351, Stall 15 760417",
+    "type": "Hawker",
+    "number": "EEHK26090000022",
+    "scheme": "Eating Establishment",
+    "id": "581ec46c-efd4-4818-ace3-e6255994fd3e",
+    "postal": "760417"
+  },
+  {
     "name": "ORANGE CLOVE CATERING PTE LTD",
     "address": "1 KAKI BUKIT ROAD 1 #05-03/04/05/06 ENTERPRISE ONE 415934",
     "type": "Catering Company",
@@ -25279,6 +25306,24 @@
     "scheme": "Food Preparation Area",
     "id": "a8e2ba73-748e-46e1-a63f-37048d0f04b2",
     "postal": "159964"
+  },
+  {
+    "name": "RICHTON CAFE",
+    "address": "476A PASIR RIS DRIVE 6 #01-600 511476",
+    "type": "Restaurant",
+    "number": "EERT26090000024",
+    "scheme": "Eating Establishment",
+    "id": "c6c07ba1-c10c-4a5b-8c25-1bb0617f040d",
+    "postal": "511476"
+  },
+  {
+    "name": "RICHTON EATS",
+    "address": "501A WELLINGTON CIRCLE #01-30 MONTREAL SPRING 751501",
+    "type": "Restaurant",
+    "number": "EERT26090000025",
+    "scheme": "Eating Establishment",
+    "id": "4d47b517-b093-48c1-b153-86fc0de9e4de",
+    "postal": "751501"
   },
   {
     "name": "RILASSI CATERING PTE. LTD.",
@@ -32428,15 +32473,6 @@
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "203 UPPER THOMSON ROAD YEW LIAN PARK 574344",
-    "type": "Restaurant",
-    "number": "EERN22020013458",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "574344"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
     "address": "1 SENGKANG SQUARE #03-36 ,37,38, COMPASS ONE 545078",
     "type": "Restaurant",
     "number": "EERN22020013459",
@@ -33829,6 +33865,15 @@
     "scheme": "Eating Establishment",
     "id": "2dce1ae1-5e33-4749-952e-c14abd6ebf2b",
     "postal": "788887"
+  },
+  {
+    "name": "TOP 73+1 Fishball Legacy",
+    "address": "532 ANG MO KIO AVENUE 10 #01-2495 CHENG SAN CENTRE 560532",
+    "type": "Restaurant",
+    "number": "EERT20230000248",
+    "scheme": "Eating Establishment",
+    "id": "9bc873fc-0be3-4a2d-a13c-a1afd18a0884",
+    "postal": "560532"
   },
   {
     "name": "Toppot Mala, Hotpot, Grill Fish",
