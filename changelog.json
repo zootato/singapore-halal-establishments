@@ -1,5 +1,29 @@
 [
   {
+    "timestamp": "2026-09-18T00:10:08.180820",
+    "date": "2026-09-18",
+    "summary": {
+      "new": 1,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "L & M Seafood",
+          "address": "12 HAIG ROAD Stall MR1@Kedai Kopi #01-#323 HAIG VIEW 430012",
+          "type": "Hawker",
+          "number": "EEHK26090000023",
+          "scheme": "Eating Establishment",
+          "id": "a270c4f1-833f-4f1b-9f64-fad74f459d26",
+          "postal": "430012"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-09-17T00:24:58.615869",
     "date": "2026-09-17",
     "summary": {
@@ -11721,169 +11745,6 @@
             "scheme": "Food Preparation Area",
             "id": "4b4cc1eb-ed06-4281-b710-ba9a667746eb",
             "postal": "555859"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-07-22T23:18:35.650107",
-    "date": "2026-07-22",
-    "summary": {
-      "new": 12,
-      "removed": 2,
-      "updated": 1
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Saayang Sayang Indonesian Nasi Padang",
-          "address": "65 AIRPORT BOULEVARD Kopitiam #B2-03 CHANGI AIRPORT TERMINAL 3, MR2 819663",
-          "type": "Hawker",
-          "number": "EEHK26070000066",
-          "scheme": "Eating Establishment",
-          "id": "c1e5fbf8-ddd8-441f-8b0a-dd3d824c50e6",
-          "postal": "819663"
-        },
-        {
-          "name": "CAMELLIA BALLROOM KITCHEN @ CROWNE PLAZA HOTEL",
-          "address": "75 AIRPORT BOULEVARD #02 CROWNE PLAZA CHANGI AIRPORT 819664",
-          "type": "Catering Company",
-          "number": "FPCA26070000057",
-          "scheme": "Food Preparation Area",
-          "id": "83ed610f-16fa-4230-a910-df6e93ba2fbb",
-          "postal": "819664"
-        },
-        {
-          "name": "Greentea Rice (S18) @ Fernvale Hawker Centre",
-          "address": "21 SENGKANG WEST AVENUE #03-18 FERNVALE POINT, Stall 18 797650",
-          "type": "Hawker",
-          "number": "EEHK20240000467",
-          "scheme": "Eating Establishment",
-          "id": "68dbe8d4-c5d5-44f7-a58d-8e803ed46c32",
-          "postal": "797650"
-        },
-        {
-          "name": "Family Hakata",
-          "address": "728 ANG MO KIO AVENUE 6 MR6, KPH 1990 #01-4200 560728",
-          "type": "Hawker",
-          "number": "EEHK26070000062",
-          "scheme": "Eating Establishment",
-          "id": "3a97e743-10b9-443a-b72e-8fc7ea203d77",
-          "postal": "560728"
-        },
-        {
-          "name": "Head Chefz",
-          "address": "2 SIMEI STREET 3 #01-30/31 CHANGI GENERAL HOSPITAL, MR2 529889",
-          "type": "Hawker",
-          "number": "EEHK26070000064",
-          "scheme": "Eating Establishment",
-          "id": "2959fcb8-5312-4de5-8d3e-dae15f549092",
-          "postal": "529889"
-        },
-        {
-          "name": "Saayang Sayang Indonesian Nasi Padang",
-          "address": "10 AIRPORT BOULEVARD #02-205, Kopitiam, MR1 CHANGI AIRPORT TERMINAL 4 819665",
-          "type": "Hawker",
-          "number": "EEHK26070000065",
-          "scheme": "Eating Establishment",
-          "id": "c1e5fbf8-ddd8-441f-8b0a-dd3d824c50e6",
-          "postal": "819665"
-        },
-        {
-          "name": "Sunbo Express Chicken Rice + BBQ",
-          "address": "149 SIMS DRIVE STALL 03, FOODGLE HUB JAMES COOK UNIVERSITY SINGAPORE 387380",
-          "type": "Hawker",
-          "number": "EEHK26070000061",
-          "scheme": "Eating Establishment",
-          "id": "b9ba0d92-0e9f-43bf-9fe3-cf6c057655e1",
-          "postal": "387380"
-        },
-        {
-          "name": "EATPIZZA",
-          "address": "601 MACPHERSON ROAD #01-11 GRANTRAL COMPLEX 368242",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26070000050",
-          "scheme": "Eating Establishment",
-          "id": "d56b85b3-1f45-4049-ab5c-610893c7de8b",
-          "postal": "368242"
-        },
-        {
-          "name": "GREENTEA RICE (S71) @ HAWKER OTH",
-          "address": "1 TAMPINES WALK #01-71 HAWKER CENTRE @ OUR TAMPINES HUB 528523",
-          "type": "Hawker",
-          "number": "EEHK20250000414",
-          "scheme": "Eating Establishment",
-          "id": "5d15f33b-1cd5-48bf-975e-d5b13aff2a94",
-          "postal": "528523"
-        },
-        {
-          "name": "Yu Ni Xiang Yu",
-          "address": "65 AIRPORT BOULEVARD #B2-03 (MR4) @ KOPITIAM CHANGI AIRPORT TERMINAL 3 819663",
-          "type": "Hawker",
-          "number": "EEHK26070000087",
-          "scheme": "Eating Establishment",
-          "id": "410fef90-6f58-4073-a86c-77ba32d1994b",
-          "postal": "819663"
-        },
-        {
-          "name": "Saayang Sayang Indonesian Nasi Padang",
-          "address": "17 WOODLANDS DRIVE 17 Koufu, Stall 5 #B1-03/04 WOODLANDS HEALTH CAMPUS 737628",
-          "type": "Hawker",
-          "number": "EEHK26070000067",
-          "scheme": "Eating Establishment",
-          "id": "e17cf586-c550-43b1-a28c-599fade7cdf9",
-          "postal": "737628"
-        },
-        {
-          "name": "Thunder Tea Rice",
-          "address": "1550 BEDOK NORTH AVENUE 4 #02-06 JTC BEDOK FOOD CITY 489950",
-          "type": "Hawker",
-          "number": "EEHK26070000086",
-          "scheme": "Eating Establishment",
-          "id": "57526664-586f-435b-a161-b2c54de4a62a",
-          "postal": "489950"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Sanook Kitchen",
-          "address": "1 STADIUM PLACE #01-16/K8 397628",
-          "type": "Restaurant",
-          "number": "EERN21080012848",
-          "scheme": "Eating Establishment",
-          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-          "postal": "397628"
-        },
-        {
-          "name": "TIP TOP",
-          "address": "1 PASIR RIS CLOSE #02-109 E!HUB@DOWNTOWN EAST 519599",
-          "type": "Restaurant",
-          "number": "EERT20240000728",
-          "scheme": "Eating Establishment",
-          "id": "87a00d7d-0af0-4000-be56-7b7facc1c180",
-          "postal": "519599"
-        }
-      ],
-      "updated": [
-        {
-          "previous": {
-            "name": "Mala Wok (S11) @ One Two Eat Bedok Heartbeat",
-            "address": "11 BEDOK NORTH STREET 1 #01-28/29 HEARTBEAT @ BEDOK,Stall 11 469662",
-            "type": "Hawker",
-            "number": "EEHK20240000556",
-            "scheme": "Eating Establishment",
-            "id": "673adfd7-08c1-4297-ace8-596ce887055d",
-            "postal": "469662"
-          },
-          "current": {
-            "name": "Mala Wok (S11) @ One Two Eat Bedok Heartbeat",
-            "address": "11 BEDOK NORTH STREET 1 #01-28/29 HEARTBEAT @ BEDOK, Stall 11 469662",
-            "type": "Hawker",
-            "number": "EEHK20240000556",
-            "scheme": "Eating Establishment",
-            "id": "673adfd7-08c1-4297-ace8-596ce887055d",
-            "postal": "469662"
           }
         }
       ]

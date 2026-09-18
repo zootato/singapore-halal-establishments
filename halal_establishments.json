@@ -16201,6 +16201,15 @@
   },
   {
     "name": "L & M Seafood",
+    "address": "12 HAIG ROAD Stall MR1@Kedai Kopi #01-#323 HAIG VIEW 430012",
+    "type": "Hawker",
+    "number": "EEHK26090000023",
+    "scheme": "Eating Establishment",
+    "id": "a270c4f1-833f-4f1b-9f64-fad74f459d26",
+    "postal": "430012"
+  },
+  {
+    "name": "L & M Seafood",
     "address": "105 CANBERRA STREET Stall No MR4@Yong Li Coffee Station #01-#01 EASTBROOK @ CANBERRA 750105",
     "type": "Hawker",
     "number": "EEHK26080000006",
