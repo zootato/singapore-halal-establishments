@@ -1,5 +1,111 @@
 [
   {
+    "timestamp": "2026-09-19T00:12:35.792627",
+    "date": "2026-09-19",
+    "summary": {
+      "new": 5,
+      "removed": 5,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "STAFF CANTEEN STALL @SEAGATE W3(MNGD By PRO*3 INST CATERING PL)",
+          "address": "121 WOODLANDS AVENUE 5 SEAGATE TECHNOLOGY 739009",
+          "type": "Staff Canteen",
+          "number": "EEFX20100011514",
+          "scheme": "Eating Establishment",
+          "id": "28320a48-c1ea-42b8-b8fe-a3bcc17fe12a",
+          "postal": "739009"
+        },
+        {
+          "name": "STAFF CANTEEN STALL @SEAGATE W2(MNGD By PRO*3 INST CATERING PL)",
+          "address": "90 WOODLANDS AVENUE 7 Seagate Technology 737911",
+          "type": "Staff Canteen",
+          "number": "EEFX20100011513",
+          "scheme": "Eating Establishment",
+          "id": "095008f6-21d8-41af-8ff4-bb9c51259c9e",
+          "postal": "737911"
+        },
+        {
+          "name": "Haruyama Udon",
+          "address": "10 TAMPINES CENTRAL 1 #B1-09 TAMPINES ONE 529536",
+          "type": "Restaurant",
+          "number": "EERT20250000627",
+          "scheme": "Eating Establishment",
+          "id": "fd47b243-31f5-4a8e-91be-5b83d1f389d4",
+          "postal": "529536"
+        },
+        {
+          "name": "La-Kopi/Kampong Shiok & Sedap @ SRC (Mngd By Pro*3 Institutional Catering PL)",
+          "address": "1 MERLIMAU ROAD 628260",
+          "type": "Staff Canteen",
+          "number": "EESC20250000764",
+          "scheme": "Eating Establishment",
+          "id": "372e2899-ad11-41c4-8bca-4a60657080c1",
+          "postal": "628260"
+        },
+        {
+          "name": "Staff Cafeteria @ Wyeth Nutritionals (S) Pte Ltd (Managed By The Wok People)",
+          "address": "1 TUAS SOUTH AVENUE 4 TUAS BIOMEDICAL PARK I 637609",
+          "type": "Staff Canteen",
+          "number": "EESC20250000672",
+          "scheme": "Eating Establishment",
+          "id": "8679eb6b-6b90-4997-bbac-925f4b66f0d2",
+          "postal": "637609"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Tim Hortons",
+          "address": "1 HARBOURFRONT WALK #01-207 VIVOCITY 098585",
+          "type": "Restaurant",
+          "number": "EERT26020000001",
+          "scheme": "Eating Establishment",
+          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+          "postal": "098585"
+        },
+        {
+          "name": "Tim Hortons",
+          "address": "23 SERANGOON CENTRAL #01-10 NEX 556083",
+          "type": "Restaurant",
+          "number": "EERT26020000002",
+          "scheme": "Eating Establishment",
+          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+          "postal": "556083"
+        },
+        {
+          "name": "Telur Thai (S19) @ Kopitiam Tampines Mall",
+          "address": "4 TAMPINES CENTRAL 5 #04-27 TAMPINES MALL, Stall 19 529510",
+          "type": "Hawker",
+          "number": "EEHK20240000079",
+          "scheme": "Eating Establishment",
+          "id": "135a9f83-f2f4-40b3-8aac-e663ee9034df",
+          "postal": "529510"
+        },
+        {
+          "name": "Tim Hortons",
+          "address": "3 TEMASEK BOULEVARD #01-314 SUNTEC CITY MALL 038983",
+          "type": "Restaurant",
+          "number": "EERT26020000003",
+          "scheme": "Eating Establishment",
+          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+          "postal": "038983"
+        },
+        {
+          "name": "SUBWAY",
+          "address": "9 WOODLANDS AVENUE 9 #01-02/03 REPUBLIC POLYTECHNIC 738964",
+          "type": "Restaurant",
+          "number": "EERN21110013109",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "738964"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-09-18T00:10:08.180820",
     "date": "2026-09-18",
     "summary": {
@@ -11684,70 +11790,6 @@
       ],
       "removed": [],
       "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-07-23T23:10:41.076915",
-    "date": "2026-07-23",
-    "summary": {
-      "new": 2,
-      "removed": 1,
-      "updated": 1
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "M Kitchen",
-          "address": "200 TUAS SOUTH AVENUE 5, Stall No 4@Gateway Cafe PSA Tuas Port Transport Hub 639386",
-          "type": "Hawker",
-          "number": "EEHK26070000060",
-          "scheme": "Eating Establishment",
-          "id": "94328c84-6332-4304-8ada-8f9ec51a8b0b",
-          "postal": "639386"
-        },
-        {
-          "name": "WOK HEY",
-          "address": "80 MARINE PARADE ROAD (PART OF) #01-K39 PARKWAY PARADE 449269",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26070000090",
-          "scheme": "Eating Establishment",
-          "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
-          "postal": "449269"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Malabar Kitchen",
-          "address": "1 DICKSON ROAD #Level 1 209493",
-          "type": "Restaurant",
-          "number": "EERT26010000114",
-          "scheme": "Eating Establishment",
-          "id": "73c93ac7-c09b-438f-94b4-08d803993c80",
-          "postal": "209493"
-        }
-      ],
-      "updated": [
-        {
-          "previous": {
-            "name": "NIKU IKU PTE LTD",
-            "address": "55 SERANGOON NORTH AVENUE 4 #01-19/20/K1 #01-02 S9 555859",
-            "type": "Central Kitchen",
-            "number": "FPCK20250000547",
-            "scheme": "Food Preparation Area",
-            "id": "4b4cc1eb-ed06-4281-b710-ba9a667746eb",
-            "postal": "555859"
-          },
-          "current": {
-            "name": "NIKU IKU PTE LTD",
-            "address": "55 SERANGOON NORTH AVENUE 4 #01-02/19/20/K1 S9 555859",
-            "type": "Central Kitchen",
-            "number": "FPCK20250000547",
-            "scheme": "Food Preparation Area",
-            "id": "4b4cc1eb-ed06-4281-b710-ba9a667746eb",
-            "postal": "555859"
-          }
-        }
-      ]
     }
   }
 ]

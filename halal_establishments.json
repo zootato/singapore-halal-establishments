@@ -11826,6 +11826,15 @@
     "postal": "239695"
   },
   {
+    "name": "Haruyama Udon",
+    "address": "10 TAMPINES CENTRAL 1 #B1-09 TAMPINES ONE 529536",
+    "type": "Restaurant",
+    "number": "EERT20250000627",
+    "scheme": "Eating Establishment",
+    "id": "fd47b243-31f5-4a8e-91be-5b83d1f389d4",
+    "postal": "529536"
+  },
+  {
     "name": "HARYASIN WEDDING BIRYANI",
     "address": "14 CUFF ROAD #1st Storey LITTLE INDIA CONSERVATION AREA 209725",
     "type": "Restaurant",
@@ -16261,6 +16270,15 @@
     "scheme": "Eating Establishment",
     "id": "9654f029-478a-446e-9e4a-6829049195b9",
     "postal": "670257"
+  },
+  {
+    "name": "La-Kopi/Kampong Shiok & Sedap @ SRC (Mngd By Pro*3 Institutional Catering PL)",
+    "address": "1 MERLIMAU ROAD 628260",
+    "type": "Staff Canteen",
+    "number": "EESC20250000764",
+    "scheme": "Eating Establishment",
+    "id": "372e2899-ad11-41c4-8bca-4a60657080c1",
+    "postal": "628260"
   },
   {
     "name": "LAAZIIZ",
@@ -27819,6 +27837,15 @@
     "postal": "637578"
   },
   {
+    "name": "Staff Cafeteria @ Wyeth Nutritionals (S) Pte Ltd (Managed By The Wok People)",
+    "address": "1 TUAS SOUTH AVENUE 4 TUAS BIOMEDICAL PARK I 637609",
+    "type": "Staff Canteen",
+    "number": "EESC20250000672",
+    "scheme": "Eating Establishment",
+    "id": "8679eb6b-6b90-4997-bbac-925f4b66f0d2",
+    "postal": "637609"
+  },
+  {
     "name": "Staff Cafeteria @Exxon Mobil (Mngd by Compass Group)",
     "address": "18 PIONEER ROAD EXXONMOBIL ASIA PACIFIC PTE. LTD., FACILITIES & SERVICES 628498",
     "type": "Staff Canteen",
@@ -27988,6 +28015,24 @@
     "scheme": "Eating Establishment",
     "id": "3bab7631-4269-4fc7-88a5-0745e2808a70",
     "postal": "629046"
+  },
+  {
+    "name": "STAFF CANTEEN STALL @SEAGATE W2(MNGD By PRO*3 INST CATERING PL)",
+    "address": "90 WOODLANDS AVENUE 7 Seagate Technology 737911",
+    "type": "Staff Canteen",
+    "number": "EEFX20100011513",
+    "scheme": "Eating Establishment",
+    "id": "095008f6-21d8-41af-8ff4-bb9c51259c9e",
+    "postal": "737911"
+  },
+  {
+    "name": "STAFF CANTEEN STALL @SEAGATE W3(MNGD By PRO*3 INST CATERING PL)",
+    "address": "121 WOODLANDS AVENUE 5 SEAGATE TECHNOLOGY 739009",
+    "type": "Staff Canteen",
+    "number": "EEFX20100011514",
+    "scheme": "Eating Establishment",
+    "id": "28320a48-c1ea-42b8-b8fe-a3bcc17fe12a",
+    "postal": "739009"
   },
   {
     "name": "STAFF CANTEEN STALL @UTAC AMK (MNGD BY PRO*3 INST. CATERING PL)",
@@ -29149,15 +29194,6 @@
     "scheme": "Eating Establishment",
     "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
     "postal": "730548"
-  },
-  {
-    "name": "SUBWAY",
-    "address": "9 WOODLANDS AVENUE 9 #01-02/03 REPUBLIC POLYTECHNIC 738964",
-    "type": "Restaurant",
-    "number": "EERN21110013109",
-    "scheme": "Eating Establishment",
-    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-    "postal": "738964"
   },
   {
     "name": "SUBWAY",
@@ -31509,15 +31545,6 @@
     "postal": "169608"
   },
   {
-    "name": "Telur Thai (S19) @ Kopitiam Tampines Mall",
-    "address": "4 TAMPINES CENTRAL 5 #04-27 TAMPINES MALL, Stall 19 529510",
-    "type": "Hawker",
-    "number": "EEHK20240000079",
-    "scheme": "Eating Establishment",
-    "id": "135a9f83-f2f4-40b3-8aac-e663ee9034df",
-    "postal": "529510"
-  },
-  {
     "name": "Telur Thai (S8) @ Kopitiam Northpoint",
     "address": "930 YISHUN AVENUE 2 #B2-12, Stall 8 769098",
     "type": "Hawker",
@@ -33487,33 +33514,6 @@
     "scheme": "Food Preparation Area",
     "id": "862ce995-33f0-4ef6-81bf-ed12cbb00839",
     "postal": "534106"
-  },
-  {
-    "name": "Tim Hortons",
-    "address": "1 HARBOURFRONT WALK #01-207 VIVOCITY 098585",
-    "type": "Restaurant",
-    "number": "EERT26020000001",
-    "scheme": "Eating Establishment",
-    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-    "postal": "098585"
-  },
-  {
-    "name": "Tim Hortons",
-    "address": "23 SERANGOON CENTRAL #01-10 NEX 556083",
-    "type": "Restaurant",
-    "number": "EERT26020000002",
-    "scheme": "Eating Establishment",
-    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-    "postal": "556083"
-  },
-  {
-    "name": "Tim Hortons",
-    "address": "3 TEMASEK BOULEVARD #01-314 SUNTEC CITY MALL 038983",
-    "type": "Restaurant",
-    "number": "EERT26020000003",
-    "scheme": "Eating Establishment",
-    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-    "postal": "038983"
   },
   {
     "name": "Tim Hortons",
