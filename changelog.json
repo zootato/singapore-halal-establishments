@@ -1,5 +1,381 @@
 [
   {
+    "timestamp": "2026-09-22T00:53:32.922514",
+    "date": "2026-09-22",
+    "summary": {
+      "new": 34,
+      "removed": 6,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Ok Chicken Rice & Humfull Prawn Laksa (S4) @ TasteBud Eating House",
+          "address": "932 HOUGANG AVENUE 9 #01-04, Stall 4 530932",
+          "type": "Hawker",
+          "number": "EEHK20230000960",
+          "scheme": "Eating Establishment",
+          "id": "4b88461d-1377-4532-b8b7-452d64a2dd48",
+          "postal": "530932"
+        },
+        {
+          "name": "Sukiya Gyudon • Curry",
+          "address": "11 BEDOK NORTH STREET 1 #01-13 HEARTBEAT @ BEDOK 469662",
+          "type": "Restaurant",
+          "number": "EERT26090000026",
+          "scheme": "Eating Establishment",
+          "id": "f25faa72-19a1-4c85-a920-fc1462f72292",
+          "postal": "469662"
+        },
+        {
+          "name": "So Pho",
+          "address": "4 TAMPINES CENTRAL 5 #04-30/31 TAMPINES MALL 529510",
+          "type": "Restaurant",
+          "number": "EERN21070012664",
+          "scheme": "Eating Establishment",
+          "id": "eab58cf8-5aa4-4b96-b522-760a4cceded7",
+          "postal": "529510"
+        },
+        {
+          "name": "Bali Thai Restaurant",
+          "address": "3 TEMASEK BOULEVARD #B1-121B, B1-121A SUNTEC CITY MALL 038983",
+          "type": "Restaurant",
+          "number": "EERN21070012697",
+          "scheme": "Eating Establishment",
+          "id": "9a364ce4-e56d-44ac-b375-786f51bdbbab",
+          "postal": "038983"
+        },
+        {
+          "name": "SANCHOS TAQUERIA",
+          "address": "290 ORCHARD ROAD #B1-20 THE PARAGON 238859",
+          "type": "Restaurant",
+          "number": "EERT20240001034",
+          "scheme": "Eating Establishment",
+          "id": "7c719d5b-4cd3-4ea3-8665-5701f69b8665",
+          "postal": "238859"
+        },
+        {
+          "name": "San Chon Korean & Japanese Cuisine (S7)@Koufu Republic Polytechnic",
+          "address": "31 WOODLANDS AVENUE 9 #01-01 REPUBLIC POLYTECHNIC, Stall 7 737907",
+          "type": "Hawker",
+          "number": "EEHK20240000561",
+          "scheme": "Eating Establishment",
+          "id": "66790145-d572-4e22-9329-5815012816ba",
+          "postal": "737907"
+        },
+        {
+          "name": "OK CHICKEN RICE/HUMFULL PRAWN LAKSA (S5) @ Foodgle 308C Punggol Walk",
+          "address": "308C PUNGGOL WALK #01-308 WATERWAY TERRACES I, (Stall 5) 823308",
+          "type": "Hawker",
+          "number": "EEHK20250000273",
+          "scheme": "Eating Establishment",
+          "id": "85c0d49d-87f9-4e1a-a912-8f2936b0cf6b",
+          "postal": "823308"
+        },
+        {
+          "name": "Streats Cafe",
+          "address": "180 KITCHENER ROAD #01-01/03 CITY SQUARE MALL 208539",
+          "type": "Restaurant",
+          "number": "EERT20220000581",
+          "scheme": "Eating Establishment",
+          "id": "8190b22d-00bd-4d74-8267-b2ed861d2394",
+          "postal": "208539"
+        },
+        {
+          "name": "Bali Thai Restaurant",
+          "address": "2 JURONG EAST STREET 21 #01-21 IMM BUILDING 609601",
+          "type": "Restaurant",
+          "number": "EERN21070012696",
+          "scheme": "Eating Establishment",
+          "id": "9a364ce4-e56d-44ac-b375-786f51bdbbab",
+          "postal": "609601"
+        },
+        {
+          "name": "OK Chicken Rice&Humfull Prawn Laksa(S4)@252 FoodCourt Jurong East",
+          "address": "252 JURONG EAST STREET 24 #01-183 YUHUA VILLAGE, Stall 4 600252",
+          "type": "Hawker",
+          "number": "EEHK20240000161",
+          "scheme": "Eating Establishment",
+          "id": "f2dfbb07-348d-4f5a-ba74-ad4c23a0b022",
+          "postal": "600252"
+        },
+        {
+          "name": "Ace Western (MR2)@Foodgle Hub ITE College West",
+          "address": "1 CHOA CHU KANG GROVE #03-05 ITE COLLEGE WEST, MR2 (PART OF) 688236",
+          "type": "Hawker",
+          "number": "EEHK20230000029",
+          "scheme": "Eating Establishment",
+          "id": "2287ca65-3b80-4a9a-82d8-8b2cd3cfe9c3",
+          "postal": "688236"
+        },
+        {
+          "name": "OK CHICKEN RICE & HUMFULL PRAWN LAKSA",
+          "address": "11 TAMPINES STREET 32 #01-01 TAMPINES MART HAPPY HAWKER, MR5 529287",
+          "type": "Hawker",
+          "number": "EEHK20250000818",
+          "scheme": "Eating Establishment",
+          "id": "a4a87286-c25c-4fdb-89de-38f84524a4bf",
+          "postal": "529287"
+        },
+        {
+          "name": "So Pho",
+          "address": "238 THOMSON ROAD #02-43/45 NOVENA SQUARE 307683",
+          "type": "Restaurant",
+          "number": "EERN21070012694",
+          "scheme": "Eating Establishment",
+          "id": "eab58cf8-5aa4-4b96-b522-760a4cceded7",
+          "postal": "307683"
+        },
+        {
+          "name": "Ok Chicken Rice & Humfull Prawn Laksa (S3) @ Al Majlis Yishun",
+          "address": "513 YISHUN STREET 51 #01-01 SARACA BREEZE @ YISHUN, stall 3 760513",
+          "type": "Hawker",
+          "number": "EEHK20240001014",
+          "scheme": "Eating Establishment",
+          "id": "a75b9129-1671-4edd-9586-3ab64f98a84d",
+          "postal": "760513"
+        },
+        {
+          "name": "Ok Chicken Rice & Humfull Prawn Laksa (S4) @ Staff Canteen HP",
+          "address": "1 DEPOT CLOSE (BLOCK A LEVEL 2), STALL 4 109841",
+          "type": "Staff Canteen",
+          "number": "EESC20240001102",
+          "scheme": "Eating Establishment",
+          "id": "cef9c33b-3d6d-4e73-a85a-baf99545d2b3",
+          "postal": "109841"
+        },
+        {
+          "name": "OK CHICKEN RICE&HUMFULL PRAWN LAKSA (MR8) @ Meet 55 Lengkok Bahru",
+          "address": "55 LENGKOK BAHRU #01-387, MR 8 151055",
+          "type": "Hawker",
+          "number": "EEHK20240000448",
+          "scheme": "Eating Establishment",
+          "id": "6d254b74-85b7-44d4-8300-9232735a66d0",
+          "postal": "151055"
+        },
+        {
+          "name": "So Pho",
+          "address": "83 Punggol Central #01-28 Waterway Point (East Wing) 828761",
+          "type": "Restaurant",
+          "number": "EERN21070012673",
+          "scheme": "Eating Establishment",
+          "id": "eab58cf8-5aa4-4b96-b522-760a4cceded7",
+          "postal": "828761"
+        },
+        {
+          "name": "Bali Thai Restaurant",
+          "address": "391 ORCHARD ROAD #05-29 TAKASHIMAYA SHOPPING CENTRE 238872",
+          "type": "Restaurant",
+          "number": "EERN21070012695",
+          "scheme": "Eating Establishment",
+          "id": "9a364ce4-e56d-44ac-b375-786f51bdbbab",
+          "postal": "238872"
+        },
+        {
+          "name": "Madas Rendang",
+          "address": "55 LENGKOK BAHRU Stall 6, 777 Coffeeshop #01-387 151055",
+          "type": "Hawker",
+          "number": "EEHK26090000018",
+          "scheme": "Eating Establishment",
+          "id": "fea46497-7880-4def-9d81-d8e3244818b6",
+          "postal": "151055"
+        },
+        {
+          "name": "Kazo",
+          "address": "11 TANJONG KATONG ROAD #B1-K24/25 KINEX 437157",
+          "type": "Restaurant",
+          "number": "EERT26090000029",
+          "scheme": "Eating Establishment",
+          "id": "766847d6-38ea-4363-818a-36bafdf12534",
+          "postal": "437157"
+        },
+        {
+          "name": "Ok Chicken Rice & Humfull Prawn Laksa(S6)@Broadway Marsiling Lane",
+          "address": "19 MARSILING LANE #01-283, Stall 6 730019",
+          "type": "Hawker",
+          "number": "EEHK20230000573",
+          "scheme": "Eating Establishment",
+          "id": "2dbb7936-51fd-4677-9b94-bd4441a81a50",
+          "postal": "730019"
+        },
+        {
+          "name": "Sanchon",
+          "address": "302 TENGAH PARK AVENUE Stall 05, Gourmet Paradise #02-01/02/03 PARC POINT 690302",
+          "type": "Hawker",
+          "number": "EEHK26090000032",
+          "scheme": "Eating Establishment",
+          "id": "f6ba948d-0355-49d2-94f9-07b02b702079",
+          "postal": "690302"
+        },
+        {
+          "name": "OK CHICKEN RICE & HUMFULL PRAWN LAKSA (S11) @ Coffee & Tea",
+          "address": "323 BUKIT BATOK STREET 33 #01-114, Stall 11, Coffee & Tea 650323",
+          "type": "Hawker",
+          "number": "EEHK20250000325",
+          "scheme": "Eating Establishment",
+          "id": "1541c99d-0ab8-4df7-9c34-0c14f78eef4d",
+          "postal": "650323"
+        },
+        {
+          "name": "Sanchon",
+          "address": "127 PLANTATION CRESCENT MR01, Koufu #03-02 PLANTATION PLAZA 690127",
+          "type": "Hawker",
+          "number": "EEHK25120000074",
+          "scheme": "Eating Establishment",
+          "id": "f6ba948d-0355-49d2-94f9-07b02b702079",
+          "postal": "690127"
+        },
+        {
+          "name": "Madas Rendang",
+          "address": "399 YUNG SHENG ROAD Stall 5, Koufu #01-43 TAMAN JURONG SHOPPING CENTRE 610399",
+          "type": "Hawker",
+          "number": "EEHK26090000020",
+          "scheme": "Eating Establishment",
+          "id": "fea46497-7880-4def-9d81-d8e3244818b6",
+          "postal": "610399"
+        },
+        {
+          "name": "So Pho",
+          "address": "3155 COMMONWEALTH AVENUE WEST #04-34 THE CLEMENTI MALL 129588",
+          "type": "Restaurant",
+          "number": "EERT26090000015",
+          "scheme": "Eating Establishment",
+          "id": "eab58cf8-5aa4-4b96-b522-760a4cceded7",
+          "postal": "129588"
+        },
+        {
+          "name": "Bali Thai Restaurant",
+          "address": "1 WOODLANDS SQUARE #05-05 CAUSEWAY POINT 738099",
+          "type": "Restaurant",
+          "number": "EERN21070012698",
+          "scheme": "Eating Establishment",
+          "id": "9a364ce4-e56d-44ac-b375-786f51bdbbab",
+          "postal": "738099"
+        },
+        {
+          "name": "So Pho",
+          "address": "50 JURONG GATEWAY ROAD #03-22 JEM 608549",
+          "type": "Restaurant",
+          "number": "EERN21070012677",
+          "scheme": "Eating Establishment",
+          "id": "eab58cf8-5aa4-4b96-b522-760a4cceded7",
+          "postal": "608549"
+        },
+        {
+          "name": "OK CHICKEN RICE / HUMFULL PRAWN LAKSA",
+          "address": "399 YUNG SHENG ROAD MR4, Koufu #01-43 TAMAN JURONG SHOPPING CENTRE 610399",
+          "type": "Hawker",
+          "number": "EEHK26040000047",
+          "scheme": "Eating Establishment",
+          "id": "575c276f-09f6-4bb6-9e66-0d26ba895ad9",
+          "postal": "610399"
+        },
+        {
+          "name": "OK CHICKEN RICE & HUMFULL PRAWN LAKSA (MR2) @ Koufu HQ",
+          "address": "1 WOODLANDS HEIGHT #01-01 KOUFU GROUP HQ, MR 2 737859",
+          "type": "Hawker",
+          "number": "EEHK20250000053",
+          "scheme": "Eating Establishment",
+          "id": "f7f7d54f-4355-4e92-bd6e-044745a325f3",
+          "postal": "737859"
+        },
+        {
+          "name": "OK CHICKEN RICE & HUMFULL PRAWN LAKSA (S6) @ Foodloft Coffeeshop",
+          "address": "51 HAVELOCK ROAD #01-06 HAVELOCK VIEW, Stall 6 161051",
+          "type": "Hawker",
+          "number": "EEHK20230000942",
+          "scheme": "Eating Establishment",
+          "id": "bfcd23de-e421-4939-b69c-a170c5669595",
+          "postal": "161051"
+        },
+        {
+          "name": "JKT Western",
+          "address": "55 LENGKOK BAHRU Stall 5 , 777 Coffeeshop #01-387 151055",
+          "type": "Hawker",
+          "number": "EEHK26090000019",
+          "scheme": "Eating Establishment",
+          "id": "836316d0-c6a1-4d25-bf47-580b25231293",
+          "postal": "151055"
+        },
+        {
+          "name": "JKT Western / OK CHICKEN RICE / HUMFULL PRAWN LAKSA",
+          "address": "51 LORONG 6 TOA PAYOH #01-60 EAST PAYOH PALM, STALL 6, 777 Coffeeshop 310051",
+          "type": "Hawker",
+          "number": "EEHK26010000125",
+          "scheme": "Eating Establishment",
+          "id": "9d9cb427-e036-48f8-803c-57251fc4404c",
+          "postal": "310051"
+        },
+        {
+          "name": "Ok Chicken Rice & Humfull Prawn Laksa (S5) @ Rasa Rasa Teck Whye",
+          "address": "160A JALAN TECK WHYE #01-01, Stall 5 681160",
+          "type": "Hawker",
+          "number": "EEHK20240001110",
+          "scheme": "Eating Establishment",
+          "id": "61bba3e3-4b06-46dd-874f-533f65c78957",
+          "postal": "681160"
+        }
+      ],
+      "removed": [
+        {
+          "name": "NASTY COOKIE",
+          "address": "3 GATEWAY DRIVE #01-09 WESTGATE 608532",
+          "type": "Restaurant",
+          "number": "EERT20230000980",
+          "scheme": "Eating Establishment",
+          "id": "11a08e54-d670-488c-ad60-23bcd6e1184c",
+          "postal": "608532"
+        },
+        {
+          "name": "SUBWAY",
+          "address": "20 EASTWOOD ROAD #01-11 EASTWOOD CENTRE 486442",
+          "type": "Restaurant",
+          "number": "EERT20240001159",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "486442"
+        },
+        {
+          "name": "STUFF'D",
+          "address": "1 WOODLANDS SQUARE #B1-K17 CAUSEWAY POINT 738099",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21110012929",
+          "scheme": "Eating Establishment",
+          "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
+          "postal": "738099"
+        },
+        {
+          "name": "SWEE HENG",
+          "address": "963 JURONG WEST STREET 91 #01-314 640963",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000383",
+          "scheme": "Eating Establishment",
+          "id": "8ca8605b-be4d-48dd-98d0-78c2ed91bffb",
+          "postal": "640963"
+        },
+        {
+          "name": "SUBWAY",
+          "address": "3 SIMEI STREET 6 #B1-10 EASTPOINT MALL 528833",
+          "type": "Restaurant",
+          "number": "EERN21110013149",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "528833"
+        },
+        {
+          "name": "SUBWAY",
+          "address": "548 WOODLANDS DRIVE 44 #01-23 VISTA POINT 730548",
+          "type": "Restaurant",
+          "number": "EERN21110013101",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "730548"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-09-19T00:12:35.792627",
     "date": "2026-09-19",
     "summary": {
@@ -11744,48 +12120,6 @@
           "scheme": "Eating Establishment",
           "id": "b8a90948-4190-4ba9-8acf-a7b584e7cf2d",
           "postal": "508726"
-        }
-      ],
-      "removed": [],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-07-24T23:16:01.926173",
-    "date": "2026-07-24",
-    "summary": {
-      "new": 3,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "THE DAILY FIESTA",
-          "address": "6 SAINT GEORGE'S ROAD (MR1)@ CHANG SHENG EATING PLACE 328025",
-          "type": "Hawker",
-          "number": "EEHK26070000092",
-          "scheme": "Eating Establishment",
-          "id": "fcb0eb8d-219a-407f-92d0-7da967795139",
-          "postal": "328025"
-        },
-        {
-          "name": "NIKU IKU",
-          "address": "1 TAMPINES WALK #B1-K10/K11 OUR TAMPINES HUB 528523",
-          "type": "Restaurant",
-          "number": "EERT26070000095",
-          "scheme": "Eating Establishment",
-          "id": "64a228b0-7d2f-4fd7-8a87-e5df67b09ade",
-          "postal": "528523"
-        },
-        {
-          "name": "El Fuego",
-          "address": "78 AIRPORT BOULEVARD #05-203 JEWEL CHANGI AIRPORT 819666",
-          "type": "Restaurant",
-          "number": "EERT26070000058",
-          "scheme": "Eating Establishment",
-          "id": "c6b2b42a-dcea-4425-9ef9-0edc95f76c15",
-          "postal": "819666"
         }
       ],
       "removed": [],
