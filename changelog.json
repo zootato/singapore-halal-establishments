@@ -1,5 +1,29 @@
 [
   {
+    "timestamp": "2026-09-23T00:24:39.467851",
+    "date": "2026-09-23",
+    "summary": {
+      "new": 1,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Namsan Gol Korean restaurant",
+          "address": "7 ANG MO KIO STREET 66 #01-13 FLORAVISTA 567708",
+          "type": "Restaurant",
+          "number": "EERT26080000128",
+          "scheme": "Eating Establishment",
+          "id": "f2676aff-ce4f-48aa-81e8-236d3baa944e",
+          "postal": "567708"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-09-22T00:53:32.922514",
     "date": "2026-09-22",
     "summary": {
@@ -12096,30 +12120,6 @@
           "scheme": "Eating Establishment",
           "id": "309698dd-3190-471e-a774-0cb078b3950e",
           "postal": "209347"
-        }
-      ],
-      "removed": [],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-07-26T23:11:06.239934",
-    "date": "2026-07-26",
-    "summary": {
-      "new": 1,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Staff Canteen @ GE Aerospace Pte Ltd (Mngd by FOOD FOCUS CATERING SERVICES)",
-          "address": "23 LOYANG WAY LOYANG INDUSTRIAL ESTATE 508726",
-          "type": "Staff Canteen",
-          "number": "EESC26070000093",
-          "scheme": "Eating Establishment",
-          "id": "b8a90948-4190-4ba9-8acf-a7b584e7cf2d",
-          "postal": "508726"
         }
       ],
       "removed": [],
