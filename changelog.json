@@ -1,5 +1,102 @@
 [
   {
+    "timestamp": "2026-09-24T00:30:52.602684",
+    "date": "2026-09-24",
+    "summary": {
+      "new": 6,
+      "removed": 3,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "SHIOK PAN",
+          "address": "10 TAMPINES CENTRAL 1 #B1-K11 TAMPINES ONE 529536",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26090000047",
+          "scheme": "Eating Establishment",
+          "id": "097d2a34-56ce-4bbb-ba18-f57e80300976",
+          "postal": "529536"
+        },
+        {
+          "name": "Firstbowl",
+          "address": "53 ANG MO KIO AVENUE 3 Part Right #01-21,#01-22 AMK HUB 569933",
+          "type": "Restaurant",
+          "number": "EERT26090000035",
+          "scheme": "Eating Establishment",
+          "id": "9a2f3a83-cf05-4968-a8b9-35dda56fae8a",
+          "postal": "569933"
+        },
+        {
+          "name": "DELIBOWL EXPRESS",
+          "address": "70 COMPASSVALE BOW #01-83 544692",
+          "type": "Restaurant",
+          "number": "EERT26090000042",
+          "scheme": "Eating Establishment",
+          "id": "edb38eb8-18c5-47ae-8b12-94344b052439",
+          "postal": "544692"
+        },
+        {
+          "name": "SINGAPORE FOOD SERVICES PTE LTD",
+          "address": "3017 BEDOK NORTH STREET 5 #01-26/27 GOURMET EAST KITCHEN 486121",
+          "type": "Catering Company",
+          "number": "FPCA26090000028",
+          "scheme": "Food Preparation Area",
+          "id": "0c07588c-1315-4985-aaa0-4c94466dfb8b",
+          "postal": "486121"
+        },
+        {
+          "name": "Ok Chicken Rice / Humfull Prawn Laksa / Madas Rendang",
+          "address": "739 BEDOK RESERVOIR ROAD Stall 13 , Happy Hawkers #01-3139 RESERVOIR VILLAGE 470739",
+          "type": "Hawker",
+          "number": "EEHK26090000033",
+          "scheme": "Eating Establishment",
+          "id": "826a7502-0194-4ae7-aa8e-69ef945c5363",
+          "postal": "470739"
+        },
+        {
+          "name": "Cater Wow Pte Ltd",
+          "address": "3017 BEDOK NORTH STREET 5 01-26/27 GOURMET EAST KITCHEN 486121",
+          "type": "Catering Company",
+          "number": "FPCA20250000659",
+          "scheme": "Food Preparation Area",
+          "id": "f9c7933f-030e-43e6-bdf6-d51239d684ee",
+          "postal": "486121"
+        }
+      ],
+      "removed": [
+        {
+          "name": "TEXAS CHICKEN",
+          "address": "1 PASIR RIS CLOSE #01-K101/K102/K103/K101A E!HUB@DOWNTOWN EAST 519599",
+          "type": "Restaurant",
+          "number": "EERT20240001301",
+          "scheme": "Eating Establishment",
+          "id": "53c88848-1280-4fee-b6dc-b5d1d941c07d",
+          "postal": "519599"
+        },
+        {
+          "name": "KAKAK HANDMADE NOODLES",
+          "address": "16 JALAN TAN TOCK SENG Stall 5 #B1-01 Kopitiam @ NATIONAL CENTRE FOR INFECTIOUS DISEASES 308442",
+          "type": "Hawker",
+          "number": "EEHK26010000094",
+          "scheme": "Eating Establishment",
+          "id": "abd81709-dc8e-4fc1-8341-ee5b28a4f402",
+          "postal": "308442"
+        },
+        {
+          "name": "KYO KOMACHI",
+          "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #01-K8 CHANGI CITY POINT 486038",
+          "type": "Restaurant",
+          "number": "EERT20250000579",
+          "scheme": "Eating Establishment",
+          "id": "1afd43d7-042a-4b8a-bd92-23b93eb0ebf3",
+          "postal": "486038"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-09-23T00:24:39.467851",
     "date": "2026-09-23",
     "summary": {
@@ -12090,39 +12187,6 @@
           "postal": "529509"
         }
       ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-07-27T23:16:52.031076",
-    "date": "2026-07-27",
-    "summary": {
-      "new": 2,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "McDonald's",
-          "address": "5 CHANGI BUSINESS PARK CENTRAL 1 01-51/52/53 CHANGI CITY 486038",
-          "type": "Restaurant",
-          "number": "EERT26070000097",
-          "scheme": "Eating Establishment",
-          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-          "postal": "486038"
-        },
-        {
-          "name": "Royal Spicy Dosa Restaurant",
-          "address": "18 DUNLOP STREET LITTLE INDIA CONSERVATION AREA 209347",
-          "type": "Restaurant",
-          "number": "EERT20250000484",
-          "scheme": "Eating Establishment",
-          "id": "309698dd-3190-471e-a774-0cb078b3950e",
-          "postal": "209347"
-        }
-      ],
-      "removed": [],
       "updated": []
     }
   }

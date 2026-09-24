@@ -5274,6 +5274,15 @@
     "postal": "208539"
   },
   {
+    "name": "Cater Wow Pte Ltd",
+    "address": "3017 BEDOK NORTH STREET 5 01-26/27 GOURMET EAST KITCHEN 486121",
+    "type": "Catering Company",
+    "number": "FPCA20250000659",
+    "scheme": "Food Preparation Area",
+    "id": "f9c7933f-030e-43e6-bdf6-d51239d684ee",
+    "postal": "486121"
+  },
+  {
     "name": "CATERCO CONCEPTS PTE. LTD.",
     "address": "30B QUALITY ROAD #03-102 618826",
     "type": "Catering Company",
@@ -7605,6 +7614,15 @@
     "postal": "038983"
   },
   {
+    "name": "DELIBOWL EXPRESS",
+    "address": "70 COMPASSVALE BOW #01-83 544692",
+    "type": "Restaurant",
+    "number": "EERT26090000042",
+    "scheme": "Eating Establishment",
+    "id": "edb38eb8-18c5-47ae-8b12-94344b052439",
+    "postal": "544692"
+  },
+  {
     "name": "DELIFRANCE",
     "address": "50 Jurong Gateway Road #B1-K15/16 Jurong East Mall (JEM) 608549",
     "type": "Restaurant",
@@ -9637,6 +9655,15 @@
     "scheme": "Food Preparation Area",
     "id": "6032cdc4-c63e-443c-be0d-22465e718025",
     "postal": "758202"
+  },
+  {
+    "name": "Firstbowl",
+    "address": "53 ANG MO KIO AVENUE 3 Part Right #01-21,#01-22 AMK HUB 569933",
+    "type": "Restaurant",
+    "number": "EERT26090000035",
+    "scheme": "Eating Establishment",
+    "id": "9a2f3a83-cf05-4968-a8b9-35dda56fae8a",
+    "postal": "569933"
   },
   {
     "name": "FISH & CO RESTAURANTS PTE LTD",
@@ -14193,15 +14220,6 @@
     "postal": "237994"
   },
   {
-    "name": "KAKAK HANDMADE NOODLES",
-    "address": "16 JALAN TAN TOCK SENG Stall 5 #B1-01 Kopitiam @ NATIONAL CENTRE FOR INFECTIOUS DISEASES 308442",
-    "type": "Hawker",
-    "number": "EEHK26010000094",
-    "scheme": "Eating Establishment",
-    "id": "abd81709-dc8e-4fc1-8341-ee5b28a4f402",
-    "postal": "308442"
-  },
-  {
     "name": "KAKI MAKAN CAFE",
     "address": "10 AIRPORT BOULEVARD #02-K32 CHANGI AIRPORT TERMINAL 4 819665",
     "type": "Hawker",
@@ -16225,15 +16243,6 @@
     "scheme": "Food Preparation Area",
     "id": "06812e10-944f-4f21-a15f-bc0a586b8e72",
     "postal": "128425"
-  },
-  {
-    "name": "KYO KOMACHI",
-    "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #01-K8 CHANGI CITY POINT 486038",
-    "type": "Restaurant",
-    "number": "EERT20250000579",
-    "scheme": "Eating Establishment",
-    "id": "1afd43d7-042a-4b8a-bd92-23b93eb0ebf3",
-    "postal": "486038"
   },
   {
     "name": "L & M FOODHUB SEAFOOD BBQ/CHEF CHICKEN RICE",
@@ -21625,6 +21634,15 @@
     "scheme": "Eating Establishment",
     "id": "575c276f-09f6-4bb6-9e66-0d26ba895ad9",
     "postal": "610399"
+  },
+  {
+    "name": "Ok Chicken Rice / Humfull Prawn Laksa / Madas Rendang",
+    "address": "739 BEDOK RESERVOIR ROAD Stall 13 , Happy Hawkers #01-3139 RESERVOIR VILLAGE 470739",
+    "type": "Hawker",
+    "number": "EEHK26090000033",
+    "scheme": "Eating Establishment",
+    "id": "826a7502-0194-4ae7-aa8e-69ef945c5363",
+    "postal": "470739"
   },
   {
     "name": "OK CHICKEN RICE&HUMFULL PRAWN LAKSA (MR8) @ Meet 55 Lengkok Bahru",
@@ -27432,6 +27450,15 @@
     "postal": "758297"
   },
   {
+    "name": "SHIOK PAN",
+    "address": "10 TAMPINES CENTRAL 1 #B1-K11 TAMPINES ONE 529536",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26090000047",
+    "scheme": "Eating Establishment",
+    "id": "097d2a34-56ce-4bbb-ba18-f57e80300976",
+    "postal": "529536"
+  },
+  {
     "name": "Shiok Sedap",
     "address": "28 DOVER CRESCENT STALL 6, KOFFEE T:ME #01-97 DOVER GARDENS 130028",
     "type": "Hawker",
@@ -27583,6 +27610,15 @@
     "scheme": "Food Preparation Area",
     "id": "d9ee08fb-d73f-4153-af91-4cbdc03e74f7",
     "postal": "099394"
+  },
+  {
+    "name": "SINGAPORE FOOD SERVICES PTE LTD",
+    "address": "3017 BEDOK NORTH STREET 5 #01-26/27 GOURMET EAST KITCHEN 486121",
+    "type": "Catering Company",
+    "number": "FPCA26090000028",
+    "scheme": "Food Preparation Area",
+    "id": "0c07588c-1315-4985-aaa0-4c94466dfb8b",
+    "postal": "486121"
   },
   {
     "name": "SINGAPORE FOOD SOLUTIONS PTE. LTD.",
@@ -32173,15 +32209,6 @@
     "scheme": "Eating Establishment",
     "id": "53c88848-1280-4fee-b6dc-b5d1d941c07d",
     "postal": "677899"
-  },
-  {
-    "name": "TEXAS CHICKEN",
-    "address": "1 PASIR RIS CLOSE #01-K101/K102/K103/K101A E!HUB@DOWNTOWN EAST 519599",
-    "type": "Restaurant",
-    "number": "EERT20240001301",
-    "scheme": "Eating Establishment",
-    "id": "53c88848-1280-4fee-b6dc-b5d1d941c07d",
-    "postal": "519599"
   },
   {
     "name": "TEXAS CHICKEN",
