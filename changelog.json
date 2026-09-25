@@ -1,5 +1,412 @@
 [
   {
+    "timestamp": "2026-09-25T00:35:19.216703",
+    "date": "2026-09-25",
+    "summary": {
+      "new": 7,
+      "removed": 3,
+      "updated": 15
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "MY KAMPUNG",
+          "address": "3 GATEWAY DRIVE #B2-K8 WESTGATE 608532",
+          "type": "Restaurant",
+          "number": "EERT20250000812",
+          "scheme": "Eating Establishment",
+          "id": "505cfecb-8b8a-47dd-aa33-0c42d1a054da",
+          "postal": "608532"
+        },
+        {
+          "name": "MY KAMPUNG CHICKEN RICE",
+          "address": "5 CHANGI BUSINESS PARK CENTRAL 1 STALL 4, Food Arena by Yew Kee Group #02-01 CHANGI CITY 486038",
+          "type": "Hawker",
+          "number": "EEHK26090000031",
+          "scheme": "Eating Establishment",
+          "id": "3d79879d-a15b-4609-bb78-e8a184cad690",
+          "postal": "486038"
+        },
+        {
+          "name": "MY KAMPUNG",
+          "address": "33 Sengkang West Avenue #B2-07 The Seletar Mall 797653",
+          "type": "Restaurant",
+          "number": "EERN21060012499",
+          "scheme": "Eating Establishment",
+          "id": "505cfecb-8b8a-47dd-aa33-0c42d1a054da",
+          "postal": "797653"
+        },
+        {
+          "name": "MY KAMPUNG CHICKEN RICE (S1) @ KAMPUNG ADMIRALTY",
+          "address": "676 WOODLANDS DRIVE 71 #02-39 Kampung Admiralty, Stall 1 730676",
+          "type": "Hawker",
+          "number": "EEHN21060012497",
+          "scheme": "Eating Establishment",
+          "id": "48a245e9-5857-42b8-8adf-22e149c261f6",
+          "postal": "730676"
+        },
+        {
+          "name": "Pho Viet-Nam",
+          "address": "1 NORTHPOINT DRIVE #02-101 , 102 , 103 NORTHPOINT CITY, BAGUS FOOD HALL (STALL 5) 768019",
+          "type": "Hawker",
+          "number": "EEHK26090000055",
+          "scheme": "Eating Establishment",
+          "id": "ef509206-8ab7-42f3-81ce-3194805f8a7a",
+          "postal": "768019"
+        },
+        {
+          "name": "MY KAMPUNG",
+          "address": "920 YISHUN AVENUE 2 #01-13 Yishun Integrated Transport Hub 769100",
+          "type": "Restaurant",
+          "number": "EERT20220000465",
+          "scheme": "Eating Establishment",
+          "id": "505cfecb-8b8a-47dd-aa33-0c42d1a054da",
+          "postal": "769100"
+        },
+        {
+          "name": "SWEE HENG",
+          "address": "963 JURONG WEST STREET 91 #01-314 640963",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000383",
+          "scheme": "Eating Establishment",
+          "id": "8ca8605b-be4d-48dd-98d0-78c2ed91bffb",
+          "postal": "640963"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Sukiya Gyudon • Curry",
+          "address": "78 AIRPORT BOULEVARD #B2-200 JEWEL CHANGI AIRPORT 819666",
+          "type": "Restaurant",
+          "number": "EERT20230000461",
+          "scheme": "Eating Establishment",
+          "id": "f25faa72-19a1-4c85-a920-fc1462f72292",
+          "postal": "819666"
+        },
+        {
+          "name": "SAAP SAAP THAI",
+          "address": "1 PASIR RIS CENTRAL STREET 3 #02-24,#02-K01 WHITE SANDS 518457",
+          "type": "Restaurant",
+          "number": "EERT26020000076",
+          "scheme": "Eating Establishment",
+          "id": "9589c31f-fee1-4b1e-925f-755094a68b7a",
+          "postal": "518457"
+        },
+        {
+          "name": "Monster Western (MR1) @ Food Republic Jewel",
+          "address": "78 AIRPORT BOULEVARD #B2-238/239/240 Jewel Changi Airport, MR1 819666",
+          "type": "Hawker",
+          "number": "EEHK20240000550",
+          "scheme": "Eating Establishment",
+          "id": "4b4dc51a-8acc-4980-8cb2-fafb29faee62",
+          "postal": "819666"
+        }
+      ],
+      "updated": [
+        {
+          "previous": {
+            "name": "Auntie Anne's",
+            "address": "17 PETIR ROAD #B2-31 HILLION MALL 678278",
+            "type": "Snack Bar / Bakery",
+            "number": "EESB20230001185",
+            "scheme": "Eating Establishment",
+            "id": "b75b12a6-173e-403b-984f-ea338662de63",
+            "postal": "678278"
+          },
+          "current": {
+            "name": "Warehouse @ Chrisna Jenio Pte Ltd (Auntie Anne’s / RROOLL)",
+            "address": "17 PETIR ROAD #B2-31 HILLION MALL 678278",
+            "type": "Snack Bar / Bakery",
+            "number": "EESB20230001185",
+            "scheme": "Eating Establishment",
+            "id": "b75b12a6-173e-403b-984f-ea338662de63",
+            "postal": "678278"
+          }
+        },
+        {
+          "previous": {
+            "name": "Auntie Anne's",
+            "address": "68 ORCHARD ROAD #B2-37 PLAZA SINGAPURA 238839",
+            "type": "Snack Bar / Bakery",
+            "number": "EEBN21110012953",
+            "scheme": "Eating Establishment",
+            "id": "b75b12a6-173e-403b-984f-ea338662de63",
+            "postal": "238839"
+          },
+          "current": {
+            "name": "Warehouse @ Chrisna Jenio Pte Ltd (Auntie Anne’s / RROOLL)",
+            "address": "68 ORCHARD ROAD #B2-37 PLAZA SINGAPURA 238839",
+            "type": "Snack Bar / Bakery",
+            "number": "EEBN21110012953",
+            "scheme": "Eating Establishment",
+            "id": "b75b12a6-173e-403b-984f-ea338662de63",
+            "postal": "238839"
+          }
+        },
+        {
+          "previous": {
+            "name": "Auntie Anne's",
+            "address": "290 ORCHARD ROAD #B1-K34 THE PARAGON 238859",
+            "type": "Snack Bar / Bakery",
+            "number": "EESB20230001086",
+            "scheme": "Eating Establishment",
+            "id": "b75b12a6-173e-403b-984f-ea338662de63",
+            "postal": "238859"
+          },
+          "current": {
+            "name": "Warehouse @ Chrisna Jenio Pte Ltd (Auntie Anne’s / RROOLL)",
+            "address": "290 ORCHARD ROAD #B1-K34 THE PARAGON 238859",
+            "type": "Snack Bar / Bakery",
+            "number": "EESB20230001086",
+            "scheme": "Eating Establishment",
+            "id": "b75b12a6-173e-403b-984f-ea338662de63",
+            "postal": "238859"
+          }
+        },
+        {
+          "previous": {
+            "name": "Auntie Anne's",
+            "address": "10 PAYA LEBAR ROAD #B2-K7 PAYA LEBAR QUARTER,B2-K7 409057",
+            "type": "Snack Bar / Bakery",
+            "number": "EEBN21110012955",
+            "scheme": "Eating Establishment",
+            "id": "b75b12a6-173e-403b-984f-ea338662de63",
+            "postal": "409057"
+          },
+          "current": {
+            "name": "Warehouse @ Chrisna Jenio Pte Ltd (Auntie Anne’s / RROOLL)",
+            "address": "10 PAYA LEBAR ROAD #B2-K7 PAYA LEBAR QUARTER,B2-K7 409057",
+            "type": "Snack Bar / Bakery",
+            "number": "EEBN21110012955",
+            "scheme": "Eating Establishment",
+            "id": "b75b12a6-173e-403b-984f-ea338662de63",
+            "postal": "409057"
+          }
+        },
+        {
+          "previous": {
+            "name": "Auntie Anne's",
+            "address": "1 JURONG WEST CENTRAL 2 #01-K2 JURONG POINT 648886",
+            "type": "Restaurant",
+            "number": "EERT20240001138",
+            "scheme": "Eating Establishment",
+            "id": "b75b12a6-173e-403b-984f-ea338662de63",
+            "postal": "648886"
+          },
+          "current": {
+            "name": "Warehouse @ Chrisna Jenio Pte Ltd (Auntie Anne’s / RROOLL)",
+            "address": "1 JURONG WEST CENTRAL 2 #01-K2 JURONG POINT 648886",
+            "type": "Restaurant",
+            "number": "EERT20240001138",
+            "scheme": "Eating Establishment",
+            "id": "b75b12a6-173e-403b-984f-ea338662de63",
+            "postal": "648886"
+          }
+        },
+        {
+          "previous": {
+            "name": "Auntie Anne's",
+            "address": "23 SERANGOON CENTRAL #03-K10 NEX 556083",
+            "type": "Snack Bar / Bakery",
+            "number": "EEBN21110012952",
+            "scheme": "Eating Establishment",
+            "id": "b75b12a6-173e-403b-984f-ea338662de63",
+            "postal": "556083"
+          },
+          "current": {
+            "name": "Warehouse @ Chrisna Jenio Pte Ltd (Auntie Anne’s / RROOLL)",
+            "address": "23 SERANGOON CENTRAL #03-K10 NEX 556083",
+            "type": "Snack Bar / Bakery",
+            "number": "EEBN21110012952",
+            "scheme": "Eating Establishment",
+            "id": "b75b12a6-173e-403b-984f-ea338662de63",
+            "postal": "556083"
+          }
+        },
+        {
+          "previous": {
+            "name": "Auntie Anne's",
+            "address": "80 MARINE PARADE ROAD #B1-08 PARKWAY PARADE 449269",
+            "type": "Snack Bar / Bakery",
+            "number": "EEBN21110012956",
+            "scheme": "Eating Establishment",
+            "id": "b75b12a6-173e-403b-984f-ea338662de63",
+            "postal": "449269"
+          },
+          "current": {
+            "name": "Warehouse @ Chrisna Jenio Pte Ltd (Auntie Anne’s / RROOLL)",
+            "address": "80 MARINE PARADE ROAD #B1-08 PARKWAY PARADE 449269",
+            "type": "Snack Bar / Bakery",
+            "number": "EEBN21110012956",
+            "scheme": "Eating Establishment",
+            "id": "b75b12a6-173e-403b-984f-ea338662de63",
+            "postal": "449269"
+          }
+        },
+        {
+          "previous": {
+            "name": "Auntie Anne's",
+            "address": "11 BIDADARI PARK DRIVE #B1-K22 THE WOODLEIGH MALL 367803",
+            "type": "Snack Bar / Bakery",
+            "number": "EESB20230000768",
+            "scheme": "Eating Establishment",
+            "id": "b75b12a6-173e-403b-984f-ea338662de63",
+            "postal": "367803"
+          },
+          "current": {
+            "name": "Warehouse @ Chrisna Jenio Pte Ltd (Auntie Anne’s / RROOLL)",
+            "address": "11 BIDADARI PARK DRIVE #B1-K22 THE WOODLEIGH MALL 367803",
+            "type": "Snack Bar / Bakery",
+            "number": "EESB20230000768",
+            "scheme": "Eating Establishment",
+            "id": "b75b12a6-173e-403b-984f-ea338662de63",
+            "postal": "367803"
+          }
+        },
+        {
+          "previous": {
+            "name": "Auntie Anne's",
+            "address": "83 PUNGGOL CENTRAL #B1-K13A WATERWAY POINT 828761",
+            "type": "Snack Bar / Bakery",
+            "number": "EESB20220000303",
+            "scheme": "Eating Establishment",
+            "id": "b75b12a6-173e-403b-984f-ea338662de63",
+            "postal": "828761"
+          },
+          "current": {
+            "name": "Warehouse @ Chrisna Jenio Pte Ltd (Auntie Anne’s / RROOLL)",
+            "address": "83 PUNGGOL CENTRAL #B1-K13A WATERWAY POINT 828761",
+            "type": "Snack Bar / Bakery",
+            "number": "EESB20220000303",
+            "scheme": "Eating Establishment",
+            "id": "b75b12a6-173e-403b-984f-ea338662de63",
+            "postal": "828761"
+          }
+        },
+        {
+          "previous": {
+            "name": "Auntie Anne's",
+            "address": "78 AIRPORT BOULEVARD #B2-272 JEWEL CHANGI AIRPORT 819666",
+            "type": "Snack Bar / Bakery",
+            "number": "EEBN21110012957",
+            "scheme": "Eating Establishment",
+            "id": "b75b12a6-173e-403b-984f-ea338662de63",
+            "postal": "819666"
+          },
+          "current": {
+            "name": "Warehouse @ Chrisna Jenio Pte Ltd (Auntie Anne’s / RROOLL)",
+            "address": "78 AIRPORT BOULEVARD #B2-272 JEWEL CHANGI AIRPORT 819666",
+            "type": "Snack Bar / Bakery",
+            "number": "EEBN21110012957",
+            "scheme": "Eating Establishment",
+            "id": "b75b12a6-173e-403b-984f-ea338662de63",
+            "postal": "819666"
+          }
+        },
+        {
+          "previous": {
+            "name": "Auntie Anne's",
+            "address": "1 SENGKANG SQUARE #B1-18 COMPASS ONE 545078",
+            "type": "Snack Bar / Bakery",
+            "number": "EESB20220000911",
+            "scheme": "Eating Establishment",
+            "id": "b75b12a6-173e-403b-984f-ea338662de63",
+            "postal": "545078"
+          },
+          "current": {
+            "name": "Warehouse @ Chrisna Jenio Pte Ltd (Auntie Anne’s / RROOLL)",
+            "address": "1 SENGKANG SQUARE #B1-18 COMPASS ONE 545078",
+            "type": "Snack Bar / Bakery",
+            "number": "EESB20220000911",
+            "scheme": "Eating Establishment",
+            "id": "b75b12a6-173e-403b-984f-ea338662de63",
+            "postal": "545078"
+          }
+        },
+        {
+          "previous": {
+            "name": "Auntie Anne's",
+            "address": "53 ANG MO KIO AVENUE 3 #01-09/10 AMK HUB 569933",
+            "type": "Snack Bar / Bakery",
+            "number": "EEBN21110012954",
+            "scheme": "Eating Establishment",
+            "id": "b75b12a6-173e-403b-984f-ea338662de63",
+            "postal": "569933"
+          },
+          "current": {
+            "name": "Warehouse @ Chrisna Jenio Pte Ltd (Auntie Anne’s / RROOLL)",
+            "address": "53 ANG MO KIO AVENUE 3 #01-09/10 AMK HUB 569933",
+            "type": "Snack Bar / Bakery",
+            "number": "EEBN21110012954",
+            "scheme": "Eating Establishment",
+            "id": "b75b12a6-173e-403b-984f-ea338662de63",
+            "postal": "569933"
+          }
+        },
+        {
+          "previous": {
+            "name": "Auntie Anne's",
+            "address": "50 JURONG GATEWAY ROAD #B1-32 JEM 608549",
+            "type": "Snack Bar / Bakery",
+            "number": "EESB20220000455",
+            "scheme": "Eating Establishment",
+            "id": "b75b12a6-173e-403b-984f-ea338662de63",
+            "postal": "608549"
+          },
+          "current": {
+            "name": "Warehouse @ Chrisna Jenio Pte Ltd (Auntie Anne’s / RROOLL)",
+            "address": "50 JURONG GATEWAY ROAD #B1-32 JEM 608549",
+            "type": "Snack Bar / Bakery",
+            "number": "EESB20220000455",
+            "scheme": "Eating Establishment",
+            "id": "b75b12a6-173e-403b-984f-ea338662de63",
+            "postal": "608549"
+          }
+        },
+        {
+          "previous": {
+            "name": "Auntie Anne's",
+            "address": "930 YISHUN AVENUE 2 #B1-25 769098",
+            "type": "Snack Bar / Bakery",
+            "number": "EEBN21110012959",
+            "scheme": "Eating Establishment",
+            "id": "b75b12a6-173e-403b-984f-ea338662de63",
+            "postal": "769098"
+          },
+          "current": {
+            "name": "Warehouse @ Chrisna Jenio Pte Ltd (Auntie Anne’s / RROOLL)",
+            "address": "930 YISHUN AVENUE 2 #B1-25 769098",
+            "type": "Snack Bar / Bakery",
+            "number": "EEBN21110012959",
+            "scheme": "Eating Establishment",
+            "id": "b75b12a6-173e-403b-984f-ea338662de63",
+            "postal": "769098"
+          }
+        },
+        {
+          "previous": {
+            "name": "Auntie Anne's",
+            "address": "1 HARBOUR FRONT WALK #B2-K6 VIVO CITY 098585",
+            "type": "Snack Bar / Bakery",
+            "number": "EEBN21110012958",
+            "scheme": "Eating Establishment",
+            "id": "b75b12a6-173e-403b-984f-ea338662de63",
+            "postal": "098585"
+          },
+          "current": {
+            "name": "Warehouse @ Chrisna Jenio Pte Ltd (Auntie Anne’s / RROOLL)",
+            "address": "1 HARBOUR FRONT WALK #B2-K6 VIVO CITY 098585",
+            "type": "Snack Bar / Bakery",
+            "number": "EEBN21110012958",
+            "scheme": "Eating Establishment",
+            "id": "b75b12a6-173e-403b-984f-ea338662de63",
+            "postal": "098585"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-09-24T00:30:52.602684",
     "date": "2026-09-24",
     "summary": {
@@ -12108,85 +12515,6 @@
         }
       ],
       "removed": [],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-07-28T23:13:22.833278",
-    "date": "2026-07-28",
-    "summary": {
-      "new": 6,
-      "removed": 1,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "ALLEY.WEI",
-          "address": "930 YISHUN AVENUE 2 #B1-151 NORTHPOINT CITY 769098",
-          "type": "Restaurant",
-          "number": "EERN21110012969",
-          "scheme": "Eating Establishment",
-          "id": "66dfa7b5-7375-4bab-ae21-9411675816ac",
-          "postal": "769098"
-        },
-        {
-          "name": "Express Teppan-yaki",
-          "address": "1 WOODLANDS SQUARE #02-09D, #02-10 CAUSEWAY POINT 738099",
-          "type": "Restaurant",
-          "number": "EERT26070000101",
-          "scheme": "Eating Establishment",
-          "id": "3bf1548d-f083-4f8c-893d-2b3152a3460c",
-          "postal": "738099"
-        },
-        {
-          "name": "Express Teppan-yaki",
-          "address": "1 NORTHPOINT DRIVE #B1-200 NORTHPOINT CITY 768019",
-          "type": "Restaurant",
-          "number": "EERT26010000123",
-          "scheme": "Eating Establishment",
-          "id": "3bf1548d-f083-4f8c-893d-2b3152a3460c",
-          "postal": "768019"
-        },
-        {
-          "name": "EXPRESS TEPPAN-YAKI/ Alley.Wei",
-          "address": "4 TAMPINES CENTRAL 5 #B1-K21, K22 TAMPINES MALL 529510",
-          "type": "Restaurant",
-          "number": "EERT26010000124",
-          "scheme": "Eating Establishment",
-          "id": "a9d8385b-18ae-4689-8e3c-8df270ab04f4",
-          "postal": "529510"
-        },
-        {
-          "name": "Express Teppan-yaki",
-          "address": "200 VICTORIA STREET #B1-K23 BUGIS JUNCTION 188021",
-          "type": "Restaurant",
-          "number": "EERT26010000069",
-          "scheme": "Eating Establishment",
-          "id": "3bf1548d-f083-4f8c-893d-2b3152a3460c",
-          "postal": "188021"
-        },
-        {
-          "name": "EXPRESS TEPPAN-YAKI (MR4) @ KOPITIAM COMPASS ONE",
-          "address": "1 SENGKANG SQUARE #04-11 COMPASS ONE 545078",
-          "type": "Hawker",
-          "number": "EEHK20250000721",
-          "scheme": "Eating Establishment",
-          "id": "b671ccd0-b06e-4684-b15d-f72bcedeb679",
-          "postal": "545078"
-        }
-      ],
-      "removed": [
-        {
-          "name": "TEXAS CHICKEN",
-          "address": "2 TAMPINES CENTRAL 5 #05-03 CENTURY SQUARE 529509",
-          "type": "Restaurant",
-          "number": "EERN21070012596",
-          "scheme": "Eating Establishment",
-          "id": "53c88848-1280-4fee-b6dc-b5d1d941c07d",
-          "postal": "529509"
-        }
-      ],
       "updated": []
     }
   }
