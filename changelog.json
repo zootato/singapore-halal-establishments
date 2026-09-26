@@ -1,5 +1,219 @@
 [
   {
+    "timestamp": "2026-09-26T00:40:24.233866",
+    "date": "2026-09-26",
+    "summary": {
+      "new": 20,
+      "removed": 2,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "FIRSTBOWL",
+          "address": "33 SENGKANG WEST AVENUE #01-09,#01-10,#01-11,#01-12,#01-13,#01-14 THE SELETAR MALL 797653",
+          "type": "Restaurant",
+          "number": "EERT26090000039",
+          "scheme": "Eating Establishment",
+          "id": "624fc333-c19d-4e95-9f9b-3512315e882e",
+          "postal": "797653"
+        },
+        {
+          "name": "SHIOK BURGER",
+          "address": "53 ANG MO KIO AVENUE 3 Part Left #01-21,#01-22 AMK HUB 569933",
+          "type": "Restaurant",
+          "number": "EERT26090000043",
+          "scheme": "Eating Establishment",
+          "id": "4fcad118-8dea-4300-a6a9-f4bf6b4d7efa",
+          "postal": "569933"
+        },
+        {
+          "name": "SHIOK BURGER",
+          "address": "252 NORTH BRIDGE ROAD #B1-79 RAFFLES CITY SHOPPING CENTRE 179103",
+          "type": "Restaurant",
+          "number": "EERT20240000394",
+          "scheme": "Eating Establishment",
+          "id": "deb990f6-a72a-4974-a911-8bddf5352e1c",
+          "postal": "179103"
+        },
+        {
+          "name": "SHIOK BURGER",
+          "address": "33 SENGKANG WEST AVENUE #01-09, #01-10, #01-11, #01-12, #01-13, #01-14 THE SELETAR MALL 797653",
+          "type": "Restaurant",
+          "number": "EERT20250000808",
+          "scheme": "Eating Establishment",
+          "id": "4fcad118-8dea-4300-a6a9-f4bf6b4d7efa",
+          "postal": "797653"
+        },
+        {
+          "name": "SHIOK BURGER",
+          "address": "1 LENTOR CENTRAL #01-32 LENTOR MODERN 788887",
+          "type": "Restaurant",
+          "number": "EERT26090000044",
+          "scheme": "Eating Establishment",
+          "id": "4fcad118-8dea-4300-a6a9-f4bf6b4d7efa",
+          "postal": "788887"
+        },
+        {
+          "name": "DELIBOWL EXPRESS",
+          "address": "5 Straits View #B2-41/42 The Heart 018935",
+          "type": "Restaurant",
+          "number": "EERT20250000809",
+          "scheme": "Eating Establishment",
+          "id": "edb38eb8-18c5-47ae-8b12-94344b052439",
+          "postal": "018935"
+        },
+        {
+          "name": "SHIOK BURGER",
+          "address": "1 SENGKANG SQUARE #01-36 COMPASS ONE 545078",
+          "type": "Restaurant",
+          "number": "EERT20240000825",
+          "scheme": "Eating Establishment",
+          "id": "4fcad118-8dea-4300-a6a9-f4bf6b4d7efa",
+          "postal": "545078"
+        },
+        {
+          "name": "Firstbowl",
+          "address": "60 PAYA LEBAR ROAD #01-77, #01-80 PAYA LEBAR SQUARE 409051",
+          "type": "Restaurant",
+          "number": "EERT26090000038",
+          "scheme": "Eating Establishment",
+          "id": "9a2f3a83-cf05-4968-a8b9-35dda56fae8a",
+          "postal": "409051"
+        },
+        {
+          "name": "Firstbowl",
+          "address": "107 NORTH BRIDGE ROAD #02-06 FUNAN 179105",
+          "type": "Restaurant",
+          "number": "EERT26090000037",
+          "scheme": "Eating Establishment",
+          "id": "9a2f3a83-cf05-4968-a8b9-35dda56fae8a",
+          "postal": "179105"
+        },
+        {
+          "name": "Firstbowl",
+          "address": "1 LENTOR CENTRAL (Part Of - Right) #01-32 LENTOR MODERN 788887",
+          "type": "Restaurant",
+          "number": "EERT26090000036",
+          "scheme": "Eating Establishment",
+          "id": "9a2f3a83-cf05-4968-a8b9-35dda56fae8a",
+          "postal": "788887"
+        },
+        {
+          "name": "DELIBOWL (S17) @ KOPITIAM TAMPINES MALL",
+          "address": "4 TAMPINES CENTRAL 5 #04-27/28/29 TAMPINES MALL 529510",
+          "type": "Hawker",
+          "number": "EEHK20240001223",
+          "scheme": "Eating Establishment",
+          "id": "6ca4cfc4-8b0f-4795-a4f7-b7fff030ef49",
+          "postal": "529510"
+        },
+        {
+          "name": "SHIOK BURGER",
+          "address": "302 TIONG BAHRU ROAD #01-159 TIONG BAHRU PLAZA 168732",
+          "type": "Restaurant",
+          "number": "EERT26090000046",
+          "scheme": "Eating Establishment",
+          "id": "08478e80-bba9-41b4-8404-144f2ec85bb8",
+          "postal": "168732"
+        },
+        {
+          "name": "SHIOK BURGER",
+          "address": "7 PASIR RIS CENTRAL (Part of Right) #B2-44 PASIR RIS MALL 519612",
+          "type": "Restaurant",
+          "number": "EERT26090000045",
+          "scheme": "Eating Establishment",
+          "id": "4fcad118-8dea-4300-a6a9-f4bf6b4d7efa",
+          "postal": "519612"
+        },
+        {
+          "name": "DELIBOWL EXPRESS",
+          "address": "8A MARINA BOULEVARD #B2-67, #B2-67A GROUND PLAZA (MARINA BAY LINK MALL) 018984",
+          "type": "Restaurant",
+          "number": "EERT26090000040",
+          "scheme": "Eating Establishment",
+          "id": "edb38eb8-18c5-47ae-8b12-94344b052439",
+          "postal": "018984"
+        },
+        {
+          "name": "SHIOK BURGER",
+          "address": "1 TAMPINES WALK #B1-K3 OUR TAMPINES HUB 528523",
+          "type": "Restaurant",
+          "number": "EERT20250000807",
+          "scheme": "Eating Establishment",
+          "id": "4fcad118-8dea-4300-a6a9-f4bf6b4d7efa",
+          "postal": "528523"
+        },
+        {
+          "name": "SHIOK BURGER",
+          "address": "60 PAYA LEBAR ROAD #01-77 PAYA LEBAR SQUARE 409051",
+          "type": "Restaurant",
+          "number": "EERT20240000396",
+          "scheme": "Eating Establishment",
+          "id": "4fcad118-8dea-4300-a6a9-f4bf6b4d7efa",
+          "postal": "409051"
+        },
+        {
+          "name": "Firstbowl",
+          "address": "7 PASIR RIS CENTRAL (Part of Left) #B2-44 PASIR RIS MALL 519612",
+          "type": "Restaurant",
+          "number": "EERT26090000034",
+          "scheme": "Eating Establishment",
+          "id": "9a2f3a83-cf05-4968-a8b9-35dda56fae8a",
+          "postal": "519612"
+        },
+        {
+          "name": "DELIBOWL EXPRESS",
+          "address": "23 SERANGOON CENTRAL 04-15, 04-16 NEX 556083",
+          "type": "Restaurant",
+          "number": "EERT26090000041",
+          "scheme": "Eating Establishment",
+          "id": "edb38eb8-18c5-47ae-8b12-94344b052439",
+          "postal": "556083"
+        },
+        {
+          "name": "Firstbowl",
+          "address": "1 SENGKANG SQUARE #01-36 COMPASS ONE 545078",
+          "type": "Restaurant",
+          "number": "EERT26010000054",
+          "scheme": "Eating Establishment",
+          "id": "9a2f3a83-cf05-4968-a8b9-35dda56fae8a",
+          "postal": "545078"
+        },
+        {
+          "name": "The Kiosk",
+          "address": "6A NAPIER ROAD #02-21, #02-22 24-HOUR WALK-IN CLINIC (GLENEAGLES HOSPITAL), CANTINE (STALL 1) 258500",
+          "type": "Hawker",
+          "number": "EEHK26090000027",
+          "scheme": "Eating Establishment",
+          "id": "e1fcfd32-05e6-449b-a63f-85d7686be500",
+          "postal": "258500"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Halal Section @ NTUC FAIRPRICE",
+          "address": "866A TAMPINES STREET 83 #01-01 TAMPINES CENTRAL COMMUNITY COMPLEX 521866",
+          "type": "Central Kitchen",
+          "number": "FPCK20240000259",
+          "scheme": "Food Preparation Area",
+          "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
+          "postal": "521866"
+        },
+        {
+          "name": "Halal Section @ NTUC FAIRPRICE",
+          "address": "642 SENJA CLOSE #01-01 670642",
+          "type": "Central Kitchen",
+          "number": "FPCK20230000108",
+          "scheme": "Food Preparation Area",
+          "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
+          "postal": "670642"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-09-25T00:35:19.216703",
     "date": "2026-09-25",
     "summary": {
@@ -12492,30 +12706,6 @@
           }
         }
       ]
-    }
-  },
-  {
-    "timestamp": "2026-07-29T23:11:31.011051",
-    "date": "2026-07-29",
-    "summary": {
-      "new": 1,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Pizza D'France",
-          "address": "756 UPPER SERANGOON ROAD #01-08 UPPER SERANGOON SHOPPING CENTRE 534626",
-          "type": "Snack Bar / Bakery",
-          "number": "EEBN21040012195",
-          "scheme": "Eating Establishment",
-          "id": "8f8ca539-7299-4d4e-9cd5-6d25cb9be900",
-          "postal": "534626"
-        }
-      ],
-      "removed": [],
-      "updated": []
     }
   }
 ]
