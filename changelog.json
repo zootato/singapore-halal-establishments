@@ -1,5 +1,183 @@
 [
   {
+    "timestamp": "2026-09-29T01:50:35.611750",
+    "date": "2026-09-29",
+    "summary": {
+      "new": 15,
+      "removed": 3,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Singgah Makan",
+          "address": "12 BEDOK NORTH DRIVE #02-11 465492",
+          "type": "Restaurant",
+          "number": "EERT20230000551",
+          "scheme": "Eating Establishment",
+          "id": "de759219-0afb-4576-a7f2-a57afe883af1",
+          "postal": "465492"
+        },
+        {
+          "name": "Cafe 2b Bistro",
+          "address": "30 PAYA LEBAR ROAD #01-05/06 PAYA LEBAR MRT STATION 409006",
+          "type": "Restaurant",
+          "number": "EERT20230000554",
+          "scheme": "Eating Establishment",
+          "id": "15928b80-79b4-4878-8c2d-296122b0f94d",
+          "postal": "409006"
+        },
+        {
+          "name": "KAWAN KITCHEN",
+          "address": "301 COMMONWEALTH AVENUE #02-01 QUEENSTOWN MRT STATION 149729",
+          "type": "Restaurant",
+          "number": "EERT20240000524",
+          "scheme": "Eating Establishment",
+          "id": "f2ff5315-6b6d-40b1-9016-f54d187e3b84",
+          "postal": "149729"
+        },
+        {
+          "name": "ANANAS SENGKANG",
+          "address": "5 SENGKANG SQUARE #01-07 SENGKANG MRT STATION (NE16) (Part Right) 545062",
+          "type": "Restaurant",
+          "number": "EERT20250000655",
+          "scheme": "Eating Establishment",
+          "id": "d157b42a-2265-4091-955e-90f7801c5c89",
+          "postal": "545062"
+        },
+        {
+          "name": "CFF Nasi Padang",
+          "address": "33 HARBOUR DRIVE 1 Cafeteria PPTB 1, STALL 1 117606",
+          "type": "Hawker",
+          "number": "EEHK20250000770",
+          "scheme": "Eating Establishment",
+          "id": "dd4d7c30-53ec-478c-be8f-c577ee19b910",
+          "postal": "117606"
+        },
+        {
+          "name": "PETAI 2",
+          "address": "10 BUKIT BATOK CENTRAL #01-10/11 BUKIT BATOK MRT STATION 659958",
+          "type": "Restaurant",
+          "number": "EERN21060012500",
+          "scheme": "Eating Establishment",
+          "id": "9c153032-b621-4e5a-b9a2-bd820820a5ab",
+          "postal": "659958"
+        },
+        {
+          "name": "ANANAS",
+          "address": "30 EUNOS CRESCENT #01-08 EUNOS MRT STATION 409423",
+          "type": "Restaurant",
+          "number": "EERT20220000531",
+          "scheme": "Eating Establishment",
+          "id": "e0404bd0-702b-48d0-974f-05077ebb591e",
+          "postal": "409423"
+        },
+        {
+          "name": "Elegant Yan Cafe",
+          "address": "5 STRAITS VIEW #B2-20 THE HEART 018935",
+          "type": "Restaurant",
+          "number": "EERT20250000791",
+          "scheme": "Eating Establishment",
+          "id": "d32a4dfd-49b5-4b58-ace6-9c8f639fcb0b",
+          "postal": "018935"
+        },
+        {
+          "name": "NENEK PLACE",
+          "address": "81 LORONG 25 GEYLANG 01-05/06 ALJUNIED MRT STATION 388310",
+          "type": "Restaurant",
+          "number": "EERT26090000059",
+          "scheme": "Eating Establishment",
+          "id": "6eba0fcf-7e06-4a6d-bfed-eeeab73d0ea5",
+          "postal": "388310"
+        },
+        {
+          "name": "ANANAS KITCHEN",
+          "address": "1550 BEDOK NORTH AVENUE 4 #04-07 489950",
+          "type": "Central Kitchen",
+          "number": "FPCK20230000550",
+          "scheme": "Food Preparation Area",
+          "id": "4f734502-1455-4117-9289-f0d5432e29e7",
+          "postal": "489950"
+        },
+        {
+          "name": "CAFE KOOK",
+          "address": "191 ROCHOR ROAD #B2-08 BUGIS MRT STATION 188476",
+          "type": "Restaurant",
+          "number": "EERT20230001200",
+          "scheme": "Eating Establishment",
+          "id": "b681a8e8-517a-4471-8425-85f650c811b0",
+          "postal": "188476"
+        },
+        {
+          "name": "MINUM KOPI",
+          "address": "213 BEDOK NORTH STREET 1 #01-145 460213",
+          "type": "Restaurant",
+          "number": "EERT20240000626",
+          "scheme": "Eating Establishment",
+          "id": "99a54a1f-23f2-40f0-964c-c376e32ebe23",
+          "postal": "460213"
+        },
+        {
+          "name": "Ananas",
+          "address": "12 BEDOK NORTH DRIVE #02-15, Part Left Of 465492",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240001224",
+          "scheme": "Eating Establishment",
+          "id": "203b30f6-d38d-403a-afc4-4773008133bc",
+          "postal": "465492"
+        },
+        {
+          "name": "MINUM KOPI",
+          "address": "213 BEDOK NORTH STREET 1 (Part of) #01-145 BEDOK TOWN CENTRE 460213",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26090000058",
+          "scheme": "Eating Establishment",
+          "id": "99a54a1f-23f2-40f0-964c-c376e32ebe23",
+          "postal": "460213"
+        },
+        {
+          "name": "WINGSTOP",
+          "address": "90 HOUGANG AVENUE 10 #03-9B HOUGANG MALL 538766",
+          "type": "Restaurant",
+          "number": "EERT26090000060",
+          "scheme": "Eating Establishment",
+          "id": "5078bd18-9cd6-436e-8ff3-0f2e55f795dc",
+          "postal": "538766"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Sanook Kitchen",
+          "address": "3 GATEWAY DRIVE #B1-25 WESTGATE 608532",
+          "type": "Restaurant",
+          "number": "EERT20240000492",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "608532"
+        },
+        {
+          "name": "Sanook Kitchen",
+          "address": "180 KITCHENER ROAD #02-33/56 CITY SQUARE MALL 208539",
+          "type": "Restaurant",
+          "number": "EERT20250000405",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "208539"
+        },
+        {
+          "name": "Waker Chicken (stall 6) @ Hawkers' Street Bukit Panjang Plaza",
+          "address": "1 JELEBU ROAD #03-08 BUKIT PANJANG PLAZA, STALL 6 677743",
+          "type": "Hawker",
+          "number": "EEHK20250000172",
+          "scheme": "Eating Establishment",
+          "id": "74cc8312-eeef-4bad-bea7-830b869d482e",
+          "postal": "677743"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-09-26T00:40:24.233866",
     "date": "2026-09-26",
     "summary": {
@@ -12511,198 +12689,6 @@
             "scheme": "Eating Establishment",
             "id": "5965b877-26d4-4e8e-9076-d0dbf88530c4",
             "postal": "099701"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-07-30T23:20:29.967358",
-    "date": "2026-07-30",
-    "summary": {
-      "new": 3,
-      "removed": 12,
-      "updated": 2
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "RUMAH MAKAN MINANG",
-          "address": "60 JURONG WEST CENTRAL 3 #01-05 THE FRONTIER COMMUNITY CLUB 648346",
-          "type": "Restaurant",
-          "number": "EERT26070000002",
-          "scheme": "Eating Establishment",
-          "id": "ad173bea-5e3d-4ad4-932f-8e4788f02d73",
-          "postal": "648346"
-        },
-        {
-          "name": "THE ORIGINAL VADAI PTE. LTD.",
-          "address": "1550 BEDOK NORTH AVENUE 4 #04-04 489950",
-          "type": "Central Kitchen",
-          "number": "FPCK20240000893",
-          "scheme": "Food Preparation Area",
-          "id": "2cf47297-6487-4b72-a440-8997c6252276",
-          "postal": "489950"
-        },
-        {
-          "name": "Tasty Indian Cafe",
-          "address": "640 BUKIT BATOK CENTRAL #01-40 S11, Stall 6 650640",
-          "type": "Hawker",
-          "number": "EEHK26070000099",
-          "scheme": "Eating Establishment",
-          "id": "5b2f9ca4-a44b-481e-a45b-c00a72f72af4",
-          "postal": "650640"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Malay/Indian Delights@Rolls Royce (Mngd by ISS Catering)",
-          "address": "6 Seletar Aerospace Rise Rolls Royce 797575",
-          "type": "Staff Canteen",
-          "number": "EEFN21070012270",
-          "scheme": "Eating Establishment",
-          "id": "0151a572-d338-4518-9b9a-160833f5c8c5",
-          "postal": "797575"
-        },
-        {
-          "name": "RIVE GAUCHE PATISSERIE",
-          "address": "80 MARINE PARADE ROAD #03-30C PARKWAY PARADE 449269",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB25110000018",
-          "scheme": "Eating Establishment",
-          "id": "8bfe6517-83bd-4a52-b3a2-0be050fe21c3",
-          "postal": "449269"
-        },
-        {
-          "name": "TREATS",
-          "address": "262 QUEENSWAY MOBIL SERVICE STATION 149061",
-          "type": "Food Kiosk",
-          "number": "EEFK20230000900",
-          "scheme": "Eating Establishment",
-          "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
-          "postal": "149061"
-        },
-        {
-          "name": "RIVE GAUCHE PATISSERIE",
-          "address": "20 TAN QUEE LAN STREET #01-05 GUOCO MIDTOWN II 188107",
-          "type": "Restaurant",
-          "number": "EERT25110000014",
-          "scheme": "Eating Establishment",
-          "id": "8bfe6517-83bd-4a52-b3a2-0be050fe21c3",
-          "postal": "188107"
-        },
-        {
-          "name": "TREATS",
-          "address": "160 YIO CHU KANG ROAD ESSO SERVICE STATION 545614",
-          "type": "Food Kiosk",
-          "number": "EEFK20220001006",
-          "scheme": "Eating Establishment",
-          "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
-          "postal": "545614"
-        },
-        {
-          "name": "THE COFFEE BEAN & TEA LEAF",
-          "address": "90 HOUGANG AVENUE 10 #01-01/02/04/05 HOUGANG MALL 538766",
-          "type": "Restaurant",
-          "number": "EERN21120013289",
-          "scheme": "Eating Establishment",
-          "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-          "postal": "538766"
-        },
-        {
-          "name": "International Cuisine@Rolls Royce(Mngd by ISS Catering)",
-          "address": "6 Seletar Aerospace Rise Rolls Royce 797575",
-          "type": "Staff Canteen",
-          "number": "EEFN21070012269",
-          "scheme": "Eating Establishment",
-          "id": "34e10f71-d3da-4743-a872-8222e8121e84",
-          "postal": "797575"
-        },
-        {
-          "name": "THE COFFEE BEAN & TEA LEAF",
-          "address": "1 SENGKANG SQUARE #01-23 COMPASS ONE 545078",
-          "type": "Snack Bar / Bakery",
-          "number": "EEBN21120013004",
-          "scheme": "Eating Establishment",
-          "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-          "postal": "545078"
-        },
-        {
-          "name": "TREATS",
-          "address": "31 CHOA CHU KANG WAY ESSO SERVICE STATION 688786",
-          "type": "Food Kiosk",
-          "number": "EEKN21110012182",
-          "scheme": "Eating Establishment",
-          "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
-          "postal": "688786"
-        },
-        {
-          "name": "Kampung Tree Nasi Padang (S4) @ Kopitiam Fairprice Hub",
-          "address": "1 Joo Koon Circle #03-25 Fairprice Hub, STALL 4 629117",
-          "type": "Hawker",
-          "number": "EEHK20250000616",
-          "scheme": "Eating Establishment",
-          "id": "ae87c6d6-6a9d-4f1a-a704-2a43d38c099f",
-          "postal": "629117"
-        },
-        {
-          "name": "TREATS",
-          "address": "299 YIO CHU KANG ROAD MOBIL SERVICE STATION 805909",
-          "type": "Food Kiosk",
-          "number": "EEFK20220001010",
-          "scheme": "Eating Establishment",
-          "id": "9b7dfb28-5d19-45b6-b8da-92ff936092da",
-          "postal": "805909"
-        },
-        {
-          "name": "Sukiya Gyudon • Curry",
-          "address": "180 KITCHENER ROAD #B1-31/32 CITY SQUARE MALL 208539",
-          "type": "Restaurant",
-          "number": "EERT20230001008",
-          "scheme": "Eating Establishment",
-          "id": "f25faa72-19a1-4c85-a920-fc1462f72292",
-          "postal": "208539"
-        }
-      ],
-      "updated": [
-        {
-          "previous": {
-            "name": "Kitchen @Lentor Health NH MPS(Mngd by the Lentor Residence PL)",
-            "address": "2 MACPHERSON WALK #08, Level 8 369573",
-            "type": "Central Kitchen",
-            "number": "FPCK20240000734",
-            "scheme": "Food Preparation Area",
-            "id": "b9af5397-d605-4590-ad4b-8f0c75aeb7f3",
-            "postal": "369573"
-          },
-          "current": {
-            "name": "Kitchen @Lentor Health NH MPS(Mngd by the Lentor Residence PL)",
-            "address": "2 MACPHERSON WALK LENTOR HEALTH NURSING HOME (MACPHERSON), Level 8 369573",
-            "type": "Central Kitchen",
-            "number": "FPCK20240000734",
-            "scheme": "Food Preparation Area",
-            "id": "b9af5397-d605-4590-ad4b-8f0c75aeb7f3",
-            "postal": "369573"
-          }
-        },
-        {
-          "previous": {
-            "name": "Relaks @ Conrad Singapore Marina Bay (managed by Compass Group)",
-            "address": "2 TEMASEK BOULEVARD #B1 (Staff Canteen) CONRAD CENTENNIAL SINGAPORE 038982",
-            "type": "Staff Canteen",
-            "number": "EESC20250000642",
-            "scheme": "Eating Establishment",
-            "id": "2d1834f6-fcb1-4e27-b4fb-e3b3d5d2145c",
-            "postal": "038982"
-          },
-          "current": {
-            "name": "Relaks @ Conrad Singapore Marina Bay (managed by Compass Group)",
-            "address": "2 TEMASEK BOULEVARD B1 (Staff Canteen) CONRAD CENTENNIAL SINGAPORE 038982",
-            "type": "Staff Canteen",
-            "number": "EESC20250000642",
-            "scheme": "Eating Establishment",
-            "id": "2d1834f6-fcb1-4e27-b4fb-e3b3d5d2145c",
-            "postal": "038982"
           }
         }
       ]

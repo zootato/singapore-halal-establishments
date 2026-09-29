@@ -1557,6 +1557,42 @@
     "postal": "757437"
   },
   {
+    "name": "ANANAS",
+    "address": "30 EUNOS CRESCENT #01-08 EUNOS MRT STATION 409423",
+    "type": "Restaurant",
+    "number": "EERT20220000531",
+    "scheme": "Eating Establishment",
+    "id": "e0404bd0-702b-48d0-974f-05077ebb591e",
+    "postal": "409423"
+  },
+  {
+    "name": "Ananas",
+    "address": "12 BEDOK NORTH DRIVE #02-15, Part Left Of 465492",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20240001224",
+    "scheme": "Eating Establishment",
+    "id": "203b30f6-d38d-403a-afc4-4773008133bc",
+    "postal": "465492"
+  },
+  {
+    "name": "ANANAS KITCHEN",
+    "address": "1550 BEDOK NORTH AVENUE 4 #04-07 489950",
+    "type": "Central Kitchen",
+    "number": "FPCK20230000550",
+    "scheme": "Food Preparation Area",
+    "id": "4f734502-1455-4117-9289-f0d5432e29e7",
+    "postal": "489950"
+  },
+  {
+    "name": "ANANAS SENGKANG",
+    "address": "5 SENGKANG SQUARE #01-07 SENGKANG MRT STATION (NE16) (Part Right) 545062",
+    "type": "Restaurant",
+    "number": "EERT20250000655",
+    "scheme": "Eating Establishment",
+    "id": "d157b42a-2265-4091-955e-90f7801c5c89",
+    "postal": "545062"
+  },
+  {
     "name": "Anderson Cafeteria@Tuas Checkpoint (Mngd by Foodgle Hub P/L)",
     "address": "501 JALAN AHMAD IBRAHIM TUAS CHECK POINT 639937",
     "type": "Staff Canteen",
@@ -1828,30 +1864,21 @@
   },
   {
     "name": "ARNOLD'S",
-    "address": "810 GEYLANG ROAD #02-99/10 CITY PLAZA 409286",
-    "type": "Restaurant",
-    "number": "EERN21060012493",
-    "scheme": "Eating Establishment",
-    "id": "571266fe-a5d4-499d-9f7c-fd6edf1a9f34",
-    "postal": "409286"
-  },
-  {
-    "name": "ARNOLD'S",
-    "address": "21 HOUGANG STREET 51 #01-49 HOUGANG GREEN SHOPPING MALL 538719",
-    "type": "Restaurant",
-    "number": "EERN21060012494",
-    "scheme": "Eating Establishment",
-    "id": "571266fe-a5d4-499d-9f7c-fd6edf1a9f34",
-    "postal": "538719"
-  },
-  {
-    "name": "ARNOLD'S",
     "address": "5 TAMPINES AVENUE 3 #02-07 TAMPINES WEST COMMUNITY CLUB 529705",
     "type": "Restaurant",
     "number": "EERN21060012496",
     "scheme": "Eating Establishment",
     "id": "571266fe-a5d4-499d-9f7c-fd6edf1a9f34",
     "postal": "529705"
+  },
+  {
+    "name": "ARNOLD'S",
+    "address": "810 GEYLANG ROAD #02-99/10 CITY PLAZA 409286",
+    "type": "Restaurant",
+    "number": "EERN21060012493",
+    "scheme": "Eating Establishment",
+    "id": "571266fe-a5d4-499d-9f7c-fd6edf1a9f34",
+    "postal": "409286"
   },
   {
     "name": "ARNOLD'S",
@@ -1864,12 +1891,12 @@
   },
   {
     "name": "ARNOLD'S",
-    "address": "150 PANDAN GARDENS #01-02 AYER RAJAH COMMUNITY CENTRE 609335",
+    "address": "21 HOUGANG STREET 51 #01-49 HOUGANG GREEN SHOPPING MALL 538719",
     "type": "Restaurant",
-    "number": "EERT20230001072",
+    "number": "EERN21060012494",
     "scheme": "Eating Establishment",
     "id": "571266fe-a5d4-499d-9f7c-fd6edf1a9f34",
-    "postal": "609335"
+    "postal": "538719"
   },
   {
     "name": "ARNOLD'S",
@@ -1879,6 +1906,15 @@
     "scheme": "Eating Establishment",
     "id": "571266fe-a5d4-499d-9f7c-fd6edf1a9f34",
     "postal": "460215"
+  },
+  {
+    "name": "ARNOLD'S",
+    "address": "150 PANDAN GARDENS #01-02 AYER RAJAH COMMUNITY CENTRE 609335",
+    "type": "Restaurant",
+    "number": "EERT20230001072",
+    "scheme": "Eating Establishment",
+    "id": "571266fe-a5d4-499d-9f7c-fd6edf1a9f34",
+    "postal": "609335"
   },
   {
     "name": "ARNOLD'S",
@@ -4186,15 +4222,6 @@
   },
   {
     "name": "BURGER KING",
-    "address": "1 HARBOURFRONT WALK #B2-41/56 VIVOCITY 098585",
-    "type": "Restaurant",
-    "number": "EERT25120000009",
-    "scheme": "Eating Establishment",
-    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
-    "postal": "098585"
-  },
-  {
-    "name": "BURGER KING",
     "address": "1 JELEBU ROAD #01-28/29 BUKIT PANJANG PLAZA 677743",
     "type": "Restaurant",
     "number": "EERN20030011313",
@@ -4300,6 +4327,15 @@
     "scheme": "Eating Establishment",
     "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
     "postal": "059413"
+  },
+  {
+    "name": "BURGER KING",
+    "address": "1 HARBOURFRONT WALK #B2-41/56 VIVOCITY 098585",
+    "type": "Restaurant",
+    "number": "EERT25120000009",
+    "scheme": "Eating Establishment",
+    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+    "postal": "098585"
   },
   {
     "name": "BURGER KING",
@@ -4590,6 +4626,15 @@
     "postal": "529557"
   },
   {
+    "name": "Cafe 2b Bistro",
+    "address": "30 PAYA LEBAR ROAD #01-05/06 PAYA LEBAR MRT STATION 409006",
+    "type": "Restaurant",
+    "number": "EERT20230000554",
+    "scheme": "Eating Establishment",
+    "id": "15928b80-79b4-4878-8c2d-296122b0f94d",
+    "postal": "409006"
+  },
+  {
     "name": "CAFE 85 @HOLIDAY INN (MNGD BY PRO*3 INSTITUTIONAL CATERING PL)",
     "address": "317 OUTRAM ROAD #B2-00 HOLIDAY INN SINGAPORE ATRIUM 169075",
     "type": "Staff Canteen",
@@ -4642,6 +4687,15 @@
     "scheme": "Eating Establishment",
     "id": "0a15cd91-18e7-4d93-908f-4355228ea2eb",
     "postal": "535215"
+  },
+  {
+    "name": "CAFE KOOK",
+    "address": "191 ROCHOR ROAD #B2-08 BUGIS MRT STATION 188476",
+    "type": "Restaurant",
+    "number": "EERT20230001200",
+    "scheme": "Eating Establishment",
+    "id": "b681a8e8-517a-4471-8425-85f650c811b0",
+    "postal": "188476"
   },
   {
     "name": "CAFE LODGE",
@@ -5086,15 +5140,6 @@
   },
   {
     "name": "CAT & THE FIDDLE",
-    "address": "3 GATEWAY DRIVE #01-11 WESTGATE 608532",
-    "type": "Restaurant",
-    "number": "EERT26010000110",
-    "scheme": "Eating Establishment",
-    "id": "40ac230f-34a1-45df-8a3e-ef049f3f2e1f",
-    "postal": "608532"
-  },
-  {
-    "name": "CAT & THE FIDDLE",
     "address": "9 BISHAN PLACE #02-32A JUNCTION 8 SHOPPING CENTRE 579837",
     "type": "Snack Bar / Bakery",
     "number": "EEBN21060012385",
@@ -5110,6 +5155,15 @@
     "scheme": "Eating Establishment",
     "id": "40ac230f-34a1-45df-8a3e-ef049f3f2e1f",
     "postal": "737737"
+  },
+  {
+    "name": "CAT & THE FIDDLE",
+    "address": "3 GATEWAY DRIVE #01-11 WESTGATE 608532",
+    "type": "Restaurant",
+    "number": "EERT26010000110",
+    "scheme": "Eating Establishment",
+    "id": "40ac230f-34a1-45df-8a3e-ef049f3f2e1f",
+    "postal": "608532"
   },
   {
     "name": "CAT & THE FIDDLE",
@@ -5263,6 +5317,15 @@
     "scheme": "Food Preparation Area",
     "id": "7ebb68d5-23c1-4f66-9675-67ce9e434e21",
     "postal": "178882"
+  },
+  {
+    "name": "CFF Nasi Padang",
+    "address": "33 HARBOUR DRIVE 1 Cafeteria PPTB 1, STALL 1 117606",
+    "type": "Hawker",
+    "number": "EEHK20250000770",
+    "scheme": "Eating Establishment",
+    "id": "dd4d7c30-53ec-478c-be8f-c577ee19b910",
+    "postal": "117606"
   },
   {
     "name": "Chai-San Omu Curry Rice & Donburi",
@@ -6760,21 +6823,21 @@
   },
   {
     "name": "CRAVE",
-    "address": "1 LOWER KENT RIDGE ROAD #01-09/19/20 ONE @ KENTRIDGE 119082",
-    "type": "Restaurant",
-    "number": "EERN21050012353",
-    "scheme": "Eating Establishment",
-    "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
-    "postal": "119082"
-  },
-  {
-    "name": "CRAVE",
     "address": "83 PUNGGOL CENTRAL #B1-K7 WATERWAY POINT 828761",
     "type": "Snack Bar / Bakery",
     "number": "EESB20230000634",
     "scheme": "Eating Establishment",
     "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
     "postal": "828761"
+  },
+  {
+    "name": "CRAVE",
+    "address": "1 LOWER KENT RIDGE ROAD #01-09/19/20 ONE @ KENTRIDGE 119082",
+    "type": "Restaurant",
+    "number": "EERN21050012353",
+    "scheme": "Eating Establishment",
+    "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
+    "postal": "119082"
   },
   {
     "name": "Cravy For Crispy Chicken",
@@ -8353,24 +8416,6 @@
   },
   {
     "name": "Dunkin'",
-    "address": "14 SCOTTS ROAD #01-03 FAR EAST PLAZA 228213",
-    "type": "Restaurant",
-    "number": "EERT20240000421",
-    "scheme": "Eating Establishment",
-    "id": "83555d54-74f6-478d-9393-666f698a1c48",
-    "postal": "228213"
-  },
-  {
-    "name": "Dunkin'",
-    "address": "3 TEMASEK BOULEVARD #01-K6 SUNTEC CITY MALL 038983",
-    "type": "Restaurant",
-    "number": "EERT25120000034",
-    "scheme": "Eating Establishment",
-    "id": "83555d54-74f6-478d-9393-666f698a1c48",
-    "postal": "038983"
-  },
-  {
-    "name": "Dunkin'",
     "address": "7 PASIR RIS CENTRAL #B1-K17 519612",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000727",
@@ -8404,6 +8449,15 @@
     "scheme": "Eating Establishment",
     "id": "83555d54-74f6-478d-9393-666f698a1c48",
     "postal": "738099"
+  },
+  {
+    "name": "Dunkin'",
+    "address": "14 SCOTTS ROAD #01-03 FAR EAST PLAZA 228213",
+    "type": "Restaurant",
+    "number": "EERT20240000421",
+    "scheme": "Eating Establishment",
+    "id": "83555d54-74f6-478d-9393-666f698a1c48",
+    "postal": "228213"
   },
   {
     "name": "Dunkin'",
@@ -8557,6 +8611,15 @@
     "scheme": "Eating Establishment",
     "id": "83555d54-74f6-478d-9393-666f698a1c48",
     "postal": "569933"
+  },
+  {
+    "name": "Dunkin'",
+    "address": "3 TEMASEK BOULEVARD #01-K6 SUNTEC CITY MALL 038983",
+    "type": "Restaurant",
+    "number": "EERT25120000034",
+    "scheme": "Eating Establishment",
+    "id": "83555d54-74f6-478d-9393-666f698a1c48",
+    "postal": "038983"
   },
   {
     "name": "Dunkin'",
@@ -8881,6 +8944,15 @@
     "scheme": "Eating Establishment",
     "id": "c6b2b42a-dcea-4425-9ef9-0edc95f76c15",
     "postal": "819666"
+  },
+  {
+    "name": "Elegant Yan Cafe",
+    "address": "5 STRAITS VIEW #B2-20 THE HEART 018935",
+    "type": "Restaurant",
+    "number": "EERT20250000791",
+    "scheme": "Eating Establishment",
+    "id": "d32a4dfd-49b5-4b58-ace6-9c8f639fcb0b",
+    "postal": "018935"
   },
   {
     "name": "Elsie's Kitchen Catering Services Pte Ltd",
@@ -11521,24 +11593,6 @@
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
-    "address": "681 PUNGGOL DRIVE #B1-01 820681",
-    "type": "Halal Section",
-    "number": "EEHS20230000838",
-    "scheme": "Eating Establishment",
-    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
-    "postal": "820681"
-  },
-  {
-    "name": "Halal Section @ NTUC FAIRPRICE",
-    "address": "524A JELAPANG ROAD #03-13 GREENRIDGE SHOPPING CENTRE 671524",
-    "type": "Halal Section",
-    "number": "EEHS20250000111",
-    "scheme": "Eating Establishment",
-    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
-    "postal": "671524"
-  },
-  {
-    "name": "Halal Section @ NTUC FAIRPRICE",
     "address": "80 MARINE PARADE ROAD #03-28 PARKWAY PARADE 449269",
     "type": "Central Kitchen",
     "number": "FPCN21050001520",
@@ -11554,6 +11608,15 @@
     "scheme": "Food Preparation Area",
     "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
     "postal": "150166"
+  },
+  {
+    "name": "Halal Section @ NTUC FAIRPRICE",
+    "address": "524A JELAPANG ROAD #03-13 GREENRIDGE SHOPPING CENTRE 671524",
+    "type": "Halal Section",
+    "number": "EEHS20250000111",
+    "scheme": "Eating Establishment",
+    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
+    "postal": "671524"
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
@@ -11581,6 +11644,15 @@
     "scheme": "Food Preparation Area",
     "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
     "postal": "829857"
+  },
+  {
+    "name": "Halal Section @ NTUC FAIRPRICE",
+    "address": "681 PUNGGOL DRIVE #B1-01 820681",
+    "type": "Halal Section",
+    "number": "EEHS20230000838",
+    "scheme": "Eating Establishment",
+    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
+    "postal": "820681"
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
@@ -14272,6 +14344,15 @@
     "scheme": "Eating Establishment",
     "id": "f8d2372a-8c62-4ee5-9b39-28d5f8e280c5",
     "postal": "739276"
+  },
+  {
+    "name": "KAWAN KITCHEN",
+    "address": "301 COMMONWEALTH AVENUE #02-01 QUEENSTOWN MRT STATION 149729",
+    "type": "Restaurant",
+    "number": "EERT20240000524",
+    "scheme": "Eating Establishment",
+    "id": "f2ff5315-6b6d-40b1-9016-f54d187e3b84",
+    "postal": "149729"
   },
   {
     "name": "Kazo",
@@ -19206,6 +19287,24 @@
     "postal": "310470"
   },
   {
+    "name": "MINUM KOPI",
+    "address": "213 BEDOK NORTH STREET 1 (Part of) #01-145 BEDOK TOWN CENTRE 460213",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26090000058",
+    "scheme": "Eating Establishment",
+    "id": "99a54a1f-23f2-40f0-964c-c376e32ebe23",
+    "postal": "460213"
+  },
+  {
+    "name": "MINUM KOPI",
+    "address": "213 BEDOK NORTH STREET 1 #01-145 460213",
+    "type": "Restaurant",
+    "number": "EERT20240000626",
+    "scheme": "Eating Establishment",
+    "id": "99a54a1f-23f2-40f0-964c-c376e32ebe23",
+    "postal": "460213"
+  },
+  {
     "name": "Modern Grill Seafood (S36) @ Newton Food Centre",
     "address": "500 CLEMENCEAU AVENUE NORTH #01-36, Stall 36 229495",
     "type": "Hawker",
@@ -20350,15 +20449,6 @@
   },
   {
     "name": "MUNCHI PANCAKES",
-    "address": "180 KITCHENER ROAD #B2-K8 CITY SQUARE MALL 208539",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20240000329",
-    "scheme": "Eating Establishment",
-    "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
-    "postal": "208539"
-  },
-  {
-    "name": "MUNCHI PANCAKES",
     "address": "23 SERANGOON CENTRAL #03-K7/K8 NEX 556083",
     "type": "Snack Bar / Bakery",
     "number": "EESB25100000118",
@@ -20374,6 +20464,15 @@
     "scheme": "Eating Establishment",
     "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
     "postal": "819666"
+  },
+  {
+    "name": "MUNCHI PANCAKES",
+    "address": "180 KITCHENER ROAD #B2-K8 CITY SQUARE MALL 208539",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20240000329",
+    "scheme": "Eating Establishment",
+    "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
+    "postal": "208539"
   },
   {
     "name": "MUNCHI PANCAKES",
@@ -21157,6 +21256,15 @@
     "scheme": "Eating Establishment",
     "id": "1eb63fd6-a7b3-406e-84aa-bec56a4a57ee",
     "postal": "600130"
+  },
+  {
+    "name": "NENEK PLACE",
+    "address": "81 LORONG 25 GEYLANG 01-05/06 ALJUNIED MRT STATION 388310",
+    "type": "Restaurant",
+    "number": "EERT26090000059",
+    "scheme": "Eating Establishment",
+    "id": "6eba0fcf-7e06-4a6d-bfed-eeeab73d0ea5",
+    "postal": "388310"
   },
   {
     "name": "Nenek Recipe",
@@ -23380,6 +23488,15 @@
     "scheme": "Food Preparation Area",
     "id": "d712f908-49bb-443d-883b-c5a76b633db9",
     "postal": "039594"
+  },
+  {
+    "name": "PETAI 2",
+    "address": "10 BUKIT BATOK CENTRAL #01-10/11 BUKIT BATOK MRT STATION 659958",
+    "type": "Restaurant",
+    "number": "EERN21060012500",
+    "scheme": "Eating Establishment",
+    "id": "9c153032-b621-4e5a-b9a2-bd820820a5ab",
+    "postal": "659958"
   },
   {
     "name": "PEZZO",
@@ -26605,24 +26722,6 @@
   },
   {
     "name": "Sanook Kitchen",
-    "address": "3 GATEWAY DRIVE #B1-25 WESTGATE 608532",
-    "type": "Restaurant",
-    "number": "EERT20240000492",
-    "scheme": "Eating Establishment",
-    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-    "postal": "608532"
-  },
-  {
-    "name": "Sanook Kitchen",
-    "address": "180 KITCHENER ROAD #02-33/56 CITY SQUARE MALL 208539",
-    "type": "Restaurant",
-    "number": "EERT20250000405",
-    "scheme": "Eating Establishment",
-    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-    "postal": "208539"
-  },
-  {
-    "name": "Sanook Kitchen",
     "address": "154 WEST COAST ROAD #B1-04 WEST COAST PLAZA 127371",
     "type": "Restaurant",
     "number": "EERT26030000004",
@@ -27727,6 +27826,15 @@
     "scheme": "Eating Establishment",
     "id": "3cc1d7dc-7b60-4b03-9495-8349a46414f6",
     "postal": "640504"
+  },
+  {
+    "name": "Singgah Makan",
+    "address": "12 BEDOK NORTH DRIVE #02-11 465492",
+    "type": "Restaurant",
+    "number": "EERT20230000551",
+    "scheme": "Eating Establishment",
+    "id": "de759219-0afb-4576-a7f2-a57afe883af1",
+    "postal": "465492"
   },
   {
     "name": "SIZZLING HOTPLATE (S12) @ Foodgle Hub ITE College Central",
@@ -34641,15 +34749,6 @@
     "postal": "543215"
   },
   {
-    "name": "Waker Chicken (stall 6) @ Hawkers' Street Bukit Panjang Plaza",
-    "address": "1 JELEBU ROAD #03-08 BUKIT PANJANG PLAZA, STALL 6 677743",
-    "type": "Hawker",
-    "number": "EEHK20250000172",
-    "scheme": "Eating Establishment",
-    "id": "74cc8312-eeef-4bad-bea7-830b869d482e",
-    "postal": "677743"
-  },
-  {
     "name": "Warehouse @ Chrisna Jenio Pte Ltd (Auntie Anne’s / RROOLL)",
     "address": "290 ORCHARD ROAD #B1-K34 THE PARAGON 238859",
     "type": "Snack Bar / Bakery",
@@ -35458,6 +35557,15 @@
     "scheme": "Eating Establishment",
     "id": "5078bd18-9cd6-436e-8ff3-0f2e55f795dc",
     "postal": "648886"
+  },
+  {
+    "name": "WINGSTOP",
+    "address": "90 HOUGANG AVENUE 10 #03-9B HOUGANG MALL 538766",
+    "type": "Restaurant",
+    "number": "EERT26090000060",
+    "scheme": "Eating Establishment",
+    "id": "5078bd18-9cd6-436e-8ff3-0f2e55f795dc",
+    "postal": "538766"
   },
   {
     "name": "WINGSTOP",
