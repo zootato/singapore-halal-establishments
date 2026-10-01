@@ -1,5 +1,255 @@
 [
   {
+    "timestamp": "2026-10-01T01:19:27.558317",
+    "date": "2026-10-01",
+    "summary": {
+      "new": 19,
+      "removed": 7,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "CITRUS TERRACE",
+          "address": "37 KALLANG PUDDING ROAD #10-01B TONG LEE BUILDING 349315",
+          "type": "Restaurant",
+          "number": "EERT26090000083",
+          "scheme": "Eating Establishment",
+          "id": "3cf3adcc-0788-47a2-8661-1911593e2d79",
+          "postal": "349315"
+        },
+        {
+          "name": "Hokkaido Baked Cheese Tart",
+          "address": "1 Jurong West Central 2 #B1-K2 Jurong Point 648886",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21080012666",
+          "scheme": "Eating Establishment",
+          "id": "0e377a5e-1fe7-4cb5-aef9-aef7c3e11147",
+          "postal": "648886"
+        },
+        {
+          "name": "LE MAK'S CHICK / BEVERAGE",
+          "address": "26 SENTOSA GATEWAY #02-202/203 SHOWPLACE (RESORTS WORLD SENTOSA), STALL C8 & C9, NASI & SPICE 098138",
+          "type": "Hawker",
+          "number": "EEHK26020000127",
+          "scheme": "Eating Establishment",
+          "id": "9b07fdc8-07e4-45b0-a216-94e600e264b8",
+          "postal": "098138"
+        },
+        {
+          "name": "LONTONG KITA / GRAIN & PADANG",
+          "address": "26 SENTOSA GATEWAY STALL C10 & C11 #02-202/203 SHOWPLACE (RESORTS WORLD SENTOSA), STALL 10/11, NASI & SPICE 098138",
+          "type": "Hawker",
+          "number": "EEHK26030000013",
+          "scheme": "Eating Establishment",
+          "id": "504674b8-4e87-4f1f-94b4-6ae960ec4b68",
+          "postal": "098138"
+        },
+        {
+          "name": "Team Catering Pte Ltd",
+          "address": "3015 BEDOK NORTH STREET 5 #01-01 SHIMEI EAST KITCHEN 486350",
+          "type": "Catering Company",
+          "number": "FPGN21080001581",
+          "scheme": "Food Preparation Area",
+          "id": "36c5f862-0aca-4331-8b89-b47a857dedba",
+          "postal": "486350"
+        },
+        {
+          "name": "Cafe Shiok! @ SAS (Managed by Sodexo Singapore)",
+          "address": "40 WOODLANDS STREET 41 #02-04 SINGAPORE AMERICAN SCHOOL 738547",
+          "type": "Hawker",
+          "number": "EEHK20220000370",
+          "scheme": "Eating Establishment",
+          "id": "87d0ed11-e8f2-4b03-9f1e-d4511ace60da",
+          "postal": "738547"
+        },
+        {
+          "name": "School Canteen Stall @ UWC EAST (Mngd by Sodexo Singapore)",
+          "address": "1 TAMPINES STREET 73 UNITED WORLD COLLEGE OF SOUTH EAST ASIA (EAST CAMPUS) 528704",
+          "type": "Hawker",
+          "number": "EEHK26090000080",
+          "scheme": "Eating Establishment",
+          "id": "40f621ff-e088-490c-8a47-04cf2b2d036a",
+          "postal": "528704"
+        },
+        {
+          "name": "Singapore Food & Beverage Pte Ltd",
+          "address": "1 LARKHILL ROAD #01-06 AMARA SANCTUARY RESORT SENTOSA 099394",
+          "type": "Catering Company",
+          "number": "FPCA20240000858",
+          "scheme": "Food Preparation Area",
+          "id": "d9ee08fb-d73f-4153-af91-4cbdc03e74f7",
+          "postal": "099394"
+        },
+        {
+          "name": "21 On Rajah",
+          "address": "1 JALAN RAJAH #01 329133",
+          "type": "Restaurant",
+          "number": "EERN21060012456",
+          "scheme": "Eating Establishment",
+          "id": "671e206d-f8a1-4c32-a94c-0f81a712772f",
+          "postal": "329133"
+        },
+        {
+          "name": "School Canteen Stall @ UWC EAST (Mngd by Sodexo Singapore)",
+          "address": "1 TAMPINES STREET 73 UNITED WORLD COLLEGE OF SOUTH EAST ASIA (EAST CAMPUS) 528704",
+          "type": "Central Kitchen",
+          "number": "FPCK26090000082",
+          "scheme": "Food Preparation Area",
+          "id": "40f621ff-e088-490c-8a47-04cf2b2d036a",
+          "postal": "528704"
+        },
+        {
+          "name": "INDIAN / MALAY KITCHEN @ RESORT WORLD SENTOSA",
+          "address": "8 SENTOSA GATEWAY Hard Rock Hotel, LEVEL B2 (BALLROOM) 098269",
+          "type": "Central Kitchen",
+          "number": "FPCN22020001658",
+          "scheme": "Food Preparation Area",
+          "id": "8fef7e19-d5c2-453f-b274-4283e76a3169",
+          "postal": "098269"
+        },
+        {
+          "name": "Planted @ UWC EAST (Mngd by Sodexo Singapore)",
+          "address": "1 TAMPINES STREET 73 UNITED WORLD COLLEGE OF SOUTH EAST ASIA (EAST CAMPUS) 528704",
+          "type": "Hawker",
+          "number": "EEHK26090000081",
+          "scheme": "Eating Establishment",
+          "id": "e612825f-9be7-4e5c-b09f-83eec254ef1b",
+          "postal": "528704"
+        },
+        {
+          "name": "Makan Queen",
+          "address": "31 JURONG WEST STREET 63 #02-02 PIONEER MRT STATION (EW28) 648310",
+          "type": "Restaurant",
+          "number": "EERT20250000828",
+          "scheme": "Eating Establishment",
+          "id": "ddbca0b6-9392-434c-a8cc-2e78c87bbf5a",
+          "postal": "648310"
+        },
+        {
+          "name": "IMPERIAL MANUFACTURING PTE. LTD.",
+          "address": "1550 BEDOK NORTH AVENUE 4 #03-19 489950",
+          "type": "Catering Company",
+          "number": "FPCA20230000906",
+          "scheme": "Food Preparation Area",
+          "id": "879322b4-3255-42ac-baf5-9a524e285669",
+          "postal": "489950"
+        },
+        {
+          "name": "Hokkaido Baked Cheese Tart",
+          "address": "65 AIRPORT BOULEVARD #B2-11 CHANGI AIRPORT TERMINAL 3 819663",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000043",
+          "scheme": "Eating Establishment",
+          "id": "0e377a5e-1fe7-4cb5-aef9-aef7c3e11147",
+          "postal": "819663"
+        },
+        {
+          "name": "AMRA CATERING PTE. LTD.",
+          "address": "8A ADMIRALTY STREET #04-06 FOOD XCHANGE @ ADMIRALTY 757437",
+          "type": "Catering Company",
+          "number": "FPGX21080001577",
+          "scheme": "Food Preparation Area",
+          "id": "dda434da-628e-4c8d-a2ed-c87ea6cab51d",
+          "postal": "757437"
+        },
+        {
+          "name": "21 On Rajah",
+          "address": "1 JALAN RAJAH #01 329133",
+          "type": "Central Kitchen",
+          "number": "FPCK20230001037",
+          "scheme": "Food Preparation Area",
+          "id": "671e206d-f8a1-4c32-a94c-0f81a712772f",
+          "postal": "329133"
+        },
+        {
+          "name": "Hokkaido Baked Cheese Tart",
+          "address": "80 Marine Parade Road #01-23B Parkway Parade 449269",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21080012668",
+          "scheme": "Eating Establishment",
+          "id": "0e377a5e-1fe7-4cb5-aef9-aef7c3e11147",
+          "postal": "449269"
+        },
+        {
+          "name": "Team Catering Pte Ltd",
+          "address": "3015 BEDOK NORTH STREET 5 #04-12 SHIMEI EAST KITCHEN 486350",
+          "type": "Catering Company",
+          "number": "FPCA26090000078",
+          "scheme": "Food Preparation Area",
+          "id": "36c5f862-0aca-4331-8b89-b47a857dedba",
+          "postal": "486350"
+        }
+      ],
+      "removed": [
+        {
+          "name": "THE COFFEE BEAN & TEA LEAF",
+          "address": "30 RAFFLES PLACE #01-09 CHANGE ALLEY 048622",
+          "type": "Restaurant",
+          "number": "EERN21120013264",
+          "scheme": "Eating Establishment",
+          "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+          "postal": "048622"
+        },
+        {
+          "name": "SUBWAY",
+          "address": "31 WOODLANDS AVENUE 6 #01-02 WOODLANDS GALAXY COMMUNITY CLUB 738991",
+          "type": "Restaurant",
+          "number": "EERN21120013223",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "738991"
+        },
+        {
+          "name": "Yakiniku Shokudo",
+          "address": "10 EUNOS ROAD 8 #01-147 SINGAPORE POST CENTRE 408600",
+          "type": "Restaurant",
+          "number": "EERT20240000045",
+          "scheme": "Eating Establishment",
+          "id": "7febb99e-79f2-45a1-9f1b-a2fe974e405a",
+          "postal": "408600"
+        },
+        {
+          "name": "LOCO LOCO",
+          "address": "7 MANDAI ESTATE #06-04 FOODFAB@MANDAI 729904",
+          "type": "Catering Company",
+          "number": "FPCA20240000830",
+          "scheme": "Food Preparation Area",
+          "id": "a7073c37-6be5-48ea-b355-7dc943498078",
+          "postal": "729904"
+        },
+        {
+          "name": "TEXAS CHICKEN",
+          "address": "2 TAMPINES CENTRAL 5 #05-03 CENTURY SQUARE 529509",
+          "type": "Restaurant",
+          "number": "EERN21070012596",
+          "scheme": "Eating Establishment",
+          "id": "53c88848-1280-4fee-b6dc-b5d1d941c07d",
+          "postal": "529509"
+        },
+        {
+          "name": "WAKER CHICKEN",
+          "address": "215C COMPASSVALE DRIVE #01-06 543215",
+          "type": "Hawker",
+          "number": "EEHK20220000392",
+          "scheme": "Eating Establishment",
+          "id": "ce111a17-913f-461e-a427-1103aea73d02",
+          "postal": "543215"
+        },
+        {
+          "name": "Sanook Kitchen",
+          "address": "180 KITCHENER ROAD #02-33/56 CITY SQUARE MALL 208539",
+          "type": "Restaurant",
+          "number": "EERT20250000405",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "208539"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-09-30T01:20:05.939818",
     "date": "2026-09-30",
     "summary": {
@@ -11943,193 +12193,6 @@
         }
       ],
       "removed": [],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-08-01T23:07:19.209392",
-    "date": "2026-08-01",
-    "summary": {
-      "new": 13,
-      "removed": 6,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Asam Tree Nasi Padang",
-          "address": "1 ANCHORVALE STREET Stall 6, Koufu #01-21 SENGKANG GENERAL HOSPITAL 544835",
-          "type": "Hawker",
-          "number": "EEHK26070000115",
-          "scheme": "Eating Establishment",
-          "id": "4921c3d0-f6e2-467a-9150-910e8174b587",
-          "postal": "544835"
-        },
-        {
-          "name": "Blue Ocean Kopi & Toast",
-          "address": "533 Choa Chu Kang street 51 #01-11 Limbang Shopping Centre 680533",
-          "type": "Restaurant",
-          "number": "EERT20250000617",
-          "scheme": "Eating Establishment",
-          "id": "8061016d-f5e1-400e-9fbc-49602fe70687",
-          "postal": "680533"
-        },
-        {
-          "name": "HOTPLATE WANGI",
-          "address": "470 LORONG 6 TOA PAYOH #02-70 HDB HUB, MR 5, Fork & Spoon 310470",
-          "type": "Hawker",
-          "number": "EEHK26070000114",
-          "scheme": "Eating Establishment",
-          "id": "03897fd1-3e6e-420f-9a92-b2b7581b4fae",
-          "postal": "310470"
-        },
-        {
-          "name": "Kucina Kiosko",
-          "address": "80 MARINE PARADE ROAD Stall20 @ Kopitiam Food Hall #B1-85/86/87/112/146 PARKWAY PARADE 449269",
-          "type": "Hawker",
-          "number": "EEHK26070000110",
-          "scheme": "Eating Establishment",
-          "id": "8deaa422-1eee-4dd3-95da-c971e7343313",
-          "postal": "449269"
-        },
-        {
-          "name": "Asam Tree Nasi Padang",
-          "address": "168 PUNGGOL FIELD Stall 12, Koufu #01-01 PUNGGOL PLAZA 820168",
-          "type": "Hawker",
-          "number": "EEHK26010000092",
-          "scheme": "Eating Establishment",
-          "id": "4921c3d0-f6e2-467a-9150-910e8174b587",
-          "postal": "820168"
-        },
-        {
-          "name": "ASAM TREE SNACK & NASI LEMAK",
-          "address": "100 HOUGANG AVENUE 10 #01-03 KANG KAR MALL 538767",
-          "type": "Snack Bar / Bakery",
-          "number": "EEBN21040012186",
-          "scheme": "Eating Establishment",
-          "id": "22800df1-62a2-4887-a9b1-dd43fae4459f",
-          "postal": "538767"
-        },
-        {
-          "name": "Mala Hotpot",
-          "address": "1 JURONG WEST CENTRAL 2 #B1-42/43/44 JURONG POINT, Bagus (S7) 648886",
-          "type": "Hawker",
-          "number": "EEHK26070000117",
-          "scheme": "Eating Establishment",
-          "id": "406433ab-3089-4386-bb4f-943f2903a0b4",
-          "postal": "648886"
-        },
-        {
-          "name": "Kucina Kiosko",
-          "address": "313 ORCHARD ROAD Stall MR11 @ Food Republic #05-01/02/03 313 @ SOMERSET 238895",
-          "type": "Hawker",
-          "number": "EEHK26070000111",
-          "scheme": "Eating Establishment",
-          "id": "8deaa422-1eee-4dd3-95da-c971e7343313",
-          "postal": "238895"
-        },
-        {
-          "name": "Blue Ocean Kopi & Toast",
-          "address": "76 NANYANG DRIVE #01-05 NANYANG TECHNOLOGICAL UNIVERSITY (N2.1) 637331",
-          "type": "Hawker",
-          "number": "EEHK20250000618",
-          "scheme": "Eating Establishment",
-          "id": "8061016d-f5e1-400e-9fbc-49602fe70687",
-          "postal": "637331"
-        },
-        {
-          "name": "Asam Tree (S7) @ Broadway Coffeeshop",
-          "address": "155 BUKIT BATOK STREET 11 #01-322, STALL 7 650155",
-          "type": "Hawker",
-          "number": "EEHN21090012685",
-          "scheme": "Eating Establishment",
-          "id": "3f4bc855-b32d-4123-b72b-960264441e38",
-          "postal": "650155"
-        },
-        {
-          "name": "Asam Tree Nasi Padang",
-          "address": "470 LORONG 6 TOA PAYOH MR2, Fork & Spoon Toa Payoh #02-70 HDB HUB 310470",
-          "type": "Hawker",
-          "number": "EEHK20250000624",
-          "scheme": "Eating Establishment",
-          "id": "4921c3d0-f6e2-467a-9150-910e8174b587",
-          "postal": "310470"
-        },
-        {
-          "name": "Relaks @ Conrad Singapore Marina Bay (managed by Compass Group)",
-          "address": "2 TEMASEK BOULEVARD B1 (Staff Canteen) CONRAD CENTENNIAL SINGAPORE 038982",
-          "type": "Staff Canteen",
-          "number": "EESC20250000642",
-          "scheme": "Eating Establishment",
-          "id": "2d1834f6-fcb1-4e27-b4fb-e3b3d5d2145c",
-          "postal": "038982"
-        },
-        {
-          "name": "Green Delights",
-          "address": "3 GATEWAY DRIVE #B2-K15/16 WESTGATE 608532",
-          "type": "Restaurant",
-          "number": "EERN21060012446",
-          "scheme": "Eating Establishment",
-          "id": "63adee12-b82c-4bda-b37d-5777fb47393c",
-          "postal": "608532"
-        }
-      ],
-      "removed": [
-        {
-          "name": "McDonald's",
-          "address": "1 KIM SENG PROMENADE #01-124 GREAT WORLD CITY 237994",
-          "type": "Restaurant",
-          "number": "EERN20020011059",
-          "scheme": "Eating Establishment",
-          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-          "postal": "237994"
-        },
-        {
-          "name": "PastryCo",
-          "address": "432A BUKIT BATOK WEST AVENUE 8 #01-02 WEST SCAPE @ BUKIT BATOK 651432",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20250000825",
-          "scheme": "Eating Establishment",
-          "id": "6dc02f81-d9ea-4cd9-879b-0d9239b917c4",
-          "postal": "651432"
-        },
-        {
-          "name": "MR BEAN",
-          "address": "90 HOUGANG AVENUE 10 #B1-13A HOUGANG MALL 538766",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20220000178",
-          "scheme": "Eating Establishment",
-          "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
-          "postal": "538766"
-        },
-        {
-          "name": "OLD CHANG KEE",
-          "address": "1 MARITIME SQUARE #02-20B HARBOURFRONT CENTRE 099253",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20220000439",
-          "scheme": "Eating Establishment",
-          "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
-          "postal": "099253"
-        },
-        {
-          "name": "STUFF'D",
-          "address": "1 WOODLANDS SQUARE #B1-K17 CAUSEWAY POINT 738099",
-          "type": "Snack Bar / Bakery",
-          "number": "EEBN21110012929",
-          "scheme": "Eating Establishment",
-          "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
-          "postal": "738099"
-        },
-        {
-          "name": "Pastamania",
-          "address": "1 BUKIT BATOK CENTRAL LINK #01-40 WEST MALL 658713",
-          "type": "Restaurant",
-          "number": "EERN22010013365",
-          "scheme": "Eating Establishment",
-          "id": "e1eb4468-e706-4f99-bbf2-2603b062790c",
-          "postal": "658713"
-        }
-      ],
       "updated": []
     }
   }
