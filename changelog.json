@@ -1,5 +1,615 @@
 [
   {
+    "timestamp": "2026-10-02T01:39:30.623713",
+    "date": "2026-10-02",
+    "summary": {
+      "new": 48,
+      "removed": 18,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "10 TAMPINES NORTH DRIVE 4 #01-05 JTC SPACE @ TAMPINES NORTH, KITCHEN 1 & 2 528553",
+          "type": "Hawker",
+          "number": "EEHK20240000021",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "528553"
+        },
+        {
+          "name": "AL-AZHAR",
+          "address": "11 & 12 CHEONG CHIN NAM ROAD 599736",
+          "type": "Restaurant",
+          "number": "EERT20240000904",
+          "scheme": "Eating Establishment",
+          "id": "e1787484-2828-47c7-8b72-900d93cb3b65",
+          "postal": "599736"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "6 CHANGI BUSINESS PARK AVENUE 1 #01-30 ESR BIZPARK @ CHANGI 486017",
+          "type": "Restaurant",
+          "number": "EERT20240000047",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "486017"
+        },
+        {
+          "name": "DOMINO’S PIZZA SINGAPORE PTE LTD",
+          "address": "63 NANYANG DRIVE #B1-01 NANYANG TECHNOLOGICAL UNIVERSITY 636922",
+          "type": "Restaurant",
+          "number": "EERT26090000048",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "636922"
+        },
+        {
+          "name": "D’s Hood (S129) MarketPlace@Expo",
+          "address": "1 EXPO DRIVE #01-129 SINGAPORE EXPO, STALL 129 486150",
+          "type": "Hawker",
+          "number": "EEHK20240000939",
+          "scheme": "Eating Establishment",
+          "id": "5deccd6d-d118-4baf-9e06-ced4ba2ba02c",
+          "postal": "486150"
+        },
+        {
+          "name": "DELIJOY PTE. LTD.",
+          "address": "1 WOODLANDS HEIGHT #06-02A KOUFU GROUP HQ 737859",
+          "type": "Central Kitchen",
+          "number": "FPCK20220000152",
+          "scheme": "Food Preparation Area",
+          "id": "161e4c4a-fc23-45fd-9c8d-4e9b30bfbb0b",
+          "postal": "737859"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "253 CHOA CHU KANG AVENUE 1 #01-01 KEAT HONG SHOPPING CENTRE 680253",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000612",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "680253"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "47 LORONG 6 TOA PAYOH #01-148 EAST PAYOH SPRING 310047",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26090000052",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "310047"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "557 Bukit Timah Road #01-04/05 Crown Centre 269694",
+          "type": "Restaurant",
+          "number": "EERN21070012564",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "269694"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "6 JURONG WEST AVENUE 1 #01-03 JURONG GREEN COMMUNITY CLUB 649520",
+          "type": "Restaurant",
+          "number": "EERN21060012537",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "649520"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "218 BEDOK NORTH STREET 1 #01-15 460218",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21060012380",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "460218"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "21 JASMINE ROAD #01 ADELPHI PARK ESTATE 576587",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000621",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "576587"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "2 RIVERVALE CLOSE #01-02 RIVERVALE COMMUNITY CLUB 544583",
+          "type": "Restaurant",
+          "number": "EERN22030013540",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "544583"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "625 ELIAS ROAD #01-312 ELIAS MALL 510625",
+          "type": "Restaurant",
+          "number": "EERN21060012540",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "510625"
+        },
+        {
+          "name": "DOMINO’S PIZZA SINGAPORE PTE LTD",
+          "address": "1 PASIR RIS DRIVE 4 #01-09 PASIR RIS EAST COMMUNITY CLUB 519457",
+          "type": "Restaurant",
+          "number": "EERT26010000156",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "519457"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "46 TELOK BLANGAH DRIVE #01-81 BLANGAH COURT 100046",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26090000051",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "100046"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "505 WEST COAST DRIVE #01-210 120505",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21060012379",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "120505"
+        },
+        {
+          "name": "DOMINO’S PIZZA SINGAPORE PTE LTD",
+          "address": "8 CLUB STREET #B2-05 069472",
+          "type": "Restaurant",
+          "number": "EERT20250000435",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "069472"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "42 HOLLAND DRIVE #01-81 270042",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000614",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "270042"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "29 EAST COAST ROAD 428750",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000240",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "428750"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "631 BEDOK RESERVOIR ROAD #01-972 EUNOS GROVE 470631",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26090000053",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "470631"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "166 WOODLANDS STREET 13 #02-525 730166",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21060012378",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "730166"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "123 SIMS AVENUE #01-03 387446",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000204",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "387446"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "524A JELAPANG ROAD #01-02 GREENRIDGE SHOPPING CENTRE 671524",
+          "type": "Restaurant",
+          "number": "EERN21060012523",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "671524"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "785E WOODLANDS RISE #01-14 735785",
+          "type": "Restaurant",
+          "number": "EERN21070012563",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "735785"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "171 SENGKANG EAST DRIVE #01-13 540171",
+          "type": "Restaurant",
+          "number": "EERT20240001300",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "540171"
+        },
+        {
+          "name": "D's Hood (MR1) @ The Broadway 334A Sembawang",
+          "address": "334A SEMBAWANG CLOSE #01-01, STALL MR1 751334",
+          "type": "Hawker",
+          "number": "EEHK20240000479",
+          "scheme": "Eating Establishment",
+          "id": "bbeff2ec-a433-4a9f-b37d-da38d3e61e53",
+          "postal": "751334"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "369 SEMBAWANG ROAD #01-06 758382",
+          "type": "Restaurant",
+          "number": "EERN21070012568",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "758382"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "73 KILLINEY ROAD 239528",
+          "type": "Restaurant",
+          "number": "EERN21060012541",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "239528"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "2 TAI THONG CRESCENT #01-23 THE VENUE SHOPPES 347836",
+          "type": "Restaurant",
+          "number": "EERN21070012562",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "347836"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "169 UPPER PAYA LEBAR ROAD 534860",
+          "type": "Restaurant",
+          "number": "EERN21060012533",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "534860"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "161 BUKIT MERAH CENTRAL #01-3725 150161",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000613",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "150161"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "233 JALAN KAYU 799457",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21060012377",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "799457"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "202 Jurong East Street 21 #01-115 600202",
+          "type": "Restaurant",
+          "number": "EERN21060012530",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "600202"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "146 ARAB STREET 199830",
+          "type": "Restaurant",
+          "number": "EERN21060012535",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "199830"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "511 UPPER JURONG ROAD #01-06/07 ARENA COUNTRY CLUB 638366",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240001266",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "638366"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "59B JALAN MALU-MALU 769674",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000241",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "769674"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "429 BALESTIER ROAD 329811",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000378",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "329811"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "918 EAST COAST ROAD 918 459111",
+          "type": "Restaurant",
+          "number": "EERN21060012529",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "459111"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "139 TAMPINES STREET 11 #01-40 521139",
+          "type": "Restaurant",
+          "number": "EERT20240001231",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "521139"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "1 HILLVIEW RISE #01-03 667970",
+          "type": "Restaurant",
+          "number": "EERN21060012528",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "667970"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "322 SUMANG WALK #01-02 820322",
+          "type": "Restaurant",
+          "number": "EERN21060012521",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "820322"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "216 ANG MO KIO AVE 4 #01-04 KEBUN BARU COMMUNITY CLUB 569897",
+          "type": "Restaurant",
+          "number": "EERN21070012567",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "569897"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "152 BUKIT BATOK STREET 11 #01-258 650152",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26090000050",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "650152"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "44 YIO CHU KANG ROAD 545557",
+          "type": "Snack Bar / Bakery",
+          "number": "EERN22030013541",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "545557"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "574 Ang Mo Kio Avenue 10 #01-1827 560574",
+          "type": "Restaurant",
+          "number": "EERN21070012565",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "560574"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "462 TAMPINES STREET 44 #01-76 520462",
+          "type": "Restaurant",
+          "number": "EERN21060012536",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "520462"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+          "address": "239 YISHUN RING ROAD #01-1162 YISHUN HEARTS 760239",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000067",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "760239"
+        }
+      ],
+      "removed": [
+        {
+          "name": "FLIPPER'S",
+          "address": "1 HARBOURFRONT WALK #01-188A VIVOCITY 098585",
+          "type": "Restaurant",
+          "number": "EERT26030000034",
+          "scheme": "Eating Establishment",
+          "id": "606d294c-88b9-43ef-88f9-4e099b71c39b",
+          "postal": "098585"
+        },
+        {
+          "name": "Telur Thai (S19) @ Kopitiam Tampines Mall",
+          "address": "4 TAMPINES CENTRAL 5 #04-27 TAMPINES MALL, Stall 19 529510",
+          "type": "Hawker",
+          "number": "EEHK20240000079",
+          "scheme": "Eating Establishment",
+          "id": "135a9f83-f2f4-40b3-8aac-e663ee9034df",
+          "postal": "529510"
+        },
+        {
+          "name": "SUBWAY",
+          "address": "9 WOODLANDS AVENUE 9 #01-02/03 REPUBLIC POLYTECHNIC 738964",
+          "type": "Restaurant",
+          "number": "EERN21110013109",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "738964"
+        },
+        {
+          "name": "san.wich",
+          "address": "10 EUNOS ROAD 8 #B1-158 SINGAPORE POST CENTRE 408600",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000654",
+          "scheme": "Eating Establishment",
+          "id": "3bd9ccb4-3fd0-4719-8ffc-594b877c6cc5",
+          "postal": "408600"
+        },
+        {
+          "name": "SUBWAY",
+          "address": "1 EXPO DRIVE #01-64 SINGAPORE EXPO 486150",
+          "type": "Restaurant",
+          "number": "EERT20220001043",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "486150"
+        },
+        {
+          "name": "SINGAPORE NASI KANDAR",
+          "address": "232 GEYLANG ROAD 389292",
+          "type": "Restaurant",
+          "number": "EERT20250000154",
+          "scheme": "Eating Establishment",
+          "id": "82e7ed52-7791-4709-9ac7-8eeee5f87185",
+          "postal": "389292"
+        },
+        {
+          "name": "SUBWAY",
+          "address": "DEPTFORD ROAD PORT OF SINGAPORE AUTHORITY 759657",
+          "type": "Restaurant",
+          "number": "EERN21110013124",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "759657"
+        },
+        {
+          "name": "Kazo",
+          "address": "51 BRAS BASAH ROAD #01-09 LAZADA ONE 189554",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000053",
+          "scheme": "Eating Establishment",
+          "id": "911cb7f7-438a-4583-a323-1e96bb9071a4",
+          "postal": "189554"
+        },
+        {
+          "name": "Tenderbest",
+          "address": "827 TAMPINES STREET 81 #01-128 TAMPINES GROVE, MR2 520827",
+          "type": "Hawker",
+          "number": "EEHK20230000621",
+          "scheme": "Eating Establishment",
+          "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
+          "postal": "520827"
+        },
+        {
+          "name": "Tenderbest",
+          "address": "824 TAMPINES STREET 81 #01-38 TAMPINES GROVE, Stall 9 520824",
+          "type": "Hawker",
+          "number": "EEHN21060012440",
+          "scheme": "Eating Establishment",
+          "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
+          "postal": "520824"
+        },
+        {
+          "name": "SUBWAY",
+          "address": "20 EASTWOOD ROAD #01-11 EASTWOOD CENTRE 486442",
+          "type": "Restaurant",
+          "number": "EERT20240001159",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "486442"
+        },
+        {
+          "name": "SUBWAY",
+          "address": "548 WOODLANDS DRIVE 44 #01-23 VISTA POINT 730548",
+          "type": "Restaurant",
+          "number": "EERN21110013101",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "730548"
+        },
+        {
+          "name": "Texas Chicken",
+          "address": "10 EUNOS ROAD 8 #01-148 SINGAPORE POST CENTRE 408600",
+          "type": "Restaurant",
+          "number": "EERT20250000688",
+          "scheme": "Eating Establishment",
+          "id": "71f85807-620e-4ad7-be65-0af09af47b4d",
+          "postal": "408600"
+        },
+        {
+          "name": "NEO GARDEN CATERING PTE. LTD.",
+          "address": "30B QUALITY ROAD #03-01/01/02 618826",
+          "type": "Catering Company",
+          "number": "FPCA20250000075",
+          "scheme": "Food Preparation Area",
+          "id": "1078743b-5d11-456e-95c3-923bc8c62336",
+          "postal": "618826"
+        },
+        {
+          "name": "SUBWAY",
+          "address": "3 SIMEI STREET 6 #B1-10 EASTPOINT MALL 528833",
+          "type": "Restaurant",
+          "number": "EERN21110013149",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "528833"
+        },
+        {
+          "name": "SUBWAY",
+          "address": "10 EUNOS ROAD 8 #B1-127 SINGAPORE POST CENTRE 408600",
+          "type": "Restaurant",
+          "number": "EERN21110013116",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "408600"
+        },
+        {
+          "name": "Kazo",
+          "address": "1 HARBOURFRONT WALK #B2-K9 VIVO CITY 098585",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000074",
+          "scheme": "Eating Establishment",
+          "id": "766847d6-38ea-4363-818a-36bafdf12534",
+          "postal": "098585"
+        },
+        {
+          "name": "Sanook Kitchen",
+          "address": "3 GATEWAY DRIVE #B1-25 WESTGATE 608532",
+          "type": "Restaurant",
+          "number": "EERT20240000492",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "608532"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-10-01T01:19:27.558317",
     "date": "2026-10-01",
     "summary": {
@@ -12142,57 +12752,6 @@
           "postal": "179105"
         }
       ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-08-02T23:07:50.791026",
-    "date": "2026-08-02",
-    "summary": {
-      "new": 4,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Asam Tree Malay Cuisine (S5) @ Kopitiam KTPH",
-          "address": "90 YISHUN CENTRAL #01-12 KHOO TECK PUAT HOSPITAL, Stall 5 768828",
-          "type": "Hawker",
-          "number": "EEHK20240001195",
-          "scheme": "Eating Establishment",
-          "id": "427efe28-b234-4733-8af7-0500011367af",
-          "postal": "768828"
-        },
-        {
-          "name": "2 IC CATERING PRIVATE LIMITED",
-          "address": "15 JALAN TEPONG #06-10 JURONG FOOD HUB 619336",
-          "type": "Catering Company",
-          "number": "FPGN22010001642",
-          "scheme": "Food Preparation Area",
-          "id": "f8238a66-df1f-4891-9767-a9221c0fd0ad",
-          "postal": "619336"
-        },
-        {
-          "name": "ASAM TREE CAFE, BAKERY AND RESTAURANT",
-          "address": "709 ANG MO KIO AVENUE 8 #01-2609 560709",
-          "type": "Restaurant",
-          "number": "EERT20230000647",
-          "scheme": "Eating Establishment",
-          "id": "fc7d0e16-0124-44ca-bf79-aadcff8d3187",
-          "postal": "560709"
-        },
-        {
-          "name": "YB Fried Bee Hoon",
-          "address": "437 FERNVALE ROAD (S10)@Kopitiam Fernvale #01-01 FERNVALE GROVE 790437",
-          "type": "Hawker",
-          "number": "EEHK25110000008",
-          "scheme": "Eating Establishment",
-          "id": "226370e2-ec42-4b14-bfbe-d2bc897d1580",
-          "postal": "790437"
-        }
-      ],
-      "removed": [],
       "updated": []
     }
   }
