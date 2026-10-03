@@ -1,5 +1,696 @@
 [
   {
+    "timestamp": "2026-10-03T01:08:56.732775",
+    "date": "2026-10-03",
+    "summary": {
+      "new": 63,
+      "removed": 12,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "ROTIKEK",
+          "address": "632 BEDOK RESERVOIR ROAD #01-860 EUNOS GROVE 470632",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB25110000004",
+          "scheme": "Eating Establishment",
+          "id": "42d34450-5869-4fe6-94cb-107c37145b50",
+          "postal": "470632"
+        },
+        {
+          "name": "TripletS",
+          "address": "1 HOSPITAL DRIVE #01 SINGAPORE GENERAL HOSPITAL BLK 4 169608",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21070012390",
+          "scheme": "Eating Establishment",
+          "id": "93a5a81c-1ecf-48e6-9206-cad8e5504ada",
+          "postal": "169608"
+        },
+        {
+          "name": "D'S HOOD",
+          "address": "568C CHAMPIONS WAY CHAMPIONS GREEN, (MR2) @ Koffee Time 733568",
+          "type": "Hawker",
+          "number": "EEHK26090000071",
+          "scheme": "Eating Establishment",
+          "id": "ebf3cb82-f3e4-4f83-84d0-b8d54e9816cb",
+          "postal": "733568"
+        },
+        {
+          "name": "ANDES",
+          "address": "2 JURONG EAST STREET 21 #01-96 IMM BUILDING 609601",
+          "type": "Restaurant",
+          "number": "EERT20240001249",
+          "scheme": "Eating Establishment",
+          "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
+          "postal": "609601"
+        },
+        {
+          "name": "HPG BROTHERS PTE. LTD.",
+          "address": "1 SENOKO AVENUE #04-03 FOODAXIS @ SENOKO 758297",
+          "type": "Central Kitchen",
+          "number": "FPCK20230000415",
+          "scheme": "Food Preparation Area",
+          "id": "50d2dd0d-aff2-465b-b445-a3321af9c735",
+          "postal": "758297"
+        },
+        {
+          "name": "CHICKEN RICE (S3) @ TUAN TUAN & PUAN PUAN",
+          "address": "30 WOODLANDS AVENUE 2 #01-17/18 WOODLANDS MRT STATION, Stall 3 738343",
+          "type": "Hawker",
+          "number": "EEHK20230000559",
+          "scheme": "Eating Establishment",
+          "id": "86c91b23-fc20-4130-b72c-35743af85d0b",
+          "postal": "738343"
+        },
+        {
+          "name": "Fried Yong Tau FU (S5) @ Quad Cafe",
+          "address": "60 NANYANG DRIVE S OF BIOLOGICAL SCIENCES NTU-B1N-10, BASEMENT 1, Stall 5 637551",
+          "type": "Hawker",
+          "number": "EEHX22020013130",
+          "scheme": "Eating Establishment",
+          "id": "76a82866-3e09-4e55-b3b5-60f627e103fd",
+          "postal": "637551"
+        },
+        {
+          "name": "Mix Economic Rice (S1) @ Quad Cafe",
+          "address": "60 NANYANG DRIVE #B1, Stall 1 637551",
+          "type": "Hawker",
+          "number": "EEHX22020013132",
+          "scheme": "Eating Establishment",
+          "id": "c0fd83c2-3cb5-4c13-b5c2-f1e8ffc1461f",
+          "postal": "637551"
+        },
+        {
+          "name": "Joy kitchen La Mian & Mini Wok (S6) @ Quad Cafe",
+          "address": "60 NANYANG DRIVE S OF BIOLOGICAL SCIENCES NTU-B1N-10, BASEMENT 1, STALL 6 637551",
+          "type": "Hawker",
+          "number": "EEHN22020013128",
+          "scheme": "Eating Establishment",
+          "id": "b3961835-72ba-4e02-b064-fbff609a5d69",
+          "postal": "637551"
+        },
+        {
+          "name": "TripletS",
+          "address": "70 STAMFORD ROAD #B1-24A SINGAPORE MANAGEMENT UNIVERSITY 178901",
+          "type": "Restaurant",
+          "number": "EERN21070012573",
+          "scheme": "Eating Establishment",
+          "id": "93a5a81c-1ecf-48e6-9206-cad8e5504ada",
+          "postal": "178901"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD",
+          "address": "53 KAMPONG BAHRU ROAD, 1st Storey 169364",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000293",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "169364"
+        },
+        {
+          "name": "Ananas",
+          "address": "512 Tampines Central 1 #01-01 520512",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000733",
+          "scheme": "Eating Establishment",
+          "id": "d781447b-04cd-4fec-bf96-906984cfa60e",
+          "postal": "520512"
+        },
+        {
+          "name": "DOMINO'S PIZZA SINGAPORE PTE LTD",
+          "address": "961 UPPER SERANGOON ROAD #1ST 534719",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26020000067",
+          "scheme": "Eating Establishment",
+          "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+          "postal": "534719"
+        },
+        {
+          "name": "Triplets",
+          "address": "21 TAMPINES AVENUE 1 #01-01 TEMASEK POLYTECHNIC BLK 30B 529757",
+          "type": "Restaurant",
+          "number": "EERN21040012237",
+          "scheme": "Eating Establishment",
+          "id": "dab0805f-9331-4888-a1cd-a03c1fe02399",
+          "postal": "529757"
+        },
+        {
+          "name": "NASI LEMAK & ECONOMIC NOODLES (S2)@TUAN TUAN & PUAN PUAN",
+          "address": "30 WOODLANDS AVENUE 2 #01-17/18 WOODLANDS MRT STATION, Stall 2 738343",
+          "type": "Hawker",
+          "number": "EEHK20230000555",
+          "scheme": "Eating Establishment",
+          "id": "0af1fa40-8f91-42cc-9f23-c9b941d90080",
+          "postal": "738343"
+        },
+        {
+          "name": "THE ORIGINAL VADAI PTE. LTD.",
+          "address": "Punggol MRT Trade Fair, 70 PUNGGOL CENTRAL PUNGGOL MRT STATION (NE17), 58 828868",
+          "type": "Short Term Stall(Bazaar/Road Shows)",
+          "number": "EEST26100000008",
+          "scheme": "Eating Establishment",
+          "id": "2cf47297-6487-4b72-a440-8997c6252276",
+          "postal": "828868"
+        },
+        {
+          "name": "ANDES",
+          "address": "3 SIMEI STREET 6 #01-13 EASTPOINT MALL 528833",
+          "type": "Restaurant",
+          "number": "EERN21060012480",
+          "scheme": "Eating Establishment",
+          "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
+          "postal": "528833"
+        },
+        {
+          "name": "ANDES",
+          "address": "32 NANYANG CRESCENT (CANTEEN 13) NANYANG TECHNOLOGICAL UNIVERSITY (HALL OF RESIDENCE 13) 637658",
+          "type": "Restaurant",
+          "number": "EERT26030000028",
+          "scheme": "Eating Establishment",
+          "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
+          "postal": "637658"
+        },
+        {
+          "name": "KEMBANGAN KEDAI",
+          "address": "55 SIMS AVENUE EAST #01-06 KEMBANGAN MRT STATION 416551",
+          "type": "Restaurant",
+          "number": "EERT20220000397",
+          "scheme": "Eating Establishment",
+          "id": "345f941e-2497-4f87-9d89-f2fbcb1e0233",
+          "postal": "416551"
+        },
+        {
+          "name": "KUNYIT KEDAI",
+          "address": "960 WOODLANDS ROAD #01-06/07/08 KRANJI MRT STATION 738702",
+          "type": "Restaurant",
+          "number": "EERT20230000552",
+          "scheme": "Eating Establishment",
+          "id": "f9fff7b1-ea16-4d40-9703-33bb68c58803",
+          "postal": "738702"
+        },
+        {
+          "name": "ANDES",
+          "address": "6 WOODLANDS SQUARE #01-13/16 WOODS SQUARE 737737",
+          "type": "Restaurant",
+          "number": "EERN21070012648",
+          "scheme": "Eating Establishment",
+          "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
+          "postal": "737737"
+        },
+        {
+          "name": "Chicken Rice (S3) @ Quad Cafe",
+          "address": "60 NANYANG DRIVE S OF BIOLOGICAL SCIENCES NTU-B1N-10, BASEMENT 1, Stall 3 637551",
+          "type": "Hawker",
+          "number": "EEHN22020013133",
+          "scheme": "Eating Establishment",
+          "id": "93994494-fc7e-4594-9bb1-f9b1acd0bae9",
+          "postal": "637551"
+        },
+        {
+          "name": "Nasi Lemak & Noodles (S2) @ Sambal Sambal Admiralty MRT",
+          "address": "70 WOODLANDS AVENUE 7 #01-02 ADMIRALTY MRT STATION, stall 2 738344",
+          "type": "Hawker",
+          "number": "EEHK20240000523",
+          "scheme": "Eating Establishment",
+          "id": "db59649f-7527-4816-8e3c-09dd7b0b7af7",
+          "postal": "738344"
+        },
+        {
+          "name": "Chic-A-Boo Chicken Specialty",
+          "address": "604 Sembawang Road #01-02 Sembawang Shopping Centre 758459",
+          "type": "Restaurant",
+          "number": "EERN21070012616",
+          "scheme": "Eating Establishment",
+          "id": "29af124d-1e9e-42aa-bc6f-2aafa75bfe35",
+          "postal": "758459"
+        },
+        {
+          "name": "SIMPLY WRAPPS",
+          "address": "252 NORTH BRIDGE ROAD #B1-78 RAFFLES CITY SHOPPING CENTRE 179103",
+          "type": "Restaurant",
+          "number": "EERT26010000113",
+          "scheme": "Eating Establishment",
+          "id": "f5386645-3499-4159-8ea4-cbcde88315e4",
+          "postal": "179103"
+        },
+        {
+          "name": "BAKE & BREAD",
+          "address": "633 BUKIT BATOK CENTRAL #01-122 650633",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN22020013112",
+          "scheme": "Eating Establishment",
+          "id": "7b02518c-1151-4223-ab74-bfb391b2e1a4",
+          "postal": "650633"
+        },
+        {
+          "name": "KOREA FOOD (S7) @ QUAD CAFE",
+          "address": "60 NANYANG DRIVE #B1 BIOLOGICAL SCIENCES NTU-B1N-10, Stall 7 637551",
+          "type": "Hawker",
+          "number": "EEHN22020013131",
+          "scheme": "Eating Establishment",
+          "id": "65cac0ad-f9f1-4b1b-967b-514973eca21b",
+          "postal": "637551"
+        },
+        {
+          "name": "Chinese Food (S4) @ Quad Cafe",
+          "address": "60 NANYANG DRIVE S OF BIOLOGICAL SCIENCES NTU-B1N-10, BASEMENT 1, Stall 4 637551",
+          "type": "Hawker",
+          "number": "EEHX22020013129",
+          "scheme": "Eating Establishment",
+          "id": "8008b9b3-468d-4268-81cc-3314e94076d7",
+          "postal": "637551"
+        },
+        {
+          "name": "ANDES",
+          "address": "750 Chai Chee Road #01-30 Technopark @ Chai Chee 469000",
+          "type": "Restaurant",
+          "number": "EERN21070012652",
+          "scheme": "Eating Establishment",
+          "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
+          "postal": "469000"
+        },
+        {
+          "name": "TripletS",
+          "address": "100 BUKIT TIMAH ROAD #01-23 KK WOMEN'S AND CHILDREN'S HOSPITAL 229899",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21070012389",
+          "scheme": "Eating Establishment",
+          "id": "93a5a81c-1ecf-48e6-9206-cad8e5504ada",
+          "postal": "229899"
+        },
+        {
+          "name": "Ali's Fry & Grill Western & Local",
+          "address": "60 AIRPORT BOULEVARD MR3, COOKHOUSE BY KOUFU #03-179/180/181/182/183/184 CHANGI AIRPORT TERMINAL 2 819643",
+          "type": "Hawker",
+          "number": "EEHK26100000007",
+          "scheme": "Eating Establishment",
+          "id": "16106fec-dbf3-4fc9-b2e0-42e9f574b6d9",
+          "postal": "819643"
+        },
+        {
+          "name": "SPICY EXPRESS",
+          "address": "678A WOODLANDS AVENUE 6 #01-07 ADMIRALTY PLACE 731678",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000522",
+          "scheme": "Eating Establishment",
+          "id": "0b39f767-5770-4227-bda3-b802daa6a1b0",
+          "postal": "731678"
+        },
+        {
+          "name": "THE SHAWARMA SHACK",
+          "address": "51 UPPER SERANGOON ROAD #01-16 THE POIZ CENTRE 347697",
+          "type": "Restaurant",
+          "number": "EERT26090000064",
+          "scheme": "Eating Establishment",
+          "id": "dc206ef7-c819-4cb5-b017-d9c687e6f2f4",
+          "postal": "347697"
+        },
+        {
+          "name": "TripletS",
+          "address": "2 COLLEGE AVENUE WEST #01-08 138607",
+          "type": "Restaurant",
+          "number": "EERT20230000429",
+          "scheme": "Eating Establishment",
+          "id": "93a5a81c-1ecf-48e6-9206-cad8e5504ada",
+          "postal": "138607"
+        },
+        {
+          "name": "INDIAN/INT'L/MALAY/BAKERY@MSB CAFETERIA(MNGD BY CURATE KITCHEN)",
+          "address": "990 BENDEMEER ROAD #04-00 MICRON BUILDING 339942",
+          "type": "Staff Canteen",
+          "number": "EESC20220000666",
+          "scheme": "Eating Establishment",
+          "id": "861a5078-414e-481a-9ef4-bd6ad462e8a4",
+          "postal": "339942"
+        },
+        {
+          "name": "CURATE KITCHEN PTE LTD",
+          "address": "1550 BEDOK NORTH AVENUE 4 #02-12 489950",
+          "type": "Catering Company",
+          "number": "FPCA20250000280",
+          "scheme": "Food Preparation Area",
+          "id": "7c6a807b-cb15-4435-b047-e24a0a6f589c",
+          "postal": "489950"
+        },
+        {
+          "name": "Chic-A-Boo Chicken Specialty",
+          "address": "6 Raffles Boulevard #03-147 #03-148, Marina Square 039594",
+          "type": "Restaurant",
+          "number": "EERN21070012617",
+          "scheme": "Eating Establishment",
+          "id": "29af124d-1e9e-42aa-bc6f-2aafa75bfe35",
+          "postal": "039594"
+        },
+        {
+          "name": "ROTIKEK",
+          "address": "30 WOODLANDS AVENUE 2 #01-45 WOODLANDS MRT STATION 738343",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000990",
+          "scheme": "Eating Establishment",
+          "id": "7285c504-2c8b-496a-adeb-e0ed766bb652",
+          "postal": "738343"
+        },
+        {
+          "name": "ROTIKEK",
+          "address": "1 WOODLANDS ROAD #01-20 JUNCTION 10 677899",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21050012330",
+          "scheme": "Eating Establishment",
+          "id": "07605b17-1023-441c-9d39-32c0daf78246",
+          "postal": "677899"
+        },
+        {
+          "name": "7 DAYS MAKAN DI PASIR RIS",
+          "address": "10 PASIR RIS CENTRAL #01-08 PASIR RIS MRT STATION 519634",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000778",
+          "scheme": "Eating Establishment",
+          "id": "2d66ad8f-1c1b-4109-bcc7-d61f6e0df253",
+          "postal": "519634"
+        },
+        {
+          "name": "TripletS",
+          "address": "110 SENGKANG EAST WAY #02-03 SENGKANG GENERAL HOSPITAL 544886",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26010000120",
+          "scheme": "Eating Establishment",
+          "id": "93a5a81c-1ecf-48e6-9206-cad8e5504ada",
+          "postal": "544886"
+        },
+        {
+          "name": "Yea Mama Catering",
+          "address": "1550 BEDOK NORTH AVENUE 4 #02-12 JTC BEDOK FOOD CITY 489950",
+          "type": "Catering Company",
+          "number": "FPCA26010000064",
+          "scheme": "Food Preparation Area",
+          "id": "80446d13-0553-4512-b762-d14820d9d8dd",
+          "postal": "489950"
+        },
+        {
+          "name": "KENJINN",
+          "address": "30 EUNOS CRESCENT #01-06-07 EUNOS MRT STATION (EW7) 409423",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26050000002",
+          "scheme": "Eating Establishment",
+          "id": "08b602bf-4ce9-4837-9591-3ef5b7a17026",
+          "postal": "409423"
+        },
+        {
+          "name": "ANDES",
+          "address": "1 JELEBU ROAD #03-10 BUKIT PANJANG PLAZA 677743",
+          "type": "Restaurant",
+          "number": "EERN21070012653",
+          "scheme": "Eating Establishment",
+          "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
+          "postal": "677743"
+        },
+        {
+          "name": "NASI LEMAK/CHICKEN RICE @ SMART COOK WOODLANDS",
+          "address": "30 WOODLANDS AVENUE 2 #01-22 WOODLANDS MRT STATION 738343",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21120013032",
+          "scheme": "Eating Establishment",
+          "id": "7b15c39a-437e-4d1b-8ee3-84806fd8125e",
+          "postal": "738343"
+        },
+        {
+          "name": "Moji Bakery",
+          "address": "11 CANBERRA ROAD right part of #01-03 SEMBAWANG MRT STATION (NS11) 759775",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000849",
+          "scheme": "Eating Establishment",
+          "id": "311d52e3-9c2f-41fd-aa84-d6260525efa5",
+          "postal": "759775"
+        },
+        {
+          "name": "Ananas (S1) @ The Food Inn Yew Tee",
+          "address": "61 CHOA CHU KANG DRIVE #01-04 YEW TEE MRT STATION (PART A), Stall 1 689715",
+          "type": "Hawker",
+          "number": "EEHK20240000628",
+          "scheme": "Eating Establishment",
+          "id": "f06aefc0-260d-44ec-aec0-67d75bc5745e",
+          "postal": "689715"
+        },
+        {
+          "name": "TripletS",
+          "address": "17 WOODLANDS DRIVE 17 #B2-11 WOODLANDS HEALTH CAMPUS 737628",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB25100000054",
+          "scheme": "Eating Establishment",
+          "id": "93a5a81c-1ecf-48e6-9206-cad8e5504ada",
+          "postal": "737628"
+        },
+        {
+          "name": "Chic-A-Boo Chicken Specialty",
+          "address": "6 WOODLANDS SQUARE #01-12 WOODS SQUARE 737737",
+          "type": "Restaurant",
+          "number": "EERN21070012620",
+          "scheme": "Eating Establishment",
+          "id": "29af124d-1e9e-42aa-bc6f-2aafa75bfe35",
+          "postal": "737737"
+        },
+        {
+          "name": "THE SHAWARMA SHACK",
+          "address": "190 LORONG 6 TOA PAYOH (PART OF - UNIT A) #01-564 TOA PAYOH CENTRAL 310190",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26090000065",
+          "scheme": "Eating Establishment",
+          "id": "dc206ef7-c819-4cb5-b017-d9c687e6f2f4",
+          "postal": "310190"
+        },
+        {
+          "name": "ABANG GEMUK",
+          "address": "8A ADMIRALTY STREET #07-14 FOOD XCHANGE @ ADMIRALTY 757437",
+          "type": "Central Kitchen",
+          "number": "FPCK20230000704",
+          "scheme": "Food Preparation Area",
+          "id": "6f49f8c4-4fa7-4efc-a2b9-b6cb1fa05d08",
+          "postal": "757437"
+        },
+        {
+          "name": "ANDES",
+          "address": "10 AIRPORT BOULEVARD #02-202 CHANGI AIRPORT TERMINAL 4 819665",
+          "type": "Restaurant",
+          "number": "EERT20220000657",
+          "scheme": "Eating Establishment",
+          "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
+          "postal": "819665"
+        },
+        {
+          "name": "ABANG GEMUK",
+          "address": "8A ADMIRALTY STREET #03-36 FOOD XCHANGE @ ADMIRALTY 757437",
+          "type": "Central Kitchen",
+          "number": "FPCK20240000211",
+          "scheme": "Food Preparation Area",
+          "id": "6f49f8c4-4fa7-4efc-a2b9-b6cb1fa05d08",
+          "postal": "757437"
+        },
+        {
+          "name": "ANAS BAKERY",
+          "address": "883 WOODLANDS STREET 82 #01-480 WOODLANDS NORTH PLAZA 730883",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26030000018",
+          "scheme": "Eating Establishment",
+          "id": "346deac2-cd9d-498f-b10e-84013843952d",
+          "postal": "730883"
+        },
+        {
+          "name": "MEI KEE BAKERY",
+          "address": "10 TAMPINES CENTRAL 1 #B1-29 TAMPINES ONE 529536",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26050000071",
+          "scheme": "Eating Establishment",
+          "id": "8655fe6f-687a-49cd-8128-a8cbd0ebb612",
+          "postal": "529536"
+        },
+        {
+          "name": "Vietnam Food (S2) @ Quad Cafe",
+          "address": "60 NANYANG DRIVE S OF BIOLOGICAL SCIENCES NTU-B1N-10, BASEMENT 1, Stall 2 637551",
+          "type": "Hawker",
+          "number": "EEHN22020013134",
+          "scheme": "Eating Establishment",
+          "id": "f6456e4e-c79f-41e3-86cb-8e644b83db7d",
+          "postal": "637551"
+        },
+        {
+          "name": "FOODEX FOOD SERVICES PTE. LTD.",
+          "address": "22 SENOKO CRESCENT #01-#02, #03 758275",
+          "type": "Central Kitchen",
+          "number": "FPCK20240000810",
+          "scheme": "Food Preparation Area",
+          "id": "c7171390-82f0-407c-89ce-a7ef583bc6a2",
+          "postal": "758275"
+        },
+        {
+          "name": "TripletS",
+          "address": "1 PUNGGOL COAST ROAD 01-01 DIGIPEN INSTITUTE TECHNOLOGY OF SINGAPORE 828608",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26010000121",
+          "scheme": "Eating Establishment",
+          "id": "93a5a81c-1ecf-48e6-9206-cad8e5504ada",
+          "postal": "828608"
+        },
+        {
+          "name": "Triplets",
+          "address": "90 YISHUN CENTRAL #01-09 KHOO TECK PUAT HOSPITAL 768828",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000997",
+          "scheme": "Eating Establishment",
+          "id": "dab0805f-9331-4888-a1cd-a03c1fe02399",
+          "postal": "768828"
+        },
+        {
+          "name": "ANDES",
+          "address": "80 AIRPORT BOULEVARD,CHANGI AIRPORT #03-18 T1, LEVEL 3 VIEWING MALL CTRL 819642",
+          "type": "Restaurant",
+          "number": "EERN21070012647",
+          "scheme": "Eating Establishment",
+          "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
+          "postal": "819642"
+        },
+        {
+          "name": "KENJINN",
+          "address": "5 SENGKANG SQUARE #01-04 SENGKANG MRT STATION (NE16) 545062",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26040000021",
+          "scheme": "Eating Establishment",
+          "id": "8f4aa454-c904-4a6a-9117-b9c0d6e34e0e",
+          "postal": "545062"
+        },
+        {
+          "name": "ASIAN CUISINE/FRUITS/NOODLE/INDIAN/MALAY/WESTERN @ F10 (MANAGED BY CURATE KITCHEN)",
+          "address": "1 NORTH COAST DRIVE 757432",
+          "type": "Staff Canteen",
+          "number": "EESC20250000226",
+          "scheme": "Eating Establishment",
+          "id": "7c621785-5af0-491f-ba2d-b0a8b6c4f19e",
+          "postal": "757432"
+        },
+        {
+          "name": "ANDES",
+          "address": "1 Pasir Ris Close #02-325 E!Hub @ Downtown East 519599",
+          "type": "Restaurant",
+          "number": "EERN21070012650",
+          "scheme": "Eating Establishment",
+          "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
+          "postal": "519599"
+        }
+      ],
+      "removed": [
+        {
+          "name": "RASEL CATERING SINGAPORE PTE. LTD.",
+          "address": "157 PANDAN LOOP 128355",
+          "type": "Catering Company",
+          "number": "FPCA20230000443",
+          "scheme": "Food Preparation Area",
+          "id": "ccbcda18-63ed-43d5-af63-b6e1d7d1fe78",
+          "postal": "128355"
+        },
+        {
+          "name": "McDonald's",
+          "address": "1 KIM SENG PROMENADE #01-124 GREAT WORLD CITY 237994",
+          "type": "Restaurant",
+          "number": "EERN20020011059",
+          "scheme": "Eating Establishment",
+          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+          "postal": "237994"
+        },
+        {
+          "name": "Sanook Kitchen",
+          "address": "17 Petir Road #01-17/18 Hillion Mall 678278",
+          "type": "Restaurant",
+          "number": "EERT20230000517",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "678278"
+        },
+        {
+          "name": "SAAP SAAP THAI",
+          "address": "1 PASIR RIS CENTRAL STREET 3 #02-24,#02-K01 WHITE SANDS 518457",
+          "type": "Restaurant",
+          "number": "EERT26020000076",
+          "scheme": "Eating Establishment",
+          "id": "9589c31f-fee1-4b1e-925f-755094a68b7a",
+          "postal": "518457"
+        },
+        {
+          "name": "STUFF'D",
+          "address": "1 WOODLANDS SQUARE #B1-K17 CAUSEWAY POINT 738099",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21110012929",
+          "scheme": "Eating Establishment",
+          "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
+          "postal": "738099"
+        },
+        {
+          "name": "NEO GARDEN CATERING PTE. LTD.",
+          "address": "30B QUALITY ROAD #03-03 618826",
+          "type": "Catering Company",
+          "number": "FPCA20250000040",
+          "scheme": "Food Preparation Area",
+          "id": "1078743b-5d11-456e-95c3-923bc8c62336",
+          "postal": "618826"
+        },
+        {
+          "name": "D'RUBINAH @ PUNGGOL",
+          "address": "10 TEBING LANE #01-03/04 828836",
+          "type": "Restaurant",
+          "number": "EERX21070012659",
+          "scheme": "Eating Establishment",
+          "id": "cd849299-fac1-4111-a9cb-f2725ef3a47e",
+          "postal": "828836"
+        },
+        {
+          "name": "Sanook Kitchen",
+          "address": "83 PUNGGOL CENTRAL #B1-13 WATERWAY POINT 828761",
+          "type": "Restaurant",
+          "number": "EERT20230000516",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "828761"
+        },
+        {
+          "name": "Tenderbest",
+          "address": "888 WOODLANDS DRIVE 50 #01-733 888 PLAZA, Stall 9 730888",
+          "type": "Hawker",
+          "number": "EEHN21060012452",
+          "scheme": "Eating Establishment",
+          "id": "4e24cbe3-2ce4-461f-aaec-e706a1114d7d",
+          "postal": "730888"
+        },
+        {
+          "name": "Sanook Kitchen",
+          "address": "10 SINARAN DRIVE #02-65/66/67 SQUARE 2 307506",
+          "type": "Restaurant",
+          "number": "EERT20230000878",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "307506"
+        },
+        {
+          "name": "McDonald's",
+          "address": "7 PASIR RIS CENTRAL #B1-41 519612",
+          "type": "Restaurant",
+          "number": "EERT20240000909",
+          "scheme": "Eating Establishment",
+          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+          "postal": "519612"
+        },
+        {
+          "name": "Rasel Catering Singapore Pte Ltd",
+          "address": "253 PANDAN LOOP 128432",
+          "type": "Catering Company",
+          "number": "FPGN21020001494",
+          "scheme": "Food Preparation Area",
+          "id": "ccbcda18-63ed-43d5-af63-b6e1d7d1fe78",
+          "postal": "128432"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-10-02T01:39:30.623713",
     "date": "2026-10-02",
     "summary": {
@@ -12689,67 +13380,6 @@
           "scheme": "Eating Establishment",
           "id": "87a00d7d-0af0-4000-be56-7b7facc1c180",
           "postal": "519599"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-08-03T23:17:07.274684",
-    "date": "2026-08-03",
-    "summary": {
-      "new": 4,
-      "removed": 1,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Makan West . Western Cuisine",
-          "address": "930 YISHUN AVENUE 2 #B2-12 KOPITIAM NORTHPOINT CITY (NORTH WING), MR3 769098",
-          "type": "Hawker",
-          "number": "EEHK26070000106",
-          "scheme": "Eating Establishment",
-          "id": "43bffe6e-cc33-4238-ab40-c3b7e9947ed5",
-          "postal": "769098"
-        },
-        {
-          "name": "54 BAKERY CAFE",
-          "address": "2 VENTURE DRIVE #02-46 VISION EXCHANGE 608526",
-          "type": "Restaurant",
-          "number": "EERN21060012447",
-          "scheme": "Eating Establishment",
-          "id": "ecc86068-bf90-4a2c-8d0f-142cd493c956",
-          "postal": "608526"
-        },
-        {
-          "name": "NENE CHICKEN",
-          "address": "478 TAMPINES STREET 44 #01-219, MR1, HAPPY HAWKERS 520478",
-          "type": "Hawker",
-          "number": "EEHK26070000108",
-          "scheme": "Eating Establishment",
-          "id": "c2a3daa9-ec19-4a9f-8474-752b3cbfb1ff",
-          "postal": "520478"
-        },
-        {
-          "name": "Western",
-          "address": "470 LORONG 6 TOA PAYOH #02-70 (STALL 5) @ FORK & SPOON HDB HUB 310470",
-          "type": "Hawker",
-          "number": "EEHK26070000105",
-          "scheme": "Eating Establishment",
-          "id": "2a94f63a-ef52-4bca-ae0d-4c230c0005ad",
-          "postal": "310470"
-        }
-      ],
-      "removed": [
-        {
-          "name": "ROTIBOY",
-          "address": "107 NORTH BRIDGE ROAD #B2-32 FUNAN 179105",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20240000994",
-          "scheme": "Eating Establishment",
-          "id": "8a6fb384-7215-49ac-b9fb-e7837903b6a5",
-          "postal": "179105"
         }
       ],
       "updated": []
