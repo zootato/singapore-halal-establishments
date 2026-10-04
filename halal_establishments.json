@@ -1521,6 +1521,15 @@
     "postal": "689715"
   },
   {
+    "name": "Ananas Cafe (S1) Padang House",
+    "address": "301 YISHUN AVENUE 2 #01-01 YISHUN MRT STATION Part A, (Stall 1) 769093",
+    "type": "Hawker",
+    "number": "EEHK20240000520",
+    "scheme": "Eating Establishment",
+    "id": "36c8b878-4ee5-4c8b-9826-e9ba283daf54",
+    "postal": "769093"
+  },
+  {
     "name": "ANANAS KITCHEN",
     "address": "1550 BEDOK NORTH AVENUE 4 #04-07 489950",
     "type": "Central Kitchen",
@@ -1837,15 +1846,6 @@
   },
   {
     "name": "ARNOLD'S",
-    "address": "215 BEDOK NORTH STREET 1 #01-83 460215",
-    "type": "Restaurant",
-    "number": "EERN21060012495",
-    "scheme": "Eating Establishment",
-    "id": "571266fe-a5d4-499d-9f7c-fd6edf1a9f34",
-    "postal": "460215"
-  },
-  {
-    "name": "ARNOLD'S",
     "address": "5 TAMPINES AVENUE 3 #02-07 TAMPINES WEST COMMUNITY CLUB 529705",
     "type": "Restaurant",
     "number": "EERN21060012496",
@@ -1861,6 +1861,15 @@
     "scheme": "Eating Establishment",
     "id": "571266fe-a5d4-499d-9f7c-fd6edf1a9f34",
     "postal": "768794"
+  },
+  {
+    "name": "ARNOLD'S",
+    "address": "215 BEDOK NORTH STREET 1 #01-83 460215",
+    "type": "Restaurant",
+    "number": "EERN21060012495",
+    "scheme": "Eating Establishment",
+    "id": "571266fe-a5d4-499d-9f7c-fd6edf1a9f34",
+    "postal": "460215"
   },
   {
     "name": "ARNOLD'S",
@@ -2458,15 +2467,6 @@
   },
   {
     "name": "BAKE INC",
-    "address": "70 WOODLANDS AVENUE 7 #01-02 ADMIRALTY MRT STATION 738344",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN21120013015",
-    "scheme": "Eating Establishment",
-    "id": "da0503ca-1962-4761-9a81-674b82f2b814",
-    "postal": "738344"
-  },
-  {
-    "name": "BAKE INC",
     "address": "441A CLEMENTI AVENUE 3 #01-07 CLEMENTI TOWERS 121441",
     "type": "Snack Bar / Bakery",
     "number": "EESB20230000039",
@@ -2491,6 +2491,15 @@
     "scheme": "Eating Establishment",
     "id": "da0503ca-1962-4761-9a81-674b82f2b814",
     "postal": "680475"
+  },
+  {
+    "name": "BAKE INC",
+    "address": "70 WOODLANDS AVENUE 7 #01-02 ADMIRALTY MRT STATION 738344",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN21120013015",
+    "scheme": "Eating Establishment",
+    "id": "da0503ca-1962-4761-9a81-674b82f2b814",
+    "postal": "738344"
   },
   {
     "name": "BAKE INC",
@@ -8101,15 +8110,6 @@
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
-    "address": "21 JASMINE ROAD #01 ADELPHI PARK ESTATE 576587",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20240000621",
-    "scheme": "Eating Establishment",
-    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
-    "postal": "576587"
-  },
-  {
-    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
     "address": "1 HILLVIEW RISE #01-03 667970",
     "type": "Restaurant",
     "number": "EERN21060012528",
@@ -8215,6 +8215,15 @@
     "scheme": "Eating Establishment",
     "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
     "postal": "769674"
+  },
+  {
+    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+    "address": "21 JASMINE ROAD #01 ADELPHI PARK ESTATE 576587",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20240000621",
+    "scheme": "Eating Establishment",
+    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+    "postal": "576587"
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
@@ -25803,6 +25812,24 @@
     "postal": "768828"
   },
   {
+    "name": "Roost",
+    "address": "10 AIRPORT BOULEVARD #01-10 CHANGI AIRPORT TERMINAL 4 819665",
+    "type": "Restaurant",
+    "number": "EERT20250000822",
+    "scheme": "Eating Establishment",
+    "id": "5965b877-26d4-4e8e-9076-d0dbf88530c4",
+    "postal": "819665"
+  },
+  {
+    "name": "Roost",
+    "address": "65 AIRPORT BOULEVARD #B2-34 CHANGI AIRPORT TERMINAL 3 BUILDING 819663",
+    "type": "Restaurant",
+    "number": "EERT20250000824",
+    "scheme": "Eating Establishment",
+    "id": "5965b877-26d4-4e8e-9076-d0dbf88530c4",
+    "postal": "819663"
+  },
+  {
     "name": "Roti Prata (S2) @ Mr Teh Tarik Eating House",
     "address": "846 YISHUN RING ROAD #01-3603 KHATIB CENTRAL 760846",
     "type": "Hawker",
@@ -28411,6 +28438,15 @@
     "scheme": "Eating Establishment",
     "id": "fbc0e0b2-abba-4391-bc16-b401441fdced",
     "postal": "738203"
+  },
+  {
+    "name": "Stamfles International Pte Ltd",
+    "address": "2 Senoko South Road #05-02 758096",
+    "type": "Central Kitchen",
+    "number": "FPCK20250000821",
+    "scheme": "Food Preparation Area",
+    "id": "0d74158d-c5f6-4ebf-9565-da5c3aa10ccd",
+    "postal": "758096"
   },
   {
     "name": "STAMFORD CATERING SERVICES PTE LTD",
