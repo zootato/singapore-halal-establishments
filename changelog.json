@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-10-07T01:29:13.049496",
+    "date": "2026-10-07",
+    "summary": {
+      "new": 2,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "The Soup Spoon Union",
+          "address": "180 KITCHENER ROAD #B1-K10/K11/K13 CITY SQUARE MALL 208539",
+          "type": "Restaurant",
+          "number": "EERT26100000003",
+          "scheme": "Eating Establishment",
+          "id": "32ac13e9-4d85-432e-b2f1-694f9d2a2c93",
+          "postal": "208539"
+        },
+        {
+          "name": "JEEWA LTD",
+          "address": "2A MANDAI ESTATE #02-02 CT FOODNEX 729928",
+          "type": "Catering Company",
+          "number": "FPCA26100000010",
+          "scheme": "Food Preparation Area",
+          "id": "385921b4-c7e2-4ba6-b2a0-be0b5f3df771",
+          "postal": "729928"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-10-06T02:17:13.488621",
     "date": "2026-10-06",
     "summary": {
@@ -13319,94 +13352,6 @@
           "scheme": "Eating Establishment",
           "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
           "postal": "428802"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-08-07T01:38:52.848427",
-    "date": "2026-08-07",
-    "summary": {
-      "new": 5,
-      "removed": 3,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "ROYAL CATERING SERVICES PTE LTD",
-          "address": "3015 BEDOK NORTH STREET 5 #05-11 SHIMEI EAST KITCHEN 486350",
-          "type": "Catering Company",
-          "number": "FPGX21050001544",
-          "scheme": "Food Preparation Area",
-          "id": "573cd592-5ecc-4383-b76a-5396559670d3",
-          "postal": "486350"
-        },
-        {
-          "name": "Abang Adik",
-          "address": "925 YISHUN CENTRAL 1 Stall 8, Kedai Kopi @ Yishun 925 #01-211 760925",
-          "type": "Hawker",
-          "number": "EEHK26080000007",
-          "scheme": "Eating Establishment",
-          "id": "b6c2219e-4cb1-4ba0-9751-92d223b6a8fb",
-          "postal": "760925"
-        },
-        {
-          "name": "Cinta Hainanese Chicken Rice",
-          "address": "11 JALAN TAN TOCK SENG #01-13/14/15 TAN TOCK SENG HOSPITAL, Stall 14, Kopitiam 308433",
-          "type": "Hawker",
-          "number": "EEHK26080000023",
-          "scheme": "Eating Establishment",
-          "id": "4f8511ab-2f47-49ce-8fba-6cfcbcb7ae04",
-          "postal": "308433"
-        },
-        {
-          "name": "Malay Kitchen @ Institute of Mental Health",
-          "address": "10 BUANGKOK VIEW #01-1337 INSTITUTE OF MENTAL HEALTH 539747",
-          "type": "Central Kitchen",
-          "number": "FPCN21050001517",
-          "scheme": "Food Preparation Area",
-          "id": "c5f32f91-986b-4c69-8e97-f46b0dc32e08",
-          "postal": "539747"
-        },
-        {
-          "name": "Curry Times Bento",
-          "address": "30 WOODLANDS AVENUE 2 #01-31 WOODLANDS MRT STATION (NS9) 738343",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26080000025",
-          "scheme": "Eating Establishment",
-          "id": "122305c4-29db-4efa-812e-4de875feb081",
-          "postal": "738343"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Tim Hortons",
-          "address": "180 Kitchener Road #01-30/31 CITY SQUARE MALL 208539",
-          "type": "Restaurant",
-          "number": "EERT26020000013",
-          "scheme": "Eating Establishment",
-          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-          "postal": "208539"
-        },
-        {
-          "name": "Tim Hortons",
-          "address": "17 WOODLANDS DRIVE 17 #01-03 WOODLANDS HEALTH CAMPUS 737628",
-          "type": "Restaurant",
-          "number": "EERT26020000012",
-          "scheme": "Eating Establishment",
-          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-          "postal": "737628"
-        },
-        {
-          "name": "Katong Catering",
-          "address": "11 SWAN LAKE AVENUE OPERA ESTATE 455710",
-          "type": "Catering Company",
-          "number": "FPGN21070001561",
-          "scheme": "Food Preparation Area",
-          "id": "97d65dd1-2bc5-4d82-8790-fbaa96cb3f42",
-          "postal": "455710"
         }
       ],
       "updated": []

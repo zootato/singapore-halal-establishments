@@ -13716,6 +13716,15 @@
     "postal": "758459"
   },
   {
+    "name": "JEEWA LTD",
+    "address": "2A MANDAI ESTATE #02-02 CT FOODNEX 729928",
+    "type": "Catering Company",
+    "number": "FPCA26100000010",
+    "scheme": "Food Preparation Area",
+    "id": "385921b4-c7e2-4ba6-b2a0-be0b5f3df771",
+    "postal": "729928"
+  },
+  {
     "name": "Jewel Box Kitchen @ Crowne Plaza Hotel (Mngd by The Wok People)",
     "address": "75 AIRPORT BOULEVARD #B CROWNE PLAZA CHANGI AIRPORT 819664",
     "type": "Staff Canteen",
@@ -33694,6 +33703,15 @@
     "scheme": "Eating Establishment",
     "id": "32ac13e9-4d85-432e-b2f1-694f9d2a2c93",
     "postal": "367803"
+  },
+  {
+    "name": "The Soup Spoon Union",
+    "address": "180 KITCHENER ROAD #B1-K10/K11/K13 CITY SQUARE MALL 208539",
+    "type": "Restaurant",
+    "number": "EERT26100000003",
+    "scheme": "Eating Establishment",
+    "id": "32ac13e9-4d85-432e-b2f1-694f9d2a2c93",
+    "postal": "208539"
   },
   {
     "name": "THE SOY COMPANY PTE. LTD.",
