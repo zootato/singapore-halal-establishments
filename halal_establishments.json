@@ -11430,6 +11430,15 @@
     "postal": "048619"
   },
   {
+    "name": "HA-JUN KOREAN",
+    "address": "1 NORTH BUONA VISTA LINK #01-02 139691",
+    "type": "Restaurant",
+    "number": "EERT20250000298",
+    "scheme": "Eating Establishment",
+    "id": "58f3214a-f3a1-4632-bef7-22dda2c530a2",
+    "postal": "139691"
+  },
+  {
     "name": "Ha-Jun Korean",
     "address": "88 PUNGGOL WAY TOWER 7 #02-131 PUNGGOL COAST MALL 829913",
     "type": "Restaurant",
@@ -22795,6 +22804,15 @@
     "scheme": "Food Preparation Area",
     "id": "7e6010b7-963d-4756-9afe-c13234d70ee2",
     "postal": "486350"
+  },
+  {
+    "name": "Papa Ayam",
+    "address": "10 PAYA LEBAR ROAD #B2-K3 PLQ MALL 409057",
+    "type": "Restaurant",
+    "number": "EERT26090000004",
+    "scheme": "Eating Establishment",
+    "id": "c9107003-0a58-4e72-b6a1-a1530b67eccd",
+    "postal": "409057"
   },
   {
     "name": "PAPA AYAM",

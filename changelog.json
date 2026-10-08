@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-10-08T01:50:17.368446",
+    "date": "2026-10-08",
+    "summary": {
+      "new": 2,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "HA-JUN KOREAN",
+          "address": "1 NORTH BUONA VISTA LINK #01-02 139691",
+          "type": "Restaurant",
+          "number": "EERT20250000298",
+          "scheme": "Eating Establishment",
+          "id": "58f3214a-f3a1-4632-bef7-22dda2c530a2",
+          "postal": "139691"
+        },
+        {
+          "name": "Papa Ayam",
+          "address": "10 PAYA LEBAR ROAD #B2-K3 PLQ MALL 409057",
+          "type": "Restaurant",
+          "number": "EERT26090000004",
+          "scheme": "Eating Establishment",
+          "id": "c9107003-0a58-4e72-b6a1-a1530b67eccd",
+          "postal": "409057"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-10-07T01:29:13.049496",
     "date": "2026-10-07",
     "summary": {
@@ -13203,157 +13236,6 @@
         }
       ],
       "removed": [],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-08-07T22:50:58.862827",
-    "date": "2026-08-07",
-    "summary": {
-      "new": 14,
-      "removed": 1,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Providence Cafe & Bakery",
-          "address": "38 MALCOLM ROAD SAINT JOSEPH's INSTITUTION 308274",
-          "type": "Canteen",
-          "number": "EESC26080000030",
-          "scheme": "Eating Establishment",
-          "id": "dbdc613f-701f-4178-b1d5-af65a15b5d9e",
-          "postal": "308274"
-        },
-        {
-          "name": "Ani Yong Tau Foo",
-          "address": "1 NORTHPOINT DRIVE Northpoint City #02-101, #02-102, #02-103 NORTHPOINT CITY, Stall 08, Bagus Food Hall 768019",
-          "type": "Hawker",
-          "number": "EEHK26080000035",
-          "scheme": "Eating Establishment",
-          "id": "a7cb7c6e-2d20-496e-91bb-67941426d951",
-          "postal": "768019"
-        },
-        {
-          "name": "Providence Cafe & Bakery",
-          "address": "51 EDGEDALE PLAINS GREENDALE SECONDARY SCHOOL 828866",
-          "type": "Canteen",
-          "number": "EESC26080000031",
-          "scheme": "Eating Establishment",
-          "id": "dbdc613f-701f-4178-b1d5-af65a15b5d9e",
-          "postal": "828866"
-        },
-        {
-          "name": "L & M Seafood",
-          "address": "105 CANBERRA STREET Stall No MR4@Yong Li Coffee Station #01-#01 EASTBROOK @ CANBERRA 750105",
-          "type": "Hawker",
-          "number": "EEHK26080000006",
-          "scheme": "Eating Establishment",
-          "id": "a270c4f1-833f-4f1b-9f64-fad74f459d26",
-          "postal": "750105"
-        },
-        {
-          "name": "Providence Cafe & Bakery",
-          "address": "600 UPPER EAST COAST ROAD TEMASEK SECONDARY SCHOOL 465561",
-          "type": "Canteen",
-          "number": "EESC26080000027",
-          "scheme": "Eating Establishment",
-          "id": "dbdc613f-701f-4178-b1d5-af65a15b5d9e",
-          "postal": "465561"
-        },
-        {
-          "name": "Providence Cafe & Bakery",
-          "address": "600 UPPER CHANGI ROAD ANGLICAN HIGH SCHOOL 487012",
-          "type": "Canteen",
-          "number": "EESC26080000026",
-          "scheme": "Eating Establishment",
-          "id": "dbdc613f-701f-4178-b1d5-af65a15b5d9e",
-          "postal": "487012"
-        },
-        {
-          "name": "CAFE @PSS",
-          "address": "51 EDGEFIELD PLAINS PUNGGOL SECONDARY SCHOOL 828870",
-          "type": "Canteen",
-          "number": "EESC26080000033",
-          "scheme": "Eating Establishment",
-          "id": "ba4a1e66-1a32-414b-874a-5a644cbb5809",
-          "postal": "828870"
-        },
-        {
-          "name": "Soon Lee",
-          "address": "1 bedok road #01-02 469572",
-          "type": "Hawker",
-          "number": "EEHX21040012277",
-          "scheme": "Eating Establishment",
-          "id": "e589010b-17d5-425e-af3b-fc61d5cc3e5f",
-          "postal": "469572"
-        },
-        {
-          "name": "Providence Cafe & Bakery",
-          "address": "12 MARSILING ROAD MARSILING SECONDARY SCHOOL 739110",
-          "type": "Canteen",
-          "number": "EESC26080000028",
-          "scheme": "Eating Establishment",
-          "id": "dbdc613f-701f-4178-b1d5-af65a15b5d9e",
-          "postal": "739110"
-        },
-        {
-          "name": "4FINGERS CRISPY CHICKEN",
-          "address": "33 SENGKANG WEST AVENUE #03-22, #03-K4, #03-K5 THE SELETAR MALL 797653",
-          "type": "Restaurant",
-          "number": "EERT26080000036",
-          "scheme": "Eating Establishment",
-          "id": "90b83324-363a-4406-9afa-08b19b67522d",
-          "postal": "797653"
-        },
-        {
-          "name": "Providence Cafe & Bakery",
-          "address": "234 LORONG 8 TOA PAYOH #01-270 TOA PAYOH EIGHT 310234",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20240000720",
-          "scheme": "Eating Establishment",
-          "id": "dbdc613f-701f-4178-b1d5-af65a15b5d9e",
-          "postal": "310234"
-        },
-        {
-          "name": "Cafe @ TJC",
-          "address": "2 TAMPINES AVENUE 9 TEMASEK JUNIOR COLLEGE 529564",
-          "type": "Canteen",
-          "number": "EESC26080000032",
-          "scheme": "Eating Establishment",
-          "id": "3ec2854d-6073-4cfb-941a-237bf3034bc6",
-          "postal": "529564"
-        },
-        {
-          "name": "Providence Cafe & Bakery",
-          "address": "3 WOODLANDS STREET 81 RIVERSIDE SECONDARY SCHOOL 738524",
-          "type": "Canteen",
-          "number": "EESC26030000052",
-          "scheme": "Eating Establishment",
-          "id": "dbdc613f-701f-4178-b1d5-af65a15b5d9e",
-          "postal": "738524"
-        },
-        {
-          "name": "Providence Cafe & Bakery",
-          "address": "3 YISHUN RING ROAD #01-01 YISHUN INNOVA JUNIOR COLLEGE 768675",
-          "type": "Canteen",
-          "number": "EESC26080000029",
-          "scheme": "Eating Establishment",
-          "id": "dbdc613f-701f-4178-b1d5-af65a15b5d9e",
-          "postal": "768675"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Tim Hortons",
-          "address": "112 EAST COAST ROAD #01-28 112 KATONG 428802",
-          "type": "Restaurant",
-          "number": "EERT26020000011",
-          "scheme": "Eating Establishment",
-          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-          "postal": "428802"
-        }
-      ],
       "updated": []
     }
   }
