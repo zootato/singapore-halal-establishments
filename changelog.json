@@ -1,5 +1,77 @@
 [
   {
+    "timestamp": "2026-10-09T02:02:16.518529",
+    "date": "2026-10-09",
+    "summary": {
+      "new": 4,
+      "removed": 0,
+      "updated": 1
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "HUGABO",
+          "address": "1 JURONG EAST STREET 21 (PART OF) #02-08 NG TENG FONG GENERAL HOSPITAL (TOWER A) 609606",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26100000016",
+          "scheme": "Eating Establishment",
+          "id": "2e6b1f33-8843-4d1c-a0f4-c6e566b81a7d",
+          "postal": "609606"
+        },
+        {
+          "name": "Sarpino's",
+          "address": "314 DUNEARN ROAD SHELL SERVICE STATION 299551",
+          "type": "Food Kiosk",
+          "number": "EEFK20250000528",
+          "scheme": "Eating Establishment",
+          "id": "7b5b4a83-60c2-4579-8f5c-de4d5ddfe46d",
+          "postal": "299551"
+        },
+        {
+          "name": "Sarpino's",
+          "address": "1 TAMPINES STREET 92 #01-00B SAFRA CLUBHOUSE (TAMPINES) 528882",
+          "type": "Restaurant",
+          "number": "EERT26090000062",
+          "scheme": "Eating Establishment",
+          "id": "7b5b4a83-60c2-4579-8f5c-de4d5ddfe46d",
+          "postal": "528882"
+        },
+        {
+          "name": "Anas Bakery (S2) @ Padang House Yishun Mrt",
+          "address": "301 YISHUN AVENUE 2 #01-02/S2 YISHUN MRT STATION 769093",
+          "type": "Hawker",
+          "number": "EEHK20240000568",
+          "scheme": "Eating Establishment",
+          "id": "552f846e-924a-460d-94d8-ecbf0450347a",
+          "postal": "769093"
+        }
+      ],
+      "removed": [],
+      "updated": [
+        {
+          "previous": {
+            "name": "Full Bowl",
+            "address": "930 YISHUN AVENUE 2 #B1-112 769098",
+            "type": "Restaurant",
+            "number": "EERT20230001259",
+            "scheme": "Eating Establishment",
+            "id": "2dce1ae1-5e33-4749-952e-c14abd6ebf2b",
+            "postal": "769098"
+          },
+          "current": {
+            "name": "Tongue Tip Lanzhou Beef Noodles",
+            "address": "930 YISHUN AVENUE 2 #B1-112 769098",
+            "type": "Restaurant",
+            "number": "EERT20230001259",
+            "scheme": "Eating Establishment",
+            "id": "2dce1ae1-5e33-4749-952e-c14abd6ebf2b",
+            "postal": "769098"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-10-08T01:50:17.368446",
     "date": "2026-10-08",
     "summary": {
@@ -13194,48 +13266,6 @@
           "postal": "198833"
         }
       ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-08-08T22:44:02.388266",
-    "date": "2026-08-08",
-    "summary": {
-      "new": 3,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Srisun Express",
-          "address": "Souq @ Sultan: National Day Edition, 3 MUSCAT STREET MASJID SULTAN, 5 198833",
-          "type": "Short Term Stall(Bazaar/Road Shows)",
-          "number": "EEST26080000037",
-          "scheme": "Eating Establishment",
-          "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
-          "postal": "198833"
-        },
-        {
-          "name": "For The Love of Prata Manufacturing Pte Ltd",
-          "address": "8A ADMIRALTY STREET #04-01 FOOD XCHANGE @ ADMIRALTY 757437",
-          "type": "Central Kitchen",
-          "number": "FPCX22010001646",
-          "scheme": "Food Preparation Area",
-          "id": "c095bf43-c81f-4f13-8409-460171166b05",
-          "postal": "757437"
-        },
-        {
-          "name": "Sedap Thai (S8) @ Berseh Food Centre",
-          "address": "166 JALAN BESAR #01-08 BERSEH FOOD CENTRE, Stall 8 208877",
-          "type": "Hawker",
-          "number": "EEHX21050012328",
-          "scheme": "Eating Establishment",
-          "id": "e8530be1-d0cc-4f8f-88cf-ae7a5a9e48d9",
-          "postal": "208877"
-        }
-      ],
-      "removed": [],
       "updated": []
     }
   }

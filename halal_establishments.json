@@ -1620,6 +1620,15 @@
     "postal": "730883"
   },
   {
+    "name": "Anas Bakery (S2) @ Padang House Yishun Mrt",
+    "address": "301 YISHUN AVENUE 2 #01-02/S2 YISHUN MRT STATION 769093",
+    "type": "Hawker",
+    "number": "EEHK20240000568",
+    "scheme": "Eating Establishment",
+    "id": "552f846e-924a-460d-94d8-ecbf0450347a",
+    "postal": "769093"
+  },
+  {
     "name": "Anderson Cafeteria@Tuas Checkpoint (Mngd by Foodgle Hub P/L)",
     "address": "501 JALAN AHMAD IBRAHIM TUAS CHECK POINT 639937",
     "type": "Staff Canteen",
@@ -1909,15 +1918,6 @@
   },
   {
     "name": "ARNOLD'S",
-    "address": "810 GEYLANG ROAD #02-99/10 CITY PLAZA 409286",
-    "type": "Restaurant",
-    "number": "EERN21060012493",
-    "scheme": "Eating Establishment",
-    "id": "571266fe-a5d4-499d-9f7c-fd6edf1a9f34",
-    "postal": "409286"
-  },
-  {
-    "name": "ARNOLD'S",
     "address": "21 HOUGANG STREET 51 #01-49 HOUGANG GREEN SHOPPING MALL 538719",
     "type": "Restaurant",
     "number": "EERN21060012494",
@@ -1951,6 +1951,15 @@
     "scheme": "Eating Establishment",
     "id": "571266fe-a5d4-499d-9f7c-fd6edf1a9f34",
     "postal": "469644"
+  },
+  {
+    "name": "ARNOLD'S",
+    "address": "810 GEYLANG ROAD #02-99/10 CITY PLAZA 409286",
+    "type": "Restaurant",
+    "number": "EERN21060012493",
+    "scheme": "Eating Establishment",
+    "id": "571266fe-a5d4-499d-9f7c-fd6edf1a9f34",
+    "postal": "409286"
   },
   {
     "name": "ARNOLD'S",
@@ -8164,15 +8173,6 @@
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
-    "address": "505 WEST COAST DRIVE #01-210 120505",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN21060012379",
-    "scheme": "Eating Establishment",
-    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
-    "postal": "120505"
-  },
-  {
-    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
     "address": "1 HILLVIEW RISE #01-03 667970",
     "type": "Restaurant",
     "number": "EERN21060012528",
@@ -8404,6 +8404,15 @@
     "scheme": "Eating Establishment",
     "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
     "postal": "521139"
+  },
+  {
+    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+    "address": "505 WEST COAST DRIVE #01-210 120505",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN21060012379",
+    "scheme": "Eating Establishment",
+    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+    "postal": "120505"
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
@@ -10627,15 +10636,6 @@
     "scheme": "Eating Establishment",
     "id": "0db09c5f-ff70-4ac0-ac81-b48215aa4073",
     "postal": "048581"
-  },
-  {
-    "name": "Full Bowl",
-    "address": "930 YISHUN AVENUE 2 #B1-112 769098",
-    "type": "Restaurant",
-    "number": "EERT20230001259",
-    "scheme": "Eating Establishment",
-    "id": "2dce1ae1-5e33-4749-952e-c14abd6ebf2b",
-    "postal": "769098"
   },
   {
     "name": "Full Bowl",
@@ -13084,6 +13084,15 @@
     "scheme": "Food Preparation Area",
     "id": "7b2bad34-08e9-4f8b-9502-9ffa8ae2a542",
     "postal": "819663"
+  },
+  {
+    "name": "HUGABO",
+    "address": "1 JURONG EAST STREET 21 (PART OF) #02-08 NG TENG FONG GENERAL HOSPITAL (TOWER A) 609606",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26100000016",
+    "scheme": "Eating Establishment",
+    "id": "2e6b1f33-8843-4d1c-a0f4-c6e566b81a7d",
+    "postal": "609606"
   },
   {
     "name": "HUGABO",
@@ -26847,6 +26856,24 @@
     "postal": "487048"
   },
   {
+    "name": "Sarpino's",
+    "address": "1 TAMPINES STREET 92 #01-00B SAFRA CLUBHOUSE (TAMPINES) 528882",
+    "type": "Restaurant",
+    "number": "EERT26090000062",
+    "scheme": "Eating Establishment",
+    "id": "7b5b4a83-60c2-4579-8f5c-de4d5ddfe46d",
+    "postal": "528882"
+  },
+  {
+    "name": "Sarpino's",
+    "address": "314 DUNEARN ROAD SHELL SERVICE STATION 299551",
+    "type": "Food Kiosk",
+    "number": "EEFK20250000528",
+    "scheme": "Eating Establishment",
+    "id": "7b5b4a83-60c2-4579-8f5c-de4d5ddfe46d",
+    "postal": "299551"
+  },
+  {
     "name": "Sashimi & Seafood Bar @ Ginger (ParkRoyal on Beach Road)",
     "address": "7500C BEACH ROAD #01 PARKROYAL ON BEACH ROAD, Central Kitchen 199593",
     "type": "Food Station",
@@ -34252,6 +34279,15 @@
     "scheme": "Eating Establishment",
     "id": "2dce1ae1-5e33-4749-952e-c14abd6ebf2b",
     "postal": "038983"
+  },
+  {
+    "name": "Tongue Tip Lanzhou Beef Noodles",
+    "address": "930 YISHUN AVENUE 2 #B1-112 769098",
+    "type": "Restaurant",
+    "number": "EERT20230001259",
+    "scheme": "Eating Establishment",
+    "id": "2dce1ae1-5e33-4749-952e-c14abd6ebf2b",
+    "postal": "769098"
   },
   {
     "name": "Tongue Tip Lanzhou Beef Noodles",
