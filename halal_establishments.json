@@ -3025,6 +3025,15 @@
   },
   {
     "name": "BatterCatch",
+    "address": "2 JURONG EAST STREET 21 #02-17/18 IMM BUILDING 609601",
+    "type": "Restaurant",
+    "number": "EERT26100000011",
+    "scheme": "Eating Establishment",
+    "id": "b70967a9-4498-4d6e-8a27-904c13179afe",
+    "postal": "609601"
+  },
+  {
+    "name": "BatterCatch",
     "address": "1 HARBOURFRONT WALK #01-171/172/173/174 VIVOCITY 098585",
     "type": "Restaurant",
     "number": "EERT20250000144",
@@ -6444,6 +6453,15 @@
     "postal": "520474"
   },
   {
+    "name": "COLD BREAK ICE CREAM",
+    "address": "510 CHAI CHEE LANE Tan Xiang Chai Chee, Stall 2 469027",
+    "type": "Hawker",
+    "number": "EEHK26100000033",
+    "scheme": "Eating Establishment",
+    "id": "0ccaa41b-696e-48bf-8802-099c9cf9746a",
+    "postal": "469027"
+  },
+  {
     "name": "Cold Kitchen @ Hotel Jen Singapore Tanglin By Shangri-La",
     "address": "1A CUSCADEN ROAD COLD KITCHEN JEN SINGAPORE TANGLIN BY SHANGRI-LA, LEVEL 2 249716",
     "type": "Central Kitchen",
@@ -8164,15 +8182,6 @@
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
-    "address": "171 SENGKANG EAST DRIVE #01-13 540171",
-    "type": "Restaurant",
-    "number": "EERT20240001300",
-    "scheme": "Eating Establishment",
-    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
-    "postal": "540171"
-  },
-  {
-    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
     "address": "1 HILLVIEW RISE #01-03 667970",
     "type": "Restaurant",
     "number": "EERN21060012528",
@@ -8404,6 +8413,15 @@
     "scheme": "Eating Establishment",
     "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
     "postal": "521139"
+  },
+  {
+    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+    "address": "171 SENGKANG EAST DRIVE #01-13 540171",
+    "type": "Restaurant",
+    "number": "EERT20240001300",
+    "scheme": "Eating Establishment",
+    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+    "postal": "540171"
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
@@ -8854,6 +8872,15 @@
     "scheme": "Eating Establishment",
     "id": "d54efa73-ca47-4771-ad30-b27fc4dae026",
     "postal": "538766"
+  },
+  {
+    "name": "Drinks",
+    "address": "348 YISHUN AVENUE 11 #01-04 ADORA GREEN, Stall 7, Rasa Rasa @ Yishun 760348",
+    "type": "Hawker",
+    "number": "EEHK26100000028",
+    "scheme": "Eating Establishment",
+    "id": "ff4a21e0-167a-4ea0-83f0-2cf5a08345b9",
+    "postal": "760348"
   },
   {
     "name": "Drinks & Desserts (S8) @ Tang Tea House Jurong West",
@@ -10620,15 +10647,6 @@
     "postal": "199593"
   },
   {
-    "name": "FRUIT PARADISE",
-    "address": "1 HARBOURFRONT WALK #01-59 VIVOCITY 098585",
-    "type": "Restaurant",
-    "number": "EERT20250000375",
-    "scheme": "Eating Establishment",
-    "id": "30abd843-2c8a-42c5-aa10-e511ec3644ba",
-    "postal": "098585"
-  },
-  {
     "name": "FU-MEN",
     "address": "16 RAFFLES QUAY #B1-17/18 HONG LEONG BUILDING 048581",
     "type": "Restaurant",
@@ -11035,15 +11053,6 @@
   },
   {
     "name": "Go-Ang Pratunam Chicken Rice",
-    "address": "50 JURONG GATEWAY ROAD #B1-08 JEM 608549",
-    "type": "Restaurant",
-    "number": "EERN21100012904",
-    "scheme": "Eating Establishment",
-    "id": "825dda24-e8f5-4381-ac0b-8b2ff9fd9c36",
-    "postal": "608549"
-  },
-  {
-    "name": "Go-Ang Pratunam Chicken Rice",
     "address": "134 AMOY STREET #01-01 Far East Square 049963",
     "type": "Restaurant",
     "number": "EERT20240001026",
@@ -11086,6 +11095,15 @@
     "scheme": "Eating Establishment",
     "id": "825dda24-e8f5-4381-ac0b-8b2ff9fd9c36",
     "postal": "038983"
+  },
+  {
+    "name": "Go-Ang Pratunam Chicken Rice",
+    "address": "50 JURONG GATEWAY ROAD #B1-08 JEM 608549",
+    "type": "Restaurant",
+    "number": "EERN21100012904",
+    "scheme": "Eating Establishment",
+    "id": "825dda24-e8f5-4381-ac0b-8b2ff9fd9c36",
+    "postal": "608549"
   },
   {
     "name": "Go-Ang Pratunam Chicken Rice",
@@ -23230,6 +23248,15 @@
   },
   {
     "name": "PASTAGO",
+    "address": "63 JURONG WEST CENTRAL 3 #03-89C BOON LAY BUS INTERCHANGE 648331",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26100000014",
+    "scheme": "Eating Establishment",
+    "id": "5c5afd38-ebd6-422b-babb-46f8944c0e6a",
+    "postal": "648331"
+  },
+  {
+    "name": "PASTAGO",
     "address": "10 TAMPINES CENTRAL 1 #B1-K1 TAMPINES ONE 529536",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240001002",
@@ -27162,6 +27189,15 @@
     "postal": "449269"
   },
   {
+    "name": "Seafood & BBQ",
+    "address": "348 YISHUN AVENUE 11 #01-04 ADORA GREEN, Stall 1, Rasa Rasa @ Yishun 760348",
+    "type": "Hawker",
+    "number": "EEHK26100000030",
+    "scheme": "Eating Establishment",
+    "id": "e000a58a-7aa2-4241-a233-6bdab38f7a12",
+    "postal": "760348"
+  },
+  {
     "name": "Seafood (S1) @ Rasa Rasa Teck Whye",
     "address": "160A JALAN TECK WHYE #01-01, Stall 1 681160",
     "type": "Hawker",
@@ -30546,6 +30582,96 @@
     "postal": "330029"
   },
   {
+    "name": "SUPER SUSHI",
+    "address": "33 SENGKANG WEST AVENUE #B2-K6 THE SELETAR MALL 797653",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26040000004",
+    "scheme": "Eating Establishment",
+    "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
+    "postal": "797653"
+  },
+  {
+    "name": "SUPER SUSHI",
+    "address": "70 COMPASSVALE BOW #B1-03 SENGKANG GRAND MALL 544692",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26040000003",
+    "scheme": "Eating Establishment",
+    "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
+    "postal": "544692"
+  },
+  {
+    "name": "SUPER SUSHI",
+    "address": "1 SENGKANG SQUARE #B1-18 COMPASS ONE 545078",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26100000031",
+    "scheme": "Eating Establishment",
+    "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
+    "postal": "545078"
+  },
+  {
+    "name": "SUPER SUSHI",
+    "address": "4 TAMPINES CENTRAL 5 #B1-K4 TAMPINES MALL 529510",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20240000837",
+    "scheme": "Eating Establishment",
+    "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
+    "postal": "529510"
+  },
+  {
+    "name": "SUPER SUSHI",
+    "address": "2 ORCHARD TURN #B4-51 ION ORCHARD 238801",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000857",
+    "scheme": "Eating Establishment",
+    "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
+    "postal": "238801"
+  },
+  {
+    "name": "SUPER SUSHI",
+    "address": "435 ORCHARD ROAD (PART LEFT) #B1-50 WISMA ATRIA 238877",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26100000032",
+    "scheme": "Eating Establishment",
+    "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
+    "postal": "238877"
+  },
+  {
+    "name": "SUPER SUSHI",
+    "address": "930 YISHUN AVENUE 2 #B1-39 NORTHPOINT CITY 769098",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000856",
+    "scheme": "Eating Establishment",
+    "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
+    "postal": "769098"
+  },
+  {
+    "name": "SUPER SUSHI",
+    "address": "30 SEMBAWANG DRIVE #B1-41 SUN PLAZA 757713",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000864",
+    "scheme": "Eating Establishment",
+    "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
+    "postal": "757713"
+  },
+  {
+    "name": "SUPER SUSHI",
+    "address": "302 TIONG BAHRU ROAD #B1-K7 TIONG BAHRU PLAZA 168732",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB25120000013",
+    "scheme": "Eating Establishment",
+    "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
+    "postal": "168732"
+  },
+  {
+    "name": "SUPER SUSHI",
+    "address": "1 JELEBU ROAD #01-68 BUKIT PANJANG PLAZA 677743",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB25120000071",
+    "scheme": "Eating Establishment",
+    "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
+    "postal": "677743"
+  },
+  {
     "name": "Sushi Seafood Section @ Chara Brasserie",
     "address": "8 CLUB STREET #02-01, Sushi Seafood Section 069472",
     "type": "Food Station",
@@ -30607,15 +30733,6 @@
     "scheme": "Eating Establishment",
     "id": "8ca8605b-be4d-48dd-98d0-78c2ed91bffb",
     "postal": "519872"
-  },
-  {
-    "name": "SWEE HENG",
-    "address": "963 JURONG WEST STREET 91 #01-314 640963",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20220000383",
-    "scheme": "Eating Establishment",
-    "id": "8ca8605b-be4d-48dd-98d0-78c2ed91bffb",
-    "postal": "640963"
   },
   {
     "name": "SWEE HENG 1989 BAKERY CAFE",
@@ -31780,15 +31897,6 @@
   },
   {
     "name": "TASTE OF INDONESIA EXPRESS",
-    "address": "1 JELEBU ROAD #01-42 BUKIT PANJANG PLAZA 677743",
-    "type": "Restaurant",
-    "number": "EERT26060000029",
-    "scheme": "Eating Establishment",
-    "id": "2e83be17-2d14-440a-9f79-7847e26d9ec1",
-    "postal": "677743"
-  },
-  {
-    "name": "TASTE OF INDONESIA EXPRESS",
     "address": "1 TAMPINES WALK #B1-K4 OUR TAMPINES HUB 528523",
     "type": "Restaurant",
     "number": "EERT26060000025",
@@ -31903,15 +32011,6 @@
     "scheme": "Eating Establishment",
     "id": "050079cc-22b8-4328-a4d0-261cbfaf14de",
     "postal": "409051"
-  },
-  {
-    "name": "Telur Thai",
-    "address": "127 PLANTATION CRESCENT #03-02 KOUFU PLANTATION PLAZA, Stall 4 690127",
-    "type": "Hawker",
-    "number": "EEHK20250000775",
-    "scheme": "Eating Establishment",
-    "id": "7001901a-4b95-4a8b-8989-93cb7b0f369a",
-    "postal": "690127"
   },
   {
     "name": "Telur Thai",
