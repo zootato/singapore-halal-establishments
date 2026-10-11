@@ -424,15 +424,6 @@
   },
   {
     "name": "4FINGERS CRISPY CHICKEN",
-    "address": "Formula 1 Singapore Airlines Singapore Grand Prix 2026, 1 REPUBLIC BOULEVARD THE PIT BUILDING, EVL2346 038975",
-    "type": "Short Term Stall(Bazaar/Road Shows)",
-    "number": "EEST26090000021",
-    "scheme": "Eating Establishment",
-    "id": "90b83324-363a-4406-9afa-08b19b67522d",
-    "postal": "038975"
-  },
-  {
-    "name": "4FINGERS CRISPY CHICKEN",
     "address": "225 JALAN KAYU 799449",
     "type": "Snack Bar / Bakery",
     "number": "EEBN21070012391",
@@ -520,6 +511,15 @@
     "scheme": "Eating Establishment",
     "id": "08793a12-d4b2-4e71-a113-9c43a52433e0",
     "postal": "731306"
+  },
+  {
+    "name": "886 TAIWAN YE SHI",
+    "address": "65 AIRPORT BOULEVARD #B2-40/40A, #B2-49/50 CHANGI AIRPORT TERMINAL 3 BUILDING 819663",
+    "type": "Restaurant",
+    "number": "EERT26100000035",
+    "scheme": "Eating Establishment",
+    "id": "438bae98-2ab9-40ff-842c-f336a4e32e47",
+    "postal": "819663"
   },
   {
     "name": "97 NASI LEMAK",
@@ -3546,6 +3546,24 @@
     "postal": "728654"
   },
   {
+    "name": "Bok Bok Chicken",
+    "address": "1 SENGKANG SQUARE #03-13 COMPASS ONE 545078",
+    "type": "Restaurant",
+    "number": "EERN21080012712",
+    "scheme": "Eating Establishment",
+    "id": "3f4b7938-9bf2-4cd1-8e1b-503ea01b2f44",
+    "postal": "545078"
+  },
+  {
+    "name": "Bok Bok Chicken",
+    "address": "80 AIRPORT BOULEVARD #03-19 CHANGI AIRPORT TERMINAL 1, LEFT PART OF 819642",
+    "type": "Restaurant",
+    "number": "EERT20230000480",
+    "scheme": "Eating Establishment",
+    "id": "3f4b7938-9bf2-4cd1-8e1b-503ea01b2f44",
+    "postal": "819642"
+  },
+  {
     "name": "Boleh! Boleh! Indonesian Nasi Padang",
     "address": "4 WOODLANDS STREET 12 STALL 70 MARSILING MALL HAWKER CENTRE #01-70 738623",
     "type": "Hawker",
@@ -6345,6 +6363,15 @@
     "postal": "538692"
   },
   {
+    "name": "Citarasa Kuali Helen Mini Wok Delight",
+    "address": "991 BUANGKOK LINK #02-21 KOUFU BUANGKOK SQUARE, Stall 5 530991",
+    "type": "Hawker",
+    "number": "EEHK26090000030",
+    "scheme": "Eating Establishment",
+    "id": "b36c6300-9d8b-4c64-b595-4fb373aac52b",
+    "postal": "530991"
+  },
+  {
     "name": "Citrus By The Pool",
     "address": "43 SCIENCE PARK ROAD #01-09/10/K1 117408",
     "type": "Restaurant",
@@ -6370,6 +6397,15 @@
     "scheme": "Eating Establishment",
     "id": "3cf3adcc-0788-47a2-8661-1911593e2d79",
     "postal": "349315"
+  },
+  {
+    "name": "Claypot Daddy",
+    "address": "60 AIRPORT BOULEVARD #03-11/12 CHANGI AIRPORT TERMINAL 2 BUILDING 819643",
+    "type": "Restaurant",
+    "number": "EERT20250000233",
+    "scheme": "Eating Establishment",
+    "id": "f83770ff-fb31-4cfa-96b0-2d41995cc111",
+    "postal": "819643"
   },
   {
     "name": "Club B2 Cafe@ Marriott Tang Plaza Hotel (Mngd by The Wok People)",
@@ -6577,15 +6613,6 @@
     "scheme": "Eating Establishment",
     "id": "acb57b3e-8f79-4a15-8f89-f4f1c43a3aa5",
     "postal": "427516"
-  },
-  {
-    "name": "COPPER CHIMNEY",
-    "address": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026, 1 REPUBLIC BOULEVARD THE PIT BUILDING, EVL 5336 038975",
-    "type": "Short Term Stall(Bazaar/Road Shows)",
-    "number": "EEST26090000012",
-    "scheme": "Eating Establishment",
-    "id": "4d5b4a6a-6b4c-457d-8255-6189c8de49a6",
-    "postal": "038975"
   },
   {
     "name": "COPPER CHIMNEY",
@@ -8164,24 +8191,6 @@
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
-    "address": "202 Jurong East Street 21 #01-115 600202",
-    "type": "Restaurant",
-    "number": "EERN21060012530",
-    "scheme": "Eating Establishment",
-    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
-    "postal": "600202"
-  },
-  {
-    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
-    "address": "625 ELIAS ROAD #01-312 ELIAS MALL 510625",
-    "type": "Restaurant",
-    "number": "EERN21060012540",
-    "scheme": "Eating Establishment",
-    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
-    "postal": "510625"
-  },
-  {
-    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
     "address": "1 HILLVIEW RISE #01-03 667970",
     "type": "Restaurant",
     "number": "EERN21060012528",
@@ -8260,6 +8269,15 @@
     "scheme": "Eating Establishment",
     "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
     "postal": "671524"
+  },
+  {
+    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+    "address": "202 Jurong East Street 21 #01-115 600202",
+    "type": "Restaurant",
+    "number": "EERN21060012530",
+    "scheme": "Eating Establishment",
+    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+    "postal": "600202"
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
@@ -8359,6 +8377,15 @@
     "scheme": "Eating Establishment",
     "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
     "postal": "520462"
+  },
+  {
+    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+    "address": "625 ELIAS ROAD #01-312 ELIAS MALL 510625",
+    "type": "Restaurant",
+    "number": "EERN21060012540",
+    "scheme": "Eating Establishment",
+    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+    "postal": "510625"
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
@@ -10645,6 +10672,15 @@
     "scheme": "Eating Establishment",
     "id": "94b436ca-060f-4863-873d-214ddf70e278",
     "postal": "199593"
+  },
+  {
+    "name": "FRUIT PARADISE",
+    "address": "1 HARBOURFRONT WALK #01-59 VIVOCITY 098585",
+    "type": "Restaurant",
+    "number": "EERT20250000375",
+    "scheme": "Eating Establishment",
+    "id": "30abd843-2c8a-42c5-aa10-e511ec3644ba",
+    "postal": "098585"
   },
   {
     "name": "FU-MEN",
@@ -16057,12 +16093,12 @@
   },
   {
     "name": "Korea Culture",
-    "address": "2026 FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX, 25 PARK STREET, EVL 1447 018929",
-    "type": "Short Term Stall(Bazaar/Road Shows)",
-    "number": "EEST26080000134",
+    "address": "65 AIRPORT BOULEVARD #03-33 CHANGI AIRPORT TERMINAL 3 819663",
+    "type": "Restaurant",
+    "number": "EERT20250000816",
     "scheme": "Eating Establishment",
     "id": "3cdc1589-a08d-43fc-a5cd-793d1ace3f28",
-    "postal": "018929"
+    "postal": "819663"
   },
   {
     "name": "KOREA FOOD (S7) @ QUAD CAFE",
@@ -17557,6 +17593,15 @@
     "scheme": "Eating Establishment",
     "id": "fdd75e8a-23b9-4960-95f0-c82c9ac8cd92",
     "postal": "650469"
+  },
+  {
+    "name": "MALA MIA",
+    "address": "65 AIRPORT BOULEVARD #B2-40/40A, #B2-49/50 CHANGI AIRPORT TERMINAL 3 BUILDING 819663",
+    "type": "Restaurant",
+    "number": "EERT26100000034",
+    "scheme": "Eating Establishment",
+    "id": "9387e28f-0b05-45f8-a772-e89c7c585d86",
+    "postal": "819663"
   },
   {
     "name": "Mala Wok (S11) @ One Two Eat Bedok Heartbeat",
@@ -19963,15 +20008,6 @@
   },
   {
     "name": "MR BEAN",
-    "address": "180 KITCHENER ROAD #B1-K8 CITY SQUARE MALL 208539",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20240000266",
-    "scheme": "Eating Establishment",
-    "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
-    "postal": "208539"
-  },
-  {
-    "name": "MR BEAN",
     "address": "1 FUSIONOPOLIS WAY #01-06 CONNEXIS 138632",
     "type": "Restaurant",
     "number": "EERT20220000174",
@@ -20014,6 +20050,15 @@
     "scheme": "Eating Establishment",
     "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
     "postal": "048618"
+  },
+  {
+    "name": "MR BEAN",
+    "address": "180 KITCHENER ROAD #B1-K8 CITY SQUARE MALL 208539",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20240000266",
+    "scheme": "Eating Establishment",
+    "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
+    "postal": "208539"
   },
   {
     "name": "MR BEAN",
@@ -21193,6 +21238,15 @@
     "scheme": "Eating Establishment",
     "id": "732a250f-a373-49a6-9a71-3189fce5992b",
     "postal": "738964"
+  },
+  {
+    "name": "Nanyang Kampung",
+    "address": "633 TAMPINES NORTH DRIVE 2 #02-02 TAMPINES GREENCOURT 520633",
+    "type": "Restaurant",
+    "number": "EERT26100000026",
+    "scheme": "Eating Establishment",
+    "id": "2442ef58-e6ac-4e2b-8e9f-a4864a52406d",
+    "postal": "520633"
   },
   {
     "name": "Nasi Ayam",
@@ -25731,6 +25785,24 @@
     "postal": "819663"
   },
   {
+    "name": "Rasel Catering Singapore Pte Ltd",
+    "address": "253 PANDAN LOOP 128432",
+    "type": "Catering Company",
+    "number": "FPGN21020001494",
+    "scheme": "Food Preparation Area",
+    "id": "ccbcda18-63ed-43d5-af63-b6e1d7d1fe78",
+    "postal": "128432"
+  },
+  {
+    "name": "RASEL CATERING SINGAPORE PTE. LTD.",
+    "address": "157 PANDAN LOOP 128355",
+    "type": "Catering Company",
+    "number": "FPCA20230000443",
+    "scheme": "Food Preparation Area",
+    "id": "ccbcda18-63ed-43d5-af63-b6e1d7d1fe78",
+    "postal": "128355"
+  },
+  {
     "name": "ReadyMeals@Sheng Siong ITE College Central",
     "address": "2 Ang Mo Kio Drive #01-12 ITE College Central, (Kiosk 1) 567720",
     "type": "Snack Bar / Bakery",
@@ -27889,6 +27961,15 @@
     "scheme": "Food Preparation Area",
     "id": "0c07588c-1315-4985-aaa0-4c94466dfb8b",
     "postal": "486121"
+  },
+  {
+    "name": "SINGAPORE FOOD SOLUTIONS PTE. LTD.",
+    "address": "9 ENTERPRISE ROAD #02-00 629821",
+    "type": "Central Kitchen",
+    "number": "FPCK20250000442",
+    "scheme": "Food Preparation Area",
+    "id": "66419ee3-e0f5-4804-9952-bb9699eba9bc",
+    "postal": "629821"
   },
   {
     "name": "Singapore Nasi Kandar (S8) Kopitiam Changi Airport T4",
@@ -31662,6 +31743,15 @@
     "postal": "569830"
   },
   {
+    "name": "Taiwan Culture",
+    "address": "60 AIRPORT BOULEVARD #03-11/12 CHANGI AIRPORT TERMINAL 2 819643",
+    "type": "Restaurant",
+    "number": "EERT20240000815",
+    "scheme": "Eating Establishment",
+    "id": "8ba3be32-8cca-40ff-954a-d4b57b8d0ac0",
+    "postal": "819643"
+  },
+  {
     "name": "TAKARA GRILLED SEAFOOD",
     "address": "500 CLEMENCEAU AVENUE NORTH #01-74 229495",
     "type": "Hawker",
@@ -34039,21 +34129,21 @@
   },
   {
     "name": "Tim Hortons",
-    "address": "1 RAFFLES PLACE #01-12 #01-11 ONE RAFFLES PLACE 048616",
-    "type": "Restaurant",
-    "number": "EERT26020000004",
-    "scheme": "Eating Establishment",
-    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-    "postal": "048616"
-  },
-  {
-    "name": "Tim Hortons",
     "address": "313 ORCHARD ROAD #01-29 313 @ SOMERSET 238895",
     "type": "Restaurant",
     "number": "EERT26020000008",
     "scheme": "Eating Establishment",
     "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
     "postal": "238895"
+  },
+  {
+    "name": "Tim Hortons",
+    "address": "1 RAFFLES PLACE #01-12 #01-11 ONE RAFFLES PLACE 048616",
+    "type": "Restaurant",
+    "number": "EERT26020000004",
+    "scheme": "Eating Establishment",
+    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+    "postal": "048616"
   },
   {
     "name": "Tim Hortons",
@@ -35926,6 +36016,24 @@
     "scheme": "Eating Establishment",
     "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
     "postal": "059413"
+  },
+  {
+    "name": "WOKE RAMEN",
+    "address": "1 SENGKANG SQUARE #03-13 COMPASS ONE 545078",
+    "type": "Restaurant",
+    "number": "EERT20240000814",
+    "scheme": "Eating Establishment",
+    "id": "694714fd-9c1d-43b2-9a04-e65a3c6d7129",
+    "postal": "545078"
+  },
+  {
+    "name": "WOKE RAMEN",
+    "address": "80 AIRPORT BOULEVARD #03-19 CHANGI AIRPORT TERMINAL 1, RIGHT PART OF 819642",
+    "type": "Restaurant",
+    "number": "EERT20230000481",
+    "scheme": "Eating Establishment",
+    "id": "694714fd-9c1d-43b2-9a04-e65a3c6d7129",
+    "postal": "819642"
   },
   {
     "name": "Wokker",

@@ -1,5 +1,183 @@
 [
   {
+    "timestamp": "2026-10-11T00:54:15.254309",
+    "date": "2026-10-11",
+    "summary": {
+      "new": 15,
+      "removed": 3,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Taiwan Culture",
+          "address": "60 AIRPORT BOULEVARD #03-11/12 CHANGI AIRPORT TERMINAL 2 819643",
+          "type": "Restaurant",
+          "number": "EERT20240000815",
+          "scheme": "Eating Establishment",
+          "id": "8ba3be32-8cca-40ff-954a-d4b57b8d0ac0",
+          "postal": "819643"
+        },
+        {
+          "name": "Rasel Catering Singapore Pte Ltd",
+          "address": "253 PANDAN LOOP 128432",
+          "type": "Catering Company",
+          "number": "FPGN21020001494",
+          "scheme": "Food Preparation Area",
+          "id": "ccbcda18-63ed-43d5-af63-b6e1d7d1fe78",
+          "postal": "128432"
+        },
+        {
+          "name": "Korea Culture",
+          "address": "65 AIRPORT BOULEVARD #03-33 CHANGI AIRPORT TERMINAL 3 819663",
+          "type": "Restaurant",
+          "number": "EERT20250000816",
+          "scheme": "Eating Establishment",
+          "id": "3cdc1589-a08d-43fc-a5cd-793d1ace3f28",
+          "postal": "819663"
+        },
+        {
+          "name": "WOKE RAMEN",
+          "address": "80 AIRPORT BOULEVARD #03-19 CHANGI AIRPORT TERMINAL 1, RIGHT PART OF 819642",
+          "type": "Restaurant",
+          "number": "EERT20230000481",
+          "scheme": "Eating Establishment",
+          "id": "694714fd-9c1d-43b2-9a04-e65a3c6d7129",
+          "postal": "819642"
+        },
+        {
+          "name": "Nanyang Kampung",
+          "address": "633 TAMPINES NORTH DRIVE 2 #02-02 TAMPINES GREENCOURT 520633",
+          "type": "Restaurant",
+          "number": "EERT26100000026",
+          "scheme": "Eating Establishment",
+          "id": "2442ef58-e6ac-4e2b-8e9f-a4864a52406d",
+          "postal": "520633"
+        },
+        {
+          "name": "SINGAPORE FOOD SOLUTIONS PTE. LTD.",
+          "address": "9 ENTERPRISE ROAD #02-00 629821",
+          "type": "Central Kitchen",
+          "number": "FPCK20250000442",
+          "scheme": "Food Preparation Area",
+          "id": "66419ee3-e0f5-4804-9952-bb9699eba9bc",
+          "postal": "629821"
+        },
+        {
+          "name": "Bok Bok Chicken",
+          "address": "80 AIRPORT BOULEVARD #03-19 CHANGI AIRPORT TERMINAL 1, LEFT PART OF 819642",
+          "type": "Restaurant",
+          "number": "EERT20230000480",
+          "scheme": "Eating Establishment",
+          "id": "3f4b7938-9bf2-4cd1-8e1b-503ea01b2f44",
+          "postal": "819642"
+        },
+        {
+          "name": "886 TAIWAN YE SHI",
+          "address": "65 AIRPORT BOULEVARD #B2-40/40A, #B2-49/50 CHANGI AIRPORT TERMINAL 3 BUILDING 819663",
+          "type": "Restaurant",
+          "number": "EERT26100000035",
+          "scheme": "Eating Establishment",
+          "id": "438bae98-2ab9-40ff-842c-f336a4e32e47",
+          "postal": "819663"
+        },
+        {
+          "name": "FRUIT PARADISE",
+          "address": "1 HARBOURFRONT WALK #01-59 VIVOCITY 098585",
+          "type": "Restaurant",
+          "number": "EERT20250000375",
+          "scheme": "Eating Establishment",
+          "id": "30abd843-2c8a-42c5-aa10-e511ec3644ba",
+          "postal": "098585"
+        },
+        {
+          "name": "WOKE RAMEN",
+          "address": "1 SENGKANG SQUARE #03-13 COMPASS ONE 545078",
+          "type": "Restaurant",
+          "number": "EERT20240000814",
+          "scheme": "Eating Establishment",
+          "id": "694714fd-9c1d-43b2-9a04-e65a3c6d7129",
+          "postal": "545078"
+        },
+        {
+          "name": "Claypot Daddy",
+          "address": "60 AIRPORT BOULEVARD #03-11/12 CHANGI AIRPORT TERMINAL 2 BUILDING 819643",
+          "type": "Restaurant",
+          "number": "EERT20250000233",
+          "scheme": "Eating Establishment",
+          "id": "f83770ff-fb31-4cfa-96b0-2d41995cc111",
+          "postal": "819643"
+        },
+        {
+          "name": "RASEL CATERING SINGAPORE PTE. LTD.",
+          "address": "157 PANDAN LOOP 128355",
+          "type": "Catering Company",
+          "number": "FPCA20230000443",
+          "scheme": "Food Preparation Area",
+          "id": "ccbcda18-63ed-43d5-af63-b6e1d7d1fe78",
+          "postal": "128355"
+        },
+        {
+          "name": "Citarasa Kuali Helen Mini Wok Delight",
+          "address": "991 BUANGKOK LINK #02-21 KOUFU BUANGKOK SQUARE, Stall 5 530991",
+          "type": "Hawker",
+          "number": "EEHK26090000030",
+          "scheme": "Eating Establishment",
+          "id": "b36c6300-9d8b-4c64-b595-4fb373aac52b",
+          "postal": "530991"
+        },
+        {
+          "name": "Bok Bok Chicken",
+          "address": "1 SENGKANG SQUARE #03-13 COMPASS ONE 545078",
+          "type": "Restaurant",
+          "number": "EERN21080012712",
+          "scheme": "Eating Establishment",
+          "id": "3f4b7938-9bf2-4cd1-8e1b-503ea01b2f44",
+          "postal": "545078"
+        },
+        {
+          "name": "MALA MIA",
+          "address": "65 AIRPORT BOULEVARD #B2-40/40A, #B2-49/50 CHANGI AIRPORT TERMINAL 3 BUILDING 819663",
+          "type": "Restaurant",
+          "number": "EERT26100000034",
+          "scheme": "Eating Establishment",
+          "id": "9387e28f-0b05-45f8-a772-e89c7c585d86",
+          "postal": "819663"
+        }
+      ],
+      "removed": [
+        {
+          "name": "4FINGERS CRISPY CHICKEN",
+          "address": "Formula 1 Singapore Airlines Singapore Grand Prix 2026, 1 REPUBLIC BOULEVARD THE PIT BUILDING, EVL2346 038975",
+          "type": "Short Term Stall(Bazaar/Road Shows)",
+          "number": "EEST26090000021",
+          "scheme": "Eating Establishment",
+          "id": "90b83324-363a-4406-9afa-08b19b67522d",
+          "postal": "038975"
+        },
+        {
+          "name": "COPPER CHIMNEY",
+          "address": "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026, 1 REPUBLIC BOULEVARD THE PIT BUILDING, EVL 5336 038975",
+          "type": "Short Term Stall(Bazaar/Road Shows)",
+          "number": "EEST26090000012",
+          "scheme": "Eating Establishment",
+          "id": "4d5b4a6a-6b4c-457d-8255-6189c8de49a6",
+          "postal": "038975"
+        },
+        {
+          "name": "Korea Culture",
+          "address": "2026 FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX, 25 PARK STREET, EVL 1447 018929",
+          "type": "Short Term Stall(Bazaar/Road Shows)",
+          "number": "EEST26080000134",
+          "scheme": "Eating Establishment",
+          "id": "3cdc1589-a08d-43fc-a5cd-793d1ace3f28",
+          "postal": "018929"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-10-10T01:45:33.135819",
     "date": "2026-10-10",
     "summary": {
@@ -13271,162 +13449,6 @@
             "scheme": "Eating Establishment",
             "id": "db7e6200-0277-43e4-946d-ad9087a1482b",
             "postal": "469520"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-08-11T22:58:47.342085",
-    "date": "2026-08-11",
-    "summary": {
-      "new": 8,
-      "removed": 3,
-      "updated": 2
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Western Cuisine (S10) @ Koufu Loyang Point",
-          "address": "258 PASIR RIS STREET 21 #02-09 LOYANG POINT, stall 10 510258",
-          "type": "Hawker",
-          "number": "EEHK20240000581",
-          "scheme": "Eating Establishment",
-          "id": "e4ebbaf4-7651-4500-84e2-3fea511b2e57",
-          "postal": "510258"
-        },
-        {
-          "name": "Lin Xuan Yong Tau Foo (MR7) @ Kopitiam Changi Airport T4",
-          "address": "10 AIRPORT BOULEVARD #02-205 CHANGI AIRPORT TERMINAL 4, MR7 819665",
-          "type": "Hawker",
-          "number": "EEHK20250000081",
-          "scheme": "Eating Establishment",
-          "id": "348fa0de-a106-497b-99c2-5582a87a5806",
-          "postal": "819665"
-        },
-        {
-          "name": "Jing House Yong Tau Foo",
-          "address": "2 SIMEI STREET 3 #01-20 KOPITIAM CORNER CHANGI GENERAL HOSPITAL, STALL 10 529889",
-          "type": "Hawker",
-          "number": "EEHK26080000020",
-          "scheme": "Eating Establishment",
-          "id": "36d51686-5146-4c9a-a2d2-092163493f55",
-          "postal": "529889"
-        },
-        {
-          "name": "Jing House Yong Tau Foo (S8) @ Koufu Loyang Point",
-          "address": "258 PASIR RIS STREET 21 #02-09 LOYANG POINT, Stall 8 510258",
-          "type": "Hawker",
-          "number": "EEHK20240000156",
-          "scheme": "Eating Establishment",
-          "id": "b860f03f-ac6b-441e-84cd-98a155d9724f",
-          "postal": "510258"
-        },
-        {
-          "name": "Jing House Western Cuisine",
-          "address": "2 SIMEI STREET 3 #01-20 KOPITIAM CORNER CHANGI GENERAL HOSPITAL, Stall 2 529889",
-          "type": "Hawker",
-          "number": "EEHK25100000010",
-          "scheme": "Eating Establishment",
-          "id": "147f2f2d-d693-4c8c-a2fa-1ae71514cb8a",
-          "postal": "529889"
-        },
-        {
-          "name": "Ku-Lin International (S) Pte Ltd",
-          "address": "18 KIM CHUAN TERRACE #07-01 APEX FOODWORKS 537040",
-          "type": "Central Kitchen",
-          "number": "FPCK26070000100",
-          "scheme": "Food Preparation Area",
-          "id": "0dd8d648-999c-422b-a622-1b68e49e377a",
-          "postal": "537040"
-        },
-        {
-          "name": "Jing House Yong Tau Foo (S8) @ Koufu Tampines Mart",
-          "address": "9 TAMPINES STREET 32 #01-01-14, Stall 8 529286",
-          "type": "Hawker",
-          "number": "EEHK20230000773",
-          "scheme": "Eating Establishment",
-          "id": "725d8991-e84c-432d-a7c9-73bce8a914b3",
-          "postal": "529286"
-        },
-        {
-          "name": "Jing House Western Cuisine",
-          "address": "21 TAMPINES NORTH DRIVE 2 #03-00 GIANT, Stall 4 528765",
-          "type": "Hawker",
-          "number": "EEHK26080000021",
-          "scheme": "Eating Establishment",
-          "id": "147f2f2d-d693-4c8c-a2fa-1ae71514cb8a",
-          "postal": "528765"
-        }
-      ],
-      "removed": [
-        {
-          "name": "McDonald's",
-          "address": "632 BUKIT BATOK CENTRAL #01-138, Mcdonald's 650632",
-          "type": "Restaurant",
-          "number": "EERN20020011015",
-          "scheme": "Eating Establishment",
-          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-          "postal": "650632"
-        },
-        {
-          "name": "SBY FROZEN FOOD SUPPLY PTE LTD",
-          "address": "5 KAKI BUKIT ROAD 1 #05-02 EUNOS TECHNOLINK 415936",
-          "type": "Catering Company",
-          "number": "FPCA25100000016",
-          "scheme": "Food Preparation Area",
-          "id": "ef5b9e14-64b3-4f00-8852-9835e1be077f",
-          "postal": "415936"
-        },
-        {
-          "name": "TEXAS CHICKEN",
-          "address": "2 TAMPINES CENTRAL 5 #05-03 CENTURY SQUARE 529509",
-          "type": "Restaurant",
-          "number": "EERN21070012596",
-          "scheme": "Eating Establishment",
-          "id": "53c88848-1280-4fee-b6dc-b5d1d941c07d",
-          "postal": "529509"
-        }
-      ],
-      "updated": [
-        {
-          "previous": {
-            "name": "KOPI KORNER",
-            "address": "1 BUKIT BATOK CENTRAL LINK #02-10A WEST MALL 658713",
-            "type": "Restaurant",
-            "number": "EERT26020000045",
-            "scheme": "Eating Establishment",
-            "id": "c091e13f-3dbe-44a1-b12d-78da06d58861",
-            "postal": "658713"
-          },
-          "current": {
-            "name": "Cravy for Crispy Chicken",
-            "address": "1 BUKIT BATOK CENTRAL LINK #02-10A WEST MALL 658713",
-            "type": "Restaurant",
-            "number": "EERT26020000045",
-            "scheme": "Eating Establishment",
-            "id": "c091e13f-3dbe-44a1-b12d-78da06d58861",
-            "postal": "658713"
-          }
-        },
-        {
-          "previous": {
-            "name": "Julia BBQ",
-            "address": "49A SERANGOON GARDEN WAY 23 #23 SERANGOON GARDEN MARKET & FOOD CENTRE 555945",
-            "type": "Hawker",
-            "number": "EEHK20250000789",
-            "scheme": "Eating Establishment",
-            "id": "4b0063eb-2de9-4100-aee6-ba5eb45d95f4",
-            "postal": "555945"
-          },
-          "current": {
-            "name": "Julia BBQ",
-            "address": "49A SERANGOON GARDEN WAY SERANGOON GARDEN MARKET & FOOD CENTRE, STALL 23 555945",
-            "type": "Hawker",
-            "number": "EEHK20250000789",
-            "scheme": "Eating Establishment",
-            "id": "4b0063eb-2de9-4100-aee6-ba5eb45d95f4",
-            "postal": "555945"
           }
         }
       ]
