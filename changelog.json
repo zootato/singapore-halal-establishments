@@ -1,5 +1,111 @@
 [
   {
+    "timestamp": "2026-10-13T03:05:22.430388",
+    "date": "2026-10-13",
+    "summary": {
+      "new": 7,
+      "removed": 3,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Rasa Sayang Chicken Rice (S4) @ FoodHub Clementi",
+          "address": "449 CLEMENTI AVENUE 3 #01-211, stall 4 120449",
+          "type": "Hawker",
+          "number": "EEHK20240000816",
+          "scheme": "Eating Establishment",
+          "id": "9b0d7a6e-8ea5-4d38-93e7-11aa24656d18",
+          "postal": "120449"
+        },
+        {
+          "name": "Asam Tree Nasi Padang",
+          "address": "440 PASIR RIS DRIVE 4 Stall 4, KPT Coffeeshop #01-13 510440",
+          "type": "Hawker",
+          "number": "EEHK26100000027",
+          "scheme": "Eating Establishment",
+          "id": "4921c3d0-f6e2-467a-9150-910e8174b587",
+          "postal": "510440"
+        },
+        {
+          "name": "Pangi Nut Western Peranakan Inspired",
+          "address": "2 JOO CHIAT ROAD MR1 #01-11127 (Chew N Chat Food Court) Joo Chiat Complex 420002",
+          "type": "Hawker",
+          "number": "EEHK20250000798",
+          "scheme": "Eating Establishment",
+          "id": "54a399d8-0467-40fc-86d2-4bbf449a33f2",
+          "postal": "420002"
+        },
+        {
+          "name": "ALTI FOOD SOLUTIONS PTE. LTD.",
+          "address": "5 SENOKO ROAD #08-16 TEE YIH JIA FOOD HUB 758137",
+          "type": "Central Kitchen",
+          "number": "FPCK26100000041",
+          "scheme": "Food Preparation Area",
+          "id": "7ed50c85-9b16-40c3-93f2-21fa250f073a",
+          "postal": "758137"
+        },
+        {
+          "name": "Mala Wok",
+          "address": "348 YISHUN AVENUE 11 #01-04 ADORA GREEN, MR3, Rasa Rasa @ Yishun 760348",
+          "type": "Hawker",
+          "number": "EEHK26100000029",
+          "scheme": "Eating Establishment",
+          "id": "4506a46c-fe2b-452c-9ded-a089e1f6ad87",
+          "postal": "760348"
+        },
+        {
+          "name": "CRAVE",
+          "address": "5 STRAITS VIEW (Part Of - Left) #B2-47 THE HEART 018935",
+          "type": "Restaurant",
+          "number": "EERT26100000005",
+          "scheme": "Eating Establishment",
+          "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
+          "postal": "018935"
+        },
+        {
+          "name": "DRINK STALL",
+          "address": "2 JOO CHIAT ROAD Stall 1 #01-1127 Chew N Chat Food Court (Joo Chiat Complex) 420002",
+          "type": "Hawker",
+          "number": "EEHK20250000840",
+          "scheme": "Eating Establishment",
+          "id": "6b1f4f6a-dd44-4734-8dd4-0034c275e6a3",
+          "postal": "420002"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Tim Hortons",
+          "address": "23 SERANGOON CENTRAL #01-10 NEX 556083",
+          "type": "Restaurant",
+          "number": "EERT26020000002",
+          "scheme": "Eating Establishment",
+          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+          "postal": "556083"
+        },
+        {
+          "name": "Tim Hortons",
+          "address": "3 TEMASEK BOULEVARD #01-314 SUNTEC CITY MALL 038983",
+          "type": "Restaurant",
+          "number": "EERT26020000003",
+          "scheme": "Eating Establishment",
+          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
+          "postal": "038983"
+        },
+        {
+          "name": "FRUIT PARADISE",
+          "address": "1 HARBOURFRONT WALK #01-59 VIVOCITY 098585",
+          "type": "Restaurant",
+          "number": "EERT20250000375",
+          "scheme": "Eating Establishment",
+          "id": "30abd843-2c8a-42c5-aa10-e511ec3644ba",
+          "postal": "098585"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-10-11T00:54:15.254309",
     "date": "2026-10-11",
     "summary": {
@@ -13298,160 +13404,6 @@
         }
       ],
       "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-08-12T22:56:58.794916",
-    "date": "2026-08-12",
-    "summary": {
-      "new": 0,
-      "removed": 2,
-      "updated": 6
-    },
-    "changes": {
-      "new": [],
-      "removed": [
-        {
-          "name": "THE COFFEE BEAN & TEA LEAF",
-          "address": "1 MARITIME SQUARE #02-124/125/126 HARBOURFRONT CENTRE 099253",
-          "type": "Restaurant",
-          "number": "EERN21120013257",
-          "scheme": "Eating Establishment",
-          "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-          "postal": "099253"
-        },
-        {
-          "name": "Long John Silver's",
-          "address": "3 Gateway Drive #B1-10 Westgate 608532",
-          "type": "Restaurant",
-          "number": "EERN22020013527",
-          "scheme": "Eating Establishment",
-          "id": "04a22cc8-410f-41ad-977c-224cb8a85e4c",
-          "postal": "608532"
-        }
-      ],
-      "updated": [
-        {
-          "previous": {
-            "name": "Chicken, Duck Rice & Seafood @ Enak Enak",
-            "address": "342 BEDOK ROAD BEDOK SHOPPING COMPLEX,stall 5 469520",
-            "type": "Hawker",
-            "number": "EEHK20240000783",
-            "scheme": "Eating Establishment",
-            "id": "3b897e7a-1e83-417a-9fc9-5b46b0e6db94",
-            "postal": "469520"
-          },
-          "current": {
-            "name": "Chicken, Duck Rice & Seafood @ Enak Enak",
-            "address": "342 BEDOK ROAD BEDOK SHOPPING COMPLEX, stall 5 469520",
-            "type": "Hawker",
-            "number": "EEHK20240000783",
-            "scheme": "Eating Establishment",
-            "id": "3b897e7a-1e83-417a-9fc9-5b46b0e6db94",
-            "postal": "469520"
-          }
-        },
-        {
-          "previous": {
-            "name": "DESSERTS & DRINKS @ ENAK ENAK",
-            "address": "342 BEDOK ROAD BEDOK SHOPPING COMPLEX,stall 6 469524",
-            "type": "Hawker",
-            "number": "EEHX21060012456",
-            "scheme": "Eating Establishment",
-            "id": "fdeff561-0e69-4afe-80b2-37a6d62ed3bb",
-            "postal": "469524"
-          },
-          "current": {
-            "name": "DESSERTS & DRINKS @ ENAK ENAK",
-            "address": "342 BEDOK ROAD BEDOK SHOPPING COMPLEX, stall 6 469524",
-            "type": "Hawker",
-            "number": "EEHX21060012456",
-            "scheme": "Eating Establishment",
-            "id": "fdeff561-0e69-4afe-80b2-37a6d62ed3bb",
-            "postal": "469524"
-          }
-        },
-        {
-          "previous": {
-            "name": "HONGKONG TIM SUM @ ENAK ENAK",
-            "address": "342 BEDOK ROAD BEDOK SHOPPING COMPLEX,stall 3 469524",
-            "type": "Hawker",
-            "number": "EEHX21060012457",
-            "scheme": "Eating Establishment",
-            "id": "e0f68b76-ce4e-4bf5-af25-083a4d3c19e8",
-            "postal": "469524"
-          },
-          "current": {
-            "name": "HONGKONG TIM SUM @ ENAK ENAK",
-            "address": "342 BEDOK ROAD BEDOK SHOPPING COMPLEX, stall 3 469524",
-            "type": "Hawker",
-            "number": "EEHX21060012457",
-            "scheme": "Eating Establishment",
-            "id": "e0f68b76-ce4e-4bf5-af25-083a4d3c19e8",
-            "postal": "469524"
-          }
-        },
-        {
-          "previous": {
-            "name": "Hello(MR3) @ Mei De Coffeeshop 279 Bukit Batok",
-            "address": "279 BUKIT BATOK EAST AVENUE 3 #01-337, MR3 650279",
-            "type": "Hawker",
-            "number": "EEHK20230000813",
-            "scheme": "Eating Establishment",
-            "id": "d58ab773-a3d6-4233-af63-7d0826a51c2c",
-            "postal": "650279"
-          },
-          "current": {
-            "name": "Hello(MR3) @ Mei De Coffeeshop 279 Bukit Batok",
-            "address": "279 BUKIT BATOK EAST AVENUE 3 #01-337, MR3, Mei De Coffeeshop 650279",
-            "type": "Hawker",
-            "number": "EEHK20230000813",
-            "scheme": "Eating Establishment",
-            "id": "d58ab773-a3d6-4233-af63-7d0826a51c2c",
-            "postal": "650279"
-          }
-        },
-        {
-          "previous": {
-            "name": "Indian Food @ Enak Enak",
-            "address": "342 BEDOK ROAD BEDOK SHOPPING COMPLEX,stall 1 469524",
-            "type": "Hawker",
-            "number": "EEHX21060012454",
-            "scheme": "Eating Establishment",
-            "id": "295b3eec-a263-471a-8698-b30f7e559e0d",
-            "postal": "469524"
-          },
-          "current": {
-            "name": "Indian Food @ Enak Enak",
-            "address": "342 BEDOK ROAD BEDOK SHOPPING COMPLEX, stall 1 469524",
-            "type": "Hawker",
-            "number": "EEHX21060012454",
-            "scheme": "Eating Establishment",
-            "id": "295b3eec-a263-471a-8698-b30f7e559e0d",
-            "postal": "469524"
-          }
-        },
-        {
-          "previous": {
-            "name": "WESTERN FOOD @ ENAK ENAK",
-            "address": "342 BEDOK ROAD BEDOK SHOPPING COMPLEX,stall 4 469520",
-            "type": "Hawker",
-            "number": "EEHK20240000782",
-            "scheme": "Eating Establishment",
-            "id": "db7e6200-0277-43e4-946d-ad9087a1482b",
-            "postal": "469520"
-          },
-          "current": {
-            "name": "WESTERN FOOD @ ENAK ENAK",
-            "address": "342 BEDOK ROAD BEDOK SHOPPING COMPLEX, stall 4 469520",
-            "type": "Hawker",
-            "number": "EEHK20240000782",
-            "scheme": "Eating Establishment",
-            "id": "db7e6200-0277-43e4-946d-ad9087a1482b",
-            "postal": "469520"
-          }
-        }
-      ]
     }
   }
 ]

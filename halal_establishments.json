@@ -1251,6 +1251,15 @@
     "postal": "229899"
   },
   {
+    "name": "ALTI FOOD SOLUTIONS PTE. LTD.",
+    "address": "5 SENOKO ROAD #08-16 TEE YIH JIA FOOD HUB 758137",
+    "type": "Central Kitchen",
+    "number": "FPCK26100000041",
+    "scheme": "Food Preparation Area",
+    "id": "7ed50c85-9b16-40c3-93f2-21fa250f073a",
+    "postal": "758137"
+  },
+  {
     "name": "Ameerah Restaurant",
     "address": "306 WOODLANDS STREET 31 #01-41 FUCHUN NEIGHBOURHOOD CENTRE 730306",
     "type": "Restaurant",
@@ -2059,6 +2068,15 @@
     "scheme": "Eating Establishment",
     "id": "4921c3d0-f6e2-467a-9150-910e8174b587",
     "postal": "544835"
+  },
+  {
+    "name": "Asam Tree Nasi Padang",
+    "address": "440 PASIR RIS DRIVE 4 Stall 4, KPT Coffeeshop #01-13 510440",
+    "type": "Hawker",
+    "number": "EEHK26100000027",
+    "scheme": "Eating Establishment",
+    "id": "4921c3d0-f6e2-467a-9150-910e8174b587",
+    "postal": "510440"
   },
   {
     "name": "ASAM TREE PTE. LTD.",
@@ -4267,15 +4285,6 @@
   },
   {
     "name": "BURGER KING",
-    "address": "28 CHOA CHU KANG DRIVE #01-01 SAFRA 689964",
-    "type": "Restaurant",
-    "number": "EERT20230000841",
-    "scheme": "Eating Establishment",
-    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
-    "postal": "689964"
-  },
-  {
-    "name": "BURGER KING",
     "address": "1 JELEBU ROAD #01-28/29 BUKIT PANJANG PLAZA 677743",
     "type": "Restaurant",
     "number": "EERN20030011313",
@@ -4579,6 +4588,15 @@
     "scheme": "Eating Establishment",
     "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
     "postal": "049407"
+  },
+  {
+    "name": "BURGER KING",
+    "address": "28 CHOA CHU KANG DRIVE #01-01 SAFRA 689964",
+    "type": "Restaurant",
+    "number": "EERT20230000841",
+    "scheme": "Eating Establishment",
+    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+    "postal": "689964"
   },
   {
     "name": "Butcher Kitchen @ Hotel Jen Singapore Tanglin by Shangri-La",
@@ -6769,6 +6787,15 @@
   },
   {
     "name": "CRAVE",
+    "address": "5 STRAITS VIEW (Part Of - Left) #B2-47 THE HEART 018935",
+    "type": "Restaurant",
+    "number": "EERT26100000005",
+    "scheme": "Eating Establishment",
+    "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
+    "postal": "018935"
+  },
+  {
+    "name": "CRAVE",
     "address": "1 JOO KOON CIRCLE #02-24 FAIRPRICE HUB 629117",
     "type": "Restaurant",
     "number": "EERN21050012358",
@@ -8182,15 +8209,6 @@
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
-    "address": "918 EAST COAST ROAD 918 459111",
-    "type": "Restaurant",
-    "number": "EERN21060012529",
-    "scheme": "Eating Establishment",
-    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
-    "postal": "459111"
-  },
-  {
-    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
     "address": "1 HILLVIEW RISE #01-03 667970",
     "type": "Restaurant",
     "number": "EERN21060012528",
@@ -8350,6 +8368,15 @@
     "scheme": "Eating Establishment",
     "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
     "postal": "820322"
+  },
+  {
+    "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
+    "address": "918 EAST COAST ROAD 918 459111",
+    "type": "Restaurant",
+    "number": "EERN21060012529",
+    "scheme": "Eating Establishment",
+    "id": "ab0aa252-0db8-47bc-aaf9-8af49544ceec",
+    "postal": "459111"
   },
   {
     "name": "DOMINO'S PIZZA SINGAPORE PTE. LTD.",
@@ -8899,6 +8926,15 @@
     "scheme": "Eating Establishment",
     "id": "d54efa73-ca47-4771-ad30-b27fc4dae026",
     "postal": "538766"
+  },
+  {
+    "name": "DRINK STALL",
+    "address": "2 JOO CHIAT ROAD Stall 1 #01-1127 Chew N Chat Food Court (Joo Chiat Complex) 420002",
+    "type": "Hawker",
+    "number": "EEHK20250000840",
+    "scheme": "Eating Establishment",
+    "id": "6b1f4f6a-dd44-4734-8dd4-0034c275e6a3",
+    "postal": "420002"
   },
   {
     "name": "Drinks",
@@ -10674,15 +10710,6 @@
     "postal": "199593"
   },
   {
-    "name": "FRUIT PARADISE",
-    "address": "1 HARBOURFRONT WALK #01-59 VIVOCITY 098585",
-    "type": "Restaurant",
-    "number": "EERT20250000375",
-    "scheme": "Eating Establishment",
-    "id": "30abd843-2c8a-42c5-aa10-e511ec3644ba",
-    "postal": "098585"
-  },
-  {
     "name": "FU-MEN",
     "address": "16 RAFFLES QUAY #B1-17/18 HONG LEONG BUILDING 048581",
     "type": "Restaurant",
@@ -11890,15 +11917,6 @@
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
-    "address": "681 PUNGGOL DRIVE #B1-01 820681",
-    "type": "Halal Section",
-    "number": "EEHS20230000838",
-    "scheme": "Eating Establishment",
-    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
-    "postal": "820681"
-  },
-  {
-    "name": "Halal Section @ NTUC FAIRPRICE",
     "address": "80 MARINE PARADE ROAD #03-28 PARKWAY PARADE 449269",
     "type": "Central Kitchen",
     "number": "FPCN21050001520",
@@ -11950,6 +11968,15 @@
     "scheme": "Food Preparation Area",
     "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
     "postal": "829857"
+  },
+  {
+    "name": "Halal Section @ NTUC FAIRPRICE",
+    "address": "681 PUNGGOL DRIVE #B1-01 820681",
+    "type": "Halal Section",
+    "number": "EEHS20230000838",
+    "scheme": "Eating Establishment",
+    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
+    "postal": "820681"
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
@@ -17604,6 +17631,15 @@
     "postal": "819663"
   },
   {
+    "name": "Mala Wok",
+    "address": "348 YISHUN AVENUE 11 #01-04 ADORA GREEN, MR3, Rasa Rasa @ Yishun 760348",
+    "type": "Hawker",
+    "number": "EEHK26100000029",
+    "scheme": "Eating Establishment",
+    "id": "4506a46c-fe2b-452c-9ded-a089e1f6ad87",
+    "postal": "760348"
+  },
+  {
     "name": "Mala Wok (S11) @ One Two Eat Bedok Heartbeat",
     "address": "11 BEDOK NORTH STREET 1 #01-28/29 HEARTBEAT @ BEDOK, Stall 11 469662",
     "type": "Hawker",
@@ -22887,6 +22923,15 @@
     "postal": "486350"
   },
   {
+    "name": "Pangi Nut Western Peranakan Inspired",
+    "address": "2 JOO CHIAT ROAD MR1 #01-11127 (Chew N Chat Food Court) Joo Chiat Complex 420002",
+    "type": "Hawker",
+    "number": "EEHK20250000798",
+    "scheme": "Eating Establishment",
+    "id": "54a399d8-0467-40fc-86d2-4bbf449a33f2",
+    "postal": "420002"
+  },
+  {
     "name": "Papa Ayam",
     "address": "10 PAYA LEBAR ROAD #B2-K3 PLQ MALL 409057",
     "type": "Restaurant",
@@ -25729,6 +25774,15 @@
     "scheme": "Eating Establishment",
     "id": "2ab111a5-e93b-4019-9716-e83eb434af54",
     "postal": "569539"
+  },
+  {
+    "name": "Rasa Sayang Chicken Rice (S4) @ FoodHub Clementi",
+    "address": "449 CLEMENTI AVENUE 3 #01-211, stall 4 120449",
+    "type": "Hawker",
+    "number": "EEHK20240000816",
+    "scheme": "Eating Establishment",
+    "id": "9b0d7a6e-8ea5-4d38-93e7-11aa24656d18",
+    "postal": "120449"
   },
   {
     "name": "Rasa Sayang Rasa Sayang",
@@ -34108,24 +34162,6 @@
     "scheme": "Eating Establishment",
     "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
     "postal": "098585"
-  },
-  {
-    "name": "Tim Hortons",
-    "address": "23 SERANGOON CENTRAL #01-10 NEX 556083",
-    "type": "Restaurant",
-    "number": "EERT26020000002",
-    "scheme": "Eating Establishment",
-    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-    "postal": "556083"
-  },
-  {
-    "name": "Tim Hortons",
-    "address": "3 TEMASEK BOULEVARD #01-314 SUNTEC CITY MALL 038983",
-    "type": "Restaurant",
-    "number": "EERT26020000003",
-    "scheme": "Eating Establishment",
-    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-    "postal": "038983"
   },
   {
     "name": "Tim Hortons",
