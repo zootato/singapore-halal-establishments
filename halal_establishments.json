@@ -21078,6 +21078,24 @@
     "postal": "730676"
   },
   {
+    "name": "My Nasi Ayam",
+    "address": "108 ANG MO KIO AVENUE 4 Stall 7 #01-74 KEBUN BARU HEIGHTS (KEDAI KOPI) 560108",
+    "type": "Hawker",
+    "number": "EEHK20250000710",
+    "scheme": "Eating Establishment",
+    "id": "97136e58-b08c-46b7-bfb1-e4a688331ce1",
+    "postal": "560108"
+  },
+  {
+    "name": "My Nasi Ayam",
+    "address": "1 BEDOK ROAD Stall 22 #01-22 BEDOK FOOD CENTRE 469572",
+    "type": "Hawker",
+    "number": "EEHK20250000709",
+    "scheme": "Eating Establishment",
+    "id": "97136e58-b08c-46b7-bfb1-e4a688331ce1",
+    "postal": "469572"
+  },
+  {
     "name": "MY SAAP SAAP THAI",
     "address": "17 WOODLANDS DRIVE 17 #B2-02/03/04 737628",
     "type": "Restaurant",
@@ -27766,6 +27784,15 @@
   },
   {
     "name": "SHIOK BURGER",
+    "address": "17 PETIR ROAD #01-01 BUKIT PANJANG INTEGRATED TRANSPORT HUB 678278",
+    "type": "Restaurant",
+    "number": "EERT26100000022",
+    "scheme": "Eating Establishment",
+    "id": "08478e80-bba9-41b4-8404-144f2ec85bb8",
+    "postal": "678278"
+  },
+  {
+    "name": "SHIOK BURGER",
     "address": "252 NORTH BRIDGE ROAD #B1-79 RAFFLES CITY SHOPPING CENTRE 179103",
     "type": "Restaurant",
     "number": "EERT20240000394",
@@ -32553,6 +32580,15 @@
     "postal": "513527"
   },
   {
+    "name": "TFF ENTERPRISE F&B PTE. LTD.",
+    "address": "109 DEFU LANE 10 #04-02 DEFU INDUSTRIAL ESTATE 539225",
+    "type": "Central Kitchen",
+    "number": "FPCK26100000025",
+    "scheme": "Food Preparation Area",
+    "id": "961290d2-ac10-42a7-8aaa-bea36fa67aba",
+    "postal": "539225"
+  },
+  {
     "name": "THAI MAKAN",
     "address": "456 JURONG WEST STREET 41 Mr Teh Tarik Eating House (Stall 4) #01-750 640456",
     "type": "Hawker",
@@ -34153,15 +34189,6 @@
     "scheme": "Food Preparation Area",
     "id": "862ce995-33f0-4ef6-81bf-ed12cbb00839",
     "postal": "534106"
-  },
-  {
-    "name": "Tim Hortons",
-    "address": "1 HARBOURFRONT WALK #01-207 VIVOCITY 098585",
-    "type": "Restaurant",
-    "number": "EERT26020000001",
-    "scheme": "Eating Establishment",
-    "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-    "postal": "098585"
   },
   {
     "name": "Tim Hortons",
