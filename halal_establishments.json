@@ -3006,6 +3006,15 @@
     "postal": "648886"
   },
   {
+    "name": "Ban Mian & Fish Soup",
+    "address": "21 TAMPINES AVENUE 1 #02-01 TEMASEK POLYTECHNIC, STALL 1, Short Circuit 529757",
+    "type": "Hawker",
+    "number": "EEHK26100000006",
+    "scheme": "Eating Establishment",
+    "id": "147f1327-89ca-4b3d-ac89-91ba4e316751",
+    "postal": "529757"
+  },
+  {
     "name": "Ban Mian & Fish Soup (S2) @ Fork & Spoon Toa Payoh",
     "address": "470 LORONG 6 TOA PAYOH #02-70 HDB HUB, Stall 2 310470",
     "type": "Hawker",
@@ -4276,15 +4285,6 @@
   },
   {
     "name": "BURGER KING",
-    "address": "65 AIRPORT BOULEVARD #03-AF11 CHANGI AIRPORT TERMINAL 3 819663",
-    "type": "Restaurant",
-    "number": "EERN20030011308",
-    "scheme": "Eating Establishment",
-    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
-    "postal": "819663"
-  },
-  {
-    "name": "BURGER KING",
     "address": "1 JELEBU ROAD #01-28/29 BUKIT PANJANG PLAZA 677743",
     "type": "Restaurant",
     "number": "EERN20030011313",
@@ -4339,6 +4339,15 @@
   },
   {
     "name": "BURGER KING",
+    "address": "65 AIRPORT BOULEVARD #03-AF11 CHANGI AIRPORT TERMINAL 3 819663",
+    "type": "Restaurant",
+    "number": "EERN20030011308",
+    "scheme": "Eating Establishment",
+    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+    "postal": "819663"
+  },
+  {
+    "name": "BURGER KING",
     "address": "3 Northpoint Drive #01-03 768020",
     "type": "Restaurant",
     "number": "EERN20040011362",
@@ -4348,21 +4357,21 @@
   },
   {
     "name": "BURGER KING",
-    "address": "12 ALEXANDRA VIEW #01-05/06/07 ARTRA 158736",
-    "type": "Restaurant",
-    "number": "EERN20100011900",
-    "scheme": "Eating Establishment",
-    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
-    "postal": "158736"
-  },
-  {
-    "name": "BURGER KING",
     "address": "83 PUNGGOL CENTRAL #01-26 WATERWAY POINT 828761",
     "type": "Restaurant",
     "number": "EERN20100011873",
     "scheme": "Eating Establishment",
     "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
     "postal": "828761"
+  },
+  {
+    "name": "BURGER KING",
+    "address": "12 ALEXANDRA VIEW #01-05/06/07 ARTRA 158736",
+    "type": "Restaurant",
+    "number": "EERN20100011900",
+    "scheme": "Eating Establishment",
+    "id": "53dc2ded-a8a9-4214-bb2b-10df81fda8c5",
+    "postal": "158736"
   },
   {
     "name": "BURGER KING",
@@ -13561,6 +13570,15 @@
     "scheme": "Food Preparation Area",
     "id": "677a7144-e76d-4723-bbda-a56962e1d5ce",
     "postal": "757437"
+  },
+  {
+    "name": "INDOCREATION FOODS PTE LTD",
+    "address": "2 MANDAI LINK #04-06 728664",
+    "type": "Central Kitchen",
+    "number": "FPCK20250000315",
+    "scheme": "Food Preparation Area",
+    "id": "888d6463-c4ef-43f5-84ab-8f4ab0ae75ed",
+    "postal": "728664"
   },
   {
     "name": "Indonesian (S15) @  Food Club Ngee Ann Polytechnic",
@@ -22951,6 +22969,15 @@
   },
   {
     "name": "Papa Ayam",
+    "address": "180 KITCHENER ROAD #B1-26 CITY SQUARE MALL 208539",
+    "type": "Restaurant",
+    "number": "EERT26090000005",
+    "scheme": "Eating Establishment",
+    "id": "a9ca514c-19f9-481a-9c04-c59531b847e7",
+    "postal": "208539"
+  },
+  {
+    "name": "Papa Ayam",
     "address": "10 PAYA LEBAR ROAD #B2-K3 PLQ MALL 409057",
     "type": "Restaurant",
     "number": "EERT26090000004",
@@ -24058,15 +24085,6 @@
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
-    "address": "306 WOODLANDS STREET 31 #01-17 FUCHUN NEIGHBOURHOOD CENTRE 730306",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000703",
-    "scheme": "Eating Establishment",
-    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
-    "postal": "730306"
-  },
-  {
-    "name": "PIZZA HUT SINGAPORE PTE LTD",
     "address": "66 JALAN MALU-MALU SEMBAWANG SPRINGS ESTATE 769681",
     "type": "Snack Bar / Bakery",
     "number": "EESB20250000704",
@@ -24082,6 +24100,15 @@
     "scheme": "Eating Establishment",
     "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
     "postal": "545078"
+  },
+  {
+    "name": "PIZZA HUT SINGAPORE PTE LTD",
+    "address": "306 WOODLANDS STREET 31 #01-17 FUCHUN NEIGHBOURHOOD CENTRE 730306",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000703",
+    "scheme": "Eating Establishment",
+    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
+    "postal": "730306"
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
@@ -30859,15 +30886,6 @@
     "scheme": "Eating Establishment",
     "id": "91835bbb-99ee-42bf-93e0-00d0c30d65fd",
     "postal": "510734"
-  },
-  {
-    "name": "Sushi Sedap",
-    "address": "4 Tampines central 5 #B1-12 tampines mall 529510",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB26040000038",
-    "scheme": "Eating Establishment",
-    "id": "91835bbb-99ee-42bf-93e0-00d0c30d65fd",
-    "postal": "529510"
   },
   {
     "name": "Sutha's Cafe",
