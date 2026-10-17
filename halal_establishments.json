@@ -6247,6 +6247,15 @@
   },
   {
     "name": "Cik Lim Yong Tau Foo",
+    "address": "5 HOSPITAL DRIVE Stall 4 at Bagus #02-01 NATIONAL HEART CENTRE SINGAPORE 169609",
+    "type": "Hawker",
+    "number": "EEHK26100000069",
+    "scheme": "Eating Establishment",
+    "id": "f2258e45-ee4d-4357-bf07-19b9981b606f",
+    "postal": "169609"
+  },
+  {
+    "name": "Cik Lim Yong Tau Foo",
     "address": "5 LOWER KENT RIDGE ROAD #01-01 NATIONAL UNIVERSITY HOSPITAL, Stall 7 Kopitiam 119074",
     "type": "Hawker",
     "number": "EEHK26070000012",
@@ -9317,6 +9326,15 @@
   {
     "name": "Eat Talk",
     "address": "22 LENGKOK BAHRU #01-01 159824",
+    "type": "Restaurant",
+    "number": "EERT26100000046",
+    "scheme": "Eating Establishment",
+    "id": "10536a10-d7d4-4bc0-9e09-88f8fb82b413",
+    "postal": "159824"
+  },
+  {
+    "name": "Eat Talk",
+    "address": "22 LENGKOK BAHRU #01-01 159824",
     "type": "Catering Company",
     "number": "FPCA26100000047",
     "scheme": "Food Preparation Area",
@@ -9648,6 +9666,15 @@
     "postal": "218374"
   },
   {
+    "name": "Encik Jiang Chicken Rice (S7)@Orchis T1 Canteen",
+    "address": "80 AIRPORT BOULEVARD #Upper Basement CHANGI AIRPORT TERMINAL 1, Stall 7 819642",
+    "type": "Hawker",
+    "number": "EEHN22020013166",
+    "scheme": "Eating Establishment",
+    "id": "0128de16-3d4d-4104-83c6-11282a675d07",
+    "postal": "819642"
+  },
+  {
     "name": "Encik Tan",
     "address": "930 YISHUN AVENUE 2 #01-07 NORTHPOINT 769098",
     "type": "Restaurant",
@@ -9766,21 +9793,21 @@
   },
   {
     "name": "Encik Tan",
-    "address": "60 AIRPORT BOULEVARD #02-K8 CHANGI AIRPORT TERMINAL 2 819643",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000514",
-    "scheme": "Eating Establishment",
-    "id": "008ded89-78a7-4d68-8a1e-8fdc67f56423",
-    "postal": "819643"
-  },
-  {
-    "name": "Encik Tan",
     "address": "1 BUKIT BATOK CENTRAL LINK #01-01/36 WEST MALL 658713",
     "type": "Restaurant",
     "number": "EERN22010013409",
     "scheme": "Eating Establishment",
     "id": "008ded89-78a7-4d68-8a1e-8fdc67f56423",
     "postal": "658713"
+  },
+  {
+    "name": "Encik Tan",
+    "address": "60 AIRPORT BOULEVARD #02-K8 CHANGI AIRPORT TERMINAL 2 819643",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000514",
+    "scheme": "Eating Establishment",
+    "id": "008ded89-78a7-4d68-8a1e-8fdc67f56423",
+    "postal": "819643"
   },
   {
     "name": "Encik Tan",
@@ -11133,6 +11160,15 @@
     "postal": "528891"
   },
   {
+    "name": "GEM BY THE SEA",
+    "address": "43 ADMIRALTY ROAD WEST #01-10 SAF YACHT CLUB 759962",
+    "type": "Catering Company",
+    "number": "FPCA26100000055",
+    "scheme": "Food Preparation Area",
+    "id": "c7dcda20-dc39-43bc-a4a8-d4a3186c1fe4",
+    "postal": "759962"
+  },
+  {
     "name": "GENTLE DINING PTE. LTD.",
     "address": "8A ADMIRALTY STREET #07-12/13 FOOD XCHANGE @ ADMIRALTY 757437",
     "type": "Catering Company",
@@ -11863,15 +11899,6 @@
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
-    "address": "633 TAMPINES NORTH DRIVE 2 #01-01 520633",
-    "type": "Central Kitchen",
-    "number": "FPCK20240001228",
-    "scheme": "Food Preparation Area",
-    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
-    "postal": "520633"
-  },
-  {
-    "name": "Halal Section @ NTUC FAIRPRICE",
     "address": "131 KILLINEY ROAD #01-01/02 Orchard Grand Court 239571",
     "type": "Central Kitchen",
     "number": "FPCK20240000665",
@@ -12103,6 +12130,15 @@
     "scheme": "Food Preparation Area",
     "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
     "postal": "540339"
+  },
+  {
+    "name": "Halal Section @ NTUC FAIRPRICE",
+    "address": "633 TAMPINES NORTH DRIVE 2 #01-01 520633",
+    "type": "Central Kitchen",
+    "number": "FPCK20240001228",
+    "scheme": "Food Preparation Area",
+    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
+    "postal": "520633"
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
@@ -16317,6 +16353,33 @@
     "postal": "520820"
   },
   {
+    "name": "Krispi Chinese Roti . Dumpling",
+    "address": "1 NORTHPOINT DRIVE #02-101, #02-102, #02-103 NORTHPOINT CITY, Stall 11, Bagus Food Hall by Kopitiam 768019",
+    "type": "Hawker",
+    "number": "EEHK26100000054",
+    "scheme": "Eating Establishment",
+    "id": "c910d6d7-c44e-42cb-825a-40a460ae2fa7",
+    "postal": "768019"
+  },
+  {
+    "name": "Krispi Chinese Roti . Dumpling",
+    "address": "60 PAYA LEBAR ROAD Stall 12, Bagus #B1-51 PAYA LEBAR SQUARE 409051",
+    "type": "Hawker",
+    "number": "EEHK26100000052",
+    "scheme": "Eating Establishment",
+    "id": "f5cb390b-6f6b-49d4-8e23-e687148e46af",
+    "postal": "409051"
+  },
+  {
+    "name": "Krispi Chinese Roti . Dumpling",
+    "address": "7 PASIR RIS CENTRAL Mr1, Bagus #B2-17 PASIR RIS MALL 519612",
+    "type": "Hawker",
+    "number": "EEHK26100000053",
+    "scheme": "Eating Establishment",
+    "id": "f5cb390b-6f6b-49d4-8e23-e687148e46af",
+    "postal": "519612"
+  },
+  {
     "name": "Krispy Kreme",
     "address": "3155 Commonwealth Ave West #B1-K24 The Clementi Mall 129588",
     "type": "Snack Bar / Bakery",
@@ -16333,15 +16396,6 @@
     "scheme": "Eating Establishment",
     "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
     "postal": "486038"
-  },
-  {
-    "name": "Krispy Kreme Doughnuts",
-    "address": "230 Pandan Loop #04-01 Lim Chee Guan Food Industries Building 128415",
-    "type": "Central Kitchen",
-    "number": "FPCN21100001601",
-    "scheme": "Food Preparation Area",
-    "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
-    "postal": "128415"
   },
   {
     "name": "Krispy Kreme Doughnuts",
@@ -16468,6 +16522,15 @@
     "scheme": "Eating Establishment",
     "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
     "postal": "819666"
+  },
+  {
+    "name": "Krispy Kreme Doughnuts",
+    "address": "230 Pandan Loop #04-01 Lim Chee Guan Food Industries Building 128415",
+    "type": "Central Kitchen",
+    "number": "FPCN21100001601",
+    "scheme": "Food Preparation Area",
+    "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
+    "postal": "128415"
   },
   {
     "name": "KRYSTON F&B PTE. LTD.",
@@ -18160,6 +18223,15 @@
     "scheme": "Eating Establishment",
     "id": "bb0152c4-b2ae-4381-9311-f214bb6da6a6",
     "postal": "069111"
+  },
+  {
+    "name": "Manna Grill",
+    "address": "463 SEMBAWANG DRIVE #01-01 SEMBAWANG RIVERLODGE, 463 BGAIN Eating House, STALL 11 750463",
+    "type": "Hawker",
+    "number": "EEHK26100000057",
+    "scheme": "Eating Establishment",
+    "id": "6259448b-552c-4f0e-92eb-619a0d06a621",
+    "postal": "750463"
   },
   {
     "name": "Manna Grill Pasta Burger Pizza",
@@ -20143,15 +20215,6 @@
   },
   {
     "name": "MR BEAN",
-    "address": "10 SINARAN DRIVE #01-21 SQUARE 2 307506",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20220000206",
-    "scheme": "Eating Establishment",
-    "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
-    "postal": "307506"
-  },
-  {
-    "name": "MR BEAN",
     "address": "1 FUSIONOPOLIS WAY #01-06 CONNEXIS 138632",
     "type": "Restaurant",
     "number": "EERT20220000174",
@@ -20230,15 +20293,6 @@
     "scheme": "Eating Establishment",
     "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
     "postal": "538766"
-  },
-  {
-    "name": "MR BEAN",
-    "address": "205 HOUGANG STREET 21 #01-07 HEARTLAND MALL- KOVAN 530205",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20220000180",
-    "scheme": "Eating Establishment",
-    "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
-    "postal": "530205"
   },
   {
     "name": "MR BEAN",
@@ -24841,15 +24895,6 @@
   },
   {
     "name": "POLAR PUFFS & CAKES",
-    "address": "820 THOMSON ROAD #01-31B MOUNT ALVERNIA HOSPITAL 574623",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN20060011283",
-    "scheme": "Eating Establishment",
-    "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
-    "postal": "574623"
-  },
-  {
-    "name": "POLAR PUFFS & CAKES",
     "address": "1 SENGKANG SQUARE #01-26 COMPASS ONE 545078",
     "type": "Snack Bar / Bakery",
     "number": "EEBN20040010692",
@@ -24973,6 +25018,15 @@
     "scheme": "Eating Establishment",
     "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
     "postal": "608549"
+  },
+  {
+    "name": "POLAR PUFFS & CAKES",
+    "address": "820 THOMSON ROAD #01-31B MOUNT ALVERNIA HOSPITAL 574623",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN20060011283",
+    "scheme": "Eating Establishment",
+    "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+    "postal": "574623"
   },
   {
     "name": "POLAR PUFFS & CAKES",
@@ -25981,15 +26035,6 @@
     "scheme": "Eating Establishment",
     "id": "144d8588-ddbe-44d4-8c33-f0ff4218b8c5",
     "postal": "819663"
-  },
-  {
-    "name": "Rasel Catering Singapore Pte Ltd",
-    "address": "253 PANDAN LOOP 128432",
-    "type": "Catering Company",
-    "number": "FPGN21020001494",
-    "scheme": "Food Preparation Area",
-    "id": "ccbcda18-63ed-43d5-af63-b6e1d7d1fe78",
-    "postal": "128432"
   },
   {
     "name": "ReadyMeals@Sheng Siong ITE College Central",
@@ -35407,6 +35452,15 @@
   },
   {
     "name": "Western",
+    "address": "21 LOWER KENT RIDGE ROAD #01 FACULTY OF SCIENCE, STALL 12 FRONTIER CANTEEN 119077",
+    "type": "Hawker",
+    "number": "EEHK26100000065",
+    "scheme": "Eating Establishment",
+    "id": "96b022a7-7ae9-4fc9-8d4f-1a38cde68eb6",
+    "postal": "119077"
+  },
+  {
+    "name": "Western",
     "address": "BLK 73 535 CLEMENTI ROAD #01-01 NGEE ANN POLYTECHNIC, Canteen 1 599489",
     "type": "Hawker",
     "number": "EEHK25100000048",
@@ -36547,6 +36601,15 @@
     "scheme": "Eating Establishment",
     "id": "06739909-6db9-4b99-b230-f3cf4a72e8e1",
     "postal": "689812"
+  },
+  {
+    "name": "Yong Tau Foo",
+    "address": "30 HOSPITAL BOULEVARD MR5 @ Foodgle Hub #02-06 NATIONAL CANCER CENTRE SINGAPORE 168583",
+    "type": "Hawker",
+    "number": "EEHK26100000070",
+    "scheme": "Eating Establishment",
+    "id": "ef872241-9455-4bed-a433-bbcd3eb9d63a",
+    "postal": "168583"
   },
   {
     "name": "Yong Tau Foo (S1)@Kopitiam MBFC",

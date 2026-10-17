@@ -1,5 +1,138 @@
 [
   {
+    "timestamp": "2026-10-17T00:23:04.462308",
+    "date": "2026-10-17",
+    "summary": {
+      "new": 10,
+      "removed": 3,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Krispi Chinese Roti . Dumpling",
+          "address": "1 NORTHPOINT DRIVE #02-101, #02-102, #02-103 NORTHPOINT CITY, Stall 11, Bagus Food Hall by Kopitiam 768019",
+          "type": "Hawker",
+          "number": "EEHK26100000054",
+          "scheme": "Eating Establishment",
+          "id": "c910d6d7-c44e-42cb-825a-40a460ae2fa7",
+          "postal": "768019"
+        },
+        {
+          "name": "Manna Grill",
+          "address": "463 SEMBAWANG DRIVE #01-01 SEMBAWANG RIVERLODGE, 463 BGAIN Eating House, STALL 11 750463",
+          "type": "Hawker",
+          "number": "EEHK26100000057",
+          "scheme": "Eating Establishment",
+          "id": "6259448b-552c-4f0e-92eb-619a0d06a621",
+          "postal": "750463"
+        },
+        {
+          "name": "Eat Talk",
+          "address": "22 LENGKOK BAHRU #01-01 159824",
+          "type": "Restaurant",
+          "number": "EERT26100000046",
+          "scheme": "Eating Establishment",
+          "id": "10536a10-d7d4-4bc0-9e09-88f8fb82b413",
+          "postal": "159824"
+        },
+        {
+          "name": "Encik Jiang Chicken Rice (S7)@Orchis T1 Canteen",
+          "address": "80 AIRPORT BOULEVARD #Upper Basement CHANGI AIRPORT TERMINAL 1, Stall 7 819642",
+          "type": "Hawker",
+          "number": "EEHN22020013166",
+          "scheme": "Eating Establishment",
+          "id": "0128de16-3d4d-4104-83c6-11282a675d07",
+          "postal": "819642"
+        },
+        {
+          "name": "Krispi Chinese Roti . Dumpling",
+          "address": "60 PAYA LEBAR ROAD Stall 12, Bagus #B1-51 PAYA LEBAR SQUARE 409051",
+          "type": "Hawker",
+          "number": "EEHK26100000052",
+          "scheme": "Eating Establishment",
+          "id": "f5cb390b-6f6b-49d4-8e23-e687148e46af",
+          "postal": "409051"
+        },
+        {
+          "name": "Krispi Chinese Roti . Dumpling",
+          "address": "7 PASIR RIS CENTRAL Mr1, Bagus #B2-17 PASIR RIS MALL 519612",
+          "type": "Hawker",
+          "number": "EEHK26100000053",
+          "scheme": "Eating Establishment",
+          "id": "f5cb390b-6f6b-49d4-8e23-e687148e46af",
+          "postal": "519612"
+        },
+        {
+          "name": "Cik Lim Yong Tau Foo",
+          "address": "5 HOSPITAL DRIVE Stall 4 at Bagus #02-01 NATIONAL HEART CENTRE SINGAPORE 169609",
+          "type": "Hawker",
+          "number": "EEHK26100000069",
+          "scheme": "Eating Establishment",
+          "id": "f2258e45-ee4d-4357-bf07-19b9981b606f",
+          "postal": "169609"
+        },
+        {
+          "name": "Western",
+          "address": "21 LOWER KENT RIDGE ROAD #01 FACULTY OF SCIENCE, STALL 12 FRONTIER CANTEEN 119077",
+          "type": "Hawker",
+          "number": "EEHK26100000065",
+          "scheme": "Eating Establishment",
+          "id": "96b022a7-7ae9-4fc9-8d4f-1a38cde68eb6",
+          "postal": "119077"
+        },
+        {
+          "name": "GEM BY THE SEA",
+          "address": "43 ADMIRALTY ROAD WEST #01-10 SAF YACHT CLUB 759962",
+          "type": "Catering Company",
+          "number": "FPCA26100000055",
+          "scheme": "Food Preparation Area",
+          "id": "c7dcda20-dc39-43bc-a4a8-d4a3186c1fe4",
+          "postal": "759962"
+        },
+        {
+          "name": "Yong Tau Foo",
+          "address": "30 HOSPITAL BOULEVARD MR5 @ Foodgle Hub #02-06 NATIONAL CANCER CENTRE SINGAPORE 168583",
+          "type": "Hawker",
+          "number": "EEHK26100000070",
+          "scheme": "Eating Establishment",
+          "id": "ef872241-9455-4bed-a433-bbcd3eb9d63a",
+          "postal": "168583"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Rasel Catering Singapore Pte Ltd",
+          "address": "253 PANDAN LOOP 128432",
+          "type": "Catering Company",
+          "number": "FPGN21020001494",
+          "scheme": "Food Preparation Area",
+          "id": "ccbcda18-63ed-43d5-af63-b6e1d7d1fe78",
+          "postal": "128432"
+        },
+        {
+          "name": "MR BEAN",
+          "address": "10 SINARAN DRIVE #01-21 SQUARE 2 307506",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000206",
+          "scheme": "Eating Establishment",
+          "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
+          "postal": "307506"
+        },
+        {
+          "name": "MR BEAN",
+          "address": "205 HOUGANG STREET 21 #01-07 HEARTLAND MALL- KOVAN 530205",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000180",
+          "scheme": "Eating Establishment",
+          "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
+          "postal": "530205"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-10-16T00:20:07.215611",
     "date": "2026-10-16",
     "summary": {
@@ -13012,48 +13145,6 @@
           }
         }
       ]
-    }
-  },
-  {
-    "timestamp": "2026-08-16T22:35:10.021093",
-    "date": "2026-08-16",
-    "summary": {
-      "new": 3,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Dou",
-          "address": "2A MANDAI ESTATE #06-07/08 CT FOODNEX 729928",
-          "type": "Central Kitchen",
-          "number": "FPCK26080000087",
-          "scheme": "Food Preparation Area",
-          "id": "3d1c9ed2-5ec2-4ea2-b890-c96fd9387cf7",
-          "postal": "729928"
-        },
-        {
-          "name": "Pondok Nasi Padang",
-          "address": "2 BAYFRONT AVENUE Stall 7 Rasapura MBS #B2-49/53 CRYSTAL PAVILION SOUTH, Stall No 7 Rasapura Marina Bay Sands 018972",
-          "type": "Hawker",
-          "number": "EEHK26080000056",
-          "scheme": "Eating Establishment",
-          "id": "6211a462-145b-489f-93ab-5e4dea1a27e2",
-          "postal": "018972"
-        },
-        {
-          "name": "DHARSHA INDIAN FOOD",
-          "address": "60 AIRPORT BOULEVARD #01-00 CHANGI AIRPORT TERMINAL 2, MR 6 (T2 LEVEL 3M, #0610-ASC) @FOODIE'S CLAN 819643",
-          "type": "Hawker",
-          "number": "EEHK26080000067",
-          "scheme": "Eating Establishment",
-          "id": "5dbc9dbe-8c27-4c59-8be6-b611b2b58da1",
-          "postal": "819643"
-        }
-      ],
-      "removed": [],
-      "updated": []
     }
   }
 ]
