@@ -1143,6 +1143,15 @@
     "postal": "730768"
   },
   {
+    "name": "Ali's Fry & Grill",
+    "address": "505 CANBERRA LINK STALL 07, FU CHAN FOOD PARADISE #01-04 MONTREAL SPRING 750505",
+    "type": "Hawker",
+    "number": "EEHK26100000080",
+    "scheme": "Eating Establishment",
+    "id": "f0ccad4e-f051-4ea3-93bd-9a64a0540e81",
+    "postal": "750505"
+  },
+  {
     "name": "Ali's Fry & Grill (S7)@Koufu Commonwealth",
     "address": "88 TANGLIN HALT ROAD #01-08 COMMONWEALTH VIEW, Stall 7 141088",
     "type": "Hawker",
@@ -1792,21 +1801,21 @@
   },
   {
     "name": "ANNA'S X UNION THESOUPSPOON",
-    "address": "12 KENT RIDGE CRESCENT #01-03 CENTRAL LIBRARY 119275",
-    "type": "Restaurant",
-    "number": "EERT20240000543",
-    "scheme": "Eating Establishment",
-    "id": "5f6d6e58-89ea-408e-bc24-065b966d22ff",
-    "postal": "119275"
-  },
-  {
-    "name": "ANNA'S X UNION THESOUPSPOON",
     "address": "88 PUNGGOL WAY #01-130 PUNGGOL COAST MALL 829913",
     "type": "Restaurant",
     "number": "EERT26020000073",
     "scheme": "Eating Establishment",
     "id": "5f6d6e58-89ea-408e-bc24-065b966d22ff",
     "postal": "829913"
+  },
+  {
+    "name": "ANNA'S X UNION THESOUPSPOON",
+    "address": "12 KENT RIDGE CRESCENT #01-03 CENTRAL LIBRARY 119275",
+    "type": "Restaurant",
+    "number": "EERT20240000543",
+    "scheme": "Eating Establishment",
+    "id": "5f6d6e58-89ea-408e-bc24-065b966d22ff",
+    "postal": "119275"
   },
   {
     "name": "ANNABELLA PATISSERIE",
@@ -12402,6 +12411,15 @@
     "postal": "048618"
   },
   {
+    "name": "Haus Ban Mian",
+    "address": "302 TENGAH PARK AVENUE Stall 04, Gourmet Paradise #02-01/02/03 PARC POINT 690302",
+    "type": "Hawker",
+    "number": "EEHK26100000063",
+    "scheme": "Eating Establishment",
+    "id": "9d3bf5a9-c08a-424b-9637-b6d39a8f7ec8",
+    "postal": "690302"
+  },
+  {
     "name": "Haus Ban Mian & Fish Soup",
     "address": "70 STAMFORD ROAD Stall 04, Koufu #B1-26/27/28 SINGAPORE MANAGEMENT UNIVERSITY (LI KA SHING LIBRARY) 178901",
     "type": "Hawker",
@@ -16390,21 +16408,21 @@
   },
   {
     "name": "Krispy Kreme Doughnuts",
-    "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #01-20 CHANGI CITY POINT 486038",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20240000006",
-    "scheme": "Eating Establishment",
-    "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
-    "postal": "486038"
-  },
-  {
-    "name": "Krispy Kreme Doughnuts",
     "address": "1 SENGKANG SQUARE #01-46 COMPASS ONE 545078",
     "type": "Restaurant",
     "number": "EERT20230000102",
     "scheme": "Eating Establishment",
     "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
     "postal": "545078"
+  },
+  {
+    "name": "Krispy Kreme Doughnuts",
+    "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #01-20 CHANGI CITY POINT 486038",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20240000006",
+    "scheme": "Eating Establishment",
+    "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
+    "postal": "486038"
   },
   {
     "name": "Krispy Kreme Doughnuts",
@@ -23536,6 +23554,15 @@
   },
   {
     "name": "PASTAGO",
+    "address": "311 NEW UPPER CHANGI ROAD #B2-K13 BEDOK INTEGRATED TRANSPORT HUB 467360",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26100000042",
+    "scheme": "Eating Establishment",
+    "id": "5c5afd38-ebd6-422b-babb-46f8944c0e6a",
+    "postal": "467360"
+  },
+  {
+    "name": "PASTAGO",
     "address": "63 JURONG WEST CENTRAL 3 #03-89C BOON LAY BUS INTERCHANGE 648331",
     "type": "Snack Bar / Bakery",
     "number": "EESB26100000014",
@@ -27315,6 +27342,15 @@
     "postal": "760507"
   },
   {
+    "name": "Seabay Delight",
+    "address": "511 CANBERRA ROAD MR7, KOUFU #01-01 SEMBAWANG MART 750511",
+    "type": "Hawker",
+    "number": "EEHK26100000062",
+    "scheme": "Eating Establishment",
+    "id": "8526a516-eb80-40ed-924d-de7f3401db5f",
+    "postal": "750511"
+  },
+  {
     "name": "Seabay Delight Fried Item",
     "address": "1 WOODLANDS SQUARE @ Cantine Causeway Point #07-03, Stall 5 738099",
     "type": "Hawker",
@@ -27394,6 +27430,15 @@
     "scheme": "Eating Establishment",
     "id": "787fa750-3050-4d9d-8210-3f27246f8c48",
     "postal": "238839"
+  },
+  {
+    "name": "Seabay Delight Wok Delight",
+    "address": "302 TENGAH PARK AVENUE Stall 03, Gourmet Paradise #02-01/02/03 PARC POINT 690302",
+    "type": "Hawker",
+    "number": "EEHK26100000061",
+    "scheme": "Eating Establishment",
+    "id": "4d0916a0-8297-448b-9957-fde39e356c77",
+    "postal": "690302"
   },
   {
     "name": "Seabay Delight Wok Delight",
@@ -28780,6 +28825,15 @@
     "scheme": "Food Preparation Area",
     "id": "9c4c7299-b863-451d-bdd0-b95e7d410ad8",
     "postal": "627867"
+  },
+  {
+    "name": "Staff Canteen @ DSV Greenwich (Managed by Catering Corner)",
+    "address": "33 GREENWICH DRIVE #L2M 538836",
+    "type": "Staff Canteen",
+    "number": "EESC26100000049",
+    "scheme": "Eating Establishment",
+    "id": "37821c35-e8fe-4ba5-aa32-1c653eace0a9",
+    "postal": "538836"
   },
   {
     "name": "Staff Canteen @ Fortis Construction - Site Office (Mngd by Sodexo)",
@@ -36475,6 +36529,15 @@
     "scheme": "Eating Establishment",
     "id": "7febb99e-79f2-45a1-9f1b-a2fe974e405a",
     "postal": "609601"
+  },
+  {
+    "name": "Yaya Bakery",
+    "address": "741 BEDOK RESERVOIR ROAD #01-3067 RESERVOIR VILLAGE 470741",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000860",
+    "scheme": "Eating Establishment",
+    "id": "afdf3d47-0667-4719-b5d3-4398c4ee4a02",
+    "postal": "470741"
   },
   {
     "name": "YB Fried Bee Hoon",

@@ -1,5 +1,83 @@
 [
   {
+    "timestamp": "2026-10-20T01:08:52.843323",
+    "date": "2026-10-20",
+    "summary": {
+      "new": 7,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Haus Ban Mian",
+          "address": "302 TENGAH PARK AVENUE Stall 04, Gourmet Paradise #02-01/02/03 PARC POINT 690302",
+          "type": "Hawker",
+          "number": "EEHK26100000063",
+          "scheme": "Eating Establishment",
+          "id": "9d3bf5a9-c08a-424b-9637-b6d39a8f7ec8",
+          "postal": "690302"
+        },
+        {
+          "name": "Yaya Bakery",
+          "address": "741 BEDOK RESERVOIR ROAD #01-3067 RESERVOIR VILLAGE 470741",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000860",
+          "scheme": "Eating Establishment",
+          "id": "afdf3d47-0667-4719-b5d3-4398c4ee4a02",
+          "postal": "470741"
+        },
+        {
+          "name": "Seabay Delight Wok Delight",
+          "address": "302 TENGAH PARK AVENUE Stall 03, Gourmet Paradise #02-01/02/03 PARC POINT 690302",
+          "type": "Hawker",
+          "number": "EEHK26100000061",
+          "scheme": "Eating Establishment",
+          "id": "4d0916a0-8297-448b-9957-fde39e356c77",
+          "postal": "690302"
+        },
+        {
+          "name": "PASTAGO",
+          "address": "311 NEW UPPER CHANGI ROAD #B2-K13 BEDOK INTEGRATED TRANSPORT HUB 467360",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26100000042",
+          "scheme": "Eating Establishment",
+          "id": "5c5afd38-ebd6-422b-babb-46f8944c0e6a",
+          "postal": "467360"
+        },
+        {
+          "name": "Staff Canteen @ DSV Greenwich (Managed by Catering Corner)",
+          "address": "33 GREENWICH DRIVE #L2M 538836",
+          "type": "Staff Canteen",
+          "number": "EESC26100000049",
+          "scheme": "Eating Establishment",
+          "id": "37821c35-e8fe-4ba5-aa32-1c653eace0a9",
+          "postal": "538836"
+        },
+        {
+          "name": "Seabay Delight",
+          "address": "511 CANBERRA ROAD MR7, KOUFU #01-01 SEMBAWANG MART 750511",
+          "type": "Hawker",
+          "number": "EEHK26100000062",
+          "scheme": "Eating Establishment",
+          "id": "8526a516-eb80-40ed-924d-de7f3401db5f",
+          "postal": "750511"
+        },
+        {
+          "name": "Ali's Fry & Grill",
+          "address": "505 CANBERRA LINK STALL 07, FU CHAN FOOD PARADISE #01-04 MONTREAL SPRING 750505",
+          "type": "Hawker",
+          "number": "EEHK26100000080",
+          "scheme": "Eating Establishment",
+          "id": "f0ccad4e-f051-4ea3-93bd-9a64a0540e81",
+          "postal": "750505"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-10-17T00:23:04.462308",
     "date": "2026-10-17",
     "summary": {
@@ -13018,133 +13096,6 @@
         }
       ],
       "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-08-17T22:38:22.808269",
-    "date": "2026-08-17",
-    "summary": {
-      "new": 8,
-      "removed": 2,
-      "updated": 1
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "HAPPY BITES",
-          "address": "7 PASIR RIS CENTRAL #01-28 PASIR RIS MALL 519612",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26080000077",
-          "scheme": "Eating Establishment",
-          "id": "87f13817-9f90-45f2-be2d-739b0b4c0836",
-          "postal": "519612"
-        },
-        {
-          "name": "The Arena @ Singapore Sports School (Mngd by Compass Group)",
-          "address": "1 CHAMPIONS WAY #02-50 Singapore Sports School 737913",
-          "type": "Hawker",
-          "number": "EEHX21120013037",
-          "scheme": "Eating Establishment",
-          "id": "ec319ee1-0242-48ef-934d-87f3d6e7e85f",
-          "postal": "737913"
-        },
-        {
-          "name": "HAPPY BITES",
-          "address": "90 HOUGANG AVENUE 10 #B1-08A HOUGANG MALL 538766",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26080000076",
-          "scheme": "Eating Establishment",
-          "id": "87f13817-9f90-45f2-be2d-739b0b4c0836",
-          "postal": "538766"
-        },
-        {
-          "name": "Purple Panda",
-          "address": "51 UPPER SERANGOON ROAD #01-09 THE POIZ CENTRE 347697",
-          "type": "Restaurant",
-          "number": "EERT20240000407",
-          "scheme": "Eating Establishment",
-          "id": "4e1c7033-a0f4-489b-8eaf-889c06c37938",
-          "postal": "347697"
-        },
-        {
-          "name": "Mini Wok (MR3)@Fork & Spoon Woodlands Mart",
-          "address": "768 WOODLANDS AVENUE 6 #01-30/32 WOODLANDS MART, MR 3 730768",
-          "type": "Hawker",
-          "number": "EEHK20230000142",
-          "scheme": "Eating Establishment",
-          "id": "a7f08960-5f86-4468-9e07-363ac2594388",
-          "postal": "730768"
-        },
-        {
-          "name": "Korean & Japanese Cuisine (S8) @ Fork & Spoon Woodlands Mart",
-          "address": "768 WOODLANDS AVENUE 6 #01-30/32 WOODLANDS MART, Stall 8 730768",
-          "type": "Hawker",
-          "number": "EEHN22010013070",
-          "scheme": "Eating Establishment",
-          "id": "314ec35b-5088-439f-a8f4-b0447e2d238a",
-          "postal": "730768"
-        },
-        {
-          "name": "HAPPY BITES",
-          "address": "70 COMPASSVALE BOW #B1-04 SENGKANG GRAND MALL 544692",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26080000078",
-          "scheme": "Eating Establishment",
-          "id": "87f13817-9f90-45f2-be2d-739b0b4c0836",
-          "postal": "544692"
-        },
-        {
-          "name": "Miniwok (MR1) @ Fork & Spoon Toa Payoh",
-          "address": "470 LORONG 6 TOA PAYOH #02-70 HDB HUB, MR1, FORK & SPOON 310470",
-          "type": "Hawker",
-          "number": "EEHN21120013033",
-          "scheme": "Eating Establishment",
-          "id": "220b6b64-d41c-4338-bc4d-4d67216bb71d",
-          "postal": "310470"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Tim Hortons",
-          "address": "50 JURONG GATEWAY ROAD #01-47 JEM 608549",
-          "type": "Restaurant",
-          "number": "EERT26020000006",
-          "scheme": "Eating Establishment",
-          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-          "postal": "608549"
-        },
-        {
-          "name": "Padang Lezat",
-          "address": "78 AIRPORT BOULEVARD Food Republic - Stall 12 #B2-240 JEWEL CHANGI AIRPORT #B2-238, #B2-239 819666",
-          "type": "Hawker",
-          "number": "EEHK26010000135",
-          "scheme": "Eating Establishment",
-          "id": "e4f29781-2410-48b8-b295-a3ec24b58ac2",
-          "postal": "819666"
-        }
-      ],
-      "updated": [
-        {
-          "previous": {
-            "name": "KAFFE & TOAST",
-            "address": "1 HOSPITAL DRIVE SINGAPORE GENERAL HOSPITAL,BLOCK 4, LEVEL 1 169608",
-            "type": "Restaurant",
-            "number": "EERN21070012681",
-            "scheme": "Eating Establishment",
-            "id": "bf19dd23-8f34-4621-88b5-aacf84905fe9",
-            "postal": "169608"
-          },
-          "current": {
-            "name": "KAFFE & TOAST",
-            "address": "1 HOSPITAL DRIVE SINGAPORE GENERAL HOSPITAL, BLOCK 4, LEVEL 1 169608",
-            "type": "Restaurant",
-            "number": "EERN21070012681",
-            "scheme": "Eating Establishment",
-            "id": "bf19dd23-8f34-4621-88b5-aacf84905fe9",
-            "postal": "169608"
-          }
-        }
-      ]
     }
   }
 ]
