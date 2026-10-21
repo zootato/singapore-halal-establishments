@@ -4923,6 +4923,15 @@
     "postal": "627879"
   },
   {
+    "name": "Cahaya Restaurant",
+    "address": "14 SCOTTS ROAD #05-69/91/92 FAR EAST PLAZA 228213",
+    "type": "Restaurant",
+    "number": "EERX21080012850",
+    "scheme": "Eating Establishment",
+    "id": "80dc99b6-4cfd-4662-9f1d-badde9041d3c",
+    "postal": "228213"
+  },
+  {
     "name": "Cajun On Wheels",
     "address": "68 ORCHARD ROAD #03-92 PLAZA SINGAPURA 238839",
     "type": "Restaurant",
@@ -5551,6 +5560,15 @@
     "scheme": "Eating Establishment",
     "id": "b9730fd0-b9e2-480f-977b-9ec0c0b6884c",
     "postal": "188024"
+  },
+  {
+    "name": "Chewy Junior",
+    "address": "1 Woodlands Square #B1-K25 Causeway Point 738099",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26100000114",
+    "scheme": "Eating Establishment",
+    "id": "39377fac-d9ad-43a0-bac2-95cafbac3d7d",
+    "postal": "738099"
   },
   {
     "name": "Chic-A-Boo Chicken Specialty",
@@ -9790,15 +9808,6 @@
     "scheme": "Eating Establishment",
     "id": "008ded89-78a7-4d68-8a1e-8fdc67f56423",
     "postal": "467360"
-  },
-  {
-    "name": "Encik Tan",
-    "address": "1 HARBOURFRONT WALK #B2-45 VIVOCITY 098585",
-    "type": "Restaurant",
-    "number": "EERT25120000006",
-    "scheme": "Eating Establishment",
-    "id": "008ded89-78a7-4d68-8a1e-8fdc67f56423",
-    "postal": "098585"
   },
   {
     "name": "Encik Tan",
@@ -14724,6 +14733,15 @@
     "postal": "629174"
   },
   {
+    "name": "Kandar House Kuah Banjir Nasi Kandar",
+    "address": "676 WOODLANDS DRIVE 71 #02-09 KAMPUNG ADMIRALTY 730676",
+    "type": "Hawker",
+    "number": "EEHK26100000113",
+    "scheme": "Eating Establishment",
+    "id": "d969c583-1597-467a-b9b8-0306b454dcfe",
+    "postal": "730676"
+  },
+  {
     "name": "KAT KITCHEN PTE. LTD.",
     "address": "171 KAMPONG AMPAT #06-11 KA FOODLINK 368330",
     "type": "Catering Company",
@@ -17524,6 +17542,15 @@
   },
   {
     "name": "Makan Queen",
+    "address": "200 BISHAN ROAD #01-07 BISHAN MRT STATION (NS17) 579827",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26100000111",
+    "scheme": "Eating Establishment",
+    "id": "ced68c0b-bf1c-4828-8aae-80483e4ac0d9",
+    "postal": "579827"
+  },
+  {
+    "name": "Makan Queen",
     "address": "31 JURONG WEST STREET 63 #02-02 PIONEER MRT STATION (EW28) 648310",
     "type": "Restaurant",
     "number": "EERT20250000828",
@@ -20224,15 +20251,6 @@
   },
   {
     "name": "MR BEAN",
-    "address": "1 MARITIME SQUARE #01-K4 HARBOURFRONT CENTRE 099253",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20220000177",
-    "scheme": "Eating Establishment",
-    "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
-    "postal": "099253"
-  },
-  {
-    "name": "MR BEAN",
     "address": "1 FUSIONOPOLIS WAY #01-06 CONNEXIS 138632",
     "type": "Restaurant",
     "number": "EERT20220000174",
@@ -20293,6 +20311,15 @@
     "scheme": "Eating Establishment",
     "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
     "postal": "670445"
+  },
+  {
+    "name": "MR BEAN",
+    "address": "1 MARITIME SQUARE #01-K4 HARBOURFRONT CENTRE 099253",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20220000177",
+    "scheme": "Eating Establishment",
+    "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
+    "postal": "099253"
   },
   {
     "name": "MR BEAN",
@@ -21814,6 +21841,15 @@
     "scheme": "Eating Establishment",
     "id": "13eb55a9-625d-4d83-97b6-63a70ae54b3b",
     "postal": "678278"
+  },
+  {
+    "name": "New Pattukottai Kamachi Mess",
+    "address": "1 DICKSON ROAD 209493",
+    "type": "Restaurant",
+    "number": "EERT26100000092",
+    "scheme": "Eating Establishment",
+    "id": "7dd54c41-5136-4818-9e16-0672588a4c06",
+    "postal": "209493"
   },
   {
     "name": "New Rex Restaurant Changi",
@@ -24256,15 +24292,6 @@
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
-    "address": "888 WOODLANDS DRIVE 50 #01-729 888 PLAZA 730888",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000702",
-    "scheme": "Eating Establishment",
-    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
-    "postal": "730888"
-  },
-  {
-    "name": "PIZZA HUT SINGAPORE PTE LTD",
     "address": "66 JALAN MALU-MALU SEMBAWANG SPRINGS ESTATE 769681",
     "type": "Snack Bar / Bakery",
     "number": "EESB20250000704",
@@ -24280,6 +24307,15 @@
     "scheme": "Eating Establishment",
     "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
     "postal": "545078"
+  },
+  {
+    "name": "PIZZA HUT SINGAPORE PTE LTD",
+    "address": "888 WOODLANDS DRIVE 50 #01-729 888 PLAZA 730888",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000702",
+    "scheme": "Eating Establishment",
+    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
+    "postal": "730888"
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
@@ -25570,15 +25606,6 @@
   },
   {
     "name": "PRIMADELI",
-    "address": "1 PASIR RIS CENTRAL STREET 3 #B1-K15 WHITE SANDS 518457",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000751",
-    "scheme": "Eating Establishment",
-    "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
-    "postal": "518457"
-  },
-  {
-    "name": "PRIMADELI",
     "address": "272 BUKIT BATOK EAST AVENUE 4 #01-76 650272",
     "type": "Snack Bar / Bakery",
     "number": "EESB20250000728",
@@ -25702,6 +25729,15 @@
     "scheme": "Eating Establishment",
     "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
     "postal": "677743"
+  },
+  {
+    "name": "PRIMADELI",
+    "address": "1 PASIR RIS CENTRAL STREET 3 #B1-K15 WHITE SANDS 518457",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000751",
+    "scheme": "Eating Establishment",
+    "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+    "postal": "518457"
   },
   {
     "name": "PRIMADELI/SNACKS&BITES/DESSERTS/DRINKS",
@@ -27037,15 +27073,6 @@
   },
   {
     "name": "Sanook Kitchen",
-    "address": "3 SIMEI STREET 6 #01-15 EASTPOINT MALL 528833",
-    "type": "Restaurant",
-    "number": "EERN21040012308",
-    "scheme": "Eating Establishment",
-    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-    "postal": "528833"
-  },
-  {
-    "name": "Sanook Kitchen",
     "address": "6 WOODLANDS SQUARE #B2-08 WOODS SQUARE 737737",
     "type": "Restaurant",
     "number": "EERN21040012304",
@@ -27079,6 +27106,15 @@
     "scheme": "Eating Establishment",
     "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
     "postal": "529536"
+  },
+  {
+    "name": "Sanook Kitchen",
+    "address": "3 SIMEI STREET 6 #01-15 EASTPOINT MALL 528833",
+    "type": "Restaurant",
+    "number": "EERN21040012308",
+    "scheme": "Eating Establishment",
+    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+    "postal": "528833"
   },
   {
     "name": "Sanook Kitchen",
@@ -32968,15 +33004,6 @@
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "80 AIRPORT BOULEVARD #02-66 CHANGI AIRPORT TERMINAL 1 DEPARTURE/TRANSIT LOUNGE EAST 819642",
-    "type": "Restaurant",
-    "number": "EERT20250000513",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "819642"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
     "address": "604 SEMBAWANG ROAD #01-10/11 SEMBAWANG SHOPPING CENTRE 758459",
     "type": "Restaurant",
     "number": "EERN21120013229",
@@ -33577,6 +33604,15 @@
     "scheme": "Eating Establishment",
     "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
     "postal": "690127"
+  },
+  {
+    "name": "THE COFFEE BEAN & TEA LEAF",
+    "address": "80 AIRPORT BOULEVARD #02-66 CHANGI AIRPORT TERMINAL 1 DEPARTURE/TRANSIT LOUNGE EAST 819642",
+    "type": "Restaurant",
+    "number": "EERT20250000513",
+    "scheme": "Eating Establishment",
+    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+    "postal": "819642"
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
@@ -35683,6 +35719,15 @@
     "scheme": "Eating Establishment",
     "id": "a2b6a604-fd5e-440e-aa2c-ea8c383b208f",
     "postal": "698928"
+  },
+  {
+    "name": "Western Kingdom (S4) @ Montfort Junior School",
+    "address": "52 HOUGANG AVENUE 8 MONTFORT JUNIOR SCHOOL, Stall 4 538786",
+    "type": "Canteen",
+    "number": "EESX21080007691",
+    "scheme": "Eating Establishment",
+    "id": "4cb6d198-d8a5-48ae-94f5-afe052cd5a61",
+    "postal": "538786"
   },
   {
     "name": "Western Kitchen (B2) @ Tan Tock Seng Hospital",
