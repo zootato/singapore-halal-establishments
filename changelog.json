@@ -1,5 +1,74 @@
 [
   {
+    "timestamp": "2026-10-22T00:41:25.078379",
+    "date": "2026-10-22",
+    "summary": {
+      "new": 6,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Sampan Delights Local Delights Mini Wok",
+          "address": "548 WOODLANDS DRIVE 44 Stall 02, Koufu #02-34 VISTA POINT 730548",
+          "type": "Hawker",
+          "number": "EEHK26100000116",
+          "scheme": "Eating Establishment",
+          "id": "17929bb2-e5a9-4944-81d2-19778be849c6",
+          "postal": "730548"
+        },
+        {
+          "name": "The Padang",
+          "address": "57 LENGKOK BAHRU #01-489, Stall 2, S17 Community Kitchen 151057",
+          "type": "Hawker",
+          "number": "EEHK26100000064",
+          "scheme": "Eating Establishment",
+          "id": "bd1d3cdb-acf6-4885-a8c4-4011e71b23ba",
+          "postal": "151057"
+        },
+        {
+          "name": "Popeyes Famous Louisiana Chicken",
+          "address": "271 BUKIT TIMAH ROAD #01-02 BALMORAL PLAZA 259708",
+          "type": "Restaurant",
+          "number": "EERT26100000020",
+          "scheme": "Eating Establishment",
+          "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+          "postal": "259708"
+        },
+        {
+          "name": "Ali's Fry & Grill Western",
+          "address": "5 CHANGI BUSINESS PARK CENTRAL 1 MR2, FOOD ARENA #02-01 CHANGI CITY 486038",
+          "type": "Hawker",
+          "number": "EEHK26100000100",
+          "scheme": "Eating Establishment",
+          "id": "4112e837-cb3c-49cb-b955-e08eb1edb62a",
+          "postal": "486038"
+        },
+        {
+          "name": "BLUSH ARTISAN CAKES",
+          "address": "14 JALAN PISANG KAMPONG GLAM CONSERVATION AREA 199081",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26100000043",
+          "scheme": "Eating Establishment",
+          "id": "1ae653b7-c320-40b2-bf7c-9876881ff21c",
+          "postal": "199081"
+        },
+        {
+          "name": "Popeyes Famous Louisiana Chicken",
+          "address": "80 MIDDLE ROAD 01-88/89 188966",
+          "type": "Restaurant",
+          "number": "EERT26100000019",
+          "scheme": "Eating Establishment",
+          "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+          "postal": "188966"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-10-21T00:37:27.993138",
     "date": "2026-10-21",
     "summary": {
@@ -12792,39 +12861,6 @@
           "postal": "486038"
         }
       ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-08-19T22:38:55.491584",
-    "date": "2026-08-19",
-    "summary": {
-      "new": 2,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "MARRYBROWN",
-          "address": "50 ANG MO KIO STREET 61 #01-02 YIO CHU KANG COMMUNITY CENTRE, Stall 1, Yio Chu Kang CC Foodcourt 569163",
-          "type": "Hawker",
-          "number": "EEHK26080000094",
-          "scheme": "Eating Establishment",
-          "id": "c56fcd6b-c03d-4a6e-8aec-f59d8ac15d65",
-          "postal": "569163"
-        },
-        {
-          "name": "Sanook Kitchen Tom Yum Mama",
-          "address": "181 ORCHARD ROAD #04-08 ORCHARD CENTRAL 238896",
-          "type": "Restaurant",
-          "number": "EERT26080000101",
-          "scheme": "Eating Establishment",
-          "id": "31ad1dfb-3cfe-4f95-b037-c15528063fe5",
-          "postal": "238896"
-        }
-      ],
-      "removed": [],
       "updated": []
     }
   }
