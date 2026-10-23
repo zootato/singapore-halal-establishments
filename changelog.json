@@ -1,5 +1,56 @@
 [
   {
+    "timestamp": "2026-10-23T00:38:01.914689",
+    "date": "2026-10-23",
+    "summary": {
+      "new": 4,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "MALAY STALL (S4 & S5) @EAGLE (MNGD BY PRO*3 INSTITUTIONAL CTRG PL)",
+          "address": "51 CALSHOT ROAD #02-00 ENGINE OVERHAUL COMPLEX 509927",
+          "type": "Staff Canteen",
+          "number": "EESC20240000800",
+          "scheme": "Eating Establishment",
+          "id": "a0317bce-ccf3-42d5-830d-609ee262dec6",
+          "postal": "509927"
+        },
+        {
+          "name": "Monster Western",
+          "address": "1 HARBOURFRONT WALK #03-01 VIVOCITY, Stall 13 @ Food Republic 098585",
+          "type": "Hawker",
+          "number": "EEHK26100000088",
+          "scheme": "Eating Establishment",
+          "id": "82f4a80a-99a8-43df-b711-4fe91e5b3a34",
+          "postal": "098585"
+        },
+        {
+          "name": "Staff Canteen Stall @ Nestle (Mngd By The Wok People)",
+          "address": "50 International Road 619625",
+          "type": "Staff Canteen",
+          "number": "EEFN21090012539",
+          "scheme": "Eating Establishment",
+          "id": "ce9c9714-ee0c-46fc-a05b-bd64549cbf2c",
+          "postal": "619625"
+        },
+        {
+          "name": "Krispi Chinese Roti . Dumpling",
+          "address": "1 JURONG WEST CENTRAL 2 Stall 14, Bagus #B1-42, #B1-43, #B1-44 JURONG POINT 648886",
+          "type": "Hawker",
+          "number": "EEHK26100000118",
+          "scheme": "Eating Establishment",
+          "id": "f5cb390b-6f6b-49d4-8e23-e687148e46af",
+          "postal": "648886"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-10-22T00:41:25.078379",
     "date": "2026-10-22",
     "summary": {
@@ -12744,121 +12795,6 @@
           "scheme": "Eating Establishment",
           "id": "cd36d89f-b7ee-484b-8ced-cbcecd381471",
           "postal": "528833"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-08-20T22:41:18.203285",
-    "date": "2026-08-20",
-    "summary": {
-      "new": 7,
-      "removed": 4,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Now Pizza",
-          "address": "63 JURONG WEST CENTRAL 3 JP2, Jurong Point #03-60 Jurong Point 648331",
-          "type": "Restaurant",
-          "number": "EERT25120000097",
-          "scheme": "Eating Establishment",
-          "id": "864c6a47-e378-4258-b9a5-9bf82b296233",
-          "postal": "648331"
-        },
-        {
-          "name": "Now Pizza",
-          "address": "107 NORTH BRIDGE ROAD #B2-31 FUNAN 179105",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20240000620",
-          "scheme": "Eating Establishment",
-          "id": "864c6a47-e378-4258-b9a5-9bf82b296233",
-          "postal": "179105"
-        },
-        {
-          "name": "APPETIZED PTE. LTD.",
-          "address": "39 MACTAGGART ROAD #06-00 FOUR SEASONS FOOD BUILDING 368084",
-          "type": "Catering Company",
-          "number": "FPCA26080000111",
-          "scheme": "Food Preparation Area",
-          "id": "ede34b4c-9e55-4664-9684-86be359db018",
-          "postal": "368084"
-        },
-        {
-          "name": "Now Pizza",
-          "address": "70 COMPASSVALE BOW #01-01 544692",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20240000961",
-          "scheme": "Eating Establishment",
-          "id": "864c6a47-e378-4258-b9a5-9bf82b296233",
-          "postal": "544692"
-        },
-        {
-          "name": "Now Pizza",
-          "address": "1 JELEBU ROAD #01-43 BUKIT PANJANG PLAZA 677743",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20240001234",
-          "scheme": "Eating Establishment",
-          "id": "864c6a47-e378-4258-b9a5-9bf82b296233",
-          "postal": "677743"
-        },
-        {
-          "name": "Now Pizza",
-          "address": "1 PASIR RIS CLOSE #01-K106 E!HUB@DOWNTOWN EAST 519599",
-          "type": "Restaurant",
-          "number": "EERT20250000590",
-          "scheme": "Eating Establishment",
-          "id": "864c6a47-e378-4258-b9a5-9bf82b296233",
-          "postal": "519599"
-        },
-        {
-          "name": "Now Pizza",
-          "address": "301 UPPER THOMSON ROAD #01-K9 THOMSON PLAZA 574408",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20250000207",
-          "scheme": "Eating Establishment",
-          "id": "864c6a47-e378-4258-b9a5-9bf82b296233",
-          "postal": "574408"
-        }
-      ],
-      "removed": [
-        {
-          "name": "TASTE OF INDONESIA EXPRESS",
-          "address": "1 JELEBU ROAD #01-42 BUKIT PANJANG PLAZA 677743",
-          "type": "Restaurant",
-          "number": "EERT26060000029",
-          "scheme": "Eating Establishment",
-          "id": "2e83be17-2d14-440a-9f79-7847e26d9ec1",
-          "postal": "677743"
-        },
-        {
-          "name": "Al Madina Famous Prata Corner",
-          "address": "635C SENJA ROAD #01-01, STALL 8 673635",
-          "type": "Hawker",
-          "number": "EEHN22010013074",
-          "scheme": "Eating Establishment",
-          "id": "0b14edbc-79ce-41c0-be19-0db857291c69",
-          "postal": "673635"
-        },
-        {
-          "name": "Khun Thai",
-          "address": "30 WOODLANDS AVENUE 2 #01-23 WOODLANDS MRT STATION (PART RIGHT) 738343",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB25120000104",
-          "scheme": "Eating Establishment",
-          "id": "ec143ea2-ab7a-4f2f-aaa1-65414d427c97",
-          "postal": "738343"
-        },
-        {
-          "name": "ANDES",
-          "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #02-02a CHANGI CITY POINT 486038",
-          "type": "Restaurant",
-          "number": "EERT20230000894",
-          "scheme": "Eating Establishment",
-          "id": "0faa4de1-f31a-4ef8-9dee-954861ff5c21",
-          "postal": "486038"
         }
       ],
       "updated": []

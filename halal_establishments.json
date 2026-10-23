@@ -16434,6 +16434,15 @@
     "postal": "768019"
   },
   {
+    "name": "Krispi Chinese Roti . Dumpling",
+    "address": "1 JURONG WEST CENTRAL 2 Stall 14, Bagus #B1-42, #B1-43, #B1-44 JURONG POINT 648886",
+    "type": "Hawker",
+    "number": "EEHK26100000118",
+    "scheme": "Eating Establishment",
+    "id": "f5cb390b-6f6b-49d4-8e23-e687148e46af",
+    "postal": "648886"
+  },
+  {
     "name": "Krispy Kreme",
     "address": "3155 Commonwealth Ave West #B1-K24 The Clementi Mall 129588",
     "type": "Snack Bar / Bakery",
@@ -18142,6 +18151,15 @@
     "scheme": "Eating Establishment",
     "id": "324e6370-e069-45f0-b7db-e441c88a5d6e",
     "postal": "509932"
+  },
+  {
+    "name": "MALAY STALL (S4 & S5) @EAGLE (MNGD BY PRO*3 INSTITUTIONAL CTRG PL)",
+    "address": "51 CALSHOT ROAD #02-00 ENGINE OVERHAUL COMPLEX 509927",
+    "type": "Staff Canteen",
+    "number": "EESC20240000800",
+    "scheme": "Eating Establishment",
+    "id": "a0317bce-ccf3-42d5-830d-609ee262dec6",
+    "postal": "509927"
   },
   {
     "name": "Malay/Indian & Western Kitchen @ Khoo Teck Puat Hospital",
@@ -19960,6 +19978,15 @@
     "scheme": "Eating Establishment",
     "id": "82f4a80a-99a8-43df-b711-4fe91e5b3a34",
     "postal": "819663"
+  },
+  {
+    "name": "Monster Western",
+    "address": "1 HARBOURFRONT WALK #03-01 VIVOCITY, Stall 13 @ Food Republic 098585",
+    "type": "Hawker",
+    "number": "EEHK26100000088",
+    "scheme": "Eating Establishment",
+    "id": "82f4a80a-99a8-43df-b711-4fe91e5b3a34",
+    "postal": "098585"
   },
   {
     "name": "Monster Western (MR1) @ Food Dynasty Cineleisure",
@@ -29016,6 +29043,15 @@
     "postal": "609915"
   },
   {
+    "name": "Staff Canteen Stall @ Nestle (Mngd By The Wok People)",
+    "address": "50 International Road 619625",
+    "type": "Staff Canteen",
+    "number": "EEFN21090012539",
+    "scheme": "Eating Establishment",
+    "id": "ce9c9714-ee0c-46fc-a05b-bd64549cbf2c",
+    "postal": "619625"
+  },
+  {
     "name": "Staff Canteen Stall @ Pfizer Asia Mnfg (Mngd by The Wok People)",
     "address": "31 TUAS SOUTH AVENUE 6 1ST STOREY 637578",
     "type": "Staff Canteen",
@@ -33031,15 +33067,6 @@
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
-    "address": "10 ANSON ROAD #01-32 INTERNATIONAL PLAZA 079903",
-    "type": "Restaurant",
-    "number": "EERN21120013265",
-    "scheme": "Eating Establishment",
-    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-    "postal": "079903"
-  },
-  {
-    "name": "THE COFFEE BEAN & TEA LEAF",
     "address": "604 SEMBAWANG ROAD #01-10/11 SEMBAWANG SHOPPING CENTRE 758459",
     "type": "Restaurant",
     "number": "EERN21120013229",
@@ -33262,6 +33289,15 @@
     "scheme": "Eating Establishment",
     "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
     "postal": "519599"
+  },
+  {
+    "name": "THE COFFEE BEAN & TEA LEAF",
+    "address": "10 ANSON ROAD #01-32 INTERNATIONAL PLAZA 079903",
+    "type": "Restaurant",
+    "number": "EERN21120013265",
+    "scheme": "Eating Establishment",
+    "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
+    "postal": "079903"
   },
   {
     "name": "THE COFFEE BEAN & TEA LEAF",
