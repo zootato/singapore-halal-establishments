@@ -3204,6 +3204,15 @@
     "postal": "797650"
   },
   {
+    "name": "Belinda's Pancake (S27) @ Teck Ghee Court Food Centre",
+    "address": "341 ANG MO KIO AVENUE 1 #01-27 TECK GHEE COURT, Stall 27 560341",
+    "type": "Hawker",
+    "number": "EEHK20240000895",
+    "scheme": "Eating Establishment",
+    "id": "b7cd3772-9023-48ac-875f-98c5d4d3b718",
+    "postal": "560341"
+  },
+  {
     "name": "BELLYGOOD CATERER",
     "address": "26 TAI SENG STREET #02-01 J'FORTE 534057",
     "type": "Catering Company",
@@ -5371,6 +5380,15 @@
     "scheme": "Food Preparation Area",
     "id": "ff4bd424-b4ca-4ddd-8ac3-f8cea6155cd0",
     "postal": "486121"
+  },
+  {
+    "name": "Catering Solutions Pte Ltd",
+    "address": "80 Tuas South Boulevard #01-41 637051",
+    "type": "Catering Company",
+    "number": "FPGN21120001624",
+    "scheme": "Food Preparation Area",
+    "id": "62fcff51-39d1-4835-91eb-4f99c9215d30",
+    "postal": "637051"
   },
   {
     "name": "CATERSAGE",
@@ -11926,15 +11944,6 @@
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
-    "address": "21 CHOA CHU KANG NORTH 6 #B1-01-07 YEWTEE POINT 689578",
-    "type": "Central Kitchen",
-    "number": "FPCK20240001060",
-    "scheme": "Food Preparation Area",
-    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
-    "postal": "689578"
-  },
-  {
-    "name": "Halal Section @ NTUC FAIRPRICE",
     "address": "131 KILLINEY ROAD #01-01/02 Orchard Grand Court 239571",
     "type": "Central Kitchen",
     "number": "FPCK20240000665",
@@ -12052,15 +12061,6 @@
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
-    "address": "53 Ang Mo Kio avenue 3 #B2-40 AMK HUB 569933",
-    "type": "Halal Section",
-    "number": "EECN21070000453",
-    "scheme": "Eating Establishment",
-    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
-    "postal": "569933"
-  },
-  {
-    "name": "Halal Section @ NTUC FAIRPRICE",
     "address": "80 MARINE PARADE ROAD #03-28 PARKWAY PARADE 449269",
     "type": "Central Kitchen",
     "number": "FPCN21050001520",
@@ -12115,6 +12115,15 @@
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
+    "address": "53 Ang Mo Kio avenue 3 #B2-40 AMK HUB 569933",
+    "type": "Halal Section",
+    "number": "EECN21070000453",
+    "scheme": "Eating Establishment",
+    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
+    "postal": "569933"
+  },
+  {
+    "name": "Halal Section @ NTUC FAIRPRICE",
     "address": "681 PUNGGOL DRIVE #B1-01 820681",
     "type": "Halal Section",
     "number": "EEHS20230000838",
@@ -12166,6 +12175,15 @@
     "scheme": "Food Preparation Area",
     "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
     "postal": "540339"
+  },
+  {
+    "name": "Halal Section @ NTUC FAIRPRICE",
+    "address": "21 CHOA CHU KANG NORTH 6 #B1-01-07 YEWTEE POINT 689578",
+    "type": "Central Kitchen",
+    "number": "FPCK20240001060",
+    "scheme": "Food Preparation Area",
+    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
+    "postal": "689578"
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
@@ -12382,6 +12400,15 @@
     "scheme": "Eating Establishment",
     "id": "fd47b243-31f5-4a8e-91be-5b83d1f389d4",
     "postal": "529536"
+  },
+  {
+    "name": "HARYASIN WEDDING BRIYANI",
+    "address": "1009 ALJUNIED AVENUE 4 #01-22 ALJUNIED INDUSTRIAL ESTATE 389910",
+    "type": "Catering Company",
+    "number": "FPCA26030000027",
+    "scheme": "Food Preparation Area",
+    "id": "b95e07ff-21c8-4039-8dda-1c6c1a501d4b",
+    "postal": "389910"
   },
   {
     "name": "HATSUMI DONBURI | SOBA",
@@ -17505,6 +17532,15 @@
     "postal": "169608"
   },
   {
+    "name": "Makan Alley(S3) @PCC Canteen (Mngd by Catering Solutions Pte Ltd).",
+    "address": "80 TUAS SOUTH BOULEVARD 2Nd Storey Officer Block, Stall 3 637051",
+    "type": "Staff Canteen",
+    "number": "EESC20230000341",
+    "scheme": "Eating Establishment",
+    "id": "77bf3a74-5ebb-4a03-be62-5ccf3b51f1b1",
+    "postal": "637051"
+  },
+  {
     "name": "MAKAN BOLEH",
     "address": "11 RESEARCH LINK #01-03 119391",
     "type": "Restaurant",
@@ -21346,6 +21382,15 @@
     "scheme": "Eating Establishment",
     "id": "97136e58-b08c-46b7-bfb1-e4a688331ce1",
     "postal": "469572"
+  },
+  {
+    "name": "My Nasi Ayam",
+    "address": "30 AIRLINE ROAD, STALL 8 CORE K CANTEEN 819830",
+    "type": "Staff Canteen",
+    "number": "EESC26100000024",
+    "scheme": "Eating Establishment",
+    "id": "97136e58-b08c-46b7-bfb1-e4a688331ce1",
+    "postal": "819830"
   },
   {
     "name": "MY SAAP SAAP THAI",
@@ -28917,6 +28962,15 @@
     "postal": "627596"
   },
   {
+    "name": "Staff cafeteria stall @Halliburton(Mngd by catering solutions PL)",
+    "address": "11 Tuas South Avenue 12 637131",
+    "type": "Staff Canteen",
+    "number": "EESC20230001025",
+    "scheme": "Eating Establishment",
+    "id": "9865ea63-403a-49d1-a27d-4904c132b018",
+    "postal": "637131"
+  },
+  {
     "name": "Staff Cafeteria Stall@ExxonMobil Chemical Mngd by Compass Group",
     "address": "100 JURONG ISLAND HIGHWAY #01-01 EXXON MOBIL CHEMICAL 627867",
     "type": "Staff Canteen",
@@ -29140,6 +29194,15 @@
     "scheme": "Eating Establishment",
     "id": "1218551f-3ca6-4be5-82af-87d567d0144c",
     "postal": "637766"
+  },
+  {
+    "name": "Staff Canteen Stall@ Shell Tuas(Mngd by Catering Solutions Pte Ltd",
+    "address": "1 TUAS SOUTH WAY 636991",
+    "type": "Staff Canteen",
+    "number": "EESC20230000764",
+    "scheme": "Eating Establishment",
+    "id": "8ef1dce9-a392-48e8-a7da-a735a5dbbcb9",
+    "postal": "636991"
   },
   {
     "name": "STAFF CANTEEN STALL@ UTAC S'GOON  (MNG BY PRO*3 INST. CATERING PL)",
@@ -32518,6 +32581,15 @@
   },
   {
     "name": "Telur Thai",
+    "address": "80 MARINE PARADE ROAD #B1-85 PARKWAY PARADE, KOPITIAM, Stall 9 449269",
+    "type": "Hawker",
+    "number": "EEHK26100000084",
+    "scheme": "Eating Establishment",
+    "id": "9864d86c-4f11-4a4c-b0c0-d0425c1b4cc0",
+    "postal": "449269"
+  },
+  {
+    "name": "Telur Thai",
     "address": "1 HOSPITAL CRESCENT SINGAPORE GENERAL HOSPITAL BLOCK 6, STALL 3, KOUFU 169608",
     "type": "Hawker",
     "number": "EEHK26060000067",
@@ -32668,15 +32740,6 @@
     "scheme": "Eating Establishment",
     "id": "ffe9f2bf-ecfd-41ba-8a08-fe0fea5d6816",
     "postal": "541170"
-  },
-  {
-    "name": "Tenderbest (S9)@ FF 419 F&B",
-    "address": "419 TAMPINES STREET 41 #01-80 SUN PLAZA GARDENS, Stall 9 520419",
-    "type": "Hawker",
-    "number": "EEHK20230001206",
-    "scheme": "Eating Establishment",
-    "id": "7dc87f27-8aaa-4803-a900-d02f6eaddb56",
-    "postal": "520419"
   },
   {
     "name": "Tenderbest , PastaPizza (S1) @ Kedai Kopi",
@@ -36952,6 +37015,42 @@
     "scheme": "Eating Establishment",
     "id": "4456907f-0dca-4387-b38c-8604c449411d",
     "postal": "560108"
+  },
+  {
+    "name": "Yummy Sedap",
+    "address": "418 NORTHSHORE DRIVE #02-04 NORTHSHORE PLAZA II 820418",
+    "type": "Restaurant",
+    "number": "EERT20250000848",
+    "scheme": "Eating Establishment",
+    "id": "5cb4d8d2-793c-41b1-9ef1-7bfa7a878ffc",
+    "postal": "820418"
+  },
+  {
+    "name": "Yummy Sedap",
+    "address": "378 CLEMENTI AVENUE 5 #01-334, MR 2, 378 Eating House 120378 120378",
+    "type": "Hawker",
+    "number": "EEHK26100000125",
+    "scheme": "Eating Establishment",
+    "id": "ffa6cd7f-43e2-4fe0-ae63-4043cf986289",
+    "postal": "120378"
+  },
+  {
+    "name": "Yummy Sedap",
+    "address": "110 YISHUN RING ROAD Stall 7 , Kimly Coffeeshop #01-401 CHONG PANG GARDEN 760110",
+    "type": "Hawker",
+    "number": "EEHK26010000074",
+    "scheme": "Eating Establishment",
+    "id": "c3fcda1e-3536-4ad6-8c47-74fbcb734dd1",
+    "postal": "760110"
+  },
+  {
+    "name": "Yummy Sedap",
+    "address": "1 WOODLANDS HEIGHT MR 1 #01-01 KOUFU GROUP HQ 737859",
+    "type": "Hawker",
+    "number": "EEHK26010000131",
+    "scheme": "Eating Establishment",
+    "id": "1514de17-1d07-473e-8d13-e4a4646d02a1",
+    "postal": "737859"
   },
   {
     "name": "ZAFFRON KITCHEN",

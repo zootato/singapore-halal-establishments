@@ -1,5 +1,138 @@
 [
   {
+    "timestamp": "2026-10-24T00:33:41.030718",
+    "date": "2026-10-24",
+    "summary": {
+      "new": 12,
+      "removed": 1,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Yummy Sedap",
+          "address": "418 NORTHSHORE DRIVE #02-04 NORTHSHORE PLAZA II 820418",
+          "type": "Restaurant",
+          "number": "EERT20250000848",
+          "scheme": "Eating Establishment",
+          "id": "5cb4d8d2-793c-41b1-9ef1-7bfa7a878ffc",
+          "postal": "820418"
+        },
+        {
+          "name": "Staff cafeteria stall @Halliburton(Mngd by catering solutions PL)",
+          "address": "11 Tuas South Avenue 12 637131",
+          "type": "Staff Canteen",
+          "number": "EESC20230001025",
+          "scheme": "Eating Establishment",
+          "id": "9865ea63-403a-49d1-a27d-4904c132b018",
+          "postal": "637131"
+        },
+        {
+          "name": "Yummy Sedap",
+          "address": "1 WOODLANDS HEIGHT MR 1 #01-01 KOUFU GROUP HQ 737859",
+          "type": "Hawker",
+          "number": "EEHK26010000131",
+          "scheme": "Eating Establishment",
+          "id": "1514de17-1d07-473e-8d13-e4a4646d02a1",
+          "postal": "737859"
+        },
+        {
+          "name": "Catering Solutions Pte Ltd",
+          "address": "80 Tuas South Boulevard #01-41 637051",
+          "type": "Catering Company",
+          "number": "FPGN21120001624",
+          "scheme": "Food Preparation Area",
+          "id": "62fcff51-39d1-4835-91eb-4f99c9215d30",
+          "postal": "637051"
+        },
+        {
+          "name": "HARYASIN WEDDING BRIYANI",
+          "address": "1009 ALJUNIED AVENUE 4 #01-22 ALJUNIED INDUSTRIAL ESTATE 389910",
+          "type": "Catering Company",
+          "number": "FPCA26030000027",
+          "scheme": "Food Preparation Area",
+          "id": "b95e07ff-21c8-4039-8dda-1c6c1a501d4b",
+          "postal": "389910"
+        },
+        {
+          "name": "Telur Thai",
+          "address": "80 MARINE PARADE ROAD #B1-85 PARKWAY PARADE, KOPITIAM, Stall 9 449269",
+          "type": "Hawker",
+          "number": "EEHK26100000084",
+          "scheme": "Eating Establishment",
+          "id": "9864d86c-4f11-4a4c-b0c0-d0425c1b4cc0",
+          "postal": "449269"
+        },
+        {
+          "name": "My Nasi Ayam",
+          "address": "30 AIRLINE ROAD, STALL 8 CORE K CANTEEN 819830",
+          "type": "Staff Canteen",
+          "number": "EESC26100000024",
+          "scheme": "Eating Establishment",
+          "id": "97136e58-b08c-46b7-bfb1-e4a688331ce1",
+          "postal": "819830"
+        },
+        {
+          "name": "Belinda's Pancake (S27) @ Teck Ghee Court Food Centre",
+          "address": "341 ANG MO KIO AVENUE 1 #01-27 TECK GHEE COURT, Stall 27 560341",
+          "type": "Hawker",
+          "number": "EEHK20240000895",
+          "scheme": "Eating Establishment",
+          "id": "b7cd3772-9023-48ac-875f-98c5d4d3b718",
+          "postal": "560341"
+        },
+        {
+          "name": "Makan Alley(S3) @PCC Canteen (Mngd by Catering Solutions Pte Ltd).",
+          "address": "80 TUAS SOUTH BOULEVARD 2Nd Storey Officer Block, Stall 3 637051",
+          "type": "Staff Canteen",
+          "number": "EESC20230000341",
+          "scheme": "Eating Establishment",
+          "id": "77bf3a74-5ebb-4a03-be62-5ccf3b51f1b1",
+          "postal": "637051"
+        },
+        {
+          "name": "Yummy Sedap",
+          "address": "110 YISHUN RING ROAD Stall 7 , Kimly Coffeeshop #01-401 CHONG PANG GARDEN 760110",
+          "type": "Hawker",
+          "number": "EEHK26010000074",
+          "scheme": "Eating Establishment",
+          "id": "c3fcda1e-3536-4ad6-8c47-74fbcb734dd1",
+          "postal": "760110"
+        },
+        {
+          "name": "Staff Canteen Stall@ Shell Tuas(Mngd by Catering Solutions Pte Ltd",
+          "address": "1 TUAS SOUTH WAY 636991",
+          "type": "Staff Canteen",
+          "number": "EESC20230000764",
+          "scheme": "Eating Establishment",
+          "id": "8ef1dce9-a392-48e8-a7da-a735a5dbbcb9",
+          "postal": "636991"
+        },
+        {
+          "name": "Yummy Sedap",
+          "address": "378 CLEMENTI AVENUE 5 #01-334, MR 2, 378 Eating House 120378 120378",
+          "type": "Hawker",
+          "number": "EEHK26100000125",
+          "scheme": "Eating Establishment",
+          "id": "ffa6cd7f-43e2-4fe0-ae63-4043cf986289",
+          "postal": "120378"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Tenderbest (S9)@ FF 419 F&B",
+          "address": "419 TAMPINES STREET 41 #01-80 SUN PLAZA GARDENS, Stall 9 520419",
+          "type": "Hawker",
+          "number": "EEHK20230001206",
+          "scheme": "Eating Establishment",
+          "id": "7dc87f27-8aaa-4803-a900-d02f6eaddb56",
+          "postal": "520419"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-10-23T00:38:01.914689",
     "date": "2026-10-23",
     "summary": {
@@ -12707,94 +12840,6 @@
           "scheme": "Eating Establishment",
           "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
           "postal": "208539"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-08-21T22:40:25.553796",
-    "date": "2026-08-21",
-    "summary": {
-      "new": 3,
-      "removed": 5,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "McDonald's",
-          "address": "88 PUNGGOL WAY #01-141 PUNGGOL COAST MALL 829913",
-          "type": "Restaurant",
-          "number": "EERT26070000096",
-          "scheme": "Eating Establishment",
-          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-          "postal": "829913"
-        },
-        {
-          "name": "Cinta Hainanese Chicken Rice / Ampang Yong Tau Foo",
-          "address": "1 HOUGANG STREET 91 #01-19 HOUGANG 1, Stall 17, Kopitiam 538692",
-          "type": "Hawker",
-          "number": "EEHK26080000116",
-          "scheme": "Eating Establishment",
-          "id": "0410ff01-9588-405d-a4ff-91989a3492f6",
-          "postal": "538692"
-        },
-        {
-          "name": "Padang Express Indo Delight",
-          "address": "51 YISHUN AVENUE 11 #01-03 YISHUN PARK HAWKER CENTRE, STALL 3 768867",
-          "type": "Hawker",
-          "number": "EEHK26080000096",
-          "scheme": "Eating Establishment",
-          "id": "16a676eb-b1e6-418b-aa20-413c349a6aef",
-          "postal": "768867"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Long John Silver's",
-          "address": "3 TEMASEK BOULEVARD #B1-149 SUNTEC CITY MALL 038983",
-          "type": "Restaurant",
-          "number": "EERT20230001087",
-          "scheme": "Eating Establishment",
-          "id": "04a22cc8-410f-41ad-977c-224cb8a85e4c",
-          "postal": "038983"
-        },
-        {
-          "name": "SALMON WARRIOR",
-          "address": "10 EUNOS ROAD 8 #B1-165/166 SINGAPORE POST CENTRE 408600",
-          "type": "Restaurant",
-          "number": "EERT20220000671",
-          "scheme": "Eating Establishment",
-          "id": "552d459f-80f2-4527-a23e-56e82ec08b64",
-          "postal": "408600"
-        },
-        {
-          "name": "Sumber Ayam Chicken Rice (S5)@Food Republic City Square Mall",
-          "address": "180 KITCHENER ROAD #B3-04 CITY SQUARE MALL, Stall 5 208539",
-          "type": "Hawker",
-          "number": "EEHK20240000913",
-          "scheme": "Eating Establishment",
-          "id": "6898b05f-3ffe-41b3-af30-8aea1bf8c6a3",
-          "postal": "208539"
-        },
-        {
-          "name": "Salmon Warrior Express",
-          "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #B1-37 CHANGI CITY POINT 486038",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20240000397",
-          "scheme": "Eating Establishment",
-          "id": "fe2ef16a-2f6f-4d88-bfea-6d195dcb7aee",
-          "postal": "486038"
-        },
-        {
-          "name": "Heavenly Wang",
-          "address": "3 SIMEI STREET 6 #B1-K3 EASTPOINT MALL 528833",
-          "type": "Restaurant",
-          "number": "EERT20220000317",
-          "scheme": "Eating Establishment",
-          "id": "cd36d89f-b7ee-484b-8ced-cbcecd381471",
-          "postal": "528833"
         }
       ],
       "updated": []
