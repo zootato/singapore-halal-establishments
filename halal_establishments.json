@@ -6967,15 +6967,6 @@
   },
   {
     "name": "CRAVE",
-    "address": "6 RAFFLES BOULEVARD #02-233 MARINA SQUARE 039594",
-    "type": "Restaurant",
-    "number": "EERT20240000169",
-    "scheme": "Eating Establishment",
-    "id": "7253e58b-8a56-49a4-ac1a-7ab6232d8b2b",
-    "postal": "039594"
-  },
-  {
-    "name": "CRAVE",
     "address": "180 KITCHENER ROAD #B1-K19 CITY SQUARE MALL 208539",
     "type": "Restaurant",
     "number": "EERT20240000439",
@@ -20332,6 +20323,15 @@
   },
   {
     "name": "MR BEAN",
+    "address": "1 MARITIME SQUARE #01-K4 HARBOURFRONT CENTRE 099253",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20220000177",
+    "scheme": "Eating Establishment",
+    "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
+    "postal": "099253"
+  },
+  {
+    "name": "MR BEAN",
     "address": "1 FUSIONOPOLIS WAY #01-06 CONNEXIS 138632",
     "type": "Restaurant",
     "number": "EERT20220000174",
@@ -20392,15 +20392,6 @@
     "scheme": "Eating Establishment",
     "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
     "postal": "670445"
-  },
-  {
-    "name": "MR BEAN",
-    "address": "1 MARITIME SQUARE #01-K4 HARBOURFRONT CENTRE 099253",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20220000177",
-    "scheme": "Eating Establishment",
-    "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
-    "postal": "099253"
   },
   {
     "name": "MR BEAN",
@@ -33044,6 +33035,15 @@
     "type": "Hawker",
     "number": "EEHX21120013037",
     "scheme": "Eating Establishment",
+    "id": "ec319ee1-0242-48ef-934d-87f3d6e7e85f",
+    "postal": "737913"
+  },
+  {
+    "name": "The Arena @ Singapore Sports School (Mngd by Compass Group)",
+    "address": "1 CHAMPIONS WAY #02-50 Singapore Sports School 737913",
+    "type": "Catering Company",
+    "number": "FPCA26100000123",
+    "scheme": "Food Preparation Area",
     "id": "ec319ee1-0242-48ef-934d-87f3d6e7e85f",
     "postal": "737913"
   },
