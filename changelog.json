@@ -1,5 +1,111 @@
 [
   {
+    "timestamp": "2026-10-27T01:29:36.731163",
+    "date": "2026-10-27",
+    "summary": {
+      "new": 5,
+      "removed": 5,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Kitchen Solutions Pte. Ltd.",
+          "address": "33 TUAS BAY WALK LEVEL 1, MAGAZINE & LEVEL 2 WESTVIEW FOOD FACTORY 637130",
+          "type": "Catering Company",
+          "number": "FPCA26100000127",
+          "scheme": "Food Preparation Area",
+          "id": "7d553c5d-3564-4ec8-aff6-e27e6a37c8ee",
+          "postal": "637130"
+        },
+        {
+          "name": "NASI CAMPUR",
+          "address": "5 HOSPITAL DRIVE LEVEL 2 MR1 NATIONAL HEART CENTRE OF SINGAPORE, Bagus 169609",
+          "type": "Hawker",
+          "number": "EEHK26100000059",
+          "scheme": "Eating Establishment",
+          "id": "c164c269-e3d9-4113-8693-e3d186c7ef5b",
+          "postal": "169609"
+        },
+        {
+          "name": "WONG WONG CRISPY CURRY PUFF",
+          "address": "51 OLD AIRPORT ROAD #01-126 OLD AIRPORT ROAD HAWKERS' CENTRE 390051",
+          "type": "Hawker",
+          "number": "EEHK20250000867",
+          "scheme": "Eating Establishment",
+          "id": "00fde22a-2151-47ec-92ac-4db5b3b55eed",
+          "postal": "390051"
+        },
+        {
+          "name": "Aishwarya Kitchen (S2) @ Adi Foods",
+          "address": "180 WOODLANDS INDUSTRIAL PARK E5 #01-01 WOODLANDS AUTO HUB, STALL 2 757512",
+          "type": "Hawker",
+          "number": "EEHN21100012688",
+          "scheme": "Eating Establishment",
+          "id": "e3e6339f-2dc4-40cc-b8a7-80d315beebd3",
+          "postal": "757512"
+        },
+        {
+          "name": "CHICKEN RICE",
+          "address": "5 HOSPITAL DRIVE #02-01 NATIONAL HEART CENTRE SINGAPORE, S3 @ BAGUS 169609",
+          "type": "Hawker",
+          "number": "EEHK26100000060",
+          "scheme": "Eating Establishment",
+          "id": "7e2cfcd5-ae1e-4d6c-b73f-6e2c5a2efa7b",
+          "postal": "169609"
+        }
+      ],
+      "removed": [
+        {
+          "name": "MR BEAN",
+          "address": "1 BUKIT BATOK CENTRAL LINK #01-07A WEST MALL 658713",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000215",
+          "scheme": "Eating Establishment",
+          "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
+          "postal": "658713"
+        },
+        {
+          "name": "Sanook Kitchen",
+          "address": "1 HARBOURFRONT WALK #B2-23C VIVO CITY 098585",
+          "type": "Restaurant",
+          "number": "EERT20220000545",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "098585"
+        },
+        {
+          "name": "PRIMADELI",
+          "address": "10 EUNOS ROAD 8 #B1-164 SINGAPORE POST CENTRE 408600",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000742",
+          "scheme": "Eating Establishment",
+          "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+          "postal": "408600"
+        },
+        {
+          "name": "PRIMADELI",
+          "address": "1 PASIR RIS CENTRAL STREET 3 #B1-K15 WHITE SANDS 518457",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000751",
+          "scheme": "Eating Establishment",
+          "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+          "postal": "518457"
+        },
+        {
+          "name": "Tuan Yuan Chicken Rice",
+          "address": "1 CHOA CHU KANG GROVE #02-01 ITE COLLEGE WEST, Stall 9, Food Fest 688236",
+          "type": "Hawker",
+          "number": "EEHK26080000042",
+          "scheme": "Eating Establishment",
+          "id": "d26ef0bb-762d-448c-a550-7374d18dc917",
+          "postal": "688236"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-10-25T00:20:21.343019",
     "date": "2026-10-25",
     "summary": {
@@ -12779,67 +12885,6 @@
           "scheme": "Eating Establishment",
           "id": "11a08e54-d670-488c-ad60-23bcd6e1184c",
           "postal": "608532"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-08-23T22:38:02.103516",
-    "date": "2026-08-23",
-    "summary": {
-      "new": 3,
-      "removed": 2,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Beradik",
-          "address": "11 JALAN TAN TOCK SENG 01-13/14/15 TAN TOCK SENG HOSPITAL, Stall 16 @ Kopitiam 308433",
-          "type": "Hawker",
-          "number": "EEHK26080000022",
-          "scheme": "Eating Establishment",
-          "id": "6b95c926-c479-408f-9416-2db5cf19a8c4",
-          "postal": "308433"
-        },
-        {
-          "name": "Monster Western",
-          "address": "302 TENGAH PARK AVENUE Gourmet Paradise 02-01/02/03 PARC POINT, MR1 690302",
-          "type": "Hawker",
-          "number": "EEHK26080000084",
-          "scheme": "Eating Establishment",
-          "id": "82f4a80a-99a8-43df-b711-4fe91e5b3a34",
-          "postal": "690302"
-        },
-        {
-          "name": "BERADIK WESTERN",
-          "address": "17 PETIR ROAD 02-15/16 Kopitiam Food Hall – Hillion Mall, MR3 678278",
-          "type": "Hawker",
-          "number": "EEHK26080000053",
-          "scheme": "Eating Establishment",
-          "id": "6ffc5a28-9ba0-4258-bc3d-5ae677b2a41e",
-          "postal": "678278"
-        }
-      ],
-      "removed": [
-        {
-          "name": "McDonald's",
-          "address": "88 PUNGGOL WAY #01-141 PUNGGOL COAST MALL 829913",
-          "type": "Restaurant",
-          "number": "EERT26070000096",
-          "scheme": "Eating Establishment",
-          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-          "postal": "829913"
-        },
-        {
-          "name": "Encik Tan",
-          "address": "1 HARBOURFRONT WALK #B2-45 VIVOCITY 098585",
-          "type": "Restaurant",
-          "number": "EERT25120000006",
-          "scheme": "Eating Establishment",
-          "id": "008ded89-78a7-4d68-8a1e-8fdc67f56423",
-          "postal": "098585"
         }
       ],
       "updated": []

@@ -909,6 +909,15 @@
     "postal": "555945"
   },
   {
+    "name": "Aishwarya Kitchen (S2) @ Adi Foods",
+    "address": "180 WOODLANDS INDUSTRIAL PARK E5 #01-01 WOODLANDS AUTO HUB, STALL 2 757512",
+    "type": "Hawker",
+    "number": "EEHN21100012688",
+    "scheme": "Eating Establishment",
+    "id": "e3e6339f-2dc4-40cc-b8a7-80d315beebd3",
+    "postal": "757512"
+  },
+  {
     "name": "AJ DELIGHTS",
     "address": "1 FUSIONOPOLIS WAY #B1-22 CONNEXIS 138632",
     "type": "Restaurant",
@@ -5668,6 +5677,15 @@
     "scheme": "Eating Establishment",
     "id": "169bf8c6-9d51-422e-b586-f764ac733b76",
     "postal": "760348"
+  },
+  {
+    "name": "CHICKEN RICE",
+    "address": "5 HOSPITAL DRIVE #02-01 NATIONAL HEART CENTRE SINGAPORE, S3 @ BAGUS 169609",
+    "type": "Hawker",
+    "number": "EEHK26100000060",
+    "scheme": "Eating Establishment",
+    "id": "7e2cfcd5-ae1e-4d6c-b73f-6e2c5a2efa7b",
+    "postal": "169609"
   },
   {
     "name": "Chicken Rice",
@@ -16074,6 +16092,15 @@
     "postal": "423371"
   },
   {
+    "name": "Kitchen Solutions Pte. Ltd.",
+    "address": "33 TUAS BAY WALK LEVEL 1, MAGAZINE & LEVEL 2 WESTVIEW FOOD FACTORY 637130",
+    "type": "Catering Company",
+    "number": "FPCA26100000127",
+    "scheme": "Food Preparation Area",
+    "id": "7d553c5d-3564-4ec8-aff6-e27e6a37c8ee",
+    "postal": "637130"
+  },
+  {
     "name": "KNDS CATERING PTE. LTD.",
     "address": "15 JALAN TEPONG #01-09 JURONG FOOD HUB 619336",
     "type": "Catering Company",
@@ -20620,15 +20647,6 @@
   },
   {
     "name": "MR BEAN",
-    "address": "1 BUKIT BATOK CENTRAL LINK #01-07A WEST MALL 658713",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20220000215",
-    "scheme": "Eating Establishment",
-    "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
-    "postal": "658713"
-  },
-  {
-    "name": "MR BEAN",
     "address": "301 BOON LAY WAY #01-23 BOON LAY MRT STATION 649846",
     "type": "Snack Bar / Bakery",
     "number": "EESB20220000161",
@@ -21607,6 +21625,15 @@
     "scheme": "Eating Establishment",
     "id": "d6e81e98-74dc-4dd3-94b7-03a9ce4ac491",
     "postal": "560728"
+  },
+  {
+    "name": "NASI CAMPUR",
+    "address": "5 HOSPITAL DRIVE LEVEL 2 MR1 NATIONAL HEART CENTRE OF SINGAPORE, Bagus 169609",
+    "type": "Hawker",
+    "number": "EEHK26100000059",
+    "scheme": "Eating Establishment",
+    "id": "c164c269-e3d9-4113-8693-e3d186c7ef5b",
+    "postal": "169609"
   },
   {
     "name": "Nasi Lada House of Pepper Rice",
@@ -24994,21 +25021,21 @@
   },
   {
     "name": "POLAR CAFE",
-    "address": "110 Sengkang East Way #01-02 Sengkang General Hospital 544886",
-    "type": "Restaurant",
-    "number": "EERN20040011375",
-    "scheme": "Eating Establishment",
-    "id": "ad978a29-b580-4c9b-9123-4bc1bb79e7cc",
-    "postal": "544886"
-  },
-  {
-    "name": "POLAR CAFE",
     "address": "17 WOODLANDS DRIVE 17 #B2-01 737628",
     "type": "Restaurant",
     "number": "EERT20240001260",
     "scheme": "Eating Establishment",
     "id": "ad978a29-b580-4c9b-9123-4bc1bb79e7cc",
     "postal": "737628"
+  },
+  {
+    "name": "POLAR CAFE",
+    "address": "110 Sengkang East Way #01-02 Sengkang General Hospital 544886",
+    "type": "Restaurant",
+    "number": "EERN20040011375",
+    "scheme": "Eating Establishment",
+    "id": "ad978a29-b580-4c9b-9123-4bc1bb79e7cc",
+    "postal": "544886"
   },
   {
     "name": "POLAR CAFE",
@@ -25027,15 +25054,6 @@
     "scheme": "Eating Establishment",
     "id": "ad978a29-b580-4c9b-9123-4bc1bb79e7cc",
     "postal": "119082"
-  },
-  {
-    "name": "POLAR PUFFS & CAKES",
-    "address": "100 BUKIT TIMAH ROAD #01-34 KK WOMEN'S AND CHILDREN'S HOSPITAL 229899",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN20030010670",
-    "scheme": "Eating Establishment",
-    "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
-    "postal": "229899"
   },
   {
     "name": "POLAR PUFFS & CAKES",
@@ -25081,6 +25099,15 @@
     "scheme": "Eating Establishment",
     "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
     "postal": "556083"
+  },
+  {
+    "name": "POLAR PUFFS & CAKES",
+    "address": "100 BUKIT TIMAH ROAD #01-34 KK WOMEN'S AND CHILDREN'S HOSPITAL 229899",
+    "type": "Snack Bar / Bakery",
+    "number": "EEBN20030010670",
+    "scheme": "Eating Establishment",
+    "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+    "postal": "229899"
   },
   {
     "name": "POLAR PUFFS & CAKES",
@@ -25696,15 +25723,6 @@
   },
   {
     "name": "PRIMADELI",
-    "address": "1 WOODLANDS SQUARE #B1-K23 CAUSEWAY POINT 738099",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000731",
-    "scheme": "Eating Establishment",
-    "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
-    "postal": "738099"
-  },
-  {
-    "name": "PRIMADELI",
     "address": "272 BUKIT BATOK EAST AVENUE 4 #01-76 650272",
     "type": "Snack Bar / Bakery",
     "number": "EESB20250000728",
@@ -25738,15 +25756,6 @@
     "scheme": "Eating Establishment",
     "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
     "postal": "610399"
-  },
-  {
-    "name": "PRIMADELI",
-    "address": "10 EUNOS ROAD 8 #B1-164 SINGAPORE POST CENTRE 408600",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000742",
-    "scheme": "Eating Establishment",
-    "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
-    "postal": "408600"
   },
   {
     "name": "PRIMADELI",
@@ -25795,6 +25804,15 @@
   },
   {
     "name": "PRIMADELI",
+    "address": "1 WOODLANDS SQUARE #B1-K23 CAUSEWAY POINT 738099",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000731",
+    "scheme": "Eating Establishment",
+    "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+    "postal": "738099"
+  },
+  {
+    "name": "PRIMADELI",
     "address": "18 YISHUN AVENUE 9 #02-61 JUNCTION NINE 768897",
     "type": "Snack Bar / Bakery",
     "number": "EESB20250000736",
@@ -25828,15 +25846,6 @@
     "scheme": "Eating Establishment",
     "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
     "postal": "677743"
-  },
-  {
-    "name": "PRIMADELI",
-    "address": "1 PASIR RIS CENTRAL STREET 3 #B1-K15 WHITE SANDS 518457",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000751",
-    "scheme": "Eating Establishment",
-    "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
-    "postal": "518457"
   },
   {
     "name": "PRIMADELI/SNACKS&BITES/DESSERTS/DRINKS",
@@ -27313,15 +27322,6 @@
     "scheme": "Eating Establishment",
     "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
     "postal": "238801"
-  },
-  {
-    "name": "Sanook Kitchen",
-    "address": "1 HARBOURFRONT WALK #B2-23C VIVO CITY 098585",
-    "type": "Restaurant",
-    "number": "EERT20220000545",
-    "scheme": "Eating Establishment",
-    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-    "postal": "098585"
   },
   {
     "name": "Sanook Kitchen",
@@ -35100,15 +35100,6 @@
     "postal": "828608"
   },
   {
-    "name": "Tuan Yuan Chicken Rice",
-    "address": "1 CHOA CHU KANG GROVE #02-01 ITE COLLEGE WEST, Stall 9, Food Fest 688236",
-    "type": "Hawker",
-    "number": "EEHK26080000042",
-    "scheme": "Eating Establishment",
-    "id": "d26ef0bb-762d-448c-a550-7374d18dc917",
-    "postal": "688236"
-  },
-  {
     "name": "TUK TUK CHA",
     "address": "10 PAYA LEBAR ROAD #01-K4 PLQ MALL 409057",
     "type": "Restaurant",
@@ -36538,6 +36529,15 @@
     "scheme": "Eating Establishment",
     "id": "060ab871-f43f-487e-9867-8f38054613a4",
     "postal": "238895"
+  },
+  {
+    "name": "WONG WONG CRISPY CURRY PUFF",
+    "address": "51 OLD AIRPORT ROAD #01-126 OLD AIRPORT ROAD HAWKERS' CENTRE 390051",
+    "type": "Hawker",
+    "number": "EEHK20250000867",
+    "scheme": "Eating Establishment",
+    "id": "00fde22a-2151-47ec-92ac-4db5b3b55eed",
+    "postal": "390051"
   },
   {
     "name": "Woon's Kopi",
