@@ -12691,6 +12691,24 @@
   },
   {
     "name": "Heavenly Wang",
+    "address": "100 BUKIT TIMAH ROAD #01-33A KK WOMEN'S AND CHILDREN'S HOSPITAL 229899",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26100000101",
+    "scheme": "Eating Establishment",
+    "id": "cd36d89f-b7ee-484b-8ced-cbcecd381471",
+    "postal": "229899"
+  },
+  {
+    "name": "Heavenly Wang",
+    "address": "321 JOO CHIAT PLACE Part Of #01-10 PARKWAY EAST HOSPITAL 427990",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26100000103",
+    "scheme": "Eating Establishment",
+    "id": "cd36d89f-b7ee-484b-8ced-cbcecd381471",
+    "postal": "427990"
+  },
+  {
+    "name": "Heavenly Wang",
     "address": "80 AIRPORT BOULEVARD #02-K09 CHANGI AIRPORT BUS TERMINAL 1 819642",
     "type": "Snack Bar / Bakery",
     "number": "EESB25100000028",
@@ -12736,6 +12754,15 @@
   },
   {
     "name": "Heavenly Wang",
+    "address": "12 MARINA BOULEVARD Stall 12, Kopitiam #02-01/02/03/04 MARINA BAY FINANCIAL CENTRE (TOWER 3) 018982",
+    "type": "Hawker",
+    "number": "EEHK26100000102",
+    "scheme": "Eating Establishment",
+    "id": "cd36d89f-b7ee-484b-8ced-cbcecd381471",
+    "postal": "018982"
+  },
+  {
+    "name": "Heavenly Wang",
     "address": "12 MARINA BOULEVARD #02-01/02/03/04 MARINA BAY FINANCIAL CENTRE 018982",
     "type": "Restaurant",
     "number": "EERT20220000350",
@@ -12763,6 +12790,15 @@
   },
   {
     "name": "Heavenly Wang",
+    "address": "80 AIRPORT BOULEVARD #02-03, #02-04 CHANGI AIRPORT TERMINAL 1 819642",
+    "type": "Restaurant",
+    "number": "EERT26100000104",
+    "scheme": "Eating Establishment",
+    "id": "cd36d89f-b7ee-484b-8ced-cbcecd381471",
+    "postal": "819642"
+  },
+  {
+    "name": "Heavenly Wang",
     "address": "65 AIRPORT BOULEVARD #02-K1 CHANGI AIRPORT TERMINAL 3 819663",
     "type": "Snack Bar / Bakery",
     "number": "EESB20230001135",
@@ -12780,6 +12816,15 @@
     "postal": "757713"
   },
   {
+    "name": "Heavenly Wang / Crave / Stuff'd",
+    "address": "60 AIRPORT BOULEVARD #01-09 CHANGI AIRPORT TERMINAL 2 819643",
+    "type": "Restaurant",
+    "number": "EERT26100000105",
+    "scheme": "Eating Establishment",
+    "id": "67950ebc-c2d5-4b03-87b2-6ccd6d306dce",
+    "postal": "819643"
+  },
+  {
     "name": "Heavenly Wang / Crave / Wang Noodle House / The Salad Fork",
     "address": "60 AIRPORT BOULEVARD #01-09 CHANGI AIRPORT TERMINAL 2 819643",
     "type": "Restaurant",
@@ -12787,6 +12832,15 @@
     "scheme": "Eating Establishment",
     "id": "c29f0a5d-2cf2-4728-b7fe-339d9fa3afb3",
     "postal": "819643"
+  },
+  {
+    "name": "Heavenly Wang / Wang Noodle House",
+    "address": "65 AIRPORT BOULEVARD #01-25 CHANGI AIRPORT TERMINAL 3 819663",
+    "type": "Restaurant",
+    "number": "EERT26100000121",
+    "scheme": "Eating Establishment",
+    "id": "7906a6e4-97c4-41eb-aaba-5bd1847b3076",
+    "postal": "819663"
   },
   {
     "name": "Heavenly Wang/Wang Nasi Lemak Kukus",
@@ -15256,15 +15310,6 @@
   },
   {
     "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
-    "address": "2 BUKIT BATOK WEST AVENUE 7 #01-09A HOME TEAM NS BUKIT BATOK CLUBHOUSE 659003",
-    "type": "Restaurant",
-    "number": "EERN21110013031",
-    "scheme": "Eating Establishment",
-    "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
-    "postal": "659003"
-  },
-  {
-    "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
     "address": "1 SENGKANG SQUARE #B1-15 COMPASS ONE 545078",
     "type": "Restaurant",
     "number": "EERN21110012991",
@@ -15307,6 +15352,15 @@
     "scheme": "Eating Establishment",
     "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
     "postal": "729826"
+  },
+  {
+    "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
+    "address": "2 BUKIT BATOK WEST AVENUE 7 #01-09A HOME TEAM NS BUKIT BATOK CLUBHOUSE 659003",
+    "type": "Restaurant",
+    "number": "EERN21110013031",
+    "scheme": "Eating Establishment",
+    "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
+    "postal": "659003"
   },
   {
     "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
@@ -16948,6 +17002,15 @@
   },
   {
     "name": "LAAZIIZ",
+    "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #B1-39 & 40 CHANGI CITY POINT 486038",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26100000130",
+    "scheme": "Eating Establishment",
+    "id": "62ed509d-90f4-46bc-acc1-d0d80c2d441e",
+    "postal": "486038"
+  },
+  {
+    "name": "LAAZIIZ",
     "address": "1 WOODLANDS SQUARE #B1-K27 CAUSEWAY POINT 738099",
     "type": "Snack Bar / Bakery",
     "number": "EESB25100000047",
@@ -17395,6 +17458,24 @@
     "scheme": "Eating Establishment",
     "id": "504674b8-4e87-4f1f-94b4-6ae960ec4b68",
     "postal": "098138"
+  },
+  {
+    "name": "LOTTERIA",
+    "address": "78 AIRPORT BOULEVARD #B1-248 JEWEL CHANGI AIRPORT 819666",
+    "type": "Restaurant",
+    "number": "EERT26100000120",
+    "scheme": "Eating Establishment",
+    "id": "600c0fc6-80ba-4ad7-8cf1-fffc6747d6a3",
+    "postal": "819666"
+  },
+  {
+    "name": "LOTTERIA",
+    "address": "63 JURONG WEST CENTRAL 3 #01-47/48/87/88/89/90/91 648331",
+    "type": "Restaurant",
+    "number": "EERT26100000119",
+    "scheme": "Eating Establishment",
+    "id": "600c0fc6-80ba-4ad7-8cf1-fffc6747d6a3",
+    "postal": "648331"
   },
   {
     "name": "LUCINE",
@@ -19567,15 +19648,6 @@
   },
   {
     "name": "McDonald's",
-    "address": "632 BUKIT BATOK CENTRAL #01-138, Mcdonald's 650632",
-    "type": "Restaurant",
-    "number": "EERN20020011015",
-    "scheme": "Eating Establishment",
-    "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-    "postal": "650632"
-  },
-  {
-    "name": "McDonald's",
     "address": "107 NORTH BRIDGE ROAD #01-16/17/21 FUNAN 179105",
     "type": "Restaurant",
     "number": "EERN20020011064",
@@ -20043,6 +20115,15 @@
     "postal": "098585"
   },
   {
+    "name": "Monster Western",
+    "address": "80 MANDAI LAKE ROAD 01-01/02 Food Republic, Stall 4 729826",
+    "type": "Hawker",
+    "number": "EEHK26100000133",
+    "scheme": "Eating Establishment",
+    "id": "82f4a80a-99a8-43df-b711-4fe91e5b3a34",
+    "postal": "729826"
+  },
+  {
     "name": "Monster Western (MR1) @ Food Dynasty Cineleisure",
     "address": "8 GRANGE ROAD #B1-01/01A CATHAY CINELEISURE ORCHARD, MR1 239695",
     "type": "Hawker",
@@ -20077,6 +20158,15 @@
     "scheme": "Eating Establishment",
     "id": "7b8061c8-c765-4787-ac71-b93a38a9a294",
     "postal": "519612"
+  },
+  {
+    "name": "MORE BATTER",
+    "address": "1 HARBOURFRONT WALK #02-117 VIVO CITY 098585",
+    "type": "Restaurant",
+    "number": "EERT20250000409",
+    "scheme": "Eating Establishment",
+    "id": "625c1c28-9ecb-4ea9-add3-37c5b8dd63ef",
+    "postal": "098585"
   },
   {
     "name": "MR BARKER",
@@ -20998,15 +21088,6 @@
   },
   {
     "name": "MUNCHI PANCAKES",
-    "address": "78 AIRPORT BOULEVARD #B2-273 JEWEL CHANGI AIRPORT 819666",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB25100000122",
-    "scheme": "Eating Establishment",
-    "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
-    "postal": "819666"
-  },
-  {
-    "name": "MUNCHI PANCAKES",
     "address": "180 KITCHENER ROAD #B2-K8 CITY SQUARE MALL 208539",
     "type": "Snack Bar / Bakery",
     "number": "EESB20240000329",
@@ -21076,6 +21157,15 @@
     "scheme": "Eating Establishment",
     "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
     "postal": "678278"
+  },
+  {
+    "name": "MUNCHI PANCAKES",
+    "address": "78 AIRPORT BOULEVARD #B2-273 JEWEL CHANGI AIRPORT 819666",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB25100000122",
+    "scheme": "Eating Establishment",
+    "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
+    "postal": "819666"
   },
   {
     "name": "MUNCHI PANCAKES",
@@ -25003,24 +25093,6 @@
   },
   {
     "name": "POLAR CAFE",
-    "address": "11 JALAN TAN TOCK SENG #01-04 TAN TOCK SENG HOSPITAL 308433",
-    "type": "Restaurant",
-    "number": "EERN20030011242",
-    "scheme": "Eating Establishment",
-    "id": "ad978a29-b580-4c9b-9123-4bc1bb79e7cc",
-    "postal": "308433"
-  },
-  {
-    "name": "POLAR CAFE",
-    "address": "7 OUTRAM ROAD #01-01 SINGAPORE GENERAL HOSPITAL 169608",
-    "type": "Restaurant",
-    "number": "EERN20030011278",
-    "scheme": "Eating Establishment",
-    "id": "ad978a29-b580-4c9b-9123-4bc1bb79e7cc",
-    "postal": "169608"
-  },
-  {
-    "name": "POLAR CAFE",
     "address": "17 WOODLANDS DRIVE 17 #B2-01 737628",
     "type": "Restaurant",
     "number": "EERT20240001260",
@@ -25045,6 +25117,24 @@
     "scheme": "Eating Establishment",
     "id": "ad978a29-b580-4c9b-9123-4bc1bb79e7cc",
     "postal": "048616"
+  },
+  {
+    "name": "POLAR CAFE",
+    "address": "11 JALAN TAN TOCK SENG #01-04 TAN TOCK SENG HOSPITAL 308433",
+    "type": "Restaurant",
+    "number": "EERN20030011242",
+    "scheme": "Eating Establishment",
+    "id": "ad978a29-b580-4c9b-9123-4bc1bb79e7cc",
+    "postal": "308433"
+  },
+  {
+    "name": "POLAR CAFE",
+    "address": "7 OUTRAM ROAD #01-01 SINGAPORE GENERAL HOSPITAL 169608",
+    "type": "Restaurant",
+    "number": "EERN20030011278",
+    "scheme": "Eating Establishment",
+    "id": "ad978a29-b580-4c9b-9123-4bc1bb79e7cc",
+    "postal": "169608"
   },
   {
     "name": "POLAR CAFE",
@@ -28854,15 +28944,6 @@
     "postal": "520474"
   },
   {
-    "name": "Srisun Express",
-    "address": "56 SERANGOON GARDEN WAY SERANGOON GARDEN ESTATE 555952",
-    "type": "Restaurant",
-    "number": "EERX21040012274",
-    "scheme": "Eating Establishment",
-    "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
-    "postal": "555952"
-  },
-  {
     "name": "Srisun Prata.com",
     "address": "651 JURONG WEST STREET 61 #01-02, Stall 9 640651",
     "type": "Hawker",
@@ -30142,15 +30223,6 @@
   },
   {
     "name": "SUBWAY",
-    "address": "2 JURONG EAST STREET 21 #01-94 IMM BUILDING 609601",
-    "type": "Restaurant",
-    "number": "EERT20240001158",
-    "scheme": "Eating Establishment",
-    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-    "postal": "609601"
-  },
-  {
-    "name": "SUBWAY",
     "address": "21 TAMPINES AVENUE 1 #01-03 TEMASEK POLYTECHNIC,BLK 30B 529757",
     "type": "Restaurant",
     "number": "EERN21110013120",
@@ -30481,6 +30553,15 @@
     "scheme": "Eating Establishment",
     "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
     "postal": "649845"
+  },
+  {
+    "name": "SUBWAY",
+    "address": "2 JURONG EAST STREET 21 #01-94 IMM BUILDING 609601",
+    "type": "Restaurant",
+    "number": "EERT20240001158",
+    "scheme": "Eating Establishment",
+    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+    "postal": "609601"
   },
   {
     "name": "SUBWAY",
@@ -32092,15 +32173,6 @@
     "scheme": "Food Preparation Area",
     "id": "1571d7c4-e2ef-46c1-9a11-5c8ad2e5702d",
     "postal": "528881"
-  },
-  {
-    "name": "SWENSEN'S UNLIMITED",
-    "address": "1 HARBOURFRONT WALK #02-117 VIVO CITY 098585",
-    "type": "Restaurant",
-    "number": "EERT20250000409",
-    "scheme": "Eating Establishment",
-    "id": "625c1c28-9ecb-4ea9-add3-37c5b8dd63ef",
-    "postal": "098585"
   },
   {
     "name": "SWENSENS",
@@ -34054,6 +34126,15 @@
     "scheme": "Food Preparation Area",
     "id": "dd5a28a2-2c58-45b8-9075-58b8263e7c39",
     "postal": "188061"
+  },
+  {
+    "name": "The Makan Place @ Shunfu Rd",
+    "address": "320 SHUNFU ROAD #02-23 SHUNFU MART 570320",
+    "type": "Hawker",
+    "number": "EEHK26100000058",
+    "scheme": "Eating Establishment",
+    "id": "c750274e-e8ef-4b01-964b-7202c9b7f063",
+    "postal": "570320"
   },
   {
     "name": "The Mediterranean Deli Turk",
