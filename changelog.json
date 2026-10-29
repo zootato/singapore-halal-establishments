@@ -1,5 +1,231 @@
 [
   {
+    "timestamp": "2026-10-29T01:49:27.340555",
+    "date": "2026-10-29",
+    "summary": {
+      "new": 17,
+      "removed": 4,
+      "updated": 1
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Terbaik Ban Mian Fish Soup",
+          "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #02-01 FOOD ARENA CHANGI CITY POINT, MR1 486038",
+          "type": "Hawker",
+          "number": "EEHK26100000139",
+          "scheme": "Eating Establishment",
+          "id": "5b328f6d-7c76-45e8-84e8-a6954ad0b0de",
+          "postal": "486038"
+        },
+        {
+          "name": "Malay&Western/WokFried@Cafeteria SCDFHQ (Mgd By Hong Yun Catering)",
+          "address": "91 UBI AVENUE 4 #02-00 HQ SINGAPORE CIVIL DEFENCE FORCE, Stall 2 408827",
+          "type": "Staff Canteen",
+          "number": "EESC20230000670",
+          "scheme": "Eating Establishment",
+          "id": "46fa89cb-eed4-4b8d-956d-0b283f5a5882",
+          "postal": "408827"
+        },
+        {
+          "name": "Majulah Nasi Padang",
+          "address": "1 JURONG WEST CENTRAL 2 #B1-42, #B1-43, #B1-44 JURONG POINT, Stall 12, Bagus 648886",
+          "type": "Hawker",
+          "number": "EEHK26100000134",
+          "scheme": "Eating Establishment",
+          "id": "acf5cf80-ccf0-4f46-b55e-76a0e175fb27",
+          "postal": "648886"
+        },
+        {
+          "name": "Triplets",
+          "address": "9 WOODLANDS AVENUE 9 #01-06 REPUBLIC POLYTECHNIC (RP) 738964",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26100000151",
+          "scheme": "Eating Establishment",
+          "id": "dab0805f-9331-4888-a1cd-a03c1fe02399",
+          "postal": "738964"
+        },
+        {
+          "name": "SELERA RESTAURANT",
+          "address": "15 MACKENZIE ROAD 228677",
+          "type": "Restaurant",
+          "number": "EERN21060012504",
+          "scheme": "Eating Establishment",
+          "id": "033b4db5-e729-40d2-a655-632a9c407a4e",
+          "postal": "228677"
+        },
+        {
+          "name": "Beverages & Snacks@Cafeteria SCDF HQ (Mgd by Hong Yun Catering)",
+          "address": "91 UBI AVENUE 4 #02-00 HQ SINGAPORE CIVIL DEFENCE FORCE 408827",
+          "type": "Staff Canteen",
+          "number": "EESC20230000671",
+          "scheme": "Eating Establishment",
+          "id": "66db4428-8fc0-4c6b-9274-fa204515a07d",
+          "postal": "408827"
+        },
+        {
+          "name": "SAKON THAI VILLAGE",
+          "address": "302 TIONG BAHRU ROAD #02-135 TIONG BAHRU PLAZA 168732",
+          "type": "Restaurant",
+          "number": "EERN21090012892",
+          "scheme": "Eating Establishment",
+          "id": "65a1b383-2510-4745-9dae-23d78efed785",
+          "postal": "168732"
+        },
+        {
+          "name": "ROTIKEK",
+          "address": "302 TENGAH PARK AVENUE #B1-K4 PARC POINT 690302",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26100000152",
+          "scheme": "Eating Establishment",
+          "id": "42d34450-5869-4fe6-94cb-107c37145b50",
+          "postal": "690302"
+        },
+        {
+          "name": "Majulah Nasi Padang",
+          "address": "17 PETIR ROAD #02-15, #02-16, #02-18, #02-19, #02-20 HILLION MALL, Kopitiam Food Hall, Stall 16 678278",
+          "type": "Hawker",
+          "number": "EEHK26100000138",
+          "scheme": "Eating Establishment",
+          "id": "acf5cf80-ccf0-4f46-b55e-76a0e175fb27",
+          "postal": "678278"
+        },
+        {
+          "name": "Nasi Padang",
+          "address": "17A JURONG GATEWAY ROAD JURONG EAST BUS INTERCHANGE, Stall 2 , NTWU Canteen 608513",
+          "type": "Hawker",
+          "number": "EEHK26100000150",
+          "scheme": "Eating Establishment",
+          "id": "71d8b4f3-b437-4b6e-b67b-cfc619101180",
+          "postal": "608513"
+        },
+        {
+          "name": "SAI KITCHEN INDIAN MUSLIM & TANDOORI FOOD",
+          "address": "1 JURONG WEST CENTRAL 2 #B1-42/43/44 JURONG POINT, BAGUS (MR1) 648886",
+          "type": "Hawker",
+          "number": "EEHK26100000115",
+          "scheme": "Eating Establishment",
+          "id": "96c5a669-3eb5-4990-a5ed-ea036258293c",
+          "postal": "648886"
+        },
+        {
+          "name": "SAKON THAI",
+          "address": "1 PASIR RIS CLOSE #01-108 E!HUB@DOWNTOWN EAST 519599",
+          "type": "Restaurant",
+          "number": "EERT20220000713",
+          "scheme": "Eating Establishment",
+          "id": "4d60624a-70ec-4812-8be4-993ad3bc5831",
+          "postal": "519599"
+        },
+        {
+          "name": "Majulah Nasi Padang",
+          "address": "1 HOSPITAL CRESCENT SINGAPORE GENERAL HOSPITAL (BLK 6), Stall 4, Koufu 169608",
+          "type": "Hawker",
+          "number": "EEHK26100000137",
+          "scheme": "Eating Establishment",
+          "id": "acf5cf80-ccf0-4f46-b55e-76a0e175fb27",
+          "postal": "169608"
+        },
+        {
+          "name": "RM Food Manufacturing Pte Ltd",
+          "address": "24A SENOKO SOUTH ROAD #05-01 SELECT GROUP BUILDING 758099",
+          "type": "Catering Company",
+          "number": "FPCA26100000077",
+          "scheme": "Food Preparation Area",
+          "id": "f97455c4-c46f-4dee-8575-1343afb4665b",
+          "postal": "758099"
+        },
+        {
+          "name": "Terbaik Ban Mian & Fish Soup",
+          "address": "548 WOODLANDS DRIVE 44 KOUFU @ VISTA POINT #02-34 VISTA POINT, STALL 5 730548",
+          "type": "Hawker",
+          "number": "EEHK26100000140",
+          "scheme": "Eating Establishment",
+          "id": "c0d9d30d-5308-4c5a-9cc8-a39d00d4896f",
+          "postal": "730548"
+        },
+        {
+          "name": "CHEF CHICKEN RICE",
+          "address": "824 TAMPINES STREET 81 #01-38, Stall 5 @ BK 520824",
+          "type": "Hawker",
+          "number": "EEHK26100000153",
+          "scheme": "Eating Establishment",
+          "id": "12722e93-7eb4-4c75-9181-0eb1606d2ca3",
+          "postal": "520824"
+        },
+        {
+          "name": "Majulah Nasi Padang",
+          "address": "11 JALAN TAN TOCK SENG #01-13/14/15 TAN TOCK SENG HOSPITAL, Stall 19, Kopitiam 308433",
+          "type": "Hawker",
+          "number": "EEHK26100000135",
+          "scheme": "Eating Establishment",
+          "id": "acf5cf80-ccf0-4f46-b55e-76a0e175fb27",
+          "postal": "308433"
+        }
+      ],
+      "removed": [
+        {
+          "name": "SUBWAY",
+          "address": "60 JURONG WEST STREET 91 #01-03 NANYANG COMMUNITY CLUB 649040",
+          "type": "Restaurant",
+          "number": "EERN21110013198",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "649040"
+        },
+        {
+          "name": "SUPER SUSHI",
+          "address": "4 TAMPINES CENTRAL 5 #B1-K4 TAMPINES MALL 529510",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000837",
+          "scheme": "Eating Establishment",
+          "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
+          "postal": "529510"
+        },
+        {
+          "name": "MR BEAN",
+          "address": "90 HOUGANG AVENUE 10 #B1-13A HOUGANG MALL 538766",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000178",
+          "scheme": "Eating Establishment",
+          "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
+          "postal": "538766"
+        },
+        {
+          "name": "SUBWAY",
+          "address": "253 JURONG EAST STREET 24 #01-261 YUHUA VILLAGE 600253",
+          "type": "Restaurant",
+          "number": "EERT20240001151",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "600253"
+        }
+      ],
+      "updated": [
+        {
+          "previous": {
+            "name": "Kubis Authentic Korean Food @ Woodleigh Village Hawker Centre",
+            "address": "202C WOODLEIGH LINK #01-36 WOODLEIGH VILLAGE 363202",
+            "type": "Hawker",
+            "number": "EEHK20250000471",
+            "scheme": "Eating Establishment",
+            "id": "72f74b55-08dd-46c3-b2c7-5ae2bd5d52df",
+            "postal": "363202"
+          },
+          "current": {
+            "name": "Kubis Authentic Korean Food @ Woodleigh Village Hawker Centre",
+            "address": "202C WOODLEIGH LINK #01-36, STALL 36, Woodleigh Village Hawker Centre 363202",
+            "type": "Hawker",
+            "number": "EEHK20250000471",
+            "scheme": "Eating Establishment",
+            "id": "72f74b55-08dd-46c3-b2c7-5ae2bd5d52df",
+            "postal": "363202"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-10-28T01:13:40.851939",
     "date": "2026-10-28",
     "summary": {
@@ -12852,114 +13078,6 @@
             "scheme": "Eating Establishment",
             "id": "5965b877-26d4-4e8e-9076-d0dbf88530c4",
             "postal": "099701"
-          }
-        }
-      ]
-    }
-  },
-  {
-    "timestamp": "2026-08-25T22:41:53.232920",
-    "date": "2026-08-25",
-    "summary": {
-      "new": 8,
-      "removed": 0,
-      "updated": 1
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "The Kiosk",
-          "address": "60 PAYA LEBAR ROAD @ BAGUS (STALL 1) #B1-51 PAYA LEBAR SQUARE 409051",
-          "type": "Hawker",
-          "number": "EEHK26080000011",
-          "scheme": "Eating Establishment",
-          "id": "e1fcfd32-05e6-449b-a63f-85d7686be500",
-          "postal": "409051"
-        },
-        {
-          "name": "The Kiosk",
-          "address": "7 PASIR RIS CENTRAL @ BAGUS (STALL 1) #B2-17 PASIR RIS MALL 519612",
-          "type": "Hawker",
-          "number": "EEHK26080000010",
-          "scheme": "Eating Establishment",
-          "id": "e1fcfd32-05e6-449b-a63f-85d7686be500",
-          "postal": "519612"
-        },
-        {
-          "name": "Sutha's Cafe",
-          "address": "103 IRRAWADDY ROAD #01-12/13 ROYAL SQUARE AT NOVENA 329566",
-          "type": "Restaurant",
-          "number": "EERT26080000104",
-          "scheme": "Eating Establishment",
-          "id": "8aeb09f1-9f82-4e1a-a5e3-d1e125e32768",
-          "postal": "329566"
-        },
-        {
-          "name": "The Kiosk",
-          "address": "1 WOODLANDS SQUARE @ BAGUS (STALL 1) #07-03 CAUSEWAY POINT 738099",
-          "type": "Hawker",
-          "number": "EEHK26080000018",
-          "scheme": "Eating Establishment",
-          "id": "e1fcfd32-05e6-449b-a63f-85d7686be500",
-          "postal": "738099"
-        },
-        {
-          "name": "The Kiosk",
-          "address": "1 JURONG WEST CENTRAL 2 @ BAGUS (STALL 1) #B1-42/43/44 JURONG POINT 648886",
-          "type": "Hawker",
-          "number": "EEHK26080000012",
-          "scheme": "Eating Establishment",
-          "id": "e1fcfd32-05e6-449b-a63f-85d7686be500",
-          "postal": "648886"
-        },
-        {
-          "name": "The Kiosk",
-          "address": "1 NORTHPOINT DRIVE #02-101, #02-102, #02-103 NORTHPOINT CITY, BAGUS FOOD HALL (STALL 1) 768019",
-          "type": "Hawker",
-          "number": "EEHK26080000009",
-          "scheme": "Eating Establishment",
-          "id": "e1fcfd32-05e6-449b-a63f-85d7686be500",
-          "postal": "768019"
-        },
-        {
-          "name": "The Kiosk",
-          "address": "5 HOSPITAL DRIVE @ BAGUS (STALL 6) #02-01 NATIONAL HEART CENTRE SINGAPORE 169609",
-          "type": "Hawker",
-          "number": "EEHK26080000013",
-          "scheme": "Eating Establishment",
-          "id": "e1fcfd32-05e6-449b-a63f-85d7686be500",
-          "postal": "169609"
-        },
-        {
-          "name": "The Kiosk",
-          "address": "418 NORTHSHORE DRIVE @ BAGUS (STALL 10) #02-07, #02-08, #02-09 NORTHSHORE PLAZA II 820418",
-          "type": "Hawker",
-          "number": "EEHK26080000008",
-          "scheme": "Eating Establishment",
-          "id": "e1fcfd32-05e6-449b-a63f-85d7686be500",
-          "postal": "820418"
-        }
-      ],
-      "removed": [],
-      "updated": [
-        {
-          "previous": {
-            "name": "Telur Thai",
-            "address": "1 HOSPITAL CRESCENT Stall 03 SINGAPORE GENERAL HOSPITAL BLOCK 6, STALL 3, KOUFU 169608",
-            "type": "Hawker",
-            "number": "EEHK26060000067",
-            "scheme": "Eating Establishment",
-            "id": "032758d3-f10a-4b04-b3b2-a3382470cb78",
-            "postal": "169608"
-          },
-          "current": {
-            "name": "Telur Thai",
-            "address": "1 HOSPITAL CRESCENT SINGAPORE GENERAL HOSPITAL BLOCK 6, STALL 3, KOUFU 169608",
-            "type": "Hawker",
-            "number": "EEHK26060000067",
-            "scheme": "Eating Establishment",
-            "id": "032758d3-f10a-4b04-b3b2-a3382470cb78",
-            "postal": "169608"
           }
         }
       ]

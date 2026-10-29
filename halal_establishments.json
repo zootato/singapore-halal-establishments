@@ -3438,6 +3438,15 @@
     "postal": "903808"
   },
   {
+    "name": "Beverages & Snacks@Cafeteria SCDF HQ (Mgd by Hong Yun Catering)",
+    "address": "91 UBI AVENUE 4 #02-00 HQ SINGAPORE CIVIL DEFENCE FORCE 408827",
+    "type": "Staff Canteen",
+    "number": "EESC20230000671",
+    "scheme": "Eating Establishment",
+    "id": "66db4428-8fc0-4c6b-9274-fa204515a07d",
+    "postal": "408827"
+  },
+  {
     "name": "BEVERAGES-FRUITS(S3)@SAESL(mngd by First Cuisine Food Industries)",
     "address": "11 CALSHOT ROAD #03 Singapore Aero Engine Services Ltd (SAESL) 509932",
     "type": "Staff Canteen",
@@ -5194,21 +5203,21 @@
   },
   {
     "name": "Captain Kim Korean BBQ & Hotpot",
-    "address": "300 TAMPINES AVENUE 5 #01-06, 01D NTUC INCOME AT TAMPINES JUNCTION 529653",
-    "type": "Restaurant",
-    "number": "EERX21080012731",
-    "scheme": "Eating Establishment",
-    "id": "9d4cb9e6-2004-49c6-9aed-a8cf5e013a32",
-    "postal": "529653"
-  },
-  {
-    "name": "Captain Kim Korean BBQ & Hotpot",
     "address": "1 WOODLANDS ROAD #01-24 JUNCTION 10 677899",
     "type": "Restaurant",
     "number": "EERX21110013080",
     "scheme": "Eating Establishment",
     "id": "17afee8c-89a8-4752-b834-092827f2b4ae",
     "postal": "677899"
+  },
+  {
+    "name": "Captain Kim Korean BBQ & Hotpot",
+    "address": "300 TAMPINES AVENUE 5 #01-06, 01D NTUC INCOME AT TAMPINES JUNCTION 529653",
+    "type": "Restaurant",
+    "number": "EERX21080012731",
+    "scheme": "Eating Establishment",
+    "id": "9d4cb9e6-2004-49c6-9aed-a8cf5e013a32",
+    "postal": "529653"
   },
   {
     "name": "Carnival Bakery",
@@ -5551,6 +5560,15 @@
     "scheme": "Eating Establishment",
     "id": "12722e93-7eb4-4c75-9181-0eb1606d2ca3",
     "postal": "670547"
+  },
+  {
+    "name": "CHEF CHICKEN RICE",
+    "address": "824 TAMPINES STREET 81 #01-38, Stall 5 @ BK 520824",
+    "type": "Hawker",
+    "number": "EEHK26100000153",
+    "scheme": "Eating Establishment",
+    "id": "12722e93-7eb4-4c75-9181-0eb1606d2ca3",
+    "postal": "520824"
   },
   {
     "name": "CHEF IBU",
@@ -16768,7 +16786,7 @@
   },
   {
     "name": "Kubis Authentic Korean Food @ Woodleigh Village Hawker Centre",
-    "address": "202C WOODLEIGH LINK #01-36 WOODLEIGH VILLAGE 363202",
+    "address": "202C WOODLEIGH LINK #01-36, STALL 36, Woodleigh Village Hawker Centre 363202",
     "type": "Hawker",
     "number": "EEHK20250000471",
     "scheme": "Eating Establishment",
@@ -17631,6 +17649,42 @@
     "postal": "169608"
   },
   {
+    "name": "Majulah Nasi Padang",
+    "address": "11 JALAN TAN TOCK SENG #01-13/14/15 TAN TOCK SENG HOSPITAL, Stall 19, Kopitiam 308433",
+    "type": "Hawker",
+    "number": "EEHK26100000135",
+    "scheme": "Eating Establishment",
+    "id": "acf5cf80-ccf0-4f46-b55e-76a0e175fb27",
+    "postal": "308433"
+  },
+  {
+    "name": "Majulah Nasi Padang",
+    "address": "1 HOSPITAL CRESCENT SINGAPORE GENERAL HOSPITAL (BLK 6), Stall 4, Koufu 169608",
+    "type": "Hawker",
+    "number": "EEHK26100000137",
+    "scheme": "Eating Establishment",
+    "id": "acf5cf80-ccf0-4f46-b55e-76a0e175fb27",
+    "postal": "169608"
+  },
+  {
+    "name": "Majulah Nasi Padang",
+    "address": "1 JURONG WEST CENTRAL 2 #B1-42, #B1-43, #B1-44 JURONG POINT, Stall 12, Bagus 648886",
+    "type": "Hawker",
+    "number": "EEHK26100000134",
+    "scheme": "Eating Establishment",
+    "id": "acf5cf80-ccf0-4f46-b55e-76a0e175fb27",
+    "postal": "648886"
+  },
+  {
+    "name": "Majulah Nasi Padang",
+    "address": "17 PETIR ROAD #02-15, #02-16, #02-18, #02-19, #02-20 HILLION MALL, Kopitiam Food Hall, Stall 16 678278",
+    "type": "Hawker",
+    "number": "EEHK26100000138",
+    "scheme": "Eating Establishment",
+    "id": "acf5cf80-ccf0-4f46-b55e-76a0e175fb27",
+    "postal": "678278"
+  },
+  {
     "name": "Makan Alley(S3) @PCC Canteen (Mngd by Catering Solutions Pte Ltd).",
     "address": "80 TUAS SOUTH BOULEVARD 2Nd Storey Officer Block, Stall 3 637051",
     "type": "Staff Canteen",
@@ -18295,6 +18349,15 @@
     "scheme": "Eating Establishment",
     "id": "a0317bce-ccf3-42d5-830d-609ee262dec6",
     "postal": "509927"
+  },
+  {
+    "name": "Malay&Western/WokFried@Cafeteria SCDFHQ (Mgd By Hong Yun Catering)",
+    "address": "91 UBI AVENUE 4 #02-00 HQ SINGAPORE CIVIL DEFENCE FORCE, Stall 2 408827",
+    "type": "Staff Canteen",
+    "number": "EESC20230000670",
+    "scheme": "Eating Establishment",
+    "id": "46fa89cb-eed4-4b8d-956d-0b283f5a5882",
+    "postal": "408827"
   },
   {
     "name": "Malay/Indian & Western Kitchen @ Khoo Teck Puat Hospital",
@@ -20440,15 +20503,6 @@
   },
   {
     "name": "MR BEAN",
-    "address": "1 MARITIME SQUARE #01-K4 HARBOURFRONT CENTRE 099253",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20220000177",
-    "scheme": "Eating Establishment",
-    "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
-    "postal": "099253"
-  },
-  {
-    "name": "MR BEAN",
     "address": "1 FUSIONOPOLIS WAY #01-06 CONNEXIS 138632",
     "type": "Restaurant",
     "number": "EERT20220000174",
@@ -20512,21 +20566,21 @@
   },
   {
     "name": "MR BEAN",
+    "address": "1 MARITIME SQUARE #01-K4 HARBOURFRONT CENTRE 099253",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20220000177",
+    "scheme": "Eating Establishment",
+    "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
+    "postal": "099253"
+  },
+  {
+    "name": "MR BEAN",
     "address": "311 NEW UPPER CHANGI ROAD #B2-K2 BEDOK MALL 467360",
     "type": "Snack Bar / Bakery",
     "number": "EESB20220000162",
     "scheme": "Eating Establishment",
     "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
     "postal": "467360"
-  },
-  {
-    "name": "MR BEAN",
-    "address": "90 HOUGANG AVENUE 10 #B1-13A HOUGANG MALL 538766",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20220000178",
-    "scheme": "Eating Establishment",
-    "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
-    "postal": "538766"
   },
   {
     "name": "MR BEAN",
@@ -21805,6 +21859,15 @@
     "scheme": "Eating Establishment",
     "id": "7b15c39a-437e-4d1b-8ee3-84806fd8125e",
     "postal": "738343"
+  },
+  {
+    "name": "Nasi Padang",
+    "address": "17A JURONG GATEWAY ROAD JURONG EAST BUS INTERCHANGE, Stall 2 , NTWU Canteen 608513",
+    "type": "Hawker",
+    "number": "EEHK26100000150",
+    "scheme": "Eating Establishment",
+    "id": "71d8b4f3-b437-4b6e-b67b-cfc619101180",
+    "postal": "608513"
   },
   {
     "name": "Nasi Padang (S8) @ 89.7 Supper Club (Geylang East)",
@@ -24445,15 +24508,6 @@
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
-    "address": "1 PASIR RIS CLOSE #01-342 E!HUB@DOWNTOWN EAST 519599",
-    "type": "Restaurant",
-    "number": "EERN21080012767",
-    "scheme": "Eating Establishment",
-    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
-    "postal": "519599"
-  },
-  {
-    "name": "PIZZA HUT SINGAPORE PTE LTD",
     "address": "163 MACPHERSON ROAD SENNETT ESTATE 348532",
     "type": "Restaurant",
     "number": "EERN21080012782",
@@ -24523,6 +24577,15 @@
     "scheme": "Eating Establishment",
     "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
     "postal": "730306"
+  },
+  {
+    "name": "PIZZA HUT SINGAPORE PTE LTD",
+    "address": "1 PASIR RIS CLOSE #01-342 E!HUB@DOWNTOWN EAST 519599",
+    "type": "Restaurant",
+    "number": "EERN21080012767",
+    "scheme": "Eating Establishment",
+    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
+    "postal": "519599"
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
@@ -26577,6 +26640,15 @@
     "postal": "627946"
   },
   {
+    "name": "RM Food Manufacturing Pte Ltd",
+    "address": "24A SENOKO SOUTH ROAD #05-01 SELECT GROUP BUILDING 758099",
+    "type": "Catering Company",
+    "number": "FPCA26100000077",
+    "scheme": "Food Preparation Area",
+    "id": "f97455c4-c46f-4dee-8575-1343afb4665b",
+    "postal": "758099"
+  },
+  {
     "name": "Roasted Delights (S1) @ Foodgle ITE CentralAMK",
     "address": "2 Ang Mo Kio Drive #01-14 ITE College Central, Stall 1 567720",
     "type": "Hawker",
@@ -26692,6 +26764,15 @@
     "scheme": "Eating Establishment",
     "id": "7285c504-2c8b-496a-adeb-e0ed766bb652",
     "postal": "738343"
+  },
+  {
+    "name": "ROTIKEK",
+    "address": "302 TENGAH PARK AVENUE #B1-K4 PARC POINT 690302",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26100000152",
+    "scheme": "Eating Establishment",
+    "id": "42d34450-5869-4fe6-94cb-107c37145b50",
+    "postal": "690302"
   },
   {
     "name": "ROYAL CATERING SERVICES PTE LTD",
@@ -26937,6 +27018,15 @@
     "postal": "415934"
   },
   {
+    "name": "SAI KITCHEN INDIAN MUSLIM & TANDOORI FOOD",
+    "address": "1 JURONG WEST CENTRAL 2 #B1-42/43/44 JURONG POINT, BAGUS (MR1) 648886",
+    "type": "Hawker",
+    "number": "EEHK26100000115",
+    "scheme": "Eating Establishment",
+    "id": "96c5a669-3eb5-4990-a5ed-ea036258293c",
+    "postal": "648886"
+  },
+  {
     "name": "SAI KITCHEN INDIAN MUSLIM & TANDOORI FOOD (S17)@CANTINE JURONG PT",
     "address": "1 JURONG WEST CENTRAL 2 #B1-42/43/44 JURONG POINT, MR 1 648886",
     "type": "Hawker",
@@ -26953,6 +27043,24 @@
     "scheme": "Eating Establishment",
     "id": "f1c43f81-9880-4e2e-bc15-91f70387372f",
     "postal": "119963"
+  },
+  {
+    "name": "SAKON THAI",
+    "address": "1 PASIR RIS CLOSE #01-108 E!HUB@DOWNTOWN EAST 519599",
+    "type": "Restaurant",
+    "number": "EERT20220000713",
+    "scheme": "Eating Establishment",
+    "id": "4d60624a-70ec-4812-8be4-993ad3bc5831",
+    "postal": "519599"
+  },
+  {
+    "name": "SAKON THAI VILLAGE",
+    "address": "302 TIONG BAHRU ROAD #02-135 TIONG BAHRU PLAZA 168732",
+    "type": "Restaurant",
+    "number": "EERN21090012892",
+    "scheme": "Eating Establishment",
+    "id": "65a1b383-2510-4745-9dae-23d78efed785",
+    "postal": "168732"
   },
   {
     "name": "SAKUNTHALA'S",
@@ -27406,21 +27514,21 @@
   },
   {
     "name": "Sanook Kitchen",
-    "address": "2 ORCHARD TURN #B3-19 ION ORCHARD 238801",
-    "type": "Restaurant",
-    "number": "EERT20220000262",
-    "scheme": "Eating Establishment",
-    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-    "postal": "238801"
-  },
-  {
-    "name": "Sanook Kitchen",
     "address": "10 PAYA LEBAR ROAD #03-28/29 PLQ MALL 409057",
     "type": "Restaurant",
     "number": "EERT20220001029",
     "scheme": "Eating Establishment",
     "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
     "postal": "409057"
+  },
+  {
+    "name": "Sanook Kitchen",
+    "address": "2 ORCHARD TURN #B3-19 ION ORCHARD 238801",
+    "type": "Restaurant",
+    "number": "EERT20220000262",
+    "scheme": "Eating Establishment",
+    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+    "postal": "238801"
   },
   {
     "name": "Sanook Kitchen",
@@ -27970,6 +28078,15 @@
     "scheme": "Eating Establishment",
     "id": "661b43f3-0525-46db-9add-ca061449939c",
     "postal": "731306"
+  },
+  {
+    "name": "SELERA RESTAURANT",
+    "address": "15 MACKENZIE ROAD 228677",
+    "type": "Restaurant",
+    "number": "EERN21060012504",
+    "scheme": "Eating Establishment",
+    "id": "033b4db5-e729-40d2-a655-632a9c407a4e",
+    "postal": "228677"
   },
   {
     "name": "Selesa Enak Chicken Rice",
@@ -30205,24 +30322,6 @@
   },
   {
     "name": "SUBWAY",
-    "address": "60 JURONG WEST STREET 91 #01-03 NANYANG COMMUNITY CLUB 649040",
-    "type": "Restaurant",
-    "number": "EERN21110013198",
-    "scheme": "Eating Establishment",
-    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-    "postal": "649040"
-  },
-  {
-    "name": "SUBWAY",
-    "address": "253 JURONG EAST STREET 24 #01-261 YUHUA VILLAGE 600253",
-    "type": "Restaurant",
-    "number": "EERT20240001151",
-    "scheme": "Eating Establishment",
-    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-    "postal": "600253"
-  },
-  {
-    "name": "SUBWAY",
     "address": "21 TAMPINES AVENUE 1 #01-03 TEMASEK POLYTECHNIC,BLK 30B 529757",
     "type": "Restaurant",
     "number": "EERN21110013120",
@@ -31246,15 +31345,6 @@
     "scheme": "Eating Establishment",
     "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
     "postal": "545078"
-  },
-  {
-    "name": "SUPER SUSHI",
-    "address": "4 TAMPINES CENTRAL 5 #B1-K4 TAMPINES MALL 529510",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20240000837",
-    "scheme": "Eating Establishment",
-    "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
-    "postal": "529510"
   },
   {
     "name": "SUPER SUSHI",
@@ -32940,6 +33030,15 @@
     "postal": "689812"
   },
   {
+    "name": "Terbaik Ban Mian & Fish Soup",
+    "address": "548 WOODLANDS DRIVE 44 KOUFU @ VISTA POINT #02-34 VISTA POINT, STALL 5 730548",
+    "type": "Hawker",
+    "number": "EEHK26100000140",
+    "scheme": "Eating Establishment",
+    "id": "c0d9d30d-5308-4c5a-9cc8-a39d00d4896f",
+    "postal": "730548"
+  },
+  {
     "name": "Terbaik Ban Mian Congee (S4) @ Kopitiam KTPH",
     "address": "90 YISHUN CENTRAL #01-12 KHOO TECK PUAT HOSPITAL, Stall 4 768828",
     "type": "Hawker",
@@ -32956,6 +33055,15 @@
     "scheme": "Eating Establishment",
     "id": "5b328f6d-7c76-45e8-84e8-a6954ad0b0de",
     "postal": "609606"
+  },
+  {
+    "name": "Terbaik Ban Mian Fish Soup",
+    "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #02-01 FOOD ARENA CHANGI CITY POINT, MR1 486038",
+    "type": "Hawker",
+    "number": "EEHK26100000139",
+    "scheme": "Eating Establishment",
+    "id": "5b328f6d-7c76-45e8-84e8-a6954ad0b0de",
+    "postal": "486038"
   },
   {
     "name": "Terbaik Fish Soup & Ban Mian (S3) @ Cantine Canberra Plaza",
@@ -35118,6 +35226,15 @@
     "postal": "768828"
   },
   {
+    "name": "Triplets",
+    "address": "9 WOODLANDS AVENUE 9 #01-06 REPUBLIC POLYTECHNIC (RP) 738964",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26100000151",
+    "scheme": "Eating Establishment",
+    "id": "dab0805f-9331-4888-a1cd-a03c1fe02399",
+    "postal": "738964"
+  },
+  {
     "name": "TripletS",
     "address": "70 STAMFORD ROAD #B1-24A SINGAPORE MANAGEMENT UNIVERSITY 178901",
     "type": "Restaurant",
@@ -35164,21 +35281,21 @@
   },
   {
     "name": "TripletS",
-    "address": "110 SENGKANG EAST WAY #02-03 SENGKANG GENERAL HOSPITAL 544886",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB26010000120",
-    "scheme": "Eating Establishment",
-    "id": "93a5a81c-1ecf-48e6-9206-cad8e5504ada",
-    "postal": "544886"
-  },
-  {
-    "name": "TripletS",
     "address": "1 PUNGGOL COAST ROAD 01-01 DIGIPEN INSTITUTE TECHNOLOGY OF SINGAPORE 828608",
     "type": "Snack Bar / Bakery",
     "number": "EESB26010000121",
     "scheme": "Eating Establishment",
     "id": "93a5a81c-1ecf-48e6-9206-cad8e5504ada",
     "postal": "828608"
+  },
+  {
+    "name": "TripletS",
+    "address": "110 SENGKANG EAST WAY #02-03 SENGKANG GENERAL HOSPITAL 544886",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26010000120",
+    "scheme": "Eating Establishment",
+    "id": "93a5a81c-1ecf-48e6-9206-cad8e5504ada",
+    "postal": "544886"
   },
   {
     "name": "TUK TUK CHA",
