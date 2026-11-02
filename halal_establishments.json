@@ -22203,6 +22203,24 @@
     "postal": "600214"
   },
   {
+    "name": "Pagi Sore Indonesian Restaurant",
+    "address": "88/89/90 TELOK AYER STREET #01-01 FAR EAST SQUARE 048470",
+    "type": "Restaurant",
+    "number": "EERN21120013226",
+    "scheme": "Eating Establishment",
+    "id": "7922b2c2-7b99-4faf-b26b-05f5972ceda9",
+    "postal": "048470"
+  },
+  {
+    "name": "PAGI SORE INDONESIAN RESTAURANT PTE. LTD.",
+    "address": "3015 BEDOK NORTH STREET 5 #04-27 SHIMEI EAST KITCHEN 486350",
+    "type": "Central Kitchen",
+    "number": "FPCK20220000479",
+    "scheme": "Food Preparation Area",
+    "id": "7e6010b7-963d-4756-9afe-c13234d70ee2",
+    "postal": "486350"
+  },
+  {
     "name": "Pangi Nut Western Peranakan Inspired",
     "address": "2 JOO CHIAT ROAD MR1 #01-11127 (Chew N Chat Food Court) Joo Chiat Complex 420002",
     "type": "Hawker",
@@ -26353,15 +26371,6 @@
   },
   {
     "name": "Sanook Kitchen",
-    "address": "1 HARBOURFRONT WALK #B2-23C VIVO CITY 098585",
-    "type": "Restaurant",
-    "number": "EERT20220000545",
-    "scheme": "Eating Establishment",
-    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-    "postal": "098585"
-  },
-  {
-    "name": "Sanook Kitchen",
     "address": "10 PAYA LEBAR ROAD #03-28/29 PLQ MALL 409057",
     "type": "Restaurant",
     "number": "EERT20220001029",
@@ -27547,15 +27556,6 @@
     "scheme": "Eating Establishment",
     "id": "eab58cf8-5aa4-4b96-b522-760a4cceded7",
     "postal": "529510"
-  },
-  {
-    "name": "So Pho",
-    "address": "83 Punggol Central #01-28 Waterway Point (East Wing) 828761",
-    "type": "Restaurant",
-    "number": "EERN21070012673",
-    "scheme": "Eating Establishment",
-    "id": "eab58cf8-5aa4-4b96-b522-760a4cceded7",
-    "postal": "828761"
   },
   {
     "name": "Social Cafe",
