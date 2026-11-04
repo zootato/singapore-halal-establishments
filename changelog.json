@@ -1,5 +1,429 @@
 [
   {
+    "timestamp": "2026-11-04T02:21:55.382673",
+    "date": "2026-11-04",
+    "summary": {
+      "new": 37,
+      "removed": 6,
+      "updated": 1
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "READY TO EAT CORNER",
+          "address": "99 BEDOK NORTH ROAD ESSO BEDOK NORTH 469677",
+          "type": "Food Kiosk",
+          "number": "EEFK26110000013",
+          "scheme": "Eating Establishment",
+          "id": "fb3f761e-6c41-44bc-b72e-028c75a57a71",
+          "postal": "469677"
+        },
+        {
+          "name": "twyst",
+          "address": "5 RAFFLES PLACE #B1-25-26 RAFFLES PLACE MRT STATION 048618",
+          "type": "Restaurant",
+          "number": "EERT20220000787",
+          "scheme": "Eating Establishment",
+          "id": "2b421cd1-a8a1-4d47-a983-d25fc5a6f434",
+          "postal": "048618"
+        },
+        {
+          "name": "twyst",
+          "address": "10 EUNOS ROAD 8 #01-177 SINGAPORE POST CENTRE 408600",
+          "type": "Restaurant",
+          "number": "EERT20240000223",
+          "scheme": "Eating Establishment",
+          "id": "2b421cd1-a8a1-4d47-a983-d25fc5a6f434",
+          "postal": "408600"
+        },
+        {
+          "name": "MUNCHI PANCAKES",
+          "address": "2A JALAN SEH CHUAN #01-020 Bukit Timah Wet Market & Food Centre (Interim), stall 20 599213",
+          "type": "Hawker",
+          "number": "EEHK26070000006",
+          "scheme": "Eating Establishment",
+          "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
+          "postal": "599213"
+        },
+        {
+          "name": "READY TO EAT CORNER",
+          "address": "353 TANGLIN ROAD ESSO SERVICE STATION 247959",
+          "type": "Food Kiosk",
+          "number": "EEFK26110000010",
+          "scheme": "Eating Establishment",
+          "id": "fb3f761e-6c41-44bc-b72e-028c75a57a71",
+          "postal": "247959"
+        },
+        {
+          "name": "READY TO EAT CORNER",
+          "address": "50 CHOA CHU KANG DRIVE ESSO M-D PETROLEUM 689716",
+          "type": "Food Kiosk",
+          "number": "EEFK26110000022",
+          "scheme": "Eating Establishment",
+          "id": "fb3f761e-6c41-44bc-b72e-028c75a57a71",
+          "postal": "689716"
+        },
+        {
+          "name": "READY TO EAT CORNER",
+          "address": "31 CHOA CHU KANG WAY ESSO CHOA CHU KANG WAY 688786",
+          "type": "Food Kiosk",
+          "number": "EEFK26110000021",
+          "scheme": "Eating Establishment",
+          "id": "fb3f761e-6c41-44bc-b72e-028c75a57a71",
+          "postal": "688786"
+        },
+        {
+          "name": "READY TO EAT CORNER",
+          "address": "926 UPPER BUKIT TIMAH ROAD ESSO BUKIT PANJANG 678205",
+          "type": "Food Kiosk",
+          "number": "EEFK26110000017",
+          "scheme": "Eating Establishment",
+          "id": "fb3f761e-6c41-44bc-b72e-028c75a57a71",
+          "postal": "678205"
+        },
+        {
+          "name": "READY TO EAT CORNER",
+          "address": "251 UPPER EAST COAST ROAD ESSO UPPER EAST COAST 466404",
+          "type": "Food Kiosk",
+          "number": "EEFK26110000014",
+          "scheme": "Eating Establishment",
+          "id": "fb3f761e-6c41-44bc-b72e-028c75a57a71",
+          "postal": "466404"
+        },
+        {
+          "name": "MUNCHI PANCAKES",
+          "address": "302 TENGAH PARK AVENUE #B1-K1 PARC POINT 690302",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26100000131",
+          "scheme": "Eating Establishment",
+          "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
+          "postal": "690302"
+        },
+        {
+          "name": "LEMONGRASS",
+          "address": "625B TAMPINES STREET 61 #01-03 TAMPINES GREENVERGE 522625",
+          "type": "Restaurant",
+          "number": "EERT20250000785",
+          "scheme": "Eating Establishment",
+          "id": "2a64af5a-cb82-4ad5-afc1-1a18b18eeefc",
+          "postal": "522625"
+        },
+        {
+          "name": "twyst",
+          "address": "1 PASIR RIS CENTRAL STREET 3 #B1-K14 518457",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000934",
+          "scheme": "Eating Establishment",
+          "id": "2b421cd1-a8a1-4d47-a983-d25fc5a6f434",
+          "postal": "518457"
+        },
+        {
+          "name": "twyst",
+          "address": "1 NORTHPOINT DRIVE #B2-138 NORTHPOINT CITY 768019",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000450",
+          "scheme": "Eating Establishment",
+          "id": "2b421cd1-a8a1-4d47-a983-d25fc5a6f434",
+          "postal": "768019"
+        },
+        {
+          "name": "READY TO EAT CORNER",
+          "address": "242A PASIR PANJANG ROAD ESSO PASIR PANJANG 118598",
+          "type": "Food Kiosk",
+          "number": "EEFK26110000016",
+          "scheme": "Eating Establishment",
+          "id": "fb3f761e-6c41-44bc-b72e-028c75a57a71",
+          "postal": "118598"
+        },
+        {
+          "name": "READY TO EAT CORNER",
+          "address": "955 UPPER CHANGI ROAD NORTH 507662",
+          "type": "Food Kiosk",
+          "number": "EEFK26110000007",
+          "scheme": "Eating Establishment",
+          "id": "fb3f761e-6c41-44bc-b72e-028c75a57a71",
+          "postal": "507662"
+        },
+        {
+          "name": "twyst",
+          "address": "50 JURONG GATEWAY ROAD #B1-K14 JEM 608549",
+          "type": "Restaurant",
+          "number": "EERT20230000444",
+          "scheme": "Eating Establishment",
+          "id": "2b421cd1-a8a1-4d47-a983-d25fc5a6f434",
+          "postal": "608549"
+        },
+        {
+          "name": "READY TO EAT CORNER",
+          "address": "181 WEST COAST ROAD ESSO WEST COAST 127373",
+          "type": "Food Kiosk",
+          "number": "EEFK26110000020",
+          "scheme": "Eating Establishment",
+          "id": "fb3f761e-6c41-44bc-b72e-028c75a57a71",
+          "postal": "127373"
+        },
+        {
+          "name": "READY TO EAT CORNER",
+          "address": "37 JALAN JURONG KECHIL ESSO SERVICE STATION 598577",
+          "type": "Food Kiosk",
+          "number": "EEFK26110000009",
+          "scheme": "Eating Establishment",
+          "id": "fb3f761e-6c41-44bc-b72e-028c75a57a71",
+          "postal": "598577"
+        },
+        {
+          "name": "LEMONGRASS",
+          "address": "476 UPPER SERANGOON VIEW #02-06 HOUGANG CAPEVIEW 530476",
+          "type": "Restaurant",
+          "number": "EERN21080012855",
+          "scheme": "Eating Establishment",
+          "id": "7f865958-75bd-4999-94f3-ec9c2fed9dd5",
+          "postal": "530476"
+        },
+        {
+          "name": "Wikedo Western (MR6) @ Koufu Tampines Mart",
+          "address": "9 TAMPINES STREET 32 #01-01-14, MR6 529286",
+          "type": "Hawker",
+          "number": "EEHK20230000783",
+          "scheme": "Eating Establishment",
+          "id": "c1abd9c7-87a7-40ff-94c5-075bfd419193",
+          "postal": "529286"
+        },
+        {
+          "name": "twyst",
+          "address": "70 COMPASSVALE BOW #01-05 544692",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230001303",
+          "scheme": "Eating Establishment",
+          "id": "2b421cd1-a8a1-4d47-a983-d25fc5a6f434",
+          "postal": "544692"
+        },
+        {
+          "name": "READY TO EAT CORNER",
+          "address": "813 BUKIT BATOK WEST AVENUE 5 ESSO BUKIT BATOK 659084",
+          "type": "Food Kiosk",
+          "number": "EEFK26110000006",
+          "scheme": "Eating Establishment",
+          "id": "fb3f761e-6c41-44bc-b72e-028c75a57a71",
+          "postal": "659084"
+        },
+        {
+          "name": "twyst",
+          "address": "7 WALLICH STREET #b1-17 TANJONG PAGAR CENTRE 078884",
+          "type": "Restaurant",
+          "number": "EERT20230001212",
+          "scheme": "Eating Establishment",
+          "id": "2b421cd1-a8a1-4d47-a983-d25fc5a6f434",
+          "postal": "078884"
+        },
+        {
+          "name": "READY TO EAT CORNER",
+          "address": "611 ALJUNIED ROAD ESSO ALJUNIED B 389830",
+          "type": "Food Kiosk",
+          "number": "EEFK26110000018",
+          "scheme": "Eating Establishment",
+          "id": "fb3f761e-6c41-44bc-b72e-028c75a57a71",
+          "postal": "389830"
+        },
+        {
+          "name": "INDONESIAN PANGGANG PTE. LTD.",
+          "address": "1550 BEDOK NORTH AVENUE 4 #02-13 JTC BEDOK FOOD CITY 489950",
+          "type": "Central Kitchen",
+          "number": "FPCK26110000001",
+          "scheme": "Food Preparation Area",
+          "id": "824243f6-e994-4178-a775-7c83fa34353c",
+          "postal": "489950"
+        },
+        {
+          "name": "JR FOODS PTE. LTD.",
+          "address": "8 SENOKO SOUTH ROAD #03-01/03 CHNG KEE'S FOODLINK 758095",
+          "type": "Catering Company",
+          "number": "FPCA20240000882",
+          "scheme": "Food Preparation Area",
+          "id": "8fe8cd3f-e77c-43c1-a778-ef8e7feac985",
+          "postal": "758095"
+        },
+        {
+          "name": "READY TO EAT CORNER",
+          "address": "384 LORONG CHUAN ESSO LORONG CHUAN 556810",
+          "type": "Food Kiosk",
+          "number": "EEFK26110000011",
+          "scheme": "Eating Establishment",
+          "id": "fb3f761e-6c41-44bc-b72e-028c75a57a71",
+          "postal": "556810"
+        },
+        {
+          "name": "MUNCHI PANCAKES",
+          "address": "1 VISTA EXCHANGE GREEN #B1-K1 THE STAR VISTA 138617",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26070000005",
+          "scheme": "Eating Establishment",
+          "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
+          "postal": "138617"
+        },
+        {
+          "name": "twyst",
+          "address": "9 NORTH BUONA VISTA DRIVE #01-15 THE METROPOLIS 138588",
+          "type": "Restaurant",
+          "number": "EERT20230001100",
+          "scheme": "Eating Establishment",
+          "id": "2b421cd1-a8a1-4d47-a983-d25fc5a6f434",
+          "postal": "138588"
+        },
+        {
+          "name": "READY TO EAT CORNER",
+          "address": "174 HOLLAND ROAD ESSO HOLLAND 278582",
+          "type": "Food Kiosk",
+          "number": "EEFK26110000015",
+          "scheme": "Eating Establishment",
+          "id": "fb3f761e-6c41-44bc-b72e-028c75a57a71",
+          "postal": "278582"
+        },
+        {
+          "name": "twyst",
+          "address": "12 MARINA VIEW #02-05 ASIA SQUARE TOWER 2 018961",
+          "type": "Hawker",
+          "number": "EEHK20230000445",
+          "scheme": "Eating Establishment",
+          "id": "2b421cd1-a8a1-4d47-a983-d25fc5a6f434",
+          "postal": "018961"
+        },
+        {
+          "name": "twyst",
+          "address": "1 CHANGI BUSINESS PARK CRESCENT #01-23 PLAZA 8 @ CBP 486025",
+          "type": "Restaurant",
+          "number": "EERT20250000257",
+          "scheme": "Eating Establishment",
+          "id": "2b421cd1-a8a1-4d47-a983-d25fc5a6f434",
+          "postal": "486025"
+        },
+        {
+          "name": "twyst",
+          "address": "2 ORCHARD TURN 2 Orchard Turn, #B4-57 ION ORCHARD, Singapore 238801 #B4-57 ION ORCHARD 238801",
+          "type": "Restaurant",
+          "number": "EERT25100000113",
+          "scheme": "Eating Establishment",
+          "id": "2b421cd1-a8a1-4d47-a983-d25fc5a6f434",
+          "postal": "238801"
+        },
+        {
+          "name": "READY TO EAT CORNER",
+          "address": "399 LORONG 2 TOA PAYOH ESSO TOA PAYOH LORONG 2 319640",
+          "type": "Food Kiosk",
+          "number": "EEFK26110000012",
+          "scheme": "Eating Establishment",
+          "id": "fb3f761e-6c41-44bc-b72e-028c75a57a71",
+          "postal": "319640"
+        },
+        {
+          "name": "READY TO EAT CORNER",
+          "address": "373 UPPER ALJUNIED ROAD ESSO UPPER ALJUNIED 367859",
+          "type": "Food Kiosk",
+          "number": "EEFK26110000019",
+          "scheme": "Eating Establishment",
+          "id": "fb3f761e-6c41-44bc-b72e-028c75a57a71",
+          "postal": "367859"
+        },
+        {
+          "name": "READY TO EAT CORNER",
+          "address": "1 JERVOIS ROAD ESSO SERVICE STATION 248992",
+          "type": "Food Kiosk",
+          "number": "EEFK26110000005",
+          "scheme": "Eating Establishment",
+          "id": "fb3f761e-6c41-44bc-b72e-028c75a57a71",
+          "postal": "248992"
+        },
+        {
+          "name": "MACHAN'S KITCHEN",
+          "address": "36 RACE COURSE ROAD 36/34 LITTLE INDIA CONSERVATION AREA 218554",
+          "type": "Restaurant",
+          "number": "EERT26110000003",
+          "scheme": "Eating Establishment",
+          "id": "86c931f2-14b5-4343-ad5d-94339a050a0b",
+          "postal": "218554"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Srisun Express",
+          "address": "681 HOUGANG AVENUE 8 #01-831 HOUGANG VILLAGE 530681",
+          "type": "Restaurant",
+          "number": "EERT20230000895",
+          "scheme": "Eating Establishment",
+          "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
+          "postal": "530681"
+        },
+        {
+          "name": "Srisun Express",
+          "address": "132 BUKIT BATOK WEST AVENUE 6 #01-308, part of 650132",
+          "type": "Restaurant",
+          "number": "EERX21040012272",
+          "scheme": "Eating Establishment",
+          "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
+          "postal": "650132"
+        },
+        {
+          "name": "Srisun Express",
+          "address": "56 SERANGOON GARDEN WAY SERANGOON GARDEN ESTATE 555952",
+          "type": "Restaurant",
+          "number": "EERX21040012274",
+          "scheme": "Eating Establishment",
+          "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
+          "postal": "555952"
+        },
+        {
+          "name": "Tenderbest (S9)@ FF 419 F&B",
+          "address": "419 TAMPINES STREET 41 #01-80 SUN PLAZA GARDENS, Stall 9 520419",
+          "type": "Hawker",
+          "number": "EEHK20230001206",
+          "scheme": "Eating Establishment",
+          "id": "7dc87f27-8aaa-4803-a900-d02f6eaddb56",
+          "postal": "520419"
+        },
+        {
+          "name": "Srisun Express",
+          "address": "509 BISHAN STREET 11 #01-382 570509",
+          "type": "Restaurant",
+          "number": "EERT20230001058",
+          "scheme": "Eating Establishment",
+          "id": "b34e6110-c03c-442c-8d0a-3fb8e1e763f5",
+          "postal": "570509"
+        },
+        {
+          "name": "FONG SENG NASI LEMAK",
+          "address": "101 Pasir Panjang Road 118527",
+          "type": "Restaurant",
+          "number": "EERN21020012034",
+          "scheme": "Eating Establishment",
+          "id": "050c83b7-f1f2-48ab-9b49-9b149adf4a27",
+          "postal": "118527"
+        }
+      ],
+      "updated": [
+        {
+          "previous": {
+            "name": "Full Bowl",
+            "address": "63 JURONG WEST CENTRAL 3 #03-105, 106, 107, 108, 109, 110, 111, 112 JURONG POINT SHOPPING CENTRE 648331",
+            "type": "Restaurant",
+            "number": "EERN21040012243",
+            "scheme": "Eating Establishment",
+            "id": "2dce1ae1-5e33-4749-952e-c14abd6ebf2b",
+            "postal": "648331"
+          },
+          "current": {
+            "name": "Tongue Tip Lanzhou Beef Noodles",
+            "address": "63 JURONG WEST CENTRAL 3 #03-105, 106, 107, 108, 109, 110, 111, 112 JURONG POINT SHOPPING CENTRE 648331",
+            "type": "Restaurant",
+            "number": "EERN21040012243",
+            "scheme": "Eating Establishment",
+            "id": "2dce1ae1-5e33-4749-952e-c14abd6ebf2b",
+            "postal": "648331"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-11-03T03:35:33.848188",
     "date": "2026-11-03",
     "summary": {
@@ -12318,115 +12742,6 @@
         }
       ],
       "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-09-01T01:20:39.159805",
-    "date": "2026-09-01",
-    "summary": {
-      "new": 5,
-      "removed": 3,
-      "updated": 1
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Dou",
-          "address": "419 TAMPINES STREET 41 Stall 6 @ 410 F&B #01-80 SUN PLAZA GARDENS 520419",
-          "type": "Hawker",
-          "number": "EEHK26030000066",
-          "scheme": "Eating Establishment",
-          "id": "b85a4ca2-0213-4b54-a8df-b9864880b361",
-          "postal": "520419"
-        },
-        {
-          "name": "Chewy Junior",
-          "address": "1 PASIR RIS CENTRAL STREET 3 #B1-K07 WHITE SANDS 518457",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26030000021",
-          "scheme": "Eating Establishment",
-          "id": "e771787a-3073-49e7-946c-d641dbf56153",
-          "postal": "518457"
-        },
-        {
-          "name": "Dou (Stall 4) @ BK 824 Tampines",
-          "address": "824 TAMPINES STREET 81 #01-38 TAMPINES GROVE, Stall 4 520824",
-          "type": "Hawker",
-          "number": "EEHK20240000749",
-          "scheme": "Eating Establishment",
-          "id": "b9e78408-8b8b-46d0-9bf4-b1856f2cba70",
-          "postal": "520824"
-        },
-        {
-          "name": "Staff Cafeteria @ Medtronic Singapore Managed By The Wok People",
-          "address": "49 CHANGI SOUTH AVENUE 2 #Level 1 NASACO TECH CENTRE 486056",
-          "type": "Staff Canteen",
-          "number": "EESC20250000800",
-          "scheme": "Eating Establishment",
-          "id": "4eebfa0c-75f5-4f1e-b4e7-73723995fb43",
-          "postal": "486056"
-        },
-        {
-          "name": "New Hope Food Industries Pte Ltd (Mngd by Polar Puffs & Cakes)",
-          "address": "982C UPPER CHANGI ROAD NORTH BLOCK A3 LEVEL 1 WORKSHOP1-WO1 506980",
-          "type": "Central Kitchen",
-          "number": "FPCX20040001360",
-          "scheme": "Food Preparation Area",
-          "id": "a57363f4-3804-47ed-b130-529c63d2f453",
-          "postal": "506980"
-        }
-      ],
-      "removed": [
-        {
-          "name": "SAKON THAI",
-          "address": "1 NORTHPOINT DRIVE #01-129 NORTHPOINT CITY 768019",
-          "type": "Restaurant",
-          "number": "EERT20220000714",
-          "scheme": "Eating Establishment",
-          "id": "4d60624a-70ec-4812-8be4-993ad3bc5831",
-          "postal": "768019"
-        },
-        {
-          "name": "STUFF'D",
-          "address": "1 HARBOUR FRONT WALK #B2-K18 VIVO CITY 098585",
-          "type": "Snack Bar / Bakery",
-          "number": "EEBN21110012925",
-          "scheme": "Eating Establishment",
-          "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
-          "postal": "098585"
-        },
-        {
-          "name": "STUFF'D",
-          "address": "21 CHOA CHU KANG NORTH 6 #B1-50 YEWTEE POINT 689578",
-          "type": "Snack Bar / Bakery",
-          "number": "EEBN21110012926",
-          "scheme": "Eating Establishment",
-          "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
-          "postal": "689578"
-        }
-      ],
-      "updated": [
-        {
-          "previous": {
-            "name": "McDonald's",
-            "address": "4 BUKIT BATOK STREET 41 #01-42-45/50-54 LE QUEST 657991",
-            "type": "Restaurant",
-            "number": "EERN21010011971",
-            "scheme": "Eating Establishment",
-            "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-            "postal": "657991"
-          },
-          "current": {
-            "name": "McDonald's",
-            "address": "4 BUKIT BATOK STREET 41 #01-42/43/44/45/50/51/52/53/54 LE QUEST 657991",
-            "type": "Restaurant",
-            "number": "EERN21010011971",
-            "scheme": "Eating Establishment",
-            "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
-            "postal": "657991"
-          }
-        }
-      ]
     }
   }
 ]
