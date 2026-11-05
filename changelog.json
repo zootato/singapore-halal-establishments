@@ -1,5 +1,188 @@
 [
   {
+    "timestamp": "2026-11-05T02:21:46.425372",
+    "date": "2026-11-05",
+    "summary": {
+      "new": 13,
+      "removed": 1,
+      "updated": 2
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Staff Cafeteria @ Pfizer Asia Mnfg (Mngd by The Wok People)",
+          "address": "11 TUAS BAY STREET #01-00 639164",
+          "type": "Staff Canteen",
+          "number": "EESC26100000149",
+          "scheme": "Eating Establishment",
+          "id": "77a2b0dd-9a0c-4df0-9eee-120d54041cc9",
+          "postal": "639164"
+        },
+        {
+          "name": "Indian Saaga",
+          "address": "38 RACE COURSE ROAD #01-00 218555",
+          "type": "Catering Company",
+          "number": "FPCA26110000026",
+          "scheme": "Food Preparation Area",
+          "id": "b9544459-6711-4f51-9c59-836511d1cdab",
+          "postal": "218555"
+        },
+        {
+          "name": "Halal Section @ NTUC FAIRPRICE",
+          "address": "2 JOO CHIAT ROAD #01-1139 JOO CHIAT COMPLEX 420002",
+          "type": "Central Kitchen",
+          "number": "FPCK26100000076",
+          "scheme": "Food Preparation Area",
+          "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
+          "postal": "420002"
+        },
+        {
+          "name": "Staff Canteen Stall @ ICES (Mngd by PRO*3 Institutional Ctrg PL)",
+          "address": "1 PESEK ROAD Jurong Island 627833",
+          "type": "Staff Canteen",
+          "number": "EEFN21080012525",
+          "scheme": "Eating Establishment",
+          "id": "d339d723-46c4-4d23-b9ad-b17e4fe649a4",
+          "postal": "627833"
+        },
+        {
+          "name": "Halal Section @ NTUC FAIRPRICE",
+          "address": "51 OLD AIRPORT ROAD #02-01 OLD AIRPORT ROAD HAWKERS’ CENTRE 390051",
+          "type": "Central Kitchen",
+          "number": "FPCK26100000075",
+          "scheme": "Food Preparation Area",
+          "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
+          "postal": "390051"
+        },
+        {
+          "name": "FONG SENG NASI LEMAK",
+          "address": "101 Pasir Panjang Road 118527",
+          "type": "Restaurant",
+          "number": "EERN21020012034",
+          "scheme": "Eating Establishment",
+          "id": "050c83b7-f1f2-48ab-9b49-9b149adf4a27",
+          "postal": "118527"
+        },
+        {
+          "name": "AMBUR STAR BRIYANI",
+          "address": "23 UPPER DICKSON ROAD 01-01 207482",
+          "type": "Restaurant",
+          "number": "EERT20240000869",
+          "scheme": "Eating Establishment",
+          "id": "708bb29a-54df-4ff9-8dc6-82a0cca279f9",
+          "postal": "207482"
+        },
+        {
+          "name": "Indian Saaga",
+          "address": "38 RACE COURSE ROAD #01-00 218555",
+          "type": "Restaurant",
+          "number": "EERT20240000984",
+          "scheme": "Eating Establishment",
+          "id": "b9544459-6711-4f51-9c59-836511d1cdab",
+          "postal": "218555"
+        },
+        {
+          "name": "STAFF CANTEEN @ BECTON DICKINSON MEDICAL (Mndg By Pro*3 Institutional Catering PL)",
+          "address": "30 TUAS AVENUE 2 639461",
+          "type": "Staff Canteen",
+          "number": "EESC20250000673",
+          "scheme": "Eating Establishment",
+          "id": "11e56b95-3b2d-479c-98ad-d0f5a26a94de",
+          "postal": "639461"
+        },
+        {
+          "name": "Jollibee",
+          "address": "90 HOUGANG AVENUE 10 #01-19 HOUGANG MALL 538766",
+          "type": "Restaurant",
+          "number": "EERT26080000071",
+          "scheme": "Eating Establishment",
+          "id": "141beb81-0153-470b-a8bb-09c539ee8ae1",
+          "postal": "538766"
+        },
+        {
+          "name": "ENCHANTED CAFE",
+          "address": "88 RANGOON ROAD #01-04 RANGOON 88 218374",
+          "type": "Restaurant",
+          "number": "EERT25100000097",
+          "scheme": "Eating Establishment",
+          "id": "ea3dde8c-d3f2-4425-9c1a-bdc05b510220",
+          "postal": "218374"
+        },
+        {
+          "name": "Popeyes Famous Louisiana Chicken",
+          "address": "70 COMPASSVALE BOW #01-60 SENGKANG GRAND MALL 544692",
+          "type": "Restaurant",
+          "number": "EERT26100000044",
+          "scheme": "Eating Establishment",
+          "id": "f6999f2c-a6c2-4495-b939-a0562dcca31c",
+          "postal": "544692"
+        },
+        {
+          "name": "International Delights, Malay & Indian Delights @ Rolls Royce Seletar (Managed By The Wok People)",
+          "address": "6 SELETAR AEROSPACE RISE #01-00 797575",
+          "type": "Staff Canteen",
+          "number": "EESC26100000128",
+          "scheme": "Eating Establishment",
+          "id": "975f0d1a-f6b5-4eec-8106-c101540d53c2",
+          "postal": "797575"
+        }
+      ],
+      "removed": [
+        {
+          "name": "SUBWAY",
+          "address": "253 JURONG EAST STREET 24 #01-261 YUHUA VILLAGE 600253",
+          "type": "Restaurant",
+          "number": "EERT20240001151",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "600253"
+        }
+      ],
+      "updated": [
+        {
+          "previous": {
+            "name": "SWENSEN'S UNLIMITED",
+            "address": "1 HARBOURFRONT WALK #02-117 VIVO CITY 098585",
+            "type": "Restaurant",
+            "number": "EERT20250000409",
+            "scheme": "Eating Establishment",
+            "id": "625c1c28-9ecb-4ea9-add3-37c5b8dd63ef",
+            "postal": "098585"
+          },
+          "current": {
+            "name": "MORE BATTER",
+            "address": "1 HARBOURFRONT WALK #02-117 VIVO CITY 098585",
+            "type": "Restaurant",
+            "number": "EERT20250000409",
+            "scheme": "Eating Establishment",
+            "id": "625c1c28-9ecb-4ea9-add3-37c5b8dd63ef",
+            "postal": "098585"
+          }
+        },
+        {
+          "previous": {
+            "name": "Tongue Tip Lanzhou Beef Noodles",
+            "address": "63 JURONG WEST CENTRAL 3 #03-105, 106, 107, 108, 109, 110, 111, 112 JURONG POINT SHOPPING CENTRE 648331",
+            "type": "Restaurant",
+            "number": "EERN21040012243",
+            "scheme": "Eating Establishment",
+            "id": "2dce1ae1-5e33-4749-952e-c14abd6ebf2b",
+            "postal": "648331"
+          },
+          "current": {
+            "name": "Full Bowl",
+            "address": "63 JURONG WEST CENTRAL 3 #03-105, 106, 107, 108, 109, 110, 111, 112 JURONG POINT SHOPPING CENTRE 648331",
+            "type": "Restaurant",
+            "number": "EERN21040012243",
+            "scheme": "Eating Establishment",
+            "id": "2dce1ae1-5e33-4749-952e-c14abd6ebf2b",
+            "postal": "648331"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-11-04T02:21:55.382673",
     "date": "2026-11-04",
     "summary": {
@@ -12615,130 +12798,6 @@
           "scheme": "Eating Establishment",
           "id": "87a00d7d-0af0-4000-be56-7b7facc1c180",
           "postal": "519599"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-09-02T00:04:44.666492",
-    "date": "2026-09-02",
-    "summary": {
-      "new": 7,
-      "removed": 5,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "$6 WESTERN",
-          "address": "123 BEDOK NORTH STREET 2 #01-168, (MR2) @ BK 460123",
-          "type": "Hawker",
-          "number": "EEHK26080000141",
-          "scheme": "Eating Establishment",
-          "id": "efa293dd-e81f-4569-b928-836d447cfc50",
-          "postal": "460123"
-        },
-        {
-          "name": "Kitchen 2@Lentor Health NH WC(Mngd by the Lentor Residence PL)",
-          "address": "151 WEST COAST CRESCENT, Level 10 129650",
-          "type": "Central Kitchen",
-          "number": "FPCK20240000736",
-          "scheme": "Food Preparation Area",
-          "id": "c0415fcf-3abc-424e-b388-5187cbdc68f5",
-          "postal": "129650"
-        },
-        {
-          "name": "Kitchen @Lentor Health NH MPS(Mngd by the Lentor Residence PL)",
-          "address": "2 MACPHERSON WALK LENTOR HEALTH NURSING HOME (MACPHERSON), Level 8 369573",
-          "type": "Central Kitchen",
-          "number": "FPCK20240000734",
-          "scheme": "Food Preparation Area",
-          "id": "b9af5397-d605-4590-ad4b-8f0c75aeb7f3",
-          "postal": "369573"
-        },
-        {
-          "name": "INDO DELIGHT",
-          "address": "121 DOVER ROAD ANGLO-CHINESE SCHOOL (INDEPENDENT), STALL NO 7 139650",
-          "type": "Canteen",
-          "number": "EESC26080000144",
-          "scheme": "Eating Establishment",
-          "id": "9ffa58c4-108d-41a4-b85f-c40e2d65ecb3",
-          "postal": "139650"
-        },
-        {
-          "name": "Kitchen 1@Lentor Health NH WC(Mngd by the Lentor Residence PL)",
-          "address": "151 WEST COAST CRESCENT, Level 10 Kitchen 1 129650",
-          "type": "Central Kitchen",
-          "number": "FPCK20240000735",
-          "scheme": "Food Preparation Area",
-          "id": "15efc9d5-1640-49ff-9cb8-81acd130fc7b",
-          "postal": "129650"
-        },
-        {
-          "name": "MAMANA KITCHEN",
-          "address": "110 SENGKANG EAST WAY SENGKANG GENERAL HOSPITAL, BLK 6 LEVEL 5 (STAFF LOUNGE) 544886",
-          "type": "Staff Canteen",
-          "number": "EESC26080000138",
-          "scheme": "Eating Establishment",
-          "id": "65d2417d-c70b-421c-8067-800f6f95d3aa",
-          "postal": "544886"
-        },
-        {
-          "name": "OLD CHANG KEE",
-          "address": "585 NORTH BRIDGE ROAD #02-01 RAFFLES HOSPITAL 188770",
-          "type": "Restaurant",
-          "number": "EERT26080000143",
-          "scheme": "Eating Establishment",
-          "id": "9bfaf0f1-ab40-4142-b26e-f870fdee8156",
-          "postal": "188770"
-        }
-      ],
-      "removed": [
-        {
-          "name": "STUFF'D",
-          "address": "23 SERANGOON CENTRAL #B2-47A NEX MALL 556083",
-          "type": "Snack Bar / Bakery",
-          "number": "EEBN21110012924",
-          "scheme": "Eating Establishment",
-          "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
-          "postal": "556083"
-        },
-        {
-          "name": "Pastamania",
-          "address": "1 BUKIT BATOK CENTRAL LINK #01-40 WEST MALL 658713",
-          "type": "Restaurant",
-          "number": "EERN22010013365",
-          "scheme": "Eating Establishment",
-          "id": "e1eb4468-e706-4f99-bbf2-2603b062790c",
-          "postal": "658713"
-        },
-        {
-          "name": "STUFF'D",
-          "address": "17 PETIR ROAD #B2-40 Hillion Mall 678278",
-          "type": "Snack Bar / Bakery",
-          "number": "EEBN21110012923",
-          "scheme": "Eating Establishment",
-          "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
-          "postal": "678278"
-        },
-        {
-          "name": "PastryCo",
-          "address": "432A BUKIT BATOK WEST AVENUE 8 #01-02 WEST SCAPE @ BUKIT BATOK 651432",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20250000825",
-          "scheme": "Eating Establishment",
-          "id": "6dc02f81-d9ea-4cd9-879b-0d9239b917c4",
-          "postal": "651432"
-        },
-        {
-          "name": "SAAP SAAP THAI",
-          "address": "107 NORTH BRIDGE ROAD #B1-33 FUNAN 179105",
-          "type": "Restaurant",
-          "number": "EERN21070012637",
-          "scheme": "Eating Establishment",
-          "id": "9589c31f-fee1-4b1e-925f-755094a68b7a",
-          "postal": "179105"
         }
       ],
       "updated": []
