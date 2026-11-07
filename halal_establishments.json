@@ -10413,6 +10413,42 @@
     "postal": "402001"
   },
   {
+    "name": "Fitra Chicken Rice",
+    "address": "678A WOODLANDS AVENUE 6 MR3 BAGUS by Kopitiam Admiralty Place #02-05 MULTI STOREY CAR PARK 731678",
+    "type": "Hawker",
+    "number": "EEHK26100000141",
+    "scheme": "Eating Establishment",
+    "id": "7e4e3477-7002-48e6-844b-fd38a0cdfeeb",
+    "postal": "731678"
+  },
+  {
+    "name": "Fitra Chicken Rice",
+    "address": "1 WOODLANDS SQUARE Stall 4 BAGUS by Kopitiam Causeway Point #07-03 CAUSEWAY POINT 738099",
+    "type": "Hawker",
+    "number": "EEHK26100000142",
+    "scheme": "Eating Establishment",
+    "id": "7e4e3477-7002-48e6-844b-fd38a0cdfeeb",
+    "postal": "738099"
+  },
+  {
+    "name": "Fitra Chicken Rice",
+    "address": "418 NORTHSHORE DRIVE #02-07, #02-08, #02-09 NORTHSHORE PLAZA II, Stall No 2 BAGUS by Kopitiam Northshore 820418",
+    "type": "Hawker",
+    "number": "EEHK26100000143",
+    "scheme": "Eating Establishment",
+    "id": "7e4e3477-7002-48e6-844b-fd38a0cdfeeb",
+    "postal": "820418"
+  },
+  {
+    "name": "Fitra Chicken Rice",
+    "address": "12 MARINA BOULEVARD Stall 2 Kopitiam #02-01, #02-02, # 02-03, #02-04 MARINA BAY FINANCIAL CENTRE (TOWER 3) 018982",
+    "type": "Hawker",
+    "number": "EEHK26100000144",
+    "scheme": "Eating Establishment",
+    "id": "7e4e3477-7002-48e6-844b-fd38a0cdfeeb",
+    "postal": "018982"
+  },
+  {
     "name": "Fitra Hainanese Chicken Rice (S15)@Food Republic 313 Somerset",
     "address": "313 ORCHARD ROAD #05-01/02/03 313 @ SOMERSET, STALL 15 238895",
     "type": "Hawker",
@@ -16210,21 +16246,21 @@
   },
   {
     "name": "Krispy Kreme Doughnuts",
-    "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #01-20 CHANGI CITY POINT 486038",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20240000006",
-    "scheme": "Eating Establishment",
-    "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
-    "postal": "486038"
-  },
-  {
-    "name": "Krispy Kreme Doughnuts",
     "address": "1 SENGKANG SQUARE #01-46 COMPASS ONE 545078",
     "type": "Restaurant",
     "number": "EERT20230000102",
     "scheme": "Eating Establishment",
     "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
     "postal": "545078"
+  },
+  {
+    "name": "Krispy Kreme Doughnuts",
+    "address": "5 CHANGI BUSINESS PARK CENTRAL 1 #01-20 CHANGI CITY POINT 486038",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20240000006",
+    "scheme": "Eating Establishment",
+    "id": "352b1db1-99e9-4ef6-b23c-dd1dc80593e2",
+    "postal": "486038"
   },
   {
     "name": "Krispy Kreme Doughnuts",
@@ -19666,21 +19702,21 @@
   },
   {
     "name": "MORE BATTER",
-    "address": "60 AIRPORT BOULEVARD #01-03 CHANGI AIRPORT TERMINAL 2 819643",
-    "type": "Restaurant",
-    "number": "EERT20240000498",
-    "scheme": "Eating Establishment",
-    "id": "423f5fb8-1efb-42c3-88a4-e158cb81f097",
-    "postal": "819643"
-  },
-  {
-    "name": "MORE BATTER",
     "address": "1 HARBOURFRONT WALK #02-117 VIVO CITY 098585",
     "type": "Restaurant",
     "number": "EERT20250000409",
     "scheme": "Eating Establishment",
     "id": "625c1c28-9ecb-4ea9-add3-37c5b8dd63ef",
     "postal": "098585"
+  },
+  {
+    "name": "MORE BATTER",
+    "address": "60 AIRPORT BOULEVARD #01-03 CHANGI AIRPORT TERMINAL 2 819643",
+    "type": "Restaurant",
+    "number": "EERT20240000498",
+    "scheme": "Eating Establishment",
+    "id": "423f5fb8-1efb-42c3-88a4-e158cb81f097",
+    "postal": "819643"
   },
   {
     "name": "MR BARKER",
@@ -20593,21 +20629,21 @@
   },
   {
     "name": "MUNCHI PANCAKES",
-    "address": "180 KITCHENER ROAD #B2-K8 CITY SQUARE MALL 208539",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20240000329",
-    "scheme": "Eating Establishment",
-    "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
-    "postal": "208539"
-  },
-  {
-    "name": "MUNCHI PANCAKES",
     "address": "23 SERANGOON CENTRAL #03-K7/K8 NEX 556083",
     "type": "Snack Bar / Bakery",
     "number": "EESB25100000118",
     "scheme": "Eating Establishment",
     "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
     "postal": "556083"
+  },
+  {
+    "name": "MUNCHI PANCAKES",
+    "address": "180 KITCHENER ROAD #B2-K8 CITY SQUARE MALL 208539",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20240000329",
+    "scheme": "Eating Establishment",
+    "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
+    "postal": "208539"
   },
   {
     "name": "MUNCHI PANCAKES",
@@ -25398,6 +25434,15 @@
     "postal": "677743"
   },
   {
+    "name": "PRIMADELI",
+    "address": "53 ANG MO KIO AVENUE 3 #B2-27 AMK HUB 569933",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26110000037",
+    "scheme": "Eating Establishment",
+    "id": "b865b2c7-fef4-4a90-823a-e1fd0f138e96",
+    "postal": "569933"
+  },
+  {
     "name": "PRIMADELI/SNACKS&BITES/DESSERTS/DRINKS",
     "address": "1 LOWER KENT RIDGE ROAD #05-01 THE DINING AVENUE NUH MEDICAL CENTRE, Stall 11 119082",
     "type": "Hawker",
@@ -25975,15 +26020,6 @@
   },
   {
     "name": "Red Ginger",
-    "address": "1 WOODLANDS SQUARE #02-05 CAUSEWAY POINT 738099",
-    "type": "Restaurant",
-    "number": "EERT20220000640",
-    "scheme": "Eating Establishment",
-    "id": "b820e61a-e25d-40fe-b177-121aedf7df68",
-    "postal": "738099"
-  },
-  {
-    "name": "Red Ginger",
     "address": "2 JURONG EAST STREET 21 #01-46 IMM BUILDING 609601",
     "type": "Restaurant",
     "number": "EERN20090011843",
@@ -25999,6 +26035,15 @@
     "scheme": "Eating Establishment",
     "id": "b820e61a-e25d-40fe-b177-121aedf7df68",
     "postal": "648331"
+  },
+  {
+    "name": "Red Ginger",
+    "address": "1 WOODLANDS SQUARE #02-05 CAUSEWAY POINT 738099",
+    "type": "Restaurant",
+    "number": "EERT20220000640",
+    "scheme": "Eating Establishment",
+    "id": "b820e61a-e25d-40fe-b177-121aedf7df68",
+    "postal": "738099"
   },
   {
     "name": "Red Ginger Coffeehouse",
@@ -28549,30 +28594,21 @@
   },
   {
     "name": "SPRINGLEAF PRATA PLACE",
-    "address": "1 WOODLANDS ROAD #01-25 JUNCTION 10 677899",
-    "type": "Restaurant",
-    "number": "EERN21060012485",
-    "scheme": "Eating Establishment",
-    "id": "97aab0ac-414e-458a-9758-d335f07b1e6b",
-    "postal": "677899"
-  },
-  {
-    "name": "SPRINGLEAF PRATA PLACE",
-    "address": "1 WOODLANDS STREET 81 #01-01 WOODLANDS COMMUNITY CLUB (U/C) 738526",
-    "type": "Restaurant",
-    "number": "EERT26100000018",
-    "scheme": "Eating Establishment",
-    "id": "97aab0ac-414e-458a-9758-d335f07b1e6b",
-    "postal": "738526"
-  },
-  {
-    "name": "SPRINGLEAF PRATA PLACE",
     "address": "60 YISHUN AVENUE 4 #01-07 SAFRA COUNTRY CLUB (YISHUN) 769027",
     "type": "Restaurant",
     "number": "EERN21060012488",
     "scheme": "Eating Establishment",
     "id": "97aab0ac-414e-458a-9758-d335f07b1e6b",
     "postal": "769027"
+  },
+  {
+    "name": "SPRINGLEAF PRATA PLACE",
+    "address": "1 WOODLANDS ROAD #01-25 JUNCTION 10 677899",
+    "type": "Restaurant",
+    "number": "EERN21060012485",
+    "scheme": "Eating Establishment",
+    "id": "97aab0ac-414e-458a-9758-d335f07b1e6b",
+    "postal": "677899"
   },
   {
     "name": "SPRINGLEAF PRATA PLACE",
@@ -35035,6 +35071,60 @@
     "scheme": "Eating Establishment",
     "id": "79bfe816-a7ec-46a9-8687-c6e511cfc222",
     "postal": "650233"
+  },
+  {
+    "name": "US PIZZA",
+    "address": "11 BIDADARI PARK DRIVE #B1-K12 THE WOODLEIGH MALL 367803",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB25100000012",
+    "scheme": "Eating Establishment",
+    "id": "8d46192a-5396-4bd8-87c5-6d3bcfc4d7c0",
+    "postal": "367803"
+  },
+  {
+    "name": "US PIZZA",
+    "address": "12 KIM KEAT ROAD #01-02 HANSON COURT 328841",
+    "type": "Restaurant",
+    "number": "EERT25100000011",
+    "scheme": "Eating Establishment",
+    "id": "8d46192a-5396-4bd8-87c5-6d3bcfc4d7c0",
+    "postal": "328841"
+  },
+  {
+    "name": "US PIZZA",
+    "address": "154 WEST COAST ROAD #B1-55/56 WEST COAST PLAZA 127371",
+    "type": "Restaurant",
+    "number": "EERT20250000283",
+    "scheme": "Eating Establishment",
+    "id": "8d46192a-5396-4bd8-87c5-6d3bcfc4d7c0",
+    "postal": "127371"
+  },
+  {
+    "name": "US PIZZA",
+    "address": "107 NORTH BRIDGE ROAD #01-18 FUNAN 179105",
+    "type": "Restaurant",
+    "number": "EERT20250000321",
+    "scheme": "Eating Establishment",
+    "id": "8d46192a-5396-4bd8-87c5-6d3bcfc4d7c0",
+    "postal": "179105"
+  },
+  {
+    "name": "US PIZZA",
+    "address": "11 TANJONG KATONG ROAD #01-65, #01-66 KINEX 437157",
+    "type": "Restaurant",
+    "number": "EERT25100000013",
+    "scheme": "Eating Establishment",
+    "id": "8d46192a-5396-4bd8-87c5-6d3bcfc4d7c0",
+    "postal": "437157"
+  },
+  {
+    "name": "US PIZZA CAFE",
+    "address": "632 BEDOK RESERVOIR ROAD #01-840 EUNOS GROVE 470632",
+    "type": "Restaurant",
+    "number": "EERT20240000839",
+    "scheme": "Eating Establishment",
+    "id": "277f616a-47ad-4eda-8271-5c7c2d5dc82b",
+    "postal": "470632"
   },
   {
     "name": "UTown Yong Tau Foo",
