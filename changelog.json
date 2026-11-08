@@ -1,5 +1,201 @@
 [
   {
+    "timestamp": "2026-11-08T01:23:57.562964",
+    "date": "2026-11-08",
+    "summary": {
+      "new": 16,
+      "removed": 4,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "FITRA CHICKEN RICE (S55) @ KOPITIAM SENGKANG",
+          "address": "10 Sengkang Square #01-01 Kopitiam Square, Stall 55 544829",
+          "type": "Hawker",
+          "number": "EEHX20080011427",
+          "scheme": "Eating Establishment",
+          "id": "09af2736-ce22-45f1-a082-39bf4f6855b4",
+          "postal": "544829"
+        },
+        {
+          "name": "Fitra Chicken Rice (S10)@The Food Market Century Square",
+          "address": "2 TAMPINES CENTRAL 5 #03-19 CENTURY SQUARE, Stall 10 529509",
+          "type": "Hawker",
+          "number": "EEHN21060012416",
+          "scheme": "Eating Establishment",
+          "id": "7ae8871f-9fa5-4c43-b8ea-ca8cce3457a3",
+          "postal": "529509"
+        },
+        {
+          "name": "Fitra Chicken Rice (S10)@Food Junction Westgate",
+          "address": "3 GATEWAY DRIVE #B1-29 WESTGATE, Stall 10 608532",
+          "type": "Hawker",
+          "number": "EEHK20230001292",
+          "scheme": "Eating Establishment",
+          "id": "e907442e-52ce-4195-9431-541989ef0dbe",
+          "postal": "608532"
+        },
+        {
+          "name": "Fitra Hainanese Chicken Rice",
+          "address": "527C PASIR RIS STREET 51 #01-01 COSTA RIS, Stall 8, Kopitiam Corner 513527",
+          "type": "Hawker",
+          "number": "EEHK26100000146",
+          "scheme": "Eating Establishment",
+          "id": "f05d1811-1b10-442f-be53-29d8497cf5f4",
+          "postal": "513527"
+        },
+        {
+          "name": "Fitra Chicken Rice (S8)@Food Dynasty Lazada One",
+          "address": "51 BRAS BASAH ROAD #01-24/25 LAZADA ONE, Stall 8 189554",
+          "type": "Hawker",
+          "number": "EEHK20220000321",
+          "scheme": "Eating Establishment",
+          "id": "c30c8c03-3d50-4f67-942d-527aa3035d87",
+          "postal": "189554"
+        },
+        {
+          "name": "Fitra Chicken Rice (S5)@Kopitiam NUH Main Building",
+          "address": "5 LOWER KENT RIDGE ROAD #01-01 NATIONAL UNIVERSITY HOSPITAL, Stall 5 119074",
+          "type": "Hawker",
+          "number": "EEHK20250000360",
+          "scheme": "Eating Establishment",
+          "id": "aa29b72d-8882-49f8-9d3e-a62bd9240aa8",
+          "postal": "119074"
+        },
+        {
+          "name": "Fitra Chicken Rice Ayam Penyet",
+          "address": "728 ANG MO KIO AVENUE 6 #01-4200, MR 2, KPH1990 560728",
+          "type": "Hawker",
+          "number": "EEHK26050000072",
+          "scheme": "Eating Establishment",
+          "id": "88230f65-be99-4ae3-b033-cde7e7aedf3d",
+          "postal": "560728"
+        },
+        {
+          "name": "Fitra Hainanese Chicken Rice (MR5)@Kopitiam Parkway Parade",
+          "address": "80 MARINE PARADE ROAD #B1-85 PARKWAY PARADE 449269",
+          "type": "Hawker",
+          "number": "EEHK20250000361",
+          "scheme": "Eating Establishment",
+          "id": "f89b1510-5f5a-4d74-a321-fc1cc8b16788",
+          "postal": "449269"
+        },
+        {
+          "name": "Fitra Chicken Rice (S18) @ Kopitiam Tampines Mall",
+          "address": "4 TAMPINES CENTRAL 5 #04-27-29 TAMPINES MALL, Stall 18 529510",
+          "type": "Hawker",
+          "number": "EEHN20110011531",
+          "scheme": "Eating Establishment",
+          "id": "e5c810d1-f65c-4dde-830d-cdf8ed713b23",
+          "postal": "529510"
+        },
+        {
+          "name": "Fitra Hainanese Chicken Rice",
+          "address": "18 RAFFLES QUAY STALL 08 TELOK AYER FESTIVAL MARKET 048582",
+          "type": "Hawker",
+          "number": "EEHK26100000145",
+          "scheme": "Eating Establishment",
+          "id": "f05d1811-1b10-442f-be53-29d8497cf5f4",
+          "postal": "048582"
+        },
+        {
+          "name": "Fitra Chicken Rice",
+          "address": "252 NORTH BRIDGE ROAD (S5)@The Food Place Raffles City #03-15, #03-16, #03-17 RAFFLES CITY SHOPPING CENTRE 179103",
+          "type": "Hawker",
+          "number": "EEHK20250000838",
+          "scheme": "Eating Establishment",
+          "id": "7e4e3477-7002-48e6-844b-fd38a0cdfeeb",
+          "postal": "179103"
+        },
+        {
+          "name": "Fitra Chicken Rice",
+          "address": "1 HARBOURFRONT WALK (S22) @ Kopitiam Food Hall Vivo City #B2-40 VIVOCITY, STALL 22, KOPITIAM FOOD HALL 098585",
+          "type": "Hawker",
+          "number": "EEHK25100000068",
+          "scheme": "Eating Establishment",
+          "id": "7e4e3477-7002-48e6-844b-fd38a0cdfeeb",
+          "postal": "098585"
+        },
+        {
+          "name": "Fitra Hainanese Chicken Rice (S1)@Food Republic Wisma Atria",
+          "address": "435 ORCHARD ROAD #04-02/14/32/33/37/38 WISMA ATRIA, STALL 1 238877",
+          "type": "Hawker",
+          "number": "EEHN21030012230",
+          "scheme": "Eating Establishment",
+          "id": "0d4b1c3c-b887-4494-8a06-64fcda1be7c9",
+          "postal": "238877"
+        },
+        {
+          "name": "Fitra Chicken Rice",
+          "address": "17 PETIR ROAD #02-15, #02-16, #02-17, #02-18, #02-19, #02-20 Hillion Mall Stall 17 Kopitiam HILLION MALL 678278",
+          "type": "Hawker",
+          "number": "EEHK26060000015",
+          "scheme": "Eating Establishment",
+          "id": "7e4e3477-7002-48e6-844b-fd38a0cdfeeb",
+          "postal": "678278"
+        },
+        {
+          "name": "Fitra Chicken Rice (S16) @ FoodJunction Lot 1",
+          "address": "21 CHOA CHU KANG AVENUE 4 #04-14/15/16 LOT ONE, SHOPPERS' MALL, Stall 16 689812",
+          "type": "Hawker",
+          "number": "EEHN21030012219",
+          "scheme": "Eating Establishment",
+          "id": "6feb458c-e397-4421-99f8-ee844bf1a7cc",
+          "postal": "689812"
+        },
+        {
+          "name": "Fitra Chicken Rice",
+          "address": "604 SEMBAWANG ROAD MR3 @ Kopitiam Sembawang Shopping Centre #B1-25/25A 758459",
+          "type": "Hawker",
+          "number": "EEHK20250000652",
+          "scheme": "Eating Establishment",
+          "id": "7e4e3477-7002-48e6-844b-fd38a0cdfeeb",
+          "postal": "758459"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Sushi Sedap",
+          "address": "4 Tampines central 5 #B1-12 tampines mall 529510",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26040000038",
+          "scheme": "Eating Establishment",
+          "id": "91835bbb-99ee-42bf-93e0-00d0c30d65fd",
+          "postal": "529510"
+        },
+        {
+          "name": "McDonald's",
+          "address": "1 KIM SENG PROMENADE #01-124 GREAT WORLD CITY 237994",
+          "type": "Restaurant",
+          "number": "EERN20020011059",
+          "scheme": "Eating Establishment",
+          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+          "postal": "237994"
+        },
+        {
+          "name": "NENE CHICKEN",
+          "address": "30 FOCH ROAD #01-02 Bistro 8, Stall 4 209276",
+          "type": "Hawker",
+          "number": "EEHK26100000169",
+          "scheme": "Eating Establishment",
+          "id": "c2a3daa9-ec19-4a9f-8474-752b3cbfb1ff",
+          "postal": "209276"
+        },
+        {
+          "name": "McDonald's",
+          "address": "632 BUKIT BATOK CENTRAL #01-138, Mcdonald's 650632",
+          "type": "Restaurant",
+          "number": "EERN20020011015",
+          "scheme": "Eating Establishment",
+          "id": "1eb5ea3a-9562-4e1f-a4ad-d444ba0f3acd",
+          "postal": "650632"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-11-07T01:54:17.164153",
     "date": "2026-11-07",
     "summary": {
@@ -12191,139 +12387,6 @@
           "scheme": "Eating Establishment",
           "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
           "postal": "390051"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-09-05T00:02:19.137477",
-    "date": "2026-09-05",
-    "summary": {
-      "new": 6,
-      "removed": 7,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "4FINGERS CRISPY CHICKEN",
-          "address": "Formula 1 Singapore Airlines Singapore Grand Prix 2026, 1 REPUBLIC BOULEVARD THE PIT BUILDING, EVL2346 038975",
-          "type": "Short Term Stall(Bazaar/Road Shows)",
-          "number": "EEST26090000009",
-          "scheme": "Eating Establishment",
-          "id": "90b83324-363a-4406-9afa-08b19b67522d",
-          "postal": "038975"
-        },
-        {
-          "name": "KITCHEN A @ YISHUN COMMUNITY HOSPITAL",
-          "address": "2 YISHUN CENTRAL 2 #B1 YISHUN COMMUNITY HOSPITAL 768024",
-          "type": "Central Kitchen",
-          "number": "FPCX22010001648",
-          "scheme": "Food Preparation Area",
-          "id": "d4cc7559-42bb-4e10-8a86-cd4e51c2e06d",
-          "postal": "768024"
-        },
-        {
-          "name": "PAPA AYAM",
-          "address": "1 TAMPINES WALK #B1-43 OUR TAMPINES HUB 528523",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20240000956",
-          "scheme": "Eating Establishment",
-          "id": "2126a923-0488-4c9f-8478-85f5a21e7439",
-          "postal": "528523"
-        },
-        {
-          "name": "KAKI MAKAN CAFE",
-          "address": "10 AIRPORT BOULEVARD #02-K32 CHANGI AIRPORT TERMINAL 4 819665",
-          "type": "Hawker",
-          "number": "EEHK20230000535",
-          "scheme": "Eating Establishment",
-          "id": "f66845d0-5bef-4ada-96ba-fd3335484b01",
-          "postal": "819665"
-        },
-        {
-          "name": "SUBWAY",
-          "address": "678A WOODLANDS AVENUE 6 #01-29 ADMIRALTY PLACE 731678",
-          "type": "Restaurant",
-          "number": "EERT20230000257",
-          "scheme": "Eating Establishment",
-          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-          "postal": "731678"
-        },
-        {
-          "name": "PAPA AYAM",
-          "address": "1 NORTHPOINT DRIVE #B1-155 NORTHPOINT CITY 768019",
-          "type": "Restaurant",
-          "number": "EERT20230000149",
-          "scheme": "Eating Establishment",
-          "id": "e94d6bff-88ea-4869-bd66-587d9498d776",
-          "postal": "768019"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Hungry Boy (MR4) @ Coffee & Tea 78A Telok Blangah",
-          "address": "78A TELOK BLANGAH STREET 32 #02-01, MR 4 101078",
-          "type": "Hawker",
-          "number": "EEHK20240000862",
-          "scheme": "Eating Establishment",
-          "id": "9bcd9aea-325b-445a-91b6-47efd331063b",
-          "postal": "101078"
-        },
-        {
-          "name": "3 EMBERS CULINARY CRAFT PTE. LTD.",
-          "address": "1 TURF CLUB AVENUE #2M SINGAPORE RACECOURSE 738078",
-          "type": "Catering Company",
-          "number": "FPCA20230001121",
-          "scheme": "Food Preparation Area",
-          "id": "5c80bd74-fc1a-452d-bfb1-f4cb2adf1bc8",
-          "postal": "738078"
-        },
-        {
-          "name": "PIZZA HUT SINGAPORE PTE LTD",
-          "address": "1 BUKIT BATOK CENTRAL LINK #01-26 WEST MALL 658713",
-          "type": "Restaurant",
-          "number": "EERN21080012810",
-          "scheme": "Eating Establishment",
-          "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
-          "postal": "658713"
-        },
-        {
-          "name": "RROOLL",
-          "address": "1 NORTHPOINT DRIVE #B2-151 NORTHPOINT CITY 768019",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20240000494",
-          "scheme": "Eating Establishment",
-          "id": "98647a82-0b52-4624-82e9-e1f7d5600687",
-          "postal": "768019"
-        },
-        {
-          "name": "THE COFFEE BEAN & TEA LEAF",
-          "address": "100 BUKIT TIMAH ROAD #01-K1 KK WOMEN'S AND CHILDREN'S HOSPITAL 229899",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20230000043",
-          "scheme": "Eating Establishment",
-          "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-          "postal": "229899"
-        },
-        {
-          "name": "Hungry Boy",
-          "address": "146 JALAN BUKIT MERAH #01-1068 COFFEE & TEA, STALL 2 160146",
-          "type": "Hawker",
-          "number": "EEHK25100000053",
-          "scheme": "Eating Establishment",
-          "id": "266292c1-6ead-40f0-abb2-ad18e8db19d4",
-          "postal": "160146"
-        },
-        {
-          "name": "Long John Silver's",
-          "address": "676 WOODLANDS DRIVE 71 #01-05/12 730676",
-          "type": "Restaurant",
-          "number": "EERN22020013530",
-          "scheme": "Eating Establishment",
-          "id": "04a22cc8-410f-41ad-977c-224cb8a85e4c",
-          "postal": "730676"
         }
       ],
       "updated": []
