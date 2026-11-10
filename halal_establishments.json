@@ -26110,6 +26110,15 @@
   },
   {
     "name": "READY TO EAT CORNER",
+    "address": "590 SEMBAWANG ROAD @ Cold Storage on the Go ESSO SEMBAWANG B 758450",
+    "type": "Food Kiosk",
+    "number": "EEFK26110000027",
+    "scheme": "Eating Establishment",
+    "id": "fb3f761e-6c41-44bc-b72e-028c75a57a71",
+    "postal": "758450"
+  },
+  {
+    "name": "READY TO EAT CORNER",
     "address": "955 UPPER CHANGI ROAD NORTH 507662",
     "type": "Food Kiosk",
     "number": "EEFK26110000007",
@@ -27127,15 +27136,6 @@
   },
   {
     "name": "Sanook Kitchen",
-    "address": "70 COMPASSVALE BOW #01-15/16 544692",
-    "type": "Restaurant",
-    "number": "EERT20230000518",
-    "scheme": "Eating Establishment",
-    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-    "postal": "544692"
-  },
-  {
-    "name": "Sanook Kitchen",
     "address": "20 AH HOOD ROAD #01-17 ZHONGSHAN MALL 329984",
     "type": "Restaurant",
     "number": "EERT20220000404",
@@ -27160,6 +27160,15 @@
     "scheme": "Eating Establishment",
     "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
     "postal": "528833"
+  },
+  {
+    "name": "Sanook Kitchen",
+    "address": "70 COMPASSVALE BOW #01-15/16 544692",
+    "type": "Restaurant",
+    "number": "EERT20230000518",
+    "scheme": "Eating Establishment",
+    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+    "postal": "544692"
   },
   {
     "name": "Sanook Kitchen",
