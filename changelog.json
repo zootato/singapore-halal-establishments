@@ -1,5 +1,29 @@
 [
   {
+    "timestamp": "2026-11-11T01:58:11.980572",
+    "date": "2026-11-11",
+    "summary": {
+      "new": 1,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Fitra Chicken Rice",
+          "address": "23 SERANGOON CENTRAL #04-36/37, MR4, FOOD JUNCTION 556083",
+          "type": "Hawker",
+          "number": "EEHK26100000166",
+          "scheme": "Eating Establishment",
+          "id": "d6cb1d82-90bc-48f9-ac87-29a10d09df0e",
+          "postal": "556083"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-11-10T04:10:52.637409",
     "date": "2026-11-10",
     "summary": {
@@ -12345,40 +12369,6 @@
         }
       ],
       "removed": [],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-09-09T00:08:38.408487",
-    "date": "2026-09-09",
-    "summary": {
-      "new": 1,
-      "removed": 1,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Japanese & Korean (S2) @ Koufu Sun Plaza",
-          "address": "475 CHOA CHU KANG AVENUE 3 #01-31 SUNSHINE PLACE, Stall 5 680475",
-          "type": "Hawker",
-          "number": "EEHK20240000648",
-          "scheme": "Eating Establishment",
-          "id": "899e6af1-dcbf-4294-95d0-ab990985c098",
-          "postal": "680475"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Tim Hortons",
-          "address": "7 PASIR RIS CENTRAL #02-64 PASIR RIS MALL 519612",
-          "type": "Restaurant",
-          "number": "EERT26020000007",
-          "scheme": "Eating Establishment",
-          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-          "postal": "519612"
-        }
-      ],
       "updated": []
     }
   }

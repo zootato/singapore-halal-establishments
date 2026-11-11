@@ -10450,6 +10450,15 @@
   },
   {
     "name": "Fitra Chicken Rice",
+    "address": "23 SERANGOON CENTRAL #04-36/37, MR4, FOOD JUNCTION 556083",
+    "type": "Hawker",
+    "number": "EEHK26100000166",
+    "scheme": "Eating Establishment",
+    "id": "d6cb1d82-90bc-48f9-ac87-29a10d09df0e",
+    "postal": "556083"
+  },
+  {
+    "name": "Fitra Chicken Rice",
     "address": "12 MARINA BOULEVARD Stall 2 Kopitiam #02-01, #02-02, # 02-03, #02-04 MARINA BAY FINANCIAL CENTRE (TOWER 3) 018982",
     "type": "Hawker",
     "number": "EEHK26100000144",
@@ -12106,15 +12115,6 @@
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
-    "address": "63 JURONG WEST CENTRAL 3 #03-01 JURONG POINT SHOPPING CENTRE 648331",
-    "type": "Halal Section",
-    "number": "EECN21070000438",
-    "scheme": "Eating Establishment",
-    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
-    "postal": "648331"
-  },
-  {
-    "name": "Halal Section @ NTUC FAIRPRICE",
     "address": "80 MARINE PARADE ROAD #03-28 PARKWAY PARADE 449269",
     "type": "Central Kitchen",
     "number": "FPCN21050001520",
@@ -12130,6 +12130,15 @@
     "scheme": "Food Preparation Area",
     "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
     "postal": "150166"
+  },
+  {
+    "name": "Halal Section @ NTUC FAIRPRICE",
+    "address": "63 JURONG WEST CENTRAL 3 #03-01 JURONG POINT SHOPPING CENTRE 648331",
+    "type": "Halal Section",
+    "number": "EECN21070000438",
+    "scheme": "Eating Establishment",
+    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
+    "postal": "648331"
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
