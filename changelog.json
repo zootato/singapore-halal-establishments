@@ -1,5 +1,402 @@
 [
   {
+    "timestamp": "2026-11-12T02:58:46.428738",
+    "date": "2026-11-12",
+    "summary": {
+      "new": 33,
+      "removed": 7,
+      "updated": 1
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "AYAM PENYET PRESIDENT",
+          "address": "445 BEDOK NORTH STREET 1 #01-07 DJITSUN MALL BEDOK 469661",
+          "type": "Restaurant",
+          "number": "EERN21100012950",
+          "scheme": "Eating Establishment",
+          "id": "fc7a97bd-0df5-4190-85b8-ee7c7c2ef09d",
+          "postal": "469661"
+        },
+        {
+          "name": "Munchi Pancakes(S4) @ Fernvale Hawker Centre.",
+          "address": "21 SENGKANG WEST AVENUE #03-04 FERNVALE POINT 797650",
+          "type": "Hawker",
+          "number": "EEHK20220000937",
+          "scheme": "Eating Establishment",
+          "id": "35173000-643c-4dfc-87b1-f002eb9d90bc",
+          "postal": "797650"
+        },
+        {
+          "name": "97 NASI LEMAK",
+          "address": "51 OLD AIRPORT ROAD #01-096/097 OLD AIRPORT ROAD HAWKERS’ CENTRE 390051",
+          "type": "Hawker",
+          "number": "EEHK26110000052",
+          "scheme": "Eating Establishment",
+          "id": "67737a6c-4b47-4790-b474-593298fcb313",
+          "postal": "390051"
+        },
+        {
+          "name": "AYAM PENYET PRESIDENT",
+          "address": "3151 COMMONWEALTH AVENUE WEST #01-19/23 GRANTRAL MALL @ CLEMENTI 129581",
+          "type": "Restaurant",
+          "number": "EERT20230000938",
+          "scheme": "Eating Establishment",
+          "id": "fc7a97bd-0df5-4190-85b8-ee7c7c2ef09d",
+          "postal": "129581"
+        },
+        {
+          "name": "Steak 99",
+          "address": "107 NORTH BRIDGE ROAD #B2-25 FUNAN 179105",
+          "type": "Restaurant",
+          "number": "EERT26110000046",
+          "scheme": "Eating Establishment",
+          "id": "825193a3-1a1e-4d2b-abb6-b7fd6ee11dce",
+          "postal": "179105"
+        },
+        {
+          "name": "AYAM PENYET PRESIDENT",
+          "address": "17 PETIR ROAD #B2-57 & 58 HILLION MALL 678278",
+          "type": "Restaurant",
+          "number": "EERX21100012948",
+          "scheme": "Eating Establishment",
+          "id": "fc7a97bd-0df5-4190-85b8-ee7c7c2ef09d",
+          "postal": "678278"
+        },
+        {
+          "name": "AYAM PENYET PRESIDENT",
+          "address": "1 PASIR RIS CENTRAL STREET 3 #03-06/K03 518457",
+          "type": "Restaurant",
+          "number": "EERT20240000042",
+          "scheme": "Eating Establishment",
+          "id": "fc7a97bd-0df5-4190-85b8-ee7c7c2ef09d",
+          "postal": "518457"
+        },
+        {
+          "name": "97 NASI LEMAK",
+          "address": "16 RAFFLES QUAY #B1-31/32 HONG LEONG BUILDING 048581",
+          "type": "Restaurant",
+          "number": "EERT20240000165",
+          "scheme": "Eating Establishment",
+          "id": "0df5aca2-e319-4f92-8fa9-9f44ed9a02a9",
+          "postal": "048581"
+        },
+        {
+          "name": "BOON LAY POWER NASI LEMAK PTE. LTD.",
+          "address": "15 JALAN TEPONG #01-03 JURONG FOOD HUB 619336",
+          "type": "Catering Company",
+          "number": "FPCA26110000038",
+          "scheme": "Food Preparation Area",
+          "id": "43eb8c18-69de-43e5-9229-5977d2b9bfb6",
+          "postal": "619336"
+        },
+        {
+          "name": "AH NAM",
+          "address": "50 STAMFORD ROAD #01-01 SINGAPORE MANAGEMENT UNIVERSITY (LEE KONG CHIAN SCH OF BUSINESS) 178899",
+          "type": "Restaurant",
+          "number": "EERT26110000004",
+          "scheme": "Eating Establishment",
+          "id": "329a90f2-60ba-4741-ae87-3bcacce139bc",
+          "postal": "178899"
+        },
+        {
+          "name": "Pnl Boon Lay Power Nasi Lemak",
+          "address": "1 WOODLANDS SQUARE #B1-K15 CAUSEWAY POINT 738099",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26110000040",
+          "scheme": "Eating Establishment",
+          "id": "358cba2e-e1b2-4294-9c1d-abd5964279b0",
+          "postal": "738099"
+        },
+        {
+          "name": "Ayam Penyet President Express",
+          "address": "1187 UPPER SERANGOON ROAD #01-17 THE MIDTOWN 533971",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21110012907",
+          "scheme": "Eating Establishment",
+          "id": "72a7576a-da71-424a-8f8f-c8e15583f131",
+          "postal": "533971"
+        },
+        {
+          "name": "AYAM PENYET PRESIDENT",
+          "address": "304 ORCHARD ROAD #03-36/37 LUCKY PLAZA 238863",
+          "type": "Restaurant",
+          "number": "EERX21100012946",
+          "scheme": "Eating Establishment",
+          "id": "fc7a97bd-0df5-4190-85b8-ee7c7c2ef09d",
+          "postal": "238863"
+        },
+        {
+          "name": "GELARE",
+          "address": "3 GATEWAY DRIVE #04-07 WESTGATE 608532",
+          "type": "Restaurant",
+          "number": "EERT26100000112",
+          "scheme": "Eating Establishment",
+          "id": "8297f808-92a7-4884-92d8-95daab047e0e",
+          "postal": "608532"
+        },
+        {
+          "name": "MUNCHI PANCAKES",
+          "address": "1 SENGKANG SQUARE #B1-18 COMPASS ONE 545078",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26110000002",
+          "scheme": "Eating Establishment",
+          "id": "2186a456-c87c-4615-897c-20e30de4cbb1",
+          "postal": "545078"
+        },
+        {
+          "name": "Seoul Garden+",
+          "address": "12 KALLANG AVENUE #01-55/56 APERIA 339511",
+          "type": "Restaurant",
+          "number": "EERT26110000024",
+          "scheme": "Eating Establishment",
+          "id": "ffb89fb5-1920-41d2-bbfe-70823d45eb60",
+          "postal": "339511"
+        },
+        {
+          "name": "AYAM PENYET PRESIDENT",
+          "address": "2 TAMPINES CENTRAL 5 #B1-20 CENTURY SQUARE 529509",
+          "type": "Restaurant",
+          "number": "EERN21110012954",
+          "scheme": "Eating Establishment",
+          "id": "fc7a97bd-0df5-4190-85b8-ee7c7c2ef09d",
+          "postal": "529509"
+        },
+        {
+          "name": "Happy Nasi Ayam",
+          "address": "533 BISHAN STREET 14 Stall 6, Maxim Towkay Kopitiam #01-01 BISHAN RIDGES 570533",
+          "type": "Hawker",
+          "number": "EEHK26110000057",
+          "scheme": "Eating Establishment",
+          "id": "42b5577d-a16b-49e8-a23b-2ae908db337c",
+          "postal": "570533"
+        },
+        {
+          "name": "GELARE",
+          "address": "11 TANJONG KATONG ROAD #01-K1 KINEX 437157",
+          "type": "Restaurant",
+          "number": "EERT26100000050",
+          "scheme": "Eating Establishment",
+          "id": "8297f808-92a7-4884-92d8-95daab047e0e",
+          "postal": "437157"
+        },
+        {
+          "name": "AYAM PENYET PRESIDENT",
+          "address": "25 HARPER ROAD #08-03 HARPER POINT 369683",
+          "type": "Central Kitchen",
+          "number": "FPCK20220000808",
+          "scheme": "Food Preparation Area",
+          "id": "fc7a97bd-0df5-4190-85b8-ee7c7c2ef09d",
+          "postal": "369683"
+        },
+        {
+          "name": "INDO 6 EXPRESS",
+          "address": "5 HOSPITAL DRIVE #02-01 NATIONAL HEART CENTRE SINGAPORE, Bagus, Stall 1 169609",
+          "type": "Hawker",
+          "number": "EEHK26110000056",
+          "scheme": "Eating Establishment",
+          "id": "a10b29f1-c39b-43a1-a68e-71ee90ed4739",
+          "postal": "169609"
+        },
+        {
+          "name": "97 NASI LEMAK",
+          "address": "211 LORONG 8 TOA PAYOH #01-01, MR2, BK 211 TOA PAYOH 310211",
+          "type": "Hawker",
+          "number": "EEHK26110000050",
+          "scheme": "Eating Establishment",
+          "id": "67737a6c-4b47-4790-b474-593298fcb313",
+          "postal": "310211"
+        },
+        {
+          "name": "97 NASI LEMAK (S3) @Senja Hawker Centre",
+          "address": "2 SENJA CLOSE #02-03, (Stall 3) 677632",
+          "type": "Hawker",
+          "number": "EEHK20230000672",
+          "scheme": "Eating Establishment",
+          "id": "9a7d32bd-1926-4197-81eb-235a3102e455",
+          "postal": "677632"
+        },
+        {
+          "name": "Our Cafe @ Shangri-La",
+          "address": "22 ORANGE GROVE ROAD 01 SHANGRI-LA HOTEL 258350",
+          "type": "Staff Canteen",
+          "number": "EEFN21060012259",
+          "scheme": "Eating Establishment",
+          "id": "08728fc1-e0bc-452f-ad60-7d4873b4f35c",
+          "postal": "258350"
+        },
+        {
+          "name": "97 NASI LEMAK (S33) @ ANCHORVALE VILLAGE HAWKER CENTRE",
+          "address": "339 ANCHORVALE ROAD #02-33 540339",
+          "type": "Hawker",
+          "number": "EEHK20240001042",
+          "scheme": "Eating Establishment",
+          "id": "a7b4c11b-0acd-4965-81d5-9bf386c266bb",
+          "postal": "540339"
+        },
+        {
+          "name": "READY TO EAT CORNER",
+          "address": "650 DUNEARN ROAD ESSO SERVICE STATION 289630",
+          "type": "Food Kiosk",
+          "number": "EEFK26110000055",
+          "scheme": "Eating Establishment",
+          "id": "fb3f761e-6c41-44bc-b72e-028c75a57a71",
+          "postal": "289630"
+        },
+        {
+          "name": "AYAM PENYET PRESIDENT",
+          "address": "1 NORTH COAST AVENUE #01-03 1 NORTH COAST 737663",
+          "type": "Restaurant",
+          "number": "EERT20240000090",
+          "scheme": "Eating Establishment",
+          "id": "fc7a97bd-0df5-4190-85b8-ee7c7c2ef09d",
+          "postal": "737663"
+        },
+        {
+          "name": "Steak 99",
+          "address": "83 PUNGGOL CENTRAL #01-65 WATERWAY POINT 828761",
+          "type": "Restaurant",
+          "number": "EERT26110000047",
+          "scheme": "Eating Establishment",
+          "id": "825193a3-1a1e-4d2b-abb6-b7fd6ee11dce",
+          "postal": "828761"
+        },
+        {
+          "name": "Rempah by Chilli Padi",
+          "address": "12 MARINA BOULEVARD Better World Café #02-06,07,08,09 MARINA BAY FINANCIAL CENTRE 018982",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26110000049",
+          "scheme": "Eating Establishment",
+          "id": "213c130b-9ed2-4237-a6fc-f9c0139c0b9d",
+          "postal": "018982"
+        },
+        {
+          "name": "MUNCHI PANCAKES (S36) @ ONE PUNGGOL HAWKER CENTRE",
+          "address": "1 PUNGGOL DRIVE #02-36 ONE PUNGGOL 828629",
+          "type": "Hawker",
+          "number": "EEHK20240000327",
+          "scheme": "Eating Establishment",
+          "id": "0a61c40a-29e4-4dcb-96b4-f67a5dd2ae4c",
+          "postal": "828629"
+        },
+        {
+          "name": "BIBI: Modern Bibimbap / Dose Coffee",
+          "address": "5 RAFFLES PLACE #B1-62 RAFFLES PLACE MRT STATION 048618",
+          "type": "Restaurant",
+          "number": "EERT26110000054",
+          "scheme": "Eating Establishment",
+          "id": "aa285278-27a4-429b-b293-9dcb018e10da",
+          "postal": "048618"
+        },
+        {
+          "name": "AYAM PENYET PRESIDENT",
+          "address": "930 YISHUN AVENUE 2 #B1-54 NORTHPOINT 769098",
+          "type": "Restaurant",
+          "number": "EERN21100012945",
+          "scheme": "Eating Establishment",
+          "id": "fc7a97bd-0df5-4190-85b8-ee7c7c2ef09d",
+          "postal": "769098"
+        },
+        {
+          "name": "AYAM PENYET PRESIDENT",
+          "address": "1 Stadium Place #01-23 397628",
+          "type": "Restaurant",
+          "number": "EERX21110012953",
+          "scheme": "Eating Establishment",
+          "id": "fc7a97bd-0df5-4190-85b8-ee7c7c2ef09d",
+          "postal": "397628"
+        }
+      ],
+      "removed": [
+        {
+          "name": "MR BEAN",
+          "address": "10 SINARAN DRIVE #01-21 SQUARE 2 307506",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000206",
+          "scheme": "Eating Establishment",
+          "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
+          "postal": "307506"
+        },
+        {
+          "name": "MR BEAN",
+          "address": "1 BUKIT BATOK CENTRAL LINK #01-07A WEST MALL 658713",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000215",
+          "scheme": "Eating Establishment",
+          "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
+          "postal": "658713"
+        },
+        {
+          "name": "MR BEAN",
+          "address": "205 HOUGANG STREET 21 #01-07 HEARTLAND MALL- KOVAN 530205",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000180",
+          "scheme": "Eating Establishment",
+          "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
+          "postal": "530205"
+        },
+        {
+          "name": "Pho Viet-Nam",
+          "address": "1 NORTHPOINT DRIVE #02-101 , 102 , 103 NORTHPOINT CITY, BAGUS FOOD HALL (STALL 5) 768019",
+          "type": "Hawker",
+          "number": "EEHK26090000055",
+          "scheme": "Eating Establishment",
+          "id": "ef509206-8ab7-42f3-81ce-3194805f8a7a",
+          "postal": "768019"
+        },
+        {
+          "name": "SUPER SUSHI",
+          "address": "4 TAMPINES CENTRAL 5 #B1-K4 TAMPINES MALL 529510",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000837",
+          "scheme": "Eating Establishment",
+          "id": "1d981b18-6ac5-4980-8ec8-31e1a8601928",
+          "postal": "529510"
+        },
+        {
+          "name": "FONG SENG NASI LEMAK",
+          "address": "101 Pasir Panjang Road 118527",
+          "type": "Restaurant",
+          "number": "EERN21020012034",
+          "scheme": "Eating Establishment",
+          "id": "050c83b7-f1f2-48ab-9b49-9b149adf4a27",
+          "postal": "118527"
+        },
+        {
+          "name": "SPICY EXPRESS",
+          "address": "678A WOODLANDS AVENUE 6 #01-07 ADMIRALTY PLACE 731678",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240000522",
+          "scheme": "Eating Establishment",
+          "id": "0b39f767-5770-4227-bda3-b802daa6a1b0",
+          "postal": "731678"
+        }
+      ],
+      "updated": [
+        {
+          "previous": {
+            "name": "Full Bowl",
+            "address": "63 JURONG WEST CENTRAL 3 #03-105, 106, 107, 108, 109, 110, 111, 112 JURONG POINT SHOPPING CENTRE 648331",
+            "type": "Restaurant",
+            "number": "EERN21040012243",
+            "scheme": "Eating Establishment",
+            "id": "2dce1ae1-5e33-4749-952e-c14abd6ebf2b",
+            "postal": "648331"
+          },
+          "current": {
+            "name": "Tongue Tip Lanzhou Beef Noodles",
+            "address": "63 JURONG WEST CENTRAL 3 #03-105, 106, 107, 108, 109, 110, 111, 112 JURONG POINT SHOPPING CENTRE 648331",
+            "type": "Restaurant",
+            "number": "EERN21040012243",
+            "scheme": "Eating Establishment",
+            "id": "2dce1ae1-5e33-4749-952e-c14abd6ebf2b",
+            "postal": "648331"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-11-11T01:58:11.980572",
     "date": "2026-11-11",
     "summary": {
@@ -12345,30 +12742,6 @@
           "postal": "179105"
         }
       ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-09-10T00:10:04.808206",
-    "date": "2026-09-10",
-    "summary": {
-      "new": 1,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "S.P.M Trading (S) Pte Ltd",
-          "address": "108 DESKER ROAD 209630",
-          "type": "Hawker",
-          "number": "EEHK26080000129",
-          "scheme": "Eating Establishment",
-          "id": "ece00deb-1045-4725-bbb6-d4113eb075bc",
-          "postal": "209630"
-        }
-      ],
-      "removed": [],
       "updated": []
     }
   }
