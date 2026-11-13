@@ -1,5 +1,102 @@
 [
   {
+    "timestamp": "2026-11-13T02:41:53.671970",
+    "date": "2026-11-13",
+    "summary": {
+      "new": 8,
+      "removed": 1,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Good Day Cafe",
+          "address": "2 ANG MO KIO DRIVE #02-01 / 02 ITE COLLEGE CENTRAL BLK C 567720",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000040",
+          "scheme": "Eating Establishment",
+          "id": "86ffcf77-760d-4500-bc5b-ba219a8d726a",
+          "postal": "567720"
+        },
+        {
+          "name": "Kiap Kiap Mala",
+          "address": "10 SIMEI AVENUE East Delights Foodcourt #A01-05-05 ITE COLLEGE EAST 486047",
+          "type": "Hawker",
+          "number": "EEHK26110000061",
+          "scheme": "Eating Establishment",
+          "id": "ccb3160c-1e45-438b-82f5-ba8ace232b95",
+          "postal": "486047"
+        },
+        {
+          "name": "Good Day Cafe (S21) @ Makan Place Ngee Ann Polytechnic",
+          "address": "535 CLEMENTI ROAD #02-02 NGEE ANN POLYTECHNIC (BLK 51), Stall 21 599489",
+          "type": "Hawker",
+          "number": "EEHK20230001017",
+          "scheme": "Eating Establishment",
+          "id": "429cdf86-ad49-4f09-b1a8-76f6be789a7f",
+          "postal": "599489"
+        },
+        {
+          "name": "Krispi Chinese Roti . Dumpling",
+          "address": "17 PETIR ROAD MR2, Kopitiam Food Hall #02-15,#02-16,#02-17,#02-18,#02-19,#02-20 HILLION MALL 678278",
+          "type": "Hawker",
+          "number": "EEHK26110000058",
+          "scheme": "Eating Establishment",
+          "id": "4ceb31b9-de73-4d40-a467-f4b25fa62b0b",
+          "postal": "678278"
+        },
+        {
+          "name": "Soyo-Soyo (Japanese Casual Dining)",
+          "address": "2 ANG MO KIO DRIVE CENTRAL DELIGHTS FOODCOURT, STALL 4 #04-11 ITE COLLEGE CENTRAL 567720",
+          "type": "Hawker",
+          "number": "EEHK20250000866",
+          "scheme": "Eating Establishment",
+          "id": "a610d000-8965-4351-8723-e13a36a506c0",
+          "postal": "567720"
+        },
+        {
+          "name": "Good Day Cafe",
+          "address": "11 LOWER KENT RIDGE ROAD #01-02 NUS MEDICAL-SCIENCE LIBRARY 119083",
+          "type": "Restaurant",
+          "number": "EERT20240000948",
+          "scheme": "Eating Establishment",
+          "id": "86ffcf77-760d-4500-bc5b-ba219a8d726a",
+          "postal": "119083"
+        },
+        {
+          "name": "Soyo-Soyo (Japanese Casual Dining)",
+          "address": "10 SIMEI AVENUE East Gourmet Foodcourt #02-33 ITE COLLEGE EAST, Stall 6 486047",
+          "type": "Hawker",
+          "number": "EEHK26110000060",
+          "scheme": "Eating Establishment",
+          "id": "a610d000-8965-4351-8723-e13a36a506c0",
+          "postal": "486047"
+        },
+        {
+          "name": "SOYO-SOYO (JAPANESE CASUAL DINING)",
+          "address": "21 LOWER KENT RIDGE ROAD NATIONAL UNIVERSITY OF SINGAPORE, STALL 6, FRONTIER CANTEEN 119077",
+          "type": "Hawker",
+          "number": "EEHK25120000079",
+          "scheme": "Eating Establishment",
+          "id": "788e57cb-554e-425d-92bd-d04bbe468b27",
+          "postal": "119077"
+        }
+      ],
+      "removed": [
+        {
+          "name": "MR BEAN",
+          "address": "90 HOUGANG AVENUE 10 #B1-13A HOUGANG MALL 538766",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000178",
+          "scheme": "Eating Establishment",
+          "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
+          "postal": "538766"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-11-12T02:58:46.428738",
     "date": "2026-11-12",
     "summary": {
@@ -12706,40 +12803,6 @@
           "scheme": "Eating Establishment",
           "id": "90b83324-363a-4406-9afa-08b19b67522d",
           "postal": "038975"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-09-11T00:04:29.751144",
-    "date": "2026-09-11",
-    "summary": {
-      "new": 1,
-      "removed": 1,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Churros Factory",
-          "address": "551 BEDOK NORTH AVENUE 1 #01-542 460551",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB26080000046",
-          "scheme": "Eating Establishment",
-          "id": "17acabf1-3ad4-45d1-8ba3-9bd7a7dadeb5",
-          "postal": "460551"
-        }
-      ],
-      "removed": [
-        {
-          "name": "ROTIBOY",
-          "address": "107 NORTH BRIDGE ROAD #B2-32 FUNAN 179105",
-          "type": "Snack Bar / Bakery",
-          "number": "EESB20240000994",
-          "scheme": "Eating Establishment",
-          "id": "8a6fb384-7215-49ac-b9fb-e7837903b6a5",
-          "postal": "179105"
         }
       ],
       "updated": []

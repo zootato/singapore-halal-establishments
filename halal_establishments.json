@@ -11628,6 +11628,33 @@
     "postal": "169040"
   },
   {
+    "name": "Good Day Cafe",
+    "address": "11 LOWER KENT RIDGE ROAD #01-02 NUS MEDICAL-SCIENCE LIBRARY 119083",
+    "type": "Restaurant",
+    "number": "EERT20240000948",
+    "scheme": "Eating Establishment",
+    "id": "86ffcf77-760d-4500-bc5b-ba219a8d726a",
+    "postal": "119083"
+  },
+  {
+    "name": "Good Day Cafe",
+    "address": "2 ANG MO KIO DRIVE #02-01 / 02 ITE COLLEGE CENTRAL BLK C 567720",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20220000040",
+    "scheme": "Eating Establishment",
+    "id": "86ffcf77-760d-4500-bc5b-ba219a8d726a",
+    "postal": "567720"
+  },
+  {
+    "name": "Good Day Cafe (S21) @ Makan Place Ngee Ann Polytechnic",
+    "address": "535 CLEMENTI ROAD #02-02 NGEE ANN POLYTECHNIC (BLK 51), Stall 21 599489",
+    "type": "Hawker",
+    "number": "EEHK20230001017",
+    "scheme": "Eating Establishment",
+    "id": "429cdf86-ad49-4f09-b1a8-76f6be789a7f",
+    "postal": "599489"
+  },
+  {
     "name": "Good Old Days",
     "address": "60 SILOSO BEACH WALK #01-04 SENTOSA 098997",
     "type": "Restaurant",
@@ -12250,15 +12277,6 @@
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
-    "address": "4 Tampines central 5 #B1-12 tampines mall 529510",
-    "type": "Halal Section",
-    "number": "EECN21070000432",
-    "scheme": "Eating Establishment",
-    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
-    "postal": "529510"
-  },
-  {
-    "name": "Halal Section @ NTUC FAIRPRICE",
     "address": "80 MARINE PARADE ROAD #03-28 PARKWAY PARADE 449269",
     "type": "Central Kitchen",
     "number": "FPCN21050001520",
@@ -12301,6 +12319,15 @@
     "scheme": "Food Preparation Area",
     "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
     "postal": "671524"
+  },
+  {
+    "name": "Halal Section @ NTUC FAIRPRICE",
+    "address": "4 Tampines central 5 #B1-12 tampines mall 529510",
+    "type": "Halal Section",
+    "number": "EECN21070000432",
+    "scheme": "Eating Establishment",
+    "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
+    "postal": "529510"
   },
   {
     "name": "Halal Section @ NTUC FAIRPRICE",
@@ -16002,6 +16029,15 @@
     "postal": "769092"
   },
   {
+    "name": "Kiap Kiap Mala",
+    "address": "10 SIMEI AVENUE East Delights Foodcourt #A01-05-05 ITE COLLEGE EAST 486047",
+    "type": "Hawker",
+    "number": "EEHK26110000061",
+    "scheme": "Eating Establishment",
+    "id": "ccb3160c-1e45-438b-82f5-ba8ace232b95",
+    "postal": "486047"
+  },
+  {
     "name": "KIM PARADISE PTE. LTD.",
     "address": "30B QUALITY ROAD #04-102 618826",
     "type": "Catering Company",
@@ -16408,21 +16444,21 @@
   },
   {
     "name": "KOPI KORNER",
-    "address": "9 SENTUL CRESCENT #03-04 SAFRA CLUBHOUSE (PUNGGOL) 828654",
-    "type": "Restaurant",
-    "number": "EERT25100000031",
-    "scheme": "Eating Establishment",
-    "id": "c091e13f-3dbe-44a1-b12d-78da06d58861",
-    "postal": "828654"
-  },
-  {
-    "name": "KOPI KORNER",
     "address": "475 CHOA CHU KANG AVENUE 3 #01-#20 SUNSHINE PLACE 680475",
     "type": "Restaurant",
     "number": "EERT26100000168",
     "scheme": "Eating Establishment",
     "id": "c091e13f-3dbe-44a1-b12d-78da06d58861",
     "postal": "680475"
+  },
+  {
+    "name": "KOPI KORNER",
+    "address": "9 SENTUL CRESCENT #03-04 SAFRA CLUBHOUSE (PUNGGOL) 828654",
+    "type": "Restaurant",
+    "number": "EERT25100000031",
+    "scheme": "Eating Establishment",
+    "id": "c091e13f-3dbe-44a1-b12d-78da06d58861",
+    "postal": "828654"
   },
   {
     "name": "KOPIKAKIS",
@@ -16558,6 +16594,15 @@
     "scheme": "Eating Establishment",
     "id": "f5cb390b-6f6b-49d4-8e23-e687148e46af",
     "postal": "519612"
+  },
+  {
+    "name": "Krispi Chinese Roti . Dumpling",
+    "address": "17 PETIR ROAD MR2, Kopitiam Food Hall #02-15,#02-16,#02-17,#02-18,#02-19,#02-20 HILLION MALL 678278",
+    "type": "Hawker",
+    "number": "EEHK26110000058",
+    "scheme": "Eating Establishment",
+    "id": "4ceb31b9-de73-4d40-a467-f4b25fa62b0b",
+    "postal": "678278"
   },
   {
     "name": "Krispi Chinese Roti . Dumpling",
@@ -20392,15 +20437,6 @@
     "scheme": "Eating Establishment",
     "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
     "postal": "467360"
-  },
-  {
-    "name": "MR BEAN",
-    "address": "90 HOUGANG AVENUE 10 #B1-13A HOUGANG MALL 538766",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20220000178",
-    "scheme": "Eating Establishment",
-    "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
-    "postal": "538766"
   },
   {
     "name": "MR BEAN",
@@ -27379,15 +27415,6 @@
   },
   {
     "name": "Sanook Kitchen",
-    "address": "3 SIMEI STREET 6 #01-15 EASTPOINT MALL 528833",
-    "type": "Restaurant",
-    "number": "EERN21040012308",
-    "scheme": "Eating Establishment",
-    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-    "postal": "528833"
-  },
-  {
-    "name": "Sanook Kitchen",
     "address": "70 COMPASSVALE BOW #01-15/16 544692",
     "type": "Restaurant",
     "number": "EERT20230000518",
@@ -27430,6 +27457,15 @@
     "scheme": "Eating Establishment",
     "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
     "postal": "529536"
+  },
+  {
+    "name": "Sanook Kitchen",
+    "address": "3 SIMEI STREET 6 #01-15 EASTPOINT MALL 528833",
+    "type": "Restaurant",
+    "number": "EERN21040012308",
+    "scheme": "Eating Establishment",
+    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+    "postal": "528833"
   },
   {
     "name": "Sanook Kitchen",
@@ -28807,6 +28843,33 @@
     "scheme": "Eating Establishment",
     "id": "8dd7f718-761b-454e-86fb-ffc09009fc2d",
     "postal": "307591"
+  },
+  {
+    "name": "SOYO-SOYO (JAPANESE CASUAL DINING)",
+    "address": "21 LOWER KENT RIDGE ROAD NATIONAL UNIVERSITY OF SINGAPORE, STALL 6, FRONTIER CANTEEN 119077",
+    "type": "Hawker",
+    "number": "EEHK25120000079",
+    "scheme": "Eating Establishment",
+    "id": "788e57cb-554e-425d-92bd-d04bbe468b27",
+    "postal": "119077"
+  },
+  {
+    "name": "Soyo-Soyo (Japanese Casual Dining)",
+    "address": "2 ANG MO KIO DRIVE CENTRAL DELIGHTS FOODCOURT, STALL 4 #04-11 ITE COLLEGE CENTRAL 567720",
+    "type": "Hawker",
+    "number": "EEHK20250000866",
+    "scheme": "Eating Establishment",
+    "id": "a610d000-8965-4351-8723-e13a36a506c0",
+    "postal": "567720"
+  },
+  {
+    "name": "Soyo-Soyo (Japanese Casual Dining)",
+    "address": "10 SIMEI AVENUE East Gourmet Foodcourt #02-33 ITE COLLEGE EAST, Stall 6 486047",
+    "type": "Hawker",
+    "number": "EEHK26110000060",
+    "scheme": "Eating Establishment",
+    "id": "a610d000-8965-4351-8723-e13a36a506c0",
+    "postal": "486047"
   },
   {
     "name": "Spark & Flame Catering",
@@ -35218,6 +35281,15 @@
   },
   {
     "name": "TripletS",
+    "address": "1 PUNGGOL COAST ROAD 01-01 DIGIPEN INSTITUTE TECHNOLOGY OF SINGAPORE 828608",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB26010000121",
+    "scheme": "Eating Establishment",
+    "id": "93a5a81c-1ecf-48e6-9206-cad8e5504ada",
+    "postal": "828608"
+  },
+  {
+    "name": "TripletS",
     "address": "1 HOSPITAL DRIVE #01 SINGAPORE GENERAL HOSPITAL BLK 4 169608",
     "type": "Snack Bar / Bakery",
     "number": "EEBN21070012390",
@@ -35233,15 +35305,6 @@
     "scheme": "Eating Establishment",
     "id": "93a5a81c-1ecf-48e6-9206-cad8e5504ada",
     "postal": "737628"
-  },
-  {
-    "name": "TripletS",
-    "address": "1 PUNGGOL COAST ROAD 01-01 DIGIPEN INSTITUTE TECHNOLOGY OF SINGAPORE 828608",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB26010000121",
-    "scheme": "Eating Establishment",
-    "id": "93a5a81c-1ecf-48e6-9206-cad8e5504ada",
-    "postal": "828608"
   },
   {
     "name": "TripletS",
