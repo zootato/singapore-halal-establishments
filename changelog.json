@@ -1,5 +1,38 @@
 [
   {
+    "timestamp": "2026-11-14T02:19:21.180330",
+    "date": "2026-11-14",
+    "summary": {
+      "new": 2,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "L'Delicacies Pte Ltd",
+          "address": "5 MANDAI LINK #01-08/09 MANDAI FOODLINK 728654",
+          "type": "Catering Company",
+          "number": "FPCA26110000053",
+          "scheme": "Food Preparation Area",
+          "id": "4db33991-9a10-4da9-857a-54ebc0a82d8f",
+          "postal": "728654"
+        },
+        {
+          "name": "GOLDEN PILLOW 933 PTE. LTD.",
+          "address": "1 KAKI BUKIT ROAD 1 #05-11 ENTERPRISE ONE 415934",
+          "type": "Catering Company",
+          "number": "FPCA20220000508",
+          "scheme": "Food Preparation Area",
+          "id": "bd84c008-7b11-4949-8136-5d50eacf4019",
+          "postal": "415934"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-11-13T02:41:53.671970",
     "date": "2026-11-13",
     "summary": {
@@ -12742,67 +12775,6 @@
           "scheme": "Eating Establishment",
           "id": "2e83be17-2d14-440a-9f79-7847e26d9ec1",
           "postal": "677743"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-09-12T00:10:15.765831",
-    "date": "2026-09-12",
-    "summary": {
-      "new": 3,
-      "removed": 2,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Sanchon Foods Central Kitchen",
-          "address": "2 MANDAI LINK #02-01F 728664",
-          "type": "Central Kitchen",
-          "number": "FPCK26090000014",
-          "scheme": "Food Preparation Area",
-          "id": "239681ef-a9ae-4f17-b0ef-41f769c4b80a",
-          "postal": "728664"
-        },
-        {
-          "name": "Ali's Fry & Grill Western",
-          "address": "57 DAWSON ROAD STALL 08, KOUFU #02-09/10 DAWSON PLACE 142057",
-          "type": "Hawker",
-          "number": "EEHK26090000001",
-          "scheme": "Eating Establishment",
-          "id": "f68191a8-6d00-4650-8ba4-e1446fda22d1",
-          "postal": "142057"
-        },
-        {
-          "name": "Korean Cuisine Sanchon (S3)@Kopitiam Changi Airport T4",
-          "address": "10 AIRPORT BOULEVARD #02-205 CHANGI AIRPORT TERMINAL 4 819665",
-          "type": "Hawker",
-          "number": "EEHK20240000180",
-          "scheme": "Eating Establishment",
-          "id": "8c96dd61-69ba-4894-ae4e-d3f2164159f0",
-          "postal": "819665"
-        }
-      ],
-      "removed": [
-        {
-          "name": "CUMI BALI",
-          "address": "50 TRAS STREET 078989",
-          "type": "Restaurant",
-          "number": "EERN21100012935",
-          "scheme": "Eating Establishment",
-          "id": "55ec3794-3452-4d13-bcc7-319cade708ac",
-          "postal": "078989"
-        },
-        {
-          "name": "4FINGERS CRISPY CHICKEN",
-          "address": "Formula 1 Singapore Airlines Singapore Grand Prix 2026, 1 REPUBLIC BOULEVARD THE PIT BUILDING, EVL2346 038975",
-          "type": "Short Term Stall(Bazaar/Road Shows)",
-          "number": "EEST26090000009",
-          "scheme": "Eating Establishment",
-          "id": "90b83324-363a-4406-9afa-08b19b67522d",
-          "postal": "038975"
         }
       ],
       "updated": []

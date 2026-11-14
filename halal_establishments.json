@@ -11583,6 +11583,15 @@
     "postal": "229495"
   },
   {
+    "name": "GOLDEN PILLOW 933 PTE. LTD.",
+    "address": "1 KAKI BUKIT ROAD 1 #05-11 ENTERPRISE ONE 415934",
+    "type": "Catering Company",
+    "number": "FPCA20220000508",
+    "scheme": "Food Preparation Area",
+    "id": "bd84c008-7b11-4949-8136-5d50eacf4019",
+    "postal": "415934"
+  },
+  {
     "name": "GOLDENROY SOURDOUGH PIZZA",
     "address": "125 DESKER ROAD, 1ST AND 2ND STOREY 209642",
     "type": "Restaurant",
@@ -17053,6 +17062,15 @@
     "scheme": "Eating Establishment",
     "id": "9654f029-478a-446e-9e4a-6829049195b9",
     "postal": "670257"
+  },
+  {
+    "name": "L'Delicacies Pte Ltd",
+    "address": "5 MANDAI LINK #01-08/09 MANDAI FOODLINK 728654",
+    "type": "Catering Company",
+    "number": "FPCA26110000053",
+    "scheme": "Food Preparation Area",
+    "id": "4db33991-9a10-4da9-857a-54ebc0a82d8f",
+    "postal": "728654"
   },
   {
     "name": "La-Kopi/Kampong Shiok & Sedap @ SRC (Mngd By Pro*3 Institutional Catering PL)",
