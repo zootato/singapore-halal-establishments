@@ -13050,6 +13050,24 @@
     "postal": "819663"
   },
   {
+    "name": "Hebat Ayam Penyet",
+    "address": "2 TAMPINES CENTRAL 5 MR3@The Food Market Century Square #03-19 CENTURY SQUARE (MR3) 529509",
+    "type": "Hawker",
+    "number": "EEHK25100000067",
+    "scheme": "Eating Establishment",
+    "id": "f1c6eecf-4e4e-4ee1-acba-c4c4b78312b8",
+    "postal": "529509"
+  },
+  {
+    "name": "Hebat Ayam Penyet",
+    "address": "1 HARBOURFRONT WALK (S23) at Kopitiam Food Hall Vivo City #B2-40 VIVOCITY, STALL 23, KOPITIAM FOOD HALL 098585",
+    "type": "Hawker",
+    "number": "EEHK25100000066",
+    "scheme": "Eating Establishment",
+    "id": "f1c6eecf-4e4e-4ee1-acba-c4c4b78312b8",
+    "postal": "098585"
+  },
+  {
     "name": "Hello(MR3) @ Mei De Coffeeshop 279 Bukit Batok",
     "address": "279 BUKIT BATOK EAST AVENUE 3 #01-337, MR3, Mei De Coffeeshop 650279",
     "type": "Hawker",
@@ -14227,6 +14245,24 @@
     "scheme": "Eating Establishment",
     "id": "3c079cf3-d658-43fb-a2cb-84bf022670c8",
     "postal": "667979"
+  },
+  {
+    "name": "Jiak Papa Ban Mian.Fish Soup",
+    "address": "1 NORTHPOINT DRIVE #02-101 NORTHPOINT CITY, Bagus Food Hall (MR2) 768019",
+    "type": "Hawker",
+    "number": "EEHK26110000051",
+    "scheme": "Eating Establishment",
+    "id": "70ce8025-9286-488e-9f42-fc180b4dbc3d",
+    "postal": "768019"
+  },
+  {
+    "name": "Jiak Papa Handmade Noodle",
+    "address": "1 WOODLANDS SQUARE #07-03(A) CAUSEWAY POINT 738099",
+    "type": "Hawker",
+    "number": "EEHK25100000039",
+    "scheme": "Eating Establishment",
+    "id": "ab9a7aa1-fb00-4ede-a9c3-9100b7e51b95",
+    "postal": "738099"
   },
   {
     "name": "JIAN FA BBQ SEAFOOD",
@@ -20377,15 +20413,6 @@
   },
   {
     "name": "MR BEAN",
-    "address": "1 MARITIME SQUARE #01-K4 HARBOURFRONT CENTRE 099253",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20220000177",
-    "scheme": "Eating Establishment",
-    "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
-    "postal": "099253"
-  },
-  {
-    "name": "MR BEAN",
     "address": "1 FUSIONOPOLIS WAY #01-06 CONNEXIS 138632",
     "type": "Restaurant",
     "number": "EERT20220000174",
@@ -20446,6 +20473,15 @@
     "scheme": "Eating Establishment",
     "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
     "postal": "670445"
+  },
+  {
+    "name": "MR BEAN",
+    "address": "1 MARITIME SQUARE #01-K4 HARBOURFRONT CENTRE 099253",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20220000177",
+    "scheme": "Eating Establishment",
+    "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
+    "postal": "099253"
   },
   {
     "name": "MR BEAN",
@@ -24355,15 +24391,6 @@
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
-    "address": "306 WOODLANDS STREET 31 #01-17 FUCHUN NEIGHBOURHOOD CENTRE 730306",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000703",
-    "scheme": "Eating Establishment",
-    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
-    "postal": "730306"
-  },
-  {
-    "name": "PIZZA HUT SINGAPORE PTE LTD",
     "address": "66 JALAN MALU-MALU SEMBAWANG SPRINGS ESTATE 769681",
     "type": "Snack Bar / Bakery",
     "number": "EESB20250000704",
@@ -24379,6 +24406,15 @@
     "scheme": "Eating Establishment",
     "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
     "postal": "545078"
+  },
+  {
+    "name": "PIZZA HUT SINGAPORE PTE LTD",
+    "address": "306 WOODLANDS STREET 31 #01-17 FUCHUN NEIGHBOURHOOD CENTRE 730306",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000703",
+    "scheme": "Eating Establishment",
+    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
+    "postal": "730306"
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
@@ -31230,15 +31266,6 @@
     "postal": "529757"
   },
   {
-    "name": "Sunbo Express Chicken Rice & BBQ Central Kitchen",
-    "address": "10 TAMPINES NORTH DRIVE 4 #01-05/K6 JTC SPACE @ TAMPINES NORTH 528553",
-    "type": "Central Kitchen",
-    "number": "FPCK25110000037",
-    "scheme": "Food Preparation Area",
-    "id": "9fa9e5c6-5648-4bfa-84a3-a739e96b331e",
-    "postal": "528553"
-  },
-  {
     "name": "Sunbo Express Chicken Rice + BBQ",
     "address": "149 SIMS DRIVE STALL 03, FOODGLE HUB JAMES COOK UNIVERSITY SINGAPORE 387380",
     "type": "Hawker",
@@ -31606,15 +31633,6 @@
     "scheme": "Eating Establishment",
     "id": "92f90956-de91-43bc-915e-12b8de4ff829",
     "postal": "750133"
-  },
-  {
-    "name": "SWEE HENG 1989 CLASSIC",
-    "address": "6 WOODLANDS SQUARE #B2-09 WOODS SQUARE 737737",
-    "type": "Snack Bar / Bakery",
-    "number": "EEBN22020013132",
-    "scheme": "Eating Establishment",
-    "id": "92f90956-de91-43bc-915e-12b8de4ff829",
-    "postal": "737737"
   },
   {
     "name": "SWEE HENG 1989 CLASSIC",
