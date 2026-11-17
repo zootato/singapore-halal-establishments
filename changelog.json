@@ -1,5 +1,47 @@
 [
   {
+    "timestamp": "2026-11-17T04:34:54.124441",
+    "date": "2026-11-17",
+    "summary": {
+      "new": 3,
+      "removed": 0,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Wok Qi Fried Rice",
+          "address": "7 PASIR RIS CENTRAL #B2-17 PASIR RIS MALL, MR6, BAGUS 519612",
+          "type": "Hawker",
+          "number": "EEHK26100000148",
+          "scheme": "Eating Establishment",
+          "id": "43ce6d64-696a-4f1b-8a94-6bc44f543759",
+          "postal": "519612"
+        },
+        {
+          "name": "Wok Qi Fried Rice",
+          "address": "728 ANG MO KIO AVENUE 6 MR1 KPH1990 #01-4200 560728",
+          "type": "Hawker",
+          "number": "EEHK26050000073",
+          "scheme": "Eating Establishment",
+          "id": "43ce6d64-696a-4f1b-8a94-6bc44f543759",
+          "postal": "560728"
+        },
+        {
+          "name": "DELI HUB CATERING PTE. LTD.",
+          "address": "30B QUALITY ROAD #04-01/02 618826",
+          "type": "Catering Company",
+          "number": "FPCA20250000096",
+          "scheme": "Food Preparation Area",
+          "id": "58cb4690-26ec-46f6-b1a4-4016d27db927",
+          "postal": "618826"
+        }
+      ],
+      "removed": [],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-11-16T01:57:10.762659",
     "date": "2026-11-16",
     "summary": {
@@ -11915,85 +11957,6 @@
         }
       ],
       "removed": [],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-09-17T00:24:58.615869",
-    "date": "2026-09-17",
-    "summary": {
-      "new": 6,
-      "removed": 1,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "RICHTON EATS",
-          "address": "501A WELLINGTON CIRCLE #01-30 MONTREAL SPRING 751501",
-          "type": "Restaurant",
-          "number": "EERT26090000025",
-          "scheme": "Eating Establishment",
-          "id": "4d47b517-b093-48c1-b153-86fc0de9e4de",
-          "postal": "751501"
-        },
-        {
-          "name": "Oppa Korean Japanese",
-          "address": "417 YISHUN AVENUE 11 Kim San Leng #01-351, Stall 15 760417",
-          "type": "Hawker",
-          "number": "EEHK26090000022",
-          "scheme": "Eating Establishment",
-          "id": "581ec46c-efd4-4818-ace3-e6255994fd3e",
-          "postal": "760417"
-        },
-        {
-          "name": "RICHTON CAFE",
-          "address": "476A PASIR RIS DRIVE 6 #01-600 511476",
-          "type": "Restaurant",
-          "number": "EERT26090000024",
-          "scheme": "Eating Establishment",
-          "id": "c6c07ba1-c10c-4a5b-8c25-1bb0617f040d",
-          "postal": "511476"
-        },
-        {
-          "name": "DAILY CHICKEN",
-          "address": "83 PUNGGOL CENTRAL #01-66 WATERWAY POINT 828761",
-          "type": "Restaurant",
-          "number": "EERT26020000086",
-          "scheme": "Eating Establishment",
-          "id": "197e57c8-07f0-475b-8fba-154c40bb0bf0",
-          "postal": "828761"
-        },
-        {
-          "name": "TOP 73+1 Fishball Legacy",
-          "address": "532 ANG MO KIO AVENUE 10 #01-2495 CHENG SAN CENTRE 560532",
-          "type": "Restaurant",
-          "number": "EERT20230000248",
-          "scheme": "Eating Establishment",
-          "id": "9bc873fc-0be3-4a2d-a13c-a1afd18a0884",
-          "postal": "560532"
-        },
-        {
-          "name": "DAILY CHICKEN",
-          "address": "200 VICTORIA STREET #B1-06 BUGIS JUNCTION 188021",
-          "type": "Restaurant",
-          "number": "EERT26020000087",
-          "scheme": "Eating Establishment",
-          "id": "197e57c8-07f0-475b-8fba-154c40bb0bf0",
-          "postal": "188021"
-        }
-      ],
-      "removed": [
-        {
-          "name": "THE COFFEE BEAN & TEA LEAF",
-          "address": "203 UPPER THOMSON ROAD YEW LIAN PARK 574344",
-          "type": "Restaurant",
-          "number": "EERN22020013458",
-          "scheme": "Eating Establishment",
-          "id": "4d57bbd4-9bf2-4ab8-9791-05213305f92b",
-          "postal": "574344"
-        }
-      ],
       "updated": []
     }
   }

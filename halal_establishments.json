@@ -7785,6 +7785,15 @@
     "postal": "737859"
   },
   {
+    "name": "DELI HUB CATERING PTE. LTD.",
+    "address": "30B QUALITY ROAD #04-01/02 618826",
+    "type": "Catering Company",
+    "number": "FPCA20250000096",
+    "scheme": "Food Preparation Area",
+    "id": "58cb4690-26ec-46f6-b1a4-4016d27db927",
+    "postal": "618826"
+  },
+  {
     "name": "DELI SWEET PATISSERIE PRIVATE LIMITED",
     "address": "3015 BEDOK NORTH STREET 5 #06-18 SHIMEI EAST KITCHEN 486350",
     "type": "Central Kitchen",
@@ -36709,6 +36718,24 @@
     "scheme": "Eating Establishment",
     "id": "6c547d55-e1e0-4721-af0a-143d95972a68",
     "postal": "059413"
+  },
+  {
+    "name": "Wok Qi Fried Rice",
+    "address": "728 ANG MO KIO AVENUE 6 MR1 KPH1990 #01-4200 560728",
+    "type": "Hawker",
+    "number": "EEHK26050000073",
+    "scheme": "Eating Establishment",
+    "id": "43ce6d64-696a-4f1b-8a94-6bc44f543759",
+    "postal": "560728"
+  },
+  {
+    "name": "Wok Qi Fried Rice",
+    "address": "7 PASIR RIS CENTRAL #B2-17 PASIR RIS MALL, MR6, BAGUS 519612",
+    "type": "Hawker",
+    "number": "EEHK26100000148",
+    "scheme": "Eating Establishment",
+    "id": "43ce6d64-696a-4f1b-8a94-6bc44f543759",
+    "postal": "519612"
   },
   {
     "name": "WOKE RAMEN",
