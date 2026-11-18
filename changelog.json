@@ -1,5 +1,156 @@
 [
   {
+    "timestamp": "2026-11-18T03:41:14.790338",
+    "date": "2026-11-18",
+    "summary": {
+      "new": 13,
+      "removed": 2,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "MARI MARI",
+          "address": "802 BUKIT BATOK WEST AVENUE 5 #01-11 BUKIT GOMBAK MRT STATION 659083",
+          "type": "Restaurant",
+          "number": "EERN21060012459",
+          "scheme": "Eating Establishment",
+          "id": "937b188b-6952-4310-97e3-3d17b82279e6",
+          "postal": "659083"
+        },
+        {
+          "name": "Cafe@SMAG (mngd by thomson catering)",
+          "address": "17 SAKRA ROAD 627886",
+          "type": "Staff Canteen",
+          "number": "EESC25100000128",
+          "scheme": "Eating Establishment",
+          "id": "93b2b940-58ed-432c-b871-33576bb42731",
+          "postal": "627886"
+        },
+        {
+          "name": "FOUR SEASONS DURIANS PTE LTD",
+          "address": "8A ADMIRALTY STREET #01-36 FOOD XCHANGE @ ADMIRALTY 757437",
+          "type": "Central Kitchen",
+          "number": "FPCK20250000813",
+          "scheme": "Food Preparation Area",
+          "id": "79fe1cfe-c3d9-4131-a3a8-ae3175c1bb95",
+          "postal": "757437"
+        },
+        {
+          "name": "ORDINARY BURGERS",
+          "address": "1 LOWER KENT RIDGE ROAD #01-25 (PART OF RIGHT) NUH MEDICAL CENTRE 119082",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26080000055",
+          "scheme": "Eating Establishment",
+          "id": "67760be7-1a35-4c35-bd42-70e905c0dcc9",
+          "postal": "119082"
+        },
+        {
+          "name": "CAFE @ TMUC (Mngd By Thomson Catering)",
+          "address": "20 TEMBUSU CRESCENT 627610",
+          "type": "Staff Canteen",
+          "number": "EEFN21050012252",
+          "scheme": "Eating Establishment",
+          "id": "0d810eea-a5db-4f84-85d9-48364f4081f9",
+          "postal": "627610"
+        },
+        {
+          "name": "KUCINA ITALIAN RESTAURANT",
+          "address": "11 TANJONG KATONG ROAD #B1-09/10 ONE KM 437157",
+          "type": "Restaurant",
+          "number": "EERN21080012829",
+          "scheme": "Eating Establishment",
+          "id": "b8858e04-0f5c-4607-ad7a-453d11a2e549",
+          "postal": "437157"
+        },
+        {
+          "name": "FOUR SEASONS DURIANS",
+          "address": "2 TAMPINES CENTRAL 5 #B1-30 CENTURY SQUARE 529509",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000814",
+          "scheme": "Eating Establishment",
+          "id": "cf8884d2-7768-4545-979d-01cf67b22cf6",
+          "postal": "529509"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "21 TAMPINES NORTH DRIVE 2 #03 GIANT 528765",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26100000083",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "528765"
+        },
+        {
+          "name": "Thomson Catering Pte Ltd",
+          "address": "15 JALAN TEPONG #06-11 JURONG FOOD HUB 619336",
+          "type": "Catering Company",
+          "number": "FPGN21100001596",
+          "scheme": "Food Preparation Area",
+          "id": "63f41ce2-afba-41d8-a93a-693dce0a2a7b",
+          "postal": "619336"
+        },
+        {
+          "name": "Western Stall (S3) @TWRP (Mngd by Thomson Catering)",
+          "address": "1 TUAS SOUTH LANE 637301",
+          "type": "Staff Canteen",
+          "number": "EESC20220000422",
+          "scheme": "Eating Establishment",
+          "id": "083854c1-9203-4c05-b69f-7fa0ad4bbf3d",
+          "postal": "637301"
+        },
+        {
+          "name": "Indian/Bangla/Malay Stall(S2) @ TWRP(Mngd by Thomson Catering)",
+          "address": "1 TUAS SOUTH LANE 637301",
+          "type": "Staff Canteen",
+          "number": "EESC20220000421",
+          "scheme": "Eating Establishment",
+          "id": "e68a17a3-3513-491c-b83e-655cb2119a30",
+          "postal": "637301"
+        },
+        {
+          "name": "Stall 1 @Pulau Seraya Power Stn Cafeteria-Mngd by Thomson Ctrg",
+          "address": "3 SERAYA AVENUE PULAU SERAYA POWER STATION 628209",
+          "type": "Staff Canteen",
+          "number": "EEFN21070012266",
+          "scheme": "Eating Establishment",
+          "id": "e80a2b95-6900-4e89-b344-87556a5c5641",
+          "postal": "628209"
+        },
+        {
+          "name": "POLAR PUFFS & CAKES",
+          "address": "2 JURONG EAST STREET 21 #01-36 IMM BUILDING 609601",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26100000082",
+          "scheme": "Eating Establishment",
+          "id": "b2adac46-db3a-49ce-a519-0c4642c6717f",
+          "postal": "609601"
+        }
+      ],
+      "removed": [
+        {
+          "name": "SUBWAY",
+          "address": "60 JURONG WEST STREET 91 #01-03 NANYANG COMMUNITY CLUB 649040",
+          "type": "Restaurant",
+          "number": "EERN21110013198",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "649040"
+        },
+        {
+          "name": "MR BEAN",
+          "address": "50 BUKIT BATOK WEST AVENUE 3 BUKIT BATOK POLYCLINIC 659164",
+          "type": "Restaurant",
+          "number": "EERT20220000157",
+          "scheme": "Eating Establishment",
+          "id": "eac4ee95-a18c-4b71-9999-a22d314b11bf",
+          "postal": "659164"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-11-17T04:34:54.124441",
     "date": "2026-11-17",
     "summary": {
@@ -11933,30 +12084,6 @@
           "postal": "738964"
         }
       ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-09-18T00:10:08.180820",
-    "date": "2026-09-18",
-    "summary": {
-      "new": 1,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "L & M Seafood",
-          "address": "12 HAIG ROAD Stall MR1@Kedai Kopi #01-#323 HAIG VIEW 430012",
-          "type": "Hawker",
-          "number": "EEHK26090000023",
-          "scheme": "Eating Establishment",
-          "id": "a270c4f1-833f-4f1b-9f64-fad74f459d26",
-          "postal": "430012"
-        }
-      ],
-      "removed": [],
       "updated": []
     }
   }
