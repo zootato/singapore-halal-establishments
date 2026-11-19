@@ -8766,6 +8766,15 @@
     "postal": "069472"
   },
   {
+    "name": "Don Play Play Pte Ltd",
+    "address": "15 JALAN TEPONG #06-10 JURONG FOOD HUB 619336",
+    "type": "Catering Company",
+    "number": "FPCA26100000074",
+    "scheme": "Food Preparation Area",
+    "id": "bdd60e88-d27b-42c3-ae6b-e16662ba0983",
+    "postal": "619336"
+  },
+  {
     "name": "Donburi Hero",
     "address": "112 EAST COAST ROAD Part Right #01-20 112 KATONG 428802",
     "type": "Restaurant",
@@ -9367,6 +9376,15 @@
     "scheme": "Eating Establishment",
     "id": "83555d54-74f6-478d-9393-666f698a1c48",
     "postal": "828761"
+  },
+  {
+    "name": "DYNAMIC DINING HOUSE",
+    "address": "5 CHANGI VILLAGE ROAD #01-2039 500005",
+    "type": "Restaurant",
+    "number": "EERT20250000531",
+    "scheme": "Eating Establishment",
+    "id": "c7d93651-e860-4e78-89d5-79d5039cb90e",
+    "postal": "500005"
   },
   {
     "name": "D’Cuisines Savour @ 726 Restaurant",
@@ -15481,15 +15499,6 @@
   },
   {
     "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
-    "address": "1 WOODLANDS SQUARE #01-40 CAUSEWAY POINT 738099",
-    "type": "Restaurant",
-    "number": "EERN21110013023",
-    "scheme": "Eating Establishment",
-    "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
-    "postal": "738099"
-  },
-  {
-    "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
     "address": "1 SENGKANG SQUARE #B1-15 COMPASS ONE 545078",
     "type": "Restaurant",
     "number": "EERN21110012991",
@@ -15568,6 +15577,15 @@
     "scheme": "Eating Establishment",
     "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
     "postal": "680475"
+  },
+  {
+    "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
+    "address": "1 WOODLANDS SQUARE #01-40 CAUSEWAY POINT 738099",
+    "type": "Restaurant",
+    "number": "EERN21110013023",
+    "scheme": "Eating Establishment",
+    "id": "3f73e2b7-1650-4804-84f0-c6d9ab8d2ceb",
+    "postal": "738099"
   },
   {
     "name": "Kentucky Fried Chicken Management Pte Ltd (KFC)",
@@ -25705,7 +25723,7 @@
   },
   {
     "name": "Poulet",
-    "address": "252 NORTH BRIDGE ROAD #B1-65/66 RAFFLES CITY SHOPPING CENTRE,#B1-65/66 179103",
+    "address": "252 NORTH BRIDGE ROAD #B1-65/66 RAFFLES CITY SHOPPING CENTRE, #B1-65/66 179103",
     "type": "Restaurant",
     "number": "EERN21110013061",
     "scheme": "Eating Establishment",
@@ -27808,6 +27826,24 @@
     "scheme": "Eating Establishment",
     "id": "c30500d3-8278-48e1-a104-78ce76197359",
     "postal": "208539"
+  },
+  {
+    "name": "SAYBONS",
+    "address": "9 BISHAN PLACE #02-43 JUNCTION 8 579837",
+    "type": "Restaurant",
+    "number": "EERT20240000077",
+    "scheme": "Eating Establishment",
+    "id": "0dee7292-8637-4b6c-92f0-753411ad46ef",
+    "postal": "579837"
+  },
+  {
+    "name": "SAYBONS PTE LTD",
+    "address": "20 BUKIT BATOK CRESCENT #11-21 ENTERPRISE CENTRE 658080",
+    "type": "Catering Company",
+    "number": "FPCA20240000530",
+    "scheme": "Food Preparation Area",
+    "id": "167775b7-327e-4b5b-985d-d4fdbdea06a6",
+    "postal": "658080"
   },
   {
     "name": "School Canteen Stall @ UWC EAST (Mngd by Sodexo Singapore)",
@@ -32383,21 +32419,21 @@
   },
   {
     "name": "Swensen's Restaurant",
-    "address": "930 YISHUN AVENUE 2 #02-14 NORTHPOINT 769098",
-    "type": "Restaurant",
-    "number": "EERN21060012442",
-    "scheme": "Eating Establishment",
-    "id": "1571d7c4-e2ef-46c1-9a11-5c8ad2e5702d",
-    "postal": "769098"
-  },
-  {
-    "name": "Swensen's Restaurant",
     "address": "3155 COMMONWEALTH AVENUE WEST #05-31 THE CLEMENTI MALL 129588",
     "type": "Restaurant",
     "number": "EERN21060012443",
     "scheme": "Eating Establishment",
     "id": "1571d7c4-e2ef-46c1-9a11-5c8ad2e5702d",
     "postal": "129588"
+  },
+  {
+    "name": "Swensen's Restaurant",
+    "address": "930 YISHUN AVENUE 2 #02-14 NORTHPOINT 769098",
+    "type": "Restaurant",
+    "number": "EERN21060012442",
+    "scheme": "Eating Establishment",
+    "id": "1571d7c4-e2ef-46c1-9a11-5c8ad2e5702d",
+    "postal": "769098"
   },
   {
     "name": "Swensen's Restaurant",

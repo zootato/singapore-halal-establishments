@@ -1,5 +1,77 @@
 [
   {
+    "timestamp": "2026-11-19T03:14:03.831456",
+    "date": "2026-11-19",
+    "summary": {
+      "new": 4,
+      "removed": 0,
+      "updated": 1
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Don Play Play Pte Ltd",
+          "address": "15 JALAN TEPONG #06-10 JURONG FOOD HUB 619336",
+          "type": "Catering Company",
+          "number": "FPCA26100000074",
+          "scheme": "Food Preparation Area",
+          "id": "bdd60e88-d27b-42c3-ae6b-e16662ba0983",
+          "postal": "619336"
+        },
+        {
+          "name": "SAYBONS",
+          "address": "9 BISHAN PLACE #02-43 JUNCTION 8 579837",
+          "type": "Restaurant",
+          "number": "EERT20240000077",
+          "scheme": "Eating Establishment",
+          "id": "0dee7292-8637-4b6c-92f0-753411ad46ef",
+          "postal": "579837"
+        },
+        {
+          "name": "SAYBONS PTE LTD",
+          "address": "20 BUKIT BATOK CRESCENT #11-21 ENTERPRISE CENTRE 658080",
+          "type": "Catering Company",
+          "number": "FPCA20240000530",
+          "scheme": "Food Preparation Area",
+          "id": "167775b7-327e-4b5b-985d-d4fdbdea06a6",
+          "postal": "658080"
+        },
+        {
+          "name": "DYNAMIC DINING HOUSE",
+          "address": "5 CHANGI VILLAGE ROAD #01-2039 500005",
+          "type": "Restaurant",
+          "number": "EERT20250000531",
+          "scheme": "Eating Establishment",
+          "id": "c7d93651-e860-4e78-89d5-79d5039cb90e",
+          "postal": "500005"
+        }
+      ],
+      "removed": [],
+      "updated": [
+        {
+          "previous": {
+            "name": "Poulet",
+            "address": "252 NORTH BRIDGE ROAD #B1-65/66 RAFFLES CITY SHOPPING CENTRE,#B1-65/66 179103",
+            "type": "Restaurant",
+            "number": "EERN21110013061",
+            "scheme": "Eating Establishment",
+            "id": "7ff20024-e719-4938-b00e-547276bea89c",
+            "postal": "179103"
+          },
+          "current": {
+            "name": "Poulet",
+            "address": "252 NORTH BRIDGE ROAD #B1-65/66 RAFFLES CITY SHOPPING CENTRE, #B1-65/66 179103",
+            "type": "Restaurant",
+            "number": "EERN21110013061",
+            "scheme": "Eating Establishment",
+            "id": "7ff20024-e719-4938-b00e-547276bea89c",
+            "postal": "179103"
+          }
+        }
+      ]
+    }
+  },
+  {
     "timestamp": "2026-11-18T03:41:14.790338",
     "date": "2026-11-18",
     "summary": {
@@ -11976,112 +12048,6 @@
           "scheme": "Eating Establishment",
           "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
           "postal": "730548"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-09-19T00:12:35.792627",
-    "date": "2026-09-19",
-    "summary": {
-      "new": 5,
-      "removed": 5,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "STAFF CANTEEN STALL @SEAGATE W3(MNGD By PRO*3 INST CATERING PL)",
-          "address": "121 WOODLANDS AVENUE 5 SEAGATE TECHNOLOGY 739009",
-          "type": "Staff Canteen",
-          "number": "EEFX20100011514",
-          "scheme": "Eating Establishment",
-          "id": "28320a48-c1ea-42b8-b8fe-a3bcc17fe12a",
-          "postal": "739009"
-        },
-        {
-          "name": "STAFF CANTEEN STALL @SEAGATE W2(MNGD By PRO*3 INST CATERING PL)",
-          "address": "90 WOODLANDS AVENUE 7 Seagate Technology 737911",
-          "type": "Staff Canteen",
-          "number": "EEFX20100011513",
-          "scheme": "Eating Establishment",
-          "id": "095008f6-21d8-41af-8ff4-bb9c51259c9e",
-          "postal": "737911"
-        },
-        {
-          "name": "Haruyama Udon",
-          "address": "10 TAMPINES CENTRAL 1 #B1-09 TAMPINES ONE 529536",
-          "type": "Restaurant",
-          "number": "EERT20250000627",
-          "scheme": "Eating Establishment",
-          "id": "fd47b243-31f5-4a8e-91be-5b83d1f389d4",
-          "postal": "529536"
-        },
-        {
-          "name": "La-Kopi/Kampong Shiok & Sedap @ SRC (Mngd By Pro*3 Institutional Catering PL)",
-          "address": "1 MERLIMAU ROAD 628260",
-          "type": "Staff Canteen",
-          "number": "EESC20250000764",
-          "scheme": "Eating Establishment",
-          "id": "372e2899-ad11-41c4-8bca-4a60657080c1",
-          "postal": "628260"
-        },
-        {
-          "name": "Staff Cafeteria @ Wyeth Nutritionals (S) Pte Ltd (Managed By The Wok People)",
-          "address": "1 TUAS SOUTH AVENUE 4 TUAS BIOMEDICAL PARK I 637609",
-          "type": "Staff Canteen",
-          "number": "EESC20250000672",
-          "scheme": "Eating Establishment",
-          "id": "8679eb6b-6b90-4997-bbac-925f4b66f0d2",
-          "postal": "637609"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Tim Hortons",
-          "address": "1 HARBOURFRONT WALK #01-207 VIVOCITY 098585",
-          "type": "Restaurant",
-          "number": "EERT26020000001",
-          "scheme": "Eating Establishment",
-          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-          "postal": "098585"
-        },
-        {
-          "name": "Tim Hortons",
-          "address": "23 SERANGOON CENTRAL #01-10 NEX 556083",
-          "type": "Restaurant",
-          "number": "EERT26020000002",
-          "scheme": "Eating Establishment",
-          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-          "postal": "556083"
-        },
-        {
-          "name": "Telur Thai (S19) @ Kopitiam Tampines Mall",
-          "address": "4 TAMPINES CENTRAL 5 #04-27 TAMPINES MALL, Stall 19 529510",
-          "type": "Hawker",
-          "number": "EEHK20240000079",
-          "scheme": "Eating Establishment",
-          "id": "135a9f83-f2f4-40b3-8aac-e663ee9034df",
-          "postal": "529510"
-        },
-        {
-          "name": "Tim Hortons",
-          "address": "3 TEMASEK BOULEVARD #01-314 SUNTEC CITY MALL 038983",
-          "type": "Restaurant",
-          "number": "EERT26020000003",
-          "scheme": "Eating Establishment",
-          "id": "624c6a20-fbd9-43bd-b461-3ee4d21c0b46",
-          "postal": "038983"
-        },
-        {
-          "name": "SUBWAY",
-          "address": "9 WOODLANDS AVENUE 9 #01-02/03 REPUBLIC POLYTECHNIC 738964",
-          "type": "Restaurant",
-          "number": "EERN21110013109",
-          "scheme": "Eating Establishment",
-          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-          "postal": "738964"
         }
       ],
       "updated": []
