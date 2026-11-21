@@ -13797,6 +13797,15 @@
     "postal": "528764"
   },
   {
+    "name": "Im Qalb",
+    "address": "4 TAMPINES CENTRAL 5 #04-02 TAMPINES MALL 529510",
+    "type": "Restaurant",
+    "number": "EERT26110000076",
+    "scheme": "Eating Establishment",
+    "id": "692c6c58-0429-4645-88fe-2a63e401c2d2",
+    "postal": "529510"
+  },
+  {
     "name": "IMPERIAL MANUFACTURING PTE. LTD.",
     "address": "1550 BEDOK NORTH AVENUE 4 #03-19 489950",
     "type": "Catering Company",
@@ -14992,6 +15001,15 @@
     "scheme": "Eating Establishment",
     "id": "b32c7fec-8b44-4514-9ed0-7f006ea6d1cd",
     "postal": "237994"
+  },
+  {
+    "name": "Kaka's House of Padang",
+    "address": "160 CHANGI ROAD #01-08 HEXACUBE 419728",
+    "type": "Restaurant",
+    "number": "EERT26110000068",
+    "scheme": "Eating Establishment",
+    "id": "6941b78e-78fa-4fa5-9739-a7b130897b4a",
+    "postal": "419728"
   },
   {
     "name": "KAKI MAKAN CAFE",
@@ -23076,6 +23094,15 @@
     "postal": "489950"
   },
   {
+    "name": "Omar Shariff",
+    "address": "14 GREENWOOD AVENUE HILLCREST PARK 289206",
+    "type": "Restaurant",
+    "number": "EERT26110000070",
+    "scheme": "Eating Establishment",
+    "id": "33ed0496-3129-473e-8c4a-541b4c859674",
+    "postal": "289206"
+  },
+  {
     "name": "OMMAS JAP & KOREAN (S3) @ KOFFEE T:ME SKVILLE @ DAWSON",
     "address": "85 DAWSON ROAD #01-02 SKYVILLE @ DAWSON, STALL 3 141085",
     "type": "Hawker",
@@ -30601,15 +30628,6 @@
   },
   {
     "name": "SUBWAY",
-    "address": "15 TAMPINES CENTRAL 1 #B1-07 TAMPINES MRT STATION (DT32) 529544",
-    "type": "Restaurant",
-    "number": "EERT26040000059",
-    "scheme": "Eating Establishment",
-    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-    "postal": "529544"
-  },
-  {
-    "name": "SUBWAY",
     "address": "68 ORCHARD ROAD #B2-33/34 PLAZA SINGAPURA 238839",
     "type": "Restaurant",
     "number": "EERT20220000916",
@@ -30877,6 +30895,15 @@
     "scheme": "Eating Establishment",
     "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
     "postal": "649845"
+  },
+  {
+    "name": "SUBWAY",
+    "address": "15 TAMPINES CENTRAL 1 #B1-07 TAMPINES MRT STATION (DT32) 529544",
+    "type": "Restaurant",
+    "number": "EERT26040000059",
+    "scheme": "Eating Establishment",
+    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+    "postal": "529544"
   },
   {
     "name": "SUBWAY",
@@ -35350,6 +35377,15 @@
     "scheme": "Eating Establishment",
     "id": "2dce1ae1-5e33-4749-952e-c14abd6ebf2b",
     "postal": "788887"
+  },
+  {
+    "name": "Tongue Tip Lanzhou Beef Noodles",
+    "address": "8 WILKIE ROAD #01-16 WILKIE EDGE 228095",
+    "type": "Restaurant",
+    "number": "EERT26110000065",
+    "scheme": "Eating Establishment",
+    "id": "2dce1ae1-5e33-4749-952e-c14abd6ebf2b",
+    "postal": "228095"
   },
   {
     "name": "TOP 73+1 Fishball Legacy",
