@@ -2970,6 +2970,15 @@
     "postal": "228211"
   },
   {
+    "name": "Bakes n Bites",
+    "address": "51 OLD AIRPORT ROAD #01-164/165 OLD AIRPORT ROAD HAWKERS' CENTRE 390051",
+    "type": "Hawker",
+    "number": "EEHK20220000498",
+    "scheme": "Eating Establishment",
+    "id": "36de0ff8-5175-4b0a-a371-c08575896b23",
+    "postal": "390051"
+  },
+  {
     "name": "Bali Thai Restaurant",
     "address": "391 ORCHARD ROAD #05-29 TAKASHIMAYA SHOPPING CENTRE 238872",
     "type": "Restaurant",
@@ -9889,15 +9898,6 @@
     "scheme": "Eating Establishment",
     "id": "008ded89-78a7-4d68-8a1e-8fdc67f56423",
     "postal": "467360"
-  },
-  {
-    "name": "Encik Tan",
-    "address": "1 HARBOURFRONT WALK #B2-45 VIVOCITY 098585",
-    "type": "Restaurant",
-    "number": "EERT25120000006",
-    "scheme": "Eating Establishment",
-    "id": "008ded89-78a7-4d68-8a1e-8fdc67f56423",
-    "postal": "098585"
   },
   {
     "name": "Encik Tan",
@@ -17748,6 +17748,15 @@
     "postal": "769100"
   },
   {
+    "name": "LUXE NOMS",
+    "address": "9 YIO CHU KANG ROAD #01-03 SPACE @ KOVAN 545523",
+    "type": "Restaurant",
+    "number": "EERT26110000066",
+    "scheme": "Eating Establishment",
+    "id": "7e6e14ad-3326-46da-81e9-abd6bcae143e",
+    "postal": "545523"
+  },
+  {
     "name": "LYE HENG FOOD SUPPLIES PTE. LTD.",
     "address": "15 WOODLANDS LOOP #04-22 738322",
     "type": "Catering Company",
@@ -19926,6 +19935,15 @@
     "postal": "529950"
   },
   {
+    "name": "Minang House",
+    "address": "304 ORCHARD ROAD #02-66/67 LUCKY PLAZA 238863",
+    "type": "Restaurant",
+    "number": "EERT26110000075",
+    "scheme": "Eating Establishment",
+    "id": "93f09dfc-e567-44f5-9e63-02559263f0e3",
+    "postal": "238863"
+  },
+  {
     "name": "Ming Yen BBQ & Seafood (S67 & S68) @ Kopitiam Lau Pa Sat",
     "address": "18 RAFFLES QUAY LAU PA SAT FESTIVAL MARKET, Stall 67 & Stall 68 048582",
     "type": "Hawker",
@@ -20005,6 +20023,15 @@
     "scheme": "Eating Establishment",
     "id": "311d52e3-9c2f-41fd-aa84-d6260525efa5",
     "postal": "759775"
+  },
+  {
+    "name": "MON CHINESE BEEF ROTI",
+    "address": "1 HARBOURFRONT WALK #03-01 VIVOCITY, MR 12 FOOD REPUBLIC 098585",
+    "type": "Hawker",
+    "number": "EEHK25100000081",
+    "scheme": "Eating Establishment",
+    "id": "0147257b-9597-49d0-a47c-9af9f71c8a8a",
+    "postal": "098585"
   },
   {
     "name": "MONSTER CHILI GRILLED FISH & BBQ SEAFOOD",
@@ -21952,15 +21979,6 @@
   },
   {
     "name": "NENE CHICKEN",
-    "address": "628 SENJA ROAD STALL 8, KOPITIAM CORNER #01-07 SENJA CENTRE 670628",
-    "type": "Hawker",
-    "number": "EEHK26030000072",
-    "scheme": "Eating Establishment",
-    "id": "c2a3daa9-ec19-4a9f-8474-752b3cbfb1ff",
-    "postal": "670628"
-  },
-  {
-    "name": "NENE CHICKEN",
     "address": "1 TAMPINES WALK #01-81 OUR TAMPINES HUB 528523",
     "type": "Restaurant",
     "number": "EERX22010013420",
@@ -23103,6 +23121,15 @@
     "postal": "289206"
   },
   {
+    "name": "Omar Shariff",
+    "address": "14 GREENWOOD AVENUE HILLCREST PARK 289206",
+    "type": "Catering Company",
+    "number": "FPCA26110000071",
+    "scheme": "Food Preparation Area",
+    "id": "33ed0496-3129-473e-8c4a-541b4c859674",
+    "postal": "289206"
+  },
+  {
     "name": "OMMAS JAP & KOREAN (S3) @ KOFFEE T:ME SKVILLE @ DAWSON",
     "address": "85 DAWSON ROAD #01-02 SKYVILLE @ DAWSON, STALL 3 141085",
     "type": "Hawker",
@@ -23326,6 +23353,15 @@
     "scheme": "Eating Establishment",
     "id": "e4f29781-2410-48b8-b295-a3ec24b58ac2",
     "postal": "529509"
+  },
+  {
+    "name": "Padang Lezat",
+    "address": "78 AIRPORT BOULEVARD Food Republic Stall 1 #B2-238 JEWEL CHANGI AIRPORT 819666",
+    "type": "Hawker",
+    "number": "EEHK26110000085",
+    "scheme": "Eating Establishment",
+    "id": "e4f29781-2410-48b8-b295-a3ec24b58ac2",
+    "postal": "819666"
   },
   {
     "name": "Padang Lezat Indonesian Nasi Padang",
@@ -27136,6 +27172,15 @@
   },
   {
     "name": "SAAP SAAP THAI",
+    "address": "180 KITCHENER ROAD #B2-#K3,#K4,#K5 CITY SQUARE MALL 208539",
+    "type": "Restaurant",
+    "number": "EERT26110000063",
+    "scheme": "Eating Establishment",
+    "id": "9589c31f-fee1-4b1e-925f-755094a68b7a",
+    "postal": "208539"
+  },
+  {
+    "name": "SAAP SAAP THAI",
     "address": "1 JOO KOON CIRCLE #01-40/43/46A FAIRPRICE HUB 629117",
     "type": "Restaurant",
     "number": "EERN21100012927",
@@ -27730,15 +27775,6 @@
   },
   {
     "name": "Sanook Kitchen",
-    "address": "1 STADIUM PLACE #01-16/K8 397628",
-    "type": "Restaurant",
-    "number": "EERN21080012848",
-    "scheme": "Eating Establishment",
-    "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
-    "postal": "397628"
-  },
-  {
-    "name": "Sanook Kitchen",
     "address": "10 PAYA LEBAR ROAD #03-28/29 PLQ MALL 409057",
     "type": "Restaurant",
     "number": "EERT20220001029",
@@ -28330,6 +28366,15 @@
     "scheme": "Eating Establishment",
     "id": "5739622a-8892-4b96-b914-940ac630286a",
     "postal": "528765"
+  },
+  {
+    "name": "Selesa Sedap Chicken Rice",
+    "address": "1 NORTHUMBERLAND ROAD #01-11/12/13/14 PICCADILLY GALLERIA/PICCADILLY GRAND KOUFU, STALL 4 219568",
+    "type": "Hawker",
+    "number": "EEHK26100000129",
+    "scheme": "Eating Establishment",
+    "id": "cfb13400-f36f-45a3-ab48-0c7a15516fea",
+    "postal": "219568"
   },
   {
     "name": "SEMBAWANG EATING HOUSE (SEAFOOD RESTAURANT) PTE. LTD.",
@@ -29178,15 +29223,6 @@
     "postal": "486121"
   },
   {
-    "name": "Springleaf Prata Place",
-    "address": "310 ORCHARD ROAD #B1-05 Hawkers Street (Stall7) TANG PLAZA 238864",
-    "type": "Hawker",
-    "number": "EEHK26010000115",
-    "scheme": "Eating Establishment",
-    "id": "2ea4c2d6-6230-4857-b632-cdd6d86a5c50",
-    "postal": "238864"
-  },
-  {
     "name": "SPRINGLEAF PRATA PLACE",
     "address": "106 CLEMENTI STREET 12 #01-64 SUNSET WAY ESTATE 120106",
     "type": "Restaurant",
@@ -29203,6 +29239,15 @@
     "scheme": "Eating Establishment",
     "id": "97aab0ac-414e-458a-9758-d335f07b1e6b",
     "postal": "347836"
+  },
+  {
+    "name": "Springleaf Prata Place",
+    "address": "310 ORCHARD ROAD #B1-05 Hawkers Street (Stall7) TANG PLAZA 238864",
+    "type": "Hawker",
+    "number": "EEHK26010000115",
+    "scheme": "Eating Establishment",
+    "id": "2ea4c2d6-6230-4857-b632-cdd6d86a5c50",
+    "postal": "238864"
   },
   {
     "name": "SPRINGLEAF PRATA PLACE",
@@ -31390,15 +31435,6 @@
     "scheme": "Eating Establishment",
     "id": "ea44ca19-7f5f-413a-bfb9-d461ce817f02",
     "postal": "569830"
-  },
-  {
-    "name": "Sunbo Chicken Rice (S6)@Koufu Woodlands Health",
-    "address": "17 WOODLANDS DRIVE 17 #B1-03/04, Stall 6 737628",
-    "type": "Hawker",
-    "number": "EEHK20240001043",
-    "scheme": "Eating Establishment",
-    "id": "6aa0197a-5a40-4f4c-81b5-4d05fe5602a9",
-    "postal": "737628"
   },
   {
     "name": "Sunbo Express Chicken Rice",

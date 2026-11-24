@@ -1,5 +1,129 @@
 [
   {
+    "timestamp": "2026-11-24T05:59:05.119499",
+    "date": "2026-11-24",
+    "summary": {
+      "new": 8,
+      "removed": 4,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "Omar Shariff",
+          "address": "14 GREENWOOD AVENUE HILLCREST PARK 289206",
+          "type": "Catering Company",
+          "number": "FPCA26110000071",
+          "scheme": "Food Preparation Area",
+          "id": "33ed0496-3129-473e-8c4a-541b4c859674",
+          "postal": "289206"
+        },
+        {
+          "name": "SAAP SAAP THAI",
+          "address": "180 KITCHENER ROAD #B2-#K3,#K4,#K5 CITY SQUARE MALL 208539",
+          "type": "Restaurant",
+          "number": "EERT26110000063",
+          "scheme": "Eating Establishment",
+          "id": "9589c31f-fee1-4b1e-925f-755094a68b7a",
+          "postal": "208539"
+        },
+        {
+          "name": "Bakes n Bites",
+          "address": "51 OLD AIRPORT ROAD #01-164/165 OLD AIRPORT ROAD HAWKERS' CENTRE 390051",
+          "type": "Hawker",
+          "number": "EEHK20220000498",
+          "scheme": "Eating Establishment",
+          "id": "36de0ff8-5175-4b0a-a371-c08575896b23",
+          "postal": "390051"
+        },
+        {
+          "name": "Minang House",
+          "address": "304 ORCHARD ROAD #02-66/67 LUCKY PLAZA 238863",
+          "type": "Restaurant",
+          "number": "EERT26110000075",
+          "scheme": "Eating Establishment",
+          "id": "93f09dfc-e567-44f5-9e63-02559263f0e3",
+          "postal": "238863"
+        },
+        {
+          "name": "Selesa Sedap Chicken Rice",
+          "address": "1 NORTHUMBERLAND ROAD #01-11/12/13/14 PICCADILLY GALLERIA/PICCADILLY GRAND KOUFU, STALL 4 219568",
+          "type": "Hawker",
+          "number": "EEHK26100000129",
+          "scheme": "Eating Establishment",
+          "id": "cfb13400-f36f-45a3-ab48-0c7a15516fea",
+          "postal": "219568"
+        },
+        {
+          "name": "Padang Lezat",
+          "address": "78 AIRPORT BOULEVARD Food Republic Stall 1 #B2-238 JEWEL CHANGI AIRPORT 819666",
+          "type": "Hawker",
+          "number": "EEHK26110000085",
+          "scheme": "Eating Establishment",
+          "id": "e4f29781-2410-48b8-b295-a3ec24b58ac2",
+          "postal": "819666"
+        },
+        {
+          "name": "LUXE NOMS",
+          "address": "9 YIO CHU KANG ROAD #01-03 SPACE @ KOVAN 545523",
+          "type": "Restaurant",
+          "number": "EERT26110000066",
+          "scheme": "Eating Establishment",
+          "id": "7e6e14ad-3326-46da-81e9-abd6bcae143e",
+          "postal": "545523"
+        },
+        {
+          "name": "MON CHINESE BEEF ROTI",
+          "address": "1 HARBOURFRONT WALK #03-01 VIVOCITY, MR 12 FOOD REPUBLIC 098585",
+          "type": "Hawker",
+          "number": "EEHK25100000081",
+          "scheme": "Eating Establishment",
+          "id": "0147257b-9597-49d0-a47c-9af9f71c8a8a",
+          "postal": "098585"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Sunbo Chicken Rice (S6)@Koufu Woodlands Health",
+          "address": "17 WOODLANDS DRIVE 17 #B1-03/04, Stall 6 737628",
+          "type": "Hawker",
+          "number": "EEHK20240001043",
+          "scheme": "Eating Establishment",
+          "id": "6aa0197a-5a40-4f4c-81b5-4d05fe5602a9",
+          "postal": "737628"
+        },
+        {
+          "name": "NENE CHICKEN",
+          "address": "628 SENJA ROAD STALL 8, KOPITIAM CORNER #01-07 SENJA CENTRE 670628",
+          "type": "Hawker",
+          "number": "EEHK26030000072",
+          "scheme": "Eating Establishment",
+          "id": "c2a3daa9-ec19-4a9f-8474-752b3cbfb1ff",
+          "postal": "670628"
+        },
+        {
+          "name": "Sanook Kitchen",
+          "address": "1 STADIUM PLACE #01-16/K8 397628",
+          "type": "Restaurant",
+          "number": "EERN21080012848",
+          "scheme": "Eating Establishment",
+          "id": "35fc820b-7762-4fa0-ab5e-7c545a3c9c54",
+          "postal": "397628"
+        },
+        {
+          "name": "Encik Tan",
+          "address": "1 HARBOURFRONT WALK #B2-45 VIVOCITY 098585",
+          "type": "Restaurant",
+          "number": "EERT25120000006",
+          "scheme": "Eating Establishment",
+          "id": "008ded89-78a7-4d68-8a1e-8fdc67f56423",
+          "postal": "098585"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-11-21T03:12:34.723311",
     "date": "2026-11-21",
     "summary": {
@@ -11701,30 +11825,6 @@
           "postal": "486038"
         }
       ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-09-23T00:24:39.467851",
-    "date": "2026-09-23",
-    "summary": {
-      "new": 1,
-      "removed": 0,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "Namsan Gol Korean restaurant",
-          "address": "7 ANG MO KIO STREET 66 #01-13 FLORAVISTA 567708",
-          "type": "Restaurant",
-          "number": "EERT26080000128",
-          "scheme": "Eating Establishment",
-          "id": "f2676aff-ce4f-48aa-81e8-236d3baa944e",
-          "postal": "567708"
-        }
-      ],
-      "removed": [],
       "updated": []
     }
   }
