@@ -14913,6 +14913,15 @@
     "postal": "229899"
   },
   {
+    "name": "KAFFE & TOAST",
+    "address": "30 EUNOS CRESCENT #01-#01 EUNOS MRT STATION (EW7) 409423",
+    "type": "Restaurant",
+    "number": "EERT26110000086",
+    "scheme": "Eating Establishment",
+    "id": "bf19dd23-8f34-4621-88b5-aacf84905fe9",
+    "postal": "409423"
+  },
+  {
     "name": "Kaffe & Toast",
     "address": "900 SOUTH WOODLANDS DRIVE #01-09 WOODLANDS CIVIC CENTRE 730900",
     "type": "Restaurant",
@@ -16738,6 +16747,15 @@
     "scheme": "Eating Establishment",
     "id": "f5cb390b-6f6b-49d4-8e23-e687148e46af",
     "postal": "519612"
+  },
+  {
+    "name": "Krispi Chinese Roti . Dumpling",
+    "address": "4 TAMPINES CENTRAL 5 Stall 03, Kopitiam #04-27,#04-28,#04-29 TAMPINES MALL 529510",
+    "type": "Hawker",
+    "number": "EEHK26110000081",
+    "scheme": "Eating Establishment",
+    "id": "f5cb390b-6f6b-49d4-8e23-e687148e46af",
+    "postal": "529510"
   },
   {
     "name": "Krispi Chinese Roti . Dumpling",
@@ -30661,15 +30679,6 @@
     "scheme": "Eating Establishment",
     "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
     "postal": "529705"
-  },
-  {
-    "name": "SUBWAY",
-    "address": "10 TAMPINES CENTRAL 1 #B1-K20 TAMPINES ONE 529536",
-    "type": "Restaurant",
-    "number": "EERT20240001240",
-    "scheme": "Eating Establishment",
-    "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
-    "postal": "529536"
   },
   {
     "name": "SUBWAY",
