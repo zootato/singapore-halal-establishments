@@ -13132,6 +13132,15 @@
   },
   {
     "name": "Hebat Ayam Penyet",
+    "address": "10 AIRPORT BOULEVARD #02-205 CHANGI AIRPORT TERMINAL 4 KOPITIAM, Stall 10 819665",
+    "type": "Hawker",
+    "number": "EEHK20250000559",
+    "scheme": "Eating Establishment",
+    "id": "1e42adbd-f854-4afb-87c2-f3689afc408e",
+    "postal": "819665"
+  },
+  {
+    "name": "Hebat Ayam Penyet",
     "address": "1 HARBOURFRONT WALK (S23) at Kopitiam Food Hall Vivo City #B2-40 VIVOCITY, STALL 23, KOPITIAM FOOD HALL 098585",
     "type": "Hawker",
     "number": "EEHK25100000066",
@@ -17226,6 +17235,15 @@
     "postal": "670257"
   },
   {
+    "name": "L&H CATERING",
+    "address": "2A MANDAI ESTATE #07-02 CT FOODNEX 729928",
+    "type": "Catering Company",
+    "number": "FPCA26110000092",
+    "scheme": "Food Preparation Area",
+    "id": "6ab69ba2-dd8b-4799-9f99-fa5d36ea7c34",
+    "postal": "729928"
+  },
+  {
     "name": "L'Delicacies Pte Ltd",
     "address": "5 MANDAI LINK #01-08/09 MANDAI FOODLINK 728654",
     "type": "Catering Company",
@@ -18466,6 +18484,51 @@
     "scheme": "Eating Establishment",
     "id": "65d2417d-c70b-421c-8067-800f6f95d3aa",
     "postal": "544886"
+  },
+  {
+    "name": "MAMANDA  The Dining Room",
+    "address": "48 BOON LAY WAY #03-06 The Chevrons 609961",
+    "type": "Restaurant",
+    "number": "EERT20250000650",
+    "scheme": "Eating Establishment",
+    "id": "cba16482-3f27-4f13-b4d3-4f2b341948b7",
+    "postal": "609961"
+  },
+  {
+    "name": "Mamanda - The Tablespread",
+    "address": "900 BEDOK NORTH ROAD #02-01 HOMETEAMNS BEDOK RESERVOIR 479994",
+    "type": "Restaurant",
+    "number": "EERT20250000839",
+    "scheme": "Eating Establishment",
+    "id": "d1e79a02-1b9c-48c5-b42d-337ba59b5ddd",
+    "postal": "479994"
+  },
+  {
+    "name": "Mamanda - The Tablespread",
+    "address": "900 BEDOK NORTH ROAD #02-01 HOMETEAMNS BEDOK RESERVOIR 479994",
+    "type": "Catering Company",
+    "number": "FPCA26100000170",
+    "scheme": "Food Preparation Area",
+    "id": "d1e79a02-1b9c-48c5-b42d-337ba59b5ddd",
+    "postal": "479994"
+  },
+  {
+    "name": "MAMANDA PTE. LTD.",
+    "address": "8 WOODLANDS LINK #04-03 KONG GUAN INDUSTRIAL BUILDING 738738",
+    "type": "Catering Company",
+    "number": "FPCA20220000518",
+    "scheme": "Food Preparation Area",
+    "id": "b961c472-af06-4f36-8fe3-b40394b3eca4",
+    "postal": "738738"
+  },
+  {
+    "name": "Mamanda The Dining Room",
+    "address": "48 BOON LAY WAY #03-06 The Chevrons 609961",
+    "type": "Catering Company",
+    "number": "FPCA26100000171",
+    "scheme": "Food Preparation Area",
+    "id": "47f39a71-420a-4a9c-afd5-008c04027e26",
+    "postal": "609961"
   },
   {
     "name": "Mamma Mia !",
@@ -24562,15 +24625,6 @@
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
-    "address": "888 WOODLANDS DRIVE 50 #01-729 888 PLAZA 730888",
-    "type": "Snack Bar / Bakery",
-    "number": "EESB20250000702",
-    "scheme": "Eating Establishment",
-    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
-    "postal": "730888"
-  },
-  {
-    "name": "PIZZA HUT SINGAPORE PTE LTD",
     "address": "66 JALAN MALU-MALU SEMBAWANG SPRINGS ESTATE 769681",
     "type": "Snack Bar / Bakery",
     "number": "EESB20250000704",
@@ -24586,6 +24640,15 @@
     "scheme": "Eating Establishment",
     "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
     "postal": "545078"
+  },
+  {
+    "name": "PIZZA HUT SINGAPORE PTE LTD",
+    "address": "888 WOODLANDS DRIVE 50 #01-729 888 PLAZA 730888",
+    "type": "Snack Bar / Bakery",
+    "number": "EESB20250000702",
+    "scheme": "Eating Establishment",
+    "id": "e622d67a-d3f9-4600-89e9-00c069b21b87",
+    "postal": "730888"
   },
   {
     "name": "PIZZA HUT SINGAPORE PTE LTD",
@@ -32455,6 +32518,15 @@
   },
   {
     "name": "Swensen's Restaurant",
+    "address": "3155 COMMONWEALTH AVENUE WEST #05-31 THE CLEMENTI MALL 129588",
+    "type": "Restaurant",
+    "number": "EERN21060012443",
+    "scheme": "Eating Establishment",
+    "id": "1571d7c4-e2ef-46c1-9a11-5c8ad2e5702d",
+    "postal": "129588"
+  },
+  {
+    "name": "Swensen's Restaurant",
     "address": "30 SEMBAWANG DRIVE #02-21/22 SUN PLAZA 757713",
     "type": "Restaurant",
     "number": "EERN21060012435",
@@ -32488,15 +32560,6 @@
     "scheme": "Eating Establishment",
     "id": "1571d7c4-e2ef-46c1-9a11-5c8ad2e5702d",
     "postal": "738099"
-  },
-  {
-    "name": "Swensen's Restaurant",
-    "address": "3155 COMMONWEALTH AVENUE WEST #05-31 THE CLEMENTI MALL 129588",
-    "type": "Restaurant",
-    "number": "EERN21060012443",
-    "scheme": "Eating Establishment",
-    "id": "1571d7c4-e2ef-46c1-9a11-5c8ad2e5702d",
-    "postal": "129588"
   },
   {
     "name": "Swensen's Restaurant",
