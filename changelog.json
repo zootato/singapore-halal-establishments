@@ -1,5 +1,327 @@
 [
   {
+    "timestamp": "2026-11-27T04:09:22.407677",
+    "date": "2026-11-27",
+    "summary": {
+      "new": 20,
+      "removed": 14,
+      "updated": 0
+    },
+    "changes": {
+      "new": [
+        {
+          "name": "A&W",
+          "address": "311 NEW UPPER CHANGI ROAD #01-05,#01-06,#01-07,#01-08 BEDOK INTEGRATED TRANSPORT HUB 467360",
+          "type": "Restaurant",
+          "number": "EERT26110000104",
+          "scheme": "Eating Establishment",
+          "id": "6582f2a0-3687-45a5-8822-fe3666534ec0",
+          "postal": "467360"
+        },
+        {
+          "name": "Cik Lim Yong Tau Foo",
+          "address": "133 CANBERRA VIEW MR2 at Bagus #01-21, #01-22, #01-23 Canberra Plaza CANBERRA PLAZA 750133",
+          "type": "Hawker",
+          "number": "EEHK26110000099",
+          "scheme": "Eating Establishment",
+          "id": "df18d690-6cb0-4db6-8f1e-2480898e6f58",
+          "postal": "750133"
+        },
+        {
+          "name": "A&W",
+          "address": "83 PUNGGOL CENTRAL #B1-22 WATERWAY POINT 828761",
+          "type": "Restaurant",
+          "number": "EERT26110000103",
+          "scheme": "Eating Establishment",
+          "id": "6582f2a0-3687-45a5-8822-fe3666534ec0",
+          "postal": "828761"
+        },
+        {
+          "name": "Auntie Anne's",
+          "address": "80 MARINE PARADE ROAD #B1-08 PARKWAY PARADE 449269",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21110012956",
+          "scheme": "Eating Establishment",
+          "id": "c32f85a6-9613-4879-a39e-f540487f0733",
+          "postal": "449269"
+        },
+        {
+          "name": "Auntie Anne's",
+          "address": "1 HARBOUR FRONT WALK #B2-K6 VIVO CITY 098585",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21110012958",
+          "scheme": "Eating Establishment",
+          "id": "c32f85a6-9613-4879-a39e-f540487f0733",
+          "postal": "098585"
+        },
+        {
+          "name": "Ahjuma Korean & Japanese Food",
+          "address": "1 NORTHPOINT DRIVE #02-101, #02-102, #02-103 NORTHPOINT CITY, Stall 6, Bagus Food Hall 768019",
+          "type": "Hawker",
+          "number": "EEHK26110000105",
+          "scheme": "Eating Establishment",
+          "id": "17be5038-cfe8-4da5-b42d-f9bb8e6c4d41",
+          "postal": "768019"
+        },
+        {
+          "name": "WOK EXPRESS",
+          "address": "31 LOWER KENT RIDGE ROAD NATIONAL UNIVERSITY OF SINGAPORE, YUSOF ISHAK HOUSE, (LEVEL 1, KIOSK 1) 119078",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20250000674",
+          "scheme": "Eating Establishment",
+          "id": "6a76fb2a-4645-4920-b4c2-be3159954019",
+          "postal": "119078"
+        },
+        {
+          "name": "Mama's Corner",
+          "address": "47 SIMS PLACE #01-169 SIMS VISTA 380047",
+          "type": "Restaurant",
+          "number": "EERT25100000021",
+          "scheme": "Eating Establishment",
+          "id": "f5bafd71-1c2e-4359-9d26-119a130a344e",
+          "postal": "380047"
+        },
+        {
+          "name": "Auntie Anne's",
+          "address": "10 PAYA LEBAR ROAD #B2-K7 PAYA LEBAR QUARTER,B2-K7 409057",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21110012955",
+          "scheme": "Eating Establishment",
+          "id": "c32f85a6-9613-4879-a39e-f540487f0733",
+          "postal": "409057"
+        },
+        {
+          "name": "ANAS BAKERY",
+          "address": "12 BEDOK NORTH DRIVE #02-15 Right Part Of 465492",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20230000428",
+          "scheme": "Eating Establishment",
+          "id": "730fd850-bdfe-44de-b7bd-904c2a1c9fc5",
+          "postal": "465492"
+        },
+        {
+          "name": "Auntie Anne's",
+          "address": "78 AIRPORT BOULEVARD #B2-272 JEWEL CHANGI AIRPORT 819666",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21110012957",
+          "scheme": "Eating Establishment",
+          "id": "c32f85a6-9613-4879-a39e-f540487f0733",
+          "postal": "819666"
+        },
+        {
+          "name": "GRAIN PTE. LTD.",
+          "address": "5 BURN ROAD #05-01, #06-03 TEE YIH JIA FOOD BUILDING 369972",
+          "type": "Catering Company",
+          "number": "FPGN21100001606",
+          "scheme": "Food Preparation Area",
+          "id": "22592f09-eb20-4ce8-992d-6d2d6b07c620",
+          "postal": "369972"
+        },
+        {
+          "name": "Auntie Anne's",
+          "address": "930 YISHUN AVENUE 2 #B1-25 769098",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21110012959",
+          "scheme": "Eating Establishment",
+          "id": "c32f85a6-9613-4879-a39e-f540487f0733",
+          "postal": "769098"
+        },
+        {
+          "name": "Auntie Anne's",
+          "address": "50 JURONG GATEWAY ROAD #B1-32 JEM 608549",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000455",
+          "scheme": "Eating Establishment",
+          "id": "c32f85a6-9613-4879-a39e-f540487f0733",
+          "postal": "608549"
+        },
+        {
+          "name": "Auntie Anne's",
+          "address": "68 ORCHARD ROAD #B2-37 PLAZA SINGAPURA 238839",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21110012953",
+          "scheme": "Eating Establishment",
+          "id": "c32f85a6-9613-4879-a39e-f540487f0733",
+          "postal": "238839"
+        },
+        {
+          "name": "Xiang Lian Korean & Japanese Food",
+          "address": "678A WOODLANDS AVENUE 6 Stall 5, Bagus #02-05 ADMIRALTY WET MARKET & FOOD CENTRE 731678",
+          "type": "Hawker",
+          "number": "EEHK26110000090",
+          "scheme": "Eating Establishment",
+          "id": "4278811d-32a1-49c2-8fa1-df829b093005",
+          "postal": "731678"
+        },
+        {
+          "name": "Auntie Anne's",
+          "address": "23 SERANGOON CENTRAL #03-K10 NEX 556083",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21110012952",
+          "scheme": "Eating Establishment",
+          "id": "c32f85a6-9613-4879-a39e-f540487f0733",
+          "postal": "556083"
+        },
+        {
+          "name": "Auntie Anne's",
+          "address": "83 PUNGGOL CENTRAL #B1-K13A WATERWAY POINT 828761",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000303",
+          "scheme": "Eating Establishment",
+          "id": "c32f85a6-9613-4879-a39e-f540487f0733",
+          "postal": "828761"
+        },
+        {
+          "name": "ANAS BAKERY",
+          "address": "84 REDHILL LANE #01-358 150084",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB26020000092",
+          "scheme": "Eating Establishment",
+          "id": "730fd850-bdfe-44de-b7bd-904c2a1c9fc5",
+          "postal": "150084"
+        },
+        {
+          "name": "Ban Mian",
+          "address": "1 JURONG WEST CENTRAL 2 Stall 6 at Bagus #B1-43 JURONG POINT 648886",
+          "type": "Hawker",
+          "number": "EEHK26110000106",
+          "scheme": "Eating Establishment",
+          "id": "abf1a3cb-75ff-4ba3-b654-6d47b59545bd",
+          "postal": "648886"
+        }
+      ],
+      "removed": [
+        {
+          "name": "Warehouse @ Chrisna Jenio Pte Ltd (Auntie Anne’s / RROOLL)",
+          "address": "50 JURONG GATEWAY ROAD #B1-32 JEM 608549",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000455",
+          "scheme": "Eating Establishment",
+          "id": "b75b12a6-173e-403b-984f-ea338662de63",
+          "postal": "608549"
+        },
+        {
+          "name": "Warehouse @ Chrisna Jenio Pte Ltd (Auntie Anne’s / RROOLL)",
+          "address": "10 PAYA LEBAR ROAD #B2-K7 PAYA LEBAR QUARTER,B2-K7 409057",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21110012955",
+          "scheme": "Eating Establishment",
+          "id": "b75b12a6-173e-403b-984f-ea338662de63",
+          "postal": "409057"
+        },
+        {
+          "name": "Warehouse @ Chrisna Jenio Pte Ltd (Auntie Anne’s / RROOLL)",
+          "address": "930 YISHUN AVENUE 2 #B1-25 769098",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21110012959",
+          "scheme": "Eating Establishment",
+          "id": "b75b12a6-173e-403b-984f-ea338662de63",
+          "postal": "769098"
+        },
+        {
+          "name": "Warehouse @ Chrisna Jenio Pte Ltd (Auntie Anne’s / RROOLL)",
+          "address": "68 ORCHARD ROAD #B2-37 PLAZA SINGAPURA 238839",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21110012953",
+          "scheme": "Eating Establishment",
+          "id": "b75b12a6-173e-403b-984f-ea338662de63",
+          "postal": "238839"
+        },
+        {
+          "name": "Warehouse @ Chrisna Jenio Pte Ltd (Auntie Anne’s / RROOLL)",
+          "address": "23 SERANGOON CENTRAL #03-K10 NEX 556083",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21110012952",
+          "scheme": "Eating Establishment",
+          "id": "b75b12a6-173e-403b-984f-ea338662de63",
+          "postal": "556083"
+        },
+        {
+          "name": "Long John Silver's",
+          "address": "1 PASIR RIS CENTRAL STREET 3 #02-31/32 518457",
+          "type": "Restaurant",
+          "number": "EERT20240000013",
+          "scheme": "Eating Establishment",
+          "id": "04a22cc8-410f-41ad-977c-224cb8a85e4c",
+          "postal": "518457"
+        },
+        {
+          "name": "GRAIN PTE. LTD.",
+          "address": "5 BURN ROAD #05-01, #06-03 TEE YIH JIA FOOD BUILDING 369972",
+          "type": "Catering Company",
+          "number": "FPGN21100001606",
+          "scheme": "Food Preparation Area",
+          "id": "16af735b-707b-4848-8e97-414224d24424",
+          "postal": "369972"
+        },
+        {
+          "name": "PEZZO",
+          "address": "1 NORTHPOINT DRIVE #B2-152 NORTHPOINT CITY 768019",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBX22010013066",
+          "scheme": "Eating Establishment",
+          "id": "49b74e8e-3054-4cf6-ac23-1aa44135302b",
+          "postal": "768019"
+        },
+        {
+          "name": "STUFF'D",
+          "address": "1 JURONG EAST STREET 21 #02-17/18 609606",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20240001064",
+          "scheme": "Eating Establishment",
+          "id": "a8427a3e-4663-45c2-ac3b-4a8d0f946d26",
+          "postal": "609606"
+        },
+        {
+          "name": "Warehouse @ Chrisna Jenio Pte Ltd (Auntie Anne’s / RROOLL)",
+          "address": "78 AIRPORT BOULEVARD #B2-272 JEWEL CHANGI AIRPORT 819666",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21110012957",
+          "scheme": "Eating Establishment",
+          "id": "b75b12a6-173e-403b-984f-ea338662de63",
+          "postal": "819666"
+        },
+        {
+          "name": "Warehouse @ Chrisna Jenio Pte Ltd (Auntie Anne’s / RROOLL)",
+          "address": "80 MARINE PARADE ROAD #B1-08 PARKWAY PARADE 449269",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21110012956",
+          "scheme": "Eating Establishment",
+          "id": "b75b12a6-173e-403b-984f-ea338662de63",
+          "postal": "449269"
+        },
+        {
+          "name": "SUBWAY",
+          "address": "456 JURONG WEST STREET 41 #01-744 640456",
+          "type": "Restaurant",
+          "number": "EERN21110013118",
+          "scheme": "Eating Establishment",
+          "id": "8f8a812e-a782-41ce-8b8f-503d10e22218",
+          "postal": "640456"
+        },
+        {
+          "name": "Warehouse @ Chrisna Jenio Pte Ltd (Auntie Anne’s / RROOLL)",
+          "address": "1 HARBOUR FRONT WALK #B2-K6 VIVO CITY 098585",
+          "type": "Snack Bar / Bakery",
+          "number": "EEBN21110012958",
+          "scheme": "Eating Establishment",
+          "id": "b75b12a6-173e-403b-984f-ea338662de63",
+          "postal": "098585"
+        },
+        {
+          "name": "Warehouse @ Chrisna Jenio Pte Ltd (Auntie Anne’s / RROOLL)",
+          "address": "83 PUNGGOL CENTRAL #B1-K13A WATERWAY POINT 828761",
+          "type": "Snack Bar / Bakery",
+          "number": "EESB20220000303",
+          "scheme": "Eating Establishment",
+          "id": "b75b12a6-173e-403b-984f-ea338662de63",
+          "postal": "828761"
+        }
+      ],
+      "updated": []
+    }
+  },
+  {
     "timestamp": "2026-11-26T04:12:39.420433",
     "date": "2026-11-26",
     "summary": {
@@ -11226,220 +11548,6 @@
           "scheme": "Eating Establishment",
           "id": "74cc8312-eeef-4bad-bea7-830b869d482e",
           "postal": "677743"
-        }
-      ],
-      "updated": []
-    }
-  },
-  {
-    "timestamp": "2026-09-26T00:40:24.233866",
-    "date": "2026-09-26",
-    "summary": {
-      "new": 20,
-      "removed": 2,
-      "updated": 0
-    },
-    "changes": {
-      "new": [
-        {
-          "name": "FIRSTBOWL",
-          "address": "33 SENGKANG WEST AVENUE #01-09,#01-10,#01-11,#01-12,#01-13,#01-14 THE SELETAR MALL 797653",
-          "type": "Restaurant",
-          "number": "EERT26090000039",
-          "scheme": "Eating Establishment",
-          "id": "624fc333-c19d-4e95-9f9b-3512315e882e",
-          "postal": "797653"
-        },
-        {
-          "name": "SHIOK BURGER",
-          "address": "53 ANG MO KIO AVENUE 3 Part Left #01-21,#01-22 AMK HUB 569933",
-          "type": "Restaurant",
-          "number": "EERT26090000043",
-          "scheme": "Eating Establishment",
-          "id": "4fcad118-8dea-4300-a6a9-f4bf6b4d7efa",
-          "postal": "569933"
-        },
-        {
-          "name": "SHIOK BURGER",
-          "address": "252 NORTH BRIDGE ROAD #B1-79 RAFFLES CITY SHOPPING CENTRE 179103",
-          "type": "Restaurant",
-          "number": "EERT20240000394",
-          "scheme": "Eating Establishment",
-          "id": "deb990f6-a72a-4974-a911-8bddf5352e1c",
-          "postal": "179103"
-        },
-        {
-          "name": "SHIOK BURGER",
-          "address": "33 SENGKANG WEST AVENUE #01-09, #01-10, #01-11, #01-12, #01-13, #01-14 THE SELETAR MALL 797653",
-          "type": "Restaurant",
-          "number": "EERT20250000808",
-          "scheme": "Eating Establishment",
-          "id": "4fcad118-8dea-4300-a6a9-f4bf6b4d7efa",
-          "postal": "797653"
-        },
-        {
-          "name": "SHIOK BURGER",
-          "address": "1 LENTOR CENTRAL #01-32 LENTOR MODERN 788887",
-          "type": "Restaurant",
-          "number": "EERT26090000044",
-          "scheme": "Eating Establishment",
-          "id": "4fcad118-8dea-4300-a6a9-f4bf6b4d7efa",
-          "postal": "788887"
-        },
-        {
-          "name": "DELIBOWL EXPRESS",
-          "address": "5 Straits View #B2-41/42 The Heart 018935",
-          "type": "Restaurant",
-          "number": "EERT20250000809",
-          "scheme": "Eating Establishment",
-          "id": "edb38eb8-18c5-47ae-8b12-94344b052439",
-          "postal": "018935"
-        },
-        {
-          "name": "SHIOK BURGER",
-          "address": "1 SENGKANG SQUARE #01-36 COMPASS ONE 545078",
-          "type": "Restaurant",
-          "number": "EERT20240000825",
-          "scheme": "Eating Establishment",
-          "id": "4fcad118-8dea-4300-a6a9-f4bf6b4d7efa",
-          "postal": "545078"
-        },
-        {
-          "name": "Firstbowl",
-          "address": "60 PAYA LEBAR ROAD #01-77, #01-80 PAYA LEBAR SQUARE 409051",
-          "type": "Restaurant",
-          "number": "EERT26090000038",
-          "scheme": "Eating Establishment",
-          "id": "9a2f3a83-cf05-4968-a8b9-35dda56fae8a",
-          "postal": "409051"
-        },
-        {
-          "name": "Firstbowl",
-          "address": "107 NORTH BRIDGE ROAD #02-06 FUNAN 179105",
-          "type": "Restaurant",
-          "number": "EERT26090000037",
-          "scheme": "Eating Establishment",
-          "id": "9a2f3a83-cf05-4968-a8b9-35dda56fae8a",
-          "postal": "179105"
-        },
-        {
-          "name": "Firstbowl",
-          "address": "1 LENTOR CENTRAL (Part Of - Right) #01-32 LENTOR MODERN 788887",
-          "type": "Restaurant",
-          "number": "EERT26090000036",
-          "scheme": "Eating Establishment",
-          "id": "9a2f3a83-cf05-4968-a8b9-35dda56fae8a",
-          "postal": "788887"
-        },
-        {
-          "name": "DELIBOWL (S17) @ KOPITIAM TAMPINES MALL",
-          "address": "4 TAMPINES CENTRAL 5 #04-27/28/29 TAMPINES MALL 529510",
-          "type": "Hawker",
-          "number": "EEHK20240001223",
-          "scheme": "Eating Establishment",
-          "id": "6ca4cfc4-8b0f-4795-a4f7-b7fff030ef49",
-          "postal": "529510"
-        },
-        {
-          "name": "SHIOK BURGER",
-          "address": "302 TIONG BAHRU ROAD #01-159 TIONG BAHRU PLAZA 168732",
-          "type": "Restaurant",
-          "number": "EERT26090000046",
-          "scheme": "Eating Establishment",
-          "id": "08478e80-bba9-41b4-8404-144f2ec85bb8",
-          "postal": "168732"
-        },
-        {
-          "name": "SHIOK BURGER",
-          "address": "7 PASIR RIS CENTRAL (Part of Right) #B2-44 PASIR RIS MALL 519612",
-          "type": "Restaurant",
-          "number": "EERT26090000045",
-          "scheme": "Eating Establishment",
-          "id": "4fcad118-8dea-4300-a6a9-f4bf6b4d7efa",
-          "postal": "519612"
-        },
-        {
-          "name": "DELIBOWL EXPRESS",
-          "address": "8A MARINA BOULEVARD #B2-67, #B2-67A GROUND PLAZA (MARINA BAY LINK MALL) 018984",
-          "type": "Restaurant",
-          "number": "EERT26090000040",
-          "scheme": "Eating Establishment",
-          "id": "edb38eb8-18c5-47ae-8b12-94344b052439",
-          "postal": "018984"
-        },
-        {
-          "name": "SHIOK BURGER",
-          "address": "1 TAMPINES WALK #B1-K3 OUR TAMPINES HUB 528523",
-          "type": "Restaurant",
-          "number": "EERT20250000807",
-          "scheme": "Eating Establishment",
-          "id": "4fcad118-8dea-4300-a6a9-f4bf6b4d7efa",
-          "postal": "528523"
-        },
-        {
-          "name": "SHIOK BURGER",
-          "address": "60 PAYA LEBAR ROAD #01-77 PAYA LEBAR SQUARE 409051",
-          "type": "Restaurant",
-          "number": "EERT20240000396",
-          "scheme": "Eating Establishment",
-          "id": "4fcad118-8dea-4300-a6a9-f4bf6b4d7efa",
-          "postal": "409051"
-        },
-        {
-          "name": "Firstbowl",
-          "address": "7 PASIR RIS CENTRAL (Part of Left) #B2-44 PASIR RIS MALL 519612",
-          "type": "Restaurant",
-          "number": "EERT26090000034",
-          "scheme": "Eating Establishment",
-          "id": "9a2f3a83-cf05-4968-a8b9-35dda56fae8a",
-          "postal": "519612"
-        },
-        {
-          "name": "DELIBOWL EXPRESS",
-          "address": "23 SERANGOON CENTRAL 04-15, 04-16 NEX 556083",
-          "type": "Restaurant",
-          "number": "EERT26090000041",
-          "scheme": "Eating Establishment",
-          "id": "edb38eb8-18c5-47ae-8b12-94344b052439",
-          "postal": "556083"
-        },
-        {
-          "name": "Firstbowl",
-          "address": "1 SENGKANG SQUARE #01-36 COMPASS ONE 545078",
-          "type": "Restaurant",
-          "number": "EERT26010000054",
-          "scheme": "Eating Establishment",
-          "id": "9a2f3a83-cf05-4968-a8b9-35dda56fae8a",
-          "postal": "545078"
-        },
-        {
-          "name": "The Kiosk",
-          "address": "6A NAPIER ROAD #02-21, #02-22 24-HOUR WALK-IN CLINIC (GLENEAGLES HOSPITAL), CANTINE (STALL 1) 258500",
-          "type": "Hawker",
-          "number": "EEHK26090000027",
-          "scheme": "Eating Establishment",
-          "id": "e1fcfd32-05e6-449b-a63f-85d7686be500",
-          "postal": "258500"
-        }
-      ],
-      "removed": [
-        {
-          "name": "Halal Section @ NTUC FAIRPRICE",
-          "address": "866A TAMPINES STREET 83 #01-01 TAMPINES CENTRAL COMMUNITY COMPLEX 521866",
-          "type": "Central Kitchen",
-          "number": "FPCK20240000259",
-          "scheme": "Food Preparation Area",
-          "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
-          "postal": "521866"
-        },
-        {
-          "name": "Halal Section @ NTUC FAIRPRICE",
-          "address": "642 SENJA CLOSE #01-01 670642",
-          "type": "Central Kitchen",
-          "number": "FPCK20230000108",
-          "scheme": "Food Preparation Area",
-          "id": "a1a69f2c-1926-475b-afa9-73efa6b685e1",
-          "postal": "670642"
         }
       ],
       "updated": []
